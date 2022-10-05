@@ -1,7 +1,11 @@
 <?php
 
-$print_errors_at_end = true;
-$output_type = "osm";  // tab or osm
+$print_errors_at_end = false;
+// tab, osm, or geojson  
+// (note: when using tab outout, addresses that are missing a house number are outputted 
+// so they can be reviewed. They are not included in the osm output type.)
+// geojson was quickly hacked on as a way of filtering out bad features from the original geojson file.
+$output_type = "osm";  
 
 // Post processing steps
 // 1. search the output for the string "error" to deal with any issues
@@ -9,7 +13,7 @@ $output_type = "osm";  // tab or osm
 //  a. streets that start with Mc
 //  b. streets that have apostrophes (eg. O'Niel)
 
-$file = './input_file_of_town_e911_addresses.geojson';
+$file = './town_e911_address_points/e911_address_points_townname.geojson';
 
 $data = json_decode(file_get_contents($file), true);
 
@@ -97,6 +101,19 @@ foreach($data['features'] as $feature) {
         $output .= $street . "\t";
         $output .= $zip_code . "\t";
         $output .= $esiteid . "\n";
+
+    } elseif(count($feature_errors) == 0 && $output_type == "geojson") {
+
+        $coordinates = array($long, $lat);
+        $properties = array("house_number" => $house_number, "street" => $street);
+        $geometry = array("type" => "Point", "coordinates" => $coordinates);
+        $feature = array("type" => "Feature", "properties" => $properties, "geometry" => $geometry);
+
+        // todo: geojson output is a hack
+        // this adds an extraneous common to the last feature that needs to be removed
+        // but not sure it is worth reworking
+        $output .= json_encode($feature) . ",\n";
+
     }
 
     $node_id--;
@@ -132,6 +149,8 @@ if($print_errors_at_end) {
 function output_header($output_type) {
     if($output_type == "osm") {
         $header = "<?xml version='1.0' encoding='UTF-8'?>\n<osm version='0.6' generator='JOSM'>\n";
+    } elseif($output_type == "geojson") {
+        $header = "{\"type\": \"FeatureCollection\", \"features\": [\n";
     } else {
         $header = "";
     }
@@ -142,6 +161,8 @@ function output_header($output_type) {
 function output_footer($output_type) {
     if($output_type == "osm") {
         $footer = "</osm>\n";
+    } elseif($output_type == "geojson") {
+        $footer = "]}\n";
     } else {
         $footer = "";
     }
@@ -256,6 +277,11 @@ function normalize_street_base_name($street_name) {
     // OSM shows "U.S. Route #" where was e911 has US Route 5
     if(preg_match('/us route (.+)/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "U.S. Route " . $matches[1];
+    }
+
+    // VCGI data uses "NFR", which should be expanded to "National Forest Road"
+    if(preg_match('/nfr (.+)/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "National Forest Road " . $matches[1];
     }
 
     return $street_name_title_cased;
