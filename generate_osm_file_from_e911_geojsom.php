@@ -265,7 +265,7 @@ function normalize_street_base_name($street_name) {
     // If street name starts with "Vt " replace with uppercase "VT "
     // todo: decide if this should be expanded to "Vermont"
     if(preg_match('/^Vt (.+)/i', $street_name_title_cased, $matches)) {
-        $street_name_title_cased = "VT " . $matches[1];
+        $street_name_title_cased = "Vermont " . $matches[1];
     }
 
     // If street name starts with Mc, fix it so next letter is also uppercase.
@@ -282,6 +282,11 @@ function normalize_street_base_name($street_name) {
     // VCGI data uses "NFR", which should be expanded to "National Forest Road"
     if(preg_match('/nfr (.+)/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "National Forest Road " . $matches[1];
+    }
+
+    // expand when hwy is in the middle of the street name (eg. Town Hwy 11)
+    if(preg_match('/town hwy (.+)/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "Town Highway " . $matches[1];
     }
 
     return $street_name_title_cased;
