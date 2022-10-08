@@ -15,6 +15,8 @@ $output_type = "osm";
 
 $file = './town_e911_address_points/e911_address_points_townname.geojson';
 
+///////////////////////////////////////////////////////
+
 $data = json_decode(file_get_contents($file), true);
 
 $node_id = -100;
@@ -290,23 +292,27 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Town Highway " . $matches[1];
     }
 
-    // Hubbardton has a road called LHCS that needs to be all caps
+    // Hubbardton has a street called LHCS that needs to be all caps
     if(preg_match('/^lhcs(.*)/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "LHCS" . $matches[1];
     }
 
-    // Hubbardton has a road called "SFH"... not sure what it stands for, but capitlizing it
+    // Hubbardton has a street called "SFH"... not sure what it stands for, but capitlizing it
     if(preg_match('/^sfh/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "SFH";
     }
 
-    // Brookfiled has a roads with "EXT" in the ST (street type) field, which causes
+    // Brookfiled has a street with "EXT" in the ST (street type) field, which causes
     // Rd and Ln to be put at the end of the SN (street name) field, so we need to expand the street name abbreviation as well 
     if(preg_match('/(.+) (Ave|Ln|Rd|St)/i', $street_name_title_cased, $matches)) {
         $expanded_suffix = expand_street_name_suffix($matches[2]);
         $street_name_title_cased = $matches[1] . " " . $expanded_suffix;
     }
 
+    // Brookfiled has a street that starts with "Dr".  Expand to "Doctor"
+    if(preg_match('/^Dr (.+)/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "Doctor " . $matches[1];
+    }
 
     return $street_name_title_cased;
 }
