@@ -5,7 +5,7 @@ $print_errors_at_end = false;
 // (note: when using tab outout, addresses that are missing a house number are outputted 
 // so they can be reviewed. They are not included in the osm output type.)
 // geojson was quickly hacked on as a way of filtering out bad features from the original geojson file.
-$output_type = "osm";  
+$output_type = "osm";
 
 // Post processing steps
 // 1. search the output for the string "error" to deal with any issues
@@ -285,9 +285,28 @@ function normalize_street_base_name($street_name) {
     }
 
     // expand when hwy is in the middle of the street name (eg. Town Hwy 11)
+    // originally found in Granville
     if(preg_match('/town hwy (.+)/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "Town Highway " . $matches[1];
     }
+
+    // Hubbardton has a road called LHCS that needs to be all caps
+    if(preg_match('/^lhcs(.*)/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "LHCS" . $matches[1];
+    }
+
+    // Hubbardton has a road called "SFH"... not sure what it stands for, but capitlizing it
+    if(preg_match('/^sfh/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "SFH";
+    }
+
+    // Brookfiled has a roads with "EXT" in the ST (street type) field, which causes
+    // Rd and Ln to be put at the end of the SN (street name) field, so we need to expand the street name abbreviation as well 
+    if(preg_match('/(.+) (Ave|Ln|Rd|St)/i', $street_name_title_cased, $matches)) {
+        $expanded_suffix = expand_street_name_suffix($matches[2]);
+        $street_name_title_cased = $matches[1] . " " . $expanded_suffix;
+    }
+
 
     return $street_name_title_cased;
 }
