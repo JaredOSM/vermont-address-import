@@ -214,7 +214,7 @@ function build_street_name($feature_properties) {
         if(!empty($suffix_direction)) {
             $suffix_direction = expand_direction($suffix_direction);
 
-            $final_street_name .= $final_street_name;
+            $final_street_name .= $suffix_direction;
         }
     }
 
@@ -300,6 +300,11 @@ function normalize_street_base_name($street_name) {
     // Hubbardton has a street called "SFH"... not sure what it stands for, but capitlizing it
     if(preg_match('/^sfh/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "SFH";
+    }
+
+    // Middlebury has a street name HMKL that should be capitalized. (esiteid: 155140)
+    if(preg_match('/^hmkl/i', $street_name_title_cased)) {
+        $street_name_title_cased = "HMKL";
     }
 
     // Brookfiled has a street with "EXT" in the ST (street type) field, which causes
@@ -389,6 +394,7 @@ function expand_street_name_suffix($street_name_suffix) {
                             "centre" => "Center",
                             "cir" => "Circle",
                             "circ" => "Circle",
+                            "cirs" => "Circles",
                             "circl" => "Circle",
                             "circle" => "Circle",
                             "circles" => "Circles",
