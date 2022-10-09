@@ -1,11 +1,61 @@
+#!/usr/bin/env php
 <?php
 
 $print_errors_at_end = false;
-// tab, osm, or geojson  
-// (note: when using tab outout, addresses that are missing a house number are outputted 
+// tab, osm, or geojson
+// (note: when using tab outout, addresses that are missing a house number are outputted
 // so they can be reviewed. They are not included in the osm output type.)
 // geojson was quickly hacked on as a way of filtering out bad features from the original geojson file.
-$output_type = "osm";  
+$output_type = "osm";
+
+$help = "
+
+". $argv[0] . " [-hv] [--help] [--verbose] [--output-type=osm|tab|geojson] <file.geojson>
+
+  -h --help           Show this help
+  -v --verbose        Print errors at the end.
+  --output-type       Format of the output, default is osm.
+
+  <file.geojson>      The input geojson file.
+
+";
+
+#options
+$options = getopt("h", ["help", "output-type::"], $reset_index);
+if ($options === FALSE || isset($options["h"]) || isset($options["help"])) {
+  print $help;
+  exit(1);
+}
+if (isset($options["output-type"])) {
+  if (!in_array($options["output-type"], ["osm", "tab", "geojson"])) {
+    print "Invalid output type: '".$options["output-type"]."'. Must be one of osm, tab, geojson.";
+    print $help;
+    exit(2);
+  }
+  $output_type = $options["output-type"];
+}
+if (isset($options['v']) || isset($options['verbose'])) {
+  $print_errors_at_end = true;
+}
+
+# file
+$pos_args = array_slice($argv, $reset_index);
+if (!count($pos_args)) {
+  print "You must specify an input file.";
+  print $help;
+  exit(2);
+}
+$file = $pos_args[0];
+if (!file_exists($file)) {
+  print "File $file does not exist.";
+  print $help;
+  exit(3);
+}
+if (!is_readable($file)) {
+  print "File $file is not readable.";
+  print $help;
+  exit(3);
+}
 
 // Post processing steps
 // 1. search the output for the string "error" to deal with any issues
@@ -13,9 +63,12 @@ $output_type = "osm";
 //  a. streets that start with Mc
 //  b. streets that have apostrophes (eg. O'Niel)
 
-$file = './town_e911_address_points/e911_address_points_townname.geojson';
-
 $data = json_decode(file_get_contents($file), true);
+if (is_null($data)) {
+  print "Failed decoding JSON from $file";
+  print $help;
+  exit(4);
+}
 
 $node_id = -100;
 $all_errors = array();
@@ -31,7 +84,7 @@ foreach($data['features'] as $feature) {
         $esiteid = NULL;
         $feature_errors[] = "ESITEID value is empty";
     }
-    
+
     if(!empty($feature['properties']['GPSX'])) {
         $long = $feature['properties']['GPSX'];
     } else {
@@ -68,7 +121,7 @@ foreach($data['features'] as $feature) {
         $street = NULL;
         $feature_errors[] = "SN (street name) value is empty: (esiteid: " . $esiteid . ")";
     }
-    
+
     if(!empty($feature['properties']['ZIP'])) {
         $zip_code = $feature['properties']['ZIP'];
     } else {
@@ -238,13 +291,13 @@ function expand_direction($prefix_direction) {
                 break;
             case 'S':
                 $expanded_prefix_direction = "South";
-                break;            
+                break;
             case 'SE':
                 $expanded_prefix_direction = "Southeast";
-                break;  
+                break;
             case 'W':
                 $expanded_prefix_direction = "West";
-                break;  
+                break;
             default:
                 $expanded_prefix_direction = "error 100";
                 break;
@@ -252,14 +305,14 @@ function expand_direction($prefix_direction) {
     } else {
         $expanded_prefix_direction = NULL;
     }
-    
+
     return $expanded_prefix_direction;
 }
 
 function normalize_street_base_name($street_name) {
 
     // todo: deal with street names with apostrophes (eg. O'Neil)
-    
+
     $street_name_title_cased = ucwords(strtolower(trim($street_name)));
 
     // If street name starts with "Vt " replace with uppercase "VT "
