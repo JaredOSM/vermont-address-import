@@ -23,13 +23,13 @@ $help = "
 #options
 $options = getopt("h", ["help", "output-type::"], $reset_index);
 if ($options === FALSE || isset($options["h"]) || isset($options["help"])) {
-  print $help;
+  fwrite(STDERR, $help);
   exit(1);
 }
 if (isset($options["output-type"])) {
   if (!in_array($options["output-type"], ["osm", "tab", "geojson"])) {
-    print "Invalid output type: '".$options["output-type"]."'. Must be one of osm, tab, geojson.";
-    print $help;
+    fwrite(STDERR, "Invalid output type: '".$options["output-type"]."'. Must be one of osm, tab, geojson.");
+    fwrite(STDERR, $help);
     exit(2);
   }
   $output_type = $options["output-type"];
@@ -41,19 +41,19 @@ if (isset($options['v']) || isset($options['verbose'])) {
 # file
 $pos_args = array_slice($argv, $reset_index);
 if (!count($pos_args)) {
-  print "You must specify an input file.";
-  print $help;
+  fwrite(STDERR, "You must specify an input file.");
+  fwrite(STDERR, $help);
   exit(2);
 }
 $file = $pos_args[0];
 if (!file_exists($file)) {
-  print "File $file does not exist.";
-  print $help;
+  fwrite(STDERR, "File $file does not exist.");
+  fwrite(STDERR, $help);
   exit(3);
 }
 if (!is_readable($file)) {
-  print "File $file is not readable.";
-  print $help;
+  fwrite(STDERR, "File $file is not readable.");
+  fwrite(STDERR, $help);
   exit(3);
 }
 
@@ -65,8 +65,8 @@ if (!is_readable($file)) {
 
 $data = json_decode(file_get_contents($file), true);
 if (is_null($data)) {
-  print "Failed decoding JSON from $file";
-  print $help;
+  fwrite(STDERR, "Failed decoding JSON from $file");
+  fwrite(STDERR, $help);
   exit(4);
 }
 
@@ -177,18 +177,18 @@ $output .= output_footer($output_type);
 print $output;
 
 if($print_errors_at_end) {
-    print "\n----------ERRORS----------\n";
+    fwrite(STDERR, "\n----------ERRORS----------\n");
     if(count($all_errors) > 0) {
         $i = 1;
         foreach($all_errors as $feature_errors) {
             foreach($feature_errors as $error_item) {
-                print $i . " " . $error_item . "\n";
+                fwrite(STDERR, $i . " " . $error_item . "\n");
                 $i++;
             }
 
         }
     } else {
-        print "no errors\n";
+        fwrite(STDERR, "no errors\n");
     }
 }
 
