@@ -15,6 +15,17 @@ $output_type = "osm";
 
 $file = './town_e911_address_points/e911_address_points_townname.geojson';
 
+
+if(!file_exists($file)) {
+    print "file not found: " . $file . "\n";
+    exit();
+}
+
+// keep track of the exclude list in a Google sheet and expose it as a JSON feed
+$exclude_addresses_url = 'https://opensheet.elk.sh/1KBFFDpwLjOhRtCZCuxOd4D4ozBBaxOWhnw0Koe_25Tc/e911+Address+Point+do+not+import+list';
+$exclude_addresses = json_decode(file_get_contents($exclude_addresses_url), true);
+$excluded_output = array(); // store the records we skipped for logging at the end
+
 ///////////////////////////////////////////////////////
 
 $data = json_decode(file_get_contents($file), true);
@@ -80,44 +91,53 @@ foreach($data['features'] as $feature) {
 
     $all_errors[] = $feature_errors;
 
-    // if we don't have any errors in our data
-    if(count($feature_errors) == 0 && $output_type == "osm") {
+    // search the esiteid in the exclude list.
+    // if it is found in the exclude list, don't output it
+    $key = array_search($esiteid, array_column($exclude_addresses, 'esiteid'));
+    if($key === false) {    // the esiteid was NOT found in the exclude list
 
-        // leaving out timestamp from node: timestamp='2022-09-12T01:50:00Z'
-        $output .= "  <node id='" . $node_id . "' visible='true' lat='" . $lat . "' lon='" . $long . "'>\n";
-        $output .= "    <tag k='addr:city' v='" . $town_name . "' />\n";
-        $output .= "    <tag k='addr:housenumber' v='" . $house_number . "' />\n";
-        $output .= "    <tag k='addr:street' v='" . $street . "' />\n";
-        $output .= "    <tag k='addr:postcode' v='" . $zip_code . "' />\n";
-        $output .= "    <tag k='addr:state' v='VT' />\n";
-        $output .= "    <tag k='ref:vcgi:esiteid' v='" . $esiteid . "' />\n";
-        // use this tag in the changeset tags instead of node tag
-        // $output .= "    <tag k='source' v='VCGI/E911_address_points' />\n";
-        $output .= "  </node>\n";
+        // if we don't have any errors in our data
+        if(count($feature_errors) == 0 && $output_type == "osm") {
+
+            // leaving out timestamp from node: timestamp='2022-09-12T01:50:00Z'
+            $output .= "  <node id='" . $node_id . "' visible='true' lat='" . $lat . "' lon='" . $long . "'>\n";
+            $output .= "    <tag k='addr:city' v='" . $town_name . "' />\n";
+            $output .= "    <tag k='addr:housenumber' v='" . $house_number . "' />\n";
+            $output .= "    <tag k='addr:street' v='" . $street . "' />\n";
+            $output .= "    <tag k='addr:postcode' v='" . $zip_code . "' />\n";
+            $output .= "    <tag k='addr:state' v='VT' />\n";
+            $output .= "    <tag k='ref:vcgi:esiteid' v='" . $esiteid . "' />\n";
+            // use this tag in the changeset tags instead of node tag
+            // $output .= "    <tag k='source' v='VCGI/E911_address_points' />\n";
+            $output .= "  </node>\n";
 
 
-    } elseif($output_type == "tab") {
-        $output .= $node_id . "\t" . $lat . "\t" . $long . "\t";
-        $output .= $town_name . "\t";
-        $output .= $house_number . "\t";
-        $output .= $street . "\t";
-        $output .= $zip_code . "\t";
-        $output .= $esiteid . "\n";
+        } elseif($output_type == "tab") {
+            $output .= $node_id . "\t" . $lat . "\t" . $long . "\t";
+            $output .= $town_name . "\t";
+            $output .= $house_number . "\t";
+            $output .= $street . "\t";
+            $output .= $zip_code . "\t";
+            $output .= $esiteid . "\n";
 
-    } elseif(count($feature_errors) == 0 && $output_type == "geojson") {
+        } elseif(count($feature_errors) == 0 && $output_type == "geojson") {
 
-        $coordinates = array($long, $lat);
-        $properties = array("house_number" => $house_number, "street" => $street);
-        $geometry = array("type" => "Point", "coordinates" => $coordinates);
-        $feature = array("type" => "Feature", "properties" => $properties, "geometry" => $geometry);
+            $coordinates = array($long, $lat);
+            $properties = array("house_number" => strval($house_number), "street" => $street, "esiteid" => strval($esiteid));
+            $geometry = array("type" => "Point", "coordinates" => $coordinates);
+            $feature = array("type" => "Feature", "properties" => $properties, "geometry" => $geometry);
 
-        // todo: geojson output is a hack
-        // this adds an extraneous common to the last feature that needs to be removed
-        // but not sure it is worth reworking
-        $output .= json_encode($feature) . ",\n";
 
+            // todo: geojson output is a hack
+            // this adds an extraneous comma to the last feature that needs to be removed
+            // but not sure it is worth reworking
+            $output .= json_encode($feature) . ",\n";
+
+        }
+    } else {
+        // print "address on exclude list.  esiteid: " . $esiteid . "\n";
+        $excluded_output[] = $esiteid;
     }
-
     $node_id--;
     unset($feature_errors);
 }
@@ -138,6 +158,14 @@ if($print_errors_at_end) {
         }
     } else {
         print "no errors\n";
+    }
+    // show esiteids that were found on the exclude list
+    if(count($excluded_output) > 0) {
+        print "\n----------EXCLUDED ESITEIDS----------\n";
+
+        foreach($excluded_output as $excluded_esiteid) {
+            print "Excluded esiteid: " . $excluded_esiteid . "\n";
+        }
     }
 }
 
