@@ -63,6 +63,13 @@ if (!is_readable($file)) {
 //  a. streets that start with Mc
 //  b. streets that have apostrophes (eg. O'Niel)
 
+// keep track of the exclude list in a Google sheet and expose it as a JSON feed
+$exclude_addresses_url = 'https://opensheet.elk.sh/1KBFFDpwLjOhRtCZCuxOd4D4ozBBaxOWhnw0Koe_25Tc/e911+Address+Point+do+not+import+list';
+$exclude_addresses = json_decode(file_get_contents($exclude_addresses_url), true);
+$excluded_output = array(); // store the records we skipped for logging at the end
+
+///////////////////////////////////////////////////////
+
 $data = json_decode(file_get_contents($file), true);
 if (is_null($data)) {
   fwrite(STDERR, "Failed decoding JSON from $file");
@@ -131,44 +138,53 @@ foreach($data['features'] as $feature) {
 
     $all_errors[] = $feature_errors;
 
-    // if we don't have any errors in our data
-    if(count($feature_errors) == 0 && $output_type == "osm") {
+    // search the esiteid in the exclude list.
+    // if it is found in the exclude list, don't output it
+    $key = array_search($esiteid, array_column($exclude_addresses, 'esiteid'));
+    if($key === false) {    // the esiteid was NOT found in the exclude list
 
-        // leaving out timestamp from node: timestamp='2022-09-12T01:50:00Z'
-        $output .= "  <node id='" . $node_id . "' visible='true' lat='" . $lat . "' lon='" . $long . "'>\n";
-        $output .= "    <tag k='addr:city' v='" . $town_name . "' />\n";
-        $output .= "    <tag k='addr:housenumber' v='" . $house_number . "' />\n";
-        $output .= "    <tag k='addr:street' v='" . $street . "' />\n";
-        $output .= "    <tag k='addr:postcode' v='" . $zip_code . "' />\n";
-        $output .= "    <tag k='addr:state' v='VT' />\n";
-        $output .= "    <tag k='ref:vcgi:esiteid' v='" . $esiteid . "' />\n";
-        // use this tag in the changeset tags instead of node tag
-        // $output .= "    <tag k='source' v='VCGI/E911_address_points' />\n";
-        $output .= "  </node>\n";
+        // if we don't have any errors in our data
+        if(count($feature_errors) == 0 && $output_type == "osm") {
+
+            // leaving out timestamp from node: timestamp='2022-09-12T01:50:00Z'
+            $output .= "  <node id='" . $node_id . "' visible='true' lat='" . $lat . "' lon='" . $long . "'>\n";
+            $output .= "    <tag k='addr:city' v='" . $town_name . "' />\n";
+            $output .= "    <tag k='addr:housenumber' v='" . $house_number . "' />\n";
+            $output .= "    <tag k='addr:street' v='" . $street . "' />\n";
+            $output .= "    <tag k='addr:postcode' v='" . $zip_code . "' />\n";
+            $output .= "    <tag k='addr:state' v='VT' />\n";
+            $output .= "    <tag k='ref:vcgi:esiteid' v='" . $esiteid . "' />\n";
+            // use this tag in the changeset tags instead of node tag
+            // $output .= "    <tag k='source' v='VCGI/E911_address_points' />\n";
+            $output .= "  </node>\n";
 
 
-    } elseif($output_type == "tab") {
-        $output .= $node_id . "\t" . $lat . "\t" . $long . "\t";
-        $output .= $town_name . "\t";
-        $output .= $house_number . "\t";
-        $output .= $street . "\t";
-        $output .= $zip_code . "\t";
-        $output .= $esiteid . "\n";
+        } elseif($output_type == "tab") {
+            $output .= $node_id . "\t" . $lat . "\t" . $long . "\t";
+            $output .= $town_name . "\t";
+            $output .= $house_number . "\t";
+            $output .= $street . "\t";
+            $output .= $zip_code . "\t";
+            $output .= $esiteid . "\n";
 
-    } elseif(count($feature_errors) == 0 && $output_type == "geojson") {
+        } elseif(count($feature_errors) == 0 && $output_type == "geojson") {
 
-        $coordinates = array($long, $lat);
-        $properties = array("house_number" => $house_number, "street" => $street);
-        $geometry = array("type" => "Point", "coordinates" => $coordinates);
-        $feature = array("type" => "Feature", "properties" => $properties, "geometry" => $geometry);
+            $coordinates = array($long, $lat);
+            $properties = array("house_number" => strval($house_number), "street" => $street, "esiteid" => strval($esiteid));
+            $geometry = array("type" => "Point", "coordinates" => $coordinates);
+            $feature = array("type" => "Feature", "properties" => $properties, "geometry" => $geometry);
 
-        // todo: geojson output is a hack
-        // this adds an extraneous common to the last feature that needs to be removed
-        // but not sure it is worth reworking
-        $output .= json_encode($feature) . ",\n";
 
+            // todo: geojson output is a hack
+            // this adds an extraneous comma to the last feature that needs to be removed
+            // but not sure it is worth reworking
+            $output .= json_encode($feature) . ",\n";
+
+        }
+    } else {
+        // print "address on exclude list.  esiteid: " . $esiteid . "\n";
+        $excluded_output[] = $esiteid;
     }
-
     $node_id--;
     unset($feature_errors);
 }
@@ -189,6 +205,14 @@ if($print_errors_at_end) {
         }
     } else {
         fwrite(STDERR, "no errors\n");
+    }
+    // show esiteids that were found on the exclude list
+    if(count($excluded_output) > 0) {
+        fwrite(STDERR, "\n----------EXCLUDED ESITEIDS----------\n");
+
+        foreach($excluded_output as $excluded_esiteid) {
+            fwrite(STDERR, "Excluded esiteid: " . $excluded_esiteid . "\n");
+        }
     }
 }
 
@@ -265,7 +289,7 @@ function build_street_name($feature_properties) {
         if(!empty($suffix_direction)) {
             $suffix_direction = expand_direction($suffix_direction);
 
-            $final_street_name .= $final_street_name;
+            $final_street_name .= $suffix_direction;
         }
     }
 
@@ -338,8 +362,36 @@ function normalize_street_base_name($street_name) {
     }
 
     // expand when hwy is in the middle of the street name (eg. Town Hwy 11)
+    // originally found in Granville
     if(preg_match('/town hwy (.+)/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "Town Highway " . $matches[1];
+    }
+
+    // Hubbardton has a street called LHCS that needs to be all caps
+    if(preg_match('/^lhcs(.*)/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "LHCS" . $matches[1];
+    }
+
+    // Hubbardton has a street called "SFH"... not sure what it stands for, but capitlizing it
+    if(preg_match('/^sfh/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "SFH";
+    }
+
+    // Middlebury has a street name HMKL that should be capitalized. (esiteid: 155140)
+    if(preg_match('/^hmkl/i', $street_name_title_cased)) {
+        $street_name_title_cased = "HMKL";
+    }
+
+    // Brookfiled has a street with "EXT" in the ST (street type) field, which causes
+    // Rd and Ln to be put at the end of the SN (street name) field, so we need to expand the street name abbreviation as well
+    if(preg_match('/(.+) (Ave|Dr|Ln|Rd|St)/i', $street_name_title_cased, $matches)) {
+        $expanded_suffix = expand_street_name_suffix($matches[2]);
+        $street_name_title_cased = $matches[1] . " " . $expanded_suffix;
+    }
+
+    // Brookfiled has a street that starts with "Dr".  Expand to "Doctor"
+    if(preg_match('/^Dr (.+)/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "Doctor " . $matches[1];
     }
 
     return $street_name_title_cased;
@@ -417,6 +469,7 @@ function expand_street_name_suffix($street_name_suffix) {
                             "centre" => "Center",
                             "cir" => "Circle",
                             "circ" => "Circle",
+                            "cirs" => "Circles",
                             "circl" => "Circle",
                             "circle" => "Circle",
                             "circles" => "Circles",
