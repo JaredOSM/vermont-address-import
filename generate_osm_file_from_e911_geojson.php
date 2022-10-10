@@ -1,25 +1,67 @@
+#!/usr/bin/env php
 <?php
 
 $print_errors_at_end = false;
-// tab, osm, or geojson  
-// (note: when using tab outout, addresses that are missing a house number are outputted 
+// tab, osm, or geojson
+// (note: when using tab outout, addresses that are missing a house number are outputted
 // so they can be reviewed. They are not included in the osm output type.)
 // geojson was quickly hacked on as a way of filtering out bad features from the original geojson file.
 $output_type = "osm";
+
+$help = "
+
+". $argv[0] . " [-hv] [--help] [--verbose] [--output-type=osm|tab|geojson] <file.geojson>
+
+  -h --help           Show this help
+  -v --verbose        Print errors at the end.
+  --output-type       Format of the output, default is osm.
+
+  <file.geojson>      The input geojson file.
+
+";
+
+#options
+$options = getopt("h", ["help", "output-type::"], $reset_index);
+if ($options === FALSE || isset($options["h"]) || isset($options["help"])) {
+  fwrite(STDERR, $help);
+  exit(1);
+}
+if (isset($options["output-type"])) {
+  if (!in_array($options["output-type"], ["osm", "tab", "geojson"])) {
+    fwrite(STDERR, "Invalid output type: '".$options["output-type"]."'. Must be one of osm, tab, geojson.");
+    fwrite(STDERR, $help);
+    exit(2);
+  }
+  $output_type = $options["output-type"];
+}
+if (isset($options['v']) || isset($options['verbose'])) {
+  $print_errors_at_end = true;
+}
+
+# file
+$pos_args = array_slice($argv, $reset_index);
+if (!count($pos_args)) {
+  fwrite(STDERR, "You must specify an input file.");
+  fwrite(STDERR, $help);
+  exit(2);
+}
+$file = $pos_args[0];
+if (!file_exists($file)) {
+  fwrite(STDERR, "File $file does not exist.");
+  fwrite(STDERR, $help);
+  exit(3);
+}
+if (!is_readable($file)) {
+  fwrite(STDERR, "File $file is not readable.");
+  fwrite(STDERR, $help);
+  exit(3);
+}
 
 // Post processing steps
 // 1. search the output for the string "error" to deal with any issues
 // 2. look for streets that have non-trivial capitalization or punctuation
 //  a. streets that start with Mc
 //  b. streets that have apostrophes (eg. O'Niel)
-
-$file = './town_e911_address_points/e911_address_points_townname.geojson';
-
-
-if(!file_exists($file)) {
-    print "file not found: " . $file . "\n";
-    exit();
-}
 
 // keep track of the exclude list in a Google sheet and expose it as a JSON feed
 $exclude_addresses_url = 'https://opensheet.elk.sh/1KBFFDpwLjOhRtCZCuxOd4D4ozBBaxOWhnw0Koe_25Tc/e911+Address+Point+do+not+import+list';
@@ -29,6 +71,11 @@ $excluded_output = array(); // store the records we skipped for logging at the e
 ///////////////////////////////////////////////////////
 
 $data = json_decode(file_get_contents($file), true);
+if (is_null($data)) {
+  fwrite(STDERR, "Failed decoding JSON from $file");
+  fwrite(STDERR, $help);
+  exit(4);
+}
 
 $node_id = -100;
 $all_errors = array();
@@ -44,7 +91,7 @@ foreach($data['features'] as $feature) {
         $esiteid = NULL;
         $feature_errors[] = "ESITEID value is empty";
     }
-    
+
     if(!empty($feature['properties']['GPSX'])) {
         $long = $feature['properties']['GPSX'];
     } else {
@@ -81,7 +128,7 @@ foreach($data['features'] as $feature) {
         $street = NULL;
         $feature_errors[] = "SN (street name) value is empty: (esiteid: " . $esiteid . ")";
     }
-    
+
     if(!empty($feature['properties']['ZIP'])) {
         $zip_code = $feature['properties']['ZIP'];
     } else {
@@ -146,25 +193,25 @@ $output .= output_footer($output_type);
 print $output;
 
 if($print_errors_at_end) {
-    print "\n----------ERRORS----------\n";
+    fwrite(STDERR, "\n----------ERRORS----------\n");
     if(count($all_errors) > 0) {
         $i = 1;
         foreach($all_errors as $feature_errors) {
             foreach($feature_errors as $error_item) {
-                print $i . " " . $error_item . "\n";
+                fwrite(STDERR, $i . " " . $error_item . "\n");
                 $i++;
             }
 
         }
     } else {
-        print "no errors\n";
+        fwrite(STDERR, "no errors\n");
     }
     // show esiteids that were found on the exclude list
     if(count($excluded_output) > 0) {
-        print "\n----------EXCLUDED ESITEIDS----------\n";
+        fwrite(STDERR, "\n----------EXCLUDED ESITEIDS----------\n");
 
         foreach($excluded_output as $excluded_esiteid) {
-            print "Excluded esiteid: " . $excluded_esiteid . "\n";
+            fwrite(STDERR, "Excluded esiteid: " . $excluded_esiteid . "\n");
         }
     }
 }
@@ -268,13 +315,13 @@ function expand_direction($prefix_direction) {
                 break;
             case 'S':
                 $expanded_prefix_direction = "South";
-                break;            
+                break;
             case 'SE':
                 $expanded_prefix_direction = "Southeast";
-                break;  
+                break;
             case 'W':
                 $expanded_prefix_direction = "West";
-                break;  
+                break;
             default:
                 $expanded_prefix_direction = "error 100";
                 break;
@@ -282,14 +329,14 @@ function expand_direction($prefix_direction) {
     } else {
         $expanded_prefix_direction = NULL;
     }
-    
+
     return $expanded_prefix_direction;
 }
 
 function normalize_street_base_name($street_name) {
 
     // todo: deal with street names with apostrophes (eg. O'Neil)
-    
+
     $street_name_title_cased = ucwords(strtolower(trim($street_name)));
 
     // If street name starts with "Vt " replace with uppercase "VT "
@@ -336,7 +383,7 @@ function normalize_street_base_name($street_name) {
     }
 
     // Brookfiled has a street with "EXT" in the ST (street type) field, which causes
-    // Rd and Ln to be put at the end of the SN (street name) field, so we need to expand the street name abbreviation as well 
+    // Rd and Ln to be put at the end of the SN (street name) field, so we need to expand the street name abbreviation as well
     if(preg_match('/(.+) (Ave|Dr|Ln|Rd|St)/i', $street_name_title_cased, $matches)) {
         $expanded_suffix = expand_street_name_suffix($matches[2]);
         $street_name_title_cased = $matches[1] . " " . $expanded_suffix;
