@@ -264,6 +264,7 @@ function build_street_name($feature_properties) {
 
     $final_street_name = "";
 
+    // Prefix Direction
     if(!empty($feature_properties['PD'])) {
 
         $prefix_direction = trim($feature_properties['PD']);
@@ -273,6 +274,7 @@ function build_street_name($feature_properties) {
         }
     }
 
+    // Street Name
     if(!empty($feature_properties['SN'])) {
 
         $street_base_name = trim($feature_properties['SN']);
@@ -284,6 +286,7 @@ function build_street_name($feature_properties) {
         }
     }
 
+    // Street Type
     if(!empty($feature_properties['ST'])) {
 
         $street_suffix = trim($feature_properties['ST']);
@@ -295,6 +298,7 @@ function build_street_name($feature_properties) {
         }
     }
 
+    // suffix direction
     if(!empty($feature_properties['SD'])) {
 
         $suffix_direction = trim($feature_properties['SD']);
