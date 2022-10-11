@@ -356,8 +356,7 @@ function normalize_street_base_name($street_name) {
 
     $street_name_title_cased = ucwords(strtolower(trim($street_name)));
 
-    // If street name starts with "Vt " replace with uppercase "VT "
-    // todo: decide if this should be expanded to "Vermont"
+    // If street name starts with "Vt " replace with "Vermont "
     if(preg_match('/^Vt (.+)/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "Vermont " . $matches[1];
     }
@@ -389,7 +388,7 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "LHCS" . $matches[1];
     }
 
-    // Hubbardton has a street called "SFH"... not sure what it stands for, but capitlizing it
+    // Hubbardton has a street called "SFH"... not sure what it stands for (State Forest ?), but capitlizing it
     if(preg_match('/^sfh/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "SFH";
     }
