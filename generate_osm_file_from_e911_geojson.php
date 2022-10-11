@@ -117,6 +117,19 @@ foreach($data['features'] as $feature) {
     // VCGI contains lots of entries with a house number of "0"
     if(!empty($feature['properties']['HOUSE_NUMBER']) && is_numeric($feature['properties']['HOUSE_NUMBER']) && $feature['properties']['HOUSE_NUMBER'] > 0) {
         $house_number = $feature['properties']['HOUSE_NUMBER'];
+
+        // check for suffix on house sumber (eg. esiteid 757868)
+        if(!empty($feature['properties']['HOUSE_NUMBERPREFIX'])) {
+
+            $house_number = trim($feature['properties']['HOUSE_NUMBERPREFIX']) . " " . $house_number;
+        }
+
+        // check for suffix on house sumber (eg. esiteid 154277)
+        if(!empty($feature['properties']['HOUSE_NUMBERSUFFIX'])) {
+
+            $house_number = $house_number . " " . trim($feature['properties']['HOUSE_NUMBERSUFFIX']);
+        }
+
     } else {
         $house_number = NULL;
         $feature_errors[] = "HOUSE_NUMBER is invalid: " . $feature['properties']['HOUSE_NUMBER'] . " (esiteid: " . $esiteid . ")";
