@@ -36,8 +36,7 @@ END;
   public function conflate(DOMDocument $inputDoc) {
     foreach ($inputDoc->documentElement->childNodes as $inputNode) {
       if ($inputNode->nodeName == 'node') {
-        $targetDoc = $this->conflateNode($inputNode);
-        $this->append($targetDoc, $inputNode);
+        $this->conflateNode($inputNode);
       }
     }
   }
@@ -47,8 +46,7 @@ END;
    *
    * @param DOMElement $inputNode
    *   The node to compare.
-   * @return DOMDocument
-   *   The target bucket the node should be placed in.
+   * @return null
    */
   protected function conflateNode(DOMElement $inputNode) {
     $address = $this->extractAddress($inputNode);
@@ -67,20 +65,23 @@ END;
       // Verify that the distance is reasonable, e.g. less than 100m
       if ($match['distance'] > 100) {
         $res->finalize();
-        $this->log('offset', $inputNode, "Significant offset - " . $match['distance'] . "m");
-        return $this->reviewDistancesDoc;
+        $message = $this->log('offset', $inputNode, "Significant offset - " . round($match['distance'], 1) . "m");
+        $this->append($this->reviewDistancesDoc, $inputNode, $message);
+        return;
       }
       // Check for an additional match.
       if ($res->fetchArray(SQLITE3_ASSOC)) {
         // We have multiple targets?
         $res->finalize();
-        $this->log('multiple', $inputNode, "Multiple exact matches in OSM.");
-        return $this->reviewMultiplesDoc;
+        $message = $this->log('multiple', $inputNode, "Multiple exact matches in OSM.");
+        $this->append($this->reviewMultiplesDoc, $inputNode, $message);
+        return;
       }
       // We only have one match and it is close by.
       $res->finalize();
       $this->log('match', $inputNode, "Exact match");
-      return $this->matchesDoc;
+      $this->append($this->matchesDoc, $inputNode);
+      return;
     }
 
     // No exact match found
@@ -100,8 +101,9 @@ END;
         && $this->simplifyStreet($address['addr:street']) == $this->simplifyStreet($nearby['street'])
       ) {
         $res->finalize();
-        $this->log('conflict', $inputNode, "Fuzzy match to \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . '"');
-        return $this->conflictsDoc;
+        $message = $this->log('conflict', $inputNode, "Fuzzy match to \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . '"');
+        $this->append($this->conflictsDoc, $inputNode, $message);
+        return;
       }
     }
     $res->finalize();
@@ -113,23 +115,27 @@ END;
     $res = $closeAddressStmt->execute();
     while ($nearby = $res->fetchArray(SQLITE3_ASSOC)) {
       $res->finalize();
-      return $this->conflictsDoc;
+      $message = $this->log('conflict', $inputNode, "No match in OSM, but a different address exists <5m away: \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . '"');
+      $this->append($this->conflictsDoc, $inputNode, $message);
+      return;
     }
     $res->finalize();
 
     // If we haven't found an exact match, a nearby variant spelling, or a very
     // close point. Let's call this a no-match.
     $this->log('no matches', $inputNode, "Not found in OSM");
-    return $this->nonMatchesDoc;
+    $this->append($this->nonMatchesDoc, $inputNode);
+    return;
   }
 
   protected function log($category, DOMElement $inputNode, $message) {
+    $address = $this->extractAddress($inputNode);
+    $entry = $category . ": \"" .  $address['addr:housenumber'] . ' ' . $address['addr:street'] . ', ' . $address['addr:city'] . ', ' . $address['addr:state'] . '" ' . $message . "\n";
     if ($this->verbose) {
-      $address = $this->extractAddress($inputNode);
-      $entry = $category . ": \"" .  $address['addr:housenumber'] . ' ' . $address['addr:street'] . ', ' . $address['addr:city'] . ', ' . $address['addr:state'] . '" ' . $message . "\n";
       print $entry;
       // fwrite(STDERR, $entry);
     }
+    return $entry;
   }
 
   protected function extractAddress(DOMElement $inputNode) {
@@ -142,10 +148,15 @@ END;
     return $result;
   }
 
-  protected function append(DOMDocument $targetDoc, DOMElement $inputNode) {
+  protected function append(DOMDocument $targetDoc, DOMElement $inputNode, $message = NULL) {
     $targetDoc->documentElement->appendChild($targetDoc->createTextNode("  "));
-    $targetDoc->documentElement->appendChild($targetDoc->importNode($inputNode, true));
+    $newNode = $targetDoc->documentElement->appendChild($targetDoc->importNode($inputNode, true));
     $targetDoc->documentElement->appendChild($targetDoc->createTextNode("\n"));
+
+    if (!empty($message)) {
+      $newNode->insertBefore($targetDoc->createComment(' '.trim($message).' '), $newNode->firstChild);
+      $newNode->insertBefore($targetDoc->createTextNode("\n    "), $newNode->firstChild);
+    }
   }
 
   /**
