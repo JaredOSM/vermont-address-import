@@ -53,12 +53,11 @@ END;
     // Check for an exact address match.
     $lon = $inputNode->getAttribute('lon');
     $lat = $inputNode->getAttribute('lat');
-    $exactMatchStmt = $this->db->prepare("SELECT osm_type, id, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE housenumber=:housenumber AND street=:street AND city=:city AND state=:state AND postcode=:postcode");
+    $exactMatchStmt = $this->db->prepare("SELECT osm_type, id, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE housenumber=:housenumber AND street=:street AND city=:city AND state=:state");
     $exactMatchStmt->bindValue('housenumber', $address['addr:housenumber']);
     $exactMatchStmt->bindValue('street', $address['addr:street']);
     $exactMatchStmt->bindValue('city', $address['addr:city']);
     $exactMatchStmt->bindValue('state', $address['addr:state']);
-    $exactMatchStmt->bindValue('postcode', $address['addr:postcode']);
     $res = $exactMatchStmt->execute();
     $match = $res->fetchArray(SQLITE3_ASSOC);
     if ($match) {
@@ -82,7 +81,7 @@ END;
     }
 
     // No exact match found
-    // Check for nearby variants on housenumber, street, and postcode.
+    // Check for nearby variants on housenumber and street.
     // print "\n========================\n";
     // var_dump($this->simplifyHouseNumber($address['addr:housenumber']), $this->simplifyStreet($address['addr:street']));
     // print "----------\n";
@@ -98,7 +97,7 @@ END;
         && $this->simplifyStreet($address['addr:street']) == $this->simplifyStreet($nearby['street'])
       ) {
         $res->finalize();
-        $this->log('conflict', $inputNode, "Fuzzy match to \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . " " . $nearby['postcode'] . '"');
+        $this->log('conflict', $inputNode, "Fuzzy match to \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . '"');
         return $this->conflictsDoc;
       }
     }
@@ -124,7 +123,7 @@ END;
   protected function log($category, DOMElement $inputNode, $message) {
     if ($this->verbose) {
       $address = $this->extractAddress($inputNode);
-      $entry = $category . ": \"" .  $address['addr:housenumber'] . ' ' . $address['addr:street'] . ', ' . $address['addr:city'] . ', ' . $address['addr:state'] . ' ' . $address['addr:postcode'] . '" ' . $message . "\n";
+      $entry = $category . ": \"" .  $address['addr:housenumber'] . ' ' . $address['addr:street'] . ', ' . $address['addr:city'] . ', ' . $address['addr:state'] . '" ' . $message . "\n";
       print $entry;
       // fwrite(STDERR, $entry);
     }
