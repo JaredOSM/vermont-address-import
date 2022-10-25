@@ -5,7 +5,8 @@ class AddressConflator {
   public $nonMatchesDoc;
   public $conflictsDoc;
   public $matchesDoc;
-  public $reviewsDoc;
+  public $reviewMultiplesDoc;
+  public $reviewDistancesDoc;
 
   protected $db;
   protected $verbose;
@@ -26,8 +27,10 @@ END;
     $this->matchesDoc->loadXML($osmXmlWrapper);
     $this->conflictsDoc = new DOMDocument();
     $this->conflictsDoc->loadXML($osmXmlWrapper);
-    $this->reviewsDoc = new DOMDocument();
-    $this->reviewsDoc->loadXML($osmXmlWrapper);
+    $this->reviewMultiplesDoc = new DOMDocument();
+    $this->reviewMultiplesDoc->loadXML($osmXmlWrapper);
+    $this->reviewDistancesDoc = new DOMDocument();
+    $this->reviewDistancesDoc->loadXML($osmXmlWrapper);
   }
 
   public function conflate(DOMDocument $inputDoc) {
@@ -65,14 +68,14 @@ END;
       if ($match['distance'] > 100) {
         $res->finalize();
         $this->log('offset', $inputNode, "Significant offset - " . $match['distance'] . "m");
-        return $this->reviewsDoc;
+        return $this->reviewDistancesDoc;
       }
       // Check for an additional match.
       if ($res->fetchArray(SQLITE3_ASSOC)) {
         // We have multiple targets?
         $res->finalize();
         $this->log('multiple', $inputNode, "Multiple exact matches in OSM.");
-        return $this->reviewsDoc;
+        return $this->reviewMultiplesDoc;
       }
       // We only have one match and it is close by.
       $res->finalize();

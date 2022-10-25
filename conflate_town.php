@@ -62,5 +62,6 @@ $conflator->conflate($inputDoc);
 
 $conflator->nonMatchesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-no-match.osm");
 $conflator->conflictsDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-tag-conflict.osm");
-$conflator->reviewsDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-review.osm");
+$conflator->reviewMultiplesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-review-multiple.osm");
+$conflator->reviewDistancesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-review-distance.osm");
 $conflator->matchesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-matches.osm");
