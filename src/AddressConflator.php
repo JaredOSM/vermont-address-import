@@ -113,13 +113,48 @@ END;
     $lat = $inputNode->getAttribute('lat');
     $closeAddressStmt = $this->db->prepare("SELECT *, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE distance < 5");
     $res = $closeAddressStmt->execute();
+    $hasNearby = FALSE;
+    $allNearbyInInput = TRUE;
     while ($nearby = $res->fetchArray(SQLITE3_ASSOC)) {
-      $res->finalize();
-      $message = $this->log('conflict', $inputNode, "No match in OSM, but a different address exists <5m away: \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . '"');
-      $this->append($this->conflictsDoc, $inputNode, $message);
-      return;
+      // Check to see if the nearby address also exists in the input.
+      // If so, then these are just closely spaced addresses with one missing.
+      $hasNearby = TRUE;
+      $nearbyIsInInput = FALSE;
+      foreach ($inputNode->ownerDocument->documentElement->childNodes as $inputTestNode) {
+        if ($inputTestNode->nodeName == 'node') {
+          $testAddress = $this->extractAddress($inputTestNode);
+          if ( $testAddress['addr:housenumber'] == $nearby['housenumber']
+            && $testAddress['addr:street'] == $nearby['street']
+            && $testAddress['addr:city'] == $nearby['city']
+            && $testAddress['addr:state'] == $nearby['state']
+          ) {
+            $nearbyIsInInput = TRUE;
+            break;
+          }
+        }
+      }
+      if (!$nearbyIsInInput) {
+        $allNearbyInInput = FALSE;
+        break;
+      }
     }
     $res->finalize();
+
+    if ($hasNearby) {
+      // The nearby OSM address also exists in the input set, so these are
+      // just close together.
+      if ($allNearbyInInput) {
+        $this->log('no matches', $inputNode, "Not found in OSM. There were close address points in OSM, but they also exist in the input.");
+        $this->append($this->nonMatchesDoc, $inputNode);
+        return;
+      }
+      // If not, then maybe an address is in conflict.
+      else {
+        $message = $this->log('conflict', $inputNode, "No match in OSM, but a different address exists <5m away: \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . '"');
+        $this->append($this->conflictsDoc, $inputNode, $message);
+        return;
+      }
+    }
 
     // If we haven't found an exact match, a nearby variant spelling, or a very
     // close point. Let's call this a no-match.
