@@ -164,7 +164,8 @@ foreach($data['features'] as $feature) {
             $output .= "    <tag k='addr:city' v='" . $town_name . "' />\n";
             $output .= "    <tag k='addr:housenumber' v='" . $house_number . "' />\n";
             $output .= "    <tag k='addr:street' v='" . $street . "' />\n";
-            $output .= "    <tag k='addr:postcode' v='" . $zip_code . "' />\n";
+            // ZIP codes in E911 may not be correct.
+            // $output .= "    <tag k='addr:postcode' v='" . $zip_code . "' />\n";
             $output .= "    <tag k='addr:state' v='VT' />\n";
             $output .= "    <tag k='ref:vcgi:esiteid' v='" . $esiteid . "' />\n";
             // use this tag in the changeset tags instead of node tag
