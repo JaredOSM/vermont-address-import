@@ -6,6 +6,14 @@ Project proposal here: https://wiki.openstreetmap.org/wiki/VCGI_E911_address_poi
 
 ## Usage
 
+### Download fresh E911 data
+1. Download the latest [VT Data - E911 Site Locations (address points)](https://geodata.vermont.gov/datasets/VCGI::vt-data-e911-site-locations-address-points-1/about) file as GeoJSON.
+
+2. Extract the full-state GeoJSON file into per-town files
+   ```
+   ./extract_town_points.php -v VT_Data_-_E911_Site_Locations_\(address_points\).geojson
+   ```
+
 ### Regenerate all draft data files:
 ```
 ./generate_all.php -v
