@@ -1,613 +1,753 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='JOSM'>
-  <node id='-100' visible='true' lat='43.25469242' lon='-72.85210412'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='129' />
-    <tag k='addr:street' v='Ridge Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139283' />
-  </node>
-  <node id='-101' visible='true' lat='43.23514403' lon='-72.86043442'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='24' />
-    <tag k='addr:street' v='Vermont Route 11' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139309' />
-  </node>
-  <node id='-103' visible='true' lat='43.27247291' lon='-72.83614184'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='76' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139318' />
-  </node>
-  <node id='-104' visible='true' lat='43.29141826' lon='-72.82273805'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='415' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139181' />
-  </node>
-  <node id='-105' visible='true' lat='43.27428051' lon='-72.82260673'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='239' />
-    <tag k='addr:street' v='Holden Hill Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='284986' />
-  </node>
-  <node id='-106' visible='true' lat='43.27778881' lon='-72.84309397'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='135' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139205' />
-  </node>
-  <node id='-107' visible='true' lat='43.27469679' lon='-72.8614364'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='2' />
-    <tag k='addr:street' v='Little Michigan Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139215' />
-  </node>
-  <node id='-108' visible='true' lat='43.27783668' lon='-72.85928458'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='178' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139204' />
-  </node>
-  <node id='-109' visible='true' lat='43.24066841' lon='-72.84986443'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='22' />
-    <tag k='addr:street' v='Valley View Drive' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139323' />
-  </node>
-  <node id='-110' visible='true' lat='43.27756407' lon='-72.86102007'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='171' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139207' />
-  </node>
-  <node id='-112' visible='true' lat='43.25949693' lon='-72.84920318'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='5' />
-    <tag k='addr:street' v='Nichols Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139266' />
-  </node>
-  <node id='-113' visible='true' lat='43.28774947' lon='-72.82588065'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='394' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139193' />
-  </node>
-  <node id='-114' visible='true' lat='43.23905884' lon='-72.85004437'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='16' />
-    <tag k='addr:street' v='Valley View Drive' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139322' />
-  </node>
-  <node id='-117' visible='true' lat='43.29874039' lon='-72.84147644'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='78' />
-    <tag k='addr:street' v='Jaquith Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139170' />
-  </node>
-  <node id='-118' visible='true' lat='43.23466606' lon='-72.85522243'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='6' />
-    <tag k='addr:street' v='Cest La Vie Drive' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139324' />
-  </node>
-  <node id='-119' visible='true' lat='43.23569943' lon='-72.85548356'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='7' />
-    <tag k='addr:street' v='Landgrove Hollow Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139307' />
-  </node>
-  <node id='-120' visible='true' lat='43.28953816' lon='-72.82960701'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='382' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139313' />
-  </node>
-  <node id='-121' visible='true' lat='43.26494221' lon='-72.81977232'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='5' />
-    <tag k='addr:street' v='Shaw Knoll Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='452509' />
-  </node>
-  <node id='-123' visible='true' lat='43.29209773' lon='-72.83860324'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='20' />
-    <tag k='addr:street' v='Jaquith Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139177' />
-  </node>
-  <node id='-124' visible='true' lat='43.20594913' lon='-72.86584789'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='48' />
-    <tag k='addr:street' v='South Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='449216' />
-  </node>
-  <node id='-125' visible='true' lat='43.27712464' lon='-72.85112837'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='43' />
-    <tag k='addr:street' v='Uphill Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139208' />
-  </node>
-  <node id='-126' visible='true' lat='43.26384737' lon='-72.84254697'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='8' />
-    <tag k='addr:street' v='Old County Rd E' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139250' />
-  </node>
-  <node id='-128' visible='true' lat='43.2437536' lon='-72.85553109'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='51' />
-    <tag k='addr:street' v='Ridge Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139294' />
-  </node>
-  <node id='-129' visible='true' lat='43.25960551' lon='-72.84842324'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='16' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139265' />
-  </node>
-  <node id='-131' visible='true' lat='43.26576403' lon='-72.83328405'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='49' />
-    <tag k='addr:street' v='Old County Rd E' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139243' />
-  </node>
-  <node id='-132' visible='true' lat='43.28953144' lon='-72.83266929'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='368' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139189' />
-  </node>
-  <node id='-133' visible='true' lat='43.25460626' lon='-72.86210612'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='102' />
-    <tag k='addr:street' v='Nichols Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139284' />
-  </node>
-  <node id='-134' visible='true' lat='43.26739573' lon='-72.84942791'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='8' />
-    <tag k='addr:street' v='Tarpley Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139233' />
-  </node>
-  <node id='-135' visible='true' lat='43.29276456' lon='-72.83846882'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='24' />
-    <tag k='addr:street' v='Jaquith Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139175' />
-  </node>
-  <node id='-136' visible='true' lat='43.28107718' lon='-72.85443606'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='206' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139314' />
-  </node>
-  <node id='-137' visible='true' lat='43.29081921' lon='-72.84319656'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='309' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139185' />
-  </node>
-  <node id='-138' visible='true' lat='43.25941084' lon='-72.84876779'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='15' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139268' />
-  </node>
-  <node id='-139' visible='true' lat='43.27093439' lon='-72.84128702'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='80' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='760997' />
-  </node>
-  <node id='-140' visible='true' lat='43.25981134' lon='-72.85015131'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='8' />
-    <tag k='addr:street' v='Nichols Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139263' />
-  </node>
-  <node id='-141' visible='true' lat='43.25871616' lon='-72.84887557'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='11' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139276' />
-  </node>
-  <node id='-142' visible='true' lat='43.29216326' lon='-72.82012047'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='425' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139178' />
-  </node>
-  <node id='-144' visible='true' lat='43.27253354' lon='-72.86198591'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='139' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139217' />
-  </node>
-  <node id='-145' visible='true' lat='43.26318563' lon='-72.86053735'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='14' />
-    <tag k='addr:street' v='Hapgood Pond Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139254' />
-  </node>
-  <node id='-146' visible='true' lat='43.23938214' lon='-72.8538259'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='34' />
-    <tag k='addr:street' v='Ridge Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139297' />
-  </node>
-  <node id='-148' visible='true' lat='43.26014318' lon='-72.84893627'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='19' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139260' />
-  </node>
-  <node id='-149' visible='true' lat='43.267707' lon='-72.84371549'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='57' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139230' />
-  </node>
-  <node id='-150' visible='true' lat='43.2663679' lon='-72.84596422'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='31' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139237' />
-  </node>
-  <node id='-151' visible='true' lat='43.26744892' lon='-72.85793424'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='98' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139231' />
-  </node>
-  <node id='-152' visible='true' lat='43.2804961' lon='-72.83032802'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='67' />
-    <tag k='addr:street' v='Ardis Lane' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='452573' />
-  </node>
-  <node id='-155' visible='true' lat='43.26358518' lon='-72.86181913'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='13' />
-    <tag k='addr:street' v='Hapgood Pond Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139252' />
-  </node>
-  <node id='-156' visible='true' lat='43.29227751' lon='-72.84224503'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='311' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139176' />
-  </node>
-  <node id='-157' visible='true' lat='43.29140365' lon='-72.82191948'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='419' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='613573' />
-  </node>
-  <node id='-159' visible='true' lat='43.26427478' lon='-72.86083453'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='17' />
-    <tag k='addr:street' v='Hapgood Pond Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139246' />
-  </node>
-  <node id='-160' visible='true' lat='43.29062673' lon='-72.82052444'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='426' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139186' />
-  </node>
-  <node id='-161' visible='true' lat='43.25909059' lon='-72.84877393'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='13' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139270' />
-  </node>
-  <node id='-162' visible='true' lat='43.26965529' lon='-72.83488918'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='27' />
-    <tag k='addr:street' v='Sled Run' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139224' />
-  </node>
-  <node id='-163' visible='true' lat='43.27587431' lon='-72.86088333'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='163' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='617458' />
-  </node>
-  <node id='-164' visible='true' lat='43.26304823' lon='-72.84014591'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='10' />
-    <tag k='addr:street' v='Old County Rd E' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='453658' />
-  </node>
-  <node id='-165' visible='true' lat='43.28547691' lon='-72.85232364'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='244' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139196' />
-  </node>
-  <node id='-166' visible='true' lat='43.25554439' lon='-72.85142226'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='137' />
-    <tag k='addr:street' v='Ridge Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139281' />
-  </node>
-  <node id='-168' visible='true' lat='43.26265449' lon='-72.84578619'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='6' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139256' />
-  </node>
-  <node id='-169' visible='true' lat='43.26193606' lon='-72.84842204'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='30' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139257' />
-  </node>
-  <node id='-170' visible='true' lat='43.26578465' lon='-72.85652226'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='84' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139242' />
-  </node>
-  <node id='-171' visible='true' lat='43.24212005' lon='-72.85540543'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='39' />
-    <tag k='addr:street' v='Ridge Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139295' />
-  </node>
-  <node id='-172' visible='true' lat='43.29114708' lon='-72.85563633'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='36' />
-    <tag k='addr:street' v='Hesseltine Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139182' />
-  </node>
-  <node id='-173' visible='true' lat='43.26954781' lon='-72.84819534'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='28' />
-    <tag k='addr:street' v='Tarpley Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139225' />
-  </node>
-  <node id='-174' visible='true' lat='43.24126603' lon='-72.85557725'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='35' />
-    <tag k='addr:street' v='Ridge Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139296' />
-  </node>
-  <node id='-176' visible='true' lat='43.27573243' lon='-72.85008467'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='46' />
-    <tag k='addr:street' v='Uphill Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139212' />
-  </node>
-  <node id='-178' visible='true' lat='43.27507707' lon='-72.84298272'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='116' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139214' />
-  </node>
-  <node id='-179' visible='true' lat='43.26629593' lon='-72.83045854'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='53' />
-    <tag k='addr:street' v='Old County Rd E' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139317' />
-  </node>
-  <node id='-180' visible='true' lat='43.28932958' lon='-72.84252495'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='209' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139190' />
-  </node>
-  <node id='-181' visible='true' lat='43.25981706' lon='-72.84894113'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='17' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139262' />
-  </node>
-  <node id='-182' visible='true' lat='43.25300977' lon='-72.86129008'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='92' />
-    <tag k='addr:street' v='Nichols Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139289' />
-  </node>
-  <node id='-183' visible='true' lat='43.25958086' lon='-72.86140497'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='10' />
-    <tag k='addr:street' v='Hapgood Pond Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139264' />
-  </node>
-  <node id='-184' visible='true' lat='43.28363224' lon='-72.8564347'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='221' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139197' />
-  </node>
-  <node id='-185' visible='true' lat='43.27643974' lon='-72.848767'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='53' />
-    <tag k='addr:street' v='Uphill Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139211' />
-  </node>
-  <node id='-186' visible='true' lat='43.29297597' lon='-72.83972187'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='23' />
-    <tag k='addr:street' v='Jaquith Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139174' />
-  </node>
-  <node id='-187' visible='true' lat='43.27283283' lon='-72.8621245'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='141' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139216' />
-  </node>
-  <node id='-188' visible='true' lat='43.29982842' lon='-72.84099744'>
+  <node id='-100' visible='true' lat='43.29982842' lon='-72.84099744'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='72' />
     <tag k='addr:street' v='Jaquith Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='139167' />
   </node>
-  <node id='-189' visible='true' lat='43.29058836' lon='-72.82600292'>
+  <node id='-101' visible='true' lat='43.29985801' lon='-72.84484935'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='97' />
+    <tag k='addr:street' v='Jaquith Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139168' />
+  </node>
+  <node id='-102' visible='true' lat='43.2992772' lon='-72.84297226'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:street' v='Jaquith Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139169' />
+  </node>
+  <node id='-103' visible='true' lat='43.29874039' lon='-72.84147644'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:street' v='Jaquith Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139170' />
+  </node>
+  <node id='-104' visible='true' lat='43.29756104' lon='-72.84388228'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:street' v='Jaquith Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139171' />
+  </node>
+  <node id='-105' visible='true' lat='43.2966667' lon='-72.83840101'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:street' v='Jaquith Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139172' />
+  </node>
+  <node id='-106' visible='true' lat='43.29300314' lon='-72.83700704'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:street' v='Jaquith Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139173' />
+  </node>
+  <node id='-107' visible='true' lat='43.29297597' lon='-72.83972187'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Jaquith Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139174' />
+  </node>
+  <node id='-108' visible='true' lat='43.29276456' lon='-72.83846882'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:street' v='Jaquith Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139175' />
+  </node>
+  <node id='-109' visible='true' lat='43.29227751' lon='-72.84224503'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='311' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139176' />
+  </node>
+  <node id='-110' visible='true' lat='43.29209773' lon='-72.83860324'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Jaquith Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139177' />
+  </node>
+  <node id='-111' visible='true' lat='43.29216326' lon='-72.82012047'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='425' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139178' />
+  </node>
+  <node id='-112' visible='true' lat='43.29194089' lon='-72.82402658'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='403' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139179' />
+  </node>
+  <node id='-113' visible='true' lat='43.29180129' lon='-72.83940091'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Jaquith Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139180' />
+  </node>
+  <node id='-114' visible='true' lat='43.29141826' lon='-72.82273805'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='415' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139181' />
+  </node>
+  <node id='-115' visible='true' lat='43.29114708' lon='-72.85563633'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:street' v='Hesseltine Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139182' />
+  </node>
+  <node id='-116' visible='true' lat='43.29093161' lon='-72.83262197'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='363' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139183' />
+  </node>
+  <node id='-117' visible='true' lat='43.29095886' lon='-72.82833433'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='385' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139184' />
+  </node>
+  <node id='-118' visible='true' lat='43.29081921' lon='-72.84319656'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='309' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139185' />
+  </node>
+  <node id='-119' visible='true' lat='43.29062673' lon='-72.82052444'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='426' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139186' />
+  </node>
+  <node id='-120' visible='true' lat='43.29058836' lon='-72.82600292'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='398' />
     <tag k='addr:street' v='Landgrove Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='139187' />
   </node>
-  <node id='-190' visible='true' lat='43.28776168' lon='-72.85334276'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='251' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139192' />
-  </node>
-  <node id='-191' visible='true' lat='43.28987145' lon='-72.85285977'>
+  <node id='-121' visible='true' lat='43.28987145' lon='-72.85285977'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='19' />
     <tag k='addr:street' v='Hesseltine Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='139188' />
   </node>
-  <node id='-192' visible='true' lat='43.25428238' lon='-72.84880523'>
+  <node id='-122' visible='true' lat='43.28953144' lon='-72.83266929'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='138' />
-    <tag k='addr:street' v='Ridge Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139285' />
-  </node>
-  <node id='-193' visible='true' lat='43.26503189' lon='-72.85485263'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:housenumber' v='368' />
     <tag k='addr:street' v='Landgrove Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139245' />
+    <tag k='ref:vcgi:esiteid' v='139189' />
   </node>
-  <node id='-195' visible='true' lat='43.29806919' lon='-72.8601139'>
+  <node id='-123' visible='true' lat='43.28932958' lon='-72.84252495'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='209' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139190' />
+  </node>
+  <node id='-124' visible='true' lat='43.28887177' lon='-72.84736633'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='284' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139191' />
+  </node>
+  <node id='-125' visible='true' lat='43.28776168' lon='-72.85334276'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='251' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139192' />
+  </node>
+  <node id='-126' visible='true' lat='43.28774947' lon='-72.82588065'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='394' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139193' />
+  </node>
+  <node id='-127' visible='true' lat='43.28659468' lon='-72.82758869'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='392' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139194' />
+  </node>
+  <node id='-128' visible='true' lat='43.28555471' lon='-72.84168839'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='186' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139195' />
+  </node>
+  <node id='-129' visible='true' lat='43.28547691' lon='-72.85232364'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='244' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139196' />
+  </node>
+  <node id='-130' visible='true' lat='43.28363224' lon='-72.8564347'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='221' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139197' />
+  </node>
+  <node id='-131' visible='true' lat='43.28083707' lon='-72.8433721'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='155' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139198' />
+  </node>
+  <node id='-132' visible='true' lat='43.27971628' lon='-72.84115414'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='146' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139199' />
+  </node>
+  <node id='-133' visible='true' lat='43.27923974' lon='-72.85790953'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='190' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139200' />
+  </node>
+  <node id='-134' visible='true' lat='43.27909675' lon='-72.85039916'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:street' v='Uphill Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139201' />
+  </node>
+  <node id='-135' visible='true' lat='43.27891528' lon='-72.84297981'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='141' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139202' />
+  </node>
+  <node id='-136' visible='true' lat='43.27878401' lon='-72.85841481'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Uphill Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139203' />
+  </node>
+  <node id='-137' visible='true' lat='43.27783668' lon='-72.85928458'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='178' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139204' />
+  </node>
+  <node id='-138' visible='true' lat='43.27778881' lon='-72.84309397'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='135' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139205' />
+  </node>
+  <node id='-139' visible='true' lat='43.27770991' lon='-72.85412895'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='Uphill Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139206' />
+  </node>
+  <node id='-140' visible='true' lat='43.27756407' lon='-72.86102007'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='171' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139207' />
+  </node>
+  <node id='-141' visible='true' lat='43.27712464' lon='-72.85112837'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:street' v='Uphill Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139208' />
+  </node>
+  <node id='-142' visible='true' lat='43.27678525' lon='-72.84958881'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:street' v='Uphill Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139209' />
+  </node>
+  <node id='-143' visible='true' lat='43.27665538' lon='-72.85618977'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Uphill Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139210' />
+  </node>
+  <node id='-144' visible='true' lat='43.27643974' lon='-72.848767'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='53' />
+    <tag k='addr:street' v='Uphill Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139211' />
+  </node>
+  <node id='-145' visible='true' lat='43.27573243' lon='-72.85008467'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:street' v='Uphill Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139212' />
+  </node>
+  <node id='-146' visible='true' lat='43.27543877' lon='-72.84886089'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='55' />
+    <tag k='addr:street' v='Uphill Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139213' />
+  </node>
+  <node id='-147' visible='true' lat='43.27507707' lon='-72.84298272'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='116' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139214' />
+  </node>
+  <node id='-148' visible='true' lat='43.27469679' lon='-72.8614364'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Little Michigan Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139215' />
+  </node>
+  <node id='-149' visible='true' lat='43.27283283' lon='-72.8621245'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='141' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139216' />
+  </node>
+  <node id='-150' visible='true' lat='43.27253354' lon='-72.86198591'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='139' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139217' />
+  </node>
+  <node id='-151' visible='true' lat='43.27240737' lon='-72.84497456'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139218' />
+  </node>
+  <node id='-152' visible='true' lat='43.27201776' lon='-72.84985476'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:street' v='Tarpley Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139219' />
+  </node>
+  <node id='-153' visible='true' lat='43.27178402' lon='-72.86118418'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='132' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139220' />
+  </node>
+  <node id='-154' visible='true' lat='43.27060882' lon='-72.86205102'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='125' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139221' />
+  </node>
+  <node id='-155' visible='true' lat='43.27032699' lon='-72.86033082'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='120' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139222' />
+  </node>
+  <node id='-156' visible='true' lat='43.26969443' lon='-72.8503492'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Tarpley Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139223' />
+  </node>
+  <node id='-157' visible='true' lat='43.26965529' lon='-72.83488918'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='Sled Run' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139224' />
+  </node>
+  <node id='-158' visible='true' lat='43.26954781' lon='-72.84819534'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:street' v='Tarpley Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139225' />
+  </node>
+  <node id='-159' visible='true' lat='43.26906757' lon='-72.85822443'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='108' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139226' />
+  </node>
+  <node id='-160' visible='true' lat='43.26896282' lon='-72.83221236'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Sled Run' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139227' />
+  </node>
+  <node id='-161' visible='true' lat='43.26895434' lon='-72.84087459'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='70' />
-    <tag k='addr:street' v='Russet Hill Road' />
+    <tag k='addr:street' v='Cody Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139316' />
+    <tag k='ref:vcgi:esiteid' v='139228' />
   </node>
-  <node id='-197' visible='true' lat='43.23753692' lon='-72.85542305'>
+  <node id='-162' visible='true' lat='43.26817709' lon='-72.85071482'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Tarpley Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139229' />
+  </node>
+  <node id='-163' visible='true' lat='43.267707' lon='-72.84371549'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='57' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139230' />
+  </node>
+  <node id='-164' visible='true' lat='43.26744892' lon='-72.85793424'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139231' />
+  </node>
+  <node id='-165' visible='true' lat='43.26730729' lon='-72.83569595'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Sled Run' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139232' />
+  </node>
+  <node id='-166' visible='true' lat='43.26739573' lon='-72.84942791'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='8' />
-    <tag k='addr:street' v='Ridge Road' />
+    <tag k='addr:street' v='Tarpley Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139300' />
+    <tag k='ref:vcgi:esiteid' v='139233' />
   </node>
-  <node id='-198' visible='true' lat='43.2656864' lon='-72.84269018'>
+  <node id='-167' visible='true' lat='43.26718139' lon='-72.8506801'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Tarpley Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139234' />
+  </node>
+  <node id='-168' visible='true' lat='43.26624258' lon='-72.85470802'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Old County Rd W' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139235' />
+  </node>
+  <node id='-169' visible='true' lat='43.26629857' lon='-72.85725695'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139236' />
+  </node>
+  <node id='-170' visible='true' lat='43.2663679' lon='-72.84596422'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139237' />
+  </node>
+  <node id='-171' visible='true' lat='43.26550055' lon='-72.85028011'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:street' v='Old County Rd W' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139238' />
+  </node>
+  <node id='-172' visible='true' lat='43.26605944' lon='-72.84052299'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Old County Rd E' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139239' />
+  </node>
+  <node id='-173' visible='true' lat='43.265847' lon='-72.84017168'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Old County Rd E' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139240' />
+  </node>
+  <node id='-174' visible='true' lat='43.26580396' lon='-72.85558653'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Old County Rd W' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139241' />
+  </node>
+  <node id='-175' visible='true' lat='43.26578465' lon='-72.85652226'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='84' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139242' />
+  </node>
+  <node id='-176' visible='true' lat='43.26576403' lon='-72.83328405'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:street' v='Old County Rd E' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139243' />
+  </node>
+  <node id='-177' visible='true' lat='43.2656864' lon='-72.84269018'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='4' />
     <tag k='addr:street' v='Old County Rd E' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='139244' />
   </node>
-  <node id='-199' visible='true' lat='43.25968476' lon='-72.85176333'>
+  <node id='-178' visible='true' lat='43.26503189' lon='-72.85485263'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='16' />
-    <tag k='addr:street' v='Nichols Road' />
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:street' v='Landgrove Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='617828' />
+    <tag k='ref:vcgi:esiteid' v='139245' />
   </node>
-  <node id='-200' visible='true' lat='43.23890475' lon='-72.85183373'>
+  <node id='-179' visible='true' lat='43.26427478' lon='-72.86083453'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='17' />
-    <tag k='addr:street' v='Valley View Drive' />
+    <tag k='addr:street' v='Hapgood Pond Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139299' />
+    <tag k='ref:vcgi:esiteid' v='139246' />
   </node>
-  <node id='-201' visible='true' lat='43.26388726' lon='-72.86117264'>
+  <node id='-180' visible='true' lat='43.26399034' lon='-72.85528881'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139247' />
+  </node>
+  <node id='-181' visible='true' lat='43.26400623' lon='-72.84841795'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139248' />
+  </node>
+  <node id='-182' visible='true' lat='43.26388726' lon='-72.86117264'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='15' />
     <tag k='addr:street' v='Hapgood Pond Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='139249' />
   </node>
-  <node id='-203' visible='true' lat='43.25926186' lon='-72.86022609'>
+  <node id='-183' visible='true' lat='43.26384737' lon='-72.84254697'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Old County Rd E' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139250' />
+  </node>
+  <node id='-184' visible='true' lat='43.26354876' lon='-72.84515918'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139251' />
+  </node>
+  <node id='-185' visible='true' lat='43.26358518' lon='-72.86181913'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Hapgood Pond Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139252' />
+  </node>
+  <node id='-186' visible='true' lat='43.26307277' lon='-72.84670266'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139253' />
+  </node>
+  <node id='-187' visible='true' lat='43.26318563' lon='-72.86053735'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Hapgood Pond Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139254' />
+  </node>
+  <node id='-188' visible='true' lat='43.26311197' lon='-72.86240829'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Hapgood Pond Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139255' />
+  </node>
+  <node id='-189' visible='true' lat='43.26265449' lon='-72.84578619'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139256' />
+  </node>
+  <node id='-190' visible='true' lat='43.26193606' lon='-72.84842204'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139257' />
+  </node>
+  <node id='-191' visible='true' lat='43.26087575' lon='-72.84881787'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139258' />
+  </node>
+  <node id='-192' visible='true' lat='43.26047889' lon='-72.84887255'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139259' />
+  </node>
+  <node id='-193' visible='true' lat='43.26014318' lon='-72.84893627'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139260' />
+  </node>
+  <node id='-194' visible='true' lat='43.25987453' lon='-72.84852713'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139261' />
+  </node>
+  <node id='-195' visible='true' lat='43.25981706' lon='-72.84894113'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139262' />
+  </node>
+  <node id='-196' visible='true' lat='43.25981134' lon='-72.85015131'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Nichols Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139263' />
+  </node>
+  <node id='-197' visible='true' lat='43.25958086' lon='-72.86140497'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Hapgood Pond Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139264' />
+  </node>
+  <node id='-198' visible='true' lat='43.25960551' lon='-72.84842324'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139265' />
+  </node>
+  <node id='-199' visible='true' lat='43.25949693' lon='-72.84920318'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Nichols Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139266' />
+  </node>
+  <node id='-201' visible='true' lat='43.25941084' lon='-72.84876779'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139268' />
+  </node>
+  <node id='-202' visible='true' lat='43.25926186' lon='-72.86022609'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='8' />
     <tag k='addr:street' v='Hapgood Pond Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='139269' />
   </node>
-  <node id='-206' visible='true' lat='43.28315365' lon='-72.85953121'>
+  <node id='-203' visible='true' lat='43.25909059' lon='-72.84877393'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='217' />
+    <tag k='addr:housenumber' v='13' />
     <tag k='addr:street' v='Landgrove Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139320' />
+    <tag k='ref:vcgi:esiteid' v='139270' />
+  </node>
+  <node id='-204' visible='true' lat='43.2589531' lon='-72.84839634'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139271' />
+  </node>
+  <node id='-205' visible='true' lat='43.25899678' lon='-72.84930812'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139272' />
+  </node>
+  <node id='-206' visible='true' lat='43.25893415' lon='-72.85628908'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:street' v='Nichols Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139273' />
+  </node>
+  <node id='-207' visible='true' lat='43.25898934' lon='-72.85272686'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='Nichols Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139274' />
   </node>
   <node id='-208' visible='true' lat='43.25884253' lon='-72.85398562'>
     <tag k='addr:city' v='Landgrove' />
@@ -616,180 +756,194 @@
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='139275' />
   </node>
-  <node id='-209' visible='true' lat='43.26171228' lon='-72.82147127'>
+  <node id='-209' visible='true' lat='43.25871616' lon='-72.84887557'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='26' />
-    <tag k='addr:street' v='Breeds Hill Drive' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Landgrove Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='336567' />
+    <tag k='ref:vcgi:esiteid' v='139276' />
   </node>
-  <node id='-210' visible='true' lat='43.26624258' lon='-72.85470802'>
+  <node id='-210' visible='true' lat='43.25833732' lon='-72.85525024'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='12' />
-    <tag k='addr:street' v='Old County Rd W' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:street' v='Nichols Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139235' />
+    <tag k='ref:vcgi:esiteid' v='139278' />
   </node>
-  <node id='-211' visible='true' lat='43.2992772' lon='-72.84297226'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='88' />
-    <tag k='addr:street' v='Jaquith Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139169' />
-  </node>
-  <node id='-212' visible='true' lat='43.25583279' lon='-72.85125647'>
+  <node id='-211' visible='true' lat='43.25583279' lon='-72.85125647'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='139' />
     <tag k='addr:street' v='Ridge Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='139279' />
   </node>
-  <node id='-213' visible='true' lat='43.27891528' lon='-72.84297981'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='141' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139202' />
-  </node>
-  <node id='-214' visible='true' lat='43.2278044' lon='-72.86182329'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='56' />
-    <tag k='addr:street' v='Red Pine Drive' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='617459' />
-  </node>
-  <node id='-215' visible='true' lat='43.26439142' lon='-72.82324208'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='25' />
-    <tag k='addr:street' v='Shaw Knoll Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139325' />
-  </node>
-  <node id='-216' visible='true' lat='43.24320257' lon='-72.86412343'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='63' />
-    <tag k='addr:street' v='Brook Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139329' />
-  </node>
-  <node id='-217' visible='true' lat='43.23651145' lon='-72.85404797'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='58' />
-    <tag k='addr:street' v='Vermont Route 11' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139305' />
-  </node>
-  <node id='-219' visible='true' lat='43.29194089' lon='-72.82402658'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='403' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139179' />
-  </node>
-  <node id='-220' visible='true' lat='43.23710947' lon='-72.85078189'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='3' />
-    <tag k='addr:street' v='Valley View Drive' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139302' />
-  </node>
-  <node id='-221' visible='true' lat='43.29804157' lon='-72.8263249'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='521' />
-    <tag k='addr:street' v='Holt Mountain Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='752091' />
-  </node>
-  <node id='-222' visible='true' lat='43.26605944' lon='-72.84052299'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='11' />
-    <tag k='addr:street' v='Old County Rd E' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139239' />
-  </node>
-  <node id='-223' visible='true' lat='43.26896282' lon='-72.83221236'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='14' />
-    <tag k='addr:street' v='Sled Run' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139227' />
-  </node>
-  <node id='-224' visible='true' lat='43.26580396' lon='-72.85558653'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='6' />
-    <tag k='addr:street' v='Old County Rd W' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139241' />
-  </node>
-  <node id='-226' visible='true' lat='43.23733338' lon='-72.85403618'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='59' />
-    <tag k='addr:street' v='Vermont Route 11' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139301' />
-  </node>
-  <node id='-227' visible='true' lat='43.23634867' lon='-72.85594449'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='1' />
-    <tag k='addr:street' v='Landgrove Hollow Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='336524' />
-  </node>
-  <node id='-228' visible='true' lat='43.28091457' lon='-72.82052481'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='15' />
-    <tag k='addr:street' v='Ardis Lane' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='452574' />
-  </node>
-  <node id='-229' visible='true' lat='43.27178402' lon='-72.86118418'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='132' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139220' />
-  </node>
-  <node id='-230' visible='true' lat='43.25553901' lon='-72.85828599'>
+  <node id='-212' visible='true' lat='43.25553901' lon='-72.85828599'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='62' />
     <tag k='addr:street' v='Nichols Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='139280' />
   </node>
-  <node id='-231' visible='true' lat='43.25378914' lon='-72.85927835'>
+  <node id='-213' visible='true' lat='43.25554439' lon='-72.85142226'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='78' />
-    <tag k='addr:street' v='Nichols Road' />
+    <tag k='addr:housenumber' v='137' />
+    <tag k='addr:street' v='Ridge Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139287' />
+    <tag k='ref:vcgi:esiteid' v='139281' />
   </node>
-  <node id='-232' visible='true' lat='43.25483895' lon='-72.8580895'>
+  <node id='-214' visible='true' lat='43.25483895' lon='-72.8580895'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='66' />
     <tag k='addr:street' v='Nichols Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='139282' />
   </node>
-  <node id='-233' visible='true' lat='43.22826049' lon='-72.86075546'>
+  <node id='-215' visible='true' lat='43.25469242' lon='-72.85210412'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='44' />
-    <tag k='addr:street' v='Red Pine Drive' />
+    <tag k='addr:housenumber' v='129' />
+    <tag k='addr:street' v='Ridge Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139312' />
+    <tag k='ref:vcgi:esiteid' v='139283' />
   </node>
-  <node id='-234' visible='true' lat='43.26629857' lon='-72.85725695'>
+  <node id='-216' visible='true' lat='43.25460626' lon='-72.86210612'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='88' />
-    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:housenumber' v='102' />
+    <tag k='addr:street' v='Nichols Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139236' />
+    <tag k='ref:vcgi:esiteid' v='139284' />
   </node>
-  <node id='-235' visible='true' lat='43.25987453' lon='-72.84852713'>
+  <node id='-217' visible='true' lat='43.25428238' lon='-72.84880523'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='18' />
-    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:housenumber' v='138' />
+    <tag k='addr:street' v='Ridge Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139261' />
+    <tag k='ref:vcgi:esiteid' v='139285' />
+  </node>
+  <node id='-218' visible='true' lat='43.2539266' lon='-72.85804138'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='73' />
+    <tag k='addr:street' v='Nichols Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139286' />
+  </node>
+  <node id='-219' visible='true' lat='43.25378914' lon='-72.85927835'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:street' v='Nichols Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139287' />
+  </node>
+  <node id='-220' visible='true' lat='43.2536741' lon='-72.85225802'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='124' />
+    <tag k='addr:street' v='Ridge Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139288' />
+  </node>
+  <node id='-221' visible='true' lat='43.25300977' lon='-72.86129008'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='92' />
+    <tag k='addr:street' v='Nichols Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139289' />
+  </node>
+  <node id='-222' visible='true' lat='43.25295461' lon='-72.86245223'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:street' v='Nichols Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139290' />
+  </node>
+  <node id='-223' visible='true' lat='43.25243187' lon='-72.86069751'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:street' v='Nichols Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139291' />
+  </node>
+  <node id='-224' visible='true' lat='43.25100369' lon='-72.85450955'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:street' v='Ridge Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139292' />
+  </node>
+  <node id='-225' visible='true' lat='43.24400025' lon='-72.85459335'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:street' v='Ridge Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139293' />
+  </node>
+  <node id='-226' visible='true' lat='43.2437536' lon='-72.85553109'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:street' v='Ridge Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139294' />
+  </node>
+  <node id='-227' visible='true' lat='43.24212005' lon='-72.85540543'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:street' v='Ridge Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139295' />
+  </node>
+  <node id='-228' visible='true' lat='43.24126603' lon='-72.85557725'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:street' v='Ridge Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139296' />
+  </node>
+  <node id='-229' visible='true' lat='43.23938214' lon='-72.8538259'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:street' v='Ridge Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139297' />
+  </node>
+  <node id='-230' visible='true' lat='43.24043553' lon='-72.85168785'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Valley View Drive' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139298' />
+  </node>
+  <node id='-231' visible='true' lat='43.23890475' lon='-72.85183373'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Valley View Drive' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139299' />
+  </node>
+  <node id='-232' visible='true' lat='43.23753692' lon='-72.85542305'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Ridge Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139300' />
+  </node>
+  <node id='-233' visible='true' lat='43.23733338' lon='-72.85403618'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:street' v='Vermont Route 11' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139301' />
+  </node>
+  <node id='-234' visible='true' lat='43.23710947' lon='-72.85078189'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Valley View Drive' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139302' />
+  </node>
+  <node id='-235' visible='true' lat='43.23672485' lon='-72.86351013'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Vermont Route 11' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139303' />
   </node>
   <node id='-236' visible='true' lat='43.23660092' lon='-72.85647549'>
     <tag k='addr:city' v='Landgrove' />
@@ -798,494 +952,347 @@
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='139304' />
   </node>
-  <node id='-237' visible='true' lat='43.25899678' lon='-72.84930812'>
+  <node id='-237' visible='true' lat='43.23651145' lon='-72.85404797'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='7' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139272' />
-  </node>
-  <node id='-238' visible='true' lat='43.27678525' lon='-72.84958881'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='49' />
-    <tag k='addr:street' v='Uphill Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139209' />
-  </node>
-  <node id='-239' visible='true' lat='43.26895434' lon='-72.84087459'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='70' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139228' />
-  </node>
-  <node id='-240' visible='true' lat='43.26087575' lon='-72.84881787'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='23' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139258' />
-  </node>
-  <node id='-241' visible='true' lat='43.26307277' lon='-72.84670266'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='7' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139253' />
-  </node>
-  <node id='-242' visible='true' lat='43.28555471' lon='-72.84168839'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='186' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139195' />
-  </node>
-  <node id='-243' visible='true' lat='43.27923974' lon='-72.85790953'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='190' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139200' />
-  </node>
-  <node id='-244' visible='true' lat='43.29093161' lon='-72.83262197'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='363' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139183' />
-  </node>
-  <node id='-245' visible='true' lat='43.26150149' lon='-72.81983956'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='23' />
-    <tag k='addr:street' v='Breeds Hill Drive' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='336751' />
-  </node>
-  <node id='-246' visible='true' lat='43.28876607' lon='-72.84475696'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='298' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='613572' />
-  </node>
-  <node id='-247' visible='true' lat='43.26817709' lon='-72.85071482'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='13' />
-    <tag k='addr:street' v='Tarpley Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139229' />
-  </node>
-  <node id='-248' visible='true' lat='43.24043553' lon='-72.85168785'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='23' />
-    <tag k='addr:street' v='Valley View Drive' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139298' />
-  </node>
-  <node id='-249' visible='true' lat='43.26311197' lon='-72.86240829'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='7' />
-    <tag k='addr:street' v='Hapgood Pond Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139255' />
-  </node>
-  <node id='-250' visible='true' lat='43.28083707' lon='-72.8433721'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='155' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139198' />
-  </node>
-  <node id='-252' visible='true' lat='43.25243187' lon='-72.86069751'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='89' />
-    <tag k='addr:street' v='Nichols Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139291' />
-  </node>
-  <node id='-254' visible='true' lat='43.28659468' lon='-72.82758869'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='392' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139194' />
-  </node>
-  <node id='-255' visible='true' lat='43.29985801' lon='-72.84484935'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='97' />
-    <tag k='addr:street' v='Jaquith Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139168' />
-  </node>
-  <node id='-256' visible='true' lat='43.26348662' lon='-72.82055196'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='7' />
-    <tag k='addr:street' v='Breeds Hill Drive' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='329432' />
-  </node>
-  <node id='-257' visible='true' lat='43.25893415' lon='-72.85628908'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='40' />
-    <tag k='addr:street' v='Nichols Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139273' />
-  </node>
-  <node id='-258' visible='true' lat='43.25898934' lon='-72.85272686'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='22' />
-    <tag k='addr:street' v='Nichols Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139274' />
-  </node>
-  <node id='-260' visible='true' lat='43.27971628' lon='-72.84115414'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='146' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139199' />
-  </node>
-  <node id='-261' visible='true' lat='43.26354876' lon='-72.84515918'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='10' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139251' />
-  </node>
-  <node id='-262' visible='true' lat='43.27752312' lon='-72.86028527'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='175' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='618443' />
-  </node>
-  <node id='-263' visible='true' lat='43.2536741' lon='-72.85225802'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='124' />
-    <tag k='addr:street' v='Ridge Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139288' />
-  </node>
-  <node id='-264' visible='true' lat='43.28887988' lon='-72.84500757'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='296' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139319' />
-  </node>
-  <node id='-265' visible='true' lat='43.25833732' lon='-72.85525024'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='37' />
-    <tag k='addr:street' v='Nichols Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139278' />
-  </node>
-  <node id='-267' visible='true' lat='43.23401493' lon='-72.85861324'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='12' />
-    <tag k='addr:street' v='Landgrove Hollow Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139321' />
-  </node>
-  <node id='-268' visible='true' lat='43.265847' lon='-72.84017168'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='13' />
-    <tag k='addr:street' v='Old County Rd E' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139240' />
-  </node>
-  <node id='-269' visible='true' lat='43.27060882' lon='-72.86205102'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='125' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139221' />
-  </node>
-  <node id='-270' visible='true' lat='43.29733038' lon='-72.85848163'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='54' />
-    <tag k='addr:street' v='Russet Hill Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='330003' />
-  </node>
-  <node id='-272' visible='true' lat='43.2539266' lon='-72.85804138'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='73' />
-    <tag k='addr:street' v='Nichols Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139286' />
-  </node>
-  <node id='-273' visible='true' lat='43.29756104' lon='-72.84388228'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='89' />
-    <tag k='addr:street' v='Jaquith Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139171' />
-  </node>
-  <node id='-274' visible='true' lat='43.25999115' lon='-72.82070308'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='35' />
-    <tag k='addr:street' v='Breeds Hill Drive' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139326' />
-  </node>
-  <node id='-275' visible='true' lat='43.29095886' lon='-72.82833433'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='385' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139184' />
-  </node>
-  <node id='-276' visible='true' lat='43.2589531' lon='-72.84839634'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='12' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139271' />
-  </node>
-  <node id='-277' visible='true' lat='43.26730729' lon='-72.83569595'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='13' />
-    <tag k='addr:street' v='Sled Run' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139232' />
-  </node>
-  <node id='-278' visible='true' lat='43.25100369' lon='-72.85450955'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='101' />
-    <tag k='addr:street' v='Ridge Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139292' />
-  </node>
-  <node id='-279' visible='true' lat='43.27878401' lon='-72.85841481'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='2' />
-    <tag k='addr:street' v='Uphill Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139203' />
-  </node>
-  <node id='-281' visible='true' lat='43.26550055' lon='-72.85028011'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='38' />
-    <tag k='addr:street' v='Old County Rd W' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139238' />
-  </node>
-  <node id='-283' visible='true' lat='43.26936747' lon='-72.86010472'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='115' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='755861' />
-  </node>
-  <node id='-284' visible='true' lat='43.27543877' lon='-72.84886089'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='55' />
-    <tag k='addr:street' v='Uphill Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139213' />
-  </node>
-  <node id='-286' visible='true' lat='43.26906757' lon='-72.85822443'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='108' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139226' />
-  </node>
-  <node id='-287' visible='true' lat='43.27240737' lon='-72.84497456'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='101' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139218' />
-  </node>
-  <node id='-289' visible='true' lat='43.27201776' lon='-72.84985476'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='41' />
-    <tag k='addr:street' v='Tarpley Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139219' />
-  </node>
-  <node id='-290' visible='true' lat='43.27032699' lon='-72.86033082'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='120' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139222' />
-  </node>
-  <node id='-292' visible='true' lat='43.26591623' lon='-72.85872707'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='33' />
-    <tag k='addr:street' v='Hapgood Pond Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='1050327' />
-  </node>
-  <node id='-293' visible='true' lat='43.23558975' lon='-72.85641185'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='8' />
-    <tag k='addr:street' v='Landgrove Hollow Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139308' />
-  </node>
-  <node id='-294' visible='true' lat='43.25877739' lon='-72.8484641'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='10' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='750889' />
-  </node>
-  <node id='-296' visible='true' lat='43.23672485' lon='-72.86351013'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:housenumber' v='58' />
     <tag k='addr:street' v='Vermont Route 11' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139303' />
+    <tag k='ref:vcgi:esiteid' v='139305' />
   </node>
-  <node id='-297' visible='true' lat='43.23616797' lon='-72.85090367'>
+  <node id='-238' visible='true' lat='43.23616797' lon='-72.85090367'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='78' />
     <tag k='addr:street' v='Vermont Route 11' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='139306' />
   </node>
-  <node id='-299' visible='true' lat='43.29300314' lon='-72.83700704'>
+  <node id='-239' visible='true' lat='43.23569943' lon='-72.85548356'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='28' />
-    <tag k='addr:street' v='Jaquith Road' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Landgrove Hollow Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139173' />
+    <tag k='ref:vcgi:esiteid' v='139307' />
   </node>
-  <node id='-301' visible='true' lat='43.26399034' lon='-72.85528881'>
+  <node id='-240' visible='true' lat='43.23558975' lon='-72.85641185'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='69' />
-    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Landgrove Hollow Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139247' />
+    <tag k='ref:vcgi:esiteid' v='139308' />
   </node>
-  <node id='-302' visible='true' lat='43.24400025' lon='-72.85459335'>
+  <node id='-241' visible='true' lat='43.23514403' lon='-72.86043442'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='54' />
-    <tag k='addr:street' v='Ridge Road' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:street' v='Vermont Route 11' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139293' />
+    <tag k='ref:vcgi:esiteid' v='139309' />
   </node>
-  <node id='-303' visible='true' lat='43.27665538' lon='-72.85618977'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='14' />
-    <tag k='addr:street' v='Uphill Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139210' />
-  </node>
-  <node id='-304' visible='true' lat='43.26969443' lon='-72.8503492'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='25' />
-    <tag k='addr:street' v='Tarpley Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139223' />
-  </node>
-  <node id='-306' visible='true' lat='43.2297857' lon='-72.86266998'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='34' />
-    <tag k='addr:street' v='Red Pine Drive' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139311' />
-  </node>
-  <node id='-307' visible='true' lat='43.26400623' lon='-72.84841795'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='15' />
-    <tag k='addr:street' v='Cody Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139248' />
-  </node>
-  <node id='-308' visible='true' lat='43.20802784' lon='-72.85178966'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='243' />
-    <tag k='addr:street' v='Beattie Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='141978' />
-  </node>
-  <node id='-309' visible='true' lat='43.26047889' lon='-72.84887255'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='21' />
-    <tag k='addr:street' v='Landgrove Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139259' />
-  </node>
-  <node id='-310' visible='true' lat='43.25295461' lon='-72.86245223'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='100' />
-    <tag k='addr:street' v='Nichols Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139290' />
-  </node>
-  <node id='-311' visible='true' lat='43.26718139' lon='-72.8506801'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='9' />
-    <tag k='addr:street' v='Tarpley Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139234' />
-  </node>
-  <node id='-312' visible='true' lat='43.29180129' lon='-72.83940091'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='15' />
-    <tag k='addr:street' v='Jaquith Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139180' />
-  </node>
-  <node id='-313' visible='true' lat='43.29464803' lon='-72.85528022'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='23' />
-    <tag k='addr:street' v='Russet Hill Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139315' />
-  </node>
-  <node id='-314' visible='true' lat='43.23301321' lon='-72.85587396'>
+  <node id='-242' visible='true' lat='43.23301321' lon='-72.85587396'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='25' />
     <tag k='addr:street' v='Landgrove Hollow Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='139310' />
   </node>
-  <node id='-315' visible='true' lat='43.27840818' lon='-72.85442001'>
+  <node id='-243' visible='true' lat='43.2297857' lon='-72.86266998'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:street' v='Red Pine Drive' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139311' />
+  </node>
+  <node id='-244' visible='true' lat='43.22826049' lon='-72.86075546'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:street' v='Red Pine Drive' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139312' />
+  </node>
+  <node id='-245' visible='true' lat='43.28953816' lon='-72.82960701'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='382' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139313' />
+  </node>
+  <node id='-246' visible='true' lat='43.28107718' lon='-72.85443606'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='206' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139314' />
+  </node>
+  <node id='-247' visible='true' lat='43.29464803' lon='-72.85528022'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Russet Hill Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139315' />
+  </node>
+  <node id='-248' visible='true' lat='43.29806919' lon='-72.8601139'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:street' v='Russet Hill Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139316' />
+  </node>
+  <node id='-249' visible='true' lat='43.26629593' lon='-72.83045854'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='53' />
+    <tag k='addr:street' v='Old County Rd E' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139317' />
+  </node>
+  <node id='-250' visible='true' lat='43.27247291' lon='-72.83614184'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139318' />
+  </node>
+  <node id='-251' visible='true' lat='43.28887988' lon='-72.84500757'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='296' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139319' />
+  </node>
+  <node id='-252' visible='true' lat='43.28315365' lon='-72.85953121'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='217' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139320' />
+  </node>
+  <node id='-253' visible='true' lat='43.23401493' lon='-72.85861324'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Landgrove Hollow Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139321' />
+  </node>
+  <node id='-254' visible='true' lat='43.23905884' lon='-72.85004437'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Valley View Drive' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139322' />
+  </node>
+  <node id='-255' visible='true' lat='43.24066841' lon='-72.84986443'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='Valley View Drive' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139323' />
+  </node>
+  <node id='-256' visible='true' lat='43.23466606' lon='-72.85522243'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Cest La Vie Drive' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139324' />
+  </node>
+  <node id='-257' visible='true' lat='43.26439142' lon='-72.82324208'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Shaw Knoll Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139325' />
+  </node>
+  <node id='-258' visible='true' lat='43.25999115' lon='-72.82070308'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:street' v='Breeds Hill Drive' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139326' />
+  </node>
+  <node id='-259' visible='true' lat='43.24320257' lon='-72.86412343'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='63' />
+    <tag k='addr:street' v='Brook Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='139329' />
+  </node>
+  <node id='-260' visible='true' lat='43.20802784' lon='-72.85178966'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='243' />
+    <tag k='addr:street' v='Beattie Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='141978' />
+  </node>
+  <node id='-261' visible='true' lat='43.27428051' lon='-72.82260673'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='239' />
+    <tag k='addr:street' v='Holden Hill Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='284986' />
+  </node>
+  <node id='-262' visible='true' lat='43.26348662' lon='-72.82055196'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Breeds Hill Drive' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='329432' />
+  </node>
+  <node id='-263' visible='true' lat='43.29733038' lon='-72.85848163'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:street' v='Russet Hill Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='330003' />
+  </node>
+  <node id='-264' visible='true' lat='43.23634867' lon='-72.85594449'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Landgrove Hollow Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='336524' />
+  </node>
+  <node id='-265' visible='true' lat='43.26171228' lon='-72.82147127'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:street' v='Breeds Hill Drive' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='336567' />
+  </node>
+  <node id='-266' visible='true' lat='43.26150149' lon='-72.81983956'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Breeds Hill Drive' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='336751' />
+  </node>
+  <node id='-267' visible='true' lat='43.27840818' lon='-72.85442001'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='23' />
     <tag k='addr:street' v='Uphill Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='340229' />
   </node>
-  <node id='-319' visible='true' lat='43.28087411' lon='-72.82473625'>
+  <node id='-268' visible='true' lat='43.20594913' lon='-72.86584789'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:street' v='South Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='449216' />
+  </node>
+  <node id='-269' visible='true' lat='43.26494221' lon='-72.81977232'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Shaw Knoll Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='452509' />
+  </node>
+  <node id='-270' visible='true' lat='43.2804961' lon='-72.83032802'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='67' />
+    <tag k='addr:street' v='Ardis Lane' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='452573' />
+  </node>
+  <node id='-271' visible='true' lat='43.28091457' lon='-72.82052481'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Ardis Lane' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='452574' />
+  </node>
+  <node id='-272' visible='true' lat='43.28087411' lon='-72.82473625'>
     <tag k='addr:city' v='Landgrove' />
     <tag k='addr:housenumber' v='33' />
     <tag k='addr:street' v='Ardis Lane' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='452575' />
   </node>
-  <node id='-320' visible='true' lat='43.27909675' lon='-72.85039916'>
+  <node id='-273' visible='true' lat='43.26304823' lon='-72.84014591'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='45' />
-    <tag k='addr:street' v='Uphill Road' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Old County Rd E' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139201' />
+    <tag k='ref:vcgi:esiteid' v='453658' />
   </node>
-  <node id='-321' visible='true' lat='43.2966667' lon='-72.83840101'>
+  <node id='-274' visible='true' lat='43.28876607' lon='-72.84475696'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='61' />
-    <tag k='addr:street' v='Jaquith Road' />
-    <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139172' />
-  </node>
-  <node id='-322' visible='true' lat='43.28887177' lon='-72.84736633'>
-    <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='284' />
+    <tag k='addr:housenumber' v='298' />
     <tag k='addr:street' v='Landgrove Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139191' />
+    <tag k='ref:vcgi:esiteid' v='613572' />
   </node>
-  <node id='-323' visible='true' lat='43.27770991' lon='-72.85412895'>
+  <node id='-275' visible='true' lat='43.29140365' lon='-72.82191948'>
     <tag k='addr:city' v='Landgrove' />
-    <tag k='addr:housenumber' v='27' />
-    <tag k='addr:street' v='Uphill Road' />
+    <tag k='addr:housenumber' v='419' />
+    <tag k='addr:street' v='Landgrove Road' />
     <tag k='addr:state' v='VT' />
-    <tag k='ref:vcgi:esiteid' v='139206' />
+    <tag k='ref:vcgi:esiteid' v='613573' />
+  </node>
+  <node id='-279' visible='true' lat='43.27587431' lon='-72.86088333'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='163' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='617458' />
+  </node>
+  <node id='-280' visible='true' lat='43.2278044' lon='-72.86182329'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:street' v='Red Pine Drive' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='617459' />
+  </node>
+  <node id='-281' visible='true' lat='43.25968476' lon='-72.85176333'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Nichols Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='617828' />
+  </node>
+  <node id='-282' visible='true' lat='43.27752312' lon='-72.86028527'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='175' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='618443' />
+  </node>
+  <node id='-319' visible='true' lat='43.25877739' lon='-72.8484641'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='750889' />
+  </node>
+  <node id='-320' visible='true' lat='43.29804157' lon='-72.8263249'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='521' />
+    <tag k='addr:street' v='Holt Mountain Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='752091' />
+  </node>
+  <node id='-321' visible='true' lat='43.26936747' lon='-72.86010472'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:street' v='Landgrove Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='755861' />
+  </node>
+  <node id='-322' visible='true' lat='43.27093439' lon='-72.84128702'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:street' v='Cody Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='760997' />
+  </node>
+  <node id='-323' visible='true' lat='43.26405' lon='-72.83748474'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:street' v='Old County Rd E' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='764318' />
+  </node>
+  <node id='-324' visible='true' lat='43.26591623' lon='-72.85872707'>
+    <tag k='addr:city' v='Landgrove' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:street' v='Hapgood Pond Road' />
+    <tag k='addr:state' v='VT' />
+    <tag k='ref:vcgi:esiteid' v='1050327' />
   </node>
 </osm>
