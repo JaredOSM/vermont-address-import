@@ -63,7 +63,7 @@ Your `php.ini` probably needs the location of `mod_spatialite.so` added. Somethi
 
 2. (optional) Rebuild the SQLite database holding these address points.
 
-    ./reload_osm_addresses.php
+    ./reload_osm_addresses.php osm_data/osm_addresses.osm
 
 3. Generate bucketed data-sets for a town. This will go through all of the
    addresses in the input file and see if they exist in the local database of OSM
