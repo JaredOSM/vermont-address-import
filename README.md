@@ -88,3 +88,43 @@ Your `php.ini` probably needs the location of `mod_spatialite.so` added. Somethi
    b. Conflate all towns:
 
         ./conflate_all.php -v
+
+Note that the conflation process is mostly CPU limited while doing proximity
+lookups when address matches don't exist yet in OSM. In similar-sized towns, the
+conflation process will go much faster in those with good address coverage than
+without. Because the conflation process is single-threaded it is possible to
+utilize multiple CPUs (if available) by running multiple conflation jobs for
+different ranges of town names.
+
+The Vermont E911 data set currently has about 350,000 address points.
+For example, you could open 4 bash shells and run one of the following commands
+in each one:
+
+- `./conflate_all.php -v --name-range=-concord`
+- `./conflate_all.php -v --name-range=corinth-maidstone`
+- `./conflate_all.php -v --name-range=manchester-shaftsbury`
+- `./conflate_all.php -v --name-range=sharon-`
+
+This will saturate 4 processor cores and cover about 87,000 input address points
+on each.
+
+To divide across 3 cores the approximately equal ranges would be:
+- `./conflate_all.php -v --name-range=-fair_haven`
+- `./conflate_all.php -v --name-range=fairfax-richmond`
+- `./conflate_all.php -v --name-range=ripton-`
+
+To divide across 8 cores the approximately equal ranges would be:
+- `./conflate_all.php -v --name-range=-bridgewater`
+- `./conflate_all.php -v --name-range=bridport-concord`
+- `./conflate_all.php -v --name-range=corinth-granville`
+- `./conflate_all.php -v --name-range=greensboro-maidstone`
+- `./conflate_all.php -v --name-range=manchester-pittsfield`
+- `./conflate_all.php -v --name-range=pittsfield-shaftsbury`
+- `./conflate_all.php -v --name-range=sharon-vernon`
+- `./conflate_all.php -v --name-range=vershire-`
+
+The `osm_data/osm_addresses.sqlite` file and
+`data_files_to_import/draft/*_addresses.osm` files committed to this repository
+contain all of the data needed to run the conflation and write ouptut to
+`data_files_to_import/conflated/`. As such, these jobs could even be split
+across multiple physical machines if desired.
