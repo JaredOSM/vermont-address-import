@@ -205,7 +205,7 @@
   </node>
   <node id='-130' visible='true' lat='44.67513656' lon='-73.34699249'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='581 A' />
+    <tag k='addr:housenumber' v='581A' />
     <tag k='addr:street' v='West Shore Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='233275' />
@@ -989,7 +989,7 @@
   </node>
   <node id='-244' visible='true' lat='44.66454' lon='-73.28696507'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='55 A' />
+    <tag k='addr:housenumber' v='55A' />
     <tag k='addr:street' v='Kibbe Farm Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='233390' />
@@ -1164,7 +1164,7 @@
   </node>
   <node id='-269' visible='true' lat='44.6627808' lon='-73.28807702'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='41 B' />
+    <tag k='addr:housenumber' v='41B' />
     <tag k='addr:street' v='Kibbe Farm Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='233418' />
@@ -1178,7 +1178,7 @@
   </node>
   <node id='-271' visible='true' lat='44.66259786' lon='-73.28787163'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='41 A' />
+    <tag k='addr:housenumber' v='41A' />
     <tag k='addr:street' v='Kibbe Farm Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='233420' />
@@ -1444,7 +1444,7 @@
   </node>
   <node id='-309' visible='true' lat='44.66026687' lon='-73.32297515'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='493 A' />
+    <tag k='addr:housenumber' v='493A' />
     <tag k='addr:street' v='U.S. Route 2' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='233460' />
@@ -1612,7 +1612,7 @@
   </node>
   <node id='-333' visible='true' lat='44.65924002' lon='-73.31855777'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='17 A' />
+    <tag k='addr:housenumber' v='17A' />
     <tag k='addr:street' v='Keelers Lane' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='233486' />
@@ -1836,7 +1836,7 @@
   </node>
   <node id='-365' visible='true' lat='44.65722896' lon='-73.3221556'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='465 B' />
+    <tag k='addr:housenumber' v='465B' />
     <tag k='addr:street' v='U.S. Route 2' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='233519' />
@@ -2893,7 +2893,7 @@
   </node>
   <node id='-516' visible='true' lat='44.64910573' lon='-73.2949874'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='17 A' />
+    <tag k='addr:housenumber' v='17A' />
     <tag k='addr:street' v='Heritage Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='233677' />
@@ -4636,7 +4636,7 @@
   </node>
   <node id='-768' visible='true' lat='44.63028985' lon='-73.32613894'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='68 A' />
+    <tag k='addr:housenumber' v='68A' />
     <tag k='addr:street' v='Lakeview Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='233947' />
@@ -5504,7 +5504,8 @@
   </node>
   <node id='-893' visible='true' lat='44.61808253' lon='-73.27551566'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 6' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='6' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='234078' />
@@ -7429,14 +7430,14 @@
   </node>
   <node id='-1169' visible='true' lat='44.65048831' lon='-73.31706406'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='14 B' />
+    <tag k='addr:housenumber' v='14B' />
     <tag k='addr:street' v='Iodine Spring Street' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='312178' />
   </node>
   <node id='-1170' visible='true' lat='44.63018732' lon='-73.32614349'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='68 B' />
+    <tag k='addr:housenumber' v='68B' />
     <tag k='addr:street' v='Lakeview Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='312179' />
@@ -7611,7 +7612,7 @@
   </node>
   <node id='-1196' visible='true' lat='44.66795636' lon='-73.33505199'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='1 B' />
+    <tag k='addr:housenumber' v='1B' />
     <tag k='addr:street' v='Eagle Camp Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='343475' />
@@ -9361,28 +9362,32 @@
   </node>
   <node id='-1446' visible='true' lat='44.61784851' lon='-73.27462879'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 4' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='4' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445401' />
   </node>
   <node id='-1447' visible='true' lat='44.61808253' lon='-73.27551566'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 13' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='13' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445402' />
   </node>
   <node id='-1448' visible='true' lat='44.61763316' lon='-73.27492051'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 10' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='10' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445403' />
   </node>
   <node id='-1449' visible='true' lat='44.61778593' lon='-73.2755532'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 15' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='15' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445404' />
@@ -9396,77 +9401,88 @@
   </node>
   <node id='-1451' visible='true' lat='44.6183023' lon='-73.27457259'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 1' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='1' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445406' />
   </node>
   <node id='-1452' visible='true' lat='44.6176944' lon='-73.27463089'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 5' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='5' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445407' />
   </node>
   <node id='-1453' visible='true' lat='44.61717574' lon='-73.27507624'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 22' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='22' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445408' />
   </node>
   <node id='-1454' visible='true' lat='44.61796093' lon='-73.27553064'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 14' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='14' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445409' />
   </node>
   <node id='-1455' visible='true' lat='44.61733053' lon='-73.27497457'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 11' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='11' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445410' />
   </node>
   <node id='-1456' visible='true' lat='44.61813916' lon='-73.27459531'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 2' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='2' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445411' />
   </node>
   <node id='-1457' visible='true' lat='44.6184401' lon='-73.27479017'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 3' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='3' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445412' />
   </node>
   <node id='-1458' visible='true' lat='44.61778132' lon='-73.27492248'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 9' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='9' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445413' />
   </node>
   <node id='-1459' visible='true' lat='44.61808072' lon='-73.27490987'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 7' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='7' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445414' />
   </node>
   <node id='-1460' visible='true' lat='44.61793546' lon='-73.27491623'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 8' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='8' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445415' />
   </node>
   <node id='-1461' visible='true' lat='44.61763763' lon='-73.27557197'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='48 16' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:unit' v='16' />
     <tag k='addr:street' v='Outerbay Way' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445416' />
@@ -9963,14 +9979,14 @@
   </node>
   <node id='-1563' visible='true' lat='44.67594222' lon='-73.34818852'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='587 A' />
+    <tag k='addr:housenumber' v='587A' />
     <tag k='addr:street' v='West Shore Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='751579' />
   </node>
   <node id='-1565' visible='true' lat='44.67050688' lon='-73.34785328'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='547 A' />
+    <tag k='addr:housenumber' v='547A' />
     <tag k='addr:street' v='West Shore Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='751581' />
@@ -10026,7 +10042,7 @@
   </node>
   <node id='-1579' visible='true' lat='44.66198619' lon='-73.35016336'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='483 A' />
+    <tag k='addr:housenumber' v='483A' />
     <tag k='addr:street' v='West Shore Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='751596' />
@@ -10068,14 +10084,14 @@
   </node>
   <node id='-1590' visible='true' lat='44.65758271' lon='-73.32160207'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='467 A' />
+    <tag k='addr:housenumber' v='467A' />
     <tag k='addr:street' v='U.S. Route 2' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='751608' />
   </node>
   <node id='-1591' visible='true' lat='44.6567626' lon='-73.32207698'>
     <tag k='addr:city' v='South Hero' />
-    <tag k='addr:housenumber' v='465 A' />
+    <tag k='addr:housenumber' v='465A' />
     <tag k='addr:street' v='U.S. Route 2' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='751609' />

@@ -4832,14 +4832,16 @@
   </node>
   <node id='-791' visible='true' lat='43.67791748' lon='-72.31085967'>
     <tag k='addr:city' v='Hartford' />
-    <tag k='addr:housenumber' v='76 UNITS21-24' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:unit' v='21-24' />
     <tag k='addr:street' v='Colonial Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='120805' />
   </node>
   <node id='-792' visible='true' lat='43.67781829' lon='-72.31121063'>
     <tag k='addr:city' v='Hartford' />
-    <tag k='addr:housenumber' v='76 UNITS25-28' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:unit' v='25-28' />
     <tag k='addr:street' v='Colonial Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='120806' />
@@ -4867,7 +4869,8 @@
   </node>
   <node id='-796' visible='true' lat='43.67778778' lon='-72.3103485'>
     <tag k='addr:city' v='Hartford' />
-    <tag k='addr:housenumber' v='76 UNITS17-20' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:unit' v='17-20' />
     <tag k='addr:street' v='Colonial Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='120810' />
@@ -4972,7 +4975,8 @@
   </node>
   <node id='-811' visible='true' lat='43.67759704' lon='-72.31100463'>
     <tag k='addr:city' v='Hartford' />
-    <tag k='addr:housenumber' v='76 UNITS1-4' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:unit' v='1-4' />
     <tag k='addr:street' v='Colonial Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='120826' />
@@ -5021,7 +5025,8 @@
   </node>
   <node id='-818' visible='true' lat='43.67744445' lon='-72.3106079'>
     <tag k='addr:city' v='Hartford' />
-    <tag k='addr:housenumber' v='76 UNITS5-10' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:unit' v='5-10' />
     <tag k='addr:street' v='Colonial Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='120836' />
@@ -5035,7 +5040,8 @@
   </node>
   <node id='-820' visible='true' lat='43.67742156' lon='-72.31018066'>
     <tag k='addr:city' v='Hartford' />
-    <tag k='addr:housenumber' v='76 UNITS11-16' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:unit' v='11-16' />
     <tag k='addr:street' v='Colonial Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='120838' />
@@ -28919,7 +28925,7 @@
   </node>
   <node id='-4234' visible='true' lat='43.66989239' lon='-72.37579322'>
     <tag k='addr:city' v='Hartford' />
-    <tag k='addr:housenumber' v='1450 C' />
+    <tag k='addr:housenumber' v='1450C' />
     <tag k='addr:street' v='Vermont Route 14' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='124560' />
@@ -30767,7 +30773,7 @@
   </node>
   <node id='-4498' visible='true' lat='43.69434339' lon='-72.32072697'>
     <tag k='addr:city' v='Hartford' />
-    <tag k='addr:housenumber' v='46 A' />
+    <tag k='addr:housenumber' v='46A' />
     <tag k='addr:street' v='Barrister Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='124839' />
@@ -32489,7 +32495,7 @@
   </node>
   <node id='-4745' visible='true' lat='43.69413393' lon='-72.3209989'>
     <tag k='addr:city' v='Hartford' />
-    <tag k='addr:housenumber' v='46 B' />
+    <tag k='addr:housenumber' v='46B' />
     <tag k='addr:street' v='Barrister Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='327053' />
@@ -32804,21 +32810,21 @@
   </node>
   <node id='-4790' visible='true' lat='43.69413717' lon='-72.32103448'>
     <tag k='addr:city' v='Hartford' />
-    <tag k='addr:housenumber' v='46 C' />
+    <tag k='addr:housenumber' v='46C' />
     <tag k='addr:street' v='Barrister Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='332747' />
   </node>
   <node id='-4791' visible='true' lat='43.69413372' lon='-72.32111093'>
     <tag k='addr:city' v='Hartford' />
-    <tag k='addr:housenumber' v='46 D' />
+    <tag k='addr:housenumber' v='46D' />
     <tag k='addr:street' v='Barrister Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='332748' />
   </node>
   <node id='-4792' visible='true' lat='43.69413171' lon='-72.32114799'>
     <tag k='addr:city' v='Hartford' />
-    <tag k='addr:housenumber' v='46 E' />
+    <tag k='addr:housenumber' v='46E' />
     <tag k='addr:street' v='Barrister Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='332749' />

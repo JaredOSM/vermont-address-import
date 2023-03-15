@@ -191,7 +191,7 @@
   </node>
   <node id='-127' visible='true' lat='43.62900493' lon='-72.98069998'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='256 A' />
+    <tag k='addr:housenumber' v='256A' />
     <tag k='addr:street' v='Church Street' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='207517' />
@@ -758,7 +758,7 @@
   </node>
   <node id='-208' visible='true' lat='43.62659835' lon='-72.98264312'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='67 B' />
+    <tag k='addr:housenumber' v='67B' />
     <tag k='addr:street' v='Field Avenue' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='207598' />
@@ -1276,7 +1276,7 @@
   </node>
   <node id='-282' visible='true' lat='43.62499706' lon='-72.97606133'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='229 B' />
+    <tag k='addr:housenumber' v='229B' />
     <tag k='addr:street' v='North Main Street' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='207674' />
@@ -5847,7 +5847,7 @@
   </node>
   <node id='-935' visible='true' lat='43.6179889' lon='-72.97488955'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='6 B' />
+    <tag k='addr:housenumber' v='6B' />
     <tag k='addr:street' v='North Street' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='208329' />
@@ -10250,7 +10250,7 @@
   </node>
   <node id='-1564' visible='true' lat='43.61463682' lon='-72.97161'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='81 A' />
+    <tag k='addr:housenumber' v='81A' />
     <tag k='addr:street' v='Davis Street' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='208963' />
@@ -18398,7 +18398,7 @@
   </node>
   <node id='-2728' visible='true' lat='43.61029313' lon='-72.94624749'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='8 A' />
+    <tag k='addr:housenumber' v='8A' />
     <tag k='addr:street' v='Grandview Terrace' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='210139' />
@@ -22080,7 +22080,7 @@
   </node>
   <node id='-3254' visible='true' lat='43.60816934' lon='-72.98988388'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='182 A' />
+    <tag k='addr:housenumber' v='182A' />
     <tag k='addr:street' v='State Street' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='210680' />
@@ -25979,7 +25979,7 @@
   </node>
   <node id='-3811' visible='true' lat='43.60551322' lon='-72.99037046'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='312 A' />
+    <tag k='addr:housenumber' v='312A' />
     <tag k='addr:street' v='West Street' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='211248' />
@@ -27834,7 +27834,7 @@
   </node>
   <node id='-4076' visible='true' lat='43.60449218' lon='-72.95700073'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='154 B' />
+    <tag k='addr:housenumber' v='154B' />
     <tag k='addr:street' v='Jackson Avenue' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='211513' />
@@ -29234,7 +29234,7 @@
   </node>
   <node id='-4276' visible='true' lat='43.60352706' lon='-72.96092987'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='102 A' />
+    <tag k='addr:housenumber' v='102A' />
     <tag k='addr:street' v='Jackson Avenue' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='211719' />
@@ -36759,7 +36759,7 @@
   </node>
   <node id='-5373' visible='true' lat='43.59363118' lon='-72.96119945'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='2 A' />
+    <tag k='addr:housenumber' v='2A' />
     <tag k='addr:street' v='Haywood Avenue' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='212854' />
@@ -36773,7 +36773,8 @@
   </node>
   <node id='-5375' visible='true' lat='43.59353297' lon='-72.99354199'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='219 2' />
+    <tag k='addr:housenumber' v='219' />
+    <tag k='addr:unit' v='2' />
     <tag k='addr:street' v='Dorr Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='212856' />
@@ -36899,7 +36900,8 @@
   </node>
   <node id='-5393' visible='true' lat='43.5933322' lon='-72.9934284'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='219 1' />
+    <tag k='addr:housenumber' v='219' />
+    <tag k='addr:unit' v='1' />
     <tag k='addr:street' v='Dorr Drive' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='212874' />
@@ -39713,7 +39715,7 @@
   </node>
   <node id='-5812' visible='true' lat='43.60802068' lon='-72.97627553'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='44 A' />
+    <tag k='addr:housenumber' v='44A' />
     <tag k='addr:street' v='West Street' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='327449' />
@@ -40777,7 +40779,7 @@
   </node>
   <node id='-5968' visible='true' lat='43.60245512' lon='-72.95490143'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='1 A' />
+    <tag k='addr:housenumber' v='1A' />
     <tag k='addr:street' v='Central Avenue' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='343387' />
@@ -41820,7 +41822,7 @@
   </node>
   <node id='-6117' visible='true' lat='43.60227686' lon='-72.97269048'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='14 A' />
+    <tag k='addr:housenumber' v='14A' />
     <tag k='addr:street' v='Royce Street' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445206' />
@@ -41897,7 +41899,7 @@
   </node>
   <node id='-6128' visible='true' lat='43.60434398' lon='-72.96175742'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='97 A' />
+    <tag k='addr:housenumber' v='97A' />
     <tag k='addr:street' v='Jackson Avenue' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445219' />
@@ -41918,7 +41920,7 @@
   </node>
   <node id='-6131' visible='true' lat='43.60708321' lon='-72.9611559'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='32 A' />
+    <tag k='addr:housenumber' v='32A' />
     <tag k='addr:street' v='Ronaldo Court' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445222' />
@@ -42058,7 +42060,7 @@
   </node>
   <node id='-6151' visible='true' lat='43.62499093' lon='-72.96678367'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='14 A' />
+    <tag k='addr:housenumber' v='14A' />
     <tag k='addr:street' v='Sherwood Road' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='445247' />
@@ -43248,7 +43250,7 @@
   </node>
   <node id='-6349' visible='true' lat='43.59921154' lon='-72.97983569'>
     <tag k='addr:city' v='Rutland City' />
-    <tag k='addr:housenumber' v='147 A' />
+    <tag k='addr:housenumber' v='147A' />
     <tag k='addr:street' v='Granger Street' />
     <tag k='addr:state' v='VT' />
     <tag k='ref:vcgi:esiteid' v='761750' />

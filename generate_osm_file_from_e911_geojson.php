@@ -113,6 +113,9 @@ foreach($data['features'] as $feature) {
         $feature_errors[] = "TOWNNAME value is empty (esiteid: " . $esiteid . ")";
     }
 
+    // Most addresses will not use addr:unit, only ones with a numeric HOUSE_NUMBERSUFFIX.
+    $unit = NULL;
+
     // confirm that the HOUSE_NUMBER is not empty, is a number greater than zero
     // VCGI contains lots of entries with a house number of "0"
     if(!empty($feature['properties']['HOUSE_NUMBER']) && is_numeric($feature['properties']['HOUSE_NUMBER']) && $feature['properties']['HOUSE_NUMBER'] > 0) {
@@ -120,14 +123,37 @@ foreach($data['features'] as $feature) {
 
         // check for prefix on house number (eg. esiteid 757868)
         if(!empty($feature['properties']['HOUSE_NUMBERPREFIX'])) {
-
-            $house_number = trim($feature['properties']['HOUSE_NUMBERPREFIX']) . " " . $house_number;
+            $prefix = trim($feature['properties']['HOUSE_NUMBERPREFIX']);
+            // Don't use spaces to concatenate alpha-only prefixes.
+            if (preg_match('/^[A-Z]+$/', $prefix)) {
+                $house_number = $prefix . $house_number;
+            }
+            // If a non-alpha prefix is found, include a space to avoid merging
+            // numbers.
+            else {
+                $house_number = $prefix . " " . $house_number;
+            }
         }
 
         // check for suffix on house number (eg. esiteid 154277)
         if(!empty($feature['properties']['HOUSE_NUMBERSUFFIX'])) {
-
-            $house_number = $house_number . " " . trim($feature['properties']['HOUSE_NUMBERSUFFIX']);
+            $suffix = trim($feature['properties']['HOUSE_NUMBERSUFFIX']);
+            // Don't use spaces to concatenate alpha-only suffix.
+            if (preg_match('/^[A-Z]+$/i', $suffix)) {
+                $house_number = $house_number . $suffix;
+            }
+            // Plain numbers should go in addr:unit
+            elseif (preg_match('/^\d+$/', $suffix)) {
+              $unit = $suffix;
+            }
+            // Unit ranges should go in addr:unit
+            elseif (preg_match('/^(UNITS)?(\d+-\d+)$/', $suffix, $unit_matches)) {
+              $unit = $unit_matches[2];
+            }
+            // Any other cases, like "1/2", concatenate with a space.
+            else {
+                $house_number = $house_number . " " . $suffix;
+            }
         }
 
     } else {
@@ -163,6 +189,9 @@ foreach($data['features'] as $feature) {
             $output .= "  <node id='" . $node_id . "' visible='true' lat='" . $lat . "' lon='" . $long . "'>\n";
             $output .= "    <tag k='addr:city' v='" . $town_name . "' />\n";
             $output .= "    <tag k='addr:housenumber' v='" . $house_number . "' />\n";
+            if (!empty($unit)) {
+                $output .= "    <tag k='addr:unit' v='" . $unit . "' />\n";
+            }
             $output .= "    <tag k='addr:street' v='" . $street . "' />\n";
             // ZIP codes in E911 may not be correct.
             // $output .= "    <tag k='addr:postcode' v='" . $zip_code . "' />\n";
@@ -177,6 +206,7 @@ foreach($data['features'] as $feature) {
             $output .= $node_id . "\t" . $lat . "\t" . $long . "\t";
             $output .= $town_name . "\t";
             $output .= $house_number . "\t";
+            $output .= $unit . "\t";
             $output .= $street . "\t";
             $output .= $zip_code . "\t";
             $output .= $esiteid . "\n";
@@ -184,7 +214,7 @@ foreach($data['features'] as $feature) {
         } elseif(count($feature_errors) == 0 && $output_type == "geojson") {
 
             $coordinates = array($long, $lat);
-            $properties = array("house_number" => strval($house_number), "street" => $street, "esiteid" => strval($esiteid));
+            $properties = array("house_number" => strval($house_number), "unit" => strval($unit), "street" => $street, "city" => $town_name, "state" => "VT", "esiteid" => strval($esiteid));
             $geometry = array("type" => "Point", "coordinates" => $coordinates);
             $feature = array("type" => "Feature", "properties" => $properties, "geometry" => $geometry);
 
