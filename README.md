@@ -78,7 +78,13 @@ Your `php.ini` probably needs the location of `mod_spatialite.so` added. Somethi
    If there isn't any likely candidate for the adddress, it will be placed in a
    `no_osm_match/` file.
 
-    ./conflate_town.php -v data_files_to_import/draft/middlebury_addresses.osm
+   a. Conflate a single town:
 
-   The verbose output can be examined to see why the address got categorized the
-   way it did.
+        ./conflate_town.php -v data_files_to_import/draft/middlebury_addresses.osm
+
+      The verbose output can be examined to see why the address got categorized the
+      way it did.
+
+   b. Conflate all towns:
+
+        ./conflate_all.php -v
