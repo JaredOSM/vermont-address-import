@@ -94,6 +94,20 @@ END;
     $closeAddressStmt = $this->db->prepare("SELECT *, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE distance < 1000");
     $res = $closeAddressStmt->execute();
     while ($nearby = $res->fetchArray(SQLITE3_ASSOC)) {
+      // If the address is identical except for extra punctuation in the street,
+      // consider it a match because E911 (and USPS) strip almost all punctuation.
+      if ($address['addr:housenumber'] == $nearby['housenumber']
+        && $address['addr:street'] == $this->stripPunctuation($nearby['street'])
+        && $address['addr:city'] == $nearby['city']
+        && $address['addr:state'] == $nearby['state']
+      ) {
+        $res->finalize();
+        $message = $this->log('match', $inputNode, " ignoring street punctuation to \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . '"');
+        $this->log('match', $inputNode, $message);
+        $this->append($this->matchesDoc, $inputNode, $message);
+        return;
+      }
+
       // We didn't get a precise match on all fields previously, so if these
       // are a fuzzy match, we have a conflict.
       // var_dump($this->simplifyHouseNumber($nearby['housenumber']), $this->simplifyStreet($nearby['street']));
@@ -200,6 +214,17 @@ END;
    */
   protected function simplifyHouseNumber($housenumber) {
     return strtolower(preg_replace('/[^a-z0-9]/i', '', $housenumber));
+  }
+
+  /**
+   * Strip punctuation from a street name.
+   *
+   * @param string $street
+   *
+   * @return string
+   */
+  protected function stripPunctuation($street) {
+    return preg_replace('/\'/', '', $street);
   }
 
   /**
