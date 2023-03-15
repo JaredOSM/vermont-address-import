@@ -108,6 +108,21 @@ foreach($data['features'] as $feature) {
 
     if(!empty($feature['properties']['TOWNNAME'])) {
         $town_name = ucwords(strtolower($feature['properties']['TOWNNAME']));
+        // Add possesive apostrophes to gores and grants.
+        switch ($town_name) {
+            case "Averys Gore":
+                $town_name = "Avery's Gore";
+                break;
+            case "Buels Gore":
+                $town_name = "Buel's Gore";
+                break;
+            case "Warrens Gore":
+                $town_name = "Warren's Gore";
+                break;
+            case "Warners Grant":
+                $town_name = "Warner's Grant";
+                break;
+        }
     } else {
         $town_name = NULL;
         $feature_errors[] = "TOWNNAME value is empty (esiteid: " . $esiteid . ")";
