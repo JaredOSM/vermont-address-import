@@ -186,19 +186,19 @@ foreach($data['features'] as $feature) {
         if(count($feature_errors) == 0 && $output_type == "osm") {
 
             // leaving out timestamp from node: timestamp='2022-09-12T01:50:00Z'
-            $output .= "  <node id='" . $node_id . "' visible='true' lat='" . $lat . "' lon='" . $long . "'>\n";
-            $output .= "    <tag k='addr:city' v='" . $town_name . "' />\n";
-            $output .= "    <tag k='addr:housenumber' v='" . $house_number . "' />\n";
+            $output .= "  <node id=\"" . $node_id . "\" visible=\"true\" lat=\"" . $lat . "\" lon=\"" . $long . "\">\n";
+            $output .= "    <tag k=\"addr:city\" v=\"" . $town_name . "\" />\n";
+            $output .= "    <tag k=\"addr:housenumber\" v=\"" . $house_number . "\" />\n";
             if (!empty($unit)) {
-                $output .= "    <tag k='addr:unit' v='" . $unit . "' />\n";
+                $output .= "    <tag k=\"addr:unit\" v=\"" . $unit . "\" />\n";
             }
-            $output .= "    <tag k='addr:street' v='" . $street . "' />\n";
+            $output .= "    <tag k=\"addr:street\" v=\"" . $street . "\" />\n";
             // ZIP codes in E911 may not be correct.
-            // $output .= "    <tag k='addr:postcode' v='" . $zip_code . "' />\n";
-            $output .= "    <tag k='addr:state' v='VT' />\n";
-            $output .= "    <tag k='ref:vcgi:esiteid' v='" . $esiteid . "' />\n";
+            // $output .= "    <tag k=\"addr:postcode\" v=\"" . $zip_code . "\" />\n";
+            $output .= "    <tag k=\"addr:state\" v=\"VT\" />\n";
+            $output .= "    <tag k=\"ref:vcgi:esiteid\" v=\"" . $esiteid . "\" />\n";
             // use this tag in the changeset tags instead of node tag
-            // $output .= "    <tag k='source' v='VCGI/E911_address_points' />\n";
+            // $output .= "    <tag k=\"source\" v=\"VCGI/E911_address_points\" />\n";
             $output .= "  </node>\n";
 
 
@@ -269,7 +269,7 @@ if($print_errors_at_end) {
 
 function output_header($output_type) {
     if($output_type == "osm") {
-        $header = "<?xml version='1.0' encoding='UTF-8'?>\n<osm version='0.6' generator='JOSM'>\n";
+        $header = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<osm version=\"0.6\" generator=\"JOSM\">\n";
     } elseif($output_type == "geojson") {
         $header = "{\"type\": \"FeatureCollection\", \"features\": [\n";
     } else {
