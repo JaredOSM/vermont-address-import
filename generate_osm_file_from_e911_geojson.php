@@ -358,8 +358,13 @@ function normalize_street_base_name($street_name) {
     $street_name_title_cased = ucwords(strtolower(trim($street_name)));
 
     // If street name starts with "Vt " replace with "Vermont "
-    if(preg_match('/^Vt (.+)/i', $street_name_title_cased, $matches)) {
+    if (preg_match('/^Vt (.+)/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "Vermont " . $matches[1];
+
+        // Make sure any trailing letters like in "22A" are capitalized.
+        if (preg_match('/^(.+\d+)([a-z]+)$/i', $street_name_title_cased, $matches)) {
+            $street_name_title_cased = $matches[1].strtoupper($matches[2]);
+        }
     }
 
     // If street name starts with Mc, fix it so next letter is also uppercase.
