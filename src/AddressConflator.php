@@ -54,11 +54,22 @@ END;
     // Check for an exact address match.
     $lon = $inputNode->getAttribute('lon');
     $lat = $inputNode->getAttribute('lat');
-    $exactMatchStmt = $this->db->prepare("SELECT osm_type, id, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE housenumber=:housenumber AND street=:street AND city=:city AND state=:state");
+    // For E911 that includes units, try to match them to OSM exactly.
+    if (!empty($address['addr:unit'])) {
+        $exactMatchStmt = $this->db->prepare("SELECT osm_type, id, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE housenumber=:housenumber AND unit=:unit AND street=:street AND city=:city AND state=:state");
+    }
+    // If there is no unit in E911, just match the basic address. If extra
+    // units are mapped in OSM they will fall into the "multiple" bucket.
+    else {
+        $exactMatchStmt = $this->db->prepare("SELECT osm_type, id, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE housenumber=:housenumber AND street=:street AND city=:city AND state=:state");
+    }
     $exactMatchStmt->bindValue('housenumber', $address['addr:housenumber']);
     $exactMatchStmt->bindValue('street', $address['addr:street']);
     $exactMatchStmt->bindValue('city', $address['addr:city']);
     $exactMatchStmt->bindValue('state', $address['addr:state']);
+    if (!empty($address['addr:unit'])) {
+        $exactMatchStmt->bindValue('unit', $address['addr:unit']);
+    }
     $res = $exactMatchStmt->execute();
     $match = $res->fetchArray(SQLITE3_ASSOC);
     if ($match) {

@@ -7696,6 +7696,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55528"/>
   </node>
+  <node id="-12072" visible="true" lat="44.44710272" lon="-73.2142613">
+    <!-- multiple: "1138 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="1138"/>
+    <tag k="addr:street" v="Pine Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333107"/>
+  </node>
   <node id="-12255" visible="true" lat="44.47896644" lon="-73.21786816">
     <!-- multiple: "41 Cherry Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
