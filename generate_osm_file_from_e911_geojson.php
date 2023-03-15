@@ -208,7 +208,7 @@ foreach($data['features'] as $feature) {
             $output .= $house_number . "\t";
             $output .= $unit . "\t";
             $output .= $street . "\t";
-            $output .= $zip_code . "\t";
+            // $output .= $zip_code . "\t";
             $output .= $esiteid . "\n";
 
         } elseif(count($feature_errors) == 0 && $output_type == "geojson") {
