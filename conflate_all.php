@@ -22,11 +22,12 @@ Conflate all town files in data_files_to_import/draft/ and write to data_files_t
                       --name-range=norwich-
                         Conflate norwich and everything after.
 
+  --skip-existing     Skip conflating towns where the output files exist.
 
 ";
 
 #options
-$options = getopt("hv", ["help", "verbose", "name-range::"], $reset_index);
+$options = getopt("hv", ["help", "verbose", "name-range::", "skip-existing"], $reset_index);
 if ($options === FALSE || isset($options["h"]) || isset($options["help"])) {
   print $help;
   exit(1);
@@ -46,10 +47,13 @@ if (isset($options['name-range'])) {
   $options['name-range'] = NULL;
 }
 
+$skip_existing = isset($options['skip-existing']);
+
 $input_files = scandir(__DIR__ . '/data_files_to_import/draft');
 foreach ($input_files as $input_file) {
   if (preg_match('/(.+)_addresses\.osm$/i', $input_file, $file_matches)
-    && should_include_file($input_file, $options['name-range'])
+    && name_in_range($input_file, $options['name-range'])
+    && should_overwrite_output($file_matches[1], $skip_existing)
   ) {
     $input_path = __DIR__ . '/data_files_to_import/draft/' . $input_file;
     if ($verbose) {
@@ -67,7 +71,7 @@ foreach ($input_files as $input_file) {
   }
 }
 
-function should_include_file($filename, $nameRange) {
+function name_in_range($filename, $nameRange) {
   if (empty($nameRange)) {
     return TRUE;
   }
@@ -95,4 +99,25 @@ function should_include_file($filename, $nameRange) {
 
   // Must be in range.
   return TRUE;
+}
+
+function should_overwrite_output($town, $skip_existing) {
+  if (!$skip_existing) {
+    return TRUE;
+  }
+  $outputBase = __DIR__ . '/data_files_to_import/conflated/' . $town . '_addresses';
+  if (!file_exists($outputBase . '-matches.osm')) {
+    return TRUE;
+  }
+  if (!file_exists($outputBase . '-no-match.osm')) {
+    return TRUE;
+  }
+  if (!file_exists($outputBase . '-review-distance.osm')) {
+    return TRUE;
+  }
+  if (!file_exists($outputBase . '-tag-conflict.osm')) {
+    return TRUE;
+  }
+  // If we are skipping existing and all files exist, no need to conflate.
+  return FALSE;
 }

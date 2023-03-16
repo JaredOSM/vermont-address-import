@@ -128,3 +128,6 @@ The `osm_data/osm_addresses.sqlite` file and
 contain all of the data needed to run the conflation and write ouptut to
 `data_files_to_import/conflated/`. As such, these jobs could even be split
 across multiple physical machines if desired.
+
+If you need to kill and restart the process, the `conflate_all.php` script supports
+a `--skip-existing` option to skip any towns where the output files already exist.
