@@ -1,0 +1,3875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-168" visible="true" lat="43.71259836" lon="-72.41708151">
+    <!-- conflict: "5133 Vermont Route 14, Hartford, VT" No match in OSM, but a different address exists <5m away: "5133 VT 14, West Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="5133"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120137"/>
+  </node>
+  <node id="-222" visible="true" lat="43.70689617" lon="-72.36120173">
+    <!-- conflict: "2719 Jericho Street, Hartford, VT" Fuzzy match to "2719 Jericho Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2719"/>
+    <tag k="addr:street" v="Jericho Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120193"/>
+  </node>
+  <node id="-247" visible="true" lat="43.70295207" lon="-72.3723278">
+    <!-- conflict: "3398 Jericho Street, Hartford, VT" Fuzzy match to "3398 Jericho Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="3398"/>
+    <tag k="addr:street" v="Jericho Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120219"/>
+  </node>
+  <node id="-249" visible="true" lat="43.70248579" lon="-72.37409711">
+    <!-- conflict: "3473 Jericho Street, Hartford, VT" Fuzzy match to "3473 Jericho Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="3473"/>
+    <tag k="addr:street" v="Jericho Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120221"/>
+  </node>
+  <node id="-252" visible="true" lat="43.70252613" lon="-72.37453042">
+    <!-- conflict: "3503 Jericho Street, Hartford, VT" Fuzzy match to "3503 Jericho Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="3503"/>
+    <tag k="addr:street" v="Jericho Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120224"/>
+  </node>
+  <node id="-259" visible="true" lat="43.70259433" lon="-72.37302345">
+    <!-- conflict: "3446 Jericho Street, Hartford, VT" Fuzzy match to "3446 Jericho Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="3446"/>
+    <tag k="addr:street" v="Jericho Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120231"/>
+  </node>
+  <node id="-330" visible="true" lat="43.69609046" lon="-72.31962821">
+    <!-- conflict: "20 Palmer Court, Hartford, VT" Fuzzy match to "20 Palmer Court, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Palmer Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120304"/>
+  </node>
+  <node id="-331" visible="true" lat="43.69605666" lon="-72.32028251">
+    <!-- conflict: "54 Palmer Court, Hartford, VT" Fuzzy match to "54 Palmer Court, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Palmer Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120305"/>
+  </node>
+  <node id="-333" visible="true" lat="43.69574541" lon="-72.31857939">
+    <!-- conflict: "18 Olcott Drive, Hartford, VT" Fuzzy match to "18 Olcott Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Olcott Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120308"/>
+  </node>
+  <node id="-338" visible="true" lat="43.69503057" lon="-72.31869776">
+    <!-- conflict: "25 Olcott Drive, Hartford, VT" Fuzzy match to "25 Olcott Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Olcott Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120313"/>
+  </node>
+  <node id="-340" visible="true" lat="43.69538398" lon="-72.31723953">
+    <!-- conflict: "94 Olcott Drive, Hartford, VT" Fuzzy match to "94 Olcott Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:street" v="Olcott Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120315"/>
+  </node>
+  <node id="-343" visible="true" lat="43.69524065" lon="-72.31653018">
+    <!-- conflict: "138 Olcott Drive, Hartford, VT" Fuzzy match to "138 Olcott Drive, Wilder, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="Olcott Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120318"/>
+  </node>
+  <node id="-344" visible="true" lat="43.69510697" lon="-72.32032033">
+    <!-- conflict: "2820 Christian Street, Hartford, VT" Fuzzy match to "2820 Christian Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2820"/>
+    <tag k="addr:street" v="Christian Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120320"/>
+  </node>
+  <node id="-348" visible="true" lat="43.69474029" lon="-72.31748962">
+    <!-- conflict: "95 Olcott Drive, Hartford, VT" Fuzzy match to "95 Olcott Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Olcott Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120324"/>
+  </node>
+  <node id="-359" visible="true" lat="43.69418716" lon="-72.3195877">
+    <!-- conflict: "2776 Christian Street, Hartford, VT" Fuzzy match to "2776 Christian Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2776"/>
+    <tag k="addr:street" v="Christian Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120337"/>
+  </node>
+  <node id="-368" visible="true" lat="43.69392395" lon="-72.31647491">
+    <!-- conflict: "163 Olcott Drive, Hartford, VT" Fuzzy match to "163 Olcott Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:street" v="Olcott Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120347"/>
+  </node>
+  <node id="-403" visible="true" lat="43.69322967" lon="-72.31270599">
+    <!-- conflict: "331 Olcott Drive, Hartford, VT" Fuzzy match to "331 Olcott Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="331"/>
+    <tag k="addr:street" v="Olcott Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120384"/>
+  </node>
+  <node id="-493" visible="true" lat="43.68760718" lon="-72.32177401">
+    <!-- conflict: "2300 Christian Street, Hartford, VT" Fuzzy match to "2300 Christian Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2300"/>
+    <tag k="addr:street" v="Christian Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120483"/>
+  </node>
+  <node id="-497" visible="true" lat="43.6873266" lon="-72.31959706">
+    <!-- conflict: "58 Billings Farm Road, Hartford, VT" Fuzzy match to "58 Billings Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Billings Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120490"/>
+  </node>
+  <node id="-499" visible="true" lat="43.68664562" lon="-72.32057324">
+    <!-- conflict: "13 Fogg Farm Road, Hartford, VT" Fuzzy match to "13 Fogg Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Fogg Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120493"/>
+  </node>
+  <node id="-500" visible="true" lat="43.68671921" lon="-72.31816696">
+    <!-- conflict: "120 Billings Farm Road, Hartford, VT" Fuzzy match to "120 Billings Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Billings Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120494"/>
+  </node>
+  <node id="-504" visible="true" lat="43.68620002" lon="-72.32055037">
+    <!-- conflict: "39 Fogg Farm Road, Hartford, VT" Fuzzy match to "39 Fogg Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Fogg Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120498"/>
+  </node>
+  <node id="-507" visible="true" lat="43.68598284" lon="-72.31744781">
+    <!-- conflict: "217 Billings Farm Road, Hartford, VT" Fuzzy match to "217 Billings Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:street" v="Billings Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120501"/>
+  </node>
+  <node id="-508" visible="true" lat="43.68583096" lon="-72.32089646">
+    <!-- conflict: "82 Fogg Farm Road, Hartford, VT" Fuzzy match to "82 Fogg Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Fogg Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120502"/>
+  </node>
+  <node id="-513" visible="true" lat="43.68560402" lon="-72.32023929">
+    <!-- conflict: "62 Fogg Farm Road, Hartford, VT" Fuzzy match to "62 Fogg Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Fogg Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120508"/>
+  </node>
+  <node id="-535" visible="true" lat="43.68392842" lon="-72.31726237">
+    <!-- conflict: "2677 Hartford Avenue, Hartford, VT" Fuzzy match to "2677 Hartford Avenue, Wilder, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2677"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120534"/>
+  </node>
+  <node id="-539" visible="true" lat="43.68365211" lon="-72.31634012">
+    <!-- conflict: "2635 Hartford Avenue, Hartford, VT" Fuzzy match to "2635 Hartford Avenue, Wilder, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2635"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120539"/>
+  </node>
+  <node id="-544" visible="true" lat="43.68328252" lon="-72.31616373">
+    <!-- conflict: "2617 Hartford Avenue, Hartford, VT" Fuzzy match to "2617 Hartford Avenue, Wilder, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2617"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120546"/>
+  </node>
+  <node id="-801" visible="true" lat="43.67786825" lon="-72.30910087">
+    <!-- conflict: "2087 Hartford Avenue, Hartford, VT" Fuzzy match to "2087 Hartford Avenue, Wilder, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2087"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120816"/>
+  </node>
+  <node id="-931" visible="true" lat="43.67589206" lon="-72.30894212">
+    <!-- conflict: "1965 Hartford Avenue, Hartford, VT" Fuzzy match to "1965 Hartford Avenue, Wilder, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1965"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120954"/>
+  </node>
+  <node id="-951" visible="true" lat="43.67570564" lon="-72.30834396">
+    <!-- conflict: "65 Locust Street, Hartford, VT" Fuzzy match to "65 Locust Street, Wilder, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Locust Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120974"/>
+  </node>
+  <node id="-961" visible="true" lat="43.67555828" lon="-72.31648788">
+    <!-- conflict: "474 Colonial Drive, Hartford, VT" Fuzzy match to "474 Colonial Drive, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="474"/>
+    <tag k="addr:street" v="Colonial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120985"/>
+  </node>
+  <node id="-963" visible="true" lat="43.67555972" lon="-72.31715952">
+    <!-- conflict: "471 Colonial Drive, Hartford, VT" Fuzzy match to "471 Colonial Drive, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="471"/>
+    <tag k="addr:street" v="Colonial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120987"/>
+  </node>
+  <node id="-983" visible="true" lat="43.67520904" lon="-72.30743408">
+    <!-- conflict: "160 Norwich Avenue, Hartford, VT" Fuzzy match to "160 Norwich Avenue, Wilder, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Norwich Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121009"/>
+  </node>
+  <node id="-984" visible="true" lat="43.67516215" lon="-72.31705777">
+    <!-- conflict: "487 Colonial Drive, Hartford, VT" Fuzzy match to "487 Colonial Drive, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="487"/>
+    <tag k="addr:street" v="Colonial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121010"/>
+  </node>
+  <node id="-1361" visible="true" lat="43.67026519" lon="-72.43706512">
+    <!-- conflict: "1123 Quechee West Hartford Road, Hartford, VT" Fuzzy match to "1123 Quechee West Hartford Road, Quechee, " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1123"/>
+    <tag k="addr:street" v="Quechee West Hartford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121413"/>
+  </node>
+  <node id="-1461" visible="true" lat="43.66780525" lon="-72.30874213">
+    <!-- conflict: "131 A Street, Hartford, VT" Fuzzy match to "131 A Street, Wilder, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:street" v="A Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121523"/>
+  </node>
+  <node id="-1470" visible="true" lat="43.66750329" lon="-72.32302039">
+    <!-- conflict: "5 Cottage Court, Hartford, VT" Fuzzy match to "5 Cottage Court, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Cottage Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121533"/>
+  </node>
+  <node id="-1472" visible="true" lat="43.6674485" lon="-72.32283957">
+    <!-- conflict: "3 Cottage Court, Hartford, VT" Fuzzy match to "3 Cottage Court, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Cottage Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121535"/>
+  </node>
+  <node id="-1473" visible="true" lat="43.66750615" lon="-72.32325186">
+    <!-- conflict: "7 Cottage Court, Hartford, VT" Fuzzy match to "7 Cottage Court, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Cottage Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121536"/>
+  </node>
+  <node id="-1478" visible="true" lat="43.66745089" lon="-72.32346409">
+    <!-- conflict: "9 Cottage Court, Hartford, VT" Fuzzy match to "9 Cottage Court, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Cottage Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121541"/>
+  </node>
+  <node id="-1486" visible="true" lat="43.66735362" lon="-72.32268721">
+    <!-- conflict: "1 Cottage Court, Hartford, VT" Fuzzy match to "1 Cottage Court, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Cottage Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121549"/>
+  </node>
+  <node id="-1488" visible="true" lat="43.66732358" lon="-72.32355761">
+    <!-- conflict: "11 Cottage Court, Hartford, VT" Fuzzy match to "11 Cottage Court, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Cottage Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121551"/>
+  </node>
+  <node id="-1496" visible="true" lat="43.66719626" lon="-72.32356915">
+    <!-- conflict: "13 Cottage Court, Hartford, VT" Fuzzy match to "13 Cottage Court, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Cottage Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121559"/>
+  </node>
+  <node id="-1503" visible="true" lat="43.66707181" lon="-72.32357329">
+    <!-- conflict: "15 Cottage Court, Hartford, VT" Fuzzy match to "15 Cottage Court, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Cottage Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121566"/>
+  </node>
+  <node id="-1506" visible="true" lat="43.66696545" lon="-72.32247746">
+    <!-- conflict: "2 Skyline Way, Hartford, VT" Fuzzy match to "2 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121569"/>
+  </node>
+  <node id="-1511" visible="true" lat="43.66689863" lon="-72.3229534">
+    <!-- conflict: "1 Skyline Way, Hartford, VT" Fuzzy match to "1 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121574"/>
+  </node>
+  <node id="-1517" visible="true" lat="43.66681089" lon="-72.32227765">
+    <!-- conflict: "4 Skyline Way, Hartford, VT" Fuzzy match to "4 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121580"/>
+  </node>
+  <node id="-1525" visible="true" lat="43.66672646" lon="-72.32283669">
+    <!-- conflict: "3 Skyline Way, Hartford, VT" Fuzzy match to "3 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121588"/>
+  </node>
+  <node id="-1526" visible="true" lat="43.66654469" lon="-72.32190448">
+    <!-- conflict: "8 Skyline Way, Hartford, VT" Fuzzy match to "8 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121589"/>
+  </node>
+  <node id="-1532" visible="true" lat="43.66666036" lon="-72.32211281">
+    <!-- conflict: "6 Skyline Way, Hartford, VT" Fuzzy match to "6 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121596"/>
+  </node>
+  <node id="-1534" visible="true" lat="43.66666828" lon="-72.32355749">
+    <!-- conflict: "2 Sanctuary Circle, Hartford, VT" Fuzzy match to "2 Sanctuary Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Sanctuary Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121598"/>
+  </node>
+  <node id="-1535" visible="true" lat="43.66655823" lon="-72.32264201">
+    <!-- conflict: "5 Skyline Way, Hartford, VT" Fuzzy match to "5 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121599"/>
+  </node>
+  <node id="-1538" visible="true" lat="43.66654968" lon="-72.32502746">
+    <!-- conflict: "5 Sterling Springs Drive, Hartford, VT" Fuzzy match to "5 Sterling Springs Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Sterling Springs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121602"/>
+  </node>
+  <node id="-1539" visible="true" lat="43.66651759" lon="-72.32333887">
+    <!-- conflict: "4 Sanctuary Circle, Hartford, VT" Fuzzy match to "4 Sanctuary Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Sanctuary Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121606"/>
+  </node>
+  <node id="-1540" visible="true" lat="43.66646003" lon="-72.32162977">
+    <!-- conflict: "10 Skyline Way, Hartford, VT" Fuzzy match to "10 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121607"/>
+  </node>
+  <node id="-1546" visible="true" lat="43.666459" lon="-72.32423231">
+    <!-- conflict: "2 Sterling Springs Drive, Hartford, VT" Fuzzy match to "2 Sterling Springs Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Sterling Springs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121613"/>
+  </node>
+  <node id="-1548" visible="true" lat="43.66640177" lon="-72.32243677">
+    <!-- conflict: "7 Skyline Way, Hartford, VT" Fuzzy match to "7 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121615"/>
+  </node>
+  <node id="-1549" visible="true" lat="43.6663905" lon="-72.32529089">
+    <!-- conflict: "7 Sterling Springs Drive, Hartford, VT" Fuzzy match to "7 Sterling Springs Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Sterling Springs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121616"/>
+  </node>
+  <node id="-1553" visible="true" lat="43.66630097" lon="-72.31517483">
+    <!-- conflict: "45 Hollow Drive, Hartford, VT" Fuzzy match to "45 Hollow Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Hollow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121620"/>
+  </node>
+  <node id="-1556" visible="true" lat="43.66633701" lon="-72.32140306">
+    <!-- conflict: "12 Skyline Way, Hartford, VT" Fuzzy match to "12 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121623"/>
+  </node>
+  <node id="-1559" visible="true" lat="43.66626739" lon="-72.3245697">
+    <!-- conflict: "4 Sterling Springs Drive, Hartford, VT" Fuzzy match to "4 Sterling Springs Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Sterling Springs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121626"/>
+  </node>
+  <node id="-1560" visible="true" lat="43.66617776" lon="-72.32123027">
+    <!-- conflict: "14 Skyline Way, Hartford, VT" Fuzzy match to "14 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121627"/>
+  </node>
+  <node id="-1563" visible="true" lat="43.66621446" lon="-72.32204176">
+    <!-- conflict: "9 Skyline Way, Hartford, VT" Fuzzy match to "9 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121630"/>
+  </node>
+  <node id="-1564" visible="true" lat="43.66635436" lon="-72.32314886">
+    <!-- conflict: "6 Sanctuary Circle, Hartford, VT" Fuzzy match to "6 Sanctuary Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Sanctuary Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121631"/>
+  </node>
+  <node id="-1566" visible="true" lat="43.66612918" lon="-72.32400005">
+    <!-- conflict: "14 Sanctuary Circle, Hartford, VT" Fuzzy match to "14 Sanctuary Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Sanctuary Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121633"/>
+  </node>
+  <node id="-1567" visible="true" lat="43.66601585" lon="-72.32272979">
+    <!-- conflict: "7 Skyline Way, Hartford, VT" Fuzzy match to "7 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121634"/>
+  </node>
+  <node id="-1569" visible="true" lat="43.66609573" lon="-72.32173919">
+    <!-- conflict: "11 Skyline Way, Hartford, VT" Fuzzy match to "11 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121636"/>
+  </node>
+  <node id="-1572" visible="true" lat="43.66598176" lon="-72.32375556">
+    <!-- conflict: "12 Sanctuary Circle, Hartford, VT" Fuzzy match to "12 Sanctuary Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Sanctuary Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121639"/>
+  </node>
+  <node id="-1574" visible="true" lat="43.66613736" lon="-72.32322399">
+    <!-- conflict: "8 Sanctuary Circle, Hartford, VT" Fuzzy match to "8 Sanctuary Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Sanctuary Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121642"/>
+  </node>
+  <node id="-1575" visible="true" lat="43.66600229" lon="-72.32112085">
+    <!-- conflict: "16 Skyline Way, Hartford, VT" Fuzzy match to "16 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121643"/>
+  </node>
+  <node id="-1578" visible="true" lat="43.66603851" lon="-72.32487487">
+    <!-- conflict: "8 Sterling Springs Drive, Hartford, VT" Fuzzy match to "8 Sterling Springs Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Sterling Springs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121646"/>
+  </node>
+  <node id="-1581" visible="true" lat="43.66596965" lon="-72.32346105">
+    <!-- conflict: "10 Sanctuary Circle, Hartford, VT" Fuzzy match to "10 Sanctuary Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Sanctuary Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121649"/>
+  </node>
+  <node id="-1583" visible="true" lat="43.66592407" lon="-72.32154846">
+    <!-- conflict: "13 Skyline Way, Hartford, VT" Fuzzy match to "13 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121651"/>
+  </node>
+  <node id="-1585" visible="true" lat="43.66591395" lon="-72.32537217">
+    <!-- conflict: "9 Sterling Springs Drive, Hartford, VT" Fuzzy match to "9 Sterling Springs Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Sterling Springs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121653"/>
+  </node>
+  <node id="-1587" visible="true" lat="43.66585533" lon="-72.32459679">
+    <!-- conflict: "10 Sterling Springs Drive, Hartford, VT" Fuzzy match to "10 Sterling Springs Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Sterling Springs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121655"/>
+  </node>
+  <node id="-1594" visible="true" lat="43.66578866" lon="-72.3223027">
+    <!-- conflict: "11 Magnolia Circle, Hartford, VT" Fuzzy match to "11 Magnolia Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Magnolia Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121662"/>
+  </node>
+  <node id="-1595" visible="true" lat="43.66577402" lon="-72.32208395">
+    <!-- conflict: "13 Magnolia Circle, Hartford, VT" Fuzzy match to "13 Magnolia Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Magnolia Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121663"/>
+  </node>
+  <node id="-1596" visible="true" lat="43.66574859" lon="-72.32144165">
+    <!-- conflict: "15 Skyline Way, Hartford, VT" Fuzzy match to "15 Skyline Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Skyline Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121664"/>
+  </node>
+  <node id="-1599" visible="true" lat="43.66571551" lon="-72.32248373">
+    <!-- conflict: "9 Magnolia Circle, Hartford, VT" Fuzzy match to "9 Magnolia Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Magnolia Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121667"/>
+  </node>
+  <node id="-1601" visible="true" lat="43.66575344" lon="-72.32428978">
+    <!-- conflict: "12 Sterling Springs Drive, Hartford, VT" Fuzzy match to "12 Sterling Springs Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Sterling Springs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121670"/>
+  </node>
+  <node id="-1603" visible="true" lat="43.66568013" lon="-72.32193093">
+    <!-- conflict: "15 Magnolia Circle, Hartford, VT" Fuzzy match to "15 Magnolia Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Magnolia Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121672"/>
+  </node>
+  <node id="-1605" visible="true" lat="43.66559727" lon="-72.32262056">
+    <!-- conflict: "7 Magnolia Circle, Hartford, VT" Fuzzy match to "7 Magnolia Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Magnolia Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121674"/>
+  </node>
+  <node id="-1606" visible="true" lat="43.66554684" lon="-72.32179798">
+    <!-- conflict: "17 Magnolia Circle, Hartford, VT" Fuzzy match to "17 Magnolia Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Magnolia Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121675"/>
+  </node>
+  <node id="-1607" visible="true" lat="43.66564305" lon="-72.32399003">
+    <!-- conflict: "14 Sterling Springs Drive, Hartford, VT" Fuzzy match to "14 Sterling Springs Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Sterling Springs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121676"/>
+  </node>
+  <node id="-1613" visible="true" lat="43.66551314" lon="-72.32363481">
+    <!-- conflict: "16 Sterling Springs Drive, Hartford, VT" Fuzzy match to "16 Sterling Springs Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Sterling Springs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121682"/>
+  </node>
+  <node id="-1615" visible="true" lat="43.6654359" lon="-72.32266153">
+    <!-- conflict: "5 Magnolia Circle, Hartford, VT" Fuzzy match to "5 Magnolia Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Magnolia Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121684"/>
+  </node>
+  <node id="-1624" visible="true" lat="43.66535269" lon="-72.32335473">
+    <!-- conflict: "18 Sterling Springs Drive, Hartford, VT" Fuzzy match to "18 Sterling Springs Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Sterling Springs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121693"/>
+  </node>
+  <node id="-1625" visible="true" lat="43.66530519" lon="-72.32263196">
+    <!-- conflict: "3 Magnolia Circle, Hartford, VT" Fuzzy match to "3 Magnolia Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Magnolia Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121694"/>
+  </node>
+  <node id="-1631" visible="true" lat="43.66519147" lon="-72.32253281">
+    <!-- conflict: "1 Magnolia Circle, Hartford, VT" Fuzzy match to "1 Magnolia Circle, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Magnolia Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121700"/>
+  </node>
+  <node id="-1634" visible="true" lat="43.66519732" lon="-72.32311185">
+    <!-- conflict: "20 Sterling Springs Drive, Hartford, VT" No match in OSM, but a different address exists <5m away: "18 Sterling Springs Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Sterling Springs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121703"/>
+  </node>
+  <node id="-1651" visible="true" lat="43.6648687" lon="-72.31230575">
+    <!-- conflict: "1167 Hartford Avenue, Hartford, VT" Fuzzy match to "1167 Hartford Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1167"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121721"/>
+  </node>
+  <node id="-1668" visible="true" lat="43.66458701" lon="-72.31232741">
+    <!-- conflict: "1147 Hartford Avenue, Hartford, VT" Fuzzy match to "1147 Hartford Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1147"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121740"/>
+  </node>
+  <node id="-1718" visible="true" lat="43.66374906" lon="-72.37310371">
+    <!-- conflict: "1146 Center Of Town Road, Hartford, VT" Fuzzy match to "1146 Center of Town Road, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1146"/>
+    <tag k="addr:street" v="Center Of Town Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121790"/>
+  </node>
+  <node id="-1734" visible="true" lat="43.66353849" lon="-72.31628482">
+    <!-- conflict: "371 Gifford Road, Hartford, VT" Fuzzy match to "371 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="371"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121806"/>
+  </node>
+  <node id="-1746" visible="true" lat="43.66332489" lon="-72.31666901">
+    <!-- conflict: "364 Gifford Road, Hartford, VT" Fuzzy match to "364 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="364"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121818"/>
+  </node>
+  <node id="-1759" visible="true" lat="43.66310887" lon="-72.31685166">
+    <!-- conflict: "348 Gifford Road, Hartford, VT" Fuzzy match to "348 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="348"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121832"/>
+  </node>
+  <node id="-1771" visible="true" lat="43.66292505" lon="-72.31642722">
+    <!-- conflict: "345 Gifford Road, Hartford, VT" Fuzzy match to "345 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="345"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121844"/>
+  </node>
+  <node id="-1777" visible="true" lat="43.66312249" lon="-72.37089668">
+    <!-- conflict: "1157 Center Of Town Road, Hartford, VT" Fuzzy match to "1157 Center of Town Road, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1157"/>
+    <tag k="addr:street" v="Center Of Town Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121851"/>
+  </node>
+  <node id="-1787" visible="true" lat="43.66278786" lon="-72.37197058">
+    <!-- conflict: "1175 Center Of Town Road, Hartford, VT" Fuzzy match to "1175 Center of Town Road, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1175"/>
+    <tag k="addr:street" v="Center Of Town Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121861"/>
+  </node>
+  <node id="-1788" visible="true" lat="43.66274648" lon="-72.31711998">
+    <!-- conflict: "318 Gifford Road, Hartford, VT" Fuzzy match to "318 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="318"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121862"/>
+  </node>
+  <node id="-1792" visible="true" lat="43.66252645" lon="-72.31662526">
+    <!-- conflict: "317 Gifford Road, Hartford, VT" Fuzzy match to "317 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="317"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121866"/>
+  </node>
+  <node id="-1797" visible="true" lat="43.66272183" lon="-72.44316445">
+    <!-- conflict: "623 Williams Lane, Hartford, VT" Fuzzy match to "623 Williams Lane, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="623"/>
+    <tag k="addr:street" v="Williams Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121871"/>
+  </node>
+  <node id="-1800" visible="true" lat="43.66252901" lon="-72.31481585">
+    <!-- conflict: "328 Wilder Street, Hartford, VT" Fuzzy match to "328 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="328"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121874"/>
+  </node>
+  <node id="-1805" visible="true" lat="43.66269845" lon="-72.38420257">
+    <!-- conflict: "48 Stagecoach Road, Hartford, VT" Fuzzy match to "48 Stagecoach Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Stagecoach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121879"/>
+  </node>
+  <node id="-1808" visible="true" lat="43.66243541" lon="-72.31433668">
+    <!-- conflict: "329 Wilder Street, Hartford, VT" Fuzzy match to "329 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="329"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121882"/>
+  </node>
+  <node id="-1811" visible="true" lat="43.66236731" lon="-72.31609209">
+    <!-- conflict: "305 Gifford Road, Hartford, VT" Fuzzy match to "305 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="305"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121885"/>
+  </node>
+  <node id="-1815" visible="true" lat="43.66217147" lon="-72.31595989">
+    <!-- conflict: "307 Gifford Road, Hartford, VT" Fuzzy match to "307 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="307"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121889"/>
+  </node>
+  <node id="-1823" visible="true" lat="43.66215087" lon="-72.31687586">
+    <!-- conflict: "293 Gifford Road, Hartford, VT" Fuzzy match to "293 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="293"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121897"/>
+  </node>
+  <node id="-1828" visible="true" lat="43.66228475" lon="-72.31492507">
+    <!-- conflict: "308 Wilder Street, Hartford, VT" Fuzzy match to "308 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121902"/>
+  </node>
+  <node id="-1837" visible="true" lat="43.66213159" lon="-72.31439454">
+    <!-- conflict: "307 Wilder Street, Hartford, VT" Fuzzy match to "307 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="307"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121911"/>
+  </node>
+  <node id="-1838" visible="true" lat="43.66215004" lon="-72.31756539">
+    <!-- conflict: "274 Gifford Road, Hartford, VT" Fuzzy match to "274 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="274"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121912"/>
+  </node>
+  <node id="-1840" visible="true" lat="43.66216905" lon="-72.31496525">
+    <!-- conflict: "302 Wilder Street, Hartford, VT" Fuzzy match to "302 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="302"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121914"/>
+  </node>
+  <node id="-1856" visible="true" lat="43.66198444" lon="-72.31532544">
+    <!-- conflict: "79 Hewitt Street, Hartford, VT" Fuzzy match to "79 Hewitt Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Hewitt Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121934"/>
+  </node>
+  <node id="-1864" visible="true" lat="43.66186998" lon="-72.31489381">
+    <!-- conflict: "284 Wilder Street, Hartford, VT" Fuzzy match to "284 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121944"/>
+  </node>
+  <node id="-1887" visible="true" lat="43.66174884" lon="-72.31439918">
+    <!-- conflict: "31 Hewitt Street, Hartford, VT" Fuzzy match to "31 Hewitt Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Hewitt Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121968"/>
+  </node>
+  <node id="-1898" visible="true" lat="43.66166687" lon="-72.37419128">
+    <!-- conflict: "969 Center Of Town Road, Hartford, VT" Fuzzy match to "969 Center of Town Road, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="969"/>
+    <tag k="addr:street" v="Center Of Town Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121982"/>
+  </node>
+  <node id="-1901" visible="true" lat="43.66178884" lon="-72.31794189">
+    <!-- conflict: "238 Gifford Road, Hartford, VT" Fuzzy match to "238 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="238"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121986"/>
+  </node>
+  <node id="-1902" visible="true" lat="43.66160417" lon="-72.31564543">
+    <!-- conflict: "267 Hanover Street, Hartford, VT" Fuzzy match to "267 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="267"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="121987"/>
+  </node>
+  <node id="-1924" visible="true" lat="43.66149957" lon="-72.31516798">
+    <!-- conflict: "254 Wilder Street, Hartford, VT" Fuzzy match to "254 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="254"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122012"/>
+  </node>
+  <node id="-1929" visible="true" lat="43.6613671" lon="-72.31676304">
+    <!-- conflict: "244 Hanover Street, Hartford, VT" Fuzzy match to "244 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="244"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122018"/>
+  </node>
+  <node id="-1935" visible="true" lat="43.66150811" lon="-72.34271073">
+    <!-- conflict: "1587 Maple Street, Hartford, VT" Fuzzy match to "1587 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1587"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122026"/>
+  </node>
+  <node id="-1942" visible="true" lat="43.66127042" lon="-72.31464803">
+    <!-- conflict: "247 Wilder Street, Hartford, VT" Fuzzy match to "247 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="247"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122033"/>
+  </node>
+  <node id="-1947" visible="true" lat="43.66118292" lon="-72.31584707">
+    <!-- conflict: "239 Hanover Street, Hartford, VT" Fuzzy match to "239 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122038"/>
+  </node>
+  <node id="-1949" visible="true" lat="43.66114453" lon="-72.31719166">
+    <!-- conflict: "203 Gifford Road, Hartford, VT" Fuzzy match to "203 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="203"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122042"/>
+  </node>
+  <node id="-1956" visible="true" lat="43.66109807" lon="-72.31530785">
+    <!-- conflict: "228 Wilder Street, Hartford, VT" Fuzzy match to "228 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="228"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122051"/>
+  </node>
+  <node id="-1960" visible="true" lat="43.66104885" lon="-72.31479375">
+    <!-- conflict: "231 Wilder Street, Hartford, VT" Fuzzy match to "231 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="231"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122055"/>
+  </node>
+  <node id="-1971" visible="true" lat="43.66098998" lon="-72.31769504">
+    <!-- conflict: "192 Gifford Road, Hartford, VT" Fuzzy match to "192 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="192"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122068"/>
+  </node>
+  <node id="-1979" visible="true" lat="43.66088314" lon="-72.31486943">
+    <!-- conflict: "219 Wilder Street, Hartford, VT" Fuzzy match to "219 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122076"/>
+  </node>
+  <node id="-1980" visible="true" lat="43.66084131" lon="-72.31716693">
+    <!-- conflict: "187 Gifford Road, Hartford, VT" Fuzzy match to "187 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122077"/>
+  </node>
+  <node id="-1984" visible="true" lat="43.66091919" lon="-72.31644597">
+    <!-- conflict: "210 Hanover Street, Hartford, VT" Fuzzy match to "210 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122081"/>
+  </node>
+  <node id="-1993" visible="true" lat="43.66076732" lon="-72.31543631">
+    <!-- conflict: "204 Wilder Street, Hartford, VT" Fuzzy match to "204 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122091"/>
+  </node>
+  <node id="-1998" visible="true" lat="43.66075071" lon="-72.31603287">
+    <!-- conflict: "205 Hanover Street, Hartford, VT" Fuzzy match to "205 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122098"/>
+  </node>
+  <node id="-1999" visible="true" lat="43.66063595" lon="-72.31497523">
+    <!-- conflict: "205 Wilder Street, Hartford, VT" Fuzzy match to "205 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122100"/>
+  </node>
+  <node id="-2010" visible="true" lat="43.66055056" lon="-72.31725154">
+    <!-- conflict: "169 Gifford Road, Hartford, VT" Fuzzy match to "169 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122111"/>
+  </node>
+  <node id="-2011" visible="true" lat="43.66093701" lon="-72.37411555">
+    <!-- conflict: "979 Center Of Town Road, Hartford, VT" Fuzzy match to "979 Center of Town Road, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="979"/>
+    <tag k="addr:street" v="Center Of Town Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122112"/>
+  </node>
+  <node id="-2012" visible="true" lat="43.66066371" lon="-72.31782689">
+    <!-- conflict: "162 Gifford Road, Hartford, VT" Fuzzy match to "162 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="162"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122113"/>
+  </node>
+  <node id="-2015" visible="true" lat="43.66048774" lon="-72.31611549">
+    <!-- conflict: "191 Hanover Street, Hartford, VT" Fuzzy match to "191 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="191"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122116"/>
+  </node>
+  <node id="-2032" visible="true" lat="43.66041075" lon="-72.31560875">
+    <!-- conflict: "176 Wilder Street, Hartford, VT" Fuzzy match to "176 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="176"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122134"/>
+  </node>
+  <node id="-2033" visible="true" lat="43.66033297" lon="-72.31731791">
+    <!-- conflict: "151 Gifford Road, Hartford, VT" Fuzzy match to "151 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122135"/>
+  </node>
+  <node id="-2035" visible="true" lat="43.66048727" lon="-72.31454817">
+    <!-- conflict: "842 Hartford Avenue, Hartford, VT" No match in OSM, but a different address exists <5m away: "842 Taft Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="842"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122137"/>
+  </node>
+  <node id="-2043" visible="true" lat="43.66024861" lon="-72.31511853">
+    <!-- conflict: "173 Wilder Street, Hartford, VT" Fuzzy match to "173 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122145"/>
+  </node>
+  <node id="-2049" visible="true" lat="43.66013903" lon="-72.31628533">
+    <!-- conflict: "165 Hanover Street, Hartford, VT" Fuzzy match to "165 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122151"/>
+  </node>
+  <node id="-2051" visible="true" lat="43.66018007" lon="-72.31684644">
+    <!-- conflict: "158 Hanover Street, Hartford, VT" Fuzzy match to "158 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="158"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122153"/>
+  </node>
+  <node id="-2056" visible="true" lat="43.66010278" lon="-72.31576019">
+    <!-- conflict: "156 Wilder Street, Hartford, VT" Fuzzy match to "156 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122158"/>
+  </node>
+  <node id="-2058" visible="true" lat="43.66006755" lon="-72.31382135">
+    <!-- conflict: "829 Hartford Avenue, Hartford, VT" Fuzzy match to "829 Hartford Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="829"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122160"/>
+  </node>
+  <node id="-2062" visible="true" lat="43.65990348" lon="-72.32014897">
+    <!-- conflict: "98 Gifford Road, Hartford, VT" Fuzzy match to "98 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122164"/>
+  </node>
+  <node id="-2065" visible="true" lat="43.65990773" lon="-72.31639494">
+    <!-- conflict: "145 Hanover Street, Hartford, VT" Fuzzy match to "145 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122167"/>
+  </node>
+  <node id="-2067" visible="true" lat="43.65992777" lon="-72.31803428">
+    <!-- conflict: "114 Gifford Road, Hartford, VT" Fuzzy match to "114 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122169"/>
+  </node>
+  <node id="-2069" visible="true" lat="43.6598124" lon="-72.31753348">
+    <!-- conflict: "115 Gifford Road, Hartford, VT" Fuzzy match to "115 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122171"/>
+  </node>
+  <node id="-2071" visible="true" lat="43.6597949" lon="-72.31696491">
+    <!-- conflict: "134 Hanover Street, Hartford, VT" Fuzzy match to "134 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122173"/>
+  </node>
+  <node id="-2075" visible="true" lat="43.65972409" lon="-72.31649643">
+    <!-- conflict: "135 Hanover Street, Hartford, VT" Fuzzy match to "135 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122177"/>
+  </node>
+  <node id="-2080" visible="true" lat="43.65978183" lon="-72.31582657">
+    <!-- conflict: "128 Wilder Street, Hartford, VT" Fuzzy match to "128 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122183"/>
+  </node>
+  <node id="-2090" visible="true" lat="43.65953437" lon="-72.316589">
+    <!-- conflict: "123 Hanover Street, Hartford, VT" Fuzzy match to "123 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122194"/>
+  </node>
+  <node id="-2091" visible="true" lat="43.65960776" lon="-72.31821446">
+    <!-- conflict: "90 Gifford Road, Hartford, VT" Fuzzy match to "90 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122195"/>
+  </node>
+  <node id="-2094" visible="true" lat="43.65956026" lon="-72.31593309">
+    <!-- conflict: "116 Wilder Street, Hartford, VT" Fuzzy match to "116 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122199"/>
+  </node>
+  <node id="-2096" visible="true" lat="43.65948917" lon="-72.31706675">
+    <!-- conflict: "108 Hanover Street, Hartford, VT" Fuzzy match to "108 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122201"/>
+  </node>
+  <node id="-2098" visible="true" lat="43.65944747" lon="-72.31546524">
+    <!-- conflict: "117 Wilder Street, Hartford, VT" Fuzzy match to "117 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122203"/>
+  </node>
+  <node id="-2110" visible="true" lat="43.65934353" lon="-72.31778743">
+    <!-- conflict: "79 Gifford Road, Hartford, VT" Fuzzy match to "79 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122215"/>
+  </node>
+  <node id="-2112" visible="true" lat="43.65931897" lon="-72.31715468">
+    <!-- conflict: "98 Hanover Street, Hartford, VT" Fuzzy match to "98 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122217"/>
+  </node>
+  <node id="-2114" visible="true" lat="43.65935418" lon="-72.31842019">
+    <!-- conflict: "70 Gifford Road, Hartford, VT" Fuzzy match to "70 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122220"/>
+  </node>
+  <node id="-2118" visible="true" lat="43.65937918" lon="-72.31429737">
+    <!-- conflict: "749 Hartford Avenue, Hartford, VT" Fuzzy match to "749 Hartford Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="749"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122224"/>
+  </node>
+  <node id="-2120" visible="true" lat="43.65915147" lon="-72.31676817">
+    <!-- conflict: "93 Hanover Street, Hartford, VT" Fuzzy match to "93 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122226"/>
+  </node>
+  <node id="-2121" visible="true" lat="43.65927577" lon="-72.31911027">
+    <!-- conflict: "54 Gifford Road, Hartford, VT" Fuzzy match to "54 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122227"/>
+  </node>
+  <node id="-2126" visible="true" lat="43.65908676" lon="-72.31566307">
+    <!-- conflict: "40 Pierce Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "40 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Pierce Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122233"/>
+  </node>
+  <node id="-2133" visible="true" lat="43.65919804" lon="-72.31847725">
+    <!-- conflict: "52 Gifford Road, Hartford, VT" Fuzzy match to "52 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122241"/>
+  </node>
+  <node id="-2141" visible="true" lat="43.6589845" lon="-72.31622547">
+    <!-- conflict: "76 Wilder Street, Hartford, VT" Fuzzy match to "76 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122249"/>
+  </node>
+  <node id="-2142" visible="true" lat="43.65899639" lon="-72.31682264">
+    <!-- conflict: "79 Hanover Street, Hartford, VT" Fuzzy match to "79 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122250"/>
+  </node>
+  <node id="-2155" visible="true" lat="43.65885341" lon="-72.31630511">
+    <!-- conflict: "66 Wilder Street, Hartford, VT" Fuzzy match to "66 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122263"/>
+  </node>
+  <node id="-2157" visible="true" lat="43.65887251" lon="-72.31810282">
+    <!-- conflict: "149 Saunders Avenue, Hartford, VT" Fuzzy match to "149 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="149"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122265"/>
+  </node>
+  <node id="-2160" visible="true" lat="43.65885019" lon="-72.31865808">
+    <!-- conflict: "34 Gifford Road, Hartford, VT" Fuzzy match to "34 Gifford Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122268"/>
+  </node>
+  <node id="-2167" visible="true" lat="43.65882179" lon="-72.31786918">
+    <!-- conflict: "141 Saunders Avenue, Hartford, VT" Fuzzy match to "141 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122275"/>
+  </node>
+  <node id="-2174" visible="true" lat="43.65868851" lon="-72.31746467">
+    <!-- conflict: "113 Saunders Avenue, Hartford, VT" Fuzzy match to "113 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122283"/>
+  </node>
+  <node id="-2176" visible="true" lat="43.65854988" lon="-72.31826673">
+    <!-- conflict: "148 Saunders Avenue, Hartford, VT" Fuzzy match to "148 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122285"/>
+  </node>
+  <node id="-2177" visible="true" lat="43.65859203" lon="-72.31595268">
+    <!-- conflict: "51 Wilder Street, Hartford, VT" Fuzzy match to "51 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122286"/>
+  </node>
+  <node id="-2181" visible="true" lat="43.65855607" lon="-72.31640423">
+    <!-- conflict: "44 Wilder Street, Hartford, VT" Fuzzy match to "44 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122290"/>
+  </node>
+  <node id="-2183" visible="true" lat="43.658495" lon="-72.31803734">
+    <!-- conflict: "136 Saunders Avenue, Hartford, VT" Fuzzy match to "136 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122292"/>
+  </node>
+  <node id="-2184" visible="true" lat="43.65858208" lon="-72.3170952">
+    <!-- conflict: "95 Saunders Avenue, Hartford, VT" Fuzzy match to "95 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122293"/>
+  </node>
+  <node id="-2192" visible="true" lat="43.65840338" lon="-72.3176241">
+    <!-- conflict: "116 Saunders Avenue, Hartford, VT" Fuzzy match to "116 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122301"/>
+  </node>
+  <node id="-2196" visible="true" lat="43.65841712" lon="-72.31433579">
+    <!-- conflict: "713 Hartford Avenue, Hartford, VT" Fuzzy match to "713 Hartford Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="713"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122305"/>
+  </node>
+  <node id="-2197" visible="true" lat="43.65843092" lon="-72.31671179">
+    <!-- conflict: "73 Saunders Avenue, Hartford, VT" Fuzzy match to "73 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122306"/>
+  </node>
+  <node id="-2202" visible="true" lat="43.65827421" lon="-72.31722053">
+    <!-- conflict: "94 Saunders Avenue, Hartford, VT" Fuzzy match to "94 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122312"/>
+  </node>
+  <node id="-2204" visible="true" lat="43.65821143" lon="-72.31706044">
+    <!-- conflict: "82 Saunders Avenue, Hartford, VT" Fuzzy match to "82 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122314"/>
+  </node>
+  <node id="-2208" visible="true" lat="43.65831254" lon="-72.31610322">
+    <!-- conflict: "43 Saunders Avenue, Hartford, VT" Fuzzy match to "43 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122318"/>
+  </node>
+  <node id="-2209" visible="true" lat="43.65813773" lon="-72.31685374">
+    <!-- conflict: "72 Saunders Avenue, Hartford, VT" Fuzzy match to "72 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122320"/>
+  </node>
+  <node id="-2211" visible="true" lat="43.6582376" lon="-72.31589429">
+    <!-- conflict: "27 Saunders Avenue, Hartford, VT" Fuzzy match to "27 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122322"/>
+  </node>
+  <node id="-2212" visible="true" lat="43.65808348" lon="-72.31662273">
+    <!-- conflict: "62 Saunders Avenue, Hartford, VT" Fuzzy match to "62 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122323"/>
+  </node>
+  <node id="-2217" visible="true" lat="43.65813481" lon="-72.31561626">
+    <!-- conflict: "676 Hartford Avenue, Hartford, VT" Fuzzy match to "676 Hartford Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="676"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122329"/>
+  </node>
+  <node id="-2221" visible="true" lat="43.65799426" lon="-72.31631416">
+    <!-- conflict: "44 Saunders Avenue, Hartford, VT" Fuzzy match to "44 Saunders Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Saunders Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122333"/>
+  </node>
+  <node id="-2234" visible="true" lat="43.65765396" lon="-72.31886178">
+    <!-- conflict: "37 Highland Avenue, Hartford, VT" Fuzzy match to "37 Highland Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122347"/>
+  </node>
+  <node id="-2240" visible="true" lat="43.65770179" lon="-72.31464754">
+    <!-- conflict: "657 Hartford Avenue, Hartford, VT" Fuzzy match to "657 Hartford Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="657"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122354"/>
+  </node>
+  <node id="-2242" visible="true" lat="43.65777411" lon="-72.34237157">
+    <!-- conflict: "272 Va Cutoff Road, Hartford, VT" Fuzzy match to "272 V.A. Cutoff Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="272"/>
+    <tag k="addr:street" v="Va Cutoff Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122356"/>
+  </node>
+  <node id="-2251" visible="true" lat="43.65760058" lon="-72.3410485">
+    <!-- conflict: "685 Woodstock Road, Hartford, VT" Fuzzy match to "685 Woodstock Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="685"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122366"/>
+  </node>
+  <node id="-2260" visible="true" lat="43.657442" lon="-72.34041791">
+    <!-- conflict: "661 Woodstock Road, Hartford, VT" Fuzzy match to "661 Woodstock Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="661"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122376"/>
+  </node>
+  <node id="-2264" visible="true" lat="43.65725692" lon="-72.31475249">
+    <!-- conflict: "637 Hartford Avenue, Hartford, VT" Fuzzy match to "637 Hartford Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="637"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122381"/>
+  </node>
+  <node id="-2265" visible="true" lat="43.65728396" lon="-72.3235785">
+    <!-- conflict: "437 Highland Avenue, Hartford, VT" No match in OSM, but a different address exists <5m away: "431 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="437"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122382"/>
+  </node>
+  <node id="-2266" visible="true" lat="43.65718078" lon="-72.31619262">
+    <!-- conflict: "606 Hartford Avenue, Hartford, VT" Fuzzy match to "606 Hartford Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="606"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122383"/>
+  </node>
+  <node id="-2272" visible="true" lat="43.65706349" lon="-72.3241975">
+    <!-- conflict: "436 Highland Avenue, Hartford, VT" Fuzzy match to "436 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="436"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122390"/>
+  </node>
+  <node id="-2277" visible="true" lat="43.65694046" lon="-72.32328796">
+    <!-- conflict: "414 Highland Avenue, Hartford, VT" Fuzzy match to "414 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="414"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122396"/>
+  </node>
+  <node id="-2279" visible="true" lat="43.65700702" lon="-72.31669932">
+    <!-- conflict: "19 Hebard Street, Hartford, VT" Fuzzy match to "19 Hebard Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Hebard Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122398"/>
+  </node>
+  <node id="-2281" visible="true" lat="43.65688323" lon="-72.31720733">
+    <!-- conflict: "64 Hebard Street, Hartford, VT" Fuzzy match to "64 Hebard Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Hebard Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122400"/>
+  </node>
+  <node id="-2288" visible="true" lat="43.65675687" lon="-72.32296646">
+    <!-- conflict: "396 Highland Avenue, Hartford, VT" Fuzzy match to "396 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="396"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122407"/>
+  </node>
+  <node id="-2296" visible="true" lat="43.65682675" lon="-72.31511057">
+    <!-- conflict: "589 Hartford Avenue, Hartford, VT" Fuzzy match to "589 Hartford Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="589"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122416"/>
+  </node>
+  <node id="-2298" visible="true" lat="43.65674691" lon="-72.31558828">
+    <!-- conflict: "587 Hartford Avenue, Hartford, VT" Fuzzy match to "587 Hartford Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="587"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122418"/>
+  </node>
+  <node id="-2301" visible="true" lat="43.65663288" lon="-72.32277046">
+    <!-- conflict: "376 Highland Avenue, Hartford, VT" Fuzzy match to "376 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="376"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122421"/>
+  </node>
+  <node id="-2313" visible="true" lat="43.65637325" lon="-72.32227702">
+    <!-- conflict: "346 Highland Avenue, Hartford, VT" Fuzzy match to "346 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="346"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122433"/>
+  </node>
+  <node id="-2316" visible="true" lat="43.65635681" lon="-72.31993865">
+    <!-- conflict: "245 Highland Avenue, Hartford, VT" Fuzzy match to "245 Highland Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122437"/>
+  </node>
+  <node id="-2319" visible="true" lat="43.65634155" lon="-72.32168579">
+    <!-- conflict: "324 Highland Avenue, Hartford, VT" Fuzzy match to "324 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="324"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122440"/>
+  </node>
+  <node id="-2328" visible="true" lat="43.65634538" lon="-72.32350608">
+    <!-- conflict: "188 Cascadnac Avenue, Hartford, VT" Fuzzy match to "188 Cascadnac Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="188"/>
+    <tag k="addr:street" v="Cascadnac Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122449"/>
+  </node>
+  <node id="-2330" visible="true" lat="43.65625023" lon="-72.31779301">
+    <!-- conflict: "71 Highland Avenue, Hartford, VT" Fuzzy match to "71 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122451"/>
+  </node>
+  <node id="-2333" visible="true" lat="43.65620183" lon="-72.32306921">
+    <!-- conflict: "198 Cascadnac Avenue, Hartford, VT" Fuzzy match to "198 Cascadnac Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="198"/>
+    <tag k="addr:street" v="Cascadnac Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122454"/>
+  </node>
+  <node id="-2349" visible="true" lat="43.65575607" lon="-72.32010366">
+    <!-- conflict: "165 Victory Circle, Hartford, VT" No match in OSM, but a different address exists <5m away: "234 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:street" v="Victory Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122472"/>
+  </node>
+  <node id="-2356" visible="true" lat="43.65574622" lon="-72.31860734">
+    <!-- conflict: "185 Highland Avenue, Hartford, VT" No match in OSM, but a different address exists <5m away: "187 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122479"/>
+  </node>
+  <node id="-2361" visible="true" lat="43.65575336" lon="-72.32153624">
+    <!-- conflict: "290 Cascadnac Avenue, Hartford, VT" No match in OSM, but a different address exists <5m away: " Cascadnac Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="290"/>
+    <tag k="addr:street" v="Cascadnac Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122484"/>
+  </node>
+  <node id="-2366" visible="true" lat="43.65563964" lon="-72.31974029">
+    <!-- conflict: "214 Highland Avenue, Hartford, VT" Fuzzy match to "214 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="214"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122489"/>
+  </node>
+  <node id="-2369" visible="true" lat="43.65557479" lon="-72.31600189">
+    <!-- conflict: "38 Worcester Avenue, Hartford, VT" Fuzzy match to "38 Worcester Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Worcester Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122492"/>
+  </node>
+  <node id="-2372" visible="true" lat="43.65552789" lon="-72.32198152">
+    <!-- conflict: "288 Cascadnac Avenue, Hartford, VT" Fuzzy match to "288 Cascadnac Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="288"/>
+    <tag k="addr:street" v="Cascadnac Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122495"/>
+  </node>
+  <node id="-2375" visible="true" lat="43.65563199" lon="-72.32059452">
+    <!-- conflict: "148 Victory Circle, Hartford, VT" Fuzzy match to "148 Victory Circle, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Victory Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122498"/>
+  </node>
+  <node id="-2378" visible="true" lat="43.65553957" lon="-72.31808568">
+    <!-- conflict: "109 Highland Avenue, Hartford, VT" No match in OSM, but a different address exists <5m away: "109B Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122501"/>
+  </node>
+  <node id="-2379" visible="true" lat="43.65541735" lon="-72.32340683">
+    <!-- conflict: "187 Cascadnac Avenue, Hartford, VT" Fuzzy match to "187 Cascadnac Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Cascadnac Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122502"/>
+  </node>
+  <node id="-2381" visible="true" lat="43.65546615" lon="-72.31981019">
+    <!-- conflict: "17 Victory Circle, Hartford, VT" Fuzzy match to "17 Victory Circle, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Victory Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122504"/>
+  </node>
+  <node id="-2390" visible="true" lat="43.65554677" lon="-72.32724724">
+    <!-- conflict: "49 Sargent Street, Hartford, VT" Fuzzy match to "49 Sargent Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Sargent Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122513"/>
+  </node>
+  <node id="-2395" visible="true" lat="43.65525924" lon="-72.32245223">
+    <!-- conflict: "263 Cascadnac Avenue, Hartford, VT" Fuzzy match to "263 Cascadnac Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="263"/>
+    <tag k="addr:street" v="Cascadnac Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122520"/>
+  </node>
+  <node id="-2396" visible="true" lat="43.65538187" lon="-72.31607158">
+    <!-- conflict: "58 Worcester Avenue, Hartford, VT" Fuzzy match to "58 Worcester Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Worcester Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122521"/>
+  </node>
+  <node id="-2398" visible="true" lat="43.65527064" lon="-72.32112558">
+    <!-- conflict: "308 Cascadnac Avenue, Hartford, VT" No match in OSM, but a different address exists <5m away: " Cascadnac Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:street" v="Cascadnac Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122524"/>
+  </node>
+  <node id="-2401" visible="true" lat="43.65560983" lon="-72.34022433">
+    <!-- conflict: "150 Courtemanche Hill, Hartford, VT" Fuzzy match to "150 Courtemanche Hollow, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Courtemanche Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122527"/>
+  </node>
+  <node id="-2403" visible="true" lat="43.65520176" lon="-72.31940342">
+    <!-- conflict: "178 Highland Avenue, Hartford, VT" Fuzzy match to "178 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="178"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122529"/>
+  </node>
+  <node id="-2411" visible="true" lat="43.65506735" lon="-72.31904252">
+    <!-- conflict: "176 Highland Avenue, Hartford, VT" Fuzzy match to "176 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="176"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122537"/>
+  </node>
+  <node id="-2415" visible="true" lat="43.65513674" lon="-72.31996896">
+    <!-- conflict: "45 Victory Circle, Hartford, VT" Fuzzy match to "45 Victory Circle, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Victory Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122541"/>
+  </node>
+  <node id="-2416" visible="true" lat="43.65531281" lon="-72.32650452">
+    <!-- conflict: "9 Sargent Street, Hartford, VT" Fuzzy match to "9 Sargent Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Sargent Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122542"/>
+  </node>
+  <node id="-2419" visible="true" lat="43.65513064" lon="-72.31612924">
+    <!-- conflict: "72 Worcester Avenue, Hartford, VT" Fuzzy match to "72 Worcester Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Worcester Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122545"/>
+  </node>
+  <node id="-2422" visible="true" lat="43.65512132" lon="-72.31675993">
+    <!-- conflict: "81 Worcester Avenue, Hartford, VT" Fuzzy match to "81 Worcester Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Worcester Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122548"/>
+  </node>
+  <node id="-2426" visible="true" lat="43.65491357" lon="-72.32005777">
+    <!-- conflict: "57 Victory Circle, Hartford, VT" Fuzzy match to "57 Victory Circle, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Victory Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122553"/>
+  </node>
+  <node id="-2428" visible="true" lat="43.65483475" lon="-72.32169133">
+    <!-- conflict: "301 Cascadnac Avenue, Hartford, VT" Fuzzy match to "301 Cascadnac Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="301"/>
+    <tag k="addr:street" v="Cascadnac Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122555"/>
+  </node>
+  <node id="-2430" visible="true" lat="43.65502024" lon="-72.3203956">
+    <!-- conflict: "97 Victory Circle, Hartford, VT" Fuzzy match to "97 Victory Circle, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Victory Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122557"/>
+  </node>
+  <node id="-2441" visible="true" lat="43.65489075" lon="-72.31681753">
+    <!-- conflict: "97 Worcester Avenue, Hartford, VT" Fuzzy match to "97 Worcester Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Worcester Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122569"/>
+  </node>
+  <node id="-2442" visible="true" lat="43.65479278" lon="-72.31626129">
+    <!-- conflict: "92 Worcester Avenue, Hartford, VT" Fuzzy match to "92 Worcester Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Worcester Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122570"/>
+  </node>
+  <node id="-2445" visible="true" lat="43.65473601" lon="-72.32078525">
+    <!-- conflict: "102 Victory Circle, Hartford, VT" Fuzzy match to "102 Victory Circle, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Victory Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122573"/>
+  </node>
+  <node id="-2450" visible="true" lat="43.65460981" lon="-72.32053396">
+    <!-- conflict: "92 Victory Circle, Hartford, VT" Fuzzy match to "92 Victory Circle, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Victory Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122578"/>
+  </node>
+  <node id="-2451" visible="true" lat="43.6546178" lon="-72.32024868">
+    <!-- conflict: "86 Victory Circle, Hartford, VT" Fuzzy match to "86 Victory Circle, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Victory Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122580"/>
+  </node>
+  <node id="-2457" visible="true" lat="43.65469574" lon="-72.32681756">
+    <!-- conflict: "649 Maple Street, Hartford, VT" Fuzzy match to "649 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="649"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122586"/>
+  </node>
+  <node id="-2459" visible="true" lat="43.65464987" lon="-72.31689413">
+    <!-- conflict: "111 Worcester Avenue, Hartford, VT" Fuzzy match to "111 Worcester Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Worcester Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122588"/>
+  </node>
+  <node id="-2474" visible="true" lat="43.65456401" lon="-72.32583962">
+    <!-- conflict: "605 Maple Street, Hartford, VT" Fuzzy match to "605 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="605"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122604"/>
+  </node>
+  <node id="-2475" visible="true" lat="43.65447997" lon="-72.31636047">
+    <!-- conflict: "114 Worcester Avenue, Hartford, VT" Fuzzy match to "114 Worcester Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Worcester Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122605"/>
+  </node>
+  <node id="-2480" visible="true" lat="43.65438077" lon="-72.31699548">
+    <!-- conflict: "125 Worcester Avenue, Hartford, VT" Fuzzy match to "125 Worcester Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Worcester Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122610"/>
+  </node>
+  <node id="-2482" visible="true" lat="43.65454832" lon="-72.32641481">
+    <!-- conflict: "629 Maple Street, Hartford, VT" Fuzzy match to "629 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="629"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122612"/>
+  </node>
+  <node id="-2501" visible="true" lat="43.65426829" lon="-72.31644246">
+    <!-- conflict: "136 Worcester Avenue, Hartford, VT" Fuzzy match to "136 Worcester Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Worcester Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122631"/>
+  </node>
+  <node id="-2502" visible="true" lat="43.65417408" lon="-72.31719688">
+    <!-- conflict: "143 Worcester Avenue, Hartford, VT" Fuzzy match to "143 Worcester Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="143"/>
+    <tag k="addr:street" v="Worcester Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122632"/>
+  </node>
+  <node id="-2522" visible="true" lat="43.65407469" lon="-72.31681818">
+    <!-- conflict: "144 Worcester Avenue, Hartford, VT" Fuzzy match to "144 Worcester Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="Worcester Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122652"/>
+  </node>
+  <node id="-2606" visible="true" lat="43.65323716" lon="-72.31658256">
+    <!-- conflict: "93 Pine Street, Hartford, VT" Fuzzy match to "93 Pine Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Pine Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122744"/>
+  </node>
+  <node id="-2607" visible="true" lat="43.6531606" lon="-72.31780904">
+    <!-- conflict: "102 Pine Street, Hartford, VT" Fuzzy match to "102 Pine Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Pine Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122745"/>
+  </node>
+  <node id="-2616" visible="true" lat="43.65312056" lon="-72.3455391">
+    <!-- conflict: "812 Va Cutoff Road, Hartford, VT" Fuzzy match to "812 V.A. Cutoff Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="812"/>
+    <tag k="addr:street" v="Va Cutoff Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122757"/>
+  </node>
+  <node id="-2617" visible="true" lat="43.65294138" lon="-72.31698095">
+    <!-- conflict: "83 Pine Street, Hartford, VT" Fuzzy match to "83 Pine Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Pine Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122758"/>
+  </node>
+  <node id="-2618" visible="true" lat="43.65273432" lon="-72.31946132">
+    <!-- conflict: "8 Barnes Avenue, Hartford, VT" Fuzzy match to "8 Barnes Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Barnes Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122760"/>
+  </node>
+  <node id="-2619" visible="true" lat="43.6527975" lon="-72.31606136">
+    <!-- conflict: "75 Pine Street, Hartford, VT" Fuzzy match to "75 Pine Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Pine Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122761"/>
+  </node>
+  <node id="-2629" visible="true" lat="43.65248737" lon="-72.32852414">
+    <!-- conflict: "151 Lantern Lane, Hartford, VT" Fuzzy match to "151 Lantern Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Lantern Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122773"/>
+  </node>
+  <node id="-2632" visible="true" lat="43.65250396" lon="-72.3307724">
+    <!-- conflict: "50 Woodstock Road, Hartford, VT" Fuzzy match to "50 Woodstock Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122776"/>
+  </node>
+  <node id="-2635" visible="true" lat="43.65247138" lon="-72.32809851">
+    <!-- conflict: "152 Lantern Lane, Hartford, VT" Fuzzy match to "152 Lantern Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="152"/>
+    <tag k="addr:street" v="Lantern Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122779"/>
+  </node>
+  <node id="-2637" visible="true" lat="43.6524934" lon="-72.39169406">
+    <!-- conflict: "3 Quechee Main Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "1 Quechee Main Street, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Quechee Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122781"/>
+  </node>
+  <node id="-2640" visible="true" lat="43.65252667" lon="-72.31984422">
+    <!-- conflict: "263 Maple Street, Hartford, VT" Fuzzy match to "263 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="263"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122785"/>
+  </node>
+  <node id="-2642" visible="true" lat="43.65262435" lon="-72.39126952">
+    <!-- conflict: "1 Quechee Main Street, Hartford, VT" Fuzzy match to "1 Quechee Main Street, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Quechee Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122788"/>
+  </node>
+  <node id="-2643" visible="true" lat="43.65237045" lon="-72.32661438">
+    <!-- conflict: "56 Lantern Lane, Hartford, VT" Fuzzy match to "56 Lantern Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Lantern Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122789"/>
+  </node>
+  <node id="-2652" visible="true" lat="43.65221564" lon="-72.32623601">
+    <!-- conflict: "38 Lantern Lane, Hartford, VT" Fuzzy match to "38 Lantern Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Lantern Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122802"/>
+  </node>
+  <node id="-2653" visible="true" lat="43.65223458" lon="-72.31838096">
+    <!-- conflict: "209 Maple Street, Hartford, VT" Fuzzy match to "209 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="209"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122804"/>
+  </node>
+  <node id="-2675" visible="true" lat="43.65173589" lon="-72.31719344">
+    <!-- conflict: "23 Pine Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "7 Pine Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Pine Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122829"/>
+  </node>
+  <node id="-2682" visible="true" lat="43.65182242" lon="-72.31782763">
+    <!-- conflict: "155 Maple Street, Hartford, VT" Fuzzy match to "155 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122836"/>
+  </node>
+  <node id="-2692" visible="true" lat="43.65146147" lon="-72.3185418">
+    <!-- conflict: "190 Maple Street, Hartford, VT" Fuzzy match to "190 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122847"/>
+  </node>
+  <node id="-2696" visible="true" lat="43.65166053" lon="-72.31697251">
+    <!-- conflict: "113 Maple Street, Hartford, VT" Fuzzy match to "113 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122852"/>
+  </node>
+  <node id="-2703" visible="true" lat="43.65161092" lon="-72.31676667">
+    <!-- conflict: "101 Maple Street, Hartford, VT" Fuzzy match to "101 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122860"/>
+  </node>
+  <node id="-2707" visible="true" lat="43.65154321" lon="-72.31652885">
+    <!-- conflict: "87 Maple Street, Hartford, VT" Fuzzy match to "87 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122865"/>
+  </node>
+  <node id="-2711" visible="true" lat="43.65138016" lon="-72.31801809">
+    <!-- conflict: "176 Bridge Street, Hartford, VT" Fuzzy match to "176 Bridge Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="176"/>
+    <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122870"/>
+  </node>
+  <node id="-2719" visible="true" lat="43.65090298" lon="-72.31722761">
+    <!-- conflict: "171 Bridge Street, Hartford, VT" Fuzzy match to "171 Bridge Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="171"/>
+    <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122880"/>
+  </node>
+  <node id="-2747" visible="true" lat="43.65075588" lon="-72.31587104">
+    <!-- conflict: "42 Maple Street, Hartford, VT" Fuzzy match to "42 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122913"/>
+  </node>
+  <node id="-2769" visible="true" lat="43.65049226" lon="-72.32341023">
+    <!-- conflict: "262 North Main Street, Hartford, VT" Fuzzy match to "262 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="262"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122937"/>
+  </node>
+  <node id="-2784" visible="true" lat="43.65033719" lon="-72.32189897">
+    <!-- conflict: "193 North Main Street, Hartford, VT" Fuzzy match to "193 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="193"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122954"/>
+  </node>
+  <node id="-2816" visible="true" lat="43.65002263" lon="-72.32154828">
+    <!-- conflict: "167 North Main Street, Hartford, VT" Fuzzy match to "167 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="122988"/>
+  </node>
+  <node id="-2824" visible="true" lat="43.64994949" lon="-72.31902259">
+    <!-- conflict: "58 Bridge Street, Hartford, VT" Fuzzy match to "58 Bridge Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123001"/>
+  </node>
+  <node id="-2830" visible="true" lat="43.65038681" lon="-72.31960108">
+    <!-- conflict: "54 Bridge Street, Hartford, VT" Fuzzy match to "54 Bridge Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123007"/>
+  </node>
+  <node id="-2835" visible="true" lat="43.64983061" lon="-72.31931755">
+    <!-- conflict: "52 Bridge Street, Hartford, VT" Fuzzy match to "52 Bridge Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123014"/>
+  </node>
+  <node id="-2842" visible="true" lat="43.64949458" lon="-72.31882267">
+    <!-- conflict: "15 Railroad Row, Hartford, VT" Fuzzy match to "15 Railroad Row, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Railroad Row"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123022"/>
+  </node>
+  <node id="-2849" visible="true" lat="43.64932944" lon="-72.33200459">
+    <!-- conflict: "173 Airport Road, Hartford, VT" Fuzzy match to "173 Airport Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:street" v="Airport Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123029"/>
+  </node>
+  <node id="-2865" visible="true" lat="43.6494805" lon="-72.32148846">
+    <!-- conflict: "15 Church Street, Hartford, VT" Fuzzy match to "15 Church Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123048"/>
+  </node>
+  <node id="-2871" visible="true" lat="43.64939413" lon="-72.32105469">
+    <!-- conflict: "128 North Main Street, Hartford, VT" Fuzzy match to "128 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123054"/>
+  </node>
+  <node id="-2874" visible="true" lat="43.64952653" lon="-72.32028532">
+    <!-- conflict: "85 North Main Street, Hartford, VT" Fuzzy match to "85 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123058"/>
+  </node>
+  <node id="-2875" visible="true" lat="43.64947158" lon="-72.41678695">
+    <!-- conflict: "304 Dody Lane, Hartford, VT" Fuzzy match to "304 Dody Lane, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="304"/>
+    <tag k="addr:street" v="Dody Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123059"/>
+  </node>
+  <node id="-2879" visible="true" lat="43.64921172" lon="-72.31858602">
+    <!-- conflict: "35 Railroad Row, Hartford, VT" Fuzzy match to "35 Railroad Row, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Railroad Row"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123065"/>
+  </node>
+  <node id="-2885" visible="true" lat="43.64929709" lon="-72.31986929">
+    <!-- conflict: "71 North Main Street, Hartford, VT" Fuzzy match to "71 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123071"/>
+  </node>
+  <node id="-2890" visible="true" lat="43.64918046" lon="-72.32079454">
+    <!-- conflict: "108 North Main Street, Hartford, VT" Fuzzy match to "108 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123077"/>
+  </node>
+  <node id="-2896" visible="true" lat="43.6493577" lon="-72.3455913">
+    <!-- conflict: "1063 Va Cutoff Road, Hartford, VT" Fuzzy match to "1063 V.A. Cutoff Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1063"/>
+    <tag k="addr:street" v="Va Cutoff Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123084"/>
+  </node>
+  <node id="-2898" visible="true" lat="43.64909894" lon="-72.32057626">
+    <!-- conflict: "98 North Main Street, Hartford, VT" Fuzzy match to "98 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123086"/>
+  </node>
+  <node id="-2920" visible="true" lat="43.64889526" lon="-72.3190689">
+    <!-- conflict: "27 North Main Street, Hartford, VT" Fuzzy match to "27 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123111"/>
+  </node>
+  <node id="-2925" visible="true" lat="43.64890626" lon="-72.32007373">
+    <!-- conflict: "70 North Main Street, Hartford, VT" Fuzzy match to "70 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123116"/>
+  </node>
+  <node id="-2929" visible="true" lat="43.64895744" lon="-72.31758661">
+    <!-- conflict: "82 Railroad Row, Hartford, VT" Fuzzy match to "82 Railroad Row, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Railroad Row"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123120"/>
+  </node>
+  <node id="-2935" visible="true" lat="43.64882841" lon="-72.31984528">
+    <!-- conflict: "58 North Main Street, Hartford, VT" Fuzzy match to "58 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123128"/>
+  </node>
+  <node id="-2937" visible="true" lat="43.64873415" lon="-72.31876723">
+    <!-- conflict: "7 North Main Street, Hartford, VT" Fuzzy match to "7 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123130"/>
+  </node>
+  <node id="-2946" visible="true" lat="43.64875423" lon="-72.31960666">
+    <!-- conflict: "42 North Main Street, Hartford, VT" Fuzzy match to "42 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123141"/>
+  </node>
+  <node id="-2954" visible="true" lat="43.64858598" lon="-72.31917347">
+    <!-- conflict: "18 North Main Street, Hartford, VT" Fuzzy match to "18 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123149"/>
+  </node>
+  <node id="-2962" visible="true" lat="43.64862721" lon="-72.32096388">
+    <!-- conflict: "151 Gates Street, Hartford, VT" Fuzzy match to "151 Gates Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Gates Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123158"/>
+  </node>
+  <node id="-2974" visible="true" lat="43.64868896" lon="-72.34554934">
+    <!-- conflict: "1113 Va Cutoff Road, Hartford, VT" Fuzzy match to "1113 V.A. Cutoff Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1113"/>
+    <tag k="addr:street" v="Va Cutoff Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123174"/>
+  </node>
+  <node id="-2976" visible="true" lat="43.64841461" lon="-72.33525085">
+    <!-- conflict: "1011 North Main Street, Hartford, VT" Fuzzy match to "1011 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1011"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123176"/>
+  </node>
+  <node id="-2979" visible="true" lat="43.64849036" lon="-72.39836041">
+    <!-- conflict: "41 Morrill Bend, Hartford, VT" Fuzzy match to "41 Morrill Bend, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Morrill Bend"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123181"/>
+  </node>
+  <node id="-2987" visible="true" lat="43.64845002" lon="-72.32023054">
+    <!-- conflict: "119 Gates Street, Hartford, VT" Fuzzy match to "119 Gates Street, Hartford, " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:street" v="Gates Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123189"/>
+  </node>
+  <node id="-2988" visible="true" lat="43.64857083" lon="-72.42153808">
+    <!-- conflict: "1957 Quechee Main Street, Hartford, VT" Fuzzy match to "1957 Quechee Main Street, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1957"/>
+    <tag k="addr:street" v="Quechee Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123190"/>
+  </node>
+  <node id="-2991" visible="true" lat="43.64821194" lon="-72.31890392">
+    <!-- conflict: "25 South Main Street, Hartford, VT" Fuzzy match to "25 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123193"/>
+  </node>
+  <node id="-2993" visible="true" lat="43.64838495" lon="-72.31945139">
+    <!-- conflict: "40 Currier Street, Hartford, VT" Fuzzy match to "40 Currier Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Currier Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123196"/>
+  </node>
+  <node id="-3010" visible="true" lat="43.6481018" lon="-72.32070922">
+    <!-- conflict: "128 Gates Street, Hartford, VT" Fuzzy match to "128 Gates Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Gates Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123214"/>
+  </node>
+  <node id="-3015" visible="true" lat="43.64805211" lon="-72.34221883">
+    <!-- conflict: "163 Veterans Drive, Hartford, VT" Fuzzy match to "163 Veterans Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:street" v="Veterans Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123222"/>
+  </node>
+  <node id="-3023" visible="true" lat="43.64782733" lon="-72.33569053">
+    <!-- conflict: "1049 North Main Street, Hartford, VT" Fuzzy match to "1049 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1049"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123233"/>
+  </node>
+  <node id="-3025" visible="true" lat="43.64795303" lon="-72.31858825">
+    <!-- conflict: "46 South Main Street, Hartford, VT" Fuzzy match to "46 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123237"/>
+  </node>
+  <node id="-3036" visible="true" lat="43.64797697" lon="-72.31894803">
+    <!-- conflict: "39 South Main Street, Hartford, VT" Fuzzy match to "39 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123248"/>
+  </node>
+  <node id="-3051" visible="true" lat="43.64803807" lon="-72.34541191">
+    <!-- conflict: "1153 Va Cutoff Road, Hartford, VT" Fuzzy match to "1153 V.A. Cutoff Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1153"/>
+    <tag k="addr:street" v="Va Cutoff Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123265"/>
+  </node>
+  <node id="-3054" visible="true" lat="43.64774322" lon="-72.33451843">
+    <!-- conflict: "1038 North Main Street, Hartford, VT" Fuzzy match to "1038 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1038"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123269"/>
+  </node>
+  <node id="-3075" visible="true" lat="43.64760975" lon="-72.31925944">
+    <!-- conflict: "70 Gates Street, Hartford, VT" Fuzzy match to "70 Gates Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Gates Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123293"/>
+  </node>
+  <node id="-3080" visible="true" lat="43.64748022" lon="-72.31902099">
+    <!-- conflict: "79 South Main Street, Hartford, VT" Fuzzy match to "79 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123299"/>
+  </node>
+  <node id="-3089" visible="true" lat="43.64738057" lon="-72.31901113">
+    <!-- conflict: "89 South Main Street, Hartford, VT" Fuzzy match to "89 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123311"/>
+  </node>
+  <node id="-3093" visible="true" lat="43.64732978" lon="-72.31855521">
+    <!-- conflict: "92 South Main Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "94 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123315"/>
+  </node>
+  <node id="-3098" visible="true" lat="43.64728832" lon="-72.31901141">
+    <!-- conflict: "93 South Main Street, Hartford, VT" Fuzzy match to "93 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123320"/>
+  </node>
+  <node id="-3105" visible="true" lat="43.64745374" lon="-72.34517823">
+    <!-- conflict: "1195 Va Cutoff Road, Hartford, VT" Fuzzy match to "1195 V.A. Cutoff Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1195"/>
+    <tag k="addr:street" v="Va Cutoff Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123328"/>
+  </node>
+  <node id="-3111" visible="true" lat="43.64715211" lon="-72.3348621">
+    <!-- conflict: "18 Sykes Mountain Avenue, Hartford, VT" Fuzzy match to "18 Sykes Mountain Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123334"/>
+  </node>
+  <node id="-3112" visible="true" lat="43.6472082" lon="-72.31854677">
+    <!-- conflict: "104 South Main Street, Hartford, VT" Fuzzy match to "104 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123335"/>
+  </node>
+  <node id="-3121" visible="true" lat="43.64706131" lon="-72.31850356">
+    <!-- conflict: "112 South Main Street, Hartford, VT" Fuzzy match to "112 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123348"/>
+  </node>
+  <node id="-3146" visible="true" lat="43.64684949" lon="-72.31846169">
+    <!-- conflict: "132 South Main Street, Hartford, VT" Fuzzy match to "132 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123375"/>
+  </node>
+  <node id="-3147" visible="true" lat="43.64682424" lon="-72.31997096">
+    <!-- conflict: "97 South Main Street, Hartford, VT" Fuzzy match to "97 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123376"/>
+  </node>
+  <node id="-3149" visible="true" lat="43.64681961" lon="-72.31897216">
+    <!-- conflict: "129 South Main Street, Hartford, VT" Fuzzy match to "129 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123378"/>
+  </node>
+  <node id="-3170" visible="true" lat="43.64675755" lon="-72.33364579">
+    <!-- conflict: "80 Sykes Mountain Avenue, Hartford, VT" Fuzzy match to "80 Sykes Mountain Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123402"/>
+  </node>
+  <node id="-3172" visible="true" lat="43.6465187" lon="-72.31884002">
+    <!-- conflict: "145 South Main Street, Hartford, VT" Fuzzy match to "145 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123406"/>
+  </node>
+  <node id="-3180" visible="true" lat="43.64664351" lon="-72.34575374">
+    <!-- conflict: "1255 Va Cutoff Road, Hartford, VT" Fuzzy match to "1255 V.A. Cutoff Road, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1255"/>
+    <tag k="addr:street" v="Va Cutoff Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123416"/>
+  </node>
+  <node id="-3185" visible="true" lat="43.64637374" lon="-72.31880187">
+    <!-- conflict: "153 South Main Street, Hartford, VT" Fuzzy match to "153 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="153"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123422"/>
+  </node>
+  <node id="-3189" visible="true" lat="43.64641391" lon="-72.31828934">
+    <!-- conflict: "158 South Main Street, Hartford, VT" Fuzzy match to "158 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="158"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123428"/>
+  </node>
+  <node id="-3191" visible="true" lat="43.64649408" lon="-72.33389116">
+    <!-- conflict: "96 Sykes Mountain Avenue, Hartford, VT" Fuzzy match to "96 Sykes Mountain Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123431"/>
+  </node>
+  <node id="-3193" visible="true" lat="43.646286" lon="-72.31880187">
+    <!-- conflict: "163 South Main Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "167 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123433"/>
+  </node>
+  <node id="-3201" visible="true" lat="43.6463592" lon="-72.33551951">
+    <!-- conflict: "45 Beswick Drive, Hartford, VT" Fuzzy match to "45 Beswick Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Beswick Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123442"/>
+  </node>
+  <node id="-3203" visible="true" lat="43.64617538" lon="-72.31878662">
+    <!-- conflict: "167 South Main Street, Hartford, VT" Fuzzy match to "167 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123444"/>
+  </node>
+  <node id="-3211" visible="true" lat="43.64611053" lon="-72.31877899">
+    <!-- conflict: "173 South Main Street, Hartford, VT" Fuzzy match to "173 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123452"/>
+  </node>
+  <node id="-3217" visible="true" lat="43.64596785" lon="-72.34566475">
+    <!-- conflict: "1285 Va Cutoff Road, Hartford, VT" Fuzzy match to "1285 V.A. Cutoff Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1285"/>
+    <tag k="addr:street" v="Va Cutoff Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123458"/>
+  </node>
+  <node id="-3223" visible="true" lat="43.64648107" lon="-72.33327531">
+    <!-- conflict: "130 Sykes Mountain Avenue, Hartford, VT" Fuzzy match to "130 Sykes Mountain Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123464"/>
+  </node>
+  <node id="-3227" visible="true" lat="43.64606694" lon="-72.33125831">
+    <!-- conflict: "853 Fairview Terrace, Hartford, VT" No match in OSM, but a different address exists <5m away: "851 Fairview Terrace, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="853"/>
+    <tag k="addr:street" v="Fairview Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123468"/>
+  </node>
+  <node id="-3231" visible="true" lat="43.64596939" lon="-72.31874847">
+    <!-- conflict: "183 South Main Street, Hartford, VT" Fuzzy match to "183 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123473"/>
+  </node>
+  <node id="-3232" visible="true" lat="43.6461491" lon="-72.330757">
+    <!-- conflict: "851 Fairview Terrace, Hartford, VT" Fuzzy match to "851 Fairview Terrace, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="851"/>
+    <tag k="addr:street" v="Fairview Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123474"/>
+  </node>
+  <node id="-3235" visible="true" lat="43.64617848" lon="-72.31828973">
+    <!-- conflict: "186 South Main Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "168 S Main Street, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="186"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123478"/>
+  </node>
+  <node id="-3238" visible="true" lat="43.64586639" lon="-72.31874847">
+    <!-- conflict: "191 South Main Street, Hartford, VT" Fuzzy match to "191 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="191"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123482"/>
+  </node>
+  <node id="-3240" visible="true" lat="43.64604418" lon="-72.41936161">
+    <!-- conflict: "1760 Quechee Main Street, Hartford, VT" Fuzzy match to "1760 Quechee Main Street, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1760"/>
+    <tag k="addr:street" v="Quechee Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123484"/>
+  </node>
+  <node id="-3258" visible="true" lat="43.64570945" lon="-72.33619128">
+    <!-- conflict: "93 Beswick Drive, Hartford, VT" Fuzzy match to "93 Beswick Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Beswick Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123506"/>
+  </node>
+  <node id="-3271" visible="true" lat="43.64560944" lon="-72.33190502">
+    <!-- conflict: "190 Sykes Mountain Avenue, Hartford, VT" Fuzzy match to "190 Sykes Mountain Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123521"/>
+  </node>
+  <node id="-3290" visible="true" lat="43.64546284" lon="-72.33414316">
+    <!-- conflict: "56 Ralph Lehman Drive, Hartford, VT" Fuzzy match to "56 Ralph Lehman Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Ralph Lehman Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123543"/>
+  </node>
+  <node id="-3292" visible="true" lat="43.64538094" lon="-72.33663848">
+    <!-- conflict: "135 Beswick Drive, Hartford, VT" Fuzzy match to "135 Beswick Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Beswick Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123547"/>
+  </node>
+  <node id="-3297" visible="true" lat="43.64530181" lon="-72.3417282">
+    <!-- conflict: "352 North Hartland Road, Hartford, VT" Fuzzy match to "352 North Hartland Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="352"/>
+    <tag k="addr:street" v="North Hartland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123552"/>
+  </node>
+  <node id="-3313" visible="true" lat="43.64526781" lon="-72.31818431">
+    <!-- conflict: "240 South Main Street, Hartford, VT" Fuzzy match to "240 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123569"/>
+  </node>
+  <node id="-3325" visible="true" lat="43.64503927" lon="-72.34032925">
+    <!-- conflict: "4 Ballardvale Drive, Hartford, VT" Fuzzy match to "4 Ballardvale Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Ballardvale Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123582"/>
+  </node>
+  <node id="-3327" visible="true" lat="43.64505881" lon="-72.31864599">
+    <!-- conflict: "253 South Main Street, Hartford, VT" Fuzzy match to "253 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="253"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123584"/>
+  </node>
+  <node id="-3329" visible="true" lat="43.64500808" lon="-72.33006286">
+    <!-- conflict: "52 Lower Hyde Park, Hartford, VT" Fuzzy match to "52 Lower Hyde Park, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Lower Hyde Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123586"/>
+  </node>
+  <node id="-3331" visible="true" lat="43.64528481" lon="-72.3332015">
+    <!-- conflict: "195 Sykes Mountain Avenue, Hartford, VT" Fuzzy match to "195 Sykes Mountain Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="195"/>
+    <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123588"/>
+  </node>
+  <node id="-3345" visible="true" lat="43.64486694" lon="-72.31859588">
+    <!-- conflict: "261 South Main Street, Hartford, VT" Fuzzy match to "261 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="261"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123604"/>
+  </node>
+  <node id="-3348" visible="true" lat="43.644813" lon="-72.31827141">
+    <!-- conflict: "264 South Main Street, Hartford, VT" Fuzzy match to "264 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123607"/>
+  </node>
+  <node id="-3354" visible="true" lat="43.64474487" lon="-72.31858825">
+    <!-- conflict: "273 South Main Street, Hartford, VT" Fuzzy match to "273 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="273"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123614"/>
+  </node>
+  <node id="-3364" visible="true" lat="43.64466095" lon="-72.33180999">
+    <!-- conflict: "243 Sykes Mountain Avenue, Hartford, VT" Fuzzy match to "243 Sykes Mountain Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="243"/>
+    <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123624"/>
+  </node>
+  <node id="-3365" visible="true" lat="43.64460586" lon="-72.42284947">
+    <!-- conflict: "7045 Woodstock Road, Hartford, VT" Fuzzy match to "7045 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="7045"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123625"/>
+  </node>
+  <node id="-3368" visible="true" lat="43.64444191" lon="-72.33150738">
+    <!-- conflict: "263 Sykes Mountain Avenue, Hartford, VT" No match in OSM, but a different address exists <5m away: "243 Sykes Mountain Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="263"/>
+    <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123628"/>
+  </node>
+  <node id="-3370" visible="true" lat="43.64458084" lon="-72.31855774">
+    <!-- conflict: "279 South Main Street, Hartford, VT" Fuzzy match to "279 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="279"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123630"/>
+  </node>
+  <node id="-3371" visible="true" lat="43.64468308" lon="-72.34218432">
+    <!-- conflict: "60 Jasmin Lane, Hartford, VT" Fuzzy match to "60 Jasmin Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Jasmin Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123631"/>
+  </node>
+  <node id="-3381" visible="true" lat="43.64444372" lon="-72.32934241">
+    <!-- conflict: "13 Lower Hyde Park, Hartford, VT" Fuzzy match to "13 Lower Hyde Park, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Lower Hyde Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123642"/>
+  </node>
+  <node id="-3398" visible="true" lat="43.64356623" lon="-72.33039682">
+    <!-- conflict: "303 Sykes Mountain Avenue, Hartford, VT" Fuzzy match to "303 Sykes Mountain Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="303"/>
+    <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123661"/>
+  </node>
+  <node id="-3399" visible="true" lat="43.64438057" lon="-72.31808088">
+    <!-- conflict: "304 South Main Street, Hartford, VT" Fuzzy match to "304 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="304"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123662"/>
+  </node>
+  <node id="-3405" visible="true" lat="43.64405068" lon="-72.34125061">
+    <!-- conflict: "91 Ballardvale Drive, Hartford, VT" Fuzzy match to "91 Ballardvale Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Ballardvale Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123669"/>
+  </node>
+  <node id="-3415" visible="true" lat="43.64429498" lon="-72.42196304">
+    <!-- conflict: "6985 Woodstock Road, Hartford, VT" Fuzzy match to "6985 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="6985"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123679"/>
+  </node>
+  <node id="-3419" visible="true" lat="43.64413578" lon="-72.31805375">
+    <!-- conflict: "320 South Main Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "304 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123684"/>
+  </node>
+  <node id="-3421" visible="true" lat="43.64405657" lon="-72.31779486">
+    <!-- conflict: "322 South Main Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "304 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="322"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123686"/>
+  </node>
+  <node id="-3435" visible="true" lat="43.64390088" lon="-72.31802909">
+    <!-- conflict: "332 South Main Street, Hartford, VT" Fuzzy match to "332 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="332"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123701"/>
+  </node>
+  <node id="-3443" visible="true" lat="43.64399523" lon="-72.33609878">
+    <!-- conflict: "100 Dewitt Drive, Hartford, VT" Fuzzy match to "100 Dewitt Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Dewitt Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123711"/>
+  </node>
+  <node id="-3447" visible="true" lat="43.64385278" lon="-72.42279706">
+    <!-- conflict: "7024 Woodstock Road, Hartford, VT" Fuzzy match to "7024 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="7024"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123718"/>
+  </node>
+  <node id="-3449" visible="true" lat="43.64386093" lon="-72.42767373">
+    <!-- conflict: "399 West Gilson Avenue, Hartford, VT" Fuzzy match to "399 West Gilson Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="399"/>
+    <tag k="addr:street" v="West Gilson Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123720"/>
+  </node>
+  <node id="-3451" visible="true" lat="43.64396267" lon="-72.42003499">
+    <!-- conflict: "6931 Woodstock Road, Hartford, VT" Fuzzy match to "6931 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="6931"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123722"/>
+  </node>
+  <node id="-3458" visible="true" lat="43.64352231" lon="-72.33622247">
+    <!-- conflict: "124 Dewitt Drive, Hartford, VT" Fuzzy match to "124 Dewitt Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Dewitt Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123731"/>
+  </node>
+  <node id="-3459" visible="true" lat="43.64317245" lon="-72.32914663">
+    <!-- conflict: "429 Sykes Mountain Avenue, Hartford, VT" Fuzzy match to "429 Sykes Mountain Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="429"/>
+    <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123732"/>
+  </node>
+  <node id="-3460" visible="true" lat="43.64340591" lon="-72.31804657">
+    <!-- conflict: "360 South Main Street, Hartford, VT" Fuzzy match to "360 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="360"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123733"/>
+  </node>
+  <node id="-3461" visible="true" lat="43.64351084" lon="-72.42209001">
+    <!-- conflict: "6990 Woodstock Road, Hartford, VT" Fuzzy match to "6990 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="6990"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123734"/>
+  </node>
+  <node id="-3465" visible="true" lat="43.64321899" lon="-72.3180542">
+    <!-- conflict: "374 South Main Street, Hartford, VT" Fuzzy match to "374 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="374"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123739"/>
+  </node>
+  <node id="-3478" visible="true" lat="43.64328744" lon="-72.41913171">
+    <!-- conflict: "6845 Woodstock Road, Hartford, VT" Fuzzy match to "6845 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="6845"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123754"/>
+  </node>
+  <node id="-3485" visible="true" lat="43.64299774" lon="-72.3179779">
+    <!-- conflict: "388 South Main Street, Hartford, VT" Fuzzy match to "388 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="388"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123763"/>
+  </node>
+  <node id="-3508" visible="true" lat="43.64260191" lon="-72.41856284">
+    <!-- conflict: "6800 Woodstock Road, Hartford, VT" Fuzzy match to "6800 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="6800"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123791"/>
+  </node>
+  <node id="-3509" visible="true" lat="43.64260127" lon="-72.33390548">
+    <!-- conflict: "212 Holiday Drive, Hartford, VT" Fuzzy match to "212 Holiday Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="212"/>
+    <tag k="addr:street" v="Holiday Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123792"/>
+  </node>
+  <node id="-3524" visible="true" lat="43.64235296" lon="-72.41574197">
+    <!-- conflict: "6658 Woodstock Road, Hartford, VT" Fuzzy match to "6658 Woodstock Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="6658"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123808"/>
+  </node>
+  <node id="-3532" visible="true" lat="43.64220603" lon="-72.33430295">
+    <!-- conflict: "246 Holiday Drive, Hartford, VT" Fuzzy match to "246 Holiday Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="246"/>
+    <tag k="addr:street" v="Holiday Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123816"/>
+  </node>
+  <node id="-3546" visible="true" lat="43.64167513" lon="-72.33533567">
+    <!-- conflict: "259 Holiday Drive, Hartford, VT" Fuzzy match to "259 Holiday Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="259"/>
+    <tag k="addr:street" v="Holiday Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123832"/>
+  </node>
+  <node id="-3568" visible="true" lat="43.64161902" lon="-72.33273451">
+    <!-- conflict: "226 Holiday Drive, Hartford, VT" Fuzzy match to "226 Holiday Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:street" v="Holiday Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123859"/>
+  </node>
+  <node id="-3711" visible="true" lat="43.63753552" lon="-72.40761697">
+    <!-- conflict: "6053 Woodstock Road, Hartford, VT" Fuzzy match to "6053 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="6053"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124014"/>
+  </node>
+  <node id="-3713" visible="true" lat="43.63739673" lon="-72.40352512">
+    <!-- conflict: "5817 Woodstock Road, Hartford, VT" Fuzzy match to "5817 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="5817"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124016"/>
+  </node>
+  <node id="-3716" visible="true" lat="43.63746447" lon="-72.40458475">
+    <!-- conflict: "5893 Woodstock Road, Hartford, VT" Fuzzy match to "5893 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="5893"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124020"/>
+  </node>
+  <node id="-3717" visible="true" lat="43.6373378" lon="-72.40612684">
+    <!-- conflict: "5967 Woodstock Road, Hartford, VT" Fuzzy match to "5967 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="5967"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124021"/>
+  </node>
+  <node id="-3719" visible="true" lat="43.63729669" lon="-72.4055875">
+    <!-- conflict: "5945 Woodstock Road, Hartford, VT" Fuzzy match to "5945 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="5945"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124023"/>
+  </node>
+  <node id="-3760" visible="true" lat="43.63431166" lon="-72.34848562">
+    <!-- conflict: "1354 North Hartland Road, Hartford, VT" Fuzzy match to "1354 North Hartland Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1354"/>
+    <tag k="addr:street" v="North Hartland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124068"/>
+  </node>
+  <node id="-3918" visible="true" lat="43.62797942" lon="-72.35073841">
+    <!-- conflict: "1678 North Hartland Road, Hartford, VT" Fuzzy match to "1678 Hartland Road, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1678"/>
+    <tag k="addr:street" v="North Hartland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124227"/>
+  </node>
+  <node id="-3967" visible="true" lat="43.62315879" lon="-72.35159871">
+    <!-- conflict: "95 Lesle Drive, Hartford, VT" No match in OSM, but a different address exists <5m away: "95 Leslie Drive, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Lesle Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124277"/>
+  </node>
+  <node id="-4099" visible="true" lat="43.65633245" lon="-72.34235787">
+    <!-- conflict: "71 Courtemanche Hill, Hartford, VT" Fuzzy match to "71 Courtemanche Hollow, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Courtemanche Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124420"/>
+  </node>
+  <node id="-4100" visible="true" lat="43.65635013" lon="-72.34117887">
+    <!-- conflict: "73 Courtemanche Hill, Hartford, VT" Fuzzy match to "73 Courtemanche Hollow, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Courtemanche Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124421"/>
+  </node>
+  <node id="-4101" visible="true" lat="43.65691356" lon="-72.3410869">
+    <!-- conflict: "69 Courtemanche Hill, Hartford, VT" Fuzzy match to "69 Courtemanche Hollow, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Courtemanche Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124422"/>
+  </node>
+  <node id="-4121" visible="true" lat="43.66119715" lon="-72.31349714">
+    <!-- conflict: "903 Hartford Avenue, Hartford, VT" Fuzzy match to "903 Hartford Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="903"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124442"/>
+  </node>
+  <node id="-4122" visible="true" lat="43.65589426" lon="-72.32049415">
+    <!-- conflict: "260 Highland Avenue, Hartford, VT" Fuzzy match to "260 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="260"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124443"/>
+  </node>
+  <node id="-4147" visible="true" lat="43.64787884" lon="-72.3193491">
+    <!-- conflict: "63 Gates Street, Hartford, VT" Fuzzy match to "63 Gates Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Gates Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124470"/>
+  </node>
+  <node id="-4149" visible="true" lat="43.64524118" lon="-72.31870626">
+    <!-- conflict: "241 South Main Street, Hartford, VT" Fuzzy match to "241 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="241"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124472"/>
+  </node>
+  <node id="-4152" visible="true" lat="43.64911192" lon="-72.31944297">
+    <!-- conflict: "49 North Main Street, Hartford, VT" Fuzzy match to "49 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124475"/>
+  </node>
+  <node id="-4153" visible="true" lat="43.64921933" lon="-72.31969674">
+    <!-- conflict: "59 North Main Street, Hartford, VT" Fuzzy match to "59 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124476"/>
+  </node>
+  <node id="-4179" visible="true" lat="43.64563868" lon="-72.31822024">
+    <!-- conflict: "230 South Main Street, Hartford, VT" Fuzzy match to "230 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124504"/>
+  </node>
+  <node id="-4188" visible="true" lat="43.65542024" lon="-72.32274031">
+    <!-- conflict: "245 Cascadnac Avenue, Hartford, VT" Fuzzy match to "245 Cascadnac Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Cascadnac Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124513"/>
+  </node>
+  <node id="-4213" visible="true" lat="43.65228859" lon="-72.31855514">
+    <!-- conflict: "213 Maple Street, Hartford, VT" Fuzzy match to "213 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="213"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124538"/>
+  </node>
+  <node id="-4214" visible="true" lat="43.65233687" lon="-72.31872329">
+    <!-- conflict: "217 Maple Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "213 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124539"/>
+  </node>
+  <node id="-4226" visible="true" lat="43.68284731" lon="-72.315774">
+    <!-- conflict: "2577 Hartford Avenue, Hartford, VT" Fuzzy match to "2577 Hartford Avenue, , VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2577"/>
+    <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124552"/>
+  </node>
+  <node id="-4230" visible="true" lat="43.67313441" lon="-72.30770366">
+    <!-- conflict: "80 Depot Street, Hartford, VT" Fuzzy match to "80 Depot Street, Wilder, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124556"/>
+  </node>
+  <node id="-4289" visible="true" lat="43.64639502" lon="-72.34583315">
+    <!-- conflict: "1257 Va Cutoff Road, Hartford, VT" Fuzzy match to "1257 V.A. Cutoff Road, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1257"/>
+    <tag k="addr:street" v="Va Cutoff Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124618"/>
+  </node>
+  <node id="-4321" visible="true" lat="43.64571188" lon="-72.31784607">
+    <!-- conflict: "188 South Main Street, Hartford, VT" Fuzzy match to "188 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="188"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124653"/>
+  </node>
+  <node id="-4441" visible="true" lat="43.64614971" lon="-72.33471641">
+    <!-- conflict: "25 Ralph Lehman Drive, Hartford, VT" Fuzzy match to "25 Ralph Lehman Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Ralph Lehman Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124775"/>
+  </node>
+  <node id="-4452" visible="true" lat="43.68970642" lon="-72.32120966">
+    <!-- conflict: "2456 Christian Street, Hartford, VT" Fuzzy match to "2456 Christian Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2456"/>
+    <tag k="addr:street" v="Christian Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124786"/>
+  </node>
+  <node id="-4483" visible="true" lat="43.64320323" lon="-72.34081239">
+    <!-- conflict: "121 Ballardvale Drive, Hartford, VT" Fuzzy match to "121 Ballardvale Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Ballardvale Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124822"/>
+  </node>
+  <node id="-4497" visible="true" lat="43.64324974" lon="-72.33989238">
+    <!-- conflict: "132 Ballardvale Drive, Hartford, VT" Fuzzy match to "132 Ballardvale Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:street" v="Ballardvale Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124836"/>
+  </node>
+  <node id="-4506" visible="true" lat="43.68431722" lon="-72.31603522">
+    <!-- conflict: "56 Kacey Drive, Hartford, VT" Fuzzy match to "56 Kacey Drive, , VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Kacey Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124847"/>
+  </node>
+  <node id="-4519" visible="true" lat="43.64901983" lon="-72.31841113">
+    <!-- conflict: "55 Railroad Row, Hartford, VT" Fuzzy match to "55 Railroad Row, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Railroad Row"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124863"/>
+  </node>
+  <node id="-4524" visible="true" lat="43.67029534" lon="-72.3754713">
+    <!-- conflict: "1350 Vermont Route 14, Hartford, VT" No match in OSM, but a different address exists <5m away: "1350 VT-14, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1350"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124868"/>
+  </node>
+  <node id="-4526" visible="true" lat="43.68491608" lon="-72.31917917">
+    <!-- conflict: "145 Billings Farm Road, Hartford, VT" Fuzzy match to "145 Billings Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Billings Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124870"/>
+  </node>
+  <node id="-4607" visible="true" lat="43.66169864" lon="-72.31626483">
+    <!-- conflict: "258 Hanover Street, Hartford, VT" Fuzzy match to "258 Hanover Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="258"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="307292"/>
+  </node>
+  <node id="-4612" visible="true" lat="43.64517245" lon="-72.34506767">
+    <!-- conflict: "614 North Hartland Road, Hartford, VT" Fuzzy match to "614 North Hartland Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:street" v="North Hartland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="307298"/>
+  </node>
+  <node id="-4614" visible="true" lat="43.6895724" lon="-72.31789935">
+    <!-- conflict: "2499 Christian Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "2495 Christian Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="2499"/>
+    <tag k="addr:street" v="Christian Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="307302"/>
+  </node>
+  <node id="-4671" visible="true" lat="43.64844888" lon="-72.31889989">
+    <!-- conflict: "5 South Main Street, Hartford, VT" Fuzzy match to "5 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317148"/>
+  </node>
+  <node id="-4672" visible="true" lat="43.64836805" lon="-72.31890004">
+    <!-- conflict: "11 South Main Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "5 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317149"/>
+  </node>
+  <node id="-4687" visible="true" lat="43.64780133" lon="-72.31748957">
+    <!-- conflict: "102 Railroad Row, Hartford, VT" Fuzzy match to "102 Railroad Row, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Railroad Row"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="325291"/>
+  </node>
+  <node id="-4688" visible="true" lat="43.64773474" lon="-72.31745135">
+    <!-- conflict: "104 Railroad Row, Hartford, VT" No match in OSM, but a different address exists <5m away: "102 Railroad Row, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="Railroad Row"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="325292"/>
+  </node>
+  <node id="-4689" visible="true" lat="43.64138188" lon="-72.34302665">
+    <!-- conflict: "100 Arboretum Lane, Hartford, VT" Fuzzy match to "100 Arboretum Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Arboretum Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326145"/>
+  </node>
+  <node id="-4779" visible="true" lat="43.64208316" lon="-72.41091589">
+    <!-- conflict: "149 Natures Way, Hartford, VT" No match in OSM, but a different address exists <5m away: "6565 Woodstock Road, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="149"/>
+    <tag k="addr:street" v="Natures Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="331696"/>
+  </node>
+  <node id="-4793" visible="true" lat="43.65846052" lon="-72.32127349">
+    <!-- conflict: "431 Highland Avenue, Hartford, VT" Fuzzy match to "431 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="431"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333135"/>
+  </node>
+  <node id="-4794" visible="true" lat="43.6557257" lon="-72.3185317">
+    <!-- conflict: "183 Highland Avenue, Hartford, VT" No match in OSM, but a different address exists <5m away: "187 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333136"/>
+  </node>
+  <node id="-4795" visible="true" lat="43.65577301" lon="-72.31868289">
+    <!-- conflict: "187 Highland Avenue, Hartford, VT" Fuzzy match to "187 Highland Avenue, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333137"/>
+  </node>
+  <node id="-4808" visible="true" lat="43.6529975" lon="-72.32126971">
+    <!-- conflict: "351 Maple Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "531 Maple Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="351"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333150"/>
+  </node>
+  <node id="-4816" visible="true" lat="43.64806845" lon="-72.31984612">
+    <!-- conflict: "93 Gates Street, Hartford, VT" Fuzzy match to "93 Gates Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Gates Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333158"/>
+  </node>
+  <node id="-4817" visible="true" lat="43.64802379" lon="-72.31974386">
+    <!-- conflict: "85 Gates Street, Hartford, VT" Fuzzy match to "85 Gates Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Gates Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333159"/>
+  </node>
+  <node id="-4818" visible="true" lat="43.64800112" lon="-72.31968622">
+    <!-- conflict: "83 Gates Street, Hartford, VT" Fuzzy match to "83 Gates Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Gates Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333160"/>
+  </node>
+  <node id="-4820" visible="true" lat="43.64794546" lon="-72.31955319">
+    <!-- conflict: "77 Gates Street, Hartford, VT" Fuzzy match to "77 Gates Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:street" v="Gates Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333162"/>
+  </node>
+  <node id="-4824" visible="true" lat="43.64825296" lon="-72.31890558">
+    <!-- conflict: "23 South Main Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "25 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333166"/>
+  </node>
+  <node id="-4825" visible="true" lat="43.6481708" lon="-72.31890976">
+    <!-- conflict: "27 South Main Street, Hartford, VT" Fuzzy match to "27 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333167"/>
+  </node>
+  <node id="-4826" visible="true" lat="43.64808656" lon="-72.31894543">
+    <!-- conflict: "29 South Main Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "39 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333168"/>
+  </node>
+  <node id="-4827" visible="true" lat="43.64804725" lon="-72.31894063">
+    <!-- conflict: "31 South Main Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "39 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333169"/>
+  </node>
+  <node id="-4828" visible="true" lat="43.64790725" lon="-72.31895197">
+    <!-- conflict: "49 South Main Street, Hartford, VT" Fuzzy match to "49 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333170"/>
+  </node>
+  <node id="-4829" visible="true" lat="43.64779455" lon="-72.31898602">
+    <!-- conflict: "55 South Main Street, Hartford, VT" Fuzzy match to "55 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333171"/>
+  </node>
+  <node id="-4830" visible="true" lat="43.64761227" lon="-72.33411699">
+    <!-- conflict: "44 Sykes Mountain Avenue, Hartford, VT" Fuzzy match to "44 Sykes Mountain Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333172"/>
+  </node>
+  <node id="-4831" visible="true" lat="43.64632057" lon="-72.33266032">
+    <!-- conflict: "160 Sykes Mountain Avenue, Hartford, VT" Fuzzy match to "160 Sykes Mountain Avenue, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333173"/>
+  </node>
+  <node id="-4853" visible="true" lat="43.64864154" lon="-72.31935153">
+    <!-- conflict: "26 North Main Street, Hartford, VT" Fuzzy match to "26 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333462"/>
+  </node>
+  <node id="-4854" visible="true" lat="43.65042986" lon="-72.32201481">
+    <!-- conflict: "195 North Main Street, Hartford, VT" Fuzzy match to "195 North Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="195"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333463"/>
+  </node>
+  <node id="-4855" visible="true" lat="43.69424855" lon="-72.31329546">
+    <!-- conflict: "296 Olcott Drive, Hartford, VT" Fuzzy match to "296 Olcott Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="296"/>
+    <tag k="addr:street" v="Olcott Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="335365"/>
+  </node>
+  <node id="-4869" visible="true" lat="43.64719869" lon="-72.34464039">
+    <!-- conflict: "1234 Va Cutoff Road, Hartford, VT" Fuzzy match to "1234 V.A. Cutoff Road, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1234"/>
+    <tag k="addr:street" v="Va Cutoff Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338218"/>
+  </node>
+  <node id="-4870" visible="true" lat="43.64801456" lon="-72.31894149">
+    <!-- conflict: "35 South Main Street, Hartford, VT" No match in OSM, but a different address exists <5m away: "41 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338219"/>
+  </node>
+  <node id="-4871" visible="true" lat="43.65531655" lon="-72.32022255">
+    <!-- conflict: "145 Victory Circle, Hartford, VT" Fuzzy match to "145 Victory Circle, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Victory Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338894"/>
+  </node>
+  <node id="-4873" visible="true" lat="43.66049566" lon="-72.31556515">
+    <!-- conflict: "192 Wilder Street, Hartford, VT" Fuzzy match to "192 Wilder Street, , " -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="192"/>
+    <tag k="addr:street" v="Wilder Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339020"/>
+  </node>
+  <node id="-4898" visible="true" lat="43.70024242" lon="-72.34335082">
+    <!-- conflict: "221 Newton Lane, Hartford, VT" Fuzzy match to "221 Newton Lane, Norwich, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:street" v="Newton Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341216"/>
+  </node>
+  <node id="-4901" visible="true" lat="43.67233367" lon="-72.44798669">
+    <!-- conflict: "332 Cushing Road, Hartford, VT" Fuzzy match to "332 Cushing Road, Pomfret, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="332"/>
+    <tag k="addr:street" v="Cushing Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342142"/>
+  </node>
+  <node id="-4909" visible="true" lat="43.68510145" lon="-72.31788273">
+    <!-- conflict: "205 Billings Farm Road, Hartford, VT" Fuzzy match to "205 Billings Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Billings Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345102"/>
+  </node>
+  <node id="-4910" visible="true" lat="43.68487426" lon="-72.31706898">
+    <!-- conflict: "205 Billings Farm Road, Hartford, VT" Fuzzy match to "205 Billings Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Billings Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345106"/>
+  </node>
+  <node id="-4911" visible="true" lat="43.68435975" lon="-72.31849047">
+    <!-- conflict: "205 Billings Farm Road, Hartford, VT" Fuzzy match to "205 Billings Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Billings Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345108"/>
+  </node>
+  <node id="-4912" visible="true" lat="43.68425702" lon="-72.31810275">
+    <!-- conflict: "205 Billings Farm Road, Hartford, VT" Fuzzy match to "205 Billings Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Billings Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345110"/>
+  </node>
+  <node id="-4913" visible="true" lat="43.68487881" lon="-72.31798148">
+    <!-- conflict: "205 Billings Farm Road, Hartford, VT" Fuzzy match to "205 Billings Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Billings Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345111"/>
+  </node>
+  <node id="-4919" visible="true" lat="43.63764767" lon="-72.39884201">
+    <!-- conflict: "10 Quechee Gorge Village Drive, Hartford, VT" No match in OSM, but a different address exists <5m away: "5573 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Quechee Gorge Village Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345474"/>
+  </node>
+  <node id="-4920" visible="true" lat="43.63785282" lon="-72.39868493">
+    <!-- conflict: "20 Quechee Gorge Village Drive, Hartford, VT" No match in OSM, but a different address exists <5m away: "5573 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Quechee Gorge Village Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345475"/>
+  </node>
+  <node id="-4921" visible="true" lat="43.6380551" lon="-72.39772449">
+    <!-- conflict: "100 Quechee Gorge Village Drive, Hartford, VT" No match in OSM, but a different address exists <5m away: "5573 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Quechee Gorge Village Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345480"/>
+  </node>
+  <node id="-4923" visible="true" lat="43.63787458" lon="-72.39692339">
+    <!-- conflict: "130 Quechee Gorge Village Drive, Hartford, VT" No match in OSM, but a different address exists <5m away: "5573 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Quechee Gorge Village Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345483"/>
+  </node>
+  <node id="-4931" visible="true" lat="43.64502657" lon="-72.42461507">
+    <!-- conflict: "7161 Woodstock Road, Hartford, VT" Fuzzy match to "7161 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="7161"/>
+    <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="446462"/>
+  </node>
+  <node id="-4932" visible="true" lat="43.65805028" lon="-72.31937909">
+    <!-- conflict: "1 Gifford Road, Hartford, VT" Fuzzy match to "1 Gifford Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="447940"/>
+  </node>
+  <node id="-4941" visible="true" lat="43.64914054" lon="-72.31952708">
+    <!-- conflict: "55 North Main Street, Hartford, VT" Fuzzy match to "55 South Main Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450946"/>
+  </node>
+  <node id="-4946" visible="true" lat="43.68469852" lon="-72.31810569">
+    <!-- conflict: "205 Billings Farm Road, Hartford, VT" Fuzzy match to "205 Billings Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Billings Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451112"/>
+  </node>
+  <node id="-4947" visible="true" lat="43.70744962" lon="-72.36977333">
+    <!-- conflict: "179 Sugartop Road, Hartford, VT" Fuzzy match to "179 Sugartop Road, Norwich, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="179"/>
+    <tag k="addr:street" v="Sugartop Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452463"/>
+  </node>
+  <node id="-4950" visible="true" lat="43.68626647" lon="-72.31983141">
+    <!-- conflict: "117 Billings Farm Road, Hartford, VT" Fuzzy match to "117 Billings Farm Road, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Billings Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="453673"/>
+  </node>
+  <node id="-4957" visible="true" lat="43.64747562" lon="-72.3196867">
+    <!-- conflict: "74 Gates Street, Hartford, VT" Fuzzy match to "74 Gates Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Gates Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454267"/>
+  </node>
+  <node id="-4959" visible="true" lat="43.65063493" lon="-72.4701323">
+    <!-- conflict: "1455 High Pastures Road, Hartford, VT" Fuzzy match to "1455 High Pastures Road, Pomfret, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1455"/>
+    <tag k="addr:street" v="High Pastures Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455202"/>
+  </node>
+  <node id="-4967" visible="true" lat="43.64764125" lon="-72.32052451">
+    <!-- conflict: "101 Currier Street, Hartford, VT" Fuzzy match to "101 Currier Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="Currier Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611417"/>
+  </node>
+  <node id="-4977" visible="true" lat="43.63740931" lon="-72.39767152">
+    <!-- conflict: "15 Quechee Gorge Village Drive, Hartford, VT" No match in OSM, but a different address exists <5m away: "5573 Woodstock Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Quechee Gorge Village Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612584"/>
+  </node>
+  <node id="-4984" visible="true" lat="43.64767294" lon="-72.34539978">
+    <!-- conflict: "1181 Va Cutoff Road, Hartford, VT" Fuzzy match to "1181 V.A. Cutoff Road, Hartford, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="1181"/>
+    <tag k="addr:street" v="Va Cutoff Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613388"/>
+  </node>
+  <node id="-4991" visible="true" lat="43.64276884" lon="-72.32618355">
+    <!-- conflict: "32 Key Auto Drive, Hartford, VT" Fuzzy match to "32 Key Auto Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Key Auto Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617725"/>
+  </node>
+  <node id="-4993" visible="true" lat="43.64548132" lon="-72.32512276">
+    <!-- conflict: "117 Wentworth Way, Hartford, VT" Fuzzy match to "117 Wentworth Way, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Wentworth Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617972"/>
+  </node>
+  <node id="-5010" visible="true" lat="43.65229954" lon="-72.31539863">
+    <!-- conflict: "88 Prospect Street, Hartford, VT" Fuzzy match to "88 Prospect Street, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Prospect Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750910"/>
+  </node>
+  <node id="-5018" visible="true" lat="43.6729019" lon="-72.31649172">
+    <!-- conflict: "32 Pullman Lane, Hartford, VT" Fuzzy match to "32 Pullman Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Pullman Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752022"/>
+  </node>
+  <node id="-5019" visible="true" lat="43.67289429" lon="-72.31598645">
+    <!-- conflict: "43 Pullman Lane, Hartford, VT" Fuzzy match to "43 Pullman Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Pullman Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752023"/>
+  </node>
+  <node id="-5027" visible="true" lat="43.67308915" lon="-72.31590216">
+    <!-- conflict: "53 Pullman Lane, Hartford, VT" Fuzzy match to "53 Pullman Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Pullman Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754081"/>
+  </node>
+  <node id="-5028" visible="true" lat="43.67323563" lon="-72.31626468">
+    <!-- conflict: "62 Pullman Lane, Hartford, VT" Fuzzy match to "62 Pullman Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Pullman Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754082"/>
+  </node>
+  <node id="-5029" visible="true" lat="43.67345015" lon="-72.31615331">
+    <!-- conflict: "70 Pullman Lane, Hartford, VT" Fuzzy match to "70 Pullman Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Pullman Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754083"/>
+  </node>
+  <node id="-5030" visible="true" lat="43.67308931" lon="-72.31635074">
+    <!-- conflict: "46 Pullman Lane, Hartford, VT" Fuzzy match to "46 Pullman Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Pullman Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754084"/>
+  </node>
+  <node id="-5031" visible="true" lat="43.67330671" lon="-72.31579746">
+    <!-- conflict: "67 Pullman Lane, Hartford, VT" Fuzzy match to "67 Pullman Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Pullman Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754085"/>
+  </node>
+  <node id="-5032" visible="true" lat="43.67276526" lon="-72.31605102">
+    <!-- conflict: "35 Pullman Lane, Hartford, VT" Fuzzy match to "35 Pullman Lane, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Pullman Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754086"/>
+  </node>
+  <node id="-5038" visible="true" lat="43.6452638" lon="-72.33538192">
+    <!-- conflict: "63 Ralph Lehman Drive, Hartford, VT" Fuzzy match to "63 Ralph Lehman Drive, White River Junction, VT" -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Ralph Lehman Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756101"/>
+  </node>
+</osm>

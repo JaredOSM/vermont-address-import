@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-1021" visible="true" lat="44.33119295" lon="-73.11216633">
+    <!-- conflict: "10516 Vermont Route 116, Hinesburg, VT" Fuzzy match to "10516 Vermont Route 116, , VT" -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="10516"/>
+    <tag k="addr:street" v="Vermont Route 116"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="129113"/>
+  </node>
+  <node id="-1181" visible="true" lat="44.3270111" lon="-73.10640716">
+    <!-- conflict: "10997 Vermont Route 116, Hinesburg, VT" Fuzzy match to "10997 Vermont Route 116, , VT" -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="10997"/>
+    <tag k="addr:street" v="Vermont Route 116"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="129276"/>
+  </node>
+  <node id="-1187" visible="true" lat="44.3269446" lon="-73.10973552">
+    <!-- conflict: "10805 Vermont Route 116, Hinesburg, VT" Fuzzy match to "10805 Vermont Route 116, , VT" -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="10805"/>
+    <tag k="addr:street" v="Vermont Route 116"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="129282"/>
+  </node>
+  <node id="-1582" visible="true" lat="44.28034362" lon="-73.06907783">
+    <!-- conflict: "15196 Vermont Route 116, Hinesburg, VT" No match in OSM, but a different address exists <5m away: "15196 Vt Route 116, Hinesburg, VT" -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="15196"/>
+    <tag k="addr:street" v="Vermont Route 116"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="129679"/>
+  </node>
+  <node id="-1929" visible="true" lat="44.33498923" lon="-73.11310304">
+    <!-- conflict: "10212 Vermont Route 116, Hinesburg, VT" Fuzzy match to "10212 Vermont Route 116, , VT" -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="10212"/>
+    <tag k="addr:street" v="Vermont Route 116"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341789"/>
+  </node>
+  <node id="-1945" visible="true" lat="44.33454856" lon="-73.11267752">
+    <!-- conflict: "10240 Vermont Route 116, Hinesburg, VT" No match in OSM, but a different address exists <5m away: "10244 Vermont Route 116, , VT" -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="10240"/>
+    <tag k="addr:street" v="Vermont Route 116"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365073"/>
+  </node>
+  <node id="-1956" visible="true" lat="44.3404022" lon="-73.11810411">
+    <!-- conflict: "37 Haystack Road, Hinesburg, VT" No match in OSM, but a different address exists <5m away: " Haymaker Road, , " -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Haystack Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="448209"/>
+  </node>
+</osm>

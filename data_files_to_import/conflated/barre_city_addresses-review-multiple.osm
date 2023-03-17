@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-908" visible="true" lat="44.20155108" lon="-72.50750777">
+    <!-- multiple: "350 North Main Street, Barre City, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Barre City"/>
+    <tag k="addr:housenumber" v="350"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="8635"/>
+  </node>
+  <node id="-2496" visible="true" lat="44.18948364" lon="-72.48780059">
+    <!-- multiple: "320 Washington Street, Barre City, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Barre City"/>
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:street" v="Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="10434"/>
+  </node>
+</osm>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-126" visible="true" lat="44.72885237" lon="-72.22736707">
+    <!-- conflict: "161 County Road, Glover, VT" Fuzzy match to "161 County Road, , " -->
+    <tag k="addr:city" v="Glover"/>
+    <tag k="addr:housenumber" v="161"/>
+    <tag k="addr:street" v="County Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111742"/>
+  </node>
+  <node id="-320" visible="true" lat="44.7059385" lon="-72.18738797">
+    <!-- conflict: "2985 Glover Street, Glover, VT" Fuzzy match to "2985 Glover Road, Glover, " -->
+    <tag k="addr:city" v="Glover"/>
+    <tag k="addr:housenumber" v="2985"/>
+    <tag k="addr:street" v="Glover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111938"/>
+  </node>
+  <node id="-731" visible="true" lat="44.64101319" lon="-72.20598435">
+    <!-- conflict: "3482 Dry Pond Road, Glover, VT" Fuzzy match to "3482 Dry Pond Road, , " -->
+    <tag k="addr:city" v="Glover"/>
+    <tag k="addr:housenumber" v="3482"/>
+    <tag k="addr:street" v="Dry Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="112353"/>
+  </node>
+</osm>

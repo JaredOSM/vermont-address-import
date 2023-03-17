@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-719" visible="true" lat="43.84339893" lon="-73.36287473">
+    <!-- conflict: "3 Vermont Route 73, Orwell, VT" No match in OSM, but a different address exists <5m away: "3 Vt Route 73, Orwell, VT" -->
+    <tag k="addr:city" v="Orwell"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Vermont Route 73"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="184669"/>
+  </node>
+  <node id="-721" visible="true" lat="43.84303322" lon="-73.36275651">
+    <!-- conflict: "5 Vermont Route 73, Orwell, VT" No match in OSM, but a different address exists <5m away: "5 Vt Route 73, Orwell, VT" -->
+    <tag k="addr:city" v="Orwell"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Vermont Route 73"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="184671"/>
+  </node>
+  <node id="-870" visible="true" lat="43.84284478" lon="-73.36695945">
+    <!-- conflict: "5A Sampson Road, Orwell, VT" Fuzzy match to "5 A Sampson Road, Orwell, VT" -->
+    <tag k="addr:city" v="Orwell"/>
+    <tag k="addr:housenumber" v="5A"/>
+    <tag k="addr:street" v="Sampson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="448445"/>
+  </node>
+</osm>

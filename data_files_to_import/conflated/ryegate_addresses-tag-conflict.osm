@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-571" visible="true" lat="44.18632507" lon="-72.14052581">
+    <!-- conflict: "140 Church Street, Ryegate, VT" Fuzzy match to "140 Church Street, South Ryegate, VT" -->
+    <tag k="addr:city" v="Ryegate"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="215994"/>
+  </node>
+  <node id="-672" visible="true" lat="44.17206527" lon="-72.07663244">
+    <!-- conflict: "3046 South Bayley Hazen Road, Ryegate, VT" No match in OSM, but a different address exists <5m away: "3062 South Bayley Hazen Road, Ryegate, VT" -->
+    <tag k="addr:city" v="Ryegate"/>
+    <tag k="addr:housenumber" v="3046"/>
+    <tag k="addr:street" v="South Bayley Hazen Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="216096"/>
+  </node>
+  <node id="-757" visible="true" lat="44.24296654" lon="-72.09293247">
+    <!-- conflict: "2213 Symes Pond Road, Ryegate, VT" No match in OSM, but a different address exists <5m away: "1757 Symes Pond Road, Ryegate, VT" -->
+    <tag k="addr:city" v="Ryegate"/>
+    <tag k="addr:housenumber" v="2213"/>
+    <tag k="addr:street" v="Symes Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="316723"/>
+  </node>
+</osm>

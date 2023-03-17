@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-875" visible="true" lat="42.79503546" lon="-73.2234919">
+    <!-- multiple: "495 Center Street, Pownal, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Pownal"/>
+    <tag k="addr:housenumber" v="495"/>
+    <tag k="addr:street" v="Center Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="193285"/>
+  </node>
+  <node id="-1235" visible="true" lat="42.76730895" lon="-73.24105496">
+    <!-- multiple: "97 Main Street, Pownal, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Pownal"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="193651"/>
+  </node>
+</osm>

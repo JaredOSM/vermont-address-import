@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-495" visible="true" lat="43.66186307" lon="-72.84828296">
+    <!-- conflict: "51 Alpine Terrace, Killington, VT" Fuzzy match to "51 Alpine Drive, Killington, VT" -->
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Alpine Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224561"/>
+  </node>
+  <node id="-498" visible="true" lat="43.66165532" lon="-72.84318019">
+    <!-- conflict: "81 Alpine Drive, Killington, VT" No match in OSM, but a different address exists <5m away: "77 Alpine Drive, Killington, " -->
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224564"/>
+  </node>
+  <node id="-928" visible="true" lat="43.64107894" lon="-72.78861236">
+    <!-- conflict: "2244 Killington Road, Killington, VT" No match in OSM, but a different address exists <5m away: "2250 Killington Road, Killington, VT" -->
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="2244"/>
+    <tag k="addr:street" v="Killington Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225007"/>
+  </node>
+  <node id="-1228" visible="true" lat="43.60046005" lon="-72.75035095">
+    <!-- conflict: "8490 U.S. Route 4, Killington, VT" Fuzzy match to "8490 US Route 4, Killington, VT" -->
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="8490"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225317"/>
+  </node>
+  <node id="-1523" visible="true" lat="43.66185863" lon="-72.84226643">
+    <!-- conflict: "77 Alpine Drive, Killington, VT" Fuzzy match to "77 Alpine Drive, Killington, " -->
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449942"/>
+  </node>
+  <node id="-1534" visible="true" lat="43.70590703" lon="-72.82738938">
+    <!-- conflict: "445 Coffeehouse Road, Killington, VT" Fuzzy match to "445 Coffeehouse Road, Mendon, VT" -->
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="445"/>
+    <tag k="addr:street" v="Coffeehouse Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452870"/>
+  </node>
+  <node id="-1575" visible="true" lat="43.70446101" lon="-72.83377913">
+    <!-- conflict: "337 Elbow Road, Killington, VT" Fuzzy match to "337 Elbow Road, Mendon, VT" -->
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="337"/>
+    <tag k="addr:street" v="Elbow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759826"/>
+  </node>
+</osm>

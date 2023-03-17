@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-152" visible="true" lat="44.62386143" lon="-72.21249544">
+    <!-- conflict: "6785 Vermont Route 16, Greensboro, VT" No match in OSM, but a different address exists <5m away: "6785 Vt Route 16, Greensboro, VT" -->
+    <tag k="addr:city" v="Greensboro"/>
+    <tag k="addr:housenumber" v="6785"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="114869"/>
+  </node>
+  <node id="-239" visible="true" lat="44.59905624" lon="-72.2257843">
+    <!-- conflict: "4407 Vermont Route 16, Greensboro, VT" No match in OSM, but a different address exists <5m away: "4407 Vt Route 16, Greensboro, VT" -->
+    <tag k="addr:city" v="Greensboro"/>
+    <tag k="addr:housenumber" v="4407"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="114958"/>
+  </node>
+  <node id="-614" visible="true" lat="44.57061514" lon="-72.25027281">
+    <!-- conflict: "2057 Vermont Route 16, Greensboro, VT" No match in OSM, but a different address exists <5m away: "2057 Vt Route 16, Greensboro, VT" -->
+    <tag k="addr:city" v="Greensboro"/>
+    <tag k="addr:housenumber" v="2057"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="115350"/>
+  </node>
+  <node id="-700" visible="true" lat="44.54804611" lon="-72.26725769">
+    <!-- conflict: "213 Vermont Route 16, Greensboro, VT" No match in OSM, but a different address exists <5m away: "213 Vt Route 16, Greensboro, VT" -->
+    <tag k="addr:city" v="Greensboro"/>
+    <tag k="addr:housenumber" v="213"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="115438"/>
+  </node>
+  <node id="-703" visible="true" lat="44.54794311" lon="-72.26604461">
+    <!-- conflict: "265 Vermont Route 16, Greensboro, VT" No match in OSM, but a different address exists <5m away: "265 Vt Route 16, Greensboro, VT" -->
+    <tag k="addr:city" v="Greensboro"/>
+    <tag k="addr:housenumber" v="265"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="115441"/>
+  </node>
+  <node id="-708" visible="true" lat="44.54749298" lon="-72.26760864">
+    <!-- conflict: "189 Vermont Route 16, Greensboro, VT" No match in OSM, but a different address exists <5m away: "189 Vt Route 16, Greensboro, VT" -->
+    <tag k="addr:city" v="Greensboro"/>
+    <tag k="addr:housenumber" v="189"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="115446"/>
+  </node>
+  <node id="-747" visible="true" lat="44.61558293" lon="-72.20962505">
+    <!-- conflict: "42 Horse Pond Road, Greensboro, VT" No match in OSM, but a different address exists <5m away: "150 Horse Pond Road, Greensboro, VT" -->
+    <tag k="addr:city" v="Greensboro"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Horse Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="115486"/>
+  </node>
+  <node id="-748" visible="true" lat="44.6151034" lon="-72.20965589">
+    <!-- conflict: "35 Horse Pond Road, Greensboro, VT" No match in OSM, but a different address exists <5m away: "145 Horse Pond Road, Greensboro, VT" -->
+    <tag k="addr:city" v="Greensboro"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Horse Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="115487"/>
+  </node>
+  <node id="-917" visible="true" lat="44.60666917" lon="-72.26333705">
+    <!-- conflict: "403A Hill Road, Greensboro, VT" Fuzzy match to "403 A Hill Road, Greensboro, VT" -->
+    <tag k="addr:city" v="Greensboro"/>
+    <tag k="addr:housenumber" v="403A"/>
+    <tag k="addr:street" v="Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336966"/>
+  </node>
+</osm>

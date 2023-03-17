@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-100" visible="true" lat="43.66938957" lon="-72.84442949">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Round Robin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224152"/>
+  </node>
+  <node id="-101" visible="true" lat="43.66800955" lon="-72.84533246">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Merry Maple Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224153"/>
+  </node>
+  <node id="-305" visible="true" lat="43.67510223" lon="-72.77970123">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="2706"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224359"/>
+  </node>
+  <node id="-312" visible="true" lat="43.67309951" lon="-72.84088134">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="651"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224368"/>
+  </node>
+  <node id="-314" visible="true" lat="43.67276105" lon="-72.84117514">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="629"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224370"/>
+  </node>
+  <node id="-315" visible="true" lat="43.67268753" lon="-72.84035491">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="634"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224371"/>
+  </node>
+  <node id="-320" visible="true" lat="43.6722145" lon="-72.84125518">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="597"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224376"/>
+  </node>
+  <node id="-321" visible="true" lat="43.67213821" lon="-72.84047698">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="588"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224377"/>
+  </node>
+  <node id="-326" visible="true" lat="43.6717032" lon="-72.84120001">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="561"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224383"/>
+  </node>
+  <node id="-329" visible="true" lat="43.67138251" lon="-72.84296201">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="486"/>
+    <tag k="addr:street" v="Round Robin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224386"/>
+  </node>
+  <node id="-331" visible="true" lat="43.67136981" lon="-72.84035703">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="536"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224388"/>
+  </node>
+  <node id="-333" visible="true" lat="43.67107329" lon="-72.84346196">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:street" v="Overbrook Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224390"/>
+  </node>
+  <node id="-334" visible="true" lat="43.67102936" lon="-72.84123081">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="521"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224391"/>
+  </node>
+  <node id="-337" visible="true" lat="43.67049329" lon="-72.84134406">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="469"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224394"/>
+  </node>
+  <node id="-339" visible="true" lat="43.67034998" lon="-72.84308593">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Overbrook Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224396"/>
+  </node>
+  <node id="-341" visible="true" lat="43.67024612" lon="-72.84065246">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="464"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224398"/>
+  </node>
+  <node id="-343" visible="true" lat="43.67002776" lon="-72.84399607">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:street" v="Overbrook Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224400"/>
+  </node>
+  <node id="-344" visible="true" lat="43.66960525" lon="-72.84195709">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="391"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224401"/>
+  </node>
+  <node id="-348" visible="true" lat="43.66937643" lon="-72.84237697">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Overbrook Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224405"/>
+  </node>
+  <node id="-349" visible="true" lat="43.66913386" lon="-72.84353708">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Overbrook Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224406"/>
+  </node>
+  <node id="-353" visible="true" lat="43.66900977" lon="-72.84412487">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Round Robin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224410"/>
+  </node>
+  <node id="-354" visible="true" lat="43.66881307" lon="-72.84263652">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Overbrook Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224411"/>
+  </node>
+  <node id="-358" visible="true" lat="43.66865771" lon="-72.84351437">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Round Robin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224415"/>
+  </node>
+  <node id="-359" visible="true" lat="43.66836315" lon="-72.84135576">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="364"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224416"/>
+  </node>
+  <node id="-434" visible="true" lat="43.66404724" lon="-72.84720612">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="254"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224495"/>
+  </node>
+  <node id="-438" visible="true" lat="43.66394424" lon="-72.84669495">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="244"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224499"/>
+  </node>
+  <node id="-445" visible="true" lat="43.6636734" lon="-72.84746551">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="268"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224506"/>
+  </node>
+  <node id="-447" visible="true" lat="43.66345295" lon="-72.84671799">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224508"/>
+  </node>
+  <node id="-449" visible="true" lat="43.6632929" lon="-72.84636456">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224510"/>
+  </node>
+  <node id="-454" visible="true" lat="43.66323063" lon="-72.84568143">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224515"/>
+  </node>
+  <node id="-458" visible="true" lat="43.66302109" lon="-72.84716034">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="306"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224519"/>
+  </node>
+  <node id="-463" visible="true" lat="43.66283894" lon="-72.83964588">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224524"/>
+  </node>
+  <node id="-464" visible="true" lat="43.66283229" lon="-72.84570044">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="159"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224525"/>
+  </node>
+  <node id="-467" visible="true" lat="43.66276168" lon="-72.84659576">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="331"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224528"/>
+  </node>
+  <node id="-470" visible="true" lat="43.66261319" lon="-72.84773094">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Alpine Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224534"/>
+  </node>
+  <node id="-472" visible="true" lat="43.66275103" lon="-72.84716956">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="344"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224536"/>
+  </node>
+  <node id="-475" visible="true" lat="43.66254335" lon="-72.84138624">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224539"/>
+  </node>
+  <node id="-477" visible="true" lat="43.66227375" lon="-72.84741277">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="Alpine Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224541"/>
+  </node>
+  <node id="-478" visible="true" lat="43.66235518" lon="-72.83974455">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224542"/>
+  </node>
+  <node id="-483" visible="true" lat="43.66211279" lon="-72.84092367">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224547"/>
+  </node>
+  <node id="-486" visible="true" lat="43.66208816" lon="-72.84030913">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224550"/>
+  </node>
+  <node id="-490" visible="true" lat="43.66190719" lon="-72.84743499">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Alpine Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224555"/>
+  </node>
+  <node id="-501" visible="true" lat="43.66163524" lon="-72.84773627">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Alpine Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224567"/>
+  </node>
+  <node id="-515" visible="true" lat="43.66112256" lon="-72.8486744">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Alpine Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224581"/>
+  </node>
+  <node id="-517" visible="true" lat="43.66100638" lon="-72.84807025">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="568"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224583"/>
+  </node>
+  <node id="-519" visible="true" lat="43.66104558" lon="-72.83824686">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="225"/>
+    <tag k="addr:street" v="Brad Mead Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224585"/>
+  </node>
+  <node id="-526" visible="true" lat="43.66087013" lon="-72.83731131">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="285"/>
+    <tag k="addr:street" v="Brad Mead Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224592"/>
+  </node>
+  <node id="-527" visible="true" lat="43.66072543" lon="-72.84723033">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="520"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224593"/>
+  </node>
+  <node id="-537" visible="true" lat="43.66061428" lon="-72.84844322">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="563"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224603"/>
+  </node>
+  <node id="-539" visible="true" lat="43.66047246" lon="-72.83901007">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="258"/>
+    <tag k="addr:street" v="Brad Mead Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224605"/>
+  </node>
+  <node id="-545" visible="true" lat="43.66040177" lon="-72.84898897">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="650"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224611"/>
+  </node>
+  <node id="-547" visible="true" lat="43.66037003" lon="-72.83738431">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="325"/>
+    <tag k="addr:street" v="Brad Mead Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224613"/>
+  </node>
+  <node id="-549" visible="true" lat="43.66032872" lon="-72.84793169">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="535"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224615"/>
+  </node>
+  <node id="-550" visible="true" lat="43.66027358" lon="-72.84724034">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="499"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224616"/>
+  </node>
+  <node id="-561" visible="true" lat="43.66002138" lon="-72.84730205">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="523"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224627"/>
+  </node>
+  <node id="-562" visible="true" lat="43.66007435" lon="-72.84854271">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Alpine Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224628"/>
+  </node>
+  <node id="-564" visible="true" lat="43.65981424" lon="-72.8475052">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Alpine Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224630"/>
+  </node>
+  <node id="-566" visible="true" lat="43.65974736" lon="-72.84887149">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="697"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224632"/>
+  </node>
+  <node id="-574" visible="true" lat="43.65962614" lon="-72.84784205">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Alpine Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224641"/>
+  </node>
+  <node id="-585" visible="true" lat="43.65945823" lon="-72.84956547">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="710"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224652"/>
+  </node>
+  <node id="-587" visible="true" lat="43.65937425" lon="-72.84803536">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Alpine Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224654"/>
+  </node>
+  <node id="-600" visible="true" lat="43.6591835" lon="-72.84951019">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="728"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224668"/>
+  </node>
+  <node id="-602" visible="true" lat="43.65906015" lon="-72.84858799">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="747"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224670"/>
+  </node>
+  <node id="-611" visible="true" lat="43.65875753" lon="-72.84935116">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="784"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224681"/>
+  </node>
+  <node id="-615" visible="true" lat="43.65867301" lon="-72.84973623">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="808"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224687"/>
+  </node>
+  <node id="-621" visible="true" lat="43.65843582" lon="-72.8488388">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="783"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224694"/>
+  </node>
+  <node id="-625" visible="true" lat="43.6584628" lon="-72.85010762">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="828"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224698"/>
+  </node>
+  <node id="-626" visible="true" lat="43.6581964" lon="-72.84924112">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="805"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224699"/>
+  </node>
+  <node id="-634" visible="true" lat="43.65806854" lon="-72.85006766">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="838"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224707"/>
+  </node>
+  <node id="-643" visible="true" lat="43.65790184" lon="-72.84936347">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="859"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224717"/>
+  </node>
+  <node id="-644" visible="true" lat="43.65768473" lon="-72.85012406">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="856"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224718"/>
+  </node>
+  <node id="-678" visible="true" lat="43.65586471" lon="-72.78691863">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224755"/>
+  </node>
+  <node id="-716" visible="true" lat="43.65406036" lon="-72.79132079">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Bigelow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224793"/>
+  </node>
+  <node id="-772" visible="true" lat="43.64959716" lon="-72.77079772">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="4900"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224850"/>
+  </node>
+  <node id="-890" visible="true" lat="43.64331777" lon="-72.78811653">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="2089"/>
+    <tag k="addr:street" v="Killington Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224969"/>
+  </node>
+  <node id="-924" visible="true" lat="43.64130783" lon="-72.78781127">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="2229"/>
+    <tag k="addr:street" v="Killington Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225003"/>
+  </node>
+  <node id="-938" visible="true" lat="43.63983535" lon="-72.78824615">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="2324"/>
+    <tag k="addr:street" v="Killington Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225017"/>
+  </node>
+  <node id="-999" visible="true" lat="43.63678359" lon="-72.79063415">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="2708"/>
+    <tag k="addr:street" v="Killington Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225078"/>
+  </node>
+  <node id="-1205" visible="true" lat="43.60706329" lon="-72.7508316">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Johnson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225291"/>
+  </node>
+  <node id="-1208" visible="true" lat="43.60628509" lon="-72.74990081">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Johnson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225294"/>
+  </node>
+  <node id="-1209" visible="true" lat="43.60627365" lon="-72.75029754">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:street" v="Johnson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225295"/>
+  </node>
+  <node id="-1213" visible="true" lat="43.60463333" lon="-72.755867">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="262"/>
+    <tag k="addr:street" v="Hadley Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225299"/>
+  </node>
+  <node id="-1215" visible="true" lat="43.60406401" lon="-72.75034439">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="227"/>
+    <tag k="addr:street" v="Johnson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225301"/>
+  </node>
+  <node id="-1216" visible="true" lat="43.60422239" lon="-72.75220928">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Lombard Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225302"/>
+  </node>
+  <node id="-1217" visible="true" lat="43.60405898" lon="-72.74960087">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="225"/>
+    <tag k="addr:street" v="Johnson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225303"/>
+  </node>
+  <node id="-1218" visible="true" lat="43.60351562" lon="-72.75110626">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="8284"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225304"/>
+  </node>
+  <node id="-1219" visible="true" lat="43.60194955" lon="-72.75524442">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="370"/>
+    <tag k="addr:street" v="Lombard Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225305"/>
+  </node>
+  <node id="-1222" visible="true" lat="43.60184547" lon="-72.75082788">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="8394"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225308"/>
+  </node>
+  <node id="-1223" visible="true" lat="43.60179138" lon="-72.75727844">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="372"/>
+    <tag k="addr:street" v="Lombard Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225309"/>
+  </node>
+  <node id="-1224" visible="true" lat="43.60163633" lon="-72.75075483">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="8412"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225310"/>
+  </node>
+  <node id="-1225" visible="true" lat="43.6012001" lon="-72.77893066">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Tennis Court Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225313"/>
+  </node>
+  <node id="-1226" visible="true" lat="43.60103225" lon="-72.77610015">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="168"/>
+    <tag k="addr:street" v="Tennis Court Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225315"/>
+  </node>
+  <node id="-1227" visible="true" lat="43.600708" lon="-72.75051879">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="8474"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225316"/>
+  </node>
+  <node id="-1239" visible="true" lat="43.59856744" lon="-72.75689389">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="439"/>
+    <tag k="addr:street" v="Lombard Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225332"/>
+  </node>
+  <node id="-1250" visible="true" lat="43.5976448" lon="-72.75728607">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="441"/>
+    <tag k="addr:street" v="Lombard Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225346"/>
+  </node>
+  <node id="-1268" visible="true" lat="43.66728437" lon="-72.84357335">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="238"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225367"/>
+  </node>
+  <node id="-1278" visible="true" lat="43.59981536" lon="-72.75539398">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="437"/>
+    <tag k="addr:street" v="Lombard Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225377"/>
+  </node>
+  <node id="-1281" visible="true" lat="43.60420608" lon="-72.75626373">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:street" v="Hadley Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225380"/>
+  </node>
+  <node id="-1285" visible="true" lat="43.67033561" lon="-72.84409532">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Overbrook Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225384"/>
+  </node>
+  <node id="-1287" visible="true" lat="43.66770377" lon="-72.84285516">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="248"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225386"/>
+  </node>
+  <node id="-1288" visible="true" lat="43.66908963" lon="-72.84104716">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="406"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225387"/>
+  </node>
+  <node id="-1298" visible="true" lat="43.67192462" lon="-72.84238796">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:street" v="Round Robin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225397"/>
+  </node>
+  <node id="-1300" visible="true" lat="43.67191066" lon="-72.77743191">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="2998"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225399"/>
+  </node>
+  <node id="-1309" visible="true" lat="43.63279595" lon="-72.80016006">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="3358"/>
+    <tag k="addr:street" v="Killington Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225408"/>
+  </node>
+  <node id="-1313" visible="true" lat="43.66390773" lon="-72.84630442">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="234"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225412"/>
+  </node>
+  <node id="-1322" visible="true" lat="43.59356998" lon="-72.75456003">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="496"/>
+    <tag k="addr:street" v="Vermont Route 100 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225421"/>
+  </node>
+  <node id="-1325" visible="true" lat="43.59704569" lon="-72.7837152">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Lower Sun Dog Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225424"/>
+  </node>
+  <node id="-1328" visible="true" lat="43.67025525" lon="-72.84242694">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="560"/>
+    <tag k="addr:street" v="Round Robin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225431"/>
+  </node>
+  <node id="-1340" visible="true" lat="43.60304041" lon="-72.75377013">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="282"/>
+    <tag k="addr:street" v="Lombard Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225443"/>
+  </node>
+  <node id="-1342" visible="true" lat="43.63736018" lon="-72.7927448">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="2822"/>
+    <tag k="addr:street" v="Killington Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225445"/>
+  </node>
+  <node id="-1366" visible="true" lat="43.60080192" lon="-72.75541759">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="383"/>
+    <tag k="addr:street" v="Lombard Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225470"/>
+  </node>
+  <node id="-1370" visible="true" lat="43.60487531" lon="-72.75196031">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Hadley Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225474"/>
+  </node>
+  <node id="-1414" visible="true" lat="43.67353418" lon="-72.84195526">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Windrift Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306824"/>
+  </node>
+  <node id="-1435" visible="true" lat="43.67083122" lon="-72.8427103">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="540"/>
+    <tag k="addr:street" v="Round Robin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="315299"/>
+  </node>
+  <node id="-1453" visible="true" lat="43.600917" lon="-72.752722">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:street" v="Lombard Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326636"/>
+  </node>
+  <node id="-1457" visible="true" lat="43.66971264" lon="-72.84069963">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="430"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="330002"/>
+  </node>
+  <node id="-1494" visible="true" lat="43.67087808" lon="-72.840431">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="510"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339554"/>
+  </node>
+  <node id="-1496" visible="true" lat="43.65881508" lon="-72.84850074">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="767"/>
+    <tag k="addr:street" v="Alpine Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339556"/>
+  </node>
+  <node id="-1503" visible="true" lat="43.67274519" lon="-72.84247189">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Windrift Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342537"/>
+  </node>
+  <node id="-1504" visible="true" lat="43.67275307" lon="-72.84224695">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Windrift Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342538"/>
+  </node>
+  <node id="-1511" visible="true" lat="43.62771417" lon="-72.73486344">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="389"/>
+    <tag k="addr:street" v="Little Sherburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="344817"/>
+  </node>
+  <node id="-1514" visible="true" lat="43.66652062" lon="-72.84355071">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="168"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="346001"/>
+  </node>
+  <node id="-1519" visible="true" lat="43.66698566" lon="-72.84432021">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="180"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="447973"/>
+  </node>
+  <node id="-1521" visible="true" lat="43.66641393" lon="-72.84449199">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="448442"/>
+  </node>
+  <node id="-1562" visible="true" lat="43.60921766" lon="-72.76389746">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="3152"/>
+    <tag k="addr:street" v="East Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756372"/>
+  </node>
+  <node id="-1588" visible="true" lat="43.66599559" lon="-72.84492666">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="900102"/>
+  </node>
+</osm>

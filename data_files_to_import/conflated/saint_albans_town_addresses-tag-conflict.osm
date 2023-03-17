@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-389" visible="true" lat="44.84440612" lon="-73.08623504">
+    <!-- conflict: "448 Swanton Road, Saint Albans Town, VT" Fuzzy match to "448 Swanton Road, St. Albans, VT" -->
+    <tag k="addr:city" v="Saint Albans Town"/>
+    <tag k="addr:housenumber" v="448"/>
+    <tag k="addr:street" v="Swanton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="241391"/>
+  </node>
+  <node id="-2217" visible="true" lat="44.84036434" lon="-73.10185062">
+    <!-- conflict: "1810 Lower Newton Road, Saint Albans Town, VT" Fuzzy match to "1810 Lower Newton Road, Saint Albans, VT" -->
+    <tag k="addr:city" v="Saint Albans Town"/>
+    <tag k="addr:housenumber" v="1810"/>
+    <tag k="addr:street" v="Lower Newton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="243346"/>
+  </node>
+  <node id="-2387" visible="true" lat="44.80203719" lon="-73.10234192">
+    <!-- conflict: "650 Industrial Park Road, Saint Albans Town, VT" Fuzzy match to "650 Industrial Park Road, Saint Albans, VT" -->
+    <tag k="addr:city" v="Saint Albans Town"/>
+    <tag k="addr:housenumber" v="650"/>
+    <tag k="addr:street" v="Industrial Park Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="243521"/>
+  </node>
+  <node id="-2770" visible="true" lat="44.7970329" lon="-73.07172195">
+    <!-- conflict: "555 Fairfax Road, Saint Albans Town, VT" Fuzzy match to "555 Fairfax Road, St Albans City, VT" -->
+    <tag k="addr:city" v="Saint Albans Town"/>
+    <tag k="addr:housenumber" v="555"/>
+    <tag k="addr:street" v="Fairfax Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306332"/>
+  </node>
+  <node id="-3255" visible="true" lat="44.84171333" lon="-73.08969563">
+    <!-- conflict: "700 Tuckers Way, Saint Albans Town, VT" Fuzzy match to "700 Tuckers Way, Saint Albans, VT" -->
+    <tag k="addr:city" v="Saint Albans Town"/>
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:street" v="Tuckers Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450622"/>
+  </node>
+  <node id="-3256" visible="true" lat="44.84120056" lon="-73.10180382">
+    <!-- conflict: "13 Mosher Lane, Saint Albans Town, VT" Fuzzy match to "13 Mosher Lane, Saint Albans, VT" -->
+    <tag k="addr:city" v="Saint Albans Town"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Mosher Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450623"/>
+  </node>
+  <node id="-3257" visible="true" lat="44.84127303" lon="-73.10092861">
+    <!-- conflict: "16 Mosher Lane, Saint Albans Town, VT" No match in OSM, but a different address exists <5m away: " Mosher Lane, Saint Albans, VT" -->
+    <tag k="addr:city" v="Saint Albans Town"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Mosher Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450624"/>
+  </node>
+  <node id="-3258" visible="true" lat="44.84203651" lon="-73.10108296">
+    <!-- conflict: "19 Mosher Lane, Saint Albans Town, VT" Fuzzy match to "19 Mosher Lane, Saint Albans, VT" -->
+    <tag k="addr:city" v="Saint Albans Town"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Mosher Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450625"/>
+  </node>
+  <node id="-3259" visible="true" lat="44.84188042" lon="-73.10042876">
+    <!-- conflict: "22 Mosher Lane, Saint Albans Town, VT" Fuzzy match to "22 Mosher Lane, Saint Albans, VT" -->
+    <tag k="addr:city" v="Saint Albans Town"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Mosher Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450626"/>
+  </node>
+</osm>

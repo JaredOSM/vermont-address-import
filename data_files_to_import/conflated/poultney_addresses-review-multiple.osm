@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-881" visible="true" lat="43.51796999" lon="-73.23741136">
+    <!-- multiple: "55 Depot Street, Poultney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="191570"/>
+  </node>
+  <node id="-902" visible="true" lat="43.51762771" lon="-73.23632812">
+    <!-- multiple: "28 Depot Street, Poultney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="191593"/>
+  </node>
+  <node id="-991" visible="true" lat="43.51669065" lon="-73.23248034">
+    <!-- multiple: "10 East Main Street, Poultney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="East Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="191692"/>
+  </node>
+</osm>

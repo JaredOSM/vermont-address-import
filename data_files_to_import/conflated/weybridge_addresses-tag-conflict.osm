@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-494" visible="true" lat="44.08605763" lon="-73.249551">
+    <!-- conflict: "95 Vermont Route 17, Weybridge, VT" No match in OSM, but a different address exists <5m away: "95 VT Route 17, Weybridge, VT" -->
+    <tag k="addr:city" v="Weybridge"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Vermont Route 17"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285614"/>
+  </node>
+  <node id="-536" visible="true" lat="44.08570244" lon="-73.24768284">
+    <!-- conflict: "60 Vermont Route 17, Weybridge, VT" No match in OSM, but a different address exists <5m away: "60 VT Route 17, Weybridge, VT" -->
+    <tag k="addr:city" v="Weybridge"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Vermont Route 17"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617673"/>
+  </node>
+</osm>

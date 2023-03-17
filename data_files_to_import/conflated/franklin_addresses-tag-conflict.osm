@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-192" visible="true" lat="44.99654664" lon="-72.83145547">
+    <!-- conflict: "4573 Lake Road, Franklin, VT" Fuzzy match to "4573 Lake Road, East Franklin, VT" -->
+    <tag k="addr:city" v="Franklin"/>
+    <tag k="addr:housenumber" v="4573"/>
+    <tag k="addr:street" v="Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="109101"/>
+  </node>
+  <node id="-435" visible="true" lat="44.98250101" lon="-72.91637272">
+    <!-- conflict: "5243 Main Street, Franklin, VT" No match in OSM, but a different address exists <5m away: "5243 North Sheldon Road, , " -->
+    <tag k="addr:city" v="Franklin"/>
+    <tag k="addr:housenumber" v="5243"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="109350"/>
+  </node>
+</osm>

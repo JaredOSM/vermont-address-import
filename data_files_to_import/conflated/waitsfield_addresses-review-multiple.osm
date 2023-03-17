@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-535" visible="true" lat="44.18786761" lon="-72.83526733">
+    <!-- multiple: "155 Carroll Road, Waitsfield, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Waitsfield"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:street" v="Carroll Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="267860"/>
+  </node>
+  <node id="-634" visible="true" lat="44.18090073" lon="-72.84061258">
+    <!-- multiple: "9 Vermont Route 17, Waitsfield, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Waitsfield"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Vermont Route 17"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="267962"/>
+  </node>
+</osm>

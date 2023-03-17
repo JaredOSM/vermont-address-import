@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-565" visible="true" lat="43.28092193" lon="-72.59977722">
+    <!-- conflict: "252 Vermont Route 103 North, Chester, VT" No match in OSM, but a different address exists <5m away: "252 Vt Route 103 North, Chester, VT" -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="252"/>
+    <tag k="addr:street" v="Vermont Route 103 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="66273"/>
+  </node>
+  <node id="-753" visible="true" lat="43.26949693" lon="-72.60486916">
+    <!-- conflict: "228 Meadow Road, Chester, VT" Fuzzy match to "228 Meadow Road, , VT" -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="228"/>
+    <tag k="addr:street" v="Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="66475"/>
+  </node>
+  <node id="-878" visible="true" lat="43.26605605" lon="-72.58846282">
+    <!-- conflict: "144 Town Garage Road, Chester, VT" No match in OSM, but a different address exists <5m away: " Depot Street, Chester, VT" -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="Town Garage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="66616"/>
+  </node>
+  <node id="-933" visible="true" lat="43.26472111" lon="-72.60059164">
+    <!-- conflict: "313 Main Street, Chester, VT" Fuzzy match to "313 Main Street, Chester, " -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="313"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="66676"/>
+  </node>
+  <node id="-952" visible="true" lat="43.2644193" lon="-72.59762057">
+    <!-- conflict: "162 Main Street, Chester, VT" Fuzzy match to "162 Main Street, Chester, " -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="162"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="66698"/>
+  </node>
+  <node id="-1069" visible="true" lat="43.26202774" lon="-72.59305572">
+    <!-- conflict: "117 South Main Street, Chester, VT" Fuzzy match to "117 Main Street, Chester, VT" -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="66823"/>
+  </node>
+  <node id="-1158" visible="true" lat="43.25869205" lon="-72.58924986">
+    <!-- conflict: "60 Vermont Route 103 South, Chester, VT" No match in OSM, but a different address exists <5m away: "60 VT Route 103 South, Chester, VT" -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Vermont Route 103 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="66918"/>
+  </node>
+  <node id="-1436" visible="true" lat="43.33464184" lon="-72.54960254">
+    <!-- conflict: "3361 Vermont Route 10, Chester, VT" No match in OSM, but a different address exists <5m away: "3361 VT Route 10, Chester, VT" -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="3361"/>
+    <tag k="addr:street" v="Vermont Route 10"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="67212"/>
+  </node>
+  <node id="-1473" visible="true" lat="43.27889633" lon="-72.59757232">
+    <!-- conflict: "37 Wright Farm Road, Chester, VT" No match in OSM, but a different address exists <5m away: " State Route 103, chester, VT" -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Wright Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="67253"/>
+  </node>
+  <node id="-1483" visible="true" lat="43.26667977" lon="-72.60918458">
+    <!-- conflict: "55 Vermont Route 11 West, Chester, VT" Fuzzy match to "55 Vermont Route 11 West, chestyer, VT" -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Vermont Route 11 West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="67264"/>
+  </node>
+  <node id="-1816" visible="true" lat="43.27854816" lon="-72.59879953">
+    <!-- conflict: "87 Vermont Route 103 North, Chester, VT" No match in OSM, but a different address exists <5m away: "87 Vt Route 103 North, Chester, VT" -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Vermont Route 103 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="331182"/>
+  </node>
+</osm>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-104" visible="true" lat="43.72536269" lon="-72.59144811">
+    <!-- conflict: "439 Royalton Turnpike, Barnard, VT" No match in OSM, but a different address exists <5m away: " Royalton Turnpike, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="439"/>
+    <tag k="addr:street" v="Royalton Turnpike"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="992"/>
+  </node>
+  <node id="-475" visible="true" lat="43.72929715" lon="-72.61978151">
+    <!-- conflict: "6220 Vermont Route 12, Barnard, VT" No match in OSM, but a different address exists <5m away: " , Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="6220"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6317"/>
+  </node>
+  <node id="-477" visible="true" lat="43.72922086" lon="-72.62052156">
+    <!-- conflict: "6243 Vermont Route 12, Barnard, VT" No match in OSM, but a different address exists <5m away: "6243 Vt Route 12, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="6243"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6319"/>
+  </node>
+  <node id="-478" visible="true" lat="43.72910083" lon="-72.61960091">
+    <!-- conflict: "6208 Vermont Route 12, Barnard, VT" No match in OSM, but a different address exists <5m away: "6208 VT-12, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="6208"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6320"/>
+  </node>
+  <node id="-480" visible="true" lat="43.72887982" lon="-72.62016261">
+    <!-- conflict: "6211 Vermont Route 12, Barnard, VT" No match in OSM, but a different address exists <5m away: "6211 Vt Route 12, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="6211"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6322"/>
+  </node>
+  <node id="-489" visible="true" lat="43.72835978" lon="-72.61758846">
+    <!-- conflict: "6430 Stage Road, Barnard, VT" No match in OSM, but a different address exists <5m away: " Stage Road, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="6430"/>
+    <tag k="addr:street" v="Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6334"/>
+  </node>
+  <node id="-505" visible="true" lat="43.72774707" lon="-72.58540291">
+    <!-- conflict: "111 Sugar House Hill North, Barnard, VT" No match in OSM, but a different address exists <5m away: "111 Sugar House Hollow North, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Sugar House Hill North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6350"/>
+  </node>
+  <node id="-573" visible="true" lat="43.72567785" lon="-72.5883815">
+    <!-- conflict: "10 Sugar House Hill Road, Barnard, VT" No match in OSM, but a different address exists <5m away: "41 Courtyard Road, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Sugar House Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6422"/>
+  </node>
+  <node id="-822" visible="true" lat="43.78494234" lon="-72.64993727">
+    <!-- conflict: "578 Masterson Road, Barnard, VT" Fuzzy match to "578 Masterson Road, , " -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="578"/>
+    <tag k="addr:street" v="Masterson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6680"/>
+  </node>
+  <node id="-878" visible="true" lat="43.73293884" lon="-72.61797562">
+    <!-- conflict: "118 Birchwood Lane, Barnard, VT" Fuzzy match to "118 Birchwood Lane, , " -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="Birchwood Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611085"/>
+  </node>
+  <node id="-903" visible="true" lat="43.72836259" lon="-72.61864763">
+    <!-- conflict: "6134 Vermont Route 12, Barnard, VT" No match in OSM, but a different address exists <5m away: "6134 Town Highway 41, , " -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="6134"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754929"/>
+  </node>
+</osm>

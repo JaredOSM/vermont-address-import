@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-305" visible="true" lat="44.96952021" lon="-72.03680155">
+    <!-- conflict: "693 Gore Road, Holland, VT" No match in OSM, but a different address exists <5m away: " Gore Road, , VT" -->
+    <tag k="addr:city" v="Holland"/>
+    <tag k="addr:housenumber" v="693"/>
+    <tag k="addr:street" v="Gore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130083"/>
+  </node>
+</osm>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-184" visible="true" lat="42.81794065" lon="-72.5751831">
+    <!-- conflict: "475 Coolidge Highway, Guilford, VT" No match in OSM, but a different address exists <5m away: "479 Calvin Coolidge Memorial Hwy, Guilford, VT" -->
+    <tag k="addr:city" v="Guilford"/>
+    <tag k="addr:housenumber" v="475"/>
+    <tag k="addr:street" v="Coolidge Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="116861"/>
+  </node>
+  <node id="-655" visible="true" lat="42.77922033" lon="-72.56983324">
+    <!-- conflict: "3489 Coolidge Highway, Guilford, VT" No match in OSM, but a different address exists <5m away: "3489 Calvin Coolidge Memorial Hwy, Guilford, VT" -->
+    <tag k="addr:city" v="Guilford"/>
+    <tag k="addr:housenumber" v="3489"/>
+    <tag k="addr:street" v="Coolidge Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="117344"/>
+  </node>
+  <node id="-958" visible="true" lat="42.73587312" lon="-72.59999331">
+    <!-- conflict: "2706 East Mountain Road, Guilford, VT" Fuzzy match to "2706 East Mtn Road, Guilford, " -->
+    <tag k="addr:city" v="Guilford"/>
+    <tag k="addr:housenumber" v="2706"/>
+    <tag k="addr:street" v="East Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="117656"/>
+  </node>
+</osm>

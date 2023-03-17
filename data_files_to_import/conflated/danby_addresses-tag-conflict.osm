@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-591" visible="true" lat="43.34529551" lon="-72.99430424">
+    <!-- conflict: "83 Depot Street, Danby, VT" Fuzzy match to "83 Depot Rd, Mount Tabor, VT" -->
+    <tag k="addr:city" v="Danby"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="80045"/>
+  </node>
+  <node id="-942" visible="true" lat="43.35982493" lon="-72.9944128">
+    <!-- conflict: "141 Holland Heights Road, Danby, VT" Fuzzy match to "141 Holland Heights Road, Mount Tabor, VT" -->
+    <tag k="addr:city" v="Danby"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="Holland Heights Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755563"/>
+  </node>
+</osm>

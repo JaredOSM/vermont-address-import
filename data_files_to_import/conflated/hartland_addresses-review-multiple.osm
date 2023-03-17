@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-1183" visible="true" lat="43.5381279" lon="-72.39408875">
+    <!-- multiple: "97 Martinsville Road, Hartland, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Hartland"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Martinsville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126023"/>
+  </node>
+  <node id="-1352" visible="true" lat="43.57083748" lon="-72.38331226">
+    <!-- multiple: "415 U.S. Route 5, Hartland, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Hartland"/>
+    <tag k="addr:housenumber" v="415"/>
+    <tag k="addr:street" v="U.S. Route 5"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126195"/>
+  </node>
+</osm>

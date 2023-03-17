@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-234" visible="true" lat="43.2057785" lon="-73.02160217">
+    <!-- conflict: "229 Beech Street, Manchester, VT" Fuzzy match to "229 Beech Street, Manchester, " -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="229"/>
+    <tag k="addr:street" v="Beech Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149153"/>
+  </node>
+  <node id="-536" visible="true" lat="43.18898075" lon="-73.04389197">
+    <!-- conflict: "40 Jeff Williams Way, Manchester, VT" No match in OSM, but a different address exists <5m away: "6039 Main Street, Manchester, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Jeff Williams Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149460"/>
+  </node>
+  <node id="-582" visible="true" lat="43.18757626" lon="-73.04457119">
+    <!-- conflict: "5957 Main Street, Manchester, VT" Fuzzy match to "5957 Main Street, Manchester, " -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5957"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149507"/>
+  </node>
+  <node id="-819" visible="true" lat="43.17951583" lon="-73.04812622">
+    <!-- conflict: "5383 Main Street, Manchester, VT" Fuzzy match to "5383 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5383"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149764"/>
+  </node>
+  <node id="-832" visible="true" lat="43.17922048" lon="-73.05528134">
+    <!-- conflict: "102 School Street, Manchester, VT" Fuzzy match to "102 School Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149780"/>
+  </node>
+  <node id="-847" visible="true" lat="43.17893419" lon="-73.05554138">
+    <!-- conflict: "82 School Street, Manchester, VT" Fuzzy match to "82 School Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149798"/>
+  </node>
+  <node id="-866" visible="true" lat="43.17869765" lon="-73.05546016">
+    <!-- conflict: "4975 Main Street, Manchester, VT" Fuzzy match to "4975 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4975"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149818"/>
+  </node>
+  <node id="-868" visible="true" lat="43.17874272" lon="-73.05366878">
+    <!-- conflict: "80 Memorial Avenue, Manchester, VT" Fuzzy match to "80 Memorial Avenue, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Memorial Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149820"/>
+  </node>
+  <node id="-889" visible="true" lat="43.17825456" lon="-73.05218166">
+    <!-- conflict: "5143 Main Street, Manchester, VT" Fuzzy match to "5143 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5143"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149842"/>
+  </node>
+  <node id="-890" visible="true" lat="43.17838472" lon="-73.05555009">
+    <!-- conflict: "4973 Main Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "4971 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4973"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149843"/>
+  </node>
+  <node id="-892" visible="true" lat="43.17825513" lon="-73.05162185">
+    <!-- conflict: "5167 Main Street, Manchester, VT" Fuzzy match to "5167 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5167"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149845"/>
+  </node>
+  <node id="-895" visible="true" lat="43.17826786" lon="-73.05129708">
+    <!-- conflict: "5183 Main Street, Manchester, VT" Fuzzy match to "5183 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5183"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149848"/>
+  </node>
+  <node id="-899" visible="true" lat="43.17827224" lon="-73.05431365">
+    <!-- conflict: "51 Memorial Avenue, Manchester, VT" Fuzzy match to "51 Memorial Avenue, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Memorial Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149852"/>
+  </node>
+  <node id="-903" visible="true" lat="43.17829337" lon="-73.05555441">
+    <!-- conflict: "4971 Main Street, Manchester, VT" Fuzzy match to "4971 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4971"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149857"/>
+  </node>
+  <node id="-904" visible="true" lat="43.17822816" lon="-73.05193753">
+    <!-- conflict: "5151 Main Street, Manchester, VT" Fuzzy match to "5151 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5151"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149858"/>
+  </node>
+  <node id="-908" visible="true" lat="43.1781942" lon="-73.05558203">
+    <!-- conflict: "4969 Main Street, Manchester, VT" Fuzzy match to "4969 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4969"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149862"/>
+  </node>
+  <node id="-913" visible="true" lat="43.17811788" lon="-73.0555975">
+    <!-- conflict: "4967 Main Street, Manchester, VT" Fuzzy match to "4967 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4967"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149868"/>
+  </node>
+  <node id="-921" visible="true" lat="43.17804546" lon="-73.05558961">
+    <!-- conflict: "4965 Main Street, Manchester, VT" Fuzzy match to "4965 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4965"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149876"/>
+  </node>
+  <node id="-922" visible="true" lat="43.17799869" lon="-73.05419682">
+    <!-- conflict: "31 Memorial Avenue, Manchester, VT" Fuzzy match to "31 Memorial Avenue, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Memorial Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149878"/>
+  </node>
+  <node id="-926" visible="true" lat="43.17794003" lon="-73.0528472">
+    <!-- conflict: "5103 Main Street, Manchester, VT" Fuzzy match to "5103 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5103"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149882"/>
+  </node>
+  <node id="-930" visible="true" lat="43.17789111" lon="-73.05560147">
+    <!-- conflict: "4963 Main Street, Manchester, VT" Fuzzy match to "4963 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4963"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149887"/>
+  </node>
+  <node id="-933" visible="true" lat="43.1779473" lon="-73.05502236">
+    <!-- conflict: "4993 Main Street, Manchester, VT" Fuzzy match to "4993 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4993"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149891"/>
+  </node>
+  <node id="-936" visible="true" lat="43.17780553" lon="-73.05333139">
+    <!-- conflict: "5073 Main Street, Manchester, VT" Fuzzy match to "5073 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5073"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149894"/>
+  </node>
+  <node id="-939" visible="true" lat="43.17783378" lon="-73.05308937">
+    <!-- conflict: "5081 Main Street, Manchester, VT" Fuzzy match to "5081 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5081"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149898"/>
+  </node>
+  <node id="-944" visible="true" lat="43.17770536" lon="-73.05677066">
+    <!-- conflict: "58 Bonnet Street, Manchester, VT" Fuzzy match to "58 Bonnet Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Bonnet Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149903"/>
+  </node>
+  <node id="-945" visible="true" lat="43.17773264" lon="-73.05365662">
+    <!-- conflict: "5053 Main Street, Manchester, VT" Fuzzy match to "5053 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5053"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149904"/>
+  </node>
+  <node id="-946" visible="true" lat="43.17778226" lon="-73.05585653">
+    <!-- conflict: "4961 Main Street, Manchester, VT" Fuzzy match to "4961 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4961"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149905"/>
+  </node>
+  <node id="-952" visible="true" lat="43.1777021" lon="-73.05221365">
+    <!-- conflict: "34 Park Place, Manchester, VT" Fuzzy match to "34 Park Place, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Park Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149911"/>
+  </node>
+  <node id="-953" visible="true" lat="43.17773612" lon="-73.0518148">
+    <!-- conflict: "5138 Main Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "5183 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5138"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149912"/>
+  </node>
+  <node id="-956" visible="true" lat="43.17725112" lon="-73.04998513">
+    <!-- conflict: "114 Cemetery Avenue, Manchester, VT" No match in OSM, but a different address exists <5m away: "138 Cemetery Avenue, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Cemetery Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149915"/>
+  </node>
+  <node id="-963" visible="true" lat="43.17747957" lon="-73.05236926">
+    <!-- conflict: "18 Park Place, Manchester, VT" Fuzzy match to "18 Park Place, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Park Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149925"/>
+  </node>
+  <node id="-967" visible="true" lat="43.17737647" lon="-73.05593291">
+    <!-- conflict: "4933 Main Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "4913 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4933"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149931"/>
+  </node>
+  <node id="-968" visible="true" lat="43.17749116" lon="-73.05735298">
+    <!-- conflict: "39 Bonnet Street, Manchester, VT" Fuzzy match to "39 Bonnet Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Bonnet Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149932"/>
+  </node>
+  <node id="-970" visible="true" lat="43.17738374" lon="-73.05398918">
+    <!-- conflict: "5032 Main Street, Manchester, VT" Fuzzy match to "5032 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5032"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149935"/>
+  </node>
+  <node id="-973" visible="true" lat="43.17738945" lon="-73.05388755">
+    <!-- conflict: "5036 Main Street, Manchester, VT" Fuzzy match to "5036 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5036"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149938"/>
+  </node>
+  <node id="-974" visible="true" lat="43.17736816" lon="-73.05371856">
+    <!-- conflict: "5046 Main Street, Manchester, VT" Fuzzy match to "5046 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5046"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149939"/>
+  </node>
+  <node id="-975" visible="true" lat="43.17736652" lon="-73.05349603">
+    <!-- conflict: "377 Center Hill, Manchester, VT" Fuzzy match to "377 Center Hill Road, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="377"/>
+    <tag k="addr:street" v="Center Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149940"/>
+  </node>
+  <node id="-977" visible="true" lat="43.17737803" lon="-73.05424096">
+    <!-- conflict: "5018 Main Street, Manchester, VT" Fuzzy match to "5018 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5018"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149943"/>
+  </node>
+  <node id="-981" visible="true" lat="43.17729202" lon="-73.05623555">
+    <!-- conflict: "4919 Main Street, Manchester, VT" Fuzzy match to "4919 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4919"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149948"/>
+  </node>
+  <node id="-982" visible="true" lat="43.17728079" lon="-73.05604886">
+    <!-- conflict: "4927 Main Street, Manchester, VT" Fuzzy match to "4927 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4927"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149949"/>
+  </node>
+  <node id="-984" visible="true" lat="43.17730702" lon="-73.05449639">
+    <!-- conflict: "4996 Main Street, Manchester, VT" Fuzzy match to "4996 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4996"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149951"/>
+  </node>
+  <node id="-985" visible="true" lat="43.17731515" lon="-73.05309114">
+    <!-- conflict: "357 Center Hill, Manchester, VT" Fuzzy match to "357 Center Hill Road, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="357"/>
+    <tag k="addr:street" v="Center Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149952"/>
+  </node>
+  <node id="-988" visible="true" lat="43.17725363" lon="-73.05634604">
+    <!-- conflict: "4915 Main Street, Manchester, VT" Fuzzy match to "4915 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4915"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149955"/>
+  </node>
+  <node id="-990" visible="true" lat="43.17735342" lon="-73.05577897">
+    <!-- conflict: "4935 Main Street, Manchester, VT" Fuzzy match to "4935 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4935"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149957"/>
+  </node>
+  <node id="-993" visible="true" lat="43.17721006" lon="-73.05656084">
+    <!-- conflict: "4903 Main Street, Manchester, VT" Fuzzy match to "4903 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4903"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149960"/>
+  </node>
+  <node id="-994" visible="true" lat="43.17728674" lon="-73.05517534">
+    <!-- conflict: "4964 Main Street, Manchester, VT" Fuzzy match to "4964 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4964"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149962"/>
+  </node>
+  <node id="-995" visible="true" lat="43.17724068" lon="-73.0529466">
+    <!-- conflict: "345 Center Hill, Manchester, VT" Fuzzy match to "345 Center Hill Road, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="345"/>
+    <tag k="addr:street" v="Center Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149963"/>
+  </node>
+  <node id="-997" visible="true" lat="43.17720794" lon="-73.05213165">
+    <!-- conflict: "308 Center Hill, Manchester, VT" Fuzzy match to "308 Center Hill Road, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:street" v="Center Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149965"/>
+  </node>
+  <node id="-998" visible="true" lat="43.17718632" lon="-73.05678259">
+    <!-- conflict: "4895 Main Street, Manchester, VT" Fuzzy match to "4895 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4895"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149966"/>
+  </node>
+  <node id="-999" visible="true" lat="43.17723808" lon="-73.05531767">
+    <!-- conflict: "4960 Main Street, Manchester, VT" Fuzzy match to "4960 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4960"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149967"/>
+  </node>
+  <node id="-1007" visible="true" lat="43.17708969" lon="-73.05570984">
+    <!-- conflict: "4940 Main Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "1940 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4940"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149977"/>
+  </node>
+  <node id="-1009" visible="true" lat="43.17703426" lon="-73.05709509">
+    <!-- conflict: "15 Bonnet Street, Manchester, VT" Fuzzy match to "15 Bonnet Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Bonnet Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149980"/>
+  </node>
+  <node id="-1010" visible="true" lat="43.17712203" lon="-73.0554543">
+    <!-- conflict: "4952 Main Street, Manchester, VT" Fuzzy match to "4952 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4952"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149981"/>
+  </node>
+  <node id="-1014" visible="true" lat="43.17701339" lon="-73.05268096">
+    <!-- conflict: "321 Center Hill, Manchester, VT" Fuzzy match to "321 Center Hill Road, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="321"/>
+    <tag k="addr:street" v="Center Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149985"/>
+  </node>
+  <node id="-1017" visible="true" lat="43.17704796" lon="-73.05184132">
+    <!-- conflict: "13 Cemetery Avenue, Manchester, VT" Fuzzy match to "13 Cemetery Avenue, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Cemetery Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149989"/>
+  </node>
+  <node id="-1018" visible="true" lat="43.17700412" lon="-73.05585875">
+    <!-- conflict: "4928 Main Street, Manchester, VT" Fuzzy match to "4928 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4928"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149990"/>
+  </node>
+  <node id="-1021" visible="true" lat="43.17696299" lon="-73.05708329">
+    <!-- conflict: "7 Bonnet Street, Manchester, VT" Fuzzy match to "7 Bonnet Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Bonnet Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149994"/>
+  </node>
+  <node id="-1022" visible="true" lat="43.17705347" lon="-73.05141164">
+    <!-- conflict: "21 Cemetery Avenue, Manchester, VT" Fuzzy match to "21 Cemetery Avenue, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Cemetery Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149995"/>
+  </node>
+  <node id="-1023" visible="true" lat="43.17689132" lon="-73.05622863">
+    <!-- conflict: "4912 Main Street, Manchester, VT" Fuzzy match to "4912 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4912"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149997"/>
+  </node>
+  <node id="-1025" visible="true" lat="43.17686835" lon="-73.05232603">
+    <!-- conflict: "303 Center Hill, Manchester, VT" Fuzzy match to "303 Center Hill Road, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="303"/>
+    <tag k="addr:street" v="Center Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149999"/>
+  </node>
+  <node id="-1027" visible="true" lat="43.17687391" lon="-73.05727777">
+    <!-- conflict: "4869 Main Street, Manchester, VT" Fuzzy match to "4869 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4869"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150001"/>
+  </node>
+  <node id="-1028" visible="true" lat="43.17683008" lon="-73.05646106">
+    <!-- conflict: "4900 Main Street, Manchester, VT" Fuzzy match to "4900 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4900"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150002"/>
+  </node>
+  <node id="-1031" visible="true" lat="43.17676162" lon="-73.05663299">
+    <!-- conflict: "4886 Main Street, Manchester, VT" Fuzzy match to "4886 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4886"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150009"/>
+  </node>
+  <node id="-1034" visible="true" lat="43.17674624" lon="-73.05843255">
+    <!-- conflict: "4847 Main Street, Manchester, VT" Fuzzy match to "4847 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4847"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150012"/>
+  </node>
+  <node id="-1046" visible="true" lat="43.17654209" lon="-73.05666116">
+    <!-- conflict: "4858 Main Street, Manchester, VT" Fuzzy match to "4858 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4858"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150025"/>
+  </node>
+  <node id="-1049" visible="true" lat="43.17649134" lon="-73.05709411">
+    <!-- conflict: "4854 Main Street, Manchester, VT" Fuzzy match to "4854 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4854"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150028"/>
+  </node>
+  <node id="-1056" visible="true" lat="43.17630767" lon="-73.05431366">
+    <!-- conflict: "159 Depot Street, Manchester, VT" Fuzzy match to "159 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="159"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150036"/>
+  </node>
+  <node id="-1059" visible="true" lat="43.17621231" lon="-73.05811309">
+    <!-- conflict: "4803 Main Street, Manchester, VT" Fuzzy match to "4803 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4803"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150039"/>
+  </node>
+  <node id="-1061" visible="true" lat="43.17613295" lon="-73.05728541">
+    <!-- conflict: "4826 Main Street, Manchester, VT" Fuzzy match to "4826 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4826"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150041"/>
+  </node>
+  <node id="-1065" visible="true" lat="43.17622848" lon="-73.05328521">
+    <!-- conflict: "265 Depot Street, Manchester, VT" Fuzzy match to "265 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="265"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150045"/>
+  </node>
+  <node id="-1068" visible="true" lat="43.17606767" lon="-73.05716054">
+    <!-- conflict: "18 Depot Street, Manchester, VT" Fuzzy match to "18 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150050"/>
+  </node>
+  <node id="-1073" visible="true" lat="43.17601079" lon="-73.05828599">
+    <!-- conflict: "4783 Main Street, Manchester, VT" Fuzzy match to "4783 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4783"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150056"/>
+  </node>
+  <node id="-1075" visible="true" lat="43.17595102" lon="-73.05585152">
+    <!-- conflict: "65 Depot Street, Manchester, VT" Fuzzy match to "65 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150059"/>
+  </node>
+  <node id="-1076" visible="true" lat="43.17592667" lon="-73.05694599">
+    <!-- conflict: "32 Depot Street, Manchester, VT" Fuzzy match to "32 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150060"/>
+  </node>
+  <node id="-1079" visible="true" lat="43.17591715" lon="-73.05754991">
+    <!-- conflict: "4802 Main Street, Manchester, VT" Fuzzy match to "4802 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4802"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150064"/>
+  </node>
+  <node id="-1095" visible="true" lat="43.17576622" lon="-73.05562743">
+    <!-- conflict: "97 Depot Street, Manchester, VT" Fuzzy match to "97 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150083"/>
+  </node>
+  <node id="-1096" visible="true" lat="43.17572402" lon="-73.05784606">
+    <!-- conflict: "4788 Main Street, Manchester, VT" Fuzzy match to "4788 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4788"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150084"/>
+  </node>
+  <node id="-1099" visible="true" lat="43.17578443" lon="-73.05495475">
+    <!-- conflict: "135 Depot Street, Manchester, VT" Fuzzy match to "135 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150088"/>
+  </node>
+  <node id="-1101" visible="true" lat="43.17571275" lon="-73.05213082">
+    <!-- conflict: "263 Depot Street, Manchester, VT" Fuzzy match to "263 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="263"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150091"/>
+  </node>
+  <node id="-1103" visible="true" lat="43.17565917" lon="-73.05626678">
+    <!-- conflict: "72 Depot Street, Manchester, VT" Fuzzy match to "72 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150093"/>
+  </node>
+  <node id="-1119" visible="true" lat="43.17547977" lon="-73.05419207">
+    <!-- conflict: "175 Depot Street, Manchester, VT" Fuzzy match to "175 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150110"/>
+  </node>
+  <node id="-1137" visible="true" lat="43.17529296" lon="-73.05361938">
+    <!-- conflict: "203 Depot Street, Manchester, VT" Fuzzy match to "203 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="203"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150130"/>
+  </node>
+  <node id="-1138" visible="true" lat="43.17541256" lon="-73.05562189">
+    <!-- conflict: "96 Depot Street, Manchester, VT" Fuzzy match to "96 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150131"/>
+  </node>
+  <node id="-1142" visible="true" lat="43.17523193" lon="-73.05836486">
+    <!-- conflict: "4746 Main Street, Manchester, VT" Fuzzy match to "4746 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4746"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150135"/>
+  </node>
+  <node id="-1150" visible="true" lat="43.17509351" lon="-73.05474921">
+    <!-- conflict: "152 Depot Street, Manchester, VT" Fuzzy match to "152 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="152"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150144"/>
+  </node>
+  <node id="-1152" visible="true" lat="43.17502561" lon="-73.05839509">
+    <!-- conflict: "4732 Main Street, Manchester, VT" Fuzzy match to "4732 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4732"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150146"/>
+  </node>
+  <node id="-1156" visible="true" lat="43.17507171" lon="-73.04991149">
+    <!-- conflict: "38 Spruce Street, Manchester, VT" Fuzzy match to "38 Spruce Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Spruce Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150153"/>
+  </node>
+  <node id="-1157" visible="true" lat="43.17505264" lon="-73.05296325">
+    <!-- conflict: "241 Depot Street, Manchester, VT" Fuzzy match to "241 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="241"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150154"/>
+  </node>
+  <node id="-1162" visible="true" lat="43.17493777" lon="-73.05410421">
+    <!-- conflict: "188 Depot Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "180 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="188"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150159"/>
+  </node>
+  <node id="-1174" visible="true" lat="43.17476817" lon="-73.05372097">
+    <!-- conflict: "210 Depot Street, Manchester, VT" Fuzzy match to "210 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150172"/>
+  </node>
+  <node id="-1182" visible="true" lat="43.17475509" lon="-73.05330657">
+    <!-- conflict: "13 Riverside Heights, Manchester, VT" Fuzzy match to "13 Riverside Heights, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Riverside Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150180"/>
+  </node>
+  <node id="-1187" visible="true" lat="43.17469938" lon="-73.05023398">
+    <!-- conflict: "367 Depot Street, Manchester, VT" Fuzzy match to "367 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="367"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150185"/>
+  </node>
+  <node id="-1188" visible="true" lat="43.17466748" lon="-73.05989455">
+    <!-- conflict: "4659 Main Street, Manchester, VT" Fuzzy match to "4659 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4659"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150186"/>
+  </node>
+  <node id="-1192" visible="true" lat="43.17464828" lon="-73.05290222">
+    <!-- conflict: "256 Depot Street, Manchester, VT" Fuzzy match to "256 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="256"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150190"/>
+  </node>
+  <node id="-1199" visible="true" lat="43.1745611" lon="-73.06021066">
+    <!-- conflict: "4645 Main Street, Manchester, VT" Fuzzy match to "4645 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4645"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150197"/>
+  </node>
+  <node id="-1205" visible="true" lat="43.17443466" lon="-73.05249786">
+    <!-- conflict: "280 Depot Street, Manchester, VT" Fuzzy match to "280 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="280"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150206"/>
+  </node>
+  <node id="-1208" visible="true" lat="43.17435108" lon="-73.053816">
+    <!-- conflict: "34 Riverside Heights, Manchester, VT" Fuzzy match to "34 Riverside Heights, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Riverside Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150209"/>
+  </node>
+  <node id="-1209" visible="true" lat="43.17434052" lon="-73.04934975">
+    <!-- conflict: "78 Center Hill, Manchester, VT" Fuzzy match to "78 Center Hill Road, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Center Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150210"/>
+  </node>
+  <node id="-1210" visible="true" lat="43.17435387" lon="-73.05203529">
+    <!-- conflict: "302 Depot Street, Manchester, VT" Fuzzy match to "302 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="302"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150211"/>
+  </node>
+  <node id="-1219" visible="true" lat="43.17431259" lon="-73.05102539">
+    <!-- conflict: "351 Depot Street, Manchester, VT" Fuzzy match to "351 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="351"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150221"/>
+  </node>
+  <node id="-1221" visible="true" lat="43.17431395" lon="-73.05196798">
+    <!-- conflict: "306 Depot Street, Manchester, VT" Fuzzy match to "306 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="306"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150223"/>
+  </node>
+  <node id="-1226" visible="true" lat="43.1742457" lon="-73.05363316">
+    <!-- conflict: "40 Riverside Heights, Manchester, VT" Fuzzy match to "40 Riverside Heights, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Riverside Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150228"/>
+  </node>
+  <node id="-1245" visible="true" lat="43.17406474" lon="-73.05139626">
+    <!-- conflict: "342 Depot Street, Manchester, VT" Fuzzy match to "342 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="342"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150250"/>
+  </node>
+  <node id="-1251" visible="true" lat="43.17396625" lon="-73.04916913">
+    <!-- conflict: "48 Center Hill, Manchester, VT" Fuzzy match to "48 Center Hill Road, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Center Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150256"/>
+  </node>
+  <node id="-1266" visible="true" lat="43.17384719" lon="-73.05104065">
+    <!-- conflict: "366 Depot Street, Manchester, VT" Fuzzy match to "366 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="366"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150274"/>
+  </node>
+  <node id="-1272" visible="true" lat="43.17378234" lon="-73.05088043">
+    <!-- conflict: "374 Depot Street, Manchester, VT" Fuzzy match to "374 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="374"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150281"/>
+  </node>
+  <node id="-1274" visible="true" lat="43.17387436" lon="-73.02743804">
+    <!-- conflict: "1610 Depot Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "2282 VT-11, Manchester, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="1610"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150283"/>
+  </node>
+  <node id="-1278" visible="true" lat="43.17372571" lon="-73.05158715">
+    <!-- conflict: "348 Depot Street, Manchester, VT" Fuzzy match to "348 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="348"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150287"/>
+  </node>
+  <node id="-1279" visible="true" lat="43.17373688" lon="-73.04910118">
+    <!-- conflict: "32 Center Hill, Manchester, VT" Fuzzy match to "32 Center Hill Road, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Center Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150288"/>
+  </node>
+  <node id="-1281" visible="true" lat="43.17375564" lon="-73.05076598">
+    <!-- conflict: "380 Depot Street, Manchester, VT" Fuzzy match to "380 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="380"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150290"/>
+  </node>
+  <node id="-1301" visible="true" lat="43.17359121" lon="-73.04900305">
+    <!-- conflict: "467 Depot Street, Manchester, VT" Fuzzy match to "467 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="467"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150316"/>
+  </node>
+  <node id="-1316" visible="true" lat="43.17345046" lon="-73.05001068">
+    <!-- conflict: "424 Depot Street, Manchester, VT" Fuzzy match to "424 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="424"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150333"/>
+  </node>
+  <node id="-1334" visible="true" lat="43.17340391" lon="-73.0486135">
+    <!-- conflict: "497 Depot Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "491 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="497"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150354"/>
+  </node>
+  <node id="-1336" visible="true" lat="43.1732788" lon="-73.04959869">
+    <!-- conflict: "448 Depot Street, Manchester, VT" Fuzzy match to "448 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="448"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150356"/>
+  </node>
+  <node id="-1349" visible="true" lat="43.17320478" lon="-73.04929947">
+    <!-- conflict: "460 Depot Street, Manchester, VT" Fuzzy match to "460 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="460"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150370"/>
+  </node>
+  <node id="-1351" visible="true" lat="43.17320978" lon="-73.05107815">
+    <!-- conflict: "390 Depot Street, Manchester, VT" Fuzzy match to "390 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="390"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150372"/>
+  </node>
+  <node id="-1354" visible="true" lat="43.17312452" lon="-73.04922627">
+    <!-- conflict: "468 Depot Street, Manchester, VT" Fuzzy match to "468 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="468"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150376"/>
+  </node>
+  <node id="-1363" visible="true" lat="43.1731053" lon="-73.04617685">
+    <!-- conflict: "609 Depot Street, Manchester, VT" Fuzzy match to "609 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="609"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150386"/>
+  </node>
+  <node id="-1414" visible="true" lat="43.17250296" lon="-73.06388908">
+    <!-- conflict: "34 Ways Lane, Manchester, VT" Fuzzy match to "34 Ways Lane, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Ways Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150441"/>
+  </node>
+  <node id="-1458" visible="true" lat="43.17203903" lon="-73.06144714">
+    <!-- conflict: "64 Equinox Terrace, Manchester, VT" Fuzzy match to "64 Equinox Terrace, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Equinox Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150491"/>
+  </node>
+  <node id="-1479" visible="true" lat="43.17175035" lon="-73.05996386">
+    <!-- conflict: "122 Equinox Terrace, Manchester, VT" No match in OSM, but a different address exists <5m away: "122 The Meadows, Manchester, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:street" v="Equinox Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150516"/>
+  </node>
+  <node id="-1481" visible="true" lat="43.17173582" lon="-73.05961565">
+    <!-- conflict: "142 Equinox Terrace, Manchester, VT" No match in OSM, but a different address exists <5m away: "144 The Meadows, Manchester, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Equinox Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150519"/>
+  </node>
+  <node id="-1485" visible="true" lat="43.17168182" lon="-73.0603253">
+    <!-- conflict: "108 Equinox Terrace, Manchester, VT" No match in OSM, but a different address exists <5m away: "108 The Meadows, Manchester, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Equinox Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150523"/>
+  </node>
+  <node id="-1523" visible="true" lat="43.17108535" lon="-73.06486511">
+    <!-- conflict: "4313 Main Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "4334 Main Street, Manchester, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4313"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150564"/>
+  </node>
+  <node id="-1525" visible="true" lat="43.17093478" lon="-73.04806857">
+    <!-- conflict: "3660 Richville Road, Manchester, VT" No match in OSM, but a different address exists <5m away: "3660 Torrey Knoll, Manchester, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="3660"/>
+    <tag k="addr:street" v="Richville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150566"/>
+  </node>
+  <node id="-1766" visible="true" lat="43.16663034" lon="-73.07066533">
+    <!-- conflict: "107 Shepards Lane, Manchester, VT" No match in OSM, but a different address exists <5m away: "216 West Road, Manchester, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Shepards Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150829"/>
+  </node>
+  <node id="-2046" visible="true" lat="43.16178173" lon="-73.07039599">
+    <!-- conflict: "108 Union Street, Manchester, VT" Fuzzy match to "108 Union Street, Manchester Village, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Union Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151144"/>
+  </node>
+  <node id="-2190" visible="true" lat="43.15688705" lon="-73.08333587">
+    <!-- conflict: "345 Prospect Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "345 Equinox Pond Road, Manchester, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="345"/>
+    <tag k="addr:street" v="Prospect Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151307"/>
+  </node>
+  <node id="-2349" visible="true" lat="43.14315483" lon="-73.08954582">
+    <!-- conflict: "1842 Main Street, Manchester, VT" Fuzzy match to "1842 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="1842"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151486"/>
+  </node>
+  <node id="-2362" visible="true" lat="43.14036178" lon="-73.07941436">
+    <!-- conflict: "825 Hildene Road, Manchester, VT" No match in OSM, but a different address exists <5m away: "1005 Hildene Road, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="825"/>
+    <tag k="addr:street" v="Hildene Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151499"/>
+  </node>
+  <node id="-2406" visible="true" lat="43.1302905" lon="-73.08160343">
+    <!-- conflict: "904 River Road, Manchester, VT" No match in OSM, but a different address exists <5m away: " River Road, , VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="904"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151543"/>
+  </node>
+  <node id="-2495" visible="true" lat="43.17456254" lon="-73.05157673">
+    <!-- conflict: "321 Depot Street, Manchester, VT" Fuzzy match to "321 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="321"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151638"/>
+  </node>
+  <node id="-2496" visible="true" lat="43.17445958" lon="-73.05138825">
+    <!-- conflict: "341 Depot Street, Manchester, VT" Fuzzy match to "341 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="341"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151639"/>
+  </node>
+  <node id="-2497" visible="true" lat="43.17430987" lon="-73.05201904">
+    <!-- conflict: "304 Depot Street, Manchester, VT" Fuzzy match to "304 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="304"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151640"/>
+  </node>
+  <node id="-2498" visible="true" lat="43.17422485" lon="-73.05203247">
+    <!-- conflict: "308 Depot Street, Manchester, VT" Fuzzy match to "308 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151641"/>
+  </node>
+  <node id="-2499" visible="true" lat="43.17699132" lon="-73.05708006">
+    <!-- conflict: "11 Bonnet Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "7 Bonnet Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Bonnet Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151642"/>
+  </node>
+  <node id="-2501" visible="true" lat="43.17755329" lon="-73.0528455">
+    <!-- conflict: "5080 Main Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "Adam's Park Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="5080"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151644"/>
+  </node>
+  <node id="-2502" visible="true" lat="43.17745312" lon="-73.05570707">
+    <!-- conflict: "4943 Main Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "4934 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4943"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151646"/>
+  </node>
+  <node id="-2503" visible="true" lat="43.17428165" lon="-73.05034454">
+    <!-- conflict: "365 Depot Street, Manchester, VT" Fuzzy match to "365 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151648"/>
+  </node>
+  <node id="-2504" visible="true" lat="43.17509724" lon="-73.0506886">
+    <!-- conflict: "369 Depot Street, Manchester, VT" Fuzzy match to "369 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="369"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151649"/>
+  </node>
+  <node id="-2535" visible="true" lat="43.1743555" lon="-73.05212722">
+    <!-- conflict: "300 Depot Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "302 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151680"/>
+  </node>
+  <node id="-2536" visible="true" lat="43.17565201" lon="-73.05612463">
+    <!-- conflict: "74 Depot Street, Manchester, VT" Fuzzy match to "74 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151682"/>
+  </node>
+  <node id="-2580" visible="true" lat="43.1933376" lon="-73.05077024">
+    <!-- conflict: "184 Pig Pen Road, Manchester, VT" Fuzzy match to "184 Pig Pen Road, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="184"/>
+    <tag k="addr:street" v="Pig Pen Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151728"/>
+  </node>
+  <node id="-2656" visible="true" lat="43.17321936" lon="-73.04938199">
+    <!-- conflict: "454 Depot Street, Manchester, VT" Fuzzy match to "454 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="454"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151808"/>
+  </node>
+  <node id="-2657" visible="true" lat="43.17339391" lon="-73.04992595">
+    <!-- conflict: "426 Depot Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "424 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="426"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151809"/>
+  </node>
+  <node id="-2776" visible="true" lat="43.17708238" lon="-73.05886491">
+    <!-- conflict: "4849 Main Street, Manchester, VT" Fuzzy match to "4849 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4849"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151938"/>
+  </node>
+  <node id="-2839" visible="true" lat="43.1757928" lon="-73.05536129">
+    <!-- conflict: "103 Depot Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "130 Depot Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="330998"/>
+  </node>
+  <node id="-2890" visible="true" lat="43.16727518" lon="-73.07025221">
+    <!-- conflict: "116 Shepards Lane, Manchester, VT" No match in OSM, but a different address exists <5m away: "161 Shepards Lane, Manchester, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:street" v="Shepards Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341384"/>
+  </node>
+  <node id="-2905" visible="true" lat="43.1777368" lon="-73.04991326">
+    <!-- conflict: "138 Cemetery Avenue, Manchester, VT" Fuzzy match to "138 Cemetery Avenue, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="Cemetery Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345436"/>
+  </node>
+  <node id="-2934" visible="true" lat="43.17459542" lon="-73.05861781">
+    <!-- conflict: "4714 Main Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "4717 Main Street, Manchester, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4714"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610765"/>
+  </node>
+  <node id="-2935" visible="true" lat="43.17802392" lon="-73.05442155">
+    <!-- conflict: "33 Memorial Avenue, Manchester, VT" Fuzzy match to "33 Memorial Avenue, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Memorial Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611104"/>
+  </node>
+  <node id="-2995" visible="true" lat="43.17714389" lon="-73.05536255">
+    <!-- conflict: "4954 Main Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "4957 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4954"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750728"/>
+  </node>
+  <node id="-2996" visible="true" lat="43.17751098" lon="-73.05573914">
+    <!-- conflict: "4945 Main Street, Manchester, VT" No match in OSM, but a different address exists <5m away: "4934 Main Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="4945"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750730"/>
+  </node>
+  <node id="-3022" visible="true" lat="43.17748542" lon="-73.05766336">
+    <!-- conflict: "41 Bonnet Street, Manchester, VT" Fuzzy match to "41 Bonnet Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Bonnet Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754134"/>
+  </node>
+  <node id="-3028" visible="true" lat="43.17450311" lon="-73.04897274">
+    <!-- conflict: "37 Elm Street, Manchester, VT" Fuzzy match to "37 Elm Street, Manchester Center, VT" -->
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754623"/>
+  </node>
+</osm>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-109" visible="true" lat="43.37034112" lon="-72.55357375">
+    <!-- conflict: "2975 Baltimore Road, Baltimore, VT" No match in OSM, but a different address exists <5m away: "3001 Baltimore Road, Baltimore, VT" -->
+    <tag k="addr:city" v="Baltimore"/>
+    <tag k="addr:housenumber" v="2975"/>
+    <tag k="addr:street" v="Baltimore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="5839"/>
+  </node>
+  <node id="-195" visible="true" lat="43.35725398" lon="-72.57606911">
+    <!-- conflict: "200 Old Shincracker Lane, Baltimore, VT" No match in OSM, but a different address exists <5m away: "171 Harris Road, Baltimore, VT" -->
+    <tag k="addr:city" v="Baltimore"/>
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Old Shincracker Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="5928"/>
+  </node>
+</osm>

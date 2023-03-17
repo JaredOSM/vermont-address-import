@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-299" visible="true" lat="43.66244057" lon="-73.04036225">
+    <!-- conflict: "21 North Street, Proctor, VT" No match in OSM, but a different address exists <5m away: "19 North Street, Proctor, VT" -->
+    <tag k="addr:city" v="Proctor"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="North Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="194372"/>
+  </node>
+  <node id="-782" visible="true" lat="43.6522773" lon="-73.04229376">
+    <!-- conflict: "126 West Street, Proctor, VT" No match in OSM, but a different address exists <5m away: "126 Larry Lane, Proctor, VT" -->
+    <tag k="addr:city" v="Proctor"/>
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="West Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="194903"/>
+  </node>
+</osm>

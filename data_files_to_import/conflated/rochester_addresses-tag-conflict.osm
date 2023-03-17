@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-528" visible="true" lat="43.86707878" lon="-72.80856884">
+    <!-- conflict: "2 Vermont Route 100 South, Rochester, VT" No match in OSM, but a different address exists <5m away: "2 Vt Route 100 South, Rochester, VT" -->
+    <tag k="addr:city" v="Rochester"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Vermont Route 100 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="202624"/>
+  </node>
+</osm>

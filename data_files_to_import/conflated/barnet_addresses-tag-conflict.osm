@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-497" visible="true" lat="44.30711199" lon="-72.13727681">
+    <!-- conflict: "190 Campers Lane, Barnet, VT" Fuzzy match to "190 Campers Lane, West Barnet, VT" -->
+    <tag k="addr:city" v="Barnet"/>
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Campers Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="7112"/>
+  </node>
+  <node id="-687" visible="true" lat="44.29646682" lon="-72.04949951">
+    <!-- conflict: "92 Monument Circle, Barnet, VT" No match in OSM, but a different address exists <5m away: "90 Monument Circle, Barnet, " -->
+    <tag k="addr:city" v="Barnet"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Monument Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="7308"/>
+  </node>
+  <node id="-693" visible="true" lat="44.29641506" lon="-72.04948983">
+    <!-- conflict: "90 Monument Circle, Barnet, VT" Fuzzy match to "90 Monument Circle, Barnet, " -->
+    <tag k="addr:city" v="Barnet"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Monument Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="7314"/>
+  </node>
+  <node id="-914" visible="true" lat="44.26452935" lon="-72.06433393">
+    <!-- conflict: "37 Academy Lane, Barnet, VT" Fuzzy match to "37 Academy Lane, Mcindoe Falls, VT" -->
+    <tag k="addr:city" v="Barnet"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Academy Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="7537"/>
+  </node>
+  <node id="-1519" visible="true" lat="44.28883297" lon="-72.06177058">
+    <!-- conflict: "2624 U.S. Route 5 South, Barnet, VT" No match in OSM, but a different address exists <5m away: "2624 US Route 5, Barnet, VT" -->
+    <tag k="addr:city" v="Barnet"/>
+    <tag k="addr:housenumber" v="2624"/>
+    <tag k="addr:street" v="U.S. Route 5 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1051803"/>
+  </node>
+</osm>

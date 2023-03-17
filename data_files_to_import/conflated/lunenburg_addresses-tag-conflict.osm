@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-568" visible="true" lat="44.46288784" lon="-71.68266991">
+    <!-- conflict: "9 West Main Street, Lunenburg, VT" No match in OSM, but a different address exists <5m away: "10 South Lunenburg Road, Lunenburg, VT" -->
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="West Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="145574"/>
+  </node>
+  <node id="-866" visible="true" lat="44.43267662" lon="-71.67981316">
+    <!-- conflict: "1492 River Road, Lunenburg, VT" Fuzzy match to "1492 River Road, South Lunenburg, " -->
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="1492"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="145877"/>
+  </node>
+</osm>

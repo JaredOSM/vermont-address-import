@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM">
+  <node id="-399" visible="true" lat="44.09766646" lon="-72.98616802">
+    <!-- conflict: "795 East River Road, Lincoln, VT" Fuzzy match to "795 East River Road, Lincoln, " -->
+    <tag k="addr:city" v="Lincoln"/>
+    <tag k="addr:housenumber" v="795"/>
+    <tag k="addr:street" v="East River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="140401"/>
+  </node>
+  <node id="-639" visible="true" lat="44.12793158" lon="-73.01889847">
+    <!-- conflict: "409 Colby Hill Road, Lincoln, VT" No match in OSM, but a different address exists <5m away: "489 Colby Hill Road, Lincoln, VT" -->
+    <tag k="addr:city" v="Lincoln"/>
+    <tag k="addr:housenumber" v="409"/>
+    <tag k="addr:street" v="Colby Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="140646"/>
+  </node>
+</osm>
