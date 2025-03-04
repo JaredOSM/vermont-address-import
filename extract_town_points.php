@@ -53,27 +53,33 @@ ini_set('memory_limit', '4G');
 
 $towns = [];
 $i = 0;
-$inputFile = fopen($file, 'r');
-while ($line = fgets($inputFile)) {
-  $trimmedLine = rtrim($line, ",\n");
-  $feature = json_decode($trimmedLine);
-  if (is_object($feature) && $feature->type = "Feature") {
-    $i++;
-    $town = $feature->properties->TOWNNAME;
-    if (!isset($towns[$town])) {
-      $towns[$town] = [];
-    }
-    if (isset($towns[$town][$feature->properties->ESITEID])) {
-      die ("Duplicate ESITEID ".$feature->properties->ESITEID);
-    }
-    $towns[$town][$feature->properties->ESITEID] = $trimmedLine;
+$data = json_decode(file_get_contents($file));
+if (is_object($data) && $data->type == "FeatureCollection") {
+  foreach ($data->features as $feature) {
+    if (is_object($feature) && $feature->type == "Feature") {
+      $i++;
 
-    if ($verbose && $i % 3000 == 0) {
-      fwrite(STDERR, ".");
+      $town = $feature->properties->TOWNNAME;
+      if (empty($town)) {
+        die ("Missing TOWNNAME in ".json_encode($feature));
+      }
+      if (!isset($towns[$town])) {
+        $towns[$town] = [];
+      }
+      if (isset($towns[$town][$feature->properties->ESITEID])) {
+        die ("Duplicate ESITEID ".$feature->properties->ESITEID);
+      }
+      $towns[$town][$feature->properties->ESITEID] = json_encode($feature);
+
+      if ($verbose && $i % 3000 == 0) {
+        fwrite(STDERR, ".");
+      }
     }
   }
+} else {
+  die("Expected a FeatureCollection got a ".$data->type." feature.");
 }
-fclose($inputFile);
+
 
 $townFiles = [];
 $i = 0;
