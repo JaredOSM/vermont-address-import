@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-227" visible="true" lat="44.51161401" lon="-71.62561369">
+    <!-- offset: "1852 Morin Road, Guildhall, VT" Significant offset - 297.5m -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1852"/>
+    <tag k="addr:street" v="Morin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="116745"/>
+  </node>
 </osm>

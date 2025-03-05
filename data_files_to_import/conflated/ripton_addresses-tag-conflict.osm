@@ -16,16 +16,8 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="201995"/>
   </node>
-  <node id="-305" visible="true" lat="43.97446061" lon="-73.03430412">
-    <!-- conflict: "1411 Vermont Route 125, Ripton, VT" No match in OSM, but a different address exists <5m away: "1411 VT Route 125, Ripton, VT" -->
-    <tag k="addr:city" v="Ripton"/>
-    <tag k="addr:housenumber" v="1411"/>
-    <tag k="addr:street" v="Vermont Route 125"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202016"/>
-  </node>
-  <node id="-311" visible="true" lat="43.97445697" lon="-73.03394472">
-    <!-- conflict: "1439 Vermont Route 125, Ripton, VT" No match in OSM, but a different address exists <5m away: "1439 VT Route 125, Ripton, VT" -->
+  <node id="-311" visible="true" lat="43.97439875" lon="-73.03432394">
+    <!-- conflict: "1439 Vermont Route 125, Ripton, VT" No match in OSM, but a different address exists <5m away: "1411 VT Route 125, Ripton, VT" -->
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1439"/>
     <tag k="addr:street" v="Vermont Route 125"/>
@@ -64,7 +56,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202044"/>
   </node>
-  <node id="-412" visible="true" lat="43.94704233" lon="-72.97955618">
+  <node id="-411" visible="true" lat="43.94704233" lon="-72.97955618">
     <!-- conflict: "5041 Vermont Route 125, Ripton, VT" No match in OSM, but a different address exists <5m away: "5041 VT Route 125, Ripton, VT" -->
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="5041"/>
@@ -72,7 +64,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202130"/>
   </node>
-  <node id="-419" visible="true" lat="43.94059577" lon="-72.97449853">
+  <node id="-418" visible="true" lat="43.94059577" lon="-72.97449853">
     <!-- conflict: "5330 Vermont Route 125, Ripton, VT" No match in OSM, but a different address exists <5m away: "5330 VT Route 125, Ripton, VT" -->
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="5330"/>
@@ -80,28 +72,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202137"/>
   </node>
-  <node id="-489" visible="true" lat="44.00145474" lon="-72.93214549">
-    <!-- conflict: "342 National Forest Road 201, Ripton, VT" No match in OSM, but a different address exists <5m away: "342 NFR 201, Ripton, VT" -->
+  <node id="-487" visible="true" lat="44.00145474" lon="-72.93214549">
+    <!-- conflict: "342 National Forest Road 55, Ripton, VT" No match in OSM, but a different address exists <5m away: "342 NFR 201, Ripton, VT" -->
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="342"/>
-    <tag k="addr:street" v="National Forest Road 201"/>
+    <tag k="addr:street" v="National Forest Road 55"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450408"/>
-  </node>
-  <node id="-492" visible="true" lat="43.94385822" lon="-72.96823085">
-    <!-- conflict: "5709 Vermont Route 125, Ripton, VT" No match in OSM, but a different address exists <5m away: "5709 VT Route 125, Ripton, VT" -->
-    <tag k="addr:city" v="Ripton"/>
-    <tag k="addr:housenumber" v="5709"/>
-    <tag k="addr:street" v="Vermont Route 125"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="455323"/>
-  </node>
-  <node id="-493" visible="true" lat="43.94955302" lon="-72.98430597">
-    <!-- conflict: "4771 Vermont Route 125, Ripton, VT" No match in OSM, but a different address exists <5m away: "4771 VT Route 125, Ripton, VT" -->
-    <tag k="addr:city" v="Ripton"/>
-    <tag k="addr:housenumber" v="4771"/>
-    <tag k="addr:street" v="Vermont Route 125"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="455324"/>
   </node>
 </osm>

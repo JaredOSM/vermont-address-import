@@ -8,7 +8,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156843"/>
   </node>
-  <node id="-177" visible="true" lat="44.35258497" lon="-72.56633743">
+  <node id="-176" visible="true" lat="44.35258497" lon="-72.56633743">
     <!-- conflict: "12 Vermont Route 12, Middlesex, VT" No match in OSM, but a different address exists <5m away: "12 Vt Route 12, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="12"/>
@@ -16,7 +16,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156914"/>
   </node>
-  <node id="-517" visible="true" lat="44.30918256" lon="-72.57760838">
+  <node id="-339" visible="true" lat="44.33135572" lon="-72.62081511">
+    <!-- conflict: "120 Black Bear Hill, Middlesex, VT" No match in OSM, but a different address exists <5m away: "189 Molly Supple Hill Road, Middlesex, VT" -->
+    <tag k="addr:city" v="Middlesex"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Black Bear Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157081"/>
+  </node>
+  <node id="-342" visible="true" lat="44.33090209" lon="-72.61757659">
+    <!-- conflict: "344 Black Bear Hill, Middlesex, VT" No match in OSM, but a different address exists <5m away: "165 Molly Supple Hill Road, Middlesex, VT" -->
+    <tag k="addr:city" v="Middlesex"/>
+    <tag k="addr:housenumber" v="344"/>
+    <tag k="addr:street" v="Black Bear Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157084"/>
+  </node>
+  <node id="-515" visible="true" lat="44.30918256" lon="-72.57760838">
     <!-- conflict: "90 Corry Road, Middlesex, VT" Fuzzy match to "90 Corry Road, Middlesex, " -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="90"/>
@@ -24,7 +40,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157257"/>
   </node>
-  <node id="-538" visible="true" lat="44.30715253" lon="-72.58068374">
+  <node id="-536" visible="true" lat="44.30715253" lon="-72.58068374">
     <!-- conflict: "736 Vermont Route 12, Middlesex, VT" No match in OSM, but a different address exists <5m away: "736 Vt Route 12, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="736"/>
@@ -32,7 +48,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157278"/>
   </node>
-  <node id="-544" visible="true" lat="44.30676829" lon="-72.57958701">
+  <node id="-542" visible="true" lat="44.30676829" lon="-72.57958701">
     <!-- conflict: "751 Vermont Route 12, Middlesex, VT" No match in OSM, but a different address exists <5m away: "751 Vt Route 12, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="751"/>
@@ -40,7 +56,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157284"/>
   </node>
-  <node id="-564" visible="true" lat="44.30459806" lon="-72.61241139">
+  <node id="-562" visible="true" lat="44.30459806" lon="-72.61241139">
     <!-- conflict: "45 Wrenwood Lane, Middlesex, VT" No match in OSM, but a different address exists <5m away: "45 Pr 8, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="45"/>
@@ -48,7 +64,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157304"/>
   </node>
-  <node id="-580" visible="true" lat="44.30197235" lon="-72.69435301">
+  <node id="-577" visible="true" lat="44.30197235" lon="-72.69435301">
     <!-- conflict: "1115 U.S. Route 2, Middlesex, VT" Fuzzy match to "1115 US Route 2, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="1115"/>
@@ -56,7 +72,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157320"/>
   </node>
-  <node id="-638" visible="true" lat="44.29443085" lon="-72.59039374">
+  <node id="-634" visible="true" lat="44.29443085" lon="-72.59039374">
     <!-- conflict: "29 Little Hill Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "29 Pr 10, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="29"/>
@@ -64,7 +80,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157387"/>
   </node>
-  <node id="-645" visible="true" lat="44.29389278" lon="-72.58886225">
+  <node id="-641" visible="true" lat="44.29389278" lon="-72.58886225">
     <!-- conflict: "44 Little Hill Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "44 Pr 10, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="44"/>
@@ -72,7 +88,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157396"/>
   </node>
-  <node id="-653" visible="true" lat="44.29277903" lon="-72.59068582">
+  <node id="-649" visible="true" lat="44.29277903" lon="-72.59068582">
     <!-- conflict: "28 Little Hill Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "28 Pr 10, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="28"/>
@@ -80,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157404"/>
   </node>
-  <node id="-665" visible="true" lat="44.29235268" lon="-72.67761798">
+  <node id="-660" visible="true" lat="44.29235268" lon="-72.67761798">
     <!-- conflict: "896 U.S. Route 2, Middlesex, VT" Fuzzy match to "896 US Route 2, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="896"/>
@@ -88,7 +104,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157417"/>
   </node>
-  <node id="-696" visible="true" lat="44.28596877" lon="-72.60788726">
+  <node id="-691" visible="true" lat="44.28596877" lon="-72.60788726">
     <!-- conflict: "60 Upper Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "60 Upper Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="60"/>
@@ -96,7 +112,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157449"/>
   </node>
-  <node id="-705" visible="true" lat="44.2828207" lon="-72.60821653">
+  <node id="-693" visible="true" lat="44.28538237" lon="-72.60256166">
+    <!-- conflict: "750 East Hill Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "730 East Hill Road, Middlesex, VT" -->
+    <tag k="addr:city" v="Middlesex"/>
+    <tag k="addr:housenumber" v="750"/>
+    <tag k="addr:street" v="East Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157451"/>
+  </node>
+  <node id="-700" visible="true" lat="44.2828207" lon="-72.60821653">
     <!-- conflict: "108 Upper Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "108 Upper Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="108"/>
@@ -104,7 +128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157458"/>
   </node>
-  <node id="-706" visible="true" lat="44.28290871" lon="-72.60701986">
+  <node id="-701" visible="true" lat="44.28290871" lon="-72.60701986">
     <!-- conflict: "107 Upper Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "107 Upper Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="107"/>
@@ -112,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157459"/>
   </node>
-  <node id="-707" visible="true" lat="44.28212509" lon="-72.61068213">
+  <node id="-702" visible="true" lat="44.28212509" lon="-72.61068213">
     <!-- conflict: "140 Upper Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "140 Upper Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="140"/>
@@ -120,7 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157460"/>
   </node>
-  <node id="-708" visible="true" lat="44.28210174" lon="-72.60730533">
+  <node id="-703" visible="true" lat="44.28210174" lon="-72.60730533">
     <!-- conflict: "111 Upper Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "111 Upper Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="111"/>
@@ -128,7 +152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157461"/>
   </node>
-  <node id="-709" visible="true" lat="44.28187225" lon="-72.60861353">
+  <node id="-704" visible="true" lat="44.28187225" lon="-72.60861353">
     <!-- conflict: "115 Upper Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "115 Upper Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="115"/>
@@ -136,7 +160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157462"/>
   </node>
-  <node id="-710" visible="true" lat="44.2817523" lon="-72.60957077">
+  <node id="-705" visible="true" lat="44.2817523" lon="-72.60957077">
     <!-- conflict: "127 Upper Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "127 Upper Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="127"/>
@@ -144,7 +168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157463"/>
   </node>
-  <node id="-711" visible="true" lat="44.28194122" lon="-72.61181256">
+  <node id="-706" visible="true" lat="44.28194122" lon="-72.61181256">
     <!-- conflict: "142 Upper Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "142 Upper Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="142"/>
@@ -152,7 +176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157464"/>
   </node>
-  <node id="-718" visible="true" lat="44.27896485" lon="-72.61704992">
+  <node id="-713" visible="true" lat="44.27896485" lon="-72.61704992">
     <!-- conflict: "188 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "188 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="188"/>
@@ -160,7 +184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157471"/>
   </node>
-  <node id="-721" visible="true" lat="44.2777834" lon="-72.61980333">
+  <node id="-716" visible="true" lat="44.2777834" lon="-72.61980333">
     <!-- conflict: "169 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "169 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="169"/>
@@ -168,7 +192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157474"/>
   </node>
-  <node id="-725" visible="true" lat="44.2767701" lon="-72.61902821">
+  <node id="-720" visible="true" lat="44.2767701" lon="-72.61902821">
     <!-- conflict: "152 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "152 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="152"/>
@@ -176,7 +200,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157478"/>
   </node>
-  <node id="-726" visible="true" lat="44.27641322" lon="-72.62013824">
+  <node id="-721" visible="true" lat="44.27641322" lon="-72.62013824">
     <!-- conflict: "141 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "141 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="141"/>
@@ -184,7 +208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157479"/>
   </node>
-  <node id="-731" visible="true" lat="44.27598109" lon="-72.61910445">
+  <node id="-726" visible="true" lat="44.27598109" lon="-72.61910445">
     <!-- conflict: "140 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "140 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="140"/>
@@ -192,7 +216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157484"/>
   </node>
-  <node id="-734" visible="true" lat="44.27572811" lon="-72.61934975">
+  <node id="-729" visible="true" lat="44.27572811" lon="-72.61934975">
     <!-- conflict: "138 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "138 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="138"/>
@@ -200,7 +224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157487"/>
   </node>
-  <node id="-738" visible="true" lat="44.27374437" lon="-72.61948471">
+  <node id="-733" visible="true" lat="44.27374437" lon="-72.61948471">
     <!-- conflict: "106 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "106 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="106"/>
@@ -208,7 +232,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157491"/>
   </node>
-  <node id="-739" visible="true" lat="44.27383374" lon="-72.62003348">
+  <node id="-734" visible="true" lat="44.27383374" lon="-72.62003348">
     <!-- conflict: "105 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "105 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="105"/>
@@ -216,7 +240,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157492"/>
   </node>
-  <node id="-740" visible="true" lat="44.27332695" lon="-72.62017682">
+  <node id="-735" visible="true" lat="44.27332695" lon="-72.62017682">
     <!-- conflict: "99 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "99 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="99"/>
@@ -224,7 +248,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157493"/>
   </node>
-  <node id="-741" visible="true" lat="44.27273391" lon="-72.62050968">
+  <node id="-736" visible="true" lat="44.27273391" lon="-72.62050968">
     <!-- conflict: "89 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "89 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="89"/>
@@ -232,7 +256,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157494"/>
   </node>
-  <node id="-742" visible="true" lat="44.27236733" lon="-72.62044182">
+  <node id="-737" visible="true" lat="44.27236733" lon="-72.62044182">
     <!-- conflict: "83 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "83 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="83"/>
@@ -240,7 +264,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157495"/>
   </node>
-  <node id="-744" visible="true" lat="44.27148471" lon="-72.62083398">
+  <node id="-739" visible="true" lat="44.27148471" lon="-72.62083398">
     <!-- conflict: "71 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "71 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="71"/>
@@ -248,7 +272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157497"/>
   </node>
-  <node id="-745" visible="true" lat="44.27077476" lon="-72.62049488">
+  <node id="-740" visible="true" lat="44.27077476" lon="-72.62049488">
     <!-- conflict: "62 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "62 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="62"/>
@@ -256,7 +280,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157498"/>
   </node>
-  <node id="-747" visible="true" lat="44.2690906" lon="-72.6216299">
+  <node id="-742" visible="true" lat="44.2690906" lon="-72.6216299">
     <!-- conflict: "34 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "34 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="34"/>
@@ -264,7 +288,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157500"/>
   </node>
-  <node id="-748" visible="true" lat="44.26862028" lon="-72.62176395">
+  <node id="-743" visible="true" lat="44.26862028" lon="-72.62176395">
     <!-- conflict: "28 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "28 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="28"/>
@@ -272,7 +296,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157501"/>
   </node>
-  <node id="-749" visible="true" lat="44.26834632" lon="-72.62282765">
+  <node id="-744" visible="true" lat="44.26834632" lon="-72.62282765">
     <!-- conflict: "19 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "19 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="19"/>
@@ -280,7 +304,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157502"/>
   </node>
-  <node id="-750" visible="true" lat="44.26808902" lon="-72.62323118">
+  <node id="-745" visible="true" lat="44.26808902" lon="-72.62323118">
     <!-- conflict: "15 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "15 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="15"/>
@@ -288,7 +312,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157503"/>
   </node>
-  <node id="-751" visible="true" lat="44.2677415" lon="-72.62231274">
+  <node id="-746" visible="true" lat="44.2677415" lon="-72.62231274">
     <!-- conflict: "12 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "12 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="12"/>
@@ -296,7 +320,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157504"/>
   </node>
-  <node id="-752" visible="true" lat="44.26740835" lon="-72.62274792">
+  <node id="-747" visible="true" lat="44.26740835" lon="-72.62274792">
     <!-- conflict: "8 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "8 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="8"/>
@@ -304,7 +328,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157505"/>
   </node>
-  <node id="-759" visible="true" lat="44.26498595" lon="-72.62267493">
+  <node id="-752" visible="true" lat="44.26498595" lon="-72.62267493">
     <!-- conflict: "19A Bailey Meadows Road, Middlesex, VT" Fuzzy match to "19 A Bailey Meadows Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="19A"/>
@@ -312,7 +336,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157512"/>
   </node>
-  <node id="-856" visible="true" lat="44.30160168" lon="-72.58807954">
+  <node id="-849" visible="true" lat="44.30160168" lon="-72.58807954">
     <!-- conflict: "14 High Meadow Lane, Middlesex, VT" No match in OSM, but a different address exists <5m away: "78 High Meadow Lane, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="14"/>
@@ -320,7 +344,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157619"/>
   </node>
-  <node id="-863" visible="true" lat="44.3023408" lon="-72.58854876">
+  <node id="-856" visible="true" lat="44.3023408" lon="-72.58854876">
     <!-- conflict: "28 High Meadow Lane, Middlesex, VT" No match in OSM, but a different address exists <5m away: "98 High Meadow Lane, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="28"/>
@@ -328,7 +352,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157627"/>
   </node>
-  <node id="-879" visible="true" lat="44.30935466" lon="-72.57693992">
+  <node id="-872" visible="true" lat="44.30935466" lon="-72.57693992">
     <!-- conflict: "73 Corry Road, Middlesex, VT" Fuzzy match to "73 Corry Road, Middlesex, " -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="73"/>
@@ -336,7 +360,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="164147"/>
   </node>
-  <node id="-885" visible="true" lat="44.27946863" lon="-72.61608881">
+  <node id="-878" visible="true" lat="44.27946863" lon="-72.61608881">
     <!-- conflict: "190 Lower Sunnybrook Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "190 Lower Sunny Brook Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="190"/>
@@ -344,7 +368,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307751"/>
   </node>
-  <node id="-900" visible="true" lat="44.29981221" lon="-72.69351199">
+  <node id="-893" visible="true" lat="44.29981221" lon="-72.69351199">
     <!-- conflict: "59 Welch Park Drive, Middlesex, VT" No match in OSM, but a different address exists <5m away: " Welch Park Drive, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="59"/>
@@ -352,7 +376,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="331903"/>
   </node>
-  <node id="-998" visible="true" lat="44.37198501" lon="-72.6400634">
+  <node id="-955" visible="true" lat="44.29461392" lon="-72.68350277">
+    <!-- conflict: "965 U.S. Route 2, Middlesex, VT" No match in OSM, but a different address exists <5m away: " U.S. Route 2, Middlesex, VT" -->
+    <tag k="addr:city" v="Middlesex"/>
+    <tag k="addr:housenumber" v="965"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751872"/>
+  </node>
+  <node id="-1004" visible="true" lat="44.37198501" lon="-72.6400634">
     <!-- conflict: "412 North Bear Swamp Road, Middlesex, VT" No match in OSM, but a different address exists <5m away: "398 North Bear Swamp Road, Middlesex, VT" -->
     <tag k="addr:city" v="Middlesex"/>
     <tag k="addr:housenumber" v="412"/>

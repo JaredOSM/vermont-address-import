@@ -88,7 +88,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266927"/>
   </node>
-  <node id="-165" visible="true" lat="43.98171021" lon="-72.36330818">
+  <node id="-164" visible="true" lat="43.98171021" lon="-72.36330818">
     <!-- conflict: "9111 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "9111 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="9111"/>
@@ -96,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266947"/>
   </node>
-  <node id="-170" visible="true" lat="43.98089378" lon="-72.35781675">
+  <node id="-169" visible="true" lat="43.98089378" lon="-72.35781675">
     <!-- conflict: "8870 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "8870 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="8870"/>
@@ -104,7 +104,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266952"/>
   </node>
-  <node id="-174" visible="true" lat="43.97996902" lon="-72.35912322">
+  <node id="-173" visible="true" lat="43.97996902" lon="-72.35912322">
     <!-- conflict: "8795 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "8795 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="8795"/>
@@ -112,7 +112,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266956"/>
   </node>
-  <node id="-178" visible="true" lat="43.97958056" lon="-72.31859411">
+  <node id="-177" visible="true" lat="43.97958056" lon="-72.31859411">
     <!-- conflict: "117 Private Rd 4, Vershire, VT" No match in OSM, but a different address exists <5m away: "117 Private Road 4, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="117"/>
@@ -120,7 +120,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266960"/>
   </node>
-  <node id="-185" visible="true" lat="43.97788238" lon="-72.35516357">
+  <node id="-178" visible="true" lat="43.97876354" lon="-72.3561771">
+    <!-- conflict: "8707 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "8707 Vt Route 113, Vershire, VT" -->
+    <tag k="addr:city" v="Vershire"/>
+    <tag k="addr:housenumber" v="8707"/>
+    <tag k="addr:street" v="Vermont Route 113"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="266961"/>
+  </node>
+  <node id="-184" visible="true" lat="43.97784901" lon="-72.35513398">
     <!-- conflict: "8631 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "8631 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="8631"/>
@@ -128,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266967"/>
   </node>
-  <node id="-186" visible="true" lat="43.97756195" lon="-72.35462951">
+  <node id="-185" visible="true" lat="43.97756195" lon="-72.35462951">
     <!-- conflict: "8595 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "8595 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="8595"/>
@@ -136,7 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266968"/>
   </node>
-  <node id="-192" visible="true" lat="43.97677612" lon="-72.34868621">
+  <node id="-191" visible="true" lat="43.97677612" lon="-72.34868621">
     <!-- conflict: "8306 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "8306 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="8306"/>
@@ -144,7 +152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266974"/>
   </node>
-  <node id="-195" visible="true" lat="43.97630862" lon="-72.35042807">
+  <node id="-194" visible="true" lat="43.97630862" lon="-72.35042807">
     <!-- conflict: "8376 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "8376 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="8376"/>
@@ -152,7 +160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266977"/>
   </node>
-  <node id="-201" visible="true" lat="43.97560864" lon="-72.34617078">
+  <node id="-200" visible="true" lat="43.97560864" lon="-72.34617078">
     <!-- conflict: "8142 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "8142 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="8142"/>
@@ -160,7 +168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266983"/>
   </node>
-  <node id="-202" visible="true" lat="43.97501032" lon="-72.34733806">
+  <node id="-201" visible="true" lat="43.97501032" lon="-72.34733806">
     <!-- conflict: "8231 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "8231 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="8231"/>
@@ -168,7 +176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266984"/>
   </node>
-  <node id="-211" visible="true" lat="43.97297349" lon="-72.32791358">
+  <node id="-210" visible="true" lat="43.97297349" lon="-72.32791358">
     <!-- conflict: "360 Moon Meadow Drive, Vershire, VT" No match in OSM, but a different address exists <5m away: "7040 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="360"/>
@@ -176,7 +184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266993"/>
   </node>
-  <node id="-212" visible="true" lat="43.97266905" lon="-72.32102169">
+  <node id="-211" visible="true" lat="43.97266905" lon="-72.32102169">
     <!-- conflict: "126 Sugar House Lane, Vershire, VT" No match in OSM, but a different address exists <5m away: "286 North Road, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="126"/>
@@ -184,7 +192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266994"/>
   </node>
-  <node id="-215" visible="true" lat="43.97149371" lon="-72.3294553">
+  <node id="-214" visible="true" lat="43.97149371" lon="-72.3294553">
     <!-- conflict: "7259 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "7259 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="7259"/>
@@ -192,7 +200,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266997"/>
   </node>
-  <node id="-216" visible="true" lat="43.97192512" lon="-72.31760403">
+  <node id="-215" visible="true" lat="43.97192512" lon="-72.31760403">
     <!-- conflict: "327 Sugar House Lane, Vershire, VT" No match in OSM, but a different address exists <5m away: "288 North Road, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="327"/>
@@ -200,7 +208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266998"/>
   </node>
-  <node id="-218" visible="true" lat="43.97074922" lon="-72.32420403">
+  <node id="-217" visible="true" lat="43.97074922" lon="-72.32420403">
     <!-- conflict: "6946 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6946 VT-113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6946"/>
@@ -208,7 +216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267000"/>
   </node>
-  <node id="-223" visible="true" lat="43.97048002" lon="-72.32322739">
+  <node id="-222" visible="true" lat="43.97048002" lon="-72.32322739">
     <!-- conflict: "6894 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6894 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6894"/>
@@ -216,7 +224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267005"/>
   </node>
-  <node id="-227" visible="true" lat="43.97013869" lon="-72.32306998">
+  <node id="-226" visible="true" lat="43.97013869" lon="-72.32306998">
     <!-- conflict: "6881 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6881 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6881"/>
@@ -224,7 +232,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267010"/>
   </node>
-  <node id="-228" visible="true" lat="43.97020527" lon="-72.32235725">
+  <node id="-227" visible="true" lat="43.97020527" lon="-72.32235725">
     <!-- conflict: "6840 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6840 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6840"/>
@@ -232,7 +240,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267011"/>
   </node>
-  <node id="-231" visible="true" lat="43.97003008" lon="-72.32271457">
+  <node id="-230" visible="true" lat="43.97003008" lon="-72.32271457">
     <!-- conflict: "6857 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6857 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6857"/>
@@ -240,7 +248,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267014"/>
   </node>
-  <node id="-242" visible="true" lat="43.96867911" lon="-72.31879612">
+  <node id="-241" visible="true" lat="43.96867911" lon="-72.31879612">
     <!-- conflict: "6645 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6645 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6645"/>
@@ -248,7 +256,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267025"/>
   </node>
-  <node id="-245" visible="true" lat="43.96871025" lon="-72.31646557">
+  <node id="-244" visible="true" lat="43.96871025" lon="-72.31646557">
     <!-- conflict: "6470 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6470 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6470"/>
@@ -256,7 +264,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267028"/>
   </node>
-  <node id="-246" visible="true" lat="43.96828421" lon="-72.31697104">
+  <node id="-245" visible="true" lat="43.96828421" lon="-72.31697104">
     <!-- conflict: "6555 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6555 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6555"/>
@@ -264,7 +272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267029"/>
   </node>
-  <node id="-247" visible="true" lat="43.9680192" lon="-72.31530123">
+  <node id="-246" visible="true" lat="43.9680192" lon="-72.31530123">
     <!-- conflict: "6460 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6460 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6460"/>
@@ -272,7 +280,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267030"/>
   </node>
-  <node id="-248" visible="true" lat="43.96797511" lon="-72.31326313">
+  <node id="-247" visible="true" lat="43.96797511" lon="-72.31326313">
     <!-- conflict: "6402 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6402 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6402"/>
@@ -280,7 +288,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267031"/>
   </node>
-  <node id="-250" visible="true" lat="43.96769327" lon="-72.31463618">
+  <node id="-249" visible="true" lat="43.96769327" lon="-72.31463618">
     <!-- conflict: "6428 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6428 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6428"/>
@@ -288,7 +296,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267033"/>
   </node>
-  <node id="-251" visible="true" lat="43.96748932" lon="-72.31432941">
+  <node id="-250" visible="true" lat="43.96748932" lon="-72.31432941">
     <!-- conflict: "6410 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6410 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6410"/>
@@ -296,7 +304,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267034"/>
   </node>
-  <node id="-252" visible="true" lat="43.96682172" lon="-72.3143699">
+  <node id="-251" visible="true" lat="43.96682172" lon="-72.3143699">
     <!-- conflict: "6363 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6363 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6363"/>
@@ -304,7 +312,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267035"/>
   </node>
-  <node id="-258" visible="true" lat="43.96632679" lon="-72.3131913">
+  <node id="-257" visible="true" lat="43.96632679" lon="-72.3131913">
     <!-- conflict: "6319 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6319 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6319"/>
@@ -312,7 +320,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267041"/>
   </node>
-  <node id="-263" visible="true" lat="43.96550096" lon="-72.31098759">
+  <node id="-262" visible="true" lat="43.96550096" lon="-72.31098759">
     <!-- conflict: "6195 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6195 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6195"/>
@@ -320,7 +328,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267046"/>
   </node>
-  <node id="-267" visible="true" lat="43.96466429" lon="-72.30939859">
+  <node id="-266" visible="true" lat="43.96466429" lon="-72.30939859">
     <!-- conflict: "6083 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6083 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6083"/>
@@ -328,7 +336,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267050"/>
   </node>
-  <node id="-269" visible="true" lat="43.96362014" lon="-72.30729269">
+  <node id="-268" visible="true" lat="43.96362014" lon="-72.30729269">
     <!-- conflict: "5995 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "5995 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="5995"/>
@@ -336,7 +344,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267052"/>
   </node>
-  <node id="-274" visible="true" lat="43.96377288" lon="-72.30650139">
+  <node id="-273" visible="true" lat="43.96377288" lon="-72.30650139">
     <!-- conflict: "5983 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "5983 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="5983"/>
@@ -344,7 +352,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267057"/>
   </node>
-  <node id="-275" visible="true" lat="43.96395027" lon="-72.29339888">
+  <node id="-274" visible="true" lat="43.96395027" lon="-72.29339888">
     <!-- conflict: "5174 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "5174 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="5174"/>
@@ -352,7 +360,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267058"/>
   </node>
-  <node id="-277" visible="true" lat="43.96304702" lon="-72.30582427">
+  <node id="-276" visible="true" lat="43.96304702" lon="-72.30582427">
     <!-- conflict: "5985 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "5985 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="5985"/>
@@ -360,7 +368,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267060"/>
   </node>
-  <node id="-279" visible="true" lat="43.96292808" lon="-72.29351949">
+  <node id="-278" visible="true" lat="43.96292808" lon="-72.29351949">
     <!-- conflict: "5182 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "5182 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="5182"/>
@@ -368,7 +376,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267062"/>
   </node>
-  <node id="-283" visible="true" lat="43.96243286" lon="-72.3037033">
+  <node id="-282" visible="true" lat="43.96243286" lon="-72.3037033">
     <!-- conflict: "5763 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "5763 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="5763"/>
@@ -376,7 +384,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267066"/>
   </node>
-  <node id="-286" visible="true" lat="43.96207427" lon="-72.28814697">
+  <node id="-285" visible="true" lat="43.96207427" lon="-72.28814697">
     <!-- conflict: "4914 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "4914 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="4914"/>
@@ -384,7 +392,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267069"/>
   </node>
-  <node id="-289" visible="true" lat="43.96173457" lon="-72.28485532">
+  <node id="-288" visible="true" lat="43.96173457" lon="-72.28485532">
     <!-- conflict: "4742 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "4742 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="4742"/>
@@ -392,7 +400,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267072"/>
   </node>
-  <node id="-291" visible="true" lat="43.96172141" lon="-72.2968215">
+  <node id="-290" visible="true" lat="43.96172141" lon="-72.2968215">
     <!-- conflict: "5352 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "5352 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="5352"/>
@@ -400,7 +408,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267074"/>
   </node>
-  <node id="-292" visible="true" lat="43.96173095" lon="-72.28743743">
+  <node id="-291" visible="true" lat="43.96173095" lon="-72.28743743">
     <!-- conflict: "4872 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "4872 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="4872"/>
@@ -408,7 +416,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267075"/>
   </node>
-  <node id="-293" visible="true" lat="43.96189224" lon="-72.30142322">
+  <node id="-292" visible="true" lat="43.96189224" lon="-72.30142322">
     <!-- conflict: "5636 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "5636 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="5636"/>
@@ -416,7 +424,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267076"/>
   </node>
-  <node id="-303" visible="true" lat="43.96127679" lon="-72.30025504">
+  <node id="-302" visible="true" lat="43.96127679" lon="-72.30025504">
     <!-- conflict: "5562 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "5562 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="5562"/>
@@ -424,7 +432,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267086"/>
   </node>
-  <node id="-304" visible="true" lat="43.96096006" lon="-72.29838441">
+  <node id="-303" visible="true" lat="43.96096006" lon="-72.29838441">
     <!-- conflict: "5456 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "5456 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="5456"/>
@@ -432,7 +440,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267087"/>
   </node>
-  <node id="-330" visible="true" lat="43.95213443" lon="-72.277281">
+  <node id="-329" visible="true" lat="43.95213443" lon="-72.277281">
     <!-- conflict: "3935 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "3935 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="3935"/>
@@ -440,7 +448,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267113"/>
   </node>
-  <node id="-367" visible="true" lat="43.94508743" lon="-72.27194976">
+  <node id="-366" visible="true" lat="43.94508743" lon="-72.27194976">
     <!-- conflict: "3415 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "3415 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="3415"/>
@@ -448,7 +456,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267150"/>
   </node>
-  <node id="-372" visible="true" lat="43.94440841" lon="-72.26944732">
+  <node id="-371" visible="true" lat="43.94440841" lon="-72.26944732">
     <!-- conflict: "3286 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "3286 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="3286"/>
@@ -456,7 +464,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267155"/>
   </node>
-  <node id="-396" visible="true" lat="43.93886544" lon="-72.26554249">
+  <node id="-395" visible="true" lat="43.93886544" lon="-72.26554249">
     <!-- conflict: "2866 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "2866 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="2866"/>
@@ -464,7 +472,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267179"/>
   </node>
-  <node id="-397" visible="true" lat="43.93861169" lon="-72.26539611">
+  <node id="-396" visible="true" lat="43.93861169" lon="-72.26539611">
     <!-- conflict: "2852 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "2852 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="2852"/>
@@ -472,7 +480,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267181"/>
   </node>
-  <node id="-467" visible="true" lat="43.9178753" lon="-72.28186061">
+  <node id="-466" visible="true" lat="43.9178753" lon="-72.28186061">
     <!-- conflict: "158 Private Rd 5, Vershire, VT" No match in OSM, but a different address exists <5m away: "158 Private Road 5, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="158"/>
@@ -480,7 +488,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267252"/>
   </node>
-  <node id="-471" visible="true" lat="43.91702331" lon="-72.28214826">
+  <node id="-470" visible="true" lat="43.91702331" lon="-72.28214826">
     <!-- conflict: "86 Private Rd 5, Vershire, VT" No match in OSM, but a different address exists <5m away: "86 Private Road 5, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="86"/>
@@ -488,7 +496,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267256"/>
   </node>
-  <node id="-492" visible="true" lat="43.93962272" lon="-72.26571187">
+  <node id="-489" visible="true" lat="43.93962272" lon="-72.26571187">
     <!-- conflict: "2906 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "2906 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="2906"/>
@@ -496,7 +504,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267277"/>
   </node>
-  <node id="-498" visible="true" lat="43.98757025" lon="-72.36585548">
+  <node id="-495" visible="true" lat="43.98757025" lon="-72.36585548">
     <!-- conflict: "176 Private Rd 1, Vershire, VT" No match in OSM, but a different address exists <5m away: "176 Private Road 1, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="176"/>
@@ -504,7 +512,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267283"/>
   </node>
-  <node id="-508" visible="true" lat="43.99288021" lon="-72.37163717">
+  <node id="-505" visible="true" lat="43.99288021" lon="-72.37163717">
     <!-- conflict: "9788 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "9788 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="9788"/>
@@ -512,7 +520,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267293"/>
   </node>
-  <node id="-511" visible="true" lat="43.96680316" lon="-72.3066757">
+  <node id="-508" visible="true" lat="43.96680316" lon="-72.3066757">
     <!-- conflict: "6000 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "6000 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="6000"/>
@@ -520,7 +528,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267298"/>
   </node>
-  <node id="-524" visible="true" lat="43.99252186" lon="-72.31017325">
+  <node id="-521" visible="true" lat="43.99252186" lon="-72.31017325">
     <!-- conflict: "148 Private Rd 7, Vershire, VT" No match in OSM, but a different address exists <5m away: "148 Private Road 7, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="148"/>
@@ -528,7 +536,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267311"/>
   </node>
-  <node id="-536" visible="true" lat="43.97229855" lon="-72.32872914">
+  <node id="-533" visible="true" lat="43.97229855" lon="-72.32872914">
     <!-- conflict: "161 Moon Meadow Drive, Vershire, VT" No match in OSM, but a different address exists <5m away: "7042 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="161"/>
@@ -536,7 +544,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267324"/>
   </node>
-  <node id="-539" visible="true" lat="43.96375978" lon="-72.3076908">
+  <node id="-536" visible="true" lat="43.96375978" lon="-72.3076908">
     <!-- conflict: "5997 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "5997 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="5997"/>
@@ -544,7 +552,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306844"/>
   </node>
-  <node id="-562" visible="true" lat="43.95879597" lon="-72.27815072">
+  <node id="-559" visible="true" lat="43.95879597" lon="-72.27815072">
     <!-- conflict: "4542 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "4542 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="4542"/>
@@ -552,7 +560,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="332052"/>
   </node>
-  <node id="-563" visible="true" lat="43.9928152" lon="-72.37548484">
+  <node id="-560" visible="true" lat="43.9928152" lon="-72.37548484">
     <!-- conflict: "9894 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "9894 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="9894"/>

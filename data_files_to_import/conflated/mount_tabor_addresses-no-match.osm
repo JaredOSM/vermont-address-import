@@ -35,18 +35,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="172149"/>
   </node>
-  <node id="-228" visible="true" lat="43.3016226" lon="-72.98635146">
+  <node id="-228" visible="true" lat="43.35154295" lon="-72.97615565">
+    <tag k="addr:city" v="Mount Tabor"/>
+    <tag k="addr:housenumber" v="944"/>
+    <tag k="addr:street" v="Brooklyn Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610073"/>
+  </node>
+  <node id="-229" visible="true" lat="43.3016226" lon="-72.98635146">
     <tag k="addr:city" v="Mount Tabor"/>
     <tag k="addr:housenumber" v="1184"/>
     <tag k="addr:street" v="South End Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="900484"/>
-  </node>
-  <node id="-230" visible="true" lat="43.35154295" lon="-72.97615565">
-    <tag k="addr:city" v="Mount Tabor"/>
-    <tag k="addr:housenumber" v="944"/>
-    <tag k="addr:street" v="Brooklyn Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1052536"/>
   </node>
 </osm>

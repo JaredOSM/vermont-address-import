@@ -64,6 +64,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249870"/>
   </node>
+  <node id="-583" visible="true" lat="44.49382931" lon="-72.73072765">
+    <!-- conflict: "154 Edson Trace, Stowe, VT" No match in OSM, but a different address exists <5m away: "311 Edson Hill Road, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:street" v="Edson Trace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="249880"/>
+  </node>
   <node id="-587" visible="true" lat="44.49364326" lon="-72.72956935">
     <!-- conflict: "56 Edson Trace, Stowe, VT" No match in OSM, but a different address exists <5m away: "309 Edson Hill Road, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
@@ -88,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249925"/>
   </node>
-  <node id="-950" visible="true" lat="44.4818573" lon="-72.71258553">
+  <node id="-950" visible="true" lat="44.48194024" lon="-72.71252388">
     <!-- conflict: "510 Cottage Club Road, Stowe, VT" Fuzzy match to "510 Cottage Club Road, , " -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="510"/>
@@ -120,7 +128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250414"/>
   </node>
-  <node id="-1132" visible="true" lat="44.47606693" lon="-72.66559833">
+  <node id="-1132" visible="true" lat="44.47606307" lon="-72.66563823">
     <!-- conflict: "24 Snowdrift Lane, Stowe, VT" No match in OSM, but a different address exists <5m away: "86 Westview Heights Drive, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="24"/>
@@ -128,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250462"/>
   </node>
-  <node id="-1140" visible="true" lat="44.47588626" lon="-72.66581852">
+  <node id="-1140" visible="true" lat="44.47588622" lon="-72.66584779">
     <!-- conflict: "42 Snowdrift Lane, Stowe, VT" No match in OSM, but a different address exists <5m away: "86 Westview Heights Drive, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="42"/>
@@ -136,15 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250470"/>
   </node>
-  <node id="-1147" visible="true" lat="44.47569462" lon="-72.66600053">
-    <!-- conflict: "60 Snowdrift Lane, Stowe, VT" No match in OSM, but a different address exists <5m away: "86 Westview Heights Drive, Stowe, VT" -->
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Snowdrift Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="250477"/>
-  </node>
-  <node id="-1178" visible="true" lat="44.47440927" lon="-72.71664822">
+  <node id="-1178" visible="true" lat="44.47443965" lon="-72.71667751">
     <!-- conflict: "60 Luce Hill Road, Stowe, VT" No match in OSM, but a different address exists <5m away: "1994 Mountain Road, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="60"/>
@@ -192,7 +192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250869"/>
   </node>
-  <node id="-1505" visible="true" lat="44.46553996" lon="-72.68509607">
+  <node id="-1505" visible="true" lat="44.46558494" lon="-72.68525581">
     <!-- conflict: "109 Main Street, Stowe, VT" Fuzzy match to "109 South Main Street, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="109"/>
@@ -200,7 +200,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250882"/>
   </node>
-  <node id="-1524" visible="true" lat="44.46501748" lon="-72.68511347">
+  <node id="-1524" visible="true" lat="44.46510596" lon="-72.68517096">
     <!-- conflict: "112 Main Street, Stowe, VT" Fuzzy match to "112 South Main Street, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="112"/>
@@ -208,7 +208,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250905"/>
   </node>
-  <node id="-1773" visible="true" lat="44.45672082" lon="-72.72983469">
+  <node id="-1700" visible="true" lat="44.45964597" lon="-72.69776184">
+    <!-- conflict: "111 Jackson Lane, Stowe, VT" No match in OSM, but a different address exists <5m away: "306 Cady Hill Road, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Jackson Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251104"/>
+  </node>
+  <node id="-1772" visible="true" lat="44.45672082" lon="-72.72983469">
     <!-- conflict: "33 Spaulding Meadows, Stowe, VT" No match in OSM, but a different address exists <5m away: "1068 Barrows Road, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="33"/>
@@ -216,7 +224,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="251180"/>
   </node>
-  <node id="-1998" visible="true" lat="44.44862933" lon="-72.7187037">
+  <node id="-1869" visible="true" lat="44.45300791" lon="-72.72784598">
+    <!-- conflict: "34 Alpenglow Drive, Stowe, VT" No match in OSM, but a different address exists <5m away: "1313 Barrows Road, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Alpenglow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251282"/>
+  </node>
+  <node id="-1871" visible="true" lat="44.45287901" lon="-72.72842081">
+    <!-- conflict: "30 Alpenglow Drive, Stowe, VT" No match in OSM, but a different address exists <5m away: "1311 Barrows Road, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Alpenglow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251284"/>
+  </node>
+  <node id="-1996" visible="true" lat="44.44862933" lon="-72.7187037">
     <!-- conflict: "399 West Shaw Hill Road, Stowe, VT" Fuzzy match to "399 Shaw Hill Road, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="399"/>
@@ -224,7 +248,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="251415"/>
   </node>
-  <node id="-2323" visible="true" lat="44.43380253" lon="-72.71304149">
+  <node id="-2320" visible="true" lat="44.43380253" lon="-72.71304149">
     <!-- conflict: "2618 Waterbury Road, Stowe, VT" Fuzzy match to "2618 Waterbury Road, , " -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="2618"/>
@@ -232,7 +256,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="251754"/>
   </node>
-  <node id="-2421" visible="true" lat="44.42753783" lon="-72.72412593">
+  <node id="-2418" visible="true" lat="44.42753783" lon="-72.72412593">
     <!-- conflict: "526 Black Bear Run, Stowe, VT" No match in OSM, but a different address exists <5m away: " 560 Black Bear Run, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="526"/>
@@ -240,7 +264,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="251858"/>
   </node>
-  <node id="-2551" visible="true" lat="44.44618974" lon="-72.72625871">
+  <node id="-2548" visible="true" lat="44.44618974" lon="-72.72625871">
     <!-- conflict: "601 High Farms Road, Stowe, VT" No match in OSM, but a different address exists <5m away: "596 High Farms Road, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="601"/>
@@ -248,7 +272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="251996"/>
   </node>
-  <node id="-2707" visible="true" lat="44.52099577" lon="-72.77415519">
+  <node id="-2704" visible="true" lat="44.52099577" lon="-72.77415519">
     <!-- conflict: "6443 Mountain Road, Stowe, VT" Fuzzy match to "6443 Mountain Road, , " -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="6443"/>
@@ -256,7 +280,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310791"/>
   </node>
-  <node id="-3114" visible="true" lat="44.43733312" lon="-72.6999659">
+  <node id="-2796" visible="true" lat="44.4589623" lon="-72.69839182">
+    <!-- conflict: "41 Jackson Lane, Stowe, VT" No match in OSM, but a different address exists <5m away: "302 Cady Hill Road, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Jackson Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="331634"/>
+  </node>
+  <node id="-2797" visible="true" lat="44.45964422" lon="-72.69591484">
+    <!-- conflict: "38 Jackson Lane, Stowe, VT" No match in OSM, but a different address exists <5m away: "304 Cady Hill Road, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Jackson Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="331635"/>
+  </node>
+  <node id="-3110" visible="true" lat="44.43733312" lon="-72.6999659">
     <!-- conflict: "165 Clark Road, Stowe, VT" Fuzzy match to "165 Clark Road, stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="165"/>
@@ -264,7 +304,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="340819"/>
   </node>
-  <node id="-3584" visible="true" lat="44.49077084" lon="-72.73498064">
+  <node id="-3631" visible="true" lat="44.49077084" lon="-72.73498064">
     <!-- conflict: "10 Academy Way, Stowe, VT" No match in OSM, but a different address exists <5m away: "3574 Mountain Road, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="10"/>

@@ -602,7 +602,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295206"/>
   </node>
-  <node id="-359" visible="true" lat="43.15256881" lon="-72.74395751">
+  <node id="-359" visible="true" lat="43.15265958" lon="-72.74383427">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="875"/>
     <tag k="addr:street" v="West Windham Road"/>
@@ -924,7 +924,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295343"/>
   </node>
-  <node id="-492" visible="true" lat="43.19875191" lon="-72.70730477">
+  <node id="-492" visible="true" lat="43.19843142" lon="-72.7076369">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="2615"/>
     <tag k="addr:street" v="Route 121"/>
@@ -1022,7 +1022,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="330058"/>
   </node>
-  <node id="-526" visible="true" lat="43.22651482" lon="-72.71023464">
+  <node id="-526" visible="true" lat="43.22702452" lon="-72.70671066">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="308"/>
     <tag k="addr:street" v="Howard Hill Road"/>
@@ -1064,7 +1064,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345388"/>
   </node>
-  <node id="-537" visible="true" lat="43.15216161" lon="-72.7219261">
+  <node id="-537" visible="true" lat="43.15194651" lon="-72.72231242">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="4983"/>
     <tag k="addr:street" v="Windham Hill Road"/>
@@ -1141,77 +1141,126 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750254"/>
   </node>
-  <node id="-562" visible="true" lat="43.16593465" lon="-72.72561899">
-    <tag k="addr:city" v="Windham"/>
-    <tag k="addr:housenumber" v="5956"/>
-    <tag k="addr:street" v="Windham Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750700"/>
-  </node>
-  <node id="-564" visible="true" lat="43.21832947" lon="-72.71914637">
+  <node id="-563" visible="true" lat="43.21832947" lon="-72.71914637">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="95"/>
     <tag k="addr:street" v="Fairway Meadows"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751725"/>
   </node>
-  <node id="-565" visible="true" lat="43.15114743" lon="-72.74932343">
+  <node id="-564" visible="true" lat="43.15126928" lon="-72.74942151">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="1163"/>
     <tag k="addr:street" v="West Windham Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752166"/>
   </node>
-  <node id="-568" visible="true" lat="43.23251397" lon="-72.72865817">
+  <node id="-567" visible="true" lat="43.23251397" lon="-72.72865817">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="7851"/>
     <tag k="addr:street" v="Vermont Route 11"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756088"/>
   </node>
-  <node id="-569" visible="true" lat="43.13196071" lon="-72.71100412">
+  <node id="-568" visible="true" lat="43.13196071" lon="-72.71100412">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="120"/>
     <tag k="addr:street" v="Farr Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758273"/>
   </node>
-  <node id="-570" visible="true" lat="43.1355206" lon="-72.725301">
+  <node id="-569" visible="true" lat="43.1355206" lon="-72.725301">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="1224"/>
     <tag k="addr:street" v="Old Cheney Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758731"/>
   </node>
-  <node id="-573" visible="true" lat="43.17357154" lon="-72.71566829">
+  <node id="-572" visible="true" lat="43.17357154" lon="-72.71566829">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="646"/>
     <tag k="addr:street" v="Woodburn Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762433"/>
   </node>
-  <node id="-574" visible="true" lat="43.16586892" lon="-72.72487989">
+  <node id="-573" visible="true" lat="43.15142516" lon="-72.74852329">
+    <tag k="addr:city" v="Windham"/>
+    <tag k="addr:housenumber" v="1139"/>
+    <tag k="addr:street" v="West Windham Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766325"/>
+  </node>
+  <node id="-574" visible="true" lat="43.21242518" lon="-72.7233052">
+    <tag k="addr:city" v="Windham"/>
+    <tag k="addr:housenumber" v="1095"/>
+    <tag k="addr:street" v="Hitchcock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766653"/>
+  </node>
+  <node id="-576" visible="true" lat="43.22185677" lon="-72.71999829">
+    <tag k="addr:city" v="Windham"/>
+    <tag k="addr:housenumber" v="717"/>
+    <tag k="addr:street" v="Horsenail Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767169"/>
+  </node>
+  <node id="-577" visible="true" lat="43.16515434" lon="-72.73582924">
+    <tag k="addr:city" v="Windham"/>
+    <tag k="addr:housenumber" v="890"/>
+    <tag k="addr:street" v="Ingalls Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767524"/>
+  </node>
+  <node id="-578" visible="true" lat="43.14928908" lon="-72.76957825">
+    <tag k="addr:city" v="Windham"/>
+    <tag k="addr:housenumber" v="1144"/>
+    <tag k="addr:street" v="Toad Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768287"/>
+  </node>
+  <node id="-579" visible="true" lat="43.16803572" lon="-72.71615183">
+    <tag k="addr:city" v="Windham"/>
+    <tag k="addr:housenumber" v="172"/>
+    <tag k="addr:street" v="Woodburn Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769477"/>
+  </node>
+  <node id="-580" visible="true" lat="43.21212288" lon="-72.71070479">
+    <tag k="addr:city" v="Windham"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Hidden Newton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770300"/>
+  </node>
+  <node id="-581" visible="true" lat="43.21246087" lon="-72.71222874">
+    <tag k="addr:city" v="Windham"/>
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:street" v="Hidden Newton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770301"/>
+  </node>
+  <node id="-582" visible="true" lat="43.16586892" lon="-72.72487989">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="5934"/>
     <tag k="addr:street" v="Windham Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050244"/>
   </node>
-  <node id="-575" visible="true" lat="43.14918647" lon="-72.75579744">
+  <node id="-583" visible="true" lat="43.14918647" lon="-72.75579744">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="1560"/>
     <tag k="addr:street" v="West Windham Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050245"/>
   </node>
-  <node id="-576" visible="true" lat="43.22138487" lon="-72.71359447">
+  <node id="-584" visible="true" lat="43.22138487" lon="-72.71359447">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="6825"/>
     <tag k="addr:street" v="Popple Dungeon Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050359"/>
   </node>
-  <node id="-577" visible="true" lat="43.22863029" lon="-72.72746676">
+  <node id="-585" visible="true" lat="43.22863029" lon="-72.72746676">
     <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Horsenail Hill Road"/>

@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-663" visible="true" lat="43.6557472" lon="-72.87318293">
+  <node id="-156" visible="true" lat="43.66574901" lon="-72.86401034">
+    <!-- conflict: "111 Trail View Drive, Mendon, VT" No match in OSM, but a different address exists <5m away: "111 Trailview Drive, Mendon, VT" -->
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Trail View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153307"/>
+  </node>
+  <node id="-158" visible="true" lat="43.66503607" lon="-72.86416622">
+    <!-- conflict: "52 Trail View Drive, Mendon, VT" No match in OSM, but a different address exists <5m away: "52 Trailview Drive, Mendon, VT" -->
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Trail View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153309"/>
+  </node>
+  <node id="-661" visible="true" lat="43.6557472" lon="-72.87318293">
     <!-- conflict: "68 Birchwood Avenue, Mendon, VT" Fuzzy match to "68 Birchwood, Mendon, VT" -->
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="68"/>
@@ -8,7 +24,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153827"/>
   </node>
-  <node id="-717" visible="true" lat="43.656622" lon="-72.87315799">
+  <node id="-715" visible="true" lat="43.656622" lon="-72.87315799">
     <!-- conflict: "15 Birchwood Avenue, Mendon, VT" Fuzzy match to "15 Birchwood, Mendon, VT" -->
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="15"/>
@@ -16,7 +32,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="311111"/>
   </node>
-  <node id="-759" visible="true" lat="43.67308318" lon="-72.84293002">
+  <node id="-742" visible="true" lat="43.59219813" lon="-72.90352207">
+    <!-- conflict: "1510 Falls Road, Mendon, VT" No match in OSM, but a different address exists <5m away: "2790 Notch Road, Mendon, VT" -->
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1510"/>
+    <tag k="addr:street" v="Falls Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336286"/>
+  </node>
+  <node id="-756" visible="true" lat="43.67308318" lon="-72.84293002">
     <!-- conflict: "58 Windrift Ridge Road, Mendon, VT" Fuzzy match to "58 Windrift Ridge Road, Killington, VT" -->
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="58"/>
@@ -24,7 +48,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341012"/>
   </node>
-  <node id="-763" visible="true" lat="43.67282775" lon="-72.84303805">
+  <node id="-760" visible="true" lat="43.67282775" lon="-72.84303805">
     <!-- conflict: "42 Windrift Ridge Road, Mendon, VT" Fuzzy match to "42 Windrift Ridge Road, Killington, VT" -->
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="42"/>
@@ -32,7 +56,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342535"/>
   </node>
-  <node id="-764" visible="true" lat="43.67283431" lon="-72.84301353">
+  <node id="-761" visible="true" lat="43.67283431" lon="-72.84301353">
     <!-- conflict: "44 Windrift Ridge Road, Mendon, VT" Fuzzy match to "44 Windrift Ridge Road, Killington, VT" -->
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="44"/>

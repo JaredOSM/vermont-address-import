@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-470" visible="true" lat="43.86618844" lon="-73.10818888">
+  <node id="-469" visible="true" lat="43.86618844" lon="-73.10818888">
     <!-- conflict: "19 Schoolhouse Road, Leicester, VT" No match in OSM, but a different address exists <5m away: " Schoolhouse Road, Leicester, VT" -->
     <tag k="addr:city" v="Leicester"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:street" v="Schoolhouse Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139702"/>
+  </node>
+  <node id="-771" visible="true" lat="43.89714115" lon="-73.06999033">
+    <!-- conflict: "605 Kelsey Lane, Leicester, VT" Fuzzy match to "605 Kelsey Lane, Salisbury, VT" -->
+    <tag k="addr:city" v="Leicester"/>
+    <tag k="addr:housenumber" v="605"/>
+    <tag k="addr:street" v="Kelsey Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="216787"/>
   </node>
 </osm>

@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-318" visible="true" lat="44.4457163" lon="-72.41622594">
+  <node id="-151" visible="true" lat="44.47722759" lon="-72.39367568">
+    <!-- conflict: "6871 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "6871 Vt Route 14, Woodbury, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="6871"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301469"/>
+  </node>
+  <node id="-153" visible="true" lat="44.47532229" lon="-72.39542465">
+    <!-- conflict: "6673 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "6673 Vt Route 14, Woodbury, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="6673"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301471"/>
+  </node>
+  <node id="-317" visible="true" lat="44.44569437" lon="-72.41624378">
     <!-- conflict: "4017 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "4017 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="4017"/>
@@ -8,7 +24,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301637"/>
   </node>
-  <node id="-323" visible="true" lat="44.44538404" lon="-72.41623561">
+  <node id="-322" visible="true" lat="44.44537878" lon="-72.41625011">
     <!-- conflict: "3981 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3981 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3981"/>
@@ -16,7 +32,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301642"/>
   </node>
-  <node id="-329" visible="true" lat="44.44475789" lon="-72.4161562">
+  <node id="-328" visible="true" lat="44.44473836" lon="-72.41620063">
     <!-- conflict: "3935 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3935 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3935"/>
@@ -24,7 +40,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301648"/>
   </node>
-  <node id="-335" visible="true" lat="44.44407008" lon="-72.41553439">
+  <node id="-334" visible="true" lat="44.44407008" lon="-72.41553439">
     <!-- conflict: "3906 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3906 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3906"/>
@@ -32,7 +48,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301654"/>
   </node>
-  <node id="-340" visible="true" lat="44.44346456" lon="-72.41584143">
+  <node id="-339" visible="true" lat="44.44349741" lon="-72.41588577">
     <!-- conflict: "3855 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3855 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3855"/>
@@ -40,7 +56,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301659"/>
   </node>
-  <node id="-346" visible="true" lat="44.44295812" lon="-72.41573805">
+  <node id="-345" visible="true" lat="44.44296715" lon="-72.41576249">
     <!-- conflict: "3817 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3817 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3817"/>
@@ -48,7 +64,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301665"/>
   </node>
-  <node id="-356" visible="true" lat="44.44199684" lon="-72.4152029">
+  <node id="-347" visible="true" lat="44.44299061" lon="-72.4151741">
+    <!-- conflict: "3832 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3832 Vt Route 14, Woodbury, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="3832"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301667"/>
+  </node>
+  <node id="-351" visible="true" lat="44.44222917" lon="-72.41511971">
+    <!-- conflict: "3776 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3776 Vt Route 14, Woodbury, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="3776"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301671"/>
+  </node>
+  <node id="-355" visible="true" lat="44.44199684" lon="-72.4152029">
     <!-- conflict: "3744 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3744 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3744"/>
@@ -56,7 +88,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301675"/>
   </node>
-  <node id="-358" visible="true" lat="44.44163944" lon="-72.41513439">
+  <node id="-357" visible="true" lat="44.44163944" lon="-72.41513439">
     <!-- conflict: "3714 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3714 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3714"/>
@@ -64,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301677"/>
   </node>
-  <node id="-362" visible="true" lat="44.44145042" lon="-72.41551347">
+  <node id="-361" visible="true" lat="44.44143851" lon="-72.41555457">
     <!-- conflict: "3715 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3715 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3715"/>
@@ -72,7 +104,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301681"/>
   </node>
-  <node id="-379" visible="true" lat="44.44082261" lon="-72.41488258">
+  <node id="-376" visible="true" lat="44.44077644" lon="-72.41547515">
+    <!-- conflict: "3675 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3675 Vt Route 14, Woodbury, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="3675"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301696"/>
+  </node>
+  <node id="-378" visible="true" lat="44.44080116" lon="-72.41484695">
     <!-- conflict: "3664 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3664 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3664"/>
@@ -80,7 +120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301699"/>
   </node>
-  <node id="-383" visible="true" lat="44.44065146" lon="-72.41547632">
+  <node id="-382" visible="true" lat="44.44065146" lon="-72.41547632">
     <!-- conflict: "3665 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3665 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3665"/>
@@ -88,7 +128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301703"/>
   </node>
-  <node id="-389" visible="true" lat="44.44044968" lon="-72.41534313">
+  <node id="-388" visible="true" lat="44.44045634" lon="-72.41538086">
     <!-- conflict: "3655 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3655 State Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3655"/>
@@ -96,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301709"/>
   </node>
-  <node id="-390" visible="true" lat="44.44033221" lon="-72.41517616">
+  <node id="-389" visible="true" lat="44.44032458" lon="-72.41521059">
     <!-- conflict: "3639 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3639 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3639"/>
@@ -104,7 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301710"/>
   </node>
-  <node id="-394" visible="true" lat="44.44017828" lon="-72.41510255">
+  <node id="-393" visible="true" lat="44.44016353" lon="-72.41515361">
     <!-- conflict: "3623 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3623 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3623"/>
@@ -112,7 +152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301714"/>
   </node>
-  <node id="-395" visible="true" lat="44.44028166" lon="-72.41464901">
+  <node id="-394" visible="true" lat="44.44027879" lon="-72.41469008">
     <!-- conflict: "3618 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3618 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3618"/>
@@ -120,7 +160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301715"/>
   </node>
-  <node id="-400" visible="true" lat="44.43986334" lon="-72.41511307">
+  <node id="-399" visible="true" lat="44.43986763" lon="-72.41516078">
     <!-- conflict: "3613 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3613 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3613"/>
@@ -128,7 +168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301720"/>
   </node>
-  <node id="-406" visible="true" lat="44.4393622" lon="-72.41408215">
+  <node id="-405" visible="true" lat="44.43938077" lon="-72.41412984">
     <!-- conflict: "3568 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3568 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3568"/>
@@ -136,7 +176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301727"/>
   </node>
-  <node id="-410" visible="true" lat="44.43936121" lon="-72.41470789">
+  <node id="-409" visible="true" lat="44.43936551" lon="-72.4147689">
     <!-- conflict: "3571 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3571 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3571"/>
@@ -144,7 +184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301732"/>
   </node>
-  <node id="-413" visible="true" lat="44.43894346" lon="-72.41465974">
+  <node id="-412" visible="true" lat="44.43894346" lon="-72.41465974">
     <!-- conflict: "3549 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3549 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="3549"/>
@@ -152,15 +192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301735"/>
   </node>
-  <node id="-423" visible="true" lat="44.43806838" lon="-72.4133377">
-    <!-- conflict: "3456 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "3456 Vt Route 14, Woodbury, VT" -->
-    <tag k="addr:city" v="Woodbury"/>
-    <tag k="addr:housenumber" v="3456"/>
-    <tag k="addr:street" v="Vermont Route 14"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="301745"/>
-  </node>
-  <node id="-610" visible="true" lat="44.40853454" lon="-72.41918176">
+  <node id="-608" visible="true" lat="44.40853454" lon="-72.41918176">
     <!-- conflict: "1227 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "1227 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="1227"/>
@@ -168,7 +200,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301932"/>
   </node>
-  <node id="-619" visible="true" lat="44.40774536" lon="-72.41459656">
+  <node id="-612" visible="true" lat="44.40854654" lon="-72.41483148">
+    <!-- conflict: "956 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "956 Vt Route 14, Woodbury, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="956"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301936"/>
+  </node>
+  <node id="-616" visible="true" lat="44.40824408" lon="-72.41661724">
+    <!-- conflict: "1092 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "1092 Vt Route 14, Woodbury, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="1092"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301940"/>
+  </node>
+  <node id="-617" visible="true" lat="44.40771387" lon="-72.41457786">
     <!-- conflict: "976 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "976 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="976"/>
@@ -176,7 +224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301941"/>
   </node>
-  <node id="-627" visible="true" lat="44.40729725" lon="-72.41182424">
+  <node id="-625" visible="true" lat="44.40726817" lon="-72.41183344">
     <!-- conflict: "848 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "848 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="848"/>
@@ -184,7 +232,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301949"/>
   </node>
-  <node id="-640" visible="true" lat="44.40607371" lon="-72.37526224">
+  <node id="-633" visible="true" lat="44.40688128" lon="-72.4145476">
+    <!-- conflict: "1005 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "1005 Vt Route 14, Woodbury, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="1005"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301957"/>
+  </node>
+  <node id="-638" visible="true" lat="44.40607371" lon="-72.37526224">
     <!-- conflict: "281 Keene Farm Road, Woodbury, VT" Fuzzy match to "281 Keene Farm Road, Marshfield, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="281"/>
@@ -192,7 +248,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301962"/>
   </node>
-  <node id="-655" visible="true" lat="44.40532684" lon="-72.40956115">
+  <node id="-641" visible="true" lat="44.40608154" lon="-72.41001568">
+    <!-- conflict: "738 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "738 Vt Route 14, Woodbury, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="738"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301965"/>
+  </node>
+  <node id="-645" visible="true" lat="44.40570535" lon="-72.40975636">
+    <!-- conflict: "710 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "710 Vt Route 14, Woodbury, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="710"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301969"/>
+  </node>
+  <node id="-653" visible="true" lat="44.40532684" lon="-72.40956115">
     <!-- conflict: "694 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "694 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="694"/>
@@ -200,7 +272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301977"/>
   </node>
-  <node id="-657" visible="true" lat="44.40512107" lon="-72.41056411">
+  <node id="-655" visible="true" lat="44.40512529" lon="-72.41052543">
     <!-- conflict: "687 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "687 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="687"/>
@@ -208,15 +280,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301979"/>
   </node>
-  <node id="-668" visible="true" lat="44.40402243" lon="-72.40963738">
-    <!-- conflict: "588 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "588 Vt Route 14, Woodbury, VT" -->
+  <node id="-659" visible="true" lat="44.40502261" lon="-72.41072708">
+    <!-- conflict: "661 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "661 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
-    <tag k="addr:housenumber" v="588"/>
+    <tag k="addr:housenumber" v="661"/>
     <tag k="addr:street" v="Vermont Route 14"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="301991"/>
+    <tag k="ref:vcgi:esiteid" v="301983"/>
   </node>
-  <node id="-685" visible="true" lat="44.4032409" lon="-72.41105122">
+  <node id="-683" visible="true" lat="44.40323087" lon="-72.41106571">
     <!-- conflict: "527 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "527 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="527"/>
@@ -224,7 +296,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302008"/>
   </node>
-  <node id="-693" visible="true" lat="44.40304593" lon="-72.41153396">
+  <node id="-691" visible="true" lat="44.40304593" lon="-72.41153396">
     <!-- conflict: "491 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "491 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="491"/>
@@ -232,7 +304,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302016"/>
   </node>
-  <node id="-713" visible="true" lat="44.40181376" lon="-72.41143201">
+  <node id="-711" visible="true" lat="44.40178941" lon="-72.41140334">
     <!-- conflict: "358 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "358 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="358"/>
@@ -240,7 +312,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302036"/>
   </node>
-  <node id="-724" visible="true" lat="44.40114128" lon="-72.41355254">
+  <node id="-722" visible="true" lat="44.40114128" lon="-72.41355254">
     <!-- conflict: "331 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "331 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="331"/>
@@ -248,7 +320,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302047"/>
   </node>
-  <node id="-725" visible="true" lat="44.40096746" lon="-72.41209661">
+  <node id="-723" visible="true" lat="44.40096746" lon="-72.41209661">
     <!-- conflict: "356 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "356 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="356"/>
@@ -256,7 +328,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302048"/>
   </node>
-  <node id="-732" visible="true" lat="44.40052233" lon="-72.41271524">
+  <node id="-730" visible="true" lat="44.40052233" lon="-72.41271524">
     <!-- conflict: "344 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "344 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="344"/>
@@ -264,7 +336,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302055"/>
   </node>
-  <node id="-737" visible="true" lat="44.39932251" lon="-72.41374206">
+  <node id="-735" visible="true" lat="44.39933536" lon="-72.41379105">
     <!-- conflict: "215 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "215 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="215"/>
@@ -272,7 +344,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302060"/>
   </node>
-  <node id="-738" visible="true" lat="44.39920331" lon="-72.41378711">
+  <node id="-736" visible="true" lat="44.39920331" lon="-72.41378711">
     <!-- conflict: "207 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "207 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="207"/>
@@ -280,7 +352,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302061"/>
   </node>
-  <node id="-741" visible="true" lat="44.39878663" lon="-72.41390573">
+  <node id="-738" visible="true" lat="44.39897619" lon="-72.41353244">
+    <!-- conflict: "208 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "208 Vt Route 14, Woodbury, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="208"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="302063"/>
+  </node>
+  <node id="-739" visible="true" lat="44.39879185" lon="-72.41393879">
     <!-- conflict: "179 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "179 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="179"/>
@@ -288,7 +368,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302064"/>
   </node>
-  <node id="-743" visible="true" lat="44.39837815" lon="-72.41411979">
+  <node id="-741" visible="true" lat="44.39837815" lon="-72.41411979">
     <!-- conflict: "143 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "143 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="143"/>
@@ -296,7 +376,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302066"/>
   </node>
-  <node id="-749" visible="true" lat="44.39790473" lon="-72.41419133">
+  <node id="-747" visible="true" lat="44.39790473" lon="-72.41419133">
     <!-- conflict: "109 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "109 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="109"/>
@@ -304,7 +384,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302072"/>
   </node>
-  <node id="-751" visible="true" lat="44.39775782" lon="-72.41423456">
+  <node id="-749" visible="true" lat="44.39775782" lon="-72.41423456">
     <!-- conflict: "99 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "99 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="99"/>
@@ -312,7 +392,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302074"/>
   </node>
-  <node id="-752" visible="true" lat="44.39752661" lon="-72.41380391">
+  <node id="-750" visible="true" lat="44.39752661" lon="-72.41380391">
     <!-- conflict: "78 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "78 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="78"/>
@@ -320,7 +400,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302075"/>
   </node>
-  <node id="-753" visible="true" lat="44.39735225" lon="-72.41438334">
+  <node id="-751" visible="true" lat="44.39735365" lon="-72.41441109">
     <!-- conflict: "71 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "71 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="71"/>
@@ -328,7 +408,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302076"/>
   </node>
-  <node id="-761" visible="true" lat="44.39694013" lon="-72.41392401">
+  <node id="-758" visible="true" lat="44.39694013" lon="-72.41392401">
     <!-- conflict: "46 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "46 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="46"/>
@@ -336,7 +416,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302084"/>
   </node>
-  <node id="-803" visible="true" lat="44.39878935" lon="-72.41349624">
+  <node id="-788" visible="true" lat="44.47509895" lon="-72.3982172">
+    <!-- conflict: "6401 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "6493 Vt Route 14, Woodbury, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="6401"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="302115"/>
+  </node>
+  <node id="-800" visible="true" lat="44.39877737" lon="-72.41345228">
     <!-- conflict: "206 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "206 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="206"/>
@@ -344,7 +432,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302127"/>
   </node>
-  <node id="-825" visible="true" lat="44.4396661" lon="-72.41615433">
+  <node id="-822" visible="true" lat="44.4396661" lon="-72.41615433">
     <!-- conflict: "65 Valley Lake Road, Woodbury, VT" No match in OSM, but a different address exists <5m away: "69 Valley Lake Road, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="65"/>
@@ -352,12 +440,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306458"/>
   </node>
-  <node id="-829" visible="true" lat="44.39967426" lon="-72.41257996">
+  <node id="-826" visible="true" lat="44.39967426" lon="-72.41257996">
     <!-- conflict: "250 Vermont Route 14, Woodbury, VT" No match in OSM, but a different address exists <5m away: "250 Vt Route 14, Woodbury, VT" -->
     <tag k="addr:city" v="Woodbury"/>
     <tag k="addr:housenumber" v="250"/>
     <tag k="addr:street" v="Vermont Route 14"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="313800"/>
+  </node>
+  <node id="-883" visible="true" lat="44.38954215" lon="-72.39681039">
+    <!-- conflict: "1157 Bliss Road, Woodbury, VT" Fuzzy match to "1157 Bliss Road, Calais, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="1157"/>
+    <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655248"/>
   </node>
 </osm>

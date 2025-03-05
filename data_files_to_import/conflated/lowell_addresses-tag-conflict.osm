@@ -8,6 +8,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="142169"/>
   </node>
+  <node id="-582" visible="true" lat="44.77236827" lon="-72.45422886">
+    <!-- conflict: "24 Norris Mountain View Drive, Lowell, VT" No match in OSM, but a different address exists <5m away: "145 Edward Drive, Lowell, VT" -->
+    <tag k="addr:city" v="Lowell"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Norris Mountain View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="310118"/>
+  </node>
   <node id="-660" visible="true" lat="44.83882014" lon="-72.40382619">
     <!-- conflict: "255 Mountain Drive, Lowell, VT" Fuzzy match to "255 Mountain Drive, Westfield, VT" -->
     <tag k="addr:city" v="Lowell"/>

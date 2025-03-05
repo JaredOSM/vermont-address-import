@@ -40,6 +40,30 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="86279"/>
   </node>
+  <node id="-797" visible="true" lat="42.96331233" lon="-72.8909687">
+    <!-- conflict: "4 Sports Center Village Way, Dover, VT" Fuzzy match to "4 Sportscenter Village Way, Dover, VT" -->
+    <tag k="addr:city" v="Dover"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Sports Center Village Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="86390"/>
+  </node>
+  <node id="-799" visible="true" lat="42.96376044" lon="-72.89107597">
+    <!-- conflict: "8 Sports Center Village Way, Dover, VT" Fuzzy match to "8 Sportscenter Village Way, Dover, VT" -->
+    <tag k="addr:city" v="Dover"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Sports Center Village Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="86393"/>
+  </node>
+  <node id="-800" visible="true" lat="42.96338389" lon="-72.89152955">
+    <!-- conflict: "5 Sports Center Village Way, Dover, VT" Fuzzy match to "5 Sportscenter Village Way, Dover, VT" -->
+    <tag k="addr:city" v="Dover"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Sports Center Village Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="86400"/>
+  </node>
   <node id="-835" visible="true" lat="42.96549806" lon="-72.89210766">
     <!-- conflict: "13 Grand Summit Way, Dover, VT" Fuzzy match to "13 Grand Summit Way, West Dover, " -->
     <tag k="addr:city" v="Dover"/>
@@ -88,7 +112,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="88649"/>
   </node>
-  <node id="-2163" visible="true" lat="42.97578359" lon="-72.88392627">
+  <node id="-2162" visible="true" lat="42.97578359" lon="-72.88392627">
     <!-- conflict: "3 Black pne, Dover, VT" No match in OSM, but a different address exists <5m away: "3 Black Pine, Dover, VT" -->
     <tag k="addr:city" v="Dover"/>
     <tag k="addr:housenumber" v="3"/>
@@ -96,7 +120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="88821"/>
   </node>
-  <node id="-2343" visible="true" lat="42.94522236" lon="-72.87473982">
+  <node id="-2342" visible="true" lat="42.94522236" lon="-72.87473982">
     <!-- conflict: "8 Whispering Brook Way, Dover, VT" Fuzzy match to "8 Whispering Brook Way, West Dover, VT" -->
     <tag k="addr:city" v="Dover"/>
     <tag k="addr:housenumber" v="8"/>
@@ -104,7 +128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="318245"/>
   </node>
-  <node id="-2559" visible="true" lat="42.96622394" lon="-72.86493798">
+  <node id="-2563" visible="true" lat="42.96622394" lon="-72.86493798">
     <!-- conflict: "95 Hathaway Trail, Dover, VT" Fuzzy match to "95 Hathaway Trail, West Dover, VT" -->
     <tag k="addr:city" v="Dover"/>
     <tag k="addr:housenumber" v="95"/>
@@ -112,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753400"/>
   </node>
-  <node id="-2633" visible="true" lat="42.92974622" lon="-72.89084974">
+  <node id="-2692" visible="true" lat="42.92974622" lon="-72.89084974">
     <!-- conflict: "21 Hermitage Drive, Dover, VT" Fuzzy match to "21 Hermitage Road, Dover, VT" -->
     <tag k="addr:city" v="Dover"/>
     <tag k="addr:housenumber" v="21"/>

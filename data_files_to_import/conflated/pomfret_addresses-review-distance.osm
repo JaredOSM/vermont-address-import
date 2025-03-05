@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-602" visible="true" lat="43.64167094" lon="-72.48806063">
+  <node id="-595" visible="true" lat="43.64283423" lon="-72.47781834">
+    <!-- offset: "591 High Pastures Road, Pomfret, VT" Significant offset - 102.4m -->
+    <tag k="addr:city" v="Pomfret"/>
+    <tag k="addr:housenumber" v="591"/>
+    <tag k="addr:street" v="High Pastures Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="190712"/>
+  </node>
+  <node id="-596" visible="true" lat="43.64167094" lon="-72.48806063">
     <!-- offset: "1 High Pastures Road, Pomfret, VT" Significant offset - 130.6m -->
     <tag k="addr:city" v="Pomfret"/>
     <tag k="addr:housenumber" v="1"/>

@@ -80,14 +80,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265102"/>
   </node>
-  <node id="-854" visible="true" lat="44.16776663" lon="-73.2515707">
-    <!-- conflict: "5 Green Street, Vergennes, VT" No match in OSM, but a different address exists <5m away: "175 Main Street, Vergennes, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Green Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265212"/>
-  </node>
   <node id="-949" visible="true" lat="44.16787462" lon="-73.25138297">
     <!-- conflict: "165 Main Street, Vergennes, VT" No match in OSM, but a different address exists <5m away: "171 Main Street, Vergennes, VT" -->
     <tag k="addr:city" v="Vergennes"/>

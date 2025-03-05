@@ -24,7 +24,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189438"/>
   </node>
-  <node id="-254" visible="true" lat="43.53435333" lon="-72.7294937">
+  <node id="-253" visible="true" lat="43.53435333" lon="-72.7294937">
     <!-- conflict: "4212 Vermont Route 100A, Plymouth, VT" No match in OSM, but a different address exists <5m away: "4212 Vt Route 100A, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="4212"/>
@@ -32,7 +32,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189587"/>
   </node>
-  <node id="-260" visible="true" lat="43.53366088" lon="-72.7281723">
+  <node id="-259" visible="true" lat="43.53366088" lon="-72.7281723">
     <!-- conflict: "4143 Vermont Route 100A, Plymouth, VT" No match in OSM, but a different address exists <5m away: "4143 Vt Route 100A, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="4143"/>
@@ -40,7 +40,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189594"/>
   </node>
-  <node id="-263" visible="true" lat="43.53354263" lon="-72.72975921">
+  <node id="-262" visible="true" lat="43.53354263" lon="-72.72975921">
     <!-- conflict: "4193 Vermont Route 100A, Plymouth, VT" No match in OSM, but a different address exists <5m away: "4193 Vt Route 100A, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="4193"/>
@@ -48,7 +48,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189598"/>
   </node>
-  <node id="-267" visible="true" lat="43.53335571" lon="-72.72555541">
+  <node id="-266" visible="true" lat="43.53335571" lon="-72.72555541">
     <!-- conflict: "4005 Vermont Route 100A, Plymouth, VT" No match in OSM, but a different address exists <5m away: "4005 Vt Route 100A, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="4005"/>
@@ -56,7 +56,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189602"/>
   </node>
-  <node id="-271" visible="true" lat="43.53321456" lon="-72.72528076">
+  <node id="-270" visible="true" lat="43.53321456" lon="-72.72528076">
     <!-- conflict: "3987 Vermont Route 100A, Plymouth, VT" No match in OSM, but a different address exists <5m away: "3987 Vt Route 100A, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="3987"/>
@@ -64,7 +64,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189606"/>
   </node>
-  <node id="-274" visible="true" lat="43.53310945" lon="-72.74069156">
+  <node id="-273" visible="true" lat="43.53310945" lon="-72.74069156">
     <!-- conflict: "5534 Vermont Route 100, Plymouth, VT" No match in OSM, but a different address exists <5m away: "5534 Vt Route 100, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="5534"/>
@@ -72,7 +72,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189609"/>
   </node>
-  <node id="-316" visible="true" lat="43.52966086" lon="-72.73858564">
+  <node id="-315" visible="true" lat="43.52966086" lon="-72.73858564">
     <!-- conflict: "5278 Vermont Route 100, Plymouth, VT" No match in OSM, but a different address exists <5m away: "5278 Vermont Route 100A, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="5278"/>
@@ -80,7 +80,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189652"/>
   </node>
-  <node id="-470" visible="true" lat="43.49946975" lon="-72.71648406">
+  <node id="-444" visible="true" lat="43.50314714" lon="-72.72425235">
+    <!-- conflict: "3220 Vermont Route 100, Plymouth, VT" No match in OSM, but a different address exists <5m away: "3220 Vt Route 100, Plymouth, VT" -->
+    <tag k="addr:city" v="Plymouth"/>
+    <tag k="addr:housenumber" v="3220"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="189784"/>
+  </node>
+  <node id="-469" visible="true" lat="43.49946975" lon="-72.71648406">
     <!-- conflict: "2685 Vermont Route 100, Plymouth, VT" No match in OSM, but a different address exists <5m away: "2685 Vt Route 100, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="2685"/>
@@ -88,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189812"/>
   </node>
-  <node id="-478" visible="true" lat="43.49721641" lon="-72.71398601">
+  <node id="-477" visible="true" lat="43.49721641" lon="-72.71398601">
     <!-- conflict: "2487 Vermont Route 100, Plymouth, VT" No match in OSM, but a different address exists <5m away: "2487 Vt Route 100, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="2487"/>
@@ -96,7 +104,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189820"/>
   </node>
-  <node id="-484" visible="true" lat="43.49654955" lon="-72.7133259">
+  <node id="-483" visible="true" lat="43.49654955" lon="-72.7133259">
     <!-- conflict: "2473 Vermont Route 100, Plymouth, VT" No match in OSM, but a different address exists <5m away: "2473 Vt Route 100, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="2473"/>
@@ -104,7 +112,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189826"/>
   </node>
-  <node id="-696" visible="true" lat="43.46544722" lon="-72.70381602">
+  <node id="-695" visible="true" lat="43.46544722" lon="-72.70381602">
     <!-- conflict: "2 Dublin Road, Plymouth, VT" Fuzzy match to "2 Dublin Road, Ludlow, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="2"/>
@@ -112,7 +120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190043"/>
   </node>
-  <node id="-702" visible="true" lat="43.46517181" lon="-72.70532226">
+  <node id="-701" visible="true" lat="43.46517181" lon="-72.70532226">
     <!-- conflict: "26 Library Road, Plymouth, VT" Fuzzy match to "26 Library Road, Ludlow, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="26"/>
@@ -120,7 +128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190049"/>
   </node>
-  <node id="-763" visible="true" lat="43.57886282" lon="-72.76353024">
+  <node id="-762" visible="true" lat="43.57886282" lon="-72.76353024">
     <!-- conflict: "450 Pcn Road, Plymouth, VT" Fuzzy match to "450 PCN Road, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="450"/>
@@ -128,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190113"/>
   </node>
-  <node id="-781" visible="true" lat="43.53031658" lon="-72.75631902">
+  <node id="-780" visible="true" lat="43.53031658" lon="-72.75631902">
     <!-- conflict: "79 Upper Round Top Road Extension, Plymouth, VT" Fuzzy match to "79 Upper Round Top Road, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="79"/>
@@ -136,7 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190131"/>
   </node>
-  <node id="-782" visible="true" lat="43.52981325" lon="-72.75626883">
+  <node id="-781" visible="true" lat="43.52981325" lon="-72.75626883">
     <!-- conflict: "105 Upper Round Top Road Extension, Plymouth, VT" Fuzzy match to "105 Upper Round Top Road, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="105"/>
@@ -144,7 +152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190132"/>
   </node>
-  <node id="-783" visible="true" lat="43.5297801" lon="-72.75579957">
+  <node id="-782" visible="true" lat="43.5297801" lon="-72.75579957">
     <!-- conflict: "165 Upper Round Top Road Extension, Plymouth, VT" Fuzzy match to "165 Upper Round Top Road, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="165"/>
@@ -152,7 +160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190133"/>
   </node>
-  <node id="-784" visible="true" lat="43.52953833" lon="-72.75553593">
+  <node id="-783" visible="true" lat="43.52953833" lon="-72.75553593">
     <!-- conflict: "167 Upper Round Top Road Extension, Plymouth, VT" Fuzzy match to "167 Upper Round Top Road, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="167"/>
@@ -160,7 +168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190134"/>
   </node>
-  <node id="-785" visible="true" lat="43.52931311" lon="-72.75632896">
+  <node id="-784" visible="true" lat="43.52931311" lon="-72.75632896">
     <!-- conflict: "139 Upper Round Top Road Extension, Plymouth, VT" Fuzzy match to "139 Upper Round Top Road, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="139"/>
@@ -168,7 +176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190135"/>
   </node>
-  <node id="-786" visible="true" lat="43.52915692" lon="-72.75558043">
+  <node id="-785" visible="true" lat="43.52915692" lon="-72.75558043">
     <!-- conflict: "155 Upper Round Top Road Extension, Plymouth, VT" Fuzzy match to "155 Upper Round Top Road, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="155"/>
@@ -176,7 +184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190136"/>
   </node>
-  <node id="-787" visible="true" lat="43.52907839" lon="-72.75438188">
+  <node id="-786" visible="true" lat="43.52907839" lon="-72.75438188">
     <!-- conflict: "231 Upper Round Top Road Extension, Plymouth, VT" Fuzzy match to "231 Upper Round Top Road, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="231"/>
@@ -184,7 +192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190137"/>
   </node>
-  <node id="-788" visible="true" lat="43.52833109" lon="-72.75626263">
+  <node id="-787" visible="true" lat="43.52833109" lon="-72.75626263">
     <!-- conflict: "195 Upper Round Top Road Extension, Plymouth, VT" Fuzzy match to "195 Upper Round Top Road, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="195"/>
@@ -192,7 +200,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190138"/>
   </node>
-  <node id="-789" visible="true" lat="43.52942285" lon="-72.75720023">
+  <node id="-788" visible="true" lat="43.52942285" lon="-72.75720023">
     <!-- conflict: "116 Upper Round Top Road Extension, Plymouth, VT" Fuzzy match to "116 Upper Round Top Road, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="116"/>
@@ -200,7 +208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190141"/>
   </node>
-  <node id="-790" visible="true" lat="43.5287918" lon="-72.75743465">
+  <node id="-789" visible="true" lat="43.5287918" lon="-72.75743465">
     <!-- conflict: "182 Upper Round Top Road Extension, Plymouth, VT" Fuzzy match to "182 Upper Round Top Road, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="182"/>
@@ -208,7 +216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190142"/>
   </node>
-  <node id="-836" visible="true" lat="43.53341451" lon="-72.73734946">
+  <node id="-835" visible="true" lat="43.53341451" lon="-72.73734946">
     <!-- conflict: "4278 Vermont Route 100A, Plymouth, VT" No match in OSM, but a different address exists <5m away: "4278 Vt Route 100A, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="4278"/>
@@ -216,15 +224,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190190"/>
   </node>
-  <node id="-876" visible="true" lat="43.50140976" lon="-72.72060282">
-    <!-- conflict: "3110 Vermont Route 100, Plymouth, VT" No match in OSM, but a different address exists <5m away: "3110 Vt Route 100, Plymouth, VT" -->
+  <node id="-875" visible="true" lat="43.50140976" lon="-72.72060282">
+    <!-- conflict: "16 Duck Pond Drive, Plymouth, VT" No match in OSM, but a different address exists <5m away: "3110 Vt Route 100, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
-    <tag k="addr:housenumber" v="3110"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Duck Pond Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341913"/>
   </node>
-  <node id="-984" visible="true" lat="43.57731208" lon="-72.76421523">
+  <node id="-985" visible="true" lat="43.57731208" lon="-72.76421523">
     <!-- conflict: "600 Pcn Road, Plymouth, VT" Fuzzy match to "600 PCN Road, Plymouth, VT" -->
     <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="600"/>

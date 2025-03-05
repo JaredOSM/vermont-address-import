@@ -534,8 +534,8 @@
   </node>
   <node id="-197" visible="true" lat="42.92571268" lon="-72.85008668">
     <tag k="addr:city" v="Dover" />
-    <tag k="addr:housenumber" v="15" />
-    <tag k="addr:street" v="Burchard Road" />
+    <tag k="addr:housenumber" v="3" />
+    <tag k="addr:street" v="Josies Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="85735" />
   </node>
@@ -1757,7 +1757,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="85938" />
   </node>
-  <node id="-387" visible="true" lat="42.94552155" lon="-72.87786783">
+  <node id="-387" visible="true" lat="42.94564947" lon="-72.87793304">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="39" />
     <tag k="addr:street" v="Stugger Road" />
@@ -3822,7 +3822,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="86284" />
   </node>
-  <node id="-692" visible="true" lat="42.95645008" lon="-72.88013707">
+  <node id="-692" visible="true" lat="42.95652236" lon="-72.88013752">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Sunnyside Road" />
@@ -4424,6 +4424,13 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="86374" />
   </node>
+  <node id="-784" visible="true" lat="42.96057255" lon="-72.88494109">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="365" />
+    <tag k="addr:street" v="Vermont Route 100" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="86377" />
+  </node>
   <node id="-785" visible="true" lat="42.9602371" lon="-72.88798546">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="262" />
@@ -4511,21 +4518,21 @@
   <node id="-797" visible="true" lat="42.96331233" lon="-72.8909687">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="4" />
-    <tag k="addr:street" v="Sportscenter Village Way" />
+    <tag k="addr:street" v="Sports Center Village Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="86390" />
   </node>
   <node id="-799" visible="true" lat="42.96376044" lon="-72.89107597">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
-    <tag k="addr:street" v="Sportscenter Village Way" />
+    <tag k="addr:street" v="Sports Center Village Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="86393" />
   </node>
   <node id="-800" visible="true" lat="42.96338389" lon="-72.89152955">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
-    <tag k="addr:street" v="Sportscenter Village Way" />
+    <tag k="addr:street" v="Sports Center Village Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="86400" />
   </node>
@@ -5005,7 +5012,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="86524" />
   </node>
-  <node id="-876" visible="true" lat="42.97555985" lon="-72.89672549">
+  <node id="-876" visible="true" lat="42.97568631" lon="-72.89645766">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="19" />
     <tag k="addr:street" v="Bartlett Lane" />
@@ -5222,7 +5229,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="86557" />
   </node>
-  <node id="-909" visible="true" lat="42.97982074" lon="-72.89106188">
+  <node id="-909" visible="true" lat="42.97986477" lon="-72.89118985">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="42" />
     <tag k="addr:street" v="Upper Highlands Loop" />
@@ -5929,7 +5936,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="86696" />
   </node>
-  <node id="-1010" visible="true" lat="42.98085732" lon="-72.88543185">
+  <node id="-1010" visible="true" lat="42.98095196" lon="-72.88538171">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="15" />
     <tag k="addr:street" v="Ahmeek Road" />
@@ -5964,14 +5971,14 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="86702" />
   </node>
-  <node id="-1016" visible="true" lat="42.98112443" lon="-72.88758228">
+  <node id="-1016" visible="true" lat="42.98116171" lon="-72.88759343">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Ahmeek Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="86703" />
   </node>
-  <node id="-1017" visible="true" lat="42.98108855" lon="-72.88804918">
+  <node id="-1017" visible="true" lat="42.98112581" lon="-72.88806681">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="1" />
     <tag k="addr:street" v="Ahmeek Road" />
@@ -8050,9 +8057,9 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="87030" />
   </node>
-  <node id="-1343" visible="true" lat="42.92804734" lon="-72.84852358">
+  <node id="-1343" visible="true" lat="42.92792792" lon="-72.84863311">
     <tag k="addr:city" v="Dover" />
-    <tag k="addr:housenumber" v="25B" />
+    <tag k="addr:housenumber" v="25" />
     <tag k="addr:street" v="Vermont Route 100" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="87031" />
@@ -8477,7 +8484,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="87104" />
   </node>
-  <node id="-1417" visible="true" lat="42.92643065" lon="-72.82686688">
+  <node id="-1417" visible="true" lat="42.92648413" lon="-72.82693564">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="419" />
     <tag k="addr:street" v="Dover Hill Road" />
@@ -9884,7 +9891,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="87487" />
   </node>
-  <node id="-1740" visible="true" lat="42.96766294" lon="-72.89429374">
+  <node id="-1740" visible="true" lat="42.96795346" lon="-72.8943271">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="21" />
     <tag k="addr:street" v="Mount Snow Road" />
@@ -10108,7 +10115,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="87567" />
   </node>
-  <node id="-1782" visible="true" lat="42.98154714" lon="-72.88364992">
+  <node id="-1782" visible="true" lat="42.98162711" lon="-72.88371583">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="293" />
     <tag k="addr:street" v="Blue Brook Road" />
@@ -10276,7 +10283,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="87623" />
   </node>
-  <node id="-1825" visible="true" lat="42.94517485" lon="-72.87752898">
+  <node id="-1825" visible="true" lat="42.9452818" lon="-72.87760096">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="99" />
     <tag k="addr:street" v="Kingswood Road" />
@@ -10801,7 +10808,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="87757" />
   </node>
-  <node id="-1955" visible="true" lat="42.92533034" lon="-72.82960802">
+  <node id="-1955" visible="true" lat="42.92520682" lon="-72.82940195">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="435" />
     <tag k="addr:street" v="Dover Hill Road" />
@@ -11263,7 +11270,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="87864" />
   </node>
-  <node id="-2061" visible="true" lat="42.96339324" lon="-72.78234811">
+  <node id="-2061" visible="true" lat="42.96475118" lon="-72.78461636">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="47" />
     <tag k="addr:street" v="Locust Heights" />
@@ -11767,3283 +11774,3710 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88790" />
   </node>
-  <node id="-2155" visible="true" lat="42.92788696" lon="-72.84872489">
-    <tag k="addr:city" v="Dover" />
-    <tag k="addr:housenumber" v="25A" />
-    <tag k="addr:street" v="Vermont Route 100" />
-    <tag k="addr:state" v="VT" />
-    <tag k="ref:vcgi:esiteid" v="88791" />
-  </node>
-  <node id="-2156" visible="true" lat="42.95123722" lon="-72.7667194">
+  <node id="-2155" visible="true" lat="42.95123722" lon="-72.7667194">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="6" />
     <tag k="addr:street" v="Dover Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88805" />
   </node>
-  <node id="-2157" visible="true" lat="42.93479203" lon="-72.7761409">
+  <node id="-2156" visible="true" lat="42.93479203" lon="-72.7761409">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="32" />
     <tag k="addr:street" v="Carroll Trail" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88806" />
   </node>
-  <node id="-2158" visible="true" lat="42.94073205" lon="-72.80350926">
+  <node id="-2157" visible="true" lat="42.94073205" lon="-72.80350926">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="257" />
     <tag k="addr:street" v="Dover Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88807" />
   </node>
-  <node id="-2159" visible="true" lat="42.97449455" lon="-72.88104661">
+  <node id="-2158" visible="true" lat="42.97449455" lon="-72.88104661">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="35" />
     <tag k="addr:street" v="Gaye Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88808" />
   </node>
-  <node id="-2160" visible="true" lat="42.95701745" lon="-72.89086432">
+  <node id="-2159" visible="true" lat="42.95701745" lon="-72.89086432">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="41" />
     <tag k="addr:street" v="Carinthia Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88809" />
   </node>
-  <node id="-2161" visible="true" lat="42.95048461" lon="-72.87719384">
+  <node id="-2160" visible="true" lat="42.95048461" lon="-72.87719384">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Fox Meadow Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88813" />
   </node>
-  <node id="-2162" visible="true" lat="42.95036337" lon="-72.87758619">
+  <node id="-2161" visible="true" lat="42.95036337" lon="-72.87758619">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Fox Meadow Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88818" />
   </node>
-  <node id="-2163" visible="true" lat="42.97578359" lon="-72.88392627">
+  <node id="-2162" visible="true" lat="42.97578359" lon="-72.88392627">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Black pne" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88821" />
   </node>
-  <node id="-2164" visible="true" lat="42.97445434" lon="-72.89866496">
+  <node id="-2163" visible="true" lat="42.97445434" lon="-72.89866496">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="32" />
     <tag k="addr:street" v="Snow Vidda Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88823" />
   </node>
-  <node id="-2165" visible="true" lat="42.96775521" lon="-72.88929637">
+  <node id="-2164" visible="true" lat="42.96775521" lon="-72.88929637">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="316" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88834" />
   </node>
-  <node id="-2166" visible="true" lat="42.9683554" lon="-72.88942682">
+  <node id="-2165" visible="true" lat="42.9683554" lon="-72.88942682">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="6" />
     <tag k="addr:street" v="Tamarack Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88835" />
   </node>
-  <node id="-2167" visible="true" lat="42.96906797" lon="-72.88904491">
+  <node id="-2166" visible="true" lat="42.96906797" lon="-72.88904491">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="328" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88836" />
   </node>
-  <node id="-2168" visible="true" lat="42.96939397" lon="-72.89026038">
+  <node id="-2167" visible="true" lat="42.96939397" lon="-72.89026038">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="327" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88837" />
   </node>
-  <node id="-2169" visible="true" lat="42.97011433" lon="-72.88972536">
+  <node id="-2168" visible="true" lat="42.97011433" lon="-72.88972536">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="332" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88838" />
   </node>
-  <node id="-2170" visible="true" lat="42.97186254" lon="-72.89275173">
+  <node id="-2169" visible="true" lat="42.97186254" lon="-72.89275173">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="27" />
     <tag k="addr:street" v="North Access Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88841" />
   </node>
-  <node id="-2171" visible="true" lat="42.94957538" lon="-72.88899152">
+  <node id="-2170" visible="true" lat="42.94957538" lon="-72.88899152">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="2" />
     <tag k="addr:street" v="Alpine Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88846" />
   </node>
-  <node id="-2172" visible="true" lat="42.94375934" lon="-72.86543122">
+  <node id="-2171" visible="true" lat="42.94375934" lon="-72.86543122">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="16" />
     <tag k="addr:street" v="Country Club Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88852" />
   </node>
-  <node id="-2173" visible="true" lat="42.94250549" lon="-72.86740544">
+  <node id="-2172" visible="true" lat="42.94250549" lon="-72.86740544">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="31" />
     <tag k="addr:street" v="Country Club Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88853" />
   </node>
-  <node id="-2174" visible="true" lat="42.93088116" lon="-72.84896231">
+  <node id="-2173" visible="true" lat="42.93088116" lon="-72.84896231">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="26" />
     <tag k="addr:street" v="Dover Green Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88855" />
   </node>
-  <node id="-2175" visible="true" lat="42.94153025" lon="-72.86856407">
+  <node id="-2174" visible="true" lat="42.94153025" lon="-72.86856407">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Maple Hill Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88857" />
   </node>
-  <node id="-2176" visible="true" lat="42.94554089" lon="-72.86530137">
+  <node id="-2175" visible="true" lat="42.94554089" lon="-72.86530137">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Mountain Park Plaza" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88858" />
   </node>
-  <node id="-2177" visible="true" lat="42.94600007" lon="-72.7995881">
+  <node id="-2176" visible="true" lat="42.94600007" lon="-72.7995881">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="160" />
     <tag k="addr:street" v="Taft Brook Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88859" />
   </node>
-  <node id="-2178" visible="true" lat="42.96324315" lon="-72.89207981">
+  <node id="-2177" visible="true" lat="42.96324315" lon="-72.89207981">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="2" />
     <tag k="addr:street" v="Townhouse Square" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88862" />
   </node>
-  <node id="-2179" visible="true" lat="42.9445471" lon="-72.79476578">
+  <node id="-2178" visible="true" lat="42.9445471" lon="-72.79476578">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Snow Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88863" />
   </node>
-  <node id="-2180" visible="true" lat="42.93208235" lon="-72.81318787">
+  <node id="-2179" visible="true" lat="42.93208235" lon="-72.81318787">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="10" />
     <tag k="addr:street" v="Sugar House Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88864" />
   </node>
-  <node id="-2181" visible="true" lat="42.94256019" lon="-72.84573931">
+  <node id="-2180" visible="true" lat="42.94256019" lon="-72.84573931">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="33A" />
     <tag k="addr:street" v="Summit Meadows Circle" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88865" />
   </node>
-  <node id="-2182" visible="true" lat="42.9414936" lon="-72.84567184">
+  <node id="-2181" visible="true" lat="42.9414936" lon="-72.84567184">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="7" />
     <tag k="addr:street" v="Summit Meadows Circle" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88866" />
   </node>
-  <node id="-2183" visible="true" lat="42.92829231" lon="-72.81177301">
+  <node id="-2182" visible="true" lat="42.92829231" lon="-72.81177301">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="39" />
     <tag k="addr:street" v="Sugar House Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88867" />
   </node>
-  <node id="-2184" visible="true" lat="42.94998247" lon="-72.87027311">
+  <node id="-2183" visible="true" lat="42.94998247" lon="-72.87027311">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Hathaway Trail" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88869" />
   </node>
-  <node id="-2185" visible="true" lat="42.9314053" lon="-72.86387348">
+  <node id="-2184" visible="true" lat="42.9314053" lon="-72.86387348">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Grouse Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88870" />
   </node>
-  <node id="-2186" visible="true" lat="42.93359071" lon="-72.78217801">
+  <node id="-2185" visible="true" lat="42.93359071" lon="-72.78217801">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="95" />
     <tag k="addr:street" v="Yeaw Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88872" />
   </node>
-  <node id="-2187" visible="true" lat="42.96843379" lon="-72.8889441">
+  <node id="-2186" visible="true" lat="42.96843379" lon="-72.8889441">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Tamarack Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88873" />
   </node>
-  <node id="-2188" visible="true" lat="42.95402626" lon="-72.87798976">
+  <node id="-2187" visible="true" lat="42.95402626" lon="-72.87798976">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="17" />
     <tag k="addr:street" v="Virginia Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88874" />
   </node>
-  <node id="-2189" visible="true" lat="42.92946049" lon="-72.86368085">
+  <node id="-2188" visible="true" lat="42.92946049" lon="-72.86368085">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="12" />
     <tag k="addr:street" v="Partridge Run Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88875" />
   </node>
-  <node id="-2190" visible="true" lat="42.93126283" lon="-72.86508743">
+  <node id="-2189" visible="true" lat="42.93126283" lon="-72.86508743">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="40" />
     <tag k="addr:street" v="Airport Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88876" />
   </node>
-  <node id="-2191" visible="true" lat="42.93660529" lon="-72.81855764">
+  <node id="-2190" visible="true" lat="42.93660529" lon="-72.81855764">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="38" />
     <tag k="addr:street" v="Antler Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88878" />
   </node>
-  <node id="-2192" visible="true" lat="42.93448016" lon="-72.82094243">
+  <node id="-2191" visible="true" lat="42.93448016" lon="-72.82094243">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="61" />
     <tag k="addr:street" v="Antler Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88879" />
   </node>
-  <node id="-2193" visible="true" lat="42.9501341" lon="-72.77715399">
+  <node id="-2192" visible="true" lat="42.9501341" lon="-72.77715399">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="33" />
     <tag k="addr:street" v="Brickyard Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88880" />
   </node>
-  <node id="-2194" visible="true" lat="42.95432439" lon="-72.85012935">
+  <node id="-2193" visible="true" lat="42.95432439" lon="-72.85012935">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="19" />
     <tag k="addr:street" v="Buckboard Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88881" />
   </node>
-  <node id="-2195" visible="true" lat="42.9542439" lon="-72.85098659">
+  <node id="-2194" visible="true" lat="42.9542439" lon="-72.85098659">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="24" />
     <tag k="addr:street" v="Buckboard Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88882" />
   </node>
-  <node id="-2196" visible="true" lat="42.92978606" lon="-72.79166511">
+  <node id="-2195" visible="true" lat="42.92978606" lon="-72.79166511">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="92" />
     <tag k="addr:street" v="Captain Copeland Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88883" />
   </node>
-  <node id="-2197" visible="true" lat="42.95518777" lon="-72.83962834">
+  <node id="-2196" visible="true" lat="42.95518777" lon="-72.83962834">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="45" />
     <tag k="addr:street" v="Cheney Brook Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88885" />
   </node>
-  <node id="-2198" visible="true" lat="42.94108814" lon="-72.86761539">
+  <node id="-2197" visible="true" lat="42.94108814" lon="-72.86761539">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="2" />
     <tag k="addr:street" v="Circle View Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88886" />
   </node>
-  <node id="-2199" visible="true" lat="42.95541168" lon="-72.81971281">
+  <node id="-2198" visible="true" lat="42.95541168" lon="-72.81971281">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="65" />
     <tag k="addr:street" v="Colonial Ridge Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88887" />
   </node>
-  <node id="-2200" visible="true" lat="42.95538421" lon="-72.81881469">
+  <node id="-2199" visible="true" lat="42.95538421" lon="-72.81881469">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="67" />
     <tag k="addr:street" v="Colonial Ridge Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88888" />
   </node>
-  <node id="-2201" visible="true" lat="42.95348523" lon="-72.82039176">
+  <node id="-2200" visible="true" lat="42.95348523" lon="-72.82039176">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="94" />
     <tag k="addr:street" v="Colonial Ridge Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88889" />
   </node>
-  <node id="-2202" visible="true" lat="42.92955308" lon="-72.84385708">
+  <node id="-2201" visible="true" lat="42.92955308" lon="-72.84385708">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="63" />
     <tag k="addr:street" v="Dorr Fitch Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88890" />
   </node>
-  <node id="-2203" visible="true" lat="42.93091419" lon="-72.84018144">
+  <node id="-2202" visible="true" lat="42.93091419" lon="-72.84018144">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="79" />
     <tag k="addr:street" v="Dorr Fitch Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88892" />
   </node>
-  <node id="-2204" visible="true" lat="42.93374898" lon="-72.81303194">
+  <node id="-2203" visible="true" lat="42.93374898" lon="-72.81303194">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="323" />
     <tag k="addr:street" v="Dover Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88893" />
   </node>
-  <node id="-2205" visible="true" lat="42.9311183" lon="-72.81660651">
+  <node id="-2204" visible="true" lat="42.9311183" lon="-72.81660651">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="352" />
     <tag k="addr:street" v="Dover Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88894" />
   </node>
-  <node id="-2206" visible="true" lat="42.98897989" lon="-72.8861439">
+  <node id="-2205" visible="true" lat="42.98897989" lon="-72.8861439">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="20" />
     <tag k="addr:street" v="Duncan Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88897" />
   </node>
-  <node id="-2207" visible="true" lat="42.94608847" lon="-72.86983117">
+  <node id="-2206" visible="true" lat="42.94608847" lon="-72.86983117">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="55" />
     <tag k="addr:street" v="Edwards Village Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88899" />
   </node>
-  <node id="-2208" visible="true" lat="42.95657106" lon="-72.84736036">
+  <node id="-2207" visible="true" lat="42.95657106" lon="-72.84736036">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="54" />
     <tag k="addr:street" v="Ellis Brook Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88900" />
   </node>
-  <node id="-2209" visible="true" lat="42.94982268" lon="-72.87016215">
+  <node id="-2208" visible="true" lat="42.94982268" lon="-72.87016215">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="1B" />
     <tag k="addr:street" v="Forest Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88901" />
   </node>
-  <node id="-2210" visible="true" lat="42.97567734" lon="-72.88121322">
+  <node id="-2209" visible="true" lat="42.97567734" lon="-72.88121322">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="27" />
     <tag k="addr:street" v="Gaye Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88902" />
   </node>
-  <node id="-2211" visible="true" lat="42.98021818" lon="-72.89708353">
+  <node id="-2210" visible="true" lat="42.98021818" lon="-72.89708353">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="18" />
     <tag k="addr:street" v="Greene Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88903" />
   </node>
-  <node id="-2212" visible="true" lat="42.96909172" lon="-72.88946232">
+  <node id="-2211" visible="true" lat="42.96909172" lon="-72.88946232">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="326" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88904" />
   </node>
-  <node id="-2213" visible="true" lat="42.93405097" lon="-72.79528622">
+  <node id="-2212" visible="true" lat="42.93405097" lon="-72.79528622">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="14" />
     <tag k="addr:street" v="Harris Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88905" />
   </node>
-  <node id="-2214" visible="true" lat="42.93147862" lon="-72.78933845">
+  <node id="-2213" visible="true" lat="42.93147862" lon="-72.78933845">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="51" />
     <tag k="addr:street" v="Harris Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88906" />
   </node>
-  <node id="-2215" visible="true" lat="42.93011227" lon="-72.8116658">
+  <node id="-2214" visible="true" lat="42.93011227" lon="-72.8116658">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="62" />
     <tag k="addr:street" v="Heritage Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88907" />
   </node>
-  <node id="-2216" visible="true" lat="42.97279845" lon="-72.88904596">
+  <node id="-2215" visible="true" lat="42.97279845" lon="-72.88904596">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="10" />
     <tag k="addr:street" v="Howard Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88908" />
   </node>
-  <node id="-2217" visible="true" lat="42.97294982" lon="-72.88847803">
+  <node id="-2216" visible="true" lat="42.97294982" lon="-72.88847803">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Howard Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88909" />
   </node>
-  <node id="-2218" visible="true" lat="42.94873499" lon="-72.88182509">
+  <node id="-2217" visible="true" lat="42.94873499" lon="-72.88182509">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="41" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88911" />
   </node>
-  <node id="-2219" visible="true" lat="42.94781629" lon="-72.8824753">
+  <node id="-2218" visible="true" lat="42.94781629" lon="-72.8824753">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="48" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88912" />
   </node>
-  <node id="-2220" visible="true" lat="42.94918169" lon="-72.88540537">
+  <node id="-2219" visible="true" lat="42.94918169" lon="-72.88540537">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="21" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88914" />
   </node>
-  <node id="-2221" visible="true" lat="42.94911386" lon="-72.88376056">
+  <node id="-2220" visible="true" lat="42.94911386" lon="-72.88376056">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="29" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88916" />
   </node>
-  <node id="-2222" visible="true" lat="42.94954597" lon="-72.88355107">
+  <node id="-2221" visible="true" lat="42.94954597" lon="-72.88355107">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="31" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88918" />
   </node>
-  <node id="-2223" visible="true" lat="42.94909022" lon="-72.88582986">
+  <node id="-2222" visible="true" lat="42.94909022" lon="-72.88582986">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="19" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88920" />
   </node>
-  <node id="-2224" visible="true" lat="42.94938901" lon="-72.88394446">
+  <node id="-2223" visible="true" lat="42.94938901" lon="-72.88394446">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="27" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88922" />
   </node>
-  <node id="-2225" visible="true" lat="42.94928745" lon="-72.88331707">
+  <node id="-2224" visible="true" lat="42.94928745" lon="-72.88331707">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="33" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88923" />
   </node>
-  <node id="-2226" visible="true" lat="42.94930401" lon="-72.88242855">
+  <node id="-2225" visible="true" lat="42.94930401" lon="-72.88242855">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="35" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88925" />
   </node>
-  <node id="-2227" visible="true" lat="42.94922946" lon="-72.88201976">
+  <node id="-2226" visible="true" lat="42.94922946" lon="-72.88201976">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="37" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88927" />
   </node>
-  <node id="-2228" visible="true" lat="42.94900301" lon="-72.88169466">
+  <node id="-2227" visible="true" lat="42.94900301" lon="-72.88169466">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="39" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88929" />
   </node>
-  <node id="-2229" visible="true" lat="42.94979135" lon="-72.88460737">
+  <node id="-2228" visible="true" lat="42.94979135" lon="-72.88460737">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="24" />
     <tag k="addr:street" v="Queen Annes Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88933" />
   </node>
-  <node id="-2230" visible="true" lat="42.94996866" lon="-72.88419819">
+  <node id="-2229" visible="true" lat="42.94996866" lon="-72.88419819">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="26" />
     <tag k="addr:street" v="Queen Annes Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88935" />
   </node>
-  <node id="-2231" visible="true" lat="42.95006356" lon="-72.88379388">
+  <node id="-2230" visible="true" lat="42.95006356" lon="-72.88379388">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="30" />
     <tag k="addr:street" v="Queen Annes Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88937" />
   </node>
-  <node id="-2232" visible="true" lat="42.95031144" lon="-72.88409261">
+  <node id="-2231" visible="true" lat="42.95031144" lon="-72.88409261">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="25" />
     <tag k="addr:street" v="Queen Annes Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88939" />
   </node>
-  <node id="-2233" visible="true" lat="42.95026894" lon="-72.88331466">
+  <node id="-2232" visible="true" lat="42.95026894" lon="-72.88331466">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="29" />
     <tag k="addr:street" v="Queen Annes Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88941" />
   </node>
-  <node id="-2234" visible="true" lat="42.95008723" lon="-72.88303406">
+  <node id="-2233" visible="true" lat="42.95008723" lon="-72.88303406">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="31" />
     <tag k="addr:street" v="Queen Annes Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88943" />
   </node>
-  <node id="-2235" visible="true" lat="42.95716893" lon="-72.85965502">
+  <node id="-2234" visible="true" lat="42.95716893" lon="-72.85965502">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="1" />
     <tag k="addr:street" v="Ledge Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88945" />
   </node>
-  <node id="-2236" visible="true" lat="42.93064045" lon="-72.86308802">
+  <node id="-2235" visible="true" lat="42.93064045" lon="-72.86308802">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="12" />
     <tag k="addr:street" v="Grouse Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88947" />
   </node>
-  <node id="-2237" visible="true" lat="42.93026743" lon="-72.86280985">
+  <node id="-2236" visible="true" lat="42.93026743" lon="-72.86280985">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="14" />
     <tag k="addr:street" v="Grouse Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88948" />
   </node>
-  <node id="-2238" visible="true" lat="42.9309078" lon="-72.86468578">
+  <node id="-2237" visible="true" lat="42.9309078" lon="-72.86468578">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="42" />
     <tag k="addr:street" v="Airport Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88949" />
   </node>
-  <node id="-2239" visible="true" lat="42.95277381" lon="-72.85686104">
+  <node id="-2238" visible="true" lat="42.95277381" lon="-72.85686104">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="18" />
     <tag k="addr:street" v="Rabbit Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88950" />
   </node>
-  <node id="-2240" visible="true" lat="42.93510923" lon="-72.84897616">
+  <node id="-2239" visible="true" lat="42.93510923" lon="-72.84897616">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="85" />
     <tag k="addr:street" v="Vermont Route 100" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88951" />
   </node>
-  <node id="-2241" visible="true" lat="42.94186419" lon="-72.85712411">
+  <node id="-2240" visible="true" lat="42.94186419" lon="-72.85712411">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="148C" />
     <tag k="addr:street" v="Vermont Route 100" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88952" />
   </node>
-  <node id="-2242" visible="true" lat="42.94226308" lon="-72.85808384">
+  <node id="-2241" visible="true" lat="42.94226308" lon="-72.85808384">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="160" />
     <tag k="addr:street" v="Vermont Route 100" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88953" />
   </node>
-  <node id="-2243" visible="true" lat="42.95130272" lon="-72.87655656">
+  <node id="-2242" visible="true" lat="42.95130272" lon="-72.87655656">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="280" />
     <tag k="addr:street" v="Vermont Route 100" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88954" />
   </node>
-  <node id="-2244" visible="true" lat="42.931778" lon="-72.85857148">
+  <node id="-2243" visible="true" lat="42.931778" lon="-72.85857148">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="42" />
     <tag k="addr:street" v="Spring Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88958" />
   </node>
-  <node id="-2245" visible="true" lat="42.93537653" lon="-72.86002597">
+  <node id="-2244" visible="true" lat="42.93537653" lon="-72.86002597">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="7" />
     <tag k="addr:street" v="Spring Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88959" />
   </node>
-  <node id="-2246" visible="true" lat="42.93353766" lon="-72.85401462">
+  <node id="-2245" visible="true" lat="42.93353766" lon="-72.85401462">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="23" />
     <tag k="addr:street" v="Stone Ridge Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88960" />
   </node>
-  <node id="-2247" visible="true" lat="42.93392432" lon="-72.85672948">
+  <node id="-2246" visible="true" lat="42.93392432" lon="-72.85672948">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="44" />
     <tag k="addr:street" v="Sawmill Village Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88961" />
   </node>
-  <node id="-2248" visible="true" lat="42.94767221" lon="-72.87381169">
+  <node id="-2247" visible="true" lat="42.94767221" lon="-72.87381169">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="12" />
     <tag k="addr:street" v="Stugger Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88962" />
   </node>
-  <node id="-2249" visible="true" lat="42.94932047" lon="-72.78736534">
+  <node id="-2248" visible="true" lat="42.94932047" lon="-72.78736534">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="95" />
     <tag k="addr:street" v="Taft Brook Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88963" />
   </node>
-  <node id="-2250" visible="true" lat="42.9368936" lon="-72.81176439">
+  <node id="-2249" visible="true" lat="42.9368936" lon="-72.81176439">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="15" />
     <tag k="addr:street" v="Timberview Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88964" />
   </node>
-  <node id="-2251" visible="true" lat="42.95922847" lon="-72.84227583">
+  <node id="-2250" visible="true" lat="42.95922847" lon="-72.84227583">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="12" />
     <tag k="addr:street" v="Toms Cabin Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88965" />
   </node>
-  <node id="-2252" visible="true" lat="42.9581974" lon="-72.84461177">
+  <node id="-2251" visible="true" lat="42.9581974" lon="-72.84461177">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="12" />
     <tag k="addr:street" v="Daniels Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88966" />
   </node>
-  <node id="-2253" visible="true" lat="42.98346527" lon="-72.88227369">
+  <node id="-2252" visible="true" lat="42.98346527" lon="-72.88227369">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="16" />
     <tag k="addr:street" v="Upton Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88967" />
   </node>
-  <node id="-2254" visible="true" lat="42.93996178" lon="-72.85158375">
+  <node id="-2253" visible="true" lat="42.93996178" lon="-72.85158375">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Valley View Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="88968" />
   </node>
-  <node id="-2255" visible="true" lat="42.98945136" lon="-72.88405799">
+  <node id="-2254" visible="true" lat="42.98945136" lon="-72.88405799">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="22" />
     <tag k="addr:street" v="Forest Heights" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="311755" />
   </node>
-  <node id="-2256" visible="true" lat="42.99015117" lon="-72.88533246">
+  <node id="-2255" visible="true" lat="42.99015117" lon="-72.88533246">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="10" />
     <tag k="addr:street" v="Forest Heights" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312568" />
   </node>
-  <node id="-2257" visible="true" lat="42.98491957" lon="-72.88164245">
+  <node id="-2256" visible="true" lat="42.98491957" lon="-72.88164245">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="23" />
     <tag k="addr:street" v="Upton Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312569" />
   </node>
-  <node id="-2258" visible="true" lat="42.97901593" lon="-72.88933758">
+  <node id="-2257" visible="true" lat="42.97901593" lon="-72.88933758">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="15" />
     <tag k="addr:street" v="Catamount Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312570" />
   </node>
-  <node id="-2259" visible="true" lat="42.97256411" lon="-72.88836465">
+  <node id="-2258" visible="true" lat="42.97256411" lon="-72.88836465">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="11" />
     <tag k="addr:street" v="Howard Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312571" />
   </node>
-  <node id="-2260" visible="true" lat="42.97536664" lon="-72.8916108">
+  <node id="-2259" visible="true" lat="42.97536664" lon="-72.8916108">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="21" />
     <tag k="addr:street" v="Lower Highlands Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312572" />
   </node>
-  <node id="-2261" visible="true" lat="42.97885666" lon="-72.88192607">
+  <node id="-2260" visible="true" lat="42.97885666" lon="-72.88192607">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="10" />
     <tag k="addr:street" v="Gaye Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312574" />
   </node>
-  <node id="-2262" visible="true" lat="42.98137368" lon="-72.87223993">
+  <node id="-2261" visible="true" lat="42.98137368" lon="-72.87223993">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="54" />
     <tag k="addr:street" v="Upton Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312575" />
   </node>
-  <node id="-2263" visible="true" lat="42.98064276" lon="-72.77688777">
+  <node id="-2262" visible="true" lat="42.98064276" lon="-72.77688777">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="249" />
     <tag k="addr:street" v="North Street" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312576" />
   </node>
-  <node id="-2264" visible="true" lat="42.95796675" lon="-72.88780322">
+  <node id="-2263" visible="true" lat="42.95796675" lon="-72.88780322">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="6" />
     <tag k="addr:street" v="Butterfield Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312578" />
   </node>
-  <node id="-2265" visible="true" lat="42.95786902" lon="-72.88760831">
+  <node id="-2264" visible="true" lat="42.95786902" lon="-72.88760831">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="12" />
     <tag k="addr:street" v="Butterfield Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312580" />
   </node>
-  <node id="-2266" visible="true" lat="42.96779528" lon="-72.87060643">
+  <node id="-2265" visible="true" lat="42.96779528" lon="-72.87060643">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="160" />
     <tag k="addr:street" v="Blue Brook Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312582" />
   </node>
-  <node id="-2267" visible="true" lat="42.95844016" lon="-72.8602722">
+  <node id="-2266" visible="true" lat="42.95844016" lon="-72.8602722">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Ledge Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312583" />
   </node>
-  <node id="-2268" visible="true" lat="42.95795163" lon="-72.85363141">
+  <node id="-2267" visible="true" lat="42.95795163" lon="-72.85363141">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="111" />
     <tag k="addr:street" v="Ellis Brook Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312584" />
   </node>
-  <node id="-2269" visible="true" lat="42.95370375" lon="-72.84061773">
+  <node id="-2268" visible="true" lat="42.95370375" lon="-72.84061773">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="13" />
     <tag k="addr:street" v="Cheney Brook Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312585" />
   </node>
-  <node id="-2270" visible="true" lat="42.94832516" lon="-72.85200418">
+  <node id="-2269" visible="true" lat="42.94832516" lon="-72.85200418">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="1" />
     <tag k="addr:street" v="Johnson Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312586" />
   </node>
-  <node id="-2271" visible="true" lat="42.96050125" lon="-72.84491959">
+  <node id="-2270" visible="true" lat="42.96050125" lon="-72.84491959">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="40" />
     <tag k="addr:street" v="Toms Cabin Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="312587" />
   </node>
-  <node id="-2272" visible="true" lat="42.95486603" lon="-72.83234286">
+  <node id="-2271" visible="true" lat="42.95486603" lon="-72.83234286">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="60" />
     <tag k="addr:street" v="Villager Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313089" />
   </node>
-  <node id="-2273" visible="true" lat="42.9596971" lon="-72.83094015">
+  <node id="-2272" visible="true" lat="42.9596971" lon="-72.83094015">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="13" />
     <tag k="addr:street" v="Wolf Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313090" />
   </node>
-  <node id="-2274" visible="true" lat="42.95693097" lon="-72.82319024">
+  <node id="-2273" visible="true" lat="42.95693097" lon="-72.82319024">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="39" />
     <tag k="addr:street" v="Colonial Ridge Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313091" />
   </node>
-  <node id="-2275" visible="true" lat="42.94564311" lon="-72.88106551">
+  <node id="-2274" visible="true" lat="42.94564311" lon="-72.88106551">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="72" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313093" />
   </node>
-  <node id="-2276" visible="true" lat="42.94570745" lon="-72.88147348">
+  <node id="-2275" visible="true" lat="42.94570745" lon="-72.88147348">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="70" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313096" />
   </node>
-  <node id="-2277" visible="true" lat="42.94567213" lon="-72.88189512">
+  <node id="-2276" visible="true" lat="42.94567213" lon="-72.88189512">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="68" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313098" />
   </node>
-  <node id="-2278" visible="true" lat="42.94617518" lon="-72.88247621">
+  <node id="-2277" visible="true" lat="42.94617518" lon="-72.88247621">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="64" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313100" />
   </node>
-  <node id="-2279" visible="true" lat="42.94584684" lon="-72.87709307">
+  <node id="-2278" visible="true" lat="42.94584684" lon="-72.87709307">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="36" />
     <tag k="addr:street" v="Stugger Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313101" />
   </node>
-  <node id="-2280" visible="true" lat="42.94834063" lon="-72.88246631">
+  <node id="-2279" visible="true" lat="42.94834063" lon="-72.88246631">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="44" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313102" />
   </node>
-  <node id="-2281" visible="true" lat="42.94919898" lon="-72.88477234">
+  <node id="-2280" visible="true" lat="42.94919898" lon="-72.88477234">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="23" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313104" />
   </node>
-  <node id="-2282" visible="true" lat="42.94917647" lon="-72.88436548">
+  <node id="-2281" visible="true" lat="42.94917647" lon="-72.88436548">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="25" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313106" />
   </node>
-  <node id="-2283" visible="true" lat="42.95532799" lon="-72.85077517">
+  <node id="-2282" visible="true" lat="42.95532799" lon="-72.85077517">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="16" />
     <tag k="addr:street" v="Buckboard Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313108" />
   </node>
-  <node id="-2284" visible="true" lat="42.95420091" lon="-72.85292932">
+  <node id="-2283" visible="true" lat="42.95420091" lon="-72.85292932">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="37" />
     <tag k="addr:street" v="Buckboard Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313109" />
   </node>
-  <node id="-2285" visible="true" lat="42.95528952" lon="-72.84949261">
+  <node id="-2284" visible="true" lat="42.95528952" lon="-72.84949261">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="13" />
     <tag k="addr:street" v="Buckboard Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313110" />
   </node>
-  <node id="-2286" visible="true" lat="42.93430934" lon="-72.86629348">
+  <node id="-2285" visible="true" lat="42.93430934" lon="-72.86629348">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="24" />
     <tag k="addr:street" v="Airport Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313111" />
   </node>
-  <node id="-2287" visible="true" lat="42.93485851" lon="-72.85998773">
+  <node id="-2286" visible="true" lat="42.93485851" lon="-72.85998773">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Spring Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313112" />
   </node>
-  <node id="-2288" visible="true" lat="42.93221507" lon="-72.85846486">
+  <node id="-2287" visible="true" lat="42.93221507" lon="-72.85846486">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="45" />
     <tag k="addr:street" v="Spring Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313113" />
   </node>
-  <node id="-2289" visible="true" lat="42.93299757" lon="-72.85882905">
+  <node id="-2288" visible="true" lat="42.93299757" lon="-72.85882905">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="52" />
     <tag k="addr:street" v="Spring Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313114" />
   </node>
-  <node id="-2290" visible="true" lat="42.93034718" lon="-72.86289524">
+  <node id="-2289" visible="true" lat="42.93034718" lon="-72.86289524">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="13" />
     <tag k="addr:street" v="Grouse Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313120" />
   </node>
-  <node id="-2291" visible="true" lat="42.93018004" lon="-72.86273555">
+  <node id="-2290" visible="true" lat="42.93018004" lon="-72.86273555">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="15" />
     <tag k="addr:street" v="Grouse Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313121" />
   </node>
-  <node id="-2292" visible="true" lat="42.93102695" lon="-72.863467">
+  <node id="-2291" visible="true" lat="42.93102695" lon="-72.863467">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="10" />
     <tag k="addr:street" v="Grouse Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313122" />
   </node>
-  <node id="-2293" visible="true" lat="42.9352249" lon="-72.85443826">
+  <node id="-2292" visible="true" lat="42.9352249" lon="-72.85443826">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Stone Ridge Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313126" />
   </node>
-  <node id="-2294" visible="true" lat="42.93425867" lon="-72.85704691">
+  <node id="-2293" visible="true" lat="42.93425867" lon="-72.85704691">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="52" />
     <tag k="addr:street" v="Sawmill Village Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313127" />
   </node>
-  <node id="-2295" visible="true" lat="42.9404963" lon="-72.86994852">
+  <node id="-2294" visible="true" lat="42.9404963" lon="-72.86994852">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="61C" />
     <tag k="addr:street" v="Country Club Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313128" />
   </node>
-  <node id="-2296" visible="true" lat="42.94044971" lon="-72.86989326">
+  <node id="-2295" visible="true" lat="42.94044971" lon="-72.86989326">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="61D" />
     <tag k="addr:street" v="Country Club Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313129" />
   </node>
-  <node id="-2297" visible="true" lat="42.94035653" lon="-72.86977985">
+  <node id="-2296" visible="true" lat="42.94035653" lon="-72.86977985">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="61E" />
     <tag k="addr:street" v="Country Club Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313130" />
   </node>
-  <node id="-2298" visible="true" lat="42.94028236" lon="-72.86970706">
+  <node id="-2297" visible="true" lat="42.94028236" lon="-72.86970706">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="61F" />
     <tag k="addr:street" v="Country Club Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313131" />
   </node>
-  <node id="-2299" visible="true" lat="42.9357228" lon="-72.81002703">
+  <node id="-2298" visible="true" lat="42.9357228" lon="-72.81002703">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Heritage Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313138" />
   </node>
-  <node id="-2300" visible="true" lat="42.94298444" lon="-72.79924215">
+  <node id="-2299" visible="true" lat="42.94298444" lon="-72.79924215">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="225" />
     <tag k="addr:street" v="Dover Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313139" />
   </node>
-  <node id="-2301" visible="true" lat="42.94437757" lon="-72.79726506">
+  <node id="-2300" visible="true" lat="42.94437757" lon="-72.79726506">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="193" />
     <tag k="addr:street" v="Dover Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313140" />
   </node>
-  <node id="-2302" visible="true" lat="42.94477815" lon="-72.78650975">
+  <node id="-2301" visible="true" lat="42.94477815" lon="-72.78650975">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="139" />
     <tag k="addr:street" v="Dover Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313141" />
   </node>
-  <node id="-2303" visible="true" lat="42.93288209" lon="-72.79240986">
+  <node id="-2302" visible="true" lat="42.93288209" lon="-72.79240986">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="36" />
     <tag k="addr:street" v="Harris Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313142" />
   </node>
-  <node id="-2304" visible="true" lat="42.93726541" lon="-72.78030111">
+  <node id="-2303" visible="true" lat="42.93726541" lon="-72.78030111">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="62" />
     <tag k="addr:street" v="Yeaw Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313143" />
   </node>
-  <node id="-2305" visible="true" lat="42.92604291" lon="-72.85088113">
+  <node id="-2304" visible="true" lat="42.92603589" lon="-72.8508422">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="18" />
     <tag k="addr:street" v="Burchard Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313144" />
   </node>
-  <node id="-2306" visible="true" lat="42.92595741" lon="-72.85156166">
+  <node id="-2305" visible="true" lat="42.92595741" lon="-72.85156166">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="24" />
     <tag k="addr:street" v="Burchard Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313145" />
   </node>
-  <node id="-2307" visible="true" lat="42.93175415" lon="-72.84467664">
+  <node id="-2306" visible="true" lat="42.93175415" lon="-72.84467664">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="55" />
     <tag k="addr:street" v="Dorr Fitch Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313146" />
   </node>
-  <node id="-2308" visible="true" lat="42.92567714" lon="-72.80967945">
+  <node id="-2307" visible="true" lat="42.92567714" lon="-72.80967945">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="16" />
     <tag k="addr:street" v="Running Sap Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313147" />
   </node>
-  <node id="-2309" visible="true" lat="42.92372926" lon="-72.79949707">
+  <node id="-2308" visible="true" lat="42.92372926" lon="-72.79949707">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="94" />
     <tag k="addr:street" v="Higley Hill" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313148" />
   </node>
-  <node id="-2310" visible="true" lat="42.94225407" lon="-72.81134253">
+  <node id="-2309" visible="true" lat="42.94225407" lon="-72.81134253">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="18" />
     <tag k="addr:street" v="Woodsman Road Extension" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313532" />
   </node>
-  <node id="-2311" visible="true" lat="42.94150815" lon="-72.81276029">
+  <node id="-2310" visible="true" lat="42.94150815" lon="-72.81276029">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="12" />
     <tag k="addr:street" v="Woodsman Road Extension" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313533" />
   </node>
-  <node id="-2312" visible="true" lat="42.9335652" lon="-72.81177838">
+  <node id="-2311" visible="true" lat="42.9335652" lon="-72.81177838">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="22" />
     <tag k="addr:street" v="Tapping Tree Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="313534" />
   </node>
-  <node id="-2313" visible="true" lat="42.95817674" lon="-72.88707918">
+  <node id="-2312" visible="true" lat="42.95817674" lon="-72.88707918">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="15" />
     <tag k="addr:street" v="Butterfield Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="316538" />
   </node>
-  <node id="-2314" visible="true" lat="42.95747804" lon="-72.88745646">
+  <node id="-2313" visible="true" lat="42.95747804" lon="-72.88745646">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="18" />
     <tag k="addr:street" v="Butterfield Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="317156" />
   </node>
-  <node id="-2315" visible="true" lat="42.94862184" lon="-72.87701048">
+  <node id="-2314" visible="true" lat="42.94862184" lon="-72.87701048">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Margit Ridgway Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318156" />
   </node>
-  <node id="-2316" visible="true" lat="42.94852004" lon="-72.87779394">
+  <node id="-2315" visible="true" lat="42.94852004" lon="-72.87779394">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Margit Ridgway Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318157" />
   </node>
-  <node id="-2317" visible="true" lat="42.94880337" lon="-72.87751777">
+  <node id="-2316" visible="true" lat="42.94880337" lon="-72.87751777">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Margit Ridgway Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318158" />
   </node>
-  <node id="-2318" visible="true" lat="42.94909953" lon="-72.87644036">
+  <node id="-2317" visible="true" lat="42.94909953" lon="-72.87644036">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="6" />
     <tag k="addr:street" v="Margit Ridgway Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318159" />
   </node>
-  <node id="-2319" visible="true" lat="42.97115525" lon="-72.89319305">
+  <node id="-2318" visible="true" lat="42.97115525" lon="-72.89319305">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="7" />
     <tag k="addr:street" v="Ridge Run" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318160" />
   </node>
-  <node id="-2320" visible="true" lat="42.97072517" lon="-72.89272461">
+  <node id="-2319" visible="true" lat="42.97072517" lon="-72.89272461">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Ridge Run" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318163" />
   </node>
-  <node id="-2321" visible="true" lat="42.97147808" lon="-72.8928365">
+  <node id="-2320" visible="true" lat="42.97147808" lon="-72.8928365">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="11" />
     <tag k="addr:street" v="Overbrook Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318166" />
   </node>
-  <node id="-2322" visible="true" lat="42.97117083" lon="-72.89258499">
+  <node id="-2321" visible="true" lat="42.97117083" lon="-72.89258499">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Overbrook Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318169" />
   </node>
-  <node id="-2323" visible="true" lat="42.97101857" lon="-72.89205742">
+  <node id="-2322" visible="true" lat="42.97101857" lon="-72.89205742">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="7" />
     <tag k="addr:street" v="Overbrook Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318172" />
   </node>
-  <node id="-2324" visible="true" lat="42.9711363" lon="-72.89163065">
+  <node id="-2323" visible="true" lat="42.9711363" lon="-72.89163065">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Overbrook Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318175" />
   </node>
-  <node id="-2325" visible="true" lat="42.97134323" lon="-72.89120209">
+  <node id="-2324" visible="true" lat="42.97134323" lon="-72.89120209">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Overbrook Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318178" />
   </node>
-  <node id="-2326" visible="true" lat="42.97144365" lon="-72.89202089">
+  <node id="-2325" visible="true" lat="42.97144365" lon="-72.89202089">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="1" />
     <tag k="addr:street" v="Ego Alley" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318181" />
   </node>
-  <node id="-2327" visible="true" lat="42.97164362" lon="-72.89241919">
+  <node id="-2326" visible="true" lat="42.97164362" lon="-72.89241919">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Ego Alley" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318184" />
   </node>
-  <node id="-2328" visible="true" lat="42.97125662" lon="-72.88894041">
-    <tag k="addr:city" v="Dover" />
-    <tag k="addr:housenumber" v="3" />
-    <tag k="addr:street" v="Upper Canyon Drive" />
-    <tag k="addr:state" v="VT" />
-    <tag k="ref:vcgi:esiteid" v="318187" />
-  </node>
-  <node id="-2329" visible="true" lat="42.97153758" lon="-72.88906667">
-    <tag k="addr:city" v="Dover" />
-    <tag k="addr:housenumber" v="5" />
-    <tag k="addr:street" v="Upper Canyon Drive" />
-    <tag k="addr:state" v="VT" />
-    <tag k="ref:vcgi:esiteid" v="318190" />
-  </node>
-  <node id="-2330" visible="true" lat="42.97187249" lon="-72.88943007">
+  <node id="-2327" visible="true" lat="42.9713085" lon="-72.888843">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="7" />
     <tag k="addr:street" v="Upper Canyon Drive" />
     <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="318187" />
+  </node>
+  <node id="-2328" visible="true" lat="42.97157412" lon="-72.88904493">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="11" />
+    <tag k="addr:street" v="Upper Canyon Drive" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="318190" />
+  </node>
+  <node id="-2329" visible="true" lat="42.97200064" lon="-72.88966965">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="19" />
+    <tag k="addr:street" v="Upper Canyon Drive" />
+    <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318193" />
   </node>
-  <node id="-2331" visible="true" lat="42.95740914" lon="-72.88718957">
+  <node id="-2330" visible="true" lat="42.95740914" lon="-72.88718957">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="20" />
     <tag k="addr:street" v="Butterfield Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318196" />
   </node>
-  <node id="-2332" visible="true" lat="42.95825789" lon="-72.88716299">
+  <node id="-2331" visible="true" lat="42.95825789" lon="-72.88716299">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="7" />
     <tag k="addr:street" v="Butterfield Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318197" />
   </node>
-  <node id="-2333" visible="true" lat="42.95792608" lon="-72.88697563">
+  <node id="-2332" visible="true" lat="42.95792608" lon="-72.88697563">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="23" />
     <tag k="addr:street" v="Butterfield Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318198" />
   </node>
-  <node id="-2334" visible="true" lat="42.9578151" lon="-72.88702393">
+  <node id="-2333" visible="true" lat="42.9578151" lon="-72.88702393">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="25" />
     <tag k="addr:street" v="Butterfield Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318199" />
   </node>
-  <node id="-2335" visible="true" lat="42.97277486" lon="-72.89823251">
+  <node id="-2334" visible="true" lat="42.97277486" lon="-72.89823251">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Tenon Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318201" />
   </node>
-  <node id="-2336" visible="true" lat="42.97306596" lon="-72.89814968">
+  <node id="-2335" visible="true" lat="42.97306596" lon="-72.89814968">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="1" />
     <tag k="addr:street" v="Mortise Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318207" />
   </node>
-  <node id="-2337" visible="true" lat="42.97296839" lon="-72.89877555">
+  <node id="-2336" visible="true" lat="42.97296839" lon="-72.89877555">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Mortise Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318210" />
   </node>
-  <node id="-2338" visible="true" lat="42.97336649" lon="-72.89817453">
+  <node id="-2337" visible="true" lat="42.97336649" lon="-72.89817453">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Oak Peg Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318214" />
   </node>
-  <node id="-2339" visible="true" lat="42.97327204" lon="-72.89918857">
+  <node id="-2338" visible="true" lat="42.97327204" lon="-72.89918857">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="7" />
     <tag k="addr:street" v="Oak Peg Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318220" />
   </node>
-  <node id="-2340" visible="true" lat="42.97364522" lon="-72.89831755">
+  <node id="-2339" visible="true" lat="42.97364522" lon="-72.89831755">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="1" />
     <tag k="addr:street" v="Knee Brace Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318225" />
   </node>
-  <node id="-2341" visible="true" lat="42.97354272" lon="-72.89900381">
+  <node id="-2340" visible="true" lat="42.97354272" lon="-72.89900381">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Knee Brace Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318230" />
   </node>
-  <node id="-2342" visible="true" lat="42.97352116" lon="-72.89955037">
+  <node id="-2341" visible="true" lat="42.97352116" lon="-72.89955037">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Knee Brace Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318234" />
   </node>
-  <node id="-2343" visible="true" lat="42.94522236" lon="-72.87473982">
+  <node id="-2342" visible="true" lat="42.94522236" lon="-72.87473982">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Whispering Brook Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="318245" />
   </node>
-  <node id="-2344" visible="true" lat="42.9265869" lon="-72.88547398">
+  <node id="-2343" visible="true" lat="42.9265869" lon="-72.88547398">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="2" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="319895" />
   </node>
-  <node id="-2345" visible="true" lat="42.94542673" lon="-72.87673879">
+  <node id="-2344" visible="true" lat="42.94547431" lon="-72.87675853">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="33" />
     <tag k="addr:street" v="Stugger Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="322316" />
   </node>
-  <node id="-2346" visible="true" lat="42.93244042" lon="-72.85416974">
+  <node id="-2345" visible="true" lat="42.93244042" lon="-72.85416974">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="6" />
     <tag k="addr:street" v="Stone Hill Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="323943" />
   </node>
-  <node id="-2347" visible="true" lat="42.93267048" lon="-72.85334571">
+  <node id="-2346" visible="true" lat="42.93267048" lon="-72.85334571">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Stone Hill Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="323944" />
   </node>
-  <node id="-2348" visible="true" lat="42.9430456" lon="-72.8791628">
+  <node id="-2347" visible="true" lat="42.9430456" lon="-72.8791628">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Foliage Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="328107" />
   </node>
-  <node id="-2349" visible="true" lat="42.94311427" lon="-72.87860489">
+  <node id="-2348" visible="true" lat="42.94311427" lon="-72.87860489">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="7" />
     <tag k="addr:street" v="Foliage Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="328108" />
   </node>
-  <node id="-2350" visible="true" lat="42.94317607" lon="-72.87802893">
+  <node id="-2349" visible="true" lat="42.94317607" lon="-72.87802893">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Foliage Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="328109" />
   </node>
-  <node id="-2351" visible="true" lat="42.94266324" lon="-72.87915103">
+  <node id="-2350" visible="true" lat="42.94266324" lon="-72.87915103">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="2" />
     <tag k="addr:street" v="Foliage Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="328110" />
   </node>
-  <node id="-2352" visible="true" lat="42.94274205" lon="-72.87863179">
+  <node id="-2351" visible="true" lat="42.94274205" lon="-72.87863179">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="6" />
     <tag k="addr:street" v="Foliage Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="328111" />
   </node>
-  <node id="-2353" visible="true" lat="42.9428101" lon="-72.87826071">
+  <node id="-2352" visible="true" lat="42.9428101" lon="-72.87826071">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Foliage Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="328112" />
   </node>
-  <node id="-2354" visible="true" lat="42.9300346" lon="-72.86450429">
+  <node id="-2353" visible="true" lat="42.9300346" lon="-72.86450429">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="47" />
     <tag k="addr:street" v="Airport Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329346" />
   </node>
-  <node id="-2355" visible="true" lat="42.92967375" lon="-72.86457907">
+  <node id="-2354" visible="true" lat="42.92967375" lon="-72.86457907">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="28" />
     <tag k="addr:street" v="Partridge Run Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329347" />
   </node>
-  <node id="-2356" visible="true" lat="42.93026289" lon="-72.86432431">
+  <node id="-2355" visible="true" lat="42.93026289" lon="-72.86432431">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="45" />
     <tag k="addr:street" v="Airport Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329348" />
   </node>
-  <node id="-2357" visible="true" lat="42.92999503" lon="-72.86407054">
+  <node id="-2356" visible="true" lat="42.92999503" lon="-72.86407054">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Partridge Run Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329349" />
   </node>
-  <node id="-2358" visible="true" lat="42.92978689" lon="-72.86384891">
+  <node id="-2357" visible="true" lat="42.92978689" lon="-72.86384891">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="10" />
     <tag k="addr:street" v="Partridge Run Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329350" />
   </node>
-  <node id="-2359" visible="true" lat="42.92916711" lon="-72.86395402">
+  <node id="-2358" visible="true" lat="42.92916711" lon="-72.86395402">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="22" />
     <tag k="addr:street" v="Partridge Run Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329351" />
   </node>
-  <node id="-2360" visible="true" lat="42.92896084" lon="-72.86367297">
+  <node id="-2359" visible="true" lat="42.92896084" lon="-72.86367297">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="20" />
     <tag k="addr:street" v="Partridge Run Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329353" />
   </node>
-  <node id="-2361" visible="true" lat="42.9297929" lon="-72.86329793">
+  <node id="-2360" visible="true" lat="42.9297929" lon="-72.86329793">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="11" />
     <tag k="addr:street" v="Partridge Run Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329355" />
   </node>
-  <node id="-2362" visible="true" lat="42.94533174" lon="-72.87577851">
+  <node id="-2361" visible="true" lat="42.94533174" lon="-72.87577851">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="29" />
     <tag k="addr:street" v="Stugger Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329356" />
   </node>
-  <node id="-2363" visible="true" lat="42.94533205" lon="-72.8753758">
+  <node id="-2362" visible="true" lat="42.94533205" lon="-72.8753758">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="27" />
     <tag k="addr:street" v="Stugger Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329357" />
   </node>
-  <node id="-2364" visible="true" lat="42.94588007" lon="-72.88217343">
+  <node id="-2363" visible="true" lat="42.94588007" lon="-72.88217343">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="66" />
     <tag k="addr:street" v="Kingswood Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329359" />
   </node>
-  <node id="-2365" visible="true" lat="42.93566047" lon="-72.85373743">
+  <node id="-2364" visible="true" lat="42.93566047" lon="-72.85373743">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="15" />
     <tag k="addr:street" v="Stone Ridge Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329361" />
   </node>
-  <node id="-2366" visible="true" lat="42.93193133" lon="-72.85976605">
+  <node id="-2365" visible="true" lat="42.93193133" lon="-72.85976605">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="34" />
     <tag k="addr:street" v="Spring Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329362" />
   </node>
-  <node id="-2367" visible="true" lat="42.94620264" lon="-72.87044133">
+  <node id="-2366" visible="true" lat="42.94620264" lon="-72.87044133">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="53" />
     <tag k="addr:street" v="Edwards Village Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329363" />
   </node>
-  <node id="-2368" visible="true" lat="42.93301461" lon="-72.86535759">
+  <node id="-2367" visible="true" lat="42.93301461" lon="-72.86535759">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="32" />
     <tag k="addr:street" v="Airport Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329365" />
   </node>
-  <node id="-2369" visible="true" lat="42.93494805" lon="-72.86618468">
+  <node id="-2368" visible="true" lat="42.93494805" lon="-72.86618468">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="22" />
     <tag k="addr:street" v="Airport Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329367" />
   </node>
-  <node id="-2370" visible="true" lat="42.92518115" lon="-72.85183036">
+  <node id="-2369" visible="true" lat="42.92518115" lon="-72.85183036">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="25" />
     <tag k="addr:street" v="Burchard Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329369" />
   </node>
-  <node id="-2371" visible="true" lat="42.95322639" lon="-72.853781">
+  <node id="-2370" visible="true" lat="42.95322639" lon="-72.853781">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="6" />
     <tag k="addr:street" v="Johnson Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329370" />
   </node>
-  <node id="-2372" visible="true" lat="42.95292018" lon="-72.8534404">
+  <node id="-2371" visible="true" lat="42.95292018" lon="-72.8534404">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="4" />
     <tag k="addr:street" v="Johnson Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329371" />
   </node>
-  <node id="-2373" visible="true" lat="42.95751556" lon="-72.86075357">
+  <node id="-2372" visible="true" lat="42.95751556" lon="-72.86075357">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Ledge Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329372" />
   </node>
-  <node id="-2374" visible="true" lat="42.9589836" lon="-72.84966215">
+  <node id="-2373" visible="true" lat="42.9589836" lon="-72.84966215">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="76" />
     <tag k="addr:street" v="Ellis Brook Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329373" />
   </node>
-  <node id="-2375" visible="true" lat="42.9596593" lon="-72.85031011">
+  <node id="-2374" visible="true" lat="42.9596593" lon="-72.85031011">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="82" />
     <tag k="addr:street" v="Ellis Brook Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329374" />
   </node>
-  <node id="-2376" visible="true" lat="42.95918602" lon="-72.8456542">
+  <node id="-2375" visible="true" lat="42.95918602" lon="-72.8456542">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="29" />
     <tag k="addr:street" v="Toms Cabin Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329375" />
   </node>
-  <node id="-2377" visible="true" lat="42.95956606" lon="-72.84441901">
+  <node id="-2376" visible="true" lat="42.95956606" lon="-72.84441901">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="30" />
     <tag k="addr:street" v="Toms Cabin Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329378" />
   </node>
-  <node id="-2378" visible="true" lat="42.95935655" lon="-72.84401547">
+  <node id="-2377" visible="true" lat="42.95935655" lon="-72.84401547">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="22" />
     <tag k="addr:street" v="Toms Cabin Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329379" />
   </node>
-  <node id="-2379" visible="true" lat="42.96070668" lon="-72.8458971">
+  <node id="-2378" visible="true" lat="42.96070668" lon="-72.8458971">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="37" />
     <tag k="addr:street" v="Toms Cabin Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329380" />
   </node>
-  <node id="-2380" visible="true" lat="42.96067732" lon="-72.82966245">
+  <node id="-2379" visible="true" lat="42.96067732" lon="-72.82966245">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="278" />
     <tag k="addr:street" v="Valley View Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329381" />
   </node>
-  <node id="-2381" visible="true" lat="42.95889784" lon="-72.82656994">
+  <node id="-2380" visible="true" lat="42.95889784" lon="-72.82656994">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="11" />
     <tag k="addr:street" v="Villager Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329382" />
   </node>
-  <node id="-2382" visible="true" lat="42.95782495" lon="-72.83158171">
+  <node id="-2381" visible="true" lat="42.95782495" lon="-72.83158171">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="1" />
     <tag k="addr:street" v="Wolf Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329383" />
   </node>
-  <node id="-2383" visible="true" lat="42.95968318" lon="-72.82180116">
+  <node id="-2382" visible="true" lat="42.95968318" lon="-72.82180116">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="324" />
     <tag k="addr:street" v="Valley View Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329384" />
   </node>
-  <node id="-2384" visible="true" lat="42.95872273" lon="-72.81722528">
+  <node id="-2383" visible="true" lat="42.95872273" lon="-72.81722528">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="348" />
     <tag k="addr:street" v="Valley View Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329385" />
   </node>
-  <node id="-2385" visible="true" lat="42.95909776" lon="-72.81608344">
+  <node id="-2384" visible="true" lat="42.95909776" lon="-72.81608344">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="349" />
     <tag k="addr:street" v="Valley View Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329386" />
   </node>
-  <node id="-2386" visible="true" lat="42.92795051" lon="-72.81321894">
+  <node id="-2385" visible="true" lat="42.92795051" lon="-72.81321894">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="46" />
     <tag k="addr:street" v="Sugar House Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329388" />
   </node>
-  <node id="-2387" visible="true" lat="42.92873121" lon="-72.8133226">
+  <node id="-2386" visible="true" lat="42.92873121" lon="-72.8133226">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="36" />
     <tag k="addr:street" v="Sugar House Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329389" />
   </node>
-  <node id="-2388" visible="true" lat="42.93469834" lon="-72.8162853">
+  <node id="-2387" visible="true" lat="42.93469834" lon="-72.8162853">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="13" />
     <tag k="addr:street" v="Blackberry Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329390" />
   </node>
-  <node id="-2389" visible="true" lat="42.93462231" lon="-72.81753095">
+  <node id="-2388" visible="true" lat="42.93462231" lon="-72.81753095">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="21" />
     <tag k="addr:street" v="Blackberry Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329391" />
   </node>
-  <node id="-2390" visible="true" lat="42.93404248" lon="-72.81682183">
+  <node id="-2389" visible="true" lat="42.93404248" lon="-72.81682183">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="98" />
     <tag k="addr:street" v="Antler Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329392" />
   </node>
-  <node id="-2391" visible="true" lat="42.9362425" lon="-72.82040882">
+  <node id="-2390" visible="true" lat="42.9362425" lon="-72.82040882">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="50" />
     <tag k="addr:street" v="Antler Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329393" />
   </node>
-  <node id="-2392" visible="true" lat="42.93972968" lon="-72.8153725">
+  <node id="-2391" visible="true" lat="42.93972968" lon="-72.8153725">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="40" />
     <tag k="addr:street" v="Woodsman Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329394" />
   </node>
-  <node id="-2393" visible="true" lat="42.93879086" lon="-72.81533051">
+  <node id="-2392" visible="true" lat="42.93879086" lon="-72.81533051">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="33" />
     <tag k="addr:street" v="Woodsman Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329395" />
   </node>
-  <node id="-2394" visible="true" lat="42.96830631" lon="-72.87833508">
+  <node id="-2393" visible="true" lat="42.96830631" lon="-72.87833508">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Lodge Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329398" />
   </node>
-  <node id="-2395" visible="true" lat="42.96931939" lon="-72.87858062">
+  <node id="-2394" visible="true" lat="42.96931939" lon="-72.87858062">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="11" />
     <tag k="addr:street" v="Lodge Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329399" />
   </node>
-  <node id="-2396" visible="true" lat="42.971648" lon="-72.87951835">
+  <node id="-2395" visible="true" lat="42.971648" lon="-72.87951835">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="83" />
     <tag k="addr:street" v="Overlook Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329400" />
   </node>
-  <node id="-2397" visible="true" lat="42.97056486" lon="-72.87915742">
+  <node id="-2396" visible="true" lat="42.97056486" lon="-72.87915742">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="75" />
     <tag k="addr:street" v="Overlook Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329401" />
   </node>
-  <node id="-2398" visible="true" lat="42.97044341" lon="-72.87824174">
+  <node id="-2397" visible="true" lat="42.97044341" lon="-72.87824174">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="71" />
     <tag k="addr:street" v="Overlook Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329402" />
   </node>
-  <node id="-2399" visible="true" lat="42.95164951" lon="-72.87169324">
+  <node id="-2398" visible="true" lat="42.95164951" lon="-72.87169324">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="28" />
     <tag k="addr:street" v="Blue Brook Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329403" />
   </node>
-  <node id="-2400" visible="true" lat="42.97727189" lon="-72.88266076">
+  <node id="-2399" visible="true" lat="42.97727189" lon="-72.88266076">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="18" />
     <tag k="addr:street" v="Gaye Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="329404" />
   </node>
-  <node id="-2401" visible="true" lat="42.93338014" lon="-72.7954816">
+  <node id="-2400" visible="true" lat="42.93338014" lon="-72.7954816">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="14" />
     <tag k="addr:street" v="Beech Tree Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="330064" />
   </node>
-  <node id="-2402" visible="true" lat="42.96968733" lon="-72.8985203">
+  <node id="-2401" visible="true" lat="42.96968733" lon="-72.8985203">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="1" />
     <tag k="addr:street" v="Powder Place" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="330065" />
   </node>
-  <node id="-2403" visible="true" lat="42.95360745" lon="-72.87731863">
+  <node id="-2402" visible="true" lat="42.95360745" lon="-72.87731863">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="21" />
     <tag k="addr:street" v="Virginia Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="330066" />
   </node>
-  <node id="-2404" visible="true" lat="42.95425105" lon="-72.87902582">
+  <node id="-2403" visible="true" lat="42.95425105" lon="-72.87902582">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Virginia Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="330067" />
   </node>
-  <node id="-2405" visible="true" lat="42.9394557" lon="-72.81410709">
+  <node id="-2404" visible="true" lat="42.9394557" lon="-72.81410709">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="28" />
     <tag k="addr:street" v="Woodsman Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="330068" />
   </node>
-  <node id="-2406" visible="true" lat="42.95497632" lon="-72.82700682">
+  <node id="-2405" visible="true" lat="42.95497632" lon="-72.82700682">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="10" />
     <tag k="addr:street" v="Colonial Ridge Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333787" />
   </node>
-  <node id="-2407" visible="true" lat="42.94996941" lon="-72.8778808">
+  <node id="-2406" visible="true" lat="42.94996941" lon="-72.8778808">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="18" />
     <tag k="addr:street" v="Sunne Village Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333794" />
   </node>
-  <node id="-2408" visible="true" lat="42.94821337" lon="-72.87408576">
+  <node id="-2407" visible="true" lat="42.94821337" lon="-72.87408576">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="70" />
     <tag k="addr:street" v="Stugger Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333795" />
   </node>
-  <node id="-2409" visible="true" lat="42.94497242" lon="-72.87034784">
+  <node id="-2408" visible="true" lat="42.94497242" lon="-72.87034784">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="32" />
     <tag k="addr:street" v="Edwards Village Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333796" />
   </node>
-  <node id="-2410" visible="true" lat="42.94661975" lon="-72.86882707">
+  <node id="-2409" visible="true" lat="42.94661975" lon="-72.86882707">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="6" />
-    <tag k="addr:street" v="Edwards Village Loop" />
+    <tag k="addr:street" v="Juniors Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333797" />
   </node>
-  <node id="-2411" visible="true" lat="42.94259055" lon="-72.87302089">
+  <node id="-2410" visible="true" lat="42.94259055" lon="-72.87302089">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="48C" />
     <tag k="addr:street" v="Country Club Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333798" />
   </node>
-  <node id="-2412" visible="true" lat="42.94197688" lon="-72.85744607">
+  <node id="-2411" visible="true" lat="42.94197688" lon="-72.85744607">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="148B" />
     <tag k="addr:street" v="Vermont Route 100" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333799" />
   </node>
-  <node id="-2413" visible="true" lat="42.94162675" lon="-72.85690487">
+  <node id="-2412" visible="true" lat="42.94162675" lon="-72.85690487">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="148E" />
     <tag k="addr:street" v="Vermont Route 100" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333800" />
   </node>
-  <node id="-2414" visible="true" lat="42.94076792" lon="-72.87269468">
+  <node id="-2413" visible="true" lat="42.94076792" lon="-72.87269468">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="60" />
     <tag k="addr:street" v="Country Club Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333801" />
   </node>
-  <node id="-2415" visible="true" lat="42.93872979" lon="-72.87187471">
+  <node id="-2414" visible="true" lat="42.93872979" lon="-72.87187471">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="72" />
     <tag k="addr:street" v="Country Club Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333802" />
   </node>
-  <node id="-2416" visible="true" lat="42.92838593" lon="-72.81571893">
+  <node id="-2415" visible="true" lat="42.92838593" lon="-72.81571893">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="17" />
     <tag k="addr:street" v="Old Town Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333803" />
   </node>
-  <node id="-2417" visible="true" lat="42.93114017" lon="-72.78825655">
+  <node id="-2416" visible="true" lat="42.93114017" lon="-72.78825655">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="109" />
     <tag k="addr:street" v="Captain Copeland Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333804" />
   </node>
-  <node id="-2418" visible="true" lat="42.97423289" lon="-72.88848536">
+  <node id="-2417" visible="true" lat="42.97423289" lon="-72.88848536">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="1" />
     <tag k="addr:street" v="Lower Highlands Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333805" />
   </node>
-  <node id="-2419" visible="true" lat="42.98494649" lon="-72.87778778">
+  <node id="-2418" visible="true" lat="42.98494649" lon="-72.87778778">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="55" />
     <tag k="addr:street" v="Upton Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333806" />
   </node>
-  <node id="-2420" visible="true" lat="42.953148" lon="-72.8735823">
+  <node id="-2419" visible="true" lat="42.953148" lon="-72.8735823">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="23" />
     <tag k="addr:street" v="Joans Ridge" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333808" />
   </node>
-  <node id="-2421" visible="true" lat="42.95379683" lon="-72.86834559">
+  <node id="-2420" visible="true" lat="42.95379683" lon="-72.86834559">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="32" />
     <tag k="addr:street" v="Hathaway Trail" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="333809" />
   </node>
-  <node id="-2422" visible="true" lat="42.98416483" lon="-72.88037942">
+  <node id="-2421" visible="true" lat="42.98416483" lon="-72.88037942">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Wild Apple Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334212" />
   </node>
-  <node id="-2423" visible="true" lat="42.97244894" lon="-72.88885348">
+  <node id="-2422" visible="true" lat="42.97244894" lon="-72.88885348">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="12" />
     <tag k="addr:street" v="Howard Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334213" />
   </node>
-  <node id="-2424" visible="true" lat="42.93380759" lon="-72.8664223">
+  <node id="-2423" visible="true" lat="42.93380759" lon="-72.8664223">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="26" />
     <tag k="addr:street" v="Airport Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334214" />
   </node>
-  <node id="-2425" visible="true" lat="42.93329413" lon="-72.85718603">
+  <node id="-2424" visible="true" lat="42.93329413" lon="-72.85718603">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="45" />
     <tag k="addr:street" v="Sawmill Village Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334215" />
   </node>
-  <node id="-2426" visible="true" lat="42.93927689" lon="-72.85166969">
+  <node id="-2425" visible="true" lat="42.93927689" lon="-72.85166969">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="1" />
     <tag k="addr:street" v="Valley View Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334216" />
   </node>
-  <node id="-2427" visible="true" lat="42.93025351" lon="-72.84909536">
+  <node id="-2426" visible="true" lat="42.93025351" lon="-72.84909536">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="20" />
     <tag k="addr:street" v="Dover Green Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334217" />
   </node>
-  <node id="-2428" visible="true" lat="42.93274293" lon="-72.79463517">
+  <node id="-2427" visible="true" lat="42.93274293" lon="-72.79463517">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="15" />
     <tag k="addr:street" v="Beech Tree Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334219" />
   </node>
-  <node id="-2429" visible="true" lat="42.94941251" lon="-72.77569497">
+  <node id="-2428" visible="true" lat="42.94941251" lon="-72.77569497">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="29" />
     <tag k="addr:street" v="Brickyard Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334220" />
   </node>
-  <node id="-2430" visible="true" lat="42.95054895" lon="-72.78272753">
+  <node id="-2429" visible="true" lat="42.95054895" lon="-72.78272753">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Thomas Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334221" />
   </node>
-  <node id="-2431" visible="true" lat="42.95643479" lon="-72.85671762">
+  <node id="-2430" visible="true" lat="42.95643479" lon="-72.85671762">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="33" />
     <tag k="addr:street" v="Johnson Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334222" />
   </node>
-  <node id="-2432" visible="true" lat="42.95475538" lon="-72.85201967">
+  <node id="-2431" visible="true" lat="42.95475538" lon="-72.85201967">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="40" />
     <tag k="addr:street" v="Buckboard Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334223" />
   </node>
-  <node id="-2433" visible="true" lat="42.9580679" lon="-72.83447774">
+  <node id="-2432" visible="true" lat="42.9580679" lon="-72.83447774">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="11" />
     <tag k="addr:street" v="Fawn Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334224" />
   </node>
-  <node id="-2434" visible="true" lat="42.96077449" lon="-72.83368785">
+  <node id="-2433" visible="true" lat="42.96077449" lon="-72.83368785">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="251" />
     <tag k="addr:street" v="Valley View Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334225" />
   </node>
-  <node id="-2435" visible="true" lat="42.95160174" lon="-72.84344438">
+  <node id="-2434" visible="true" lat="42.95160174" lon="-72.84344438">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="69" />
     <tag k="addr:street" v="Valley View Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334226" />
   </node>
-  <node id="-2436" visible="true" lat="42.97015358" lon="-72.90090801">
+  <node id="-2435" visible="true" lat="42.97015358" lon="-72.90090801">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="17" />
     <tag k="addr:street" v="Discovery Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334232" />
   </node>
-  <node id="-2437" visible="true" lat="42.96937425" lon="-72.89836781">
+  <node id="-2436" visible="true" lat="42.96937425" lon="-72.89836781">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Powder Place" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334234" />
   </node>
-  <node id="-2438" visible="true" lat="42.93348586" lon="-72.86622025">
+  <node id="-2437" visible="true" lat="42.93348586" lon="-72.86622025">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="28" />
     <tag k="addr:street" v="Airport Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="334257" />
   </node>
-  <node id="-2439" visible="true" lat="42.95382068" lon="-72.87874996">
+  <node id="-2438" visible="true" lat="42.95382068" lon="-72.87874996">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Virginia Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="335464" />
   </node>
-  <node id="-2440" visible="true" lat="42.96816639" lon="-72.88810137">
+  <node id="-2439" visible="true" lat="42.96816639" lon="-72.88810137">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Pinacle View Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="335985" />
   </node>
-  <node id="-2441" visible="true" lat="42.92879028" lon="-72.8633217">
+  <node id="-2440" visible="true" lat="42.92879028" lon="-72.8633217">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="18" />
     <tag k="addr:street" v="Partridge Run Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="335986" />
   </node>
-  <node id="-2442" visible="true" lat="42.9727893" lon="-72.7857612">
+  <node id="-2441" visible="true" lat="42.9727893" lon="-72.7857612">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="20" />
     <tag k="addr:street" v="Elvas Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="336638" />
   </node>
-  <node id="-2443" visible="true" lat="42.97292096" lon="-72.89292063">
+  <node id="-2442" visible="true" lat="42.97292096" lon="-72.89292063">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="11" />
     <tag k="addr:street" v="Mountain Village" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="336639" />
   </node>
-  <node id="-2444" visible="true" lat="42.94192593" lon="-72.85716191">
+  <node id="-2443" visible="true" lat="42.94192593" lon="-72.85716191">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="148" />
     <tag k="addr:street" v="Vermont Route 100" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="336640" />
   </node>
-  <node id="-2445" visible="true" lat="42.96818422" lon="-72.89188156">
+  <node id="-2444" visible="true" lat="42.96818422" lon="-72.89188156">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="11" />
     <tag k="addr:street" v="Snow Tree Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="336641" />
   </node>
-  <node id="-2446" visible="true" lat="42.96861726" lon="-72.89193877">
+  <node id="-2445" visible="true" lat="42.96861726" lon="-72.89193877">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="13" />
     <tag k="addr:street" v="Snow Tree Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="336642" />
   </node>
-  <node id="-2447" visible="true" lat="42.96830189" lon="-72.89098186">
+  <node id="-2446" visible="true" lat="42.96830189" lon="-72.89098186">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="14" />
     <tag k="addr:street" v="Snow Tree Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="336643" />
   </node>
-  <node id="-2448" visible="true" lat="42.96828091" lon="-72.89055097">
+  <node id="-2447" visible="true" lat="42.96828091" lon="-72.89055097">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="16" />
     <tag k="addr:street" v="Snow Tree Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="336644" />
   </node>
-  <node id="-2449" visible="true" lat="42.97044478" lon="-72.89143655">
+  <node id="-2448" visible="true" lat="42.97044478" lon="-72.89143655">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="32" />
     <tag k="addr:street" v="Snow Tree Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="336646" />
   </node>
-  <node id="-2450" visible="true" lat="42.97012711" lon="-72.89099991">
+  <node id="-2449" visible="true" lat="42.97012711" lon="-72.89099991">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="34" />
     <tag k="addr:street" v="Snow Tree Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="336647" />
   </node>
-  <node id="-2451" visible="true" lat="42.92833382" lon="-72.81332646">
+  <node id="-2450" visible="true" lat="42.92833382" lon="-72.81332646">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="42" />
     <tag k="addr:street" v="Sugar House Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="336648" />
   </node>
-  <node id="-2452" visible="true" lat="42.97513506" lon="-72.88167159">
+  <node id="-2451" visible="true" lat="42.97513506" lon="-72.88167159">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="31" />
     <tag k="addr:street" v="Gaye Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="339408" />
   </node>
-  <node id="-2453" visible="true" lat="42.96145699" lon="-72.88393474">
+  <node id="-2452" visible="true" lat="42.96145699" lon="-72.88393474">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="15" />
     <tag k="addr:street" v="Boulder Ridge Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="339410" />
   </node>
-  <node id="-2454" visible="true" lat="42.96167208" lon="-72.88408552">
+  <node id="-2453" visible="true" lat="42.96167208" lon="-72.88408552">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="17" />
     <tag k="addr:street" v="Boulder Ridge Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="339411" />
   </node>
-  <node id="-2455" visible="true" lat="42.96189878" lon="-72.88427907">
+  <node id="-2454" visible="true" lat="42.96189878" lon="-72.88427907">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="19" />
     <tag k="addr:street" v="Boulder Ridge Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="339412" />
   </node>
-  <node id="-2456" visible="true" lat="42.96214148" lon="-72.88437665">
+  <node id="-2455" visible="true" lat="42.96214148" lon="-72.88437665">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="21" />
     <tag k="addr:street" v="Boulder Ridge Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="339413" />
   </node>
-  <node id="-2457" visible="true" lat="42.96237257" lon="-72.88443146">
+  <node id="-2456" visible="true" lat="42.96237257" lon="-72.88443146">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="23" />
     <tag k="addr:street" v="Boulder Ridge Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="339414" />
   </node>
-  <node id="-2458" visible="true" lat="42.9563237" lon="-72.82498233">
+  <node id="-2457" visible="true" lat="42.9563237" lon="-72.82498233">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="34" />
     <tag k="addr:street" v="Colonial Ridge Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="339415" />
   </node>
-  <node id="-2459" visible="true" lat="42.96235577" lon="-72.78993513">
+  <node id="-2458" visible="true" lat="42.96235577" lon="-72.78993513">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Locust Heights" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="339416" />
   </node>
-  <node id="-2460" visible="true" lat="42.93517859" lon="-72.77417529">
+  <node id="-2459" visible="true" lat="42.93501622" lon="-72.77117024">
     <tag k="addr:city" v="Dover" />
-    <tag k="addr:housenumber" v="80" />
+    <tag k="addr:housenumber" v="29" />
     <tag k="addr:street" v="Carroll Trail" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="340737" />
   </node>
-  <node id="-2461" visible="true" lat="42.94319392" lon="-72.81209662">
+  <node id="-2460" visible="true" lat="42.94319392" lon="-72.81209662">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="28" />
     <tag k="addr:street" v="Woodsman Road Extension" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="340738" />
   </node>
-  <node id="-2462" visible="true" lat="42.94010709" lon="-72.81655565">
+  <node id="-2461" visible="true" lat="42.94010709" lon="-72.81655565">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="43" />
     <tag k="addr:street" v="Woodsman Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="340739" />
   </node>
-  <node id="-2463" visible="true" lat="42.93220031" lon="-72.79506756">
+  <node id="-2462" visible="true" lat="42.93220031" lon="-72.79506756">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="69" />
     <tag k="addr:street" v="Captain Copeland Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="342955" />
   </node>
-  <node id="-2464" visible="true" lat="42.93419705" lon="-72.80928133">
+  <node id="-2463" visible="true" lat="42.93419705" lon="-72.80928133">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Bucket Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="342956" />
   </node>
-  <node id="-2465" visible="true" lat="42.93715594" lon="-72.77723772">
+  <node id="-2464" visible="true" lat="42.93715594" lon="-72.77723772">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="15" />
     <tag k="addr:street" v="Carroll Trail" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="342957" />
   </node>
-  <node id="-2466" visible="true" lat="42.94267659" lon="-72.89041229">
+  <node id="-2465" visible="true" lat="42.94267659" lon="-72.89041229">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="133" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="342959" />
   </node>
-  <node id="-2467" visible="true" lat="42.94435936" lon="-72.88939295">
+  <node id="-2466" visible="true" lat="42.94435936" lon="-72.88939295">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="145" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="342960" />
   </node>
-  <node id="-2468" visible="true" lat="42.96341812" lon="-72.78031908">
+  <node id="-2467" visible="true" lat="42.96341812" lon="-72.78031908">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="70" />
     <tag k="addr:street" v="Locust Heights" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="342962" />
   </node>
-  <node id="-2469" visible="true" lat="42.97110956" lon="-72.87950972">
+  <node id="-2468" visible="true" lat="42.97110956" lon="-72.87950972">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="79" />
     <tag k="addr:street" v="Overlook Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="342963" />
   </node>
-  <node id="-2470" visible="true" lat="42.92675519" lon="-72.86383627">
+  <node id="-2469" visible="true" lat="42.92675519" lon="-72.86383627">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Quail Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="342964" />
   </node>
-  <node id="-2472" visible="true" lat="42.95282785" lon="-72.88131958">
+  <node id="-2471" visible="true" lat="42.94619449" lon="-72.87596366">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="28" />
+    <tag k="addr:street" v="Stugger Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="365538" />
+  </node>
+  <node id="-2472" visible="true" lat="42.96004598" lon="-72.81731374">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="333" />
+    <tag k="addr:street" v="Valley View Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="365580" />
+  </node>
+  <node id="-2473" visible="true" lat="42.94653854" lon="-72.80406991">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="41" />
+    <tag k="addr:street" v="Holland Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="365587" />
+  </node>
+  <node id="-2474" visible="true" lat="42.95549402" lon="-72.82931359">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="74" />
+    <tag k="addr:street" v="Villager Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="365617" />
+  </node>
+  <node id="-2475" visible="true" lat="42.95282785" lon="-72.88131958">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="6" />
     <tag k="addr:street" v="Riverview Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="446524" />
   </node>
-  <node id="-2473" visible="true" lat="42.98368313" lon="-72.88744854">
+  <node id="-2476" visible="true" lat="42.98368313" lon="-72.88744854">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="311" />
     <tag k="addr:street" v="Blue Brook Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="446533" />
   </node>
-  <node id="-2474" visible="true" lat="42.9285208" lon="-72.88648144">
+  <node id="-2477" visible="true" lat="42.9285208" lon="-72.88648144">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="16" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="448238" />
   </node>
-  <node id="-2475" visible="true" lat="42.93222785" lon="-72.86533467">
+  <node id="-2478" visible="true" lat="42.93222785" lon="-72.86533467">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="36" />
     <tag k="addr:street" v="Airport Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="449129" />
   </node>
-  <node id="-2476" visible="true" lat="42.94548003" lon="-72.86845854">
+  <node id="-2479" visible="true" lat="42.94548003" lon="-72.86845854">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="62G" />
     <tag k="addr:street" v="Edwards Village Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="449133" />
   </node>
-  <node id="-2477" visible="true" lat="42.94540291" lon="-72.86838879">
+  <node id="-2480" visible="true" lat="42.94540291" lon="-72.86838879">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="12" />
     <tag k="addr:street" v="Edwards Village Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="449134" />
   </node>
-  <node id="-2478" visible="true" lat="42.94327315" lon="-72.87757307">
+  <node id="-2481" visible="true" lat="42.94327315" lon="-72.87757307">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="11" />
     <tag k="addr:street" v="Foliage Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="449135" />
   </node>
-  <node id="-2479" visible="true" lat="42.93485308" lon="-72.89063662">
+  <node id="-2482" visible="true" lat="42.93485308" lon="-72.89063662">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="67" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="449137" />
   </node>
-  <node id="-2480" visible="true" lat="42.94926489" lon="-72.79445516">
+  <node id="-2483" visible="true" lat="42.94926489" lon="-72.79445516">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="129" />
     <tag k="addr:street" v="Taft Brook Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="449139" />
   </node>
-  <node id="-2481" visible="true" lat="42.92941388" lon="-72.8641657">
+  <node id="-2484" visible="true" lat="42.92941388" lon="-72.8641657">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="26" />
     <tag k="addr:street" v="Partridge Run Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="449153" />
   </node>
-  <node id="-2482" visible="true" lat="42.93126154" lon="-72.83037562">
+  <node id="-2485" visible="true" lat="42.93126154" lon="-72.83037562">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="58" />
     <tag k="addr:street" v="Negus Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="449154" />
   </node>
-  <node id="-2483" visible="true" lat="42.9268029" lon="-72.88953469">
+  <node id="-2486" visible="true" lat="42.9268029" lon="-72.88953469">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="18" />
     <tag k="addr:street" v="Carriage House Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="449155" />
   </node>
-  <node id="-2484" visible="true" lat="42.96127984" lon="-72.84570178">
+  <node id="-2487" visible="true" lat="42.96127984" lon="-72.84570178">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="39" />
     <tag k="addr:street" v="Toms Cabin Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="449156" />
   </node>
-  <node id="-2485" visible="true" lat="42.96319457" lon="-72.88444261">
+  <node id="-2488" visible="true" lat="42.96319457" lon="-72.88444261">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="29" />
     <tag k="addr:street" v="Boulder Ridge Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="449157" />
   </node>
-  <node id="-2486" visible="true" lat="42.97192617" lon="-72.90052356">
+  <node id="-2489" visible="true" lat="42.97192617" lon="-72.90052356">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Slalom Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="449158" />
   </node>
-  <node id="-2487" visible="true" lat="42.92729097" lon="-72.88819788">
+  <node id="-2490" visible="true" lat="42.92729097" lon="-72.88819788">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Carriage House Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="450841" />
   </node>
-  <node id="-2488" visible="true" lat="42.9553629" lon="-72.84099975">
+  <node id="-2491" visible="true" lat="42.9553629" lon="-72.84099975">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="146" />
     <tag k="addr:street" v="Valley View Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="452997" />
   </node>
-  <node id="-2489" visible="true" lat="42.93267183" lon="-72.80763429">
+  <node id="-2492" visible="true" lat="42.93267183" lon="-72.80763429">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="287" />
     <tag k="addr:street" v="Dover Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="453517" />
   </node>
-  <node id="-2490" visible="true" lat="42.9266253" lon="-72.89017226">
+  <node id="-2493" visible="true" lat="42.9266253" lon="-72.89017226">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="20" />
     <tag k="addr:street" v="Carriage House Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="454061" />
   </node>
-  <node id="-2491" visible="true" lat="42.96015779" lon="-72.81630019">
+  <node id="-2494" visible="true" lat="42.960111" lon="-72.816319">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="19" />
     <tag k="addr:street" v="Rice Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="454062" />
   </node>
-  <node id="-2492" visible="true" lat="42.94896724" lon="-72.87565362">
+  <node id="-2495" visible="true" lat="42.94896724" lon="-72.87565362">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Sunne Village Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="454063" />
   </node>
-  <node id="-2493" visible="true" lat="42.94871771" lon="-72.87895036">
+  <node id="-2496" visible="true" lat="42.94871771" lon="-72.87895036">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Breezy Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="454064" />
   </node>
-  <node id="-2494" visible="true" lat="42.98616281" lon="-72.88351885">
+  <node id="-2497" visible="true" lat="42.98616281" lon="-72.88351885">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="13" />
     <tag k="addr:street" v="Upton Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="454065" />
   </node>
-  <node id="-2495" visible="true" lat="42.95014705" lon="-72.79260783">
+  <node id="-2498" visible="true" lat="42.95014705" lon="-72.79260783">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="12" />
     <tag k="addr:street" v="Robbins Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="454297" />
   </node>
-  <node id="-2496" visible="true" lat="42.9614256" lon="-72.77599632">
+  <node id="-2499" visible="true" lat="42.9614256" lon="-72.77599632">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="100" />
     <tag k="addr:street" v="North Street" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="455720" />
   </node>
-  <node id="-2497" visible="true" lat="42.94807092" lon="-72.82473626">
+  <node id="-2500" visible="true" lat="42.94678422" lon="-72.82531896">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="140" />
     <tag k="addr:street" v="Woodsman Road Extension" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="455721" />
   </node>
-  <node id="-2498" visible="true" lat="42.97151586" lon="-72.90004642">
+  <node id="-2501" visible="true" lat="42.97151586" lon="-72.90004642">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Freestyle Circle" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="610924" />
   </node>
-  <node id="-2499" visible="true" lat="42.97155747" lon="-72.90053111">
+  <node id="-2502" visible="true" lat="42.97155747" lon="-72.90053111">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Slalom Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="610926" />
   </node>
-  <node id="-2500" visible="true" lat="42.97120886" lon="-72.90010072">
+  <node id="-2503" visible="true" lat="42.97120886" lon="-72.90010072">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Freestyle Circle" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="610927" />
   </node>
-  <node id="-2501" visible="true" lat="42.97101971" lon="-72.89901944">
+  <node id="-2504" visible="true" lat="42.97101971" lon="-72.89901944">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="14" />
     <tag k="addr:street" v="Freestyle Circle" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="610928" />
   </node>
-  <node id="-2502" visible="true" lat="42.97105398" lon="-72.90045973">
+  <node id="-2505" visible="true" lat="42.97105398" lon="-72.90045973">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Freestyle Circle" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="610929" />
   </node>
-  <node id="-2503" visible="true" lat="42.97078024" lon="-72.90007361">
+  <node id="-2506" visible="true" lat="42.97078024" lon="-72.90007361">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="10" />
     <tag k="addr:street" v="Freestyle Circle" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="610930" />
   </node>
-  <node id="-2504" visible="true" lat="42.94667787" lon="-72.86743474">
+  <node id="-2507" visible="true" lat="42.94667787" lon="-72.86743474">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="219" />
     <tag k="addr:street" v="Vermont Route 100" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="611091" />
   </node>
-  <node id="-2505" visible="true" lat="42.96863988" lon="-72.87730637">
+  <node id="-2508" visible="true" lat="42.96863988" lon="-72.87730637">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Meadow View Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="613443" />
   </node>
-  <node id="-2506" visible="true" lat="42.96834246" lon="-72.87628774">
+  <node id="-2509" visible="true" lat="42.96834246" lon="-72.87628774">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Meadow View Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="613444" />
   </node>
-  <node id="-2507" visible="true" lat="42.92761169" lon="-72.88685291">
+  <node id="-2510" visible="true" lat="42.92761169" lon="-72.88685291">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="15" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="613473" />
   </node>
-  <node id="-2508" visible="true" lat="42.97736734" lon="-72.89772343">
+  <node id="-2511" visible="true" lat="42.97736734" lon="-72.89772343">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="24" />
     <tag k="addr:street" v="Bartlett Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="615633" />
   </node>
-  <node id="-2509" visible="true" lat="42.92648923" lon="-72.85127884">
+  <node id="-2512" visible="true" lat="42.92648923" lon="-72.85127884">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="1" />
     <tag k="addr:street" v="Shannon Ridge Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="617869" />
   </node>
-  <node id="-2510" visible="true" lat="42.96700723" lon="-72.79724883">
+  <node id="-2513" visible="true" lat="42.96700723" lon="-72.79724883">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="28" />
     <tag k="addr:street" v="Sherman Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="617875" />
   </node>
-  <node id="-2511" visible="true" lat="42.96834907" lon="-72.78728511">
+  <node id="-2514" visible="true" lat="42.96834907" lon="-72.78728511">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="28" />
     <tag k="addr:street" v="Pasture Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="617880" />
   </node>
-  <node id="-2512" visible="true" lat="42.96672541" lon="-72.78781211">
+  <node id="-2515" visible="true" lat="42.96672541" lon="-72.78781211">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="30" />
     <tag k="addr:street" v="Pasture Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="617881" />
   </node>
-  <node id="-2513" visible="true" lat="42.95476611" lon="-72.83046722">
+  <node id="-2516" visible="true" lat="42.95476611" lon="-72.83046722">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="64" />
     <tag k="addr:street" v="Villager Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="618092" />
   </node>
-  <node id="-2514" visible="true" lat="42.974457" lon="-72.89095766">
+  <node id="-2517" visible="true" lat="42.974457" lon="-72.89095766">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="4" />
     <tag k="addr:street" v="Tennis Village Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="618374" />
   </node>
-  <node id="-2515" visible="true" lat="42.98076916" lon="-72.88914039">
+  <node id="-2518" visible="true" lat="42.98076916" lon="-72.88914039">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="511" />
     <tag k="addr:street" v="Vermont Route 100" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="618380" />
   </node>
-  <node id="-2516" visible="true" lat="42.98003607" lon="-72.88724298">
+  <node id="-2519" visible="true" lat="42.98003607" lon="-72.88724298">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Ahmeek Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="618381" />
   </node>
-  <node id="-2517" visible="true" lat="42.95881474" lon="-72.88770097">
+  <node id="-2520" visible="true" lat="42.95879971" lon="-72.8876826">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="6" />
     <tag k="addr:street" v="Encore Place" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620112" />
   </node>
-  <node id="-2518" visible="true" lat="42.95890224" lon="-72.88718106">
+  <node id="-2521" visible="true" lat="42.95890224" lon="-72.88718106">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Encore Place" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620113" />
   </node>
-  <node id="-2519" visible="true" lat="42.95910724" lon="-72.88720181">
+  <node id="-2522" visible="true" lat="42.95910724" lon="-72.88720181">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="10" />
     <tag k="addr:street" v="Encore Place" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620114" />
   </node>
-  <node id="-2520" visible="true" lat="42.95922981" lon="-72.88750901">
+  <node id="-2523" visible="true" lat="42.95922981" lon="-72.88750901">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="12" />
     <tag k="addr:street" v="Encore Place" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620115" />
   </node>
-  <node id="-2521" visible="true" lat="42.95925311" lon="-72.88801503">
+  <node id="-2524" visible="true" lat="42.95923808" lon="-72.88799665">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="16" />
     <tag k="addr:street" v="Encore Place" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620116" />
   </node>
-  <node id="-2522" visible="true" lat="42.93514986" lon="-72.81536621">
+  <node id="-2525" visible="true" lat="42.93514986" lon="-72.81536621">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="12" />
     <tag k="addr:street" v="Blackberry Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620405" />
   </node>
-  <node id="-2523" visible="true" lat="42.95640688" lon="-72.87143648">
+  <node id="-2526" visible="true" lat="42.95640688" lon="-72.87143648">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="15" />
     <tag k="addr:street" v="Someday Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620762" />
   </node>
-  <node id="-2524" visible="true" lat="42.95767899" lon="-72.87209267">
+  <node id="-2527" visible="true" lat="42.95767899" lon="-72.87209267">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="17" />
     <tag k="addr:street" v="Someday Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620763" />
   </node>
-  <node id="-2525" visible="true" lat="42.95731285" lon="-72.87115819">
+  <node id="-2528" visible="true" lat="42.95731285" lon="-72.87115819">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="19" />
     <tag k="addr:street" v="Someday Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620764" />
   </node>
-  <node id="-2526" visible="true" lat="42.95022638" lon="-72.87463002">
+  <node id="-2529" visible="true" lat="42.95022638" lon="-72.87463002">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="268" />
     <tag k="addr:street" v="Vermont Route 100" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620765" />
   </node>
-  <node id="-2527" visible="true" lat="42.939586" lon="-72.8734952">
+  <node id="-2530" visible="true" lat="42.939586" lon="-72.8734952">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="66" />
     <tag k="addr:street" v="Country Club Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620766" />
   </node>
-  <node id="-2528" visible="true" lat="42.92606467" lon="-72.85274879">
+  <node id="-2531" visible="true" lat="42.92606467" lon="-72.85274879">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="30" />
     <tag k="addr:street" v="Burchard Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620767" />
   </node>
-  <node id="-2529" visible="true" lat="42.95999844" lon="-72.83547014">
+  <node id="-2532" visible="true" lat="42.95999844" lon="-72.83547014">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="240" />
     <tag k="addr:street" v="Valley View Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620768" />
   </node>
-  <node id="-2530" visible="true" lat="42.95687458" lon="-72.87633718">
+  <node id="-2533" visible="true" lat="42.95687458" lon="-72.87633718">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="7" />
     <tag k="addr:street" v="Challenger Hill Extension" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="620769" />
   </node>
-  <node id="-2531" visible="true" lat="42.94371309" lon="-72.8898584">
+  <node id="-2534" visible="true" lat="42.94371309" lon="-72.8898584">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="139" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="621070" />
   </node>
-  <node id="-2532" visible="true" lat="42.93794676" lon="-72.87093795">
+  <node id="-2535" visible="true" lat="42.93791045" lon="-72.87111765">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="80" />
     <tag k="addr:street" v="Crosstown Trail" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="621071" />
   </node>
-  <node id="-2533" visible="true" lat="42.93511525" lon="-72.86098394">
+  <node id="-2536" visible="true" lat="42.93511525" lon="-72.86098394">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="10" />
     <tag k="addr:street" v="Spring Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="621073" />
   </node>
-  <node id="-2534" visible="true" lat="42.95768379" lon="-72.78742626">
+  <node id="-2537" visible="true" lat="42.94906166" lon="-72.89239922">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="14" />
+    <tag k="addr:street" v="Edelweiss Lane" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="656247" />
+  </node>
+  <node id="-2538" visible="true" lat="42.95768379" lon="-72.78742626">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="91" />
     <tag k="addr:street" v="Goose City Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="700116" />
   </node>
-  <node id="-2535" visible="true" lat="42.95829059" lon="-72.78788252">
+  <node id="-2539" visible="true" lat="42.95829059" lon="-72.78788252">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="93" />
     <tag k="addr:street" v="Goose City Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="700117" />
   </node>
-  <node id="-2536" visible="true" lat="42.96601692" lon="-72.77040789">
+  <node id="-2540" visible="true" lat="42.96601692" lon="-72.77040789">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="19" />
     <tag k="addr:street" v="Wakelee Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="700118" />
   </node>
-  <node id="-2537" visible="true" lat="42.94539938" lon="-72.89001001">
+  <node id="-2541" visible="true" lat="42.94539938" lon="-72.89001001">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="151" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="700194" />
   </node>
-  <node id="-2538" visible="true" lat="42.93296102" lon="-72.85944535">
+  <node id="-2542" visible="true" lat="42.93296102" lon="-72.85944535">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="23" />
     <tag k="addr:street" v="Spring Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="751337" />
   </node>
-  <node id="-2539" visible="true" lat="42.93391653" lon="-72.85762616">
+  <node id="-2543" visible="true" lat="42.93391653" lon="-72.85762616">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="51" />
     <tag k="addr:street" v="Sawmill Village Way" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="751338" />
   </node>
-  <node id="-2540" visible="true" lat="42.9427206" lon="-72.81462921">
+  <node id="-2544" visible="true" lat="42.9427206" lon="-72.81462921">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="29" />
     <tag k="addr:street" v="Woodsman Road Extension" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="751490" />
   </node>
-  <node id="-2541" visible="true" lat="42.94478999" lon="-72.81554809">
+  <node id="-2545" visible="true" lat="42.94478999" lon="-72.81554809">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="57" />
     <tag k="addr:street" v="Woodsman Road Extension" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="751491" />
   </node>
-  <node id="-2542" visible="true" lat="42.94531305" lon="-72.81668197">
+  <node id="-2546" visible="true" lat="42.94562697" lon="-72.81624751">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="75" />
     <tag k="addr:street" v="Woodsman Road Extension" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="751492" />
   </node>
-  <node id="-2543" visible="true" lat="42.94900699" lon="-72.8214526">
+  <node id="-2547" visible="true" lat="42.94900699" lon="-72.8214526">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="102" />
     <tag k="addr:street" v="Woodsman Road Extension" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="751493" />
   </node>
-  <node id="-2544" visible="true" lat="42.94736117" lon="-72.817862">
+  <node id="-2548" visible="true" lat="42.94736117" lon="-72.817862">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="101" />
     <tag k="addr:street" v="Woodsman Road Extension" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="751494" />
   </node>
-  <node id="-2545" visible="true" lat="42.9702808" lon="-72.89867884">
+  <node id="-2549" visible="true" lat="42.9702808" lon="-72.89867884">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Discovery Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="751847" />
   </node>
-  <node id="-2546" visible="true" lat="42.9724916" lon="-72.89814036">
+  <node id="-2550" visible="true" lat="42.9724916" lon="-72.89814036">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="48" />
     <tag k="addr:street" v="Hammer Beam Loop" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="751850" />
   </node>
-  <node id="-2550" visible="true" lat="42.98441114" lon="-72.79708153">
+  <node id="-2554" visible="true" lat="42.98441114" lon="-72.79708153">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="137" />
     <tag k="addr:street" v="Clinton Bond Trail" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="752093" />
   </node>
-  <node id="-2551" visible="true" lat="42.94127254" lon="-72.8878306">
+  <node id="-2555" visible="true" lat="42.94127254" lon="-72.8878306">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="130" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="752179" />
   </node>
-  <node id="-2552" visible="true" lat="42.96311702" lon="-72.90187325">
+  <node id="-2556" visible="true" lat="42.96311702" lon="-72.90187325">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="90" />
     <tag k="addr:street" v="Summit Work Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="752807" />
   </node>
-  <node id="-2554" visible="true" lat="42.9351781" lon="-72.81839462">
+  <node id="-2558" visible="true" lat="42.9351781" lon="-72.81839462">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="28" />
     <tag k="addr:street" v="Blackberry Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="753054" />
   </node>
-  <node id="-2555" visible="true" lat="42.96280201" lon="-72.79210017">
+  <node id="-2559" visible="true" lat="42.96280201" lon="-72.79210017">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="15" />
     <tag k="addr:street" v="Jenne Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="753056" />
   </node>
-  <node id="-2556" visible="true" lat="42.98653814" lon="-72.76417253">
+  <node id="-2560" visible="true" lat="42.98653814" lon="-72.76417253">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="151" />
     <tag k="addr:street" v="Jockey Hollow Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="753057" />
   </node>
-  <node id="-2557" visible="true" lat="42.97196996" lon="-72.89418264">
+  <node id="-2561" visible="true" lat="42.97196996" lon="-72.89418264">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="41" />
     <tag k="addr:street" v="North Access Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="753058" />
   </node>
-  <node id="-2558" visible="true" lat="42.96728384" lon="-72.8877588">
+  <node id="-2562" visible="true" lat="42.96728384" lon="-72.8877588">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="16" />
     <tag k="addr:street" v="Snow Lake Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="753059" />
   </node>
-  <node id="-2559" visible="true" lat="42.96622394" lon="-72.86493798">
+  <node id="-2563" visible="true" lat="42.96622394" lon="-72.86493798">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="95" />
     <tag k="addr:street" v="Hathaway Trail" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="753400" />
   </node>
-  <node id="-2561" visible="true" lat="42.97361321" lon="-72.88831167">
+  <node id="-2565" visible="true" lat="42.97361321" lon="-72.88831167">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="2" />
     <tag k="addr:street" v="Howard Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="754977" />
   </node>
-  <node id="-2562" visible="true" lat="42.93860024" lon="-72.85512279">
+  <node id="-2566" visible="true" lat="42.93860024" lon="-72.85512279">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="14" />
     <tag k="addr:street" v="Crosstown Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="755561" />
   </node>
-  <node id="-2563" visible="true" lat="42.96033544" lon="-72.82156564">
+  <node id="-2567" visible="true" lat="42.96033544" lon="-72.82156564">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="323" />
     <tag k="addr:street" v="Valley View Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="756535" />
   </node>
-  <node id="-2564" visible="true" lat="42.95887546" lon="-72.85160649">
+  <node id="-2568" visible="true" lat="42.95887546" lon="-72.85160649">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="81" />
     <tag k="addr:street" v="Ellis Brook Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="756801" />
   </node>
-  <node id="-2565" visible="true" lat="42.97033284" lon="-72.89973153">
+  <node id="-2569" visible="true" lat="42.97033284" lon="-72.89973153">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="15" />
     <tag k="addr:street" v="Discovery Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="759551" />
   </node>
-  <node id="-2566" visible="true" lat="42.94602254" lon="-72.82577484">
+  <node id="-2570" visible="true" lat="42.94602254" lon="-72.82577484">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="144" />
     <tag k="addr:street" v="Woodsman Road Extension" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="759664" />
   </node>
-  <node id="-2567" visible="true" lat="42.92522409" lon="-72.83148218">
+  <node id="-2571" visible="true" lat="42.92522409" lon="-72.83148218">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="441" />
     <tag k="addr:street" v="Dover Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="759821" />
   </node>
-  <node id="-2568" visible="true" lat="42.96709293" lon="-72.87524117">
+  <node id="-2572" visible="true" lat="42.96709293" lon="-72.87524117">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="36" />
     <tag k="addr:street" v="Overlook Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="759993" />
   </node>
-  <node id="-2569" visible="true" lat="42.94902992" lon="-72.78170881">
+  <node id="-2573" visible="true" lat="42.94902992" lon="-72.78170881">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Thomas Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="759994" />
   </node>
-  <node id="-2570" visible="true" lat="42.95040506" lon="-72.76980939">
+  <node id="-2574" visible="true" lat="42.95040506" lon="-72.76980939">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="18" />
     <tag k="addr:street" v="Dover Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="760449" />
   </node>
-  <node id="-2571" visible="true" lat="42.9466097" lon="-72.78528186">
+  <node id="-2575" visible="true" lat="42.9466097" lon="-72.78528186">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="130" />
     <tag k="addr:street" v="Dover Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="761083" />
   </node>
-  <node id="-2572" visible="true" lat="42.97739394" lon="-72.88922496">
+  <node id="-2576" visible="true" lat="42.9774294" lon="-72.88930222">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="3" />
     <tag k="addr:street" v="Catamount Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762242" />
   </node>
-  <node id="-2573" visible="true" lat="42.97946613" lon="-72.88885202">
+  <node id="-2577" visible="true" lat="42.97946613" lon="-72.88885202">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="18" />
     <tag k="addr:street" v="Catamount Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762243" />
   </node>
-  <node id="-2574" visible="true" lat="42.97848837" lon="-72.88921889">
+  <node id="-2578" visible="true" lat="42.97848837" lon="-72.88921889">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="13" />
     <tag k="addr:street" v="Catamount Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762244" />
   </node>
-  <node id="-2575" visible="true" lat="42.93841533" lon="-72.81829494">
+  <node id="-2579" visible="true" lat="42.93841533" lon="-72.81829494">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="19" />
     <tag k="addr:street" v="Quiet Winter Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762245" />
   </node>
-  <node id="-2576" visible="true" lat="42.93202524" lon="-72.80966649">
+  <node id="-2580" visible="true" lat="42.93202524" lon="-72.80966649">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="32" />
     <tag k="addr:street" v="Heritage Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762246" />
   </node>
-  <node id="-2577" visible="true" lat="42.9315765" lon="-72.79745583">
+  <node id="-2581" visible="true" lat="42.9315765" lon="-72.79745583">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="56" />
     <tag k="addr:street" v="Captain Copeland Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762247" />
   </node>
-  <node id="-2578" visible="true" lat="42.92996877" lon="-72.81484037">
+  <node id="-2582" visible="true" lat="42.92996877" lon="-72.81484037">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="7" />
     <tag k="addr:street" v="Old Town Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762248" />
   </node>
-  <node id="-2580" visible="true" lat="42.948683" lon="-72.76910432">
+  <node id="-2583" visible="true" lat="42.93708372" lon="-72.77203558">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="27" />
+    <tag k="addr:street" v="Carroll Trail" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="762249" />
+  </node>
+  <node id="-2584" visible="true" lat="42.948683" lon="-72.76910432">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="90" />
     <tag k="addr:street" v="Sheep Mountain Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762250" />
   </node>
-  <node id="-2581" visible="true" lat="42.94860414" lon="-72.76769361">
+  <node id="-2585" visible="true" lat="42.94860414" lon="-72.76769361">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="160" />
     <tag k="addr:street" v="Sheep Mountain Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762251" />
   </node>
-  <node id="-2582" visible="true" lat="42.95913398" lon="-72.7875328">
+  <node id="-2586" visible="true" lat="42.95913398" lon="-72.7875328">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="94" />
     <tag k="addr:street" v="Goose City Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762252" />
   </node>
-  <node id="-2583" visible="true" lat="42.97325169" lon="-72.76995985">
+  <node id="-2587" visible="true" lat="42.97325169" lon="-72.76995985">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="57" />
     <tag k="addr:street" v="Jockey Hollow Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762253" />
   </node>
-  <node id="-2584" visible="true" lat="42.98053315" lon="-72.76671214">
+  <node id="-2588" visible="true" lat="42.98053315" lon="-72.76671214">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="111" />
     <tag k="addr:street" v="Jockey Hollow Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762254" />
   </node>
-  <node id="-2586" visible="true" lat="42.98489597" lon="-72.85020499">
+  <node id="-2590" visible="true" lat="42.98489597" lon="-72.85020499">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="308" />
     <tag k="addr:street" v="Hathaway Trail" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762256" />
   </node>
-  <node id="-2587" visible="true" lat="42.98159083" lon="-72.86322254">
+  <node id="-2591" visible="true" lat="42.98159083" lon="-72.86322254">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="165" />
     <tag k="addr:street" v="Hathaway Trail" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762257" />
   </node>
-  <node id="-2588" visible="true" lat="42.97825378" lon="-72.86404627">
+  <node id="-2592" visible="true" lat="42.97825378" lon="-72.86404627">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="163" />
     <tag k="addr:street" v="Hathaway Trail" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762258" />
   </node>
-  <node id="-2589" visible="true" lat="42.92757871" lon="-72.85238489">
+  <node id="-2593" visible="true" lat="42.92757871" lon="-72.85238489">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Shannon Ridge Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762259" />
   </node>
-  <node id="-2590" visible="true" lat="42.93200456" lon="-72.81616279">
+  <node id="-2594" visible="true" lat="42.93200456" lon="-72.81616279">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="348" />
     <tag k="addr:street" v="Dover Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762349" />
   </node>
-  <node id="-2592" visible="true" lat="42.92995368" lon="-72.84518216">
+  <node id="-2596" visible="true" lat="42.92995368" lon="-72.84518216">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="51" />
     <tag k="addr:street" v="Dorr Fitch Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762906" />
   </node>
-  <node id="-2593" visible="true" lat="42.93337488" lon="-72.86558255">
+  <node id="-2597" visible="true" lat="42.93337488" lon="-72.86558255">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="30" />
     <tag k="addr:street" v="Airport Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="763114" />
   </node>
-  <node id="-2594" visible="true" lat="42.94055747" lon="-72.81556197">
+  <node id="-2598" visible="true" lat="42.94055747" lon="-72.81556197">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="50" />
     <tag k="addr:street" v="Woodsman Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="763703" />
   </node>
-  <node id="-2602" visible="true" lat="42.9405698" lon="-72.81499791">
+  <node id="-2599" visible="true" lat="42.9406521" lon="-72.81689235">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="45" />
+    <tag k="addr:street" v="Woodsman Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="763707" />
+  </node>
+  <node id="-2600" visible="true" lat="42.94109898" lon="-72.81656965">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="47" />
+    <tag k="addr:street" v="Woodsman Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="763708" />
+  </node>
+  <node id="-2606" visible="true" lat="42.94059068" lon="-72.81498181">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="52" />
     <tag k="addr:street" v="Woodsman Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="763714" />
   </node>
-  <node id="-2616" visible="true" lat="42.96676465" lon="-72.87703473">
+  <node id="-2620" visible="true" lat="42.96676465" lon="-72.87703473">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="30" />
     <tag k="addr:street" v="Overlook Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="763861" />
   </node>
-  <node id="-2617" visible="true" lat="42.95310853" lon="-72.88259384">
+  <node id="-2621" visible="true" lat="42.95310853" lon="-72.88259384">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Christmas Tree Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="764883" />
   </node>
-  <node id="-2618" visible="true" lat="42.96260725" lon="-72.88392746">
+  <node id="-2622" visible="true" lat="42.9630422" lon="-72.88384504">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="24" />
     <tag k="addr:street" v="Boulder Ridge Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="764884" />
   </node>
-  <node id="-2619" visible="true" lat="42.96272253" lon="-72.88328769">
+  <node id="-2623" visible="true" lat="42.96296603" lon="-72.88347568">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="34" />
     <tag k="addr:street" v="Boulder Ridge Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="764885" />
   </node>
-  <node id="-2620" visible="true" lat="42.93560324" lon="-72.81706848">
+  <node id="-2624" visible="true" lat="42.93560324" lon="-72.81706848">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="20" />
     <tag k="addr:street" v="Blackberry Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="764886" />
   </node>
-  <node id="-2621" visible="true" lat="42.93953884" lon="-72.86815855">
+  <node id="-2625" visible="true" lat="42.93964207" lon="-72.86827587">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="8" />
     <tag k="addr:street" v="Barber Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="764887" />
   </node>
-  <node id="-2622" visible="true" lat="42.97944153" lon="-72.8892509">
+  <node id="-2626" visible="true" lat="42.97944153" lon="-72.8892509">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="17" />
     <tag k="addr:street" v="Catamount Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="764922" />
   </node>
-  <node id="-2623" visible="true" lat="42.97862395" lon="-72.88873971">
+  <node id="-2627" visible="true" lat="42.97862395" lon="-72.88873971">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="14" />
     <tag k="addr:street" v="Catamount Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="764923" />
   </node>
-  <node id="-2624" visible="true" lat="42.97805722" lon="-72.88870371">
+  <node id="-2628" visible="true" lat="42.97796312" lon="-72.88868677">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="10" />
     <tag k="addr:street" v="Catamount Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="764924" />
   </node>
-  <node id="-2625" visible="true" lat="42.97808415" lon="-72.88919044">
+  <node id="-2629" visible="true" lat="42.97808415" lon="-72.88919044">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="9" />
     <tag k="addr:street" v="Catamount Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="764925" />
   </node>
-  <node id="-2626" visible="true" lat="42.97741884" lon="-72.88872564">
+  <node id="-2630" visible="true" lat="42.97741884" lon="-72.88872564">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="6" />
     <tag k="addr:street" v="Catamount Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="764926" />
   </node>
-  <node id="-2627" visible="true" lat="42.97670713" lon="-72.88929853">
+  <node id="-2631" visible="true" lat="42.97670713" lon="-72.88929853">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="1" />
     <tag k="addr:street" v="Catamount Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="764927" />
   </node>
-  <node id="-2628" visible="true" lat="42.97697626" lon="-72.88859959">
+  <node id="-2632" visible="true" lat="42.97697626" lon="-72.88859959">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="4" />
     <tag k="addr:street" v="Catamount Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="764928" />
   </node>
-  <node id="-2629" visible="true" lat="42.97912404" lon="-72.88876233">
+  <node id="-2633" visible="true" lat="42.97912404" lon="-72.88876233">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="16" />
     <tag k="addr:street" v="Catamount Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="764929" />
   </node>
-  <node id="-2630" visible="true" lat="42.93038186" lon="-72.7929093">
+  <node id="-2634" visible="true" lat="42.92589951" lon="-72.84952081">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="7" />
+    <tag k="addr:street" v="Josies Way" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="765982" />
+  </node>
+  <node id="-2635" visible="true" lat="42.9460383" lon="-72.86904532">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="3" />
+    <tag k="addr:street" v="Juniors Way" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="765983" />
+  </node>
+  <node id="-2636" visible="true" lat="42.94699215" lon="-72.86875401">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="4" />
+    <tag k="addr:street" v="Juniors Way" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="765984" />
+  </node>
+  <node id="-2637" visible="true" lat="42.96384759" lon="-72.89340995">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="25" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766096" />
+  </node>
+  <node id="-2638" visible="true" lat="42.96404189" lon="-72.8936309">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="23" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766097" />
+  </node>
+  <node id="-2639" visible="true" lat="42.96391395" lon="-72.89390862">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="21" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766098" />
+  </node>
+  <node id="-2640" visible="true" lat="42.96345616" lon="-72.89440026">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="16" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766099" />
+  </node>
+  <node id="-2641" visible="true" lat="42.96242197" lon="-72.89535311">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="3" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766100" />
+  </node>
+  <node id="-2642" visible="true" lat="42.96285144" lon="-72.89536523">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="5" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766101" />
+  </node>
+  <node id="-2643" visible="true" lat="42.9634755" lon="-72.89564157">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="9" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766102" />
+  </node>
+  <node id="-2644" visible="true" lat="42.96264107" lon="-72.89507201">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="1" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766103" />
+  </node>
+  <node id="-2645" visible="true" lat="42.9630708" lon="-72.89477884">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="2" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766104" />
+  </node>
+  <node id="-2646" visible="true" lat="42.96306526" lon="-72.89552064">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="7" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766105" />
+  </node>
+  <node id="-2647" visible="true" lat="42.96362559" lon="-72.89528136">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="11" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766106" />
+  </node>
+  <node id="-2648" visible="true" lat="42.96383074" lon="-72.89455669">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="17" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766107" />
+  </node>
+  <node id="-2649" visible="true" lat="42.96387383" lon="-72.89419509">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="19" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766108" />
+  </node>
+  <node id="-2650" visible="true" lat="42.96373854" lon="-72.89488693">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="15" />
+    <tag k="addr:street" v="Sundance Village Loop" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="766109" />
+  </node>
+  <node id="-2651" visible="true" lat="42.96113728" lon="-72.8438208">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="45" />
+    <tag k="addr:street" v="Toms Cabin Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767256" />
+  </node>
+  <node id="-2652" visible="true" lat="42.96030195" lon="-72.84324868">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="46" />
+    <tag k="addr:street" v="Toms Cabin Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767257" />
+  </node>
+  <node id="-2653" visible="true" lat="42.95981553" lon="-72.88929939">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="257" />
+    <tag k="addr:street" v="Handle Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767258" />
+  </node>
+  <node id="-2654" visible="true" lat="42.93454845" lon="-72.81317897">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="320" />
+    <tag k="addr:street" v="Dover Hill Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767260" />
+  </node>
+  <node id="-2655" visible="true" lat="42.92708527" lon="-72.85018696">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:street" v="White Tail Lane" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767261" />
+  </node>
+  <node id="-2656" visible="true" lat="42.92519344" lon="-72.8297592">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="437" />
+    <tag k="addr:street" v="Dover Hill Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767466" />
+  </node>
+  <node id="-2657" visible="true" lat="42.96100116" lon="-72.83115977">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="264" />
+    <tag k="addr:street" v="Valley View Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767467" />
+  </node>
+  <node id="-2658" visible="true" lat="42.94492561" lon="-72.79216204">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="13" />
+    <tag k="addr:street" v="Snow Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767468" />
+  </node>
+  <node id="-2659" visible="true" lat="42.94700547" lon="-72.79146671">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="170" />
+    <tag k="addr:street" v="Dover Hill Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767469" />
+  </node>
+  <node id="-2661" visible="true" lat="42.93153337" lon="-72.85512852">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="49" />
+    <tag k="addr:street" v="Sawmill Village Way" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767836" />
+  </node>
+  <node id="-2662" visible="true" lat="42.9295367" lon="-72.84176349">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="71" />
+    <tag k="addr:street" v="Dorr Fitch Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767837" />
+  </node>
+  <node id="-2663" visible="true" lat="42.95718141" lon="-72.89156533">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="20" />
+    <tag k="addr:street" v="Carinthia Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767839" />
+  </node>
+  <node id="-2664" visible="true" lat="42.97210002" lon="-72.88985169">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="21" />
+    <tag k="addr:street" v="Upper Canyon Drive" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767950" />
+  </node>
+  <node id="-2665" visible="true" lat="42.97280197" lon="-72.89004505">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="29" />
+    <tag k="addr:street" v="Upper Canyon Drive" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767951" />
+  </node>
+  <node id="-2666" visible="true" lat="42.97241308" lon="-72.88971582">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="24" />
+    <tag k="addr:street" v="Upper Canyon Drive" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767952" />
+  </node>
+  <node id="-2667" visible="true" lat="42.97254985" lon="-72.88976939">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="26" />
+    <tag k="addr:street" v="Upper Canyon Drive" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767953" />
+  </node>
+  <node id="-2668" visible="true" lat="42.97223588" lon="-72.88999688">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="23" />
+    <tag k="addr:street" v="Upper Canyon Drive" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767954" />
+  </node>
+  <node id="-2669" visible="true" lat="42.97240466" lon="-72.890092">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="25" />
+    <tag k="addr:street" v="Upper Canyon Drive" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767955" />
+  </node>
+  <node id="-2670" visible="true" lat="42.97259268" lon="-72.89013049">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="27" />
+    <tag k="addr:street" v="Upper Canyon Drive" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767956" />
+  </node>
+  <node id="-2671" visible="true" lat="42.97297766" lon="-72.89003562">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="31" />
+    <tag k="addr:street" v="Upper Canyon Drive" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767957" />
+  </node>
+  <node id="-2672" visible="true" lat="42.97318" lon="-72.89006528">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="33" />
+    <tag k="addr:street" v="Upper Canyon Drive" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="767958" />
+  </node>
+  <node id="-2673" visible="true" lat="42.94545969" lon="-72.88771915">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="152" />
+    <tag k="addr:street" v="Handle Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="768629" />
+  </node>
+  <node id="-2674" visible="true" lat="42.94134029" lon="-72.85804059">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="155" />
+    <tag k="addr:street" v="Vermont Route 100" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="769372" />
+  </node>
+  <node id="-2675" visible="true" lat="42.98303663" lon="-72.78511952">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="136" />
+    <tag k="addr:street" v="Whites Hill Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="769379" />
+  </node>
+  <node id="-2676" visible="true" lat="42.94812938" lon="-72.82398269">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="136" />
+    <tag k="addr:street" v="Woodsman Road Extension" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="769382" />
+  </node>
+  <node id="-2677" visible="true" lat="42.95778717" lon="-72.76324509">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="3" />
+    <tag k="addr:street" v="Oneil Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="769383" />
+  </node>
+  <node id="-2678" visible="true" lat="42.95962453" lon="-72.89048486">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="8" />
+    <tag k="addr:street" v="Carinthia Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="769882" />
+  </node>
+  <node id="-2679" visible="true" lat="42.96124584" lon="-72.84365727">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="47" />
+    <tag k="addr:street" v="Toms Cabin Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="769973" />
+  </node>
+  <node id="-2680" visible="true" lat="42.96130821" lon="-72.84517021">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="43" />
+    <tag k="addr:street" v="Toms Cabin Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="769974" />
+  </node>
+  <node id="-2681" visible="true" lat="42.97860787" lon="-72.77791433">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="33" />
+    <tag k="addr:street" v="Clyde Jones Trail" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="770138" />
+  </node>
+  <node id="-2682" visible="true" lat="42.94718325" lon="-72.80961121">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="37" />
+    <tag k="addr:street" v="Cooper Hill Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="770154" />
+  </node>
+  <node id="-2683" visible="true" lat="42.95736341" lon="-72.84798515">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="60" />
+    <tag k="addr:street" v="Ellis Brook Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="770229" />
+  </node>
+  <node id="-2684" visible="true" lat="42.95170466" lon="-72.84460028">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="14" />
+    <tag k="addr:street" v="Ellis Brook Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="770280" />
+  </node>
+  <node id="-2685" visible="true" lat="42.97163104" lon="-72.8783989">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="80" />
+    <tag k="addr:street" v="Overlook Drive" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="770281" />
+  </node>
+  <node id="-2686" visible="true" lat="42.93948619" lon="-72.77749191">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="41" />
+    <tag k="addr:street" v="Yeaw Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="770294" />
+  </node>
+  <node id="-2687" visible="true" lat="42.9686289" lon="-72.8877201">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="2" />
+    <tag k="addr:street" v="Pinacle View Lane" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="770296" />
+  </node>
+  <node id="-2688" visible="true" lat="42.94372993" lon="-72.77526953">
+    <tag k="addr:city" v="Dover" />
+    <tag k="addr:housenumber" v="9" />
+    <tag k="addr:street" v="Yeaw Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="770687" />
+  </node>
+  <node id="-2689" visible="true" lat="42.93038186" lon="-72.7929093">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="88" />
     <tag k="addr:street" v="Captain Copeland Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="800088" />
   </node>
-  <node id="-2631" visible="true" lat="42.93985327" lon="-72.81023331">
+  <node id="-2690" visible="true" lat="42.93985327" lon="-72.81023331">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="20" />
     <tag k="addr:street" v="Woodsman Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="800164" />
   </node>
-  <node id="-2632" visible="true" lat="42.96265699" lon="-72.88443127">
+  <node id="-2691" visible="true" lat="42.96265699" lon="-72.88443127">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="25" />
     <tag k="addr:street" v="Boulder Ridge Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050079" />
   </node>
-  <node id="-2633" visible="true" lat="42.92974622" lon="-72.89084974">
+  <node id="-2692" visible="true" lat="42.92974622" lon="-72.89084974">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="21" />
     <tag k="addr:street" v="Hermitage Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050133" />
   </node>
-  <node id="-2634" visible="true" lat="42.95945402" lon="-72.88775647">
+  <node id="-2693" visible="true" lat="42.95945402" lon="-72.88775647">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="14" />
     <tag k="addr:street" v="Encore Place" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050134" />
   </node>
-  <node id="-2635" visible="true" lat="42.96286358" lon="-72.76778331">
+  <node id="-2694" visible="true" lat="42.96286358" lon="-72.76778331">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="45" />
     <tag k="addr:street" v="Wakelee Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050255" />
   </node>
-  <node id="-2636" visible="true" lat="42.9388322" lon="-72.80812231">
+  <node id="-2695" visible="true" lat="42.9388322" lon="-72.80812231">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="7" />
     <tag k="addr:street" v="Schoolhouse Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050256" />
   </node>
-  <node id="-2637" visible="true" lat="42.95729089" lon="-72.81194267">
+  <node id="-2696" visible="true" lat="42.95729089" lon="-72.81194267">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="120" />
     <tag k="addr:street" v="Cooper Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050257" />
   </node>
-  <node id="-2638" visible="true" lat="42.92869617" lon="-72.84130709">
+  <node id="-2697" visible="true" lat="42.92869617" lon="-72.84130709">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="80" />
     <tag k="addr:street" v="Dorr Fitch Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050281" />
   </node>
-  <node id="-2639" visible="true" lat="42.92717" lon="-72.86567">
+  <node id="-2698" visible="true" lat="42.92717" lon="-72.86567">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="12" />
     <tag k="addr:street" v="Quail Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050282" />
   </node>
-  <node id="-2640" visible="true" lat="42.94870249" lon="-72.87311495">
+  <node id="-2699" visible="true" lat="42.94870249" lon="-72.87311495">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="255" />
     <tag k="addr:street" v="Vermont Route 100" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050283" />
   </node>
-  <node id="-2641" visible="true" lat="42.95730151" lon="-72.89012641">
+  <node id="-2700" visible="true" lat="42.95730151" lon="-72.89012641">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="46" />
     <tag k="addr:street" v="Carinthia Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050284" />
   </node>
-  <node id="-2642" visible="true" lat="42.966" lon="-72.89083">
+  <node id="-2701" visible="true" lat="42.966" lon="-72.89083">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="293" />
     <tag k="addr:street" v="Handle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050285" />
   </node>
-  <node id="-2643" visible="true" lat="42.96686775" lon="-72.88927596">
+  <node id="-2702" visible="true" lat="42.96686775" lon="-72.88927596">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="29" />
     <tag k="addr:street" v="Snow Lake Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050286" />
   </node>
-  <node id="-2644" visible="true" lat="42.95996499" lon="-72.92001566">
+  <node id="-2703" visible="true" lat="42.95996499" lon="-72.92001566">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="250" />
     <tag k="addr:street" v="Summit Work Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050287" />
   </node>
-  <node id="-2645" visible="true" lat="42.9704666" lon="-72.92024739">
+  <node id="-2704" visible="true" lat="42.9704666" lon="-72.92024739">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="100" />
     <tag k="addr:street" v="Summit Work Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050288" />
   </node>
-  <node id="-2646" visible="true" lat="42.94730579" lon="-72.87317058">
+  <node id="-2705" visible="true" lat="42.94730579" lon="-72.87317058">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="11" />
     <tag k="addr:street" v="Stugger Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1051017" />
   </node>
-  <node id="-2647" visible="true" lat="42.94783715" lon="-72.87236649">
+  <node id="-2706" visible="true" lat="42.94783715" lon="-72.87236649">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="5" />
     <tag k="addr:street" v="Stugger Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1051018" />
   </node>
-  <node id="-2648" visible="true" lat="42.9613503" lon="-72.79293061">
+  <node id="-2707" visible="true" lat="42.9613503" lon="-72.79293061">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="133" />
     <tag k="addr:street" v="Goose City Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1051047" />
   </node>
-  <node id="-2649" visible="true" lat="42.95620686" lon="-72.85205701">
+  <node id="-2708" visible="true" lat="42.95620686" lon="-72.85205701">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="52" />
     <tag k="addr:street" v="Buckboard Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1051048" />
   </node>
-  <node id="-2650" visible="true" lat="42.95657429" lon="-72.85420356">
+  <node id="-2709" visible="true" lat="42.95657429" lon="-72.85420356">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="63" />
     <tag k="addr:street" v="Buckboard Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1051049" />
   </node>
-  <node id="-2651" visible="true" lat="42.95844649" lon="-72.8594667">
+  <node id="-2710" visible="true" lat="42.95844649" lon="-72.8594667">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="10" />
     <tag k="addr:street" v="Ledge Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1051050" />
   </node>
-  <node id="-2652" visible="true" lat="42.95194496" lon="-72.8741944">
+  <node id="-2711" visible="true" lat="42.95194496" lon="-72.8741944">
     <tag k="addr:city" v="Dover" />
     <tag k="addr:housenumber" v="31" />
     <tag k="addr:street" v="Joans Ridge" />

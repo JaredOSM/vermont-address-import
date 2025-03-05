@@ -1,3 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-222" visible="true" lat="43.61745855" lon="-72.61276267">
+    <!-- offset: "2463 North Bridgewater Road, Bridgewater, VT" Significant offset - 229.8m -->
+    <tag k="addr:city" v="Bridgewater"/>
+    <tag k="addr:housenumber" v="2463"/>
+    <tag k="addr:street" v="North Bridgewater Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="36575"/>
+  </node>
+  <node id="-239" visible="true" lat="43.6135872" lon="-72.61190441">
+    <!-- offset: "2327 North Bridgewater Road, Bridgewater, VT" Significant offset - 434.5m -->
+    <tag k="addr:city" v="Bridgewater"/>
+    <tag k="addr:housenumber" v="2327"/>
+    <tag k="addr:street" v="North Bridgewater Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="36593"/>
+  </node>
+  <node id="-265" visible="true" lat="43.60787406" lon="-72.61284927">
+    <!-- offset: "2057 North Bridgewater Road, Bridgewater, VT" Significant offset - 638m -->
+    <tag k="addr:city" v="Bridgewater"/>
+    <tag k="addr:housenumber" v="2057"/>
+    <tag k="addr:street" v="North Bridgewater Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="36620"/>
+  </node>
+  <node id="-706" visible="true" lat="43.60763751" lon="-72.61008152">
+    <!-- offset: "2052 North Bridgewater Road, Bridgewater, VT" Significant offset - 664.7m -->
+    <tag k="addr:city" v="Bridgewater"/>
+    <tag k="addr:housenumber" v="2052"/>
+    <tag k="addr:street" v="North Bridgewater Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="305511"/>
+  </node>
 </osm>

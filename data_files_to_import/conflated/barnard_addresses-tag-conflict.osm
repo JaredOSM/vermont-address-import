@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-104" visible="true" lat="43.72536269" lon="-72.59144811">
+  <node id="-104" visible="true" lat="43.72536103" lon="-72.59144811">
     <!-- conflict: "439 Royalton Turnpike, Barnard, VT" No match in OSM, but a different address exists <5m away: " Royalton Turnpike, Barnard, VT" -->
     <tag k="addr:city" v="Barnard"/>
     <tag k="addr:housenumber" v="439"/>
@@ -63,6 +63,86 @@
     <tag k="addr:street" v="Sugar House Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="6422"/>
+  </node>
+  <node id="-584" visible="true" lat="43.72487338" lon="-72.58913001">
+    <!-- conflict: "51 Twin Farms Way, Barnard, VT" No match in OSM, but a different address exists <5m away: "51 Courtyard Road, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Twin Farms Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6434"/>
+  </node>
+  <node id="-596" visible="true" lat="43.72396907" lon="-72.59008475">
+    <!-- conflict: "27 Cottage Loop, Barnard, VT" No match in OSM, but a different address exists <5m away: "197 Cottage Road, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Cottage Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6448"/>
+  </node>
+  <node id="-603" visible="true" lat="43.72343162" lon="-72.58999782">
+    <!-- conflict: "69 Cottage Loop, Barnard, VT" No match in OSM, but a different address exists <5m away: "241 Cottage Road, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Cottage Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6455"/>
+  </node>
+  <node id="-608" visible="true" lat="43.72259308" lon="-72.59064425">
+    <!-- conflict: "664 Cottage Loop, Barnard, VT" No match in OSM, but a different address exists <5m away: "836 Cottage Road, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="664"/>
+    <tag k="addr:street" v="Cottage Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6461"/>
+  </node>
+  <node id="-609" visible="true" lat="43.72272264" lon="-72.58965274">
+    <!-- conflict: "99 Cottage Loop, Barnard, VT" No match in OSM, but a different address exists <5m away: "293 Cottage Road, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:street" v="Cottage Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6462"/>
+  </node>
+  <node id="-610" visible="true" lat="43.72246158" lon="-72.59152017">
+    <!-- conflict: "620 Cottage Loop, Barnard, VT" No match in OSM, but a different address exists <5m away: "792 Cottage Road, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="620"/>
+    <tag k="addr:street" v="Cottage Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6463"/>
+  </node>
+  <node id="-612" visible="true" lat="43.7220386" lon="-72.59377944">
+    <!-- conflict: "59 Treehouse Loop, Barnard, VT" No match in OSM, but a different address exists <5m away: "689 Cottage Road, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="Treehouse Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6465"/>
+  </node>
+  <node id="-614" visible="true" lat="43.72162651" lon="-72.58973207">
+    <!-- conflict: "203 Cottage Loop, Barnard, VT" No match in OSM, but a different address exists <5m away: "369 Cottage Road, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="203"/>
+    <tag k="addr:street" v="Cottage Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6467"/>
+  </node>
+  <node id="-616" visible="true" lat="43.72099811" lon="-72.59236164">
+    <!-- conflict: "486 Cottage Loop, Barnard, VT" No match in OSM, but a different address exists <5m away: "658 Cottage Road, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="486"/>
+    <tag k="addr:street" v="Cottage Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6469"/>
+  </node>
+  <node id="-617" visible="true" lat="43.72052416" lon="-72.59274975">
+    <!-- conflict: "444 Cottage Loop, Barnard, VT" No match in OSM, but a different address exists <5m away: "606 Cottage Road, Barnard, VT" -->
+    <tag k="addr:city" v="Barnard"/>
+    <tag k="addr:housenumber" v="444"/>
+    <tag k="addr:street" v="Cottage Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6470"/>
   </node>
   <node id="-822" visible="true" lat="43.78494234" lon="-72.64993727">
     <!-- conflict: "578 Masterson Road, Barnard, VT" Fuzzy match to "578 Masterson Road, , " -->

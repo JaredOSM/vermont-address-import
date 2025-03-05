@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-361" visible="true" lat="43.62758573" lon="-72.51369687">
+  <node id="-147" visible="true" lat="43.64793807" lon="-72.55895577">
+    <!-- conflict: "2525 Barnard Road, Woodstock, VT" No match in OSM, but a different address exists <5m away: "2505 Barnard Road, Woodstock, VT" -->
+    <tag k="addr:city" v="Woodstock"/>
+    <tag k="addr:housenumber" v="2525"/>
+    <tag k="addr:street" v="Barnard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="302563"/>
+  </node>
+  <node id="-360" visible="true" lat="43.62758573" lon="-72.51369687">
     <!-- conflict: "32 Pleasant Street, Woodstock, VT" Fuzzy match to "32 Pleasant Street, Woodstock, " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="32"/>
@@ -8,7 +16,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302800"/>
   </node>
-  <node id="-369" visible="true" lat="43.62722771" lon="-72.50995434">
+  <node id="-367" visible="true" lat="43.62722771" lon="-72.50995434">
     <!-- conflict: "54 Pleasant Street, Woodstock, VT" No match in OSM, but a different address exists <5m away: "54 , Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="54"/>
@@ -16,7 +24,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302811"/>
   </node>
-  <node id="-373" visible="true" lat="43.62712925" lon="-72.51153185">
+  <node id="-371" visible="true" lat="43.62712925" lon="-72.51153185">
     <!-- conflict: "46 Pleasant Street, Woodstock, VT" Fuzzy match to "46 Pleasant Street, Woodstock, " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="46"/>
@@ -24,7 +32,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302815"/>
   </node>
-  <node id="-406" visible="true" lat="43.62656557" lon="-72.51222322">
+  <node id="-404" visible="true" lat="43.62656557" lon="-72.51222322">
     <!-- conflict: "35A Pleasant Street, Woodstock, VT" Fuzzy match to "35 A Pleasant Street, Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="35A"/>
@@ -32,7 +40,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302856"/>
   </node>
-  <node id="-432" visible="true" lat="43.6264439" lon="-72.51547922">
+  <node id="-430" visible="true" lat="43.6264439" lon="-72.51547922">
     <!-- conflict: "40 Central Street, Woodstock, VT" Fuzzy match to "40 Central St, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="40"/>
@@ -40,7 +48,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302887"/>
   </node>
-  <node id="-451" visible="true" lat="43.62607068" lon="-72.51557569">
+  <node id="-449" visible="true" lat="43.62607068" lon="-72.51557569">
     <!-- conflict: "71 Central Street, Woodstock, VT" Fuzzy match to "71 Central Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="71"/>
@@ -48,7 +56,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302908"/>
   </node>
-  <node id="-479" visible="true" lat="43.62564458" lon="-72.51866734">
+  <node id="-477" visible="true" lat="43.62564458" lon="-72.51866734">
     <!-- conflict: "18 Elm Street, Woodstock, VT" Fuzzy match to "18 Elm Street, Woodstock, " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="18"/>
@@ -56,7 +64,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302937"/>
   </node>
-  <node id="-497" visible="true" lat="43.62544076" lon="-72.51830537">
+  <node id="-495" visible="true" lat="43.62544076" lon="-72.51830537">
     <!-- conflict: "3 Elm Street, Woodstock, VT" Fuzzy match to "3 Elm Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="3"/>
@@ -64,7 +72,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302958"/>
   </node>
-  <node id="-516" visible="true" lat="43.6253395" lon="-72.51828002">
+  <node id="-514" visible="true" lat="43.6253395" lon="-72.51828002">
     <!-- conflict: "1 Elm Street, Woodstock, VT" No match in OSM, but a different address exists <5m away: "3 Elm Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="1"/>
@@ -72,7 +80,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302977"/>
   </node>
-  <node id="-529" visible="true" lat="43.62514794" lon="-72.51145402">
+  <node id="-527" visible="true" lat="43.62514794" lon="-72.51145402">
     <!-- conflict: "34 Watkins Way, Woodstock, VT" No match in OSM, but a different address exists <5m away: "25 Lincoln Street, Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="34"/>
@@ -80,7 +88,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302991"/>
   </node>
-  <node id="-532" visible="true" lat="43.62538426" lon="-72.51868496">
+  <node id="-530" visible="true" lat="43.62538426" lon="-72.51868496">
     <!-- conflict: "6 Elm Street, Woodstock, VT" Fuzzy match to "6 Elm Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="6"/>
@@ -88,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302995"/>
   </node>
-  <node id="-534" visible="true" lat="43.62522506" lon="-72.5176773">
+  <node id="-532" visible="true" lat="43.62522506" lon="-72.5176773">
     <!-- conflict: "39 Central Street, Woodstock, VT" No match in OSM, but a different address exists <5m away: " Central Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="39"/>
@@ -96,7 +104,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302997"/>
   </node>
-  <node id="-546" visible="true" lat="43.62507338" lon="-72.51808329">
+  <node id="-544" visible="true" lat="43.62507338" lon="-72.51808329">
     <!-- conflict: "19 Central Street, Woodstock, VT" No match in OSM, but a different address exists <5m away: " Central Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="19"/>
@@ -104,7 +112,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303011"/>
   </node>
-  <node id="-550" visible="true" lat="43.62502432" lon="-72.52146115">
+  <node id="-548" visible="true" lat="43.62502432" lon="-72.52146115">
     <!-- conflict: "5 Mountain Avenue, Woodstock, VT" Fuzzy match to "5 Mountain Avenue, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="5"/>
@@ -112,7 +120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303016"/>
   </node>
-  <node id="-551" visible="true" lat="43.62503295" lon="-72.51895457">
+  <node id="-549" visible="true" lat="43.62503295" lon="-72.51895457">
     <!-- conflict: "5 The Green, Woodstock, VT" Fuzzy match to "5 The Green, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="5"/>
@@ -120,7 +128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303017"/>
   </node>
-  <node id="-557" visible="true" lat="43.62494183" lon="-72.51836451">
+  <node id="-555" visible="true" lat="43.62494183" lon="-72.51836451">
     <!-- conflict: "11 Central Street, Woodstock, VT" No match in OSM, but a different address exists <5m away: " Central Street, Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="11"/>
@@ -128,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303024"/>
   </node>
-  <node id="-560" visible="true" lat="43.62496251" lon="-72.51460607">
+  <node id="-558" visible="true" lat="43.62496251" lon="-72.51460607">
     <!-- conflict: "4 Highland Avenue, Woodstock, VT" Fuzzy match to "4 Highland Ave Extension, Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="4"/>
@@ -136,7 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303028"/>
   </node>
-  <node id="-563" visible="true" lat="43.62485122" lon="-72.51859283">
+  <node id="-561" visible="true" lat="43.62486076" lon="-72.51856661">
     <!-- conflict: "2 The Green, Woodstock, VT" No match in OSM, but a different address exists <5m away: " Central Street, Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="2"/>
@@ -144,7 +152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303031"/>
   </node>
-  <node id="-565" visible="true" lat="43.62475557" lon="-72.52161914">
+  <node id="-563" visible="true" lat="43.62475557" lon="-72.52161914">
     <!-- conflict: "4 Mountain Avenue, Woodstock, VT" Fuzzy match to "4 Mountain Avenue, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="4"/>
@@ -152,7 +160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303034"/>
   </node>
-  <node id="-582" visible="true" lat="43.6244919" lon="-72.51369753">
+  <node id="-580" visible="true" lat="43.6244919" lon="-72.51369753">
     <!-- conflict: "6 Highland Avenue, Woodstock, VT" Fuzzy match to "6 Highland Ave Extension, Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="6"/>
@@ -160,7 +168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303052"/>
   </node>
-  <node id="-609" visible="true" lat="43.62410646" lon="-72.52301044">
+  <node id="-607" visible="true" lat="43.62410646" lon="-72.52301044">
     <!-- conflict: "37 River Street, Woodstock, VT" Fuzzy match to "37 River Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="37"/>
@@ -168,7 +176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303085"/>
   </node>
-  <node id="-614" visible="true" lat="43.62405437" lon="-72.5123955">
+  <node id="-612" visible="true" lat="43.62405437" lon="-72.5123955">
     <!-- conflict: "2 Highland Avenue Extension, Woodstock, VT" Fuzzy match to "2 Highland Ave Extension, Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="2"/>
@@ -176,7 +184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303090"/>
   </node>
-  <node id="-617" visible="true" lat="43.62385934" lon="-72.51374084">
+  <node id="-615" visible="true" lat="43.62385934" lon="-72.51374084">
     <!-- conflict: "1 Highland Avenue Extension, Woodstock, VT" Fuzzy match to "1 Highland Avenue, Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="1"/>
@@ -184,7 +192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303093"/>
   </node>
-  <node id="-622" visible="true" lat="43.62379524" lon="-72.51150986">
+  <node id="-620" visible="true" lat="43.62379524" lon="-72.51150986">
     <!-- conflict: "4 Highland Avenue Extension, Woodstock, VT" Fuzzy match to "4 Highland Ave Extension, Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="4"/>
@@ -192,7 +200,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303098"/>
   </node>
-  <node id="-639" visible="true" lat="43.62326403" lon="-72.51035011">
+  <node id="-637" visible="true" lat="43.62326403" lon="-72.51035011">
     <!-- conflict: "6 Highland Avenue Extension, Woodstock, VT" Fuzzy match to "6 Highland Ave Extension, Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="6"/>
@@ -200,7 +208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303118"/>
   </node>
-  <node id="-679" visible="true" lat="43.62267684" lon="-72.52108001">
+  <node id="-677" visible="true" lat="43.62267684" lon="-72.52108001">
     <!-- conflict: "26 The Green, Woodstock, VT" No match in OSM, but a different address exists <5m away: "26 , , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="26"/>
@@ -208,7 +216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303160"/>
   </node>
-  <node id="-684" visible="true" lat="43.6225806" lon="-72.52172956">
+  <node id="-682" visible="true" lat="43.6225806" lon="-72.52172956">
     <!-- conflict: "2 Saint James Place, Woodstock, VT" Fuzzy match to "2 Saint James Place, Woodstock, " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="2"/>
@@ -216,7 +224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303166"/>
   </node>
-  <node id="-686" visible="true" lat="43.62261668" lon="-72.52277304">
+  <node id="-684" visible="true" lat="43.62261668" lon="-72.52277304">
     <!-- conflict: "5 Church Street, Woodstock, VT" Fuzzy match to "5 Church Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="5"/>
@@ -224,7 +232,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303169"/>
   </node>
-  <node id="-687" visible="true" lat="43.62254333" lon="-72.52124023">
+  <node id="-685" visible="true" lat="43.62254333" lon="-72.52124023">
     <!-- conflict: "28 The Green, Woodstock, VT" No match in OSM, but a different address exists <5m away: "28,30 Prospect Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="28"/>
@@ -232,7 +240,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303170"/>
   </node>
-  <node id="-692" visible="true" lat="43.62246322" lon="-72.52132415">
+  <node id="-690" visible="true" lat="43.62246322" lon="-72.52132415">
     <!-- conflict: "32 The Green, Woodstock, VT" No match in OSM, but a different address exists <5m away: "32 Prospect Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="32"/>
@@ -240,7 +248,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303176"/>
   </node>
-  <node id="-701" visible="true" lat="43.62229541" lon="-72.52265726">
+  <node id="-699" visible="true" lat="43.62229541" lon="-72.52265726">
     <!-- conflict: "4 Church Street, Woodstock, VT" Fuzzy match to "4 Church Street, , VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="4"/>
@@ -248,7 +256,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303186"/>
   </node>
-  <node id="-706" visible="true" lat="43.62238001" lon="-72.52346478">
+  <node id="-704" visible="true" lat="43.62238001" lon="-72.52346478">
     <!-- conflict: "9 Church Street, Woodstock, VT" Fuzzy match to "9 Church Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="9"/>
@@ -256,7 +264,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303193"/>
   </node>
-  <node id="-716" visible="true" lat="43.62222921" lon="-72.52369271">
+  <node id="-714" visible="true" lat="43.62222921" lon="-72.52369271">
     <!-- conflict: "11 Church Street, Woodstock, VT" Fuzzy match to "11 Church Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="11"/>
@@ -264,7 +272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303204"/>
   </node>
-  <node id="-739" visible="true" lat="43.62179282" lon="-72.52366727">
+  <node id="-737" visible="true" lat="43.62179282" lon="-72.52366727">
     <!-- conflict: "4 College Hill Road, Woodstock, VT" Fuzzy match to "4 College Hill, , VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="4"/>
@@ -272,7 +280,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303230"/>
   </node>
-  <node id="-740" visible="true" lat="43.62170471" lon="-72.52389391">
+  <node id="-738" visible="true" lat="43.62170471" lon="-72.52389391">
     <!-- conflict: "6 College Hill Road, Woodstock, VT" Fuzzy match to "6 College Hill, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="6"/>
@@ -280,7 +288,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303231"/>
   </node>
-  <node id="-747" visible="true" lat="43.62170028" lon="-72.52469635">
+  <node id="-745" visible="true" lat="43.62170028" lon="-72.52469635">
     <!-- conflict: "3 College Hill Road, Woodstock, VT" Fuzzy match to "3 College Hill, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="3"/>
@@ -288,7 +296,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303238"/>
   </node>
-  <node id="-753" visible="true" lat="43.62169874" lon="-72.52412152">
+  <node id="-751" visible="true" lat="43.62169874" lon="-72.52412152">
     <!-- conflict: "8 College Hill Road, Woodstock, VT" Fuzzy match to "8 College Hill, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="8"/>
@@ -296,7 +304,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303244"/>
   </node>
-  <node id="-756" visible="true" lat="43.62157198" lon="-72.5249197">
+  <node id="-754" visible="true" lat="43.62157198" lon="-72.5249197">
     <!-- conflict: "7 College Hill Road, Woodstock, VT" Fuzzy match to "7 College Hill, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="7"/>
@@ -304,7 +312,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303247"/>
   </node>
-  <node id="-766" visible="true" lat="43.62130313" lon="-72.52441907">
+  <node id="-764" visible="true" lat="43.62130313" lon="-72.52441907">
     <!-- conflict: "10 College Hill Road, Woodstock, VT" Fuzzy match to "10 College Hill, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="10"/>
@@ -312,7 +320,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303258"/>
   </node>
-  <node id="-772" visible="true" lat="43.62127775" lon="-72.52542313">
+  <node id="-770" visible="true" lat="43.62127775" lon="-72.52542313">
     <!-- conflict: "11 College Hill Road, Woodstock, VT" Fuzzy match to "11 College Hill, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="11"/>
@@ -320,7 +328,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303265"/>
   </node>
-  <node id="-785" visible="true" lat="43.62092504" lon="-72.52503172">
+  <node id="-783" visible="true" lat="43.62092504" lon="-72.52503172">
     <!-- conflict: "12 College Hill Road, Woodstock, VT" Fuzzy match to "12 College Hill, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="12"/>
@@ -328,7 +336,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303279"/>
   </node>
-  <node id="-794" visible="true" lat="43.62077572" lon="-72.52525735">
+  <node id="-792" visible="true" lat="43.62077572" lon="-72.52525735">
     <!-- conflict: "14 College Hill Road, Woodstock, VT" Fuzzy match to "14 College Hill, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="14"/>
@@ -336,7 +344,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303289"/>
   </node>
-  <node id="-805" visible="true" lat="43.62065592" lon="-72.52563558">
+  <node id="-803" visible="true" lat="43.62065592" lon="-72.52563558">
     <!-- conflict: "16 College Hill Road, Woodstock, VT" Fuzzy match to "16 College Hill, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="16"/>
@@ -344,7 +352,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303300"/>
   </node>
-  <node id="-816" visible="true" lat="43.6206897" lon="-72.52688891">
+  <node id="-814" visible="true" lat="43.6206897" lon="-72.52688891">
     <!-- conflict: "11B College Hill Road, Woodstock, VT" No match in OSM, but a different address exists <5m away: "11 College Hill, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="11B"/>
@@ -352,7 +360,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303312"/>
   </node>
-  <node id="-819" visible="true" lat="43.62036267" lon="-72.52616551">
+  <node id="-817" visible="true" lat="43.62036267" lon="-72.52616551">
     <!-- conflict: "18 College Hill Road, Woodstock, VT" Fuzzy match to "18 College Hill, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="18"/>
@@ -360,7 +368,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303315"/>
   </node>
-  <node id="-851" visible="true" lat="43.61947563" lon="-72.5215232">
+  <node id="-849" visible="true" lat="43.61947563" lon="-72.5215232">
     <!-- conflict: "4 Swain Street, Woodstock, VT" Fuzzy match to "4 Swain Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="4"/>
@@ -368,7 +376,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303351"/>
   </node>
-  <node id="-1192" visible="true" lat="43.60257049" lon="-72.51772459">
+  <node id="-1189" visible="true" lat="43.60257049" lon="-72.51772459">
     <!-- conflict: "1489 South Road, Woodstock, VT" Fuzzy match to "1489 South Street, Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="1489"/>
@@ -376,7 +384,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303720"/>
   </node>
-  <node id="-1276" visible="true" lat="43.5966965" lon="-72.60070925">
+  <node id="-1273" visible="true" lat="43.5966965" lon="-72.60070925">
     <!-- conflict: "4548 West Woodstock Road, Woodstock, VT" Fuzzy match to "4548 West Woodstock Road, Woodstock, " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="4548"/>
@@ -384,7 +392,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303812"/>
   </node>
-  <node id="-1462" visible="true" lat="43.57170547" lon="-72.5873178">
+  <node id="-1459" visible="true" lat="43.57170547" lon="-72.5873178">
     <!-- conflict: "2358 Long Hill Road, Woodstock, VT" Fuzzy match to "2358 Long Hill Road, South Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="2358"/>
@@ -392,7 +400,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="304010"/>
   </node>
-  <node id="-1779" visible="true" lat="43.62524173" lon="-72.51762649">
+  <node id="-1775" visible="true" lat="43.62524173" lon="-72.51762649">
     <!-- conflict: "41 Central Street, Woodstock, VT" No match in OSM, but a different address exists <5m away: " Central Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="41"/>
@@ -400,15 +408,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328663"/>
   </node>
-  <node id="-1781" visible="true" lat="43.62543896" lon="-72.51711959">
-    <!-- conflict: "51 Central Street, Woodstock, VT" Fuzzy match to "51 Central Street, , " -->
-    <tag k="addr:city" v="Woodstock"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Central Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="328665"/>
-  </node>
-  <node id="-1786" visible="true" lat="43.62493734" lon="-72.51838648">
+  <node id="-1778" visible="true" lat="43.62493734" lon="-72.51838648">
     <!-- conflict: "9 Central Street, Woodstock, VT" No match in OSM, but a different address exists <5m away: " Central Street, Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="9"/>
@@ -416,7 +416,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328670"/>
   </node>
-  <node id="-2628" visible="true" lat="43.62546315" lon="-72.51777088">
+  <node id="-2293" visible="true" lat="43.54755329" lon="-72.54045322">
+    <!-- conflict: "357 The Loop, Woodstock, VT" No match in OSM, but a different address exists <5m away: "397 The Loop, Woodstock, VT" -->
+    <tag k="addr:city" v="Woodstock"/>
+    <tag k="addr:housenumber" v="357"/>
+    <tag k="addr:street" v="The Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="330486"/>
+  </node>
+  <node id="-2616" visible="true" lat="43.62546315" lon="-72.51777088">
     <!-- conflict: "20 Central Street, Woodstock, VT" Fuzzy match to "20 Central Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="20"/>
@@ -424,7 +432,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="333616"/>
   </node>
-  <node id="-2669" visible="true" lat="43.63248394" lon="-72.59268449">
+  <node id="-2656" visible="true" lat="43.63248394" lon="-72.59268449">
     <!-- conflict: "797 Gabert Road, Woodstock, VT" Fuzzy match to "797 Gabert Road, Bridgewater, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="797"/>
@@ -432,7 +440,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341442"/>
   </node>
-  <node id="-2673" visible="true" lat="43.63957311" lon="-72.4949163">
+  <node id="-2660" visible="true" lat="43.63957443" lon="-72.4949109">
     <!-- conflict: "1321 Old River Road, Woodstock, VT" Fuzzy match to "1321 Old River Road, Pomfret, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="1321"/>
@@ -440,7 +448,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341499"/>
   </node>
-  <node id="-2681" visible="true" lat="43.59641556" lon="-72.49262614">
+  <node id="-2668" visible="true" lat="43.59641556" lon="-72.49262614">
     <!-- conflict: "1564 Dunham Hill Road, Woodstock, VT" Fuzzy match to "1564 Dunham Hill Road, Hartland, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="1564"/>
@@ -448,7 +456,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342593"/>
   </node>
-  <node id="-2732" visible="true" lat="43.62359846" lon="-72.51219318">
+  <node id="-2713" visible="true" lat="43.62359846" lon="-72.51219318">
     <!-- conflict: "3 Highland Avenue Extension, Woodstock, VT" Fuzzy match to "3 Highland Avenue, Woodstock, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="3"/>

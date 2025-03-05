@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-392" visible="true" lat="43.69202776" lon="-72.43609135">
+    <!-- offset: "3089 Quechee West Hartford Road, Hartford, VT" Significant offset - 168m -->
+    <tag k="addr:city" v="Hartford"/>
+    <tag k="addr:housenumber" v="3089"/>
+    <tag k="addr:street" v="Quechee West Hartford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120373"/>
+  </node>
   <node id="-677" visible="true" lat="43.6796855" lon="-72.31274391">
     <!-- offset: "133 Colonial Drive, Hartford, VT" Significant offset - 104.1m -->
     <tag k="addr:city" v="Hartford"/>
@@ -40,7 +48,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="121898"/>
   </node>
-  <node id="-3005" visible="true" lat="43.64822173" lon="-72.41053716">
+  <node id="-3002" visible="true" lat="43.64822173" lon="-72.41053716">
     <!-- offset: "1299 Quechee Main Street, Hartford, VT" Significant offset - 110.7m -->
     <tag k="addr:city" v="Hartford"/>
     <tag k="addr:housenumber" v="1299"/>
@@ -48,7 +56,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123209"/>
   </node>
-  <node id="-4969" visible="true" lat="43.61711815" lon="-72.35353164">
+  <node id="-4960" visible="true" lat="43.61711815" lon="-72.35353164">
     <!-- offset: "2604 North Hartland Road, Hartford, VT" Significant offset - 136.2m -->
     <tag k="addr:city" v="Hartford"/>
     <tag k="addr:housenumber" v="2604"/>
@@ -56,7 +64,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611522"/>
   </node>
-  <node id="-5137" visible="true" lat="43.66269677" lon="-72.45016241">
+  <node id="-5174" visible="true" lat="43.66269677" lon="-72.45016241">
     <!-- offset: "105 Williams Lane, Hartford, VT" Significant offset - 160.9m -->
     <tag k="addr:city" v="Hartford"/>
     <tag k="addr:housenumber" v="105"/>

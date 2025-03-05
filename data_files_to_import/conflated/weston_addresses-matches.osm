@@ -1008,13 +1008,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284849"/>
   </node>
-  <node id="-366" visible="true" lat="43.29405555" lon="-72.79810325">
-    <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="74"/>
-    <tag k="addr:street" v="Lawrence Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284851"/>
-  </node>
   <node id="-369" visible="true" lat="43.29390322" lon="-72.78998836">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="720"/>
@@ -2624,12 +2617,5 @@
     <tag k="addr:street" v="Old County Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611077"/>
-  </node>
-  <node id="-839" visible="true" lat="43.29082059" lon="-72.79309668">
-    <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="658"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750698"/>
   </node>
 </osm>

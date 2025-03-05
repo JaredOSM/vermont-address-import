@@ -8,14 +8,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259917"/>
   </node>
-  <node id="-101" visible="true" lat="43.49374008" lon="-73.07761382">
-    <!-- conflict: "189 Vermont Route 133 Morgan Road, Tinmouth, VT" No match in OSM, but a different address exists <5m away: "189 Vt Route 133 Morgan Road, Tinmouth, VT" -->
-    <tag k="addr:city" v="Tinmouth"/>
-    <tag k="addr:housenumber" v="189"/>
-    <tag k="addr:street" v="Vermont Route 133 Morgan Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259918"/>
-  </node>
   <node id="-102" visible="true" lat="43.49319839" lon="-73.07758331">
     <!-- conflict: "187 Vermont Route 133 Morgan Road, Tinmouth, VT" No match in OSM, but a different address exists <5m away: "187 Vt Route 133 Morgan Road, Tinmouth, VT" -->
     <tag k="addr:city" v="Tinmouth"/>
@@ -160,15 +152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259980"/>
   </node>
-  <node id="-167" visible="true" lat="43.45596695" lon="-73.04923248">
-    <!-- conflict: "670 Vermont Route 140, Tinmouth, VT" No match in OSM, but a different address exists <5m away: "670 Vt Route 140, Tinmouth, VT" -->
-    <tag k="addr:city" v="Tinmouth"/>
-    <tag k="addr:housenumber" v="670"/>
-    <tag k="addr:street" v="Vermont Route 140"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259984"/>
-  </node>
-  <node id="-171" visible="true" lat="43.45232391" lon="-73.04902648">
+  <node id="-170" visible="true" lat="43.45232391" lon="-73.04902648">
     <!-- conflict: "620 Vermont Route 140, Tinmouth, VT" No match in OSM, but a different address exists <5m away: "620 Vt Route 140, Tinmouth, VT" -->
     <tag k="addr:city" v="Tinmouth"/>
     <tag k="addr:housenumber" v="620"/>
@@ -176,7 +160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259988"/>
   </node>
-  <node id="-176" visible="true" lat="43.45095062" lon="-73.05090331">
+  <node id="-175" visible="true" lat="43.45095062" lon="-73.05090331">
     <!-- conflict: "593 Vermont Route 140, Tinmouth, VT" No match in OSM, but a different address exists <5m away: "593 Vt Route 140, Tinmouth, VT" -->
     <tag k="addr:city" v="Tinmouth"/>
     <tag k="addr:housenumber" v="593"/>
@@ -184,7 +168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259993"/>
   </node>
-  <node id="-179" visible="true" lat="43.45044326" lon="-73.05023956">
+  <node id="-178" visible="true" lat="43.45044326" lon="-73.05023956">
     <!-- conflict: "590 Vermont Route 140, Tinmouth, VT" No match in OSM, but a different address exists <5m away: "590 Vt Route 140, Tinmouth, VT" -->
     <tag k="addr:city" v="Tinmouth"/>
     <tag k="addr:housenumber" v="590"/>
@@ -192,7 +176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259996"/>
   </node>
-  <node id="-181" visible="true" lat="43.45033264" lon="-73.02842712">
+  <node id="-180" visible="true" lat="43.45033264" lon="-73.02842712">
     <!-- conflict: "297 Vermont Route 140, Tinmouth, VT" No match in OSM, but a different address exists <5m away: "297 Vt Route 140, Tinmouth, VT" -->
     <tag k="addr:city" v="Tinmouth"/>
     <tag k="addr:housenumber" v="297"/>
@@ -200,7 +184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259998"/>
   </node>
-  <node id="-183" visible="true" lat="43.44993972" lon="-73.05025482">
+  <node id="-182" visible="true" lat="43.44993972" lon="-73.05025482">
     <!-- conflict: "580 Vermont Route 140, Tinmouth, VT" No match in OSM, but a different address exists <5m away: "580 Vt Route 140, Tinmouth, VT" -->
     <tag k="addr:city" v="Tinmouth"/>
     <tag k="addr:housenumber" v="580"/>
@@ -208,7 +192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260000"/>
   </node>
-  <node id="-190" visible="true" lat="43.44860076" lon="-73.04933929">
+  <node id="-189" visible="true" lat="43.44860076" lon="-73.04933929">
     <!-- conflict: "553 Vermont Route 140, Tinmouth, VT" No match in OSM, but a different address exists <5m away: "553 Vt Route 140, Tinmouth, VT" -->
     <tag k="addr:city" v="Tinmouth"/>
     <tag k="addr:housenumber" v="553"/>
@@ -216,7 +200,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260008"/>
   </node>
-  <node id="-250" visible="true" lat="43.42005298" lon="-73.11964833">
+  <node id="-249" visible="true" lat="43.42005298" lon="-73.11964833">
     <!-- conflict: "200 Vermont Route 133 W Tinmouth Road, Tinmouth, VT" No match in OSM, but a different address exists <5m away: "200 West Tinmouth Road, Tinmouth, VT" -->
     <tag k="addr:city" v="Tinmouth"/>
     <tag k="addr:housenumber" v="200"/>
@@ -224,7 +208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260070"/>
   </node>
-  <node id="-399" visible="true" lat="43.49208324" lon="-73.07829968">
+  <node id="-398" visible="true" lat="43.49208324" lon="-73.07829968">
     <!-- conflict: "181 Vermont Route 133 Morgan Road, Tinmouth, VT" No match in OSM, but a different address exists <5m away: "181 Vt Route 133 Morgan Road, Tinmouth, VT" -->
     <tag k="addr:city" v="Tinmouth"/>
     <tag k="addr:housenumber" v="181"/>
@@ -232,7 +216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260225"/>
   </node>
-  <node id="-452" visible="true" lat="43.49076213" lon="-73.07710052">
+  <node id="-451" visible="true" lat="43.49076213" lon="-73.07710052">
     <!-- conflict: "159 Vermont Route 133 Morgan Road, Tinmouth, VT" No match in OSM, but a different address exists <5m away: "159 Vt Route 133 Morgan Road, Tinmouth, VT" -->
     <tag k="addr:city" v="Tinmouth"/>
     <tag k="addr:housenumber" v="159"/>

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-101" visible="true" lat="45.00561438" lon="-72.41531122">
+    <!-- conflict: "743 Vermont Route 243, Troy, VT" No match in OSM, but a different address exists <5m away: " Vermont Route 243, North Troy, VT" -->
+    <tag k="addr:city" v="Troy"/>
+    <tag k="addr:housenumber" v="743"/>
+    <tag k="addr:street" v="Vermont Route 243"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="261714"/>
+  </node>
   <node id="-122" visible="true" lat="45.00003052" lon="-72.37944794">
     <!-- conflict: "604 Bear Mountain Road, Troy, VT" Fuzzy match to "604 Bear Mountain Road, North Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
@@ -7,6 +15,22 @@
     <tag k="addr:street" v="Bear Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="261737"/>
+  </node>
+  <node id="-161" visible="true" lat="44.99733974" lon="-72.40718636">
+    <!-- conflict: "35 Vermont Route 243, Troy, VT" No match in OSM, but a different address exists <5m away: "35 Vt Route 243, Troy, VT" -->
+    <tag k="addr:city" v="Troy"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Vermont Route 243"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="261782"/>
+  </node>
+  <node id="-162" visible="true" lat="44.9974519" lon="-72.40647967">
+    <!-- conflict: "3 Vermont Route 243, Troy, VT" No match in OSM, but a different address exists <5m away: "3 Vt Route 243, Troy, VT" -->
+    <tag k="addr:city" v="Troy"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Vermont Route 243"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="261783"/>
   </node>
   <node id="-226" visible="true" lat="44.99585854" lon="-72.40544821">
     <!-- conflict: "126 Main Street, Troy, VT" Fuzzy match to "126 Main Street, North Troy, VT" -->
@@ -144,7 +168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262322"/>
   </node>
-  <node id="-742" visible="true" lat="44.90523595" lon="-72.39819588">
+  <node id="-741" visible="true" lat="44.90523595" lon="-72.39819588">
     <!-- conflict: "6391 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6391 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6391"/>
@@ -152,7 +176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262427"/>
   </node>
-  <node id="-743" visible="true" lat="44.90505653" lon="-72.39874823">
+  <node id="-742" visible="true" lat="44.90505653" lon="-72.39874823">
     <!-- conflict: "6409 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6409 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6409"/>
@@ -160,7 +184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262428"/>
   </node>
-  <node id="-744" visible="true" lat="44.90480132" lon="-72.39981933">
+  <node id="-743" visible="true" lat="44.90480132" lon="-72.39981933">
     <!-- conflict: "6475 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6475 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6475"/>
@@ -168,7 +192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262429"/>
   </node>
-  <node id="-745" visible="true" lat="44.90471822" lon="-72.40017959">
+  <node id="-744" visible="true" lat="44.90471822" lon="-72.40017959">
     <!-- conflict: "6495 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6495 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6495"/>
@@ -176,7 +200,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262430"/>
   </node>
-  <node id="-746" visible="true" lat="44.90437312" lon="-72.40120586">
+  <node id="-745" visible="true" lat="44.90437312" lon="-72.40120586">
     <!-- conflict: "6543 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6543 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6543"/>
@@ -184,7 +208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262431"/>
   </node>
-  <node id="-747" visible="true" lat="44.90447805" lon="-72.40085737">
+  <node id="-746" visible="true" lat="44.90447805" lon="-72.40085737">
     <!-- conflict: "6529 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6529 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6529"/>
@@ -192,7 +216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262432"/>
   </node>
-  <node id="-748" visible="true" lat="44.90447033" lon="-72.40155966">
+  <node id="-747" visible="true" lat="44.90447033" lon="-72.40155966">
     <!-- conflict: "6561 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6561 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6561"/>
@@ -200,7 +224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262433"/>
   </node>
-  <node id="-749" visible="true" lat="44.90488524" lon="-72.39943786">
+  <node id="-748" visible="true" lat="44.90488524" lon="-72.39943786">
     <!-- conflict: "6455 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6455 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6455"/>
@@ -208,7 +232,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262434"/>
   </node>
-  <node id="-750" visible="true" lat="44.90389914" lon="-72.40141208">
+  <node id="-749" visible="true" lat="44.90389914" lon="-72.40141208">
     <!-- conflict: "6563 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6563 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6563"/>
@@ -216,7 +240,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262436"/>
   </node>
-  <node id="-751" visible="true" lat="44.90531693" lon="-72.39991427">
+  <node id="-750" visible="true" lat="44.90531693" lon="-72.39991427">
     <!-- conflict: "6468 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6468 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6468"/>
@@ -224,7 +248,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262438"/>
   </node>
-  <node id="-752" visible="true" lat="44.90537587" lon="-72.4005829">
+  <node id="-751" visible="true" lat="44.90537587" lon="-72.4005829">
     <!-- conflict: "14 Autumn Ridge, Troy, VT" No match in OSM, but a different address exists <5m away: "6502 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="14"/>
@@ -232,7 +256,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262439"/>
   </node>
-  <node id="-753" visible="true" lat="44.90498513" lon="-72.40131972">
+  <node id="-752" visible="true" lat="44.90498513" lon="-72.40131972">
     <!-- conflict: "6544 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6544 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6544"/>
@@ -240,7 +264,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262440"/>
   </node>
-  <node id="-754" visible="true" lat="44.90484954" lon="-72.40201278">
+  <node id="-753" visible="true" lat="44.90484954" lon="-72.40201278">
     <!-- conflict: "6570 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6570 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6570"/>
@@ -248,7 +272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262441"/>
   </node>
-  <node id="-755" visible="true" lat="44.90463567" lon="-72.40282086">
+  <node id="-754" visible="true" lat="44.90463567" lon="-72.40282086">
     <!-- conflict: "6620 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6620 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6620"/>
@@ -256,7 +280,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262442"/>
   </node>
-  <node id="-756" visible="true" lat="44.90452531" lon="-72.40332248">
+  <node id="-755" visible="true" lat="44.90452531" lon="-72.40332248">
     <!-- conflict: "6644 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6644 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6644"/>
@@ -264,7 +288,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262443"/>
   </node>
-  <node id="-757" visible="true" lat="44.90447693" lon="-72.40358722">
+  <node id="-756" visible="true" lat="44.90447693" lon="-72.40358722">
     <!-- conflict: "6662 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6662 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6662"/>
@@ -272,7 +296,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262444"/>
   </node>
-  <node id="-760" visible="true" lat="44.90427246" lon="-72.40457777">
+  <node id="-759" visible="true" lat="44.90427246" lon="-72.40457777">
     <!-- conflict: "6712 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6712 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6712"/>
@@ -280,7 +304,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262447"/>
   </node>
-  <node id="-761" visible="true" lat="44.90471354" lon="-72.40245131">
+  <node id="-760" visible="true" lat="44.90471354" lon="-72.40245131">
     <!-- conflict: "6580 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6580 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6580"/>
@@ -288,7 +312,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262449"/>
   </node>
-  <node id="-762" visible="true" lat="44.90442926" lon="-72.40183515">
+  <node id="-761" visible="true" lat="44.90442926" lon="-72.40183515">
     <!-- conflict: "6571 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6571 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6571"/>
@@ -296,7 +320,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262450"/>
   </node>
-  <node id="-763" visible="true" lat="44.9043044" lon="-72.40207226">
+  <node id="-762" visible="true" lat="44.9043044" lon="-72.40207226">
     <!-- conflict: "6593 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6593 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6593"/>
@@ -304,7 +328,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262451"/>
   </node>
-  <node id="-764" visible="true" lat="44.90419537" lon="-72.40289799">
+  <node id="-763" visible="true" lat="44.90419537" lon="-72.40289799">
     <!-- conflict: "6621 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6621 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6621"/>
@@ -312,7 +336,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262452"/>
   </node>
-  <node id="-765" visible="true" lat="44.90415996" lon="-72.4031066">
+  <node id="-764" visible="true" lat="44.90415996" lon="-72.4031066">
     <!-- conflict: "6639 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6639 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6639"/>
@@ -320,15 +344,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262454"/>
   </node>
-  <node id="-766" visible="true" lat="44.90396777" lon="-72.40403921">
-    <!-- conflict: "6695 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6695 Vt Route 100, Troy, VT" -->
+  <node id="-765" visible="true" lat="44.90387574" lon="-72.40430738">
+    <!-- conflict: "6695 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6685 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6695"/>
     <tag k="addr:street" v="Vermont Route 100"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262455"/>
   </node>
-  <node id="-767" visible="true" lat="44.90404003" lon="-72.40356439">
+  <node id="-766" visible="true" lat="44.90404003" lon="-72.40356439">
     <!-- conflict: "6659 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6659 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6659"/>
@@ -336,7 +360,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262456"/>
   </node>
-  <node id="-768" visible="true" lat="44.9037916" lon="-72.40446229">
+  <node id="-767" visible="true" lat="44.9037916" lon="-72.40446229">
     <!-- conflict: "6709 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6709 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6709"/>
@@ -344,7 +368,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262457"/>
   </node>
-  <node id="-769" visible="true" lat="44.90337753" lon="-72.40559387">
+  <node id="-768" visible="true" lat="44.90337753" lon="-72.40559387">
     <!-- conflict: "6779 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6779 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6779"/>
@@ -352,7 +376,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262459"/>
   </node>
-  <node id="-772" visible="true" lat="44.90426254" lon="-72.40263366">
+  <node id="-769" visible="true" lat="44.90268433" lon="-72.40616865">
+    <!-- conflict: "6849 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6849 Vt Route 100, Troy, VT" -->
+    <tag k="addr:city" v="Troy"/>
+    <tag k="addr:housenumber" v="6849"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="262460"/>
+  </node>
+  <node id="-770" visible="true" lat="44.90061547" lon="-72.40812441">
+    <!-- conflict: "7021 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "7021 Vt Route 100, Troy, VT" -->
+    <tag k="addr:city" v="Troy"/>
+    <tag k="addr:housenumber" v="7021"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="262462"/>
+  </node>
+  <node id="-771" visible="true" lat="44.90426254" lon="-72.40263366">
     <!-- conflict: "6611 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6611 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6611"/>
@@ -360,7 +400,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262464"/>
   </node>
-  <node id="-774" visible="true" lat="44.90238539" lon="-72.40273111">
+  <node id="-773" visible="true" lat="44.90238539" lon="-72.40273111">
     <!-- conflict: "6671 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6671 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6671"/>
@@ -368,15 +408,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262466"/>
   </node>
-  <node id="-775" visible="true" lat="44.90389633" lon="-72.40425109">
-    <!-- conflict: "6685 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6685 Vt Route 100, Troy, VT" -->
-    <tag k="addr:city" v="Troy"/>
-    <tag k="addr:housenumber" v="6685"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262467"/>
-  </node>
-  <node id="-776" visible="true" lat="44.90362774" lon="-72.40508919">
+  <node id="-775" visible="true" lat="44.90362774" lon="-72.40508919">
     <!-- conflict: "6763 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6763 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6763"/>
@@ -384,7 +416,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262468"/>
   </node>
-  <node id="-779" visible="true" lat="44.9000473" lon="-72.4077835">
+  <node id="-778" visible="true" lat="44.90008157" lon="-72.40775665">
     <!-- conflict: "7029 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "7029 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="7029"/>
@@ -392,7 +424,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262472"/>
   </node>
-  <node id="-782" visible="true" lat="44.90010084" lon="-72.40996703">
+  <node id="-780" visible="true" lat="44.90027121" lon="-72.40949607">
+    <!-- conflict: "7074 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "7074 Vt Route 100, Troy, VT" -->
+    <tag k="addr:city" v="Troy"/>
+    <tag k="addr:housenumber" v="7074"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="262475"/>
+  </node>
+  <node id="-781" visible="true" lat="44.90010084" lon="-72.40996703">
     <!-- conflict: "7092 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "7092 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="7092"/>
@@ -400,7 +440,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262476"/>
   </node>
-  <node id="-783" visible="true" lat="44.90324852" lon="-72.40707682">
+  <node id="-782" visible="true" lat="44.90324852" lon="-72.40707682">
     <!-- conflict: "6850 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6850 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6850"/>
@@ -408,7 +448,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262477"/>
   </node>
-  <node id="-790" visible="true" lat="44.90495782" lon="-72.39909726">
+  <node id="-789" visible="true" lat="44.90495782" lon="-72.39909726">
     <!-- conflict: "6439 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6439 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6439"/>
@@ -416,7 +456,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262486"/>
   </node>
-  <node id="-792" visible="true" lat="44.90572923" lon="-72.39823302">
+  <node id="-791" visible="true" lat="44.90572923" lon="-72.39823302">
     <!-- conflict: "6380 Vermont Route 100, Troy, VT" No match in OSM, but a different address exists <5m away: "6380 Vt Route 100, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="6380"/>
@@ -424,7 +464,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262488"/>
   </node>
-  <node id="-794" visible="true" lat="44.98474494" lon="-72.3619581">
+  <node id="-793" visible="true" lat="44.98474494" lon="-72.3619581">
     <!-- conflict: "1396 Vermont Route 105 East, Troy, VT" No match in OSM, but a different address exists <5m away: "1396 Vt Route 105 East, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="1396"/>
@@ -432,7 +472,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262491"/>
   </node>
-  <node id="-795" visible="true" lat="44.9829222" lon="-72.35980542">
+  <node id="-794" visible="true" lat="44.9829222" lon="-72.35980542">
     <!-- conflict: "1540 Vermont Route 105 East, Troy, VT" No match in OSM, but a different address exists <5m away: "1540 Vt Route 105 East, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="1540"/>
@@ -440,7 +480,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262492"/>
   </node>
-  <node id="-809" visible="true" lat="44.98203381" lon="-72.35664309">
+  <node id="-808" visible="true" lat="44.98203381" lon="-72.35664309">
     <!-- conflict: "1778 Vermont Route 105 East, Troy, VT" No match in OSM, but a different address exists <5m away: "1778 Vt Route 105 East, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="1778"/>
@@ -448,7 +488,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262506"/>
   </node>
-  <node id="-856" visible="true" lat="44.99119815" lon="-72.38305324">
+  <node id="-855" visible="true" lat="44.99118033" lon="-72.3830875">
     <!-- conflict: "194 Vermont Route 105 East, Troy, VT" No match in OSM, but a different address exists <5m away: "194 Vt Route 105 East, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="194"/>
@@ -464,7 +504,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339923"/>
   </node>
-  <node id="-971" visible="true" lat="44.98764643" lon="-72.36746657">
+  <node id="-972" visible="true" lat="44.98764643" lon="-72.36746657">
     <!-- conflict: "1176 Vermont Route 105 East, Troy, VT" No match in OSM, but a different address exists <5m away: "1176 Vt Route 105 East, Troy, VT" -->
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="1176"/>

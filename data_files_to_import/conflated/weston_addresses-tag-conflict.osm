@@ -384,6 +384,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284810"/>
   </node>
+  <node id="-366" visible="true" lat="43.29408959" lon="-72.79808162">
+    <!-- conflict: "2 Trout Club Road, Weston, VT" No match in OSM, but a different address exists <5m away: "74 Lawrence Hill Road, Weston, VT" -->
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Trout Club Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284851"/>
+  </node>
   <node id="-436" visible="true" lat="43.28980447" lon="-72.79337049">
     <!-- conflict: "644 Main Street, Weston, VT" No match in OSM, but a different address exists <5m away: "144 Main Street, Weston, VT" -->
     <tag k="addr:city" v="Weston"/>

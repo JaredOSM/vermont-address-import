@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-906" visible="true" lat="43.72461319" lon="-72.31488037">
+  <node id="-904" visible="true" lat="43.72461319" lon="-72.31488037">
     <!-- offset: "111 Turnpike Road, Norwich, VT" Significant offset - 115.8m -->
     <tag k="addr:city" v="Norwich"/>
     <tag k="addr:housenumber" v="111"/>
     <tag k="addr:street" v="Turnpike Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182933"/>
+  </node>
+  <node id="-1710" visible="true" lat="43.78145442" lon="-72.36501362">
+    <!-- offset: "687 Chapel Hill Road, Norwich, VT" Significant offset - 237.2m -->
+    <tag k="addr:city" v="Norwich"/>
+    <tag k="addr:housenumber" v="687"/>
+    <tag k="addr:street" v="Chapel Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769833"/>
   </node>
 </osm>

@@ -65,14 +65,14 @@
     <tag k="ref:vcgi:esiteid" v="186979"/>
   </node>
   <node id="-583" visible="true" lat="43.25215129" lon="-72.91049143">
-    <!-- conflict: "181 Mad Tom Notch Road, Peru, VT" No match in OSM, but a different address exists <5m away: "673 Mad Tom Notch Road, Peru, VT" -->
+    <!-- conflict: "181 Moonshine Lane, Peru, VT" No match in OSM, but a different address exists <5m away: "673 Mad Tom Notch Road, Peru, VT" -->
     <tag k="addr:city" v="Peru"/>
     <tag k="addr:housenumber" v="181"/>
-    <tag k="addr:street" v="Mad Tom Notch Road"/>
+    <tag k="addr:street" v="Moonshine Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="187007"/>
   </node>
-  <node id="-690" visible="true" lat="43.29754165" lon="-72.86072648">
+  <node id="-691" visible="true" lat="43.29754165" lon="-72.86072648">
     <!-- conflict: "70 Russet Hill Road, Peru, VT" Fuzzy match to "70 Russet Hill Road, Landgrove, VT" -->
     <tag k="addr:city" v="Peru"/>
     <tag k="addr:housenumber" v="70"/>

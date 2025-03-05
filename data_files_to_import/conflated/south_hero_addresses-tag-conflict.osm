@@ -8,12 +8,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233297"/>
   </node>
-  <node id="-719" visible="true" lat="44.63731765" lon="-73.27359771">
+  <node id="-717" visible="true" lat="44.63731765" lon="-73.27359771">
     <!-- conflict: "117 U.S. Route 2, South Hero, VT" Fuzzy match to "117 US Route 2, South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="U.S. Route 2"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233889"/>
+  </node>
+  <node id="-1099" visible="true" lat="44.66101118" lon="-73.33250805">
+    <!-- conflict: "423 Swan Hill Farm Road, South Hero, VT" No match in OSM, but a different address exists <5m away: "19 Ferry Road, South Hero, VT" -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="423"/>
+    <tag k="addr:street" v="Swan Hill Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="234293"/>
   </node>
 </osm>

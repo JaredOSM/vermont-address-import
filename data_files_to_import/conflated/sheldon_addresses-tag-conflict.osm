@@ -56,6 +56,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223370"/>
   </node>
+  <node id="-152" visible="true" lat="44.92294983" lon="-72.93415797">
+    <!-- conflict: "1518 Rice Hill Road, Sheldon, VT" No match in OSM, but a different address exists <5m away: "1528 Rice Hill Road, Sheldon, VT" -->
+    <tag k="addr:city" v="Sheldon"/>
+    <tag k="addr:housenumber" v="1518"/>
+    <tag k="addr:street" v="Rice Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223371"/>
+  </node>
   <node id="-158" visible="true" lat="44.92253741" lon="-72.96664947">
     <!-- conflict: "1675 Vermont Route 78, Sheldon, VT" No match in OSM, but a different address exists <5m away: "1675 Vt Route 78, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
@@ -80,7 +88,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223391"/>
   </node>
-  <node id="-329" visible="true" lat="44.90446699" lon="-72.97854955">
+  <node id="-328" visible="true" lat="44.90446699" lon="-72.97854955">
     <!-- conflict: "2695 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "2695 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="2695"/>
@@ -88,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223557"/>
   </node>
-  <node id="-357" visible="true" lat="44.90306882" lon="-72.97623714">
+  <node id="-356" visible="true" lat="44.90306882" lon="-72.97623714">
     <!-- conflict: "2824 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "2824 VT Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="2824"/>
@@ -96,7 +104,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223587"/>
   </node>
-  <node id="-363" visible="true" lat="44.90296172" lon="-72.97514678">
+  <node id="-362" visible="true" lat="44.90296172" lon="-72.97514678">
     <!-- conflict: "2880 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "2880 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="2880"/>
@@ -104,7 +112,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223593"/>
   </node>
-  <node id="-366" visible="true" lat="44.90274537" lon="-72.97457271">
+  <node id="-365" visible="true" lat="44.90274537" lon="-72.97457271">
     <!-- conflict: "2910 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "2910 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="2910"/>
@@ -112,7 +120,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223596"/>
   </node>
-  <node id="-371" visible="true" lat="44.90275954" lon="-72.96824981">
+  <node id="-367" visible="true" lat="44.90282032" lon="-72.94525054">
+    <!-- conflict: "4468 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "4468 Vt Route 105, Sheldon, VT" -->
+    <tag k="addr:city" v="Sheldon"/>
+    <tag k="addr:housenumber" v="4468"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223598"/>
+  </node>
+  <node id="-370" visible="true" lat="44.90275954" lon="-72.96824981">
     <!-- conflict: "3229 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "3229 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="3229"/>
@@ -120,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223601"/>
   </node>
-  <node id="-373" visible="true" lat="44.90272902" lon="-72.96747161">
+  <node id="-372" visible="true" lat="44.90272902" lon="-72.96747161">
     <!-- conflict: "3267 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "3267 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="3267"/>
@@ -128,7 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223603"/>
   </node>
-  <node id="-375" visible="true" lat="44.90256198" lon="-72.97386757">
+  <node id="-374" visible="true" lat="44.90256198" lon="-72.97386757">
     <!-- conflict: "2946 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "2946 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="2946"/>
@@ -136,7 +152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223605"/>
   </node>
-  <node id="-378" visible="true" lat="44.90295704" lon="-72.94311346">
+  <node id="-377" visible="true" lat="44.90295704" lon="-72.94311346">
     <!-- conflict: "4582 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "4582 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="4582"/>
@@ -144,7 +160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223608"/>
   </node>
-  <node id="-380" visible="true" lat="44.90264012" lon="-72.96946553">
+  <node id="-379" visible="true" lat="44.90264012" lon="-72.96946553">
     <!-- conflict: "3165 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "3165 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="3165"/>
@@ -152,7 +168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223610"/>
   </node>
-  <node id="-382" visible="true" lat="44.90261219" lon="-72.97047545">
+  <node id="-381" visible="true" lat="44.90261219" lon="-72.97047545">
     <!-- conflict: "3109 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "3109 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="3109"/>
@@ -160,7 +176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223612"/>
   </node>
-  <node id="-385" visible="true" lat="44.90255872" lon="-72.9719133">
+  <node id="-384" visible="true" lat="44.90255872" lon="-72.9719133">
     <!-- conflict: "3029 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "3029 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="3029"/>
@@ -168,7 +184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223615"/>
   </node>
-  <node id="-386" visible="true" lat="44.90237068" lon="-72.97332558">
+  <node id="-385" visible="true" lat="44.90237068" lon="-72.97332558">
     <!-- conflict: "2976 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "2976 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="2976"/>
@@ -176,7 +192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223616"/>
   </node>
-  <node id="-390" visible="true" lat="44.90241153" lon="-72.96378472">
+  <node id="-389" visible="true" lat="44.90241153" lon="-72.96378472">
     <!-- conflict: "3439 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "3439 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="3439"/>
@@ -184,7 +200,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223620"/>
   </node>
-  <node id="-391" visible="true" lat="44.90200963" lon="-72.97184551">
+  <node id="-390" visible="true" lat="44.90200963" lon="-72.97184551">
     <!-- conflict: "3046 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "3046 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="3046"/>
@@ -192,7 +208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223621"/>
   </node>
-  <node id="-409" visible="true" lat="44.90199982" lon="-72.96262762">
+  <node id="-408" visible="true" lat="44.90199982" lon="-72.96262762">
     <!-- conflict: "3505 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "3505 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="3505"/>
@@ -200,7 +216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223639"/>
   </node>
-  <node id="-442" visible="true" lat="44.9011379" lon="-72.96294837">
+  <node id="-441" visible="true" lat="44.9011379" lon="-72.96294837">
     <!-- conflict: "3510 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "3510 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="3510"/>
@@ -208,7 +224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223672"/>
   </node>
-  <node id="-446" visible="true" lat="44.90106581" lon="-72.96210815">
+  <node id="-445" visible="true" lat="44.90106581" lon="-72.96210815">
     <!-- conflict: "3558 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "3558 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="3558"/>
@@ -216,7 +232,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223676"/>
   </node>
-  <node id="-450" visible="true" lat="44.90102588" lon="-72.95413608">
+  <node id="-449" visible="true" lat="44.90102588" lon="-72.95413608">
     <!-- conflict: "3989 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "3989 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="3989"/>
@@ -224,7 +240,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223680"/>
   </node>
-  <node id="-766" visible="true" lat="44.86743235" lon="-72.87145022">
+  <node id="-765" visible="true" lat="44.86743235" lon="-72.87145022">
     <!-- conflict: "191 Riley Road, Sheldon, VT" Fuzzy match to "191 Riley Road, Sheldon, " -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="191"/>
@@ -232,7 +248,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224003"/>
   </node>
-  <node id="-858" visible="true" lat="44.86681403" lon="-72.87246165">
+  <node id="-857" visible="true" lat="44.86681403" lon="-72.87246165">
     <!-- conflict: "240 Riley Road, Sheldon, VT" Fuzzy match to "240 Riley Road, Sheldon, " -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="240"/>
@@ -240,7 +256,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224114"/>
   </node>
-  <node id="-873" visible="true" lat="44.91971721" lon="-72.96481137">
+  <node id="-868" visible="true" lat="44.90245367" lon="-72.94398929">
+    <!-- conflict: "4550 Vermont Route 105, Sheldon, VT" No match in OSM, but a different address exists <5m away: "4550 Vt Route 105, Sheldon, VT" -->
+    <tag k="addr:city" v="Sheldon"/>
+    <tag k="addr:housenumber" v="4550"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224127"/>
+  </node>
+  <node id="-872" visible="true" lat="44.91971721" lon="-72.96481137">
     <!-- conflict: "1455 Vermont Route 78, Sheldon, VT" No match in OSM, but a different address exists <5m away: "1411 Vt Route 78, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="1455"/>
@@ -248,7 +272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224131"/>
   </node>
-  <node id="-1141" visible="true" lat="44.86402507" lon="-72.87089379">
+  <node id="-1144" visible="true" lat="44.86402507" lon="-72.87089379">
     <!-- conflict: "340 Riley Road, Sheldon, VT" Fuzzy match to "340 Riley Road, Sheldon, " -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="340"/>
@@ -256,7 +280,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752647"/>
   </node>
-  <node id="-1142" visible="true" lat="44.86306815" lon="-72.86491178">
+  <node id="-1145" visible="true" lat="44.86306815" lon="-72.86491178">
     <!-- conflict: "425 Riley Road, Sheldon, VT" Fuzzy match to "425 Riley Road, Sheldon, " -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="425"/>

@@ -32,6 +32,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106923"/>
   </node>
+  <node id="-244" visible="true" lat="44.25664152" lon="-73.22874845">
+    <!-- conflict: "9 Swan Lane, Ferrisburgh, VT" No match in OSM, but a different address exists <5m away: "6821 Route 7, North Ferrisburgh, VT" -->
+    <tag k="addr:city" v="Ferrisburgh"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Swan Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="106983"/>
+  </node>
   <node id="-313" visible="true" lat="44.25468342" lon="-73.22729594">
     <!-- conflict: "6656 U.S. Route 7, Ferrisburgh, VT" No match in OSM, but a different address exists <5m away: " Ethan Allen Highway, , " -->
     <tag k="addr:city" v="Ferrisburgh"/>
@@ -40,7 +48,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="107052"/>
   </node>
-  <node id="-595" visible="true" lat="44.22972896" lon="-73.18927064">
+  <node id="-592" visible="true" lat="44.22972896" lon="-73.18927064">
     <!-- conflict: "199 Jockey Lane, Ferrisburgh, VT" Fuzzy match to "199 Jockey Lane, Monkton, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="199"/>
@@ -48,7 +56,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="107341"/>
   </node>
-  <node id="-618" visible="true" lat="44.22370594" lon="-73.19010547">
+  <node id="-615" visible="true" lat="44.22370594" lon="-73.19010547">
     <!-- conflict: "262 Pond Lane, Ferrisburgh, VT" Fuzzy match to "262 Pond Lane, Ferrisburg, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="262"/>
@@ -56,7 +64,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="107364"/>
   </node>
-  <node id="-1301" visible="true" lat="44.1726941" lon="-73.24003779">
+  <node id="-1296" visible="true" lat="44.1726941" lon="-73.24003779">
     <!-- conflict: "113 Monkton Road, Ferrisburgh, VT" Fuzzy match to "113 Monkton Road, Vergennes, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="113"/>
@@ -64,7 +72,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="108073"/>
   </node>
-  <node id="-1312" visible="true" lat="44.17201995" lon="-73.24021148">
+  <node id="-1307" visible="true" lat="44.17201995" lon="-73.24021148">
     <!-- conflict: "69 Monkton Road, Ferrisburgh, VT" Fuzzy match to "69 Monkton Road, Vergennes, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="69"/>
@@ -72,7 +80,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="108084"/>
   </node>
-  <node id="-1318" visible="true" lat="44.17155075" lon="-73.23986816">
+  <node id="-1313" visible="true" lat="44.17155075" lon="-73.23986816">
     <!-- conflict: "154 Monkton Road, Ferrisburgh, VT" Fuzzy match to "154 Monkton Road, Vergennes, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="154"/>
@@ -80,7 +88,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="108091"/>
   </node>
-  <node id="-1618" visible="true" lat="44.24343528" lon="-73.23039945">
+  <node id="-1612" visible="true" lat="44.24343528" lon="-73.23039945">
     <!-- conflict: "5801 U.S. Route 7, Ferrisburgh, VT" No match in OSM, but a different address exists <5m away: "5797 Rt 7, Ferrisburgh, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="5801"/>
@@ -88,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="108401"/>
   </node>
-  <node id="-1635" visible="true" lat="44.16147247" lon="-73.21859577">
+  <node id="-1628" visible="true" lat="44.16147247" lon="-73.21859577">
     <!-- conflict: "44 Bedford Road, Ferrisburgh, VT" No match in OSM, but a different address exists <5m away: "45 Bedford Road, Ferrisburgh, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="44"/>
@@ -96,7 +104,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="108418"/>
   </node>
-  <node id="-1730" visible="true" lat="44.22586632" lon="-73.19243306">
+  <node id="-1723" visible="true" lat="44.22586632" lon="-73.19243306">
     <!-- conflict: "105 Pond Lane, Ferrisburgh, VT" Fuzzy match to "105 Pond Lane, Ferrisburg, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="105"/>
@@ -104,7 +112,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341089"/>
   </node>
-  <node id="-1758" visible="true" lat="44.22486551" lon="-73.19080431">
+  <node id="-1752" visible="true" lat="44.22486551" lon="-73.19080431">
     <!-- conflict: "195 Pond Lane, Ferrisburgh, VT" Fuzzy match to "195 Pond Lane, Ferrisburg, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="195"/>
@@ -112,7 +120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451674"/>
   </node>
-  <node id="-1759" visible="true" lat="44.22529161" lon="-73.1892496">
+  <node id="-1753" visible="true" lat="44.22529161" lon="-73.1892496">
     <!-- conflict: "427 Pond Lane, Ferrisburgh, VT" Fuzzy match to "427 Pond Lane, Ferrisburg, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="427"/>
@@ -120,23 +128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451675"/>
   </node>
-  <node id="-1767" visible="true" lat="44.22450932" lon="-73.18840319">
-    <!-- conflict: "486 Pond Lane, Ferrisburgh, VT" Fuzzy match to "486 Pond Lane, Monkton, VT" -->
-    <tag k="addr:city" v="Ferrisburgh"/>
-    <tag k="addr:housenumber" v="486"/>
-    <tag k="addr:street" v="Pond Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="451721"/>
-  </node>
-  <node id="-1768" visible="true" lat="44.22060513" lon="-73.18756001">
-    <!-- conflict: "610 Ledge Lane, Ferrisburgh, VT" Fuzzy match to "610 Ledge Road, Monkton, VT" -->
-    <tag k="addr:city" v="Ferrisburgh"/>
-    <tag k="addr:housenumber" v="610"/>
-    <tag k="addr:street" v="Ledge Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="451722"/>
-  </node>
-  <node id="-1776" visible="true" lat="44.16201798" lon="-73.22656549">
+  <node id="-1768" visible="true" lat="44.16201798" lon="-73.22656549">
     <!-- conflict: "442 Plank Road, Ferrisburgh, VT" Fuzzy match to "442 Plank Road, Waltham, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="442"/>
@@ -144,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452667"/>
   </node>
-  <node id="-1778" visible="true" lat="44.16504324" lon="-73.24009238">
+  <node id="-1770" visible="true" lat="44.16504324" lon="-73.24009238">
     <!-- conflict: "67 New Haven Road, Ferrisburgh, VT" Fuzzy match to "67 New Haven Road, Vergennes, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="67"/>
@@ -152,7 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452670"/>
   </node>
-  <node id="-1790" visible="true" lat="44.1714384" lon="-73.23727975">
+  <node id="-1782" visible="true" lat="44.1714384" lon="-73.23727975">
     <!-- conflict: "186 Monkton Road, Ferrisburgh, VT" Fuzzy match to "186 Monkton Road, Vergennes, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="186"/>
@@ -160,7 +152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454481"/>
   </node>
-  <node id="-1792" visible="true" lat="44.17187352" lon="-73.23991182">
+  <node id="-1784" visible="true" lat="44.17187352" lon="-73.23991182">
     <!-- conflict: "115 Monkton Road, Ferrisburgh, VT" Fuzzy match to "115 Monkton Road, Vergennes, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="115"/>
@@ -168,7 +160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454787"/>
   </node>
-  <node id="-1805" visible="true" lat="44.16321011" lon="-73.23425238">
+  <node id="-1797" visible="true" lat="44.16321145" lon="-73.23424694">
     <!-- conflict: "48 Plank Road, Ferrisburgh, VT" Fuzzy match to "48 Plank Road, Waltham, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="48"/>
@@ -176,7 +168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617138"/>
   </node>
-  <node id="-1806" visible="true" lat="44.16266994" lon="-73.23075004">
+  <node id="-1798" visible="true" lat="44.16266994" lon="-73.23075004">
     <!-- conflict: "226 Plank Road, Ferrisburgh, VT" Fuzzy match to "226 Plank Road, Waltham, VT" -->
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="226"/>

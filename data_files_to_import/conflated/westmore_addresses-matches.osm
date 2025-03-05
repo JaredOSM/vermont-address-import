@@ -511,13 +511,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284251"/>
   </node>
-  <node id="-359" visible="true" lat="44.76153183" lon="-72.10227203">
-    <tag k="addr:city" v="Westmore"/>
-    <tag k="addr:housenumber" v="1347"/>
-    <tag k="addr:street" v="Cooks Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284252"/>
-  </node>
   <node id="-360" visible="true" lat="44.76122665" lon="-72.05394745">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="95"/>
@@ -602,13 +595,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284268"/>
   </node>
-  <node id="-379" visible="true" lat="44.76013966" lon="-72.10214854">
-    <tag k="addr:city" v="Westmore"/>
-    <tag k="addr:housenumber" v="1400"/>
-    <tag k="addr:street" v="Cooks Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284274"/>
-  </node>
   <node id="-380" visible="true" lat="44.75975145" lon="-72.05450529">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="145"/>
@@ -629,13 +615,6 @@
     <tag k="addr:street" v="Old Ford Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284279"/>
-  </node>
-  <node id="-388" visible="true" lat="44.7591794" lon="-72.09950439">
-    <tag k="addr:city" v="Westmore"/>
-    <tag k="addr:housenumber" v="1548"/>
-    <tag k="addr:street" v="Cooks Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284283"/>
   </node>
   <node id="-390" visible="true" lat="44.75902572" lon="-72.05461044">
     <tag k="addr:city" v="Westmore"/>
@@ -1036,13 +1015,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284498"/>
   </node>
-  <node id="-592" visible="true" lat="44.76610994" lon="-72.05342242">
-    <tag k="addr:city" v="Westmore"/>
-    <tag k="addr:housenumber" v="1976"/>
-    <tag k="addr:street" v="Vermont Route 5A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284501"/>
-  </node>
   <node id="-593" visible="true" lat="44.74759809" lon="-72.05135484">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="3206"/>
@@ -1141,41 +1113,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284536"/>
   </node>
-  <node id="-630" visible="true" lat="44.76623783" lon="-72.05346066">
-    <tag k="addr:city" v="Westmore"/>
-    <tag k="addr:housenumber" v="1950"/>
-    <tag k="addr:street" v="Vermont Route 5A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284545"/>
-  </node>
-  <node id="-631" visible="true" lat="44.76595082" lon="-72.05344481">
-    <tag k="addr:city" v="Westmore"/>
-    <tag k="addr:housenumber" v="1952"/>
-    <tag k="addr:street" v="Vermont Route 5A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284546"/>
-  </node>
-  <node id="-632" visible="true" lat="44.76585985" lon="-72.05333746">
-    <tag k="addr:city" v="Westmore"/>
-    <tag k="addr:housenumber" v="1954"/>
-    <tag k="addr:street" v="Vermont Route 5A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284547"/>
-  </node>
-  <node id="-633" visible="true" lat="44.7658694" lon="-72.05320291">
-    <tag k="addr:city" v="Westmore"/>
-    <tag k="addr:housenumber" v="1956"/>
-    <tag k="addr:street" v="Vermont Route 5A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284548"/>
-  </node>
-  <node id="-634" visible="true" lat="44.76587398" lon="-72.05308256">
-    <tag k="addr:city" v="Westmore"/>
-    <tag k="addr:housenumber" v="1958"/>
-    <tag k="addr:street" v="Vermont Route 5A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284549"/>
-  </node>
   <node id="-636" visible="true" lat="44.80089121" lon="-72.00160181">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="1625"/>
@@ -1190,133 +1127,105 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284566"/>
   </node>
-  <node id="-644" visible="true" lat="44.76083143" lon="-72.10160817">
-    <tag k="addr:city" v="Westmore"/>
-    <tag k="addr:housenumber" v="1351"/>
-    <tag k="addr:street" v="Cooks Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284571"/>
-  </node>
-  <node id="-645" visible="true" lat="44.76992545" lon="-72.05404533">
+  <node id="-644" visible="true" lat="44.76992545" lon="-72.05404533">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="1708"/>
     <tag k="addr:street" v="Vermont Route 5A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284572"/>
   </node>
-  <node id="-646" visible="true" lat="44.74273769" lon="-72.0847087">
-    <tag k="addr:city" v="Westmore"/>
-    <tag k="addr:housenumber" v="1350"/>
-    <tag k="addr:street" v="Lakeview Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326246"/>
-  </node>
-  <node id="-657" visible="true" lat="44.76063134" lon="-71.9514222">
+  <node id="-656" visible="true" lat="44.76063134" lon="-71.9514222">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="2989"/>
     <tag k="addr:street" v="Newark Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="329096"/>
   </node>
-  <node id="-663" visible="true" lat="44.75234345" lon="-72.09699453">
+  <node id="-662" visible="true" lat="44.75234345" lon="-72.09699453">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="500"/>
     <tag k="addr:street" v="Lakeview Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="335539"/>
   </node>
-  <node id="-665" visible="true" lat="44.76556457" lon="-71.95289258">
+  <node id="-664" visible="true" lat="44.76556457" lon="-71.95289258">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="95"/>
     <tag k="addr:street" v="Jobs Pond Camp Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339446"/>
   </node>
-  <node id="-667" visible="true" lat="44.7567748" lon="-72.04899448">
+  <node id="-666" visible="true" lat="44.7567748" lon="-72.04899448">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="182"/>
     <tag k="addr:street" v="Overlook Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="340966"/>
   </node>
-  <node id="-671" visible="true" lat="44.76106817" lon="-72.04600609">
+  <node id="-670" visible="true" lat="44.76106817" lon="-72.04600609">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:street" v="Sterling Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345624"/>
   </node>
-  <node id="-676" visible="true" lat="44.73137407" lon="-72.07115356">
+  <node id="-675" visible="true" lat="44.73137407" lon="-72.07115356">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="824"/>
     <tag k="addr:street" v="Big Valley Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="447813"/>
   </node>
-  <node id="-678" visible="true" lat="44.75636277" lon="-72.01963696">
+  <node id="-677" visible="true" lat="44.75636277" lon="-72.01963696">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="2020"/>
     <tag k="addr:street" v="Long Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="449407"/>
   </node>
-  <node id="-680" visible="true" lat="44.75943" lon="-72.10063766">
-    <tag k="addr:city" v="Westmore"/>
-    <tag k="addr:housenumber" v="1482"/>
-    <tag k="addr:street" v="Cooks Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="449614"/>
-  </node>
-  <node id="-682" visible="true" lat="44.76444646" lon="-71.948645">
+  <node id="-681" visible="true" lat="44.76444646" lon="-71.948645">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="3350"/>
     <tag k="addr:street" v="Newark Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450872"/>
   </node>
-  <node id="-691" visible="true" lat="44.7619334" lon="-72.10237587">
-    <tag k="addr:city" v="Westmore"/>
-    <tag k="addr:housenumber" v="1323"/>
-    <tag k="addr:street" v="Cooks Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="612436"/>
-  </node>
-  <node id="-693" visible="true" lat="44.78045246" lon="-72.06688364">
+  <node id="-692" visible="true" lat="44.78045246" lon="-72.06688364">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="91"/>
     <tag k="addr:street" v="Conley Farm Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="613124"/>
   </node>
-  <node id="-694" visible="true" lat="44.7801655" lon="-72.06696501">
+  <node id="-693" visible="true" lat="44.7801655" lon="-72.06696501">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="81"/>
     <tag k="addr:street" v="Conley Farm Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="613125"/>
   </node>
-  <node id="-695" visible="true" lat="44.78098436" lon="-72.0664619">
+  <node id="-694" visible="true" lat="44.78098436" lon="-72.0664619">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="126"/>
     <tag k="addr:street" v="Conley Farm Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="613126"/>
   </node>
-  <node id="-696" visible="true" lat="44.78013846" lon="-72.06659788">
+  <node id="-695" visible="true" lat="44.78013846" lon="-72.06659788">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="79"/>
     <tag k="addr:street" v="Conley Farm Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="613127"/>
   </node>
-  <node id="-701" visible="true" lat="44.76626772" lon="-72.06893775">
+  <node id="-700" visible="true" lat="44.76626772" lon="-72.06893775">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="1120"/>
     <tag k="addr:street" v="Old Cottage Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617380"/>
   </node>
-  <node id="-703" visible="true" lat="44.76353976" lon="-72.05244194">
+  <node id="-702" visible="true" lat="44.76353976" lon="-72.05244194">
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="2163"/>
     <tag k="addr:street" v="Vermont Route 5A"/>

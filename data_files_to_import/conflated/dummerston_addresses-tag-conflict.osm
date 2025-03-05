@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-122" visible="true" lat="42.96412575" lon="-72.52062275">
+  <node id="-120" visible="true" lat="42.96412575" lon="-72.52062275">
     <!-- conflict: "7 Brickyard Lane, Dummerston, VT" Fuzzy match to "7 Brickyard Lane, Putney, VT" -->
     <tag k="addr:city" v="Dummerston"/>
     <tag k="addr:housenumber" v="7"/>
@@ -8,7 +8,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="88993"/>
   </node>
-  <node id="-426" visible="true" lat="42.93601226" lon="-72.60919952">
+  <node id="-424" visible="true" lat="42.93601226" lon="-72.60919952">
     <!-- conflict: "49 Day Road, Dummerston, VT" No match in OSM, but a different address exists <5m away: " , Dummerston, VT" -->
     <tag k="addr:city" v="Dummerston"/>
     <tag k="addr:housenumber" v="49"/>
@@ -16,7 +16,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89307"/>
   </node>
-  <node id="-459" visible="true" lat="42.93366824" lon="-72.53791936">
+  <node id="-457" visible="true" lat="42.93366824" lon="-72.53791936">
     <!-- conflict: "52 School House Road, Dummerston, VT" Fuzzy match to "52 School House Road, east dummerston, VT" -->
     <tag k="addr:city" v="Dummerston"/>
     <tag k="addr:housenumber" v="52"/>
@@ -24,7 +24,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89341"/>
   </node>
-  <node id="-579" visible="true" lat="42.92799873" lon="-72.612204">
+  <node id="-577" visible="true" lat="42.92799873" lon="-72.612204">
     <!-- conflict: "150 West Street, Dummerston, VT" Fuzzy match to "150 West Street, West Dummerston, VT" -->
     <tag k="addr:city" v="Dummerston"/>
     <tag k="addr:housenumber" v="150"/>

@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-635" visible="true" lat="44.20632445" lon="-72.49181283">
-    <!-- conflict: "16 East Street Extension, Barre Town, VT" Fuzzy match to "16 East St Extension, Barre Town, VT" -->
+    <!-- conflict: "39 Aljen Acres Drive, Barre Town, VT" No match in OSM, but a different address exists <5m away: "16 East St Extension, Barre Town, VT" -->
     <tag k="addr:city" v="Barre Town"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="East Street Extension"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Aljen Acres Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="11447"/>
   </node>
   <node id="-654" visible="true" lat="44.20578501" lon="-72.49151207">
-    <!-- conflict: "9 East Street Extension, Barre Town, VT" Fuzzy match to "9 East St Extension, Barre Town, VT" -->
+    <!-- conflict: "86 Aljen Acres Drive, Barre Town, VT" No match in OSM, but a different address exists <5m away: "9 East St Extension, Barre Town, VT" -->
     <tag k="addr:city" v="Barre Town"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="East Street Extension"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Aljen Acres Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="11467"/>
   </node>
   <node id="-657" visible="true" lat="44.20591363" lon="-72.49207884">
-    <!-- conflict: "10 East Street Extension, Barre Town, VT" Fuzzy match to "10 East St Extension, Barre Town, VT" -->
+    <!-- conflict: "91 Aljen Acres Drive, Barre Town, VT" No match in OSM, but a different address exists <5m away: "10 East St Extension, Barre Town, VT" -->
     <tag k="addr:city" v="Barre Town"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="East Street Extension"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Aljen Acres Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="11470"/>
   </node>
   <node id="-663" visible="true" lat="44.20565334" lon="-72.49226199">
-    <!-- conflict: "6 East Street Extension, Barre Town, VT" Fuzzy match to "6 East St Extension, Barre Town, VT" -->
+    <!-- conflict: "103 Aljen Acres Drive, Barre Town, VT" No match in OSM, but a different address exists <5m away: "6 East St Extension, Barre Town, VT" -->
     <tag k="addr:city" v="Barre Town"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="East Street Extension"/>
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:street" v="Aljen Acres Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="11477"/>
   </node>
   <node id="-664" visible="true" lat="44.20555094" lon="-72.49172312">
-    <!-- conflict: "5 East Street Extension, Barre Town, VT" Fuzzy match to "5 East St Extension, Barre Town, VT" -->
+    <!-- conflict: "98 Aljen Acres Drive, Barre Town, VT" No match in OSM, but a different address exists <5m away: "5 East St Extension, Barre Town, VT" -->
     <tag k="addr:city" v="Barre Town"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="East Street Extension"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Aljen Acres Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="11478"/>
   </node>
   <node id="-677" visible="true" lat="44.20542453" lon="-72.49237328">
-    <!-- conflict: "2 East Street Extension, Barre Town, VT" Fuzzy match to "2 East St Extension, Barre Town, VT" -->
+    <!-- conflict: "127 Aljen Acres Drive, Barre Town, VT" No match in OSM, but a different address exists <5m away: "2 East St Extension, Barre Town, VT" -->
     <tag k="addr:city" v="Barre Town"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="East Street Extension"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Aljen Acres Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="11491"/>
   </node>
@@ -336,7 +336,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="13258"/>
   </node>
-  <node id="-2981" visible="true" lat="44.17327102" lon="-72.48263511">
+  <node id="-2377" visible="true" lat="44.1575069" lon="-72.45509281">
+    <!-- conflict: "35 Phil Street, Barre Town, VT" No match in OSM, but a different address exists <5m away: " , Barre Town, VT" -->
+    <tag k="addr:city" v="Barre Town"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Phil Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="13304"/>
+  </node>
+  <node id="-2979" visible="true" lat="44.17327102" lon="-72.48263511">
     <!-- conflict: "33 Parker Road, Barre Town, VT" Fuzzy match to "33 Parker Road, Barre, VT" -->
     <tag k="addr:city" v="Barre Town"/>
     <tag k="addr:housenumber" v="33"/>
@@ -344,7 +352,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="13950"/>
   </node>
-  <node id="-3295" visible="true" lat="44.16068684" lon="-72.51334172">
+  <node id="-3224" visible="true" lat="44.22711045" lon="-72.50681098">
+    <!-- conflict: "20 Mollys Trail, Barre Town, VT" No match in OSM, but a different address exists <5m away: "401 Beckley Hill Road, Barre Town, VT" -->
+    <tag k="addr:city" v="Barre Town"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Mollys Trail"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="14205"/>
+  </node>
+  <node id="-3287" visible="true" lat="44.17167421" lon="-72.46383925">
+    <!-- conflict: "764 East Barre Road, Barre Town, VT" No match in OSM, but a different address exists <5m away: "748 East Barre Road, Barre Town, VT" -->
+    <tag k="addr:city" v="Barre Town"/>
+    <tag k="addr:housenumber" v="764"/>
+    <tag k="addr:street" v="East Barre Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="328888"/>
+  </node>
+  <node id="-3293" visible="true" lat="44.16068684" lon="-72.51334172">
     <!-- conflict: "885 South Barre Road, Barre Town, VT" Fuzzy match to "885 South Barre Road, Barre, VT" -->
     <tag k="addr:city" v="Barre Town"/>
     <tag k="addr:housenumber" v="885"/>
@@ -352,7 +376,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328897"/>
   </node>
-  <node id="-3316" visible="true" lat="44.17100518" lon="-72.50747979">
+  <node id="-3314" visible="true" lat="44.17100518" lon="-72.50747979">
     <!-- conflict: "9 Don Camp Drive, Barre Town, VT" Fuzzy match to "9 Don Camp Drive, Barre, VT" -->
     <tag k="addr:city" v="Barre Town"/>
     <tag k="addr:housenumber" v="9"/>
@@ -360,7 +384,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328920"/>
   </node>
-  <node id="-3340" visible="true" lat="44.15786492" lon="-72.47103708">
+  <node id="-3338" visible="true" lat="44.15786492" lon="-72.47103708">
     <!-- conflict: "4 Milano Hill, Barre Town, VT" Fuzzy match to "4 Milano Hollow, Barre Town, VT" -->
     <tag k="addr:city" v="Barre Town"/>
     <tag k="addr:housenumber" v="4"/>
@@ -368,7 +392,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="329677"/>
   </node>
-  <node id="-3355" visible="true" lat="44.15140401" lon="-72.44307378">
+  <node id="-3353" visible="true" lat="44.15140401" lon="-72.44307378">
     <!-- conflict: "18 Remington Drive, Barre Town, VT" No match in OSM, but a different address exists <5m away: "160 Washington Road, Barre Town, VT" -->
     <tag k="addr:city" v="Barre Town"/>
     <tag k="addr:housenumber" v="18"/>
@@ -376,7 +400,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="336936"/>
   </node>
-  <node id="-3382" visible="true" lat="44.15092683" lon="-72.44237432">
+  <node id="-3380" visible="true" lat="44.15092683" lon="-72.44237432">
     <!-- conflict: "44 Remington Drive, Barre Town, VT" No match in OSM, but a different address exists <5m away: "166 Washington Road, Barre Town, VT" -->
     <tag k="addr:city" v="Barre Town"/>
     <tag k="addr:housenumber" v="44"/>
@@ -384,7 +408,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="344534"/>
   </node>
-  <node id="-3438" visible="true" lat="44.23438102" lon="-72.48795829">
+  <node id="-3444" visible="true" lat="44.23438102" lon="-72.48795829">
     <!-- conflict: "575 East Montpelier Road, Barre Town, VT" Fuzzy match to "575 East Montpelier Road, East Montpelier, VT" -->
     <tag k="addr:city" v="Barre Town"/>
     <tag k="addr:housenumber" v="575"/>
@@ -392,7 +416,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451325"/>
   </node>
-  <node id="-3477" visible="true" lat="44.16098333" lon="-72.54901154">
+  <node id="-3483" visible="true" lat="44.16098333" lon="-72.54901154">
     <!-- conflict: "106 Miller Road Extension, Barre Town, VT" Fuzzy match to "106 Miller Rd Extension, Barre Town, VT" -->
     <tag k="addr:city" v="Barre Town"/>
     <tag k="addr:housenumber" v="106"/>

@@ -48,6 +48,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252231"/>
   </node>
+  <node id="-305" visible="true" lat="43.8682831" lon="-72.33032477">
+    <!-- conflict: "606 Dodge Road, Strafford, VT" No match in OSM, but a different address exists <5m away: "56 Dodge Road, Strafford, VT" -->
+    <tag k="addr:city" v="Strafford"/>
+    <tag k="addr:housenumber" v="606"/>
+    <tag k="addr:street" v="Dodge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="252337"/>
+  </node>
   <node id="-342" visible="true" lat="43.86404606" lon="-72.37606466">
     <!-- conflict: "220 Justin Morrill Memorial Highway, Strafford, VT" No match in OSM, but a different address exists <5m away: "220 Justin Morill Memorial Highway, Strafford, VT" -->
     <tag k="addr:city" v="Strafford"/>
@@ -200,7 +208,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343799"/>
   </node>
-  <node id="-769" visible="true" lat="43.84808912" lon="-72.31209563">
+  <node id="-750" visible="true" lat="43.87688" lon="-72.28940278">
+    <!-- conflict: "2816 Sawnee Bean Road, Strafford, VT" Fuzzy match to "2816 Sawnee Bean Road, Thetford, VT" -->
+    <tag k="addr:city" v="Strafford"/>
+    <tag k="addr:housenumber" v="2816"/>
+    <tag k="addr:street" v="Sawnee Bean Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365551"/>
+  </node>
+  <node id="-762" visible="true" lat="43.84915695" lon="-72.31709398">
     <!-- conflict: "1144 Miller Pond Road, Strafford, VT" Fuzzy match to "1144 Miller Pond Road, Thetford, VT" -->
     <tag k="addr:city" v="Strafford"/>
     <tag k="addr:housenumber" v="1144"/>
@@ -208,7 +224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="453569"/>
   </node>
-  <node id="-805" visible="true" lat="43.88579964" lon="-72.2831198">
+  <node id="-801" visible="true" lat="43.88738848" lon="-72.2884482">
     <!-- conflict: "3566 Sawnee Bean Road, Strafford, VT" Fuzzy match to "3566 Sawnee Bean Road, Thetford, VT" -->
     <tag k="addr:city" v="Strafford"/>
     <tag k="addr:housenumber" v="3566"/>

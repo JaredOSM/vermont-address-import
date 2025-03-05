@@ -7,7 +7,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="41743"/>
   </node>
-  <node id="-106" visible="true" lat="44.76811599" lon="-71.70194244">
+  <node id="-106" visible="true" lat="44.76822269" lon="-71.70189049">
     <tag k="addr:city" v="Brunswick"/>
     <tag k="addr:housenumber" v="5360"/>
     <tag k="addr:street" v="Vermont Route 105"/>
@@ -21,7 +21,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="41752"/>
   </node>
-  <node id="-117" visible="true" lat="44.75064086" lon="-71.64008331">
+  <node id="-117" visible="true" lat="44.75066604" lon="-71.64009175">
     <tag k="addr:city" v="Brunswick"/>
     <tag k="addr:housenumber" v="423"/>
     <tag k="addr:street" v="Graham Road"/>
@@ -168,32 +168,32 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345182"/>
   </node>
-  <node id="-165" visible="true" lat="44.7653722" lon="-71.70847675">
-    <tag k="addr:city" v="Brunswick"/>
-    <tag k="addr:housenumber" v="5697"/>
-    <tag k="addr:street" v="Vermont Route 105"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="446209"/>
-  </node>
-  <node id="-166" visible="true" lat="44.77703152" lon="-71.69296015">
-    <tag k="addr:city" v="Brunswick"/>
-    <tag k="addr:housenumber" v="4479"/>
-    <tag k="addr:street" v="Vermont Route 105"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="446210"/>
-  </node>
-  <node id="-177" visible="true" lat="44.77666746" lon="-71.69405413">
+  <node id="-175" visible="true" lat="44.77666746" lon="-71.69405413">
     <tag k="addr:city" v="Brunswick"/>
     <tag k="addr:housenumber" v="4534"/>
     <tag k="addr:street" v="Vermont Route 105"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617345"/>
   </node>
-  <node id="-178" visible="true" lat="44.74770256" lon="-71.63235402">
+  <node id="-176" visible="true" lat="44.74770256" lon="-71.63235402">
     <tag k="addr:city" v="Brunswick"/>
     <tag k="addr:housenumber" v="160"/>
     <tag k="addr:street" v="Vermont Route 102"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617347"/>
+  </node>
+  <node id="-194" visible="true" lat="44.76674397" lon="-71.69898815">
+    <tag k="addr:city" v="Brunswick"/>
+    <tag k="addr:housenumber" v="5307"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770667"/>
+  </node>
+  <node id="-195" visible="true" lat="44.7660389" lon="-71.6986827">
+    <tag k="addr:city" v="Brunswick"/>
+    <tag k="addr:housenumber" v="5309"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770668"/>
   </node>
 </osm>

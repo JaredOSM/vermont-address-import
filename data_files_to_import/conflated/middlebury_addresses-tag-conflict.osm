@@ -17,26 +17,26 @@
     <tag k="ref:vcgi:esiteid" v="153900"/>
   </node>
   <node id="-138" visible="true" lat="44.04381981" lon="-73.16158599">
-    <!-- conflict: "1482 U.S. Route 7 North, Middlebury, VT" Fuzzy match to "1482 US Route 7 North, Middlebury, VT" -->
+    <!-- conflict: "37 Acker Farm Road, Middlebury, VT" No match in OSM, but a different address exists <5m away: "1482 US Route 7 North, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="1482"/>
-    <tag k="addr:street" v="U.S. Route 7 North"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Acker Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153908"/>
   </node>
   <node id="-139" visible="true" lat="44.04389494" lon="-73.16202618">
-    <!-- conflict: "1480 U.S. Route 7 North, Middlebury, VT" Fuzzy match to "1480 US Route 7 North, Middlebury, VT" -->
+    <!-- conflict: "25 Acker Farm Road, Middlebury, VT" No match in OSM, but a different address exists <5m away: "1480 US Route 7 North, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="1480"/>
-    <tag k="addr:street" v="U.S. Route 7 North"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Acker Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153909"/>
   </node>
   <node id="-140" visible="true" lat="44.04425516" lon="-73.16156304">
-    <!-- conflict: "1484 U.S. Route 7 North, Middlebury, VT" Fuzzy match to "1484 US Route 7 North, Middlebury, VT" -->
+    <!-- conflict: "47 Acker Farm Road, Middlebury, VT" No match in OSM, but a different address exists <5m away: "1484 US Route 7 North, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="1484"/>
-    <tag k="addr:street" v="U.S. Route 7 North"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Acker Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153910"/>
   </node>
@@ -216,7 +216,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154958"/>
   </node>
-  <node id="-1311" visible="true" lat="44.01089952" lon="-73.16181297">
+  <node id="-1095" visible="true" lat="44.0133937" lon="-73.16716963">
+    <!-- conflict: "62 Merchants Row, Middlebury, VT" No match in OSM, but a different address exists <5m away: "52 Merchant's Row, Middlebury, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Merchants Row"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154975"/>
+  </node>
+  <node id="-1310" visible="true" lat="44.01089952" lon="-73.16181297">
     <!-- conflict: "201 Mary Hogan Drive, Middlebury, VT" Fuzzy match to "201 Mary Hogan Drive, Middlebury, " -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="201"/>
@@ -224,7 +232,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155225"/>
   </node>
-  <node id="-1626" visible="true" lat="44.00669412" lon="-73.16313652">
+  <node id="-1625" visible="true" lat="44.00669412" lon="-73.16313652">
     <!-- conflict: "73 Charles Avenue, Middlebury, VT" Fuzzy match to "73 Charles Avenue, Middlebury, " -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="73"/>
@@ -232,7 +240,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155579"/>
   </node>
-  <node id="-1760" visible="true" lat="44.00122556" lon="-73.15064388">
+  <node id="-1666" visible="true" lat="44.00548477" lon="-73.15446498">
+    <!-- conflict: "19 Lucys Way, Middlebury, VT" No match in OSM, but a different address exists <5m away: "99 Birchard Park, Middlebury, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Lucys Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="155625"/>
+  </node>
+  <node id="-1758" visible="true" lat="44.00122556" lon="-73.15064388">
     <!-- conflict: "510 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "510 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="510"/>
@@ -240,7 +256,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155740"/>
   </node>
-  <node id="-1791" visible="true" lat="44.00001175" lon="-73.1472856">
+  <node id="-1789" visible="true" lat="44.00001175" lon="-73.1472856">
     <!-- conflict: "36 Boardman Street, Middlebury, VT" Fuzzy match to "36 Boardman Street, , " -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="36"/>
@@ -248,7 +264,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155775"/>
   </node>
-  <node id="-1798" visible="true" lat="43.99941103" lon="-73.14840224">
+  <node id="-1796" visible="true" lat="43.99941103" lon="-73.14840224">
     <!-- conflict: "686 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "686 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="686"/>
@@ -256,7 +272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155783"/>
   </node>
-  <node id="-1799" visible="true" lat="43.99925496" lon="-73.14829602">
+  <node id="-1797" visible="true" lat="43.99925496" lon="-73.14829602">
     <!-- conflict: "690 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "690 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="690"/>
@@ -264,7 +280,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155784"/>
   </node>
-  <node id="-1801" visible="true" lat="43.99909006" lon="-73.14817333">
+  <node id="-1799" visible="true" lat="43.99909006" lon="-73.14817333">
     <!-- conflict: "706 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "706 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="706"/>
@@ -272,7 +288,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155786"/>
   </node>
-  <node id="-1805" visible="true" lat="43.99880824" lon="-73.14806181">
+  <node id="-1803" visible="true" lat="43.99880824" lon="-73.14806181">
     <!-- conflict: "718 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "718 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="718"/>
@@ -280,7 +296,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155790"/>
   </node>
-  <node id="-1815" visible="true" lat="43.99789666" lon="-73.14717901">
+  <node id="-1813" visible="true" lat="43.99789666" lon="-73.14717901">
     <!-- conflict: "800 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "800 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="800"/>
@@ -288,7 +304,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155800"/>
   </node>
-  <node id="-1821" visible="true" lat="43.99746885" lon="-73.14685711">
+  <node id="-1819" visible="true" lat="43.99746885" lon="-73.14685711">
     <!-- conflict: "844 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "844 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="844"/>
@@ -296,7 +312,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155806"/>
   </node>
-  <node id="-1822" visible="true" lat="43.99758473" lon="-73.14559335">
+  <node id="-1820" visible="true" lat="43.99758473" lon="-73.14559335">
     <!-- conflict: "859 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "859 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="859"/>
@@ -304,7 +320,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155807"/>
   </node>
-  <node id="-1823" visible="true" lat="43.99724036" lon="-73.14618737">
+  <node id="-1821" visible="true" lat="43.99724036" lon="-73.14618737">
     <!-- conflict: "864 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "864 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="864"/>
@@ -312,7 +328,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155809"/>
   </node>
-  <node id="-1828" visible="true" lat="43.99678168" lon="-73.14603453">
+  <node id="-1826" visible="true" lat="43.99678168" lon="-73.14603453">
     <!-- conflict: "886 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "886 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="886"/>
@@ -320,7 +336,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155814"/>
   </node>
-  <node id="-1841" visible="true" lat="43.99530307" lon="-73.14481489">
+  <node id="-1839" visible="true" lat="43.99530307" lon="-73.14481489">
     <!-- conflict: "1020 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1020 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1020"/>
@@ -328,7 +344,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155829"/>
   </node>
-  <node id="-1844" visible="true" lat="43.99531887" lon="-73.1428375">
+  <node id="-1842" visible="true" lat="43.99531887" lon="-73.1428375">
     <!-- conflict: "1129 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1129 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1129"/>
@@ -336,7 +352,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155833"/>
   </node>
-  <node id="-1845" visible="true" lat="43.99502563" lon="-73.14336395">
+  <node id="-1843" visible="true" lat="43.99502563" lon="-73.14336395">
     <!-- conflict: "1007 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1007 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1007"/>
@@ -344,7 +360,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155834"/>
   </node>
-  <node id="-1847" visible="true" lat="43.99480056" lon="-73.14440917">
+  <node id="-1845" visible="true" lat="43.99480056" lon="-73.14440917">
     <!-- conflict: "1050 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1050 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1050"/>
@@ -352,7 +368,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155836"/>
   </node>
-  <node id="-1848" visible="true" lat="43.99474334" lon="-73.14562225">
+  <node id="-1846" visible="true" lat="43.99474334" lon="-73.14562225">
     <!-- conflict: "1036 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1036 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1036"/>
@@ -360,7 +376,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155837"/>
   </node>
-  <node id="-1854" visible="true" lat="43.99458417" lon="-73.14398777">
+  <node id="-1852" visible="true" lat="43.99458417" lon="-73.14398777">
     <!-- conflict: "1080 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1080 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1080"/>
@@ -368,7 +384,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155843"/>
   </node>
-  <node id="-1857" visible="true" lat="43.99425257" lon="-73.14369607">
+  <node id="-1855" visible="true" lat="43.99425257" lon="-73.14369607">
     <!-- conflict: "1124 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1124 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1124"/>
@@ -376,7 +392,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155846"/>
   </node>
-  <node id="-1859" visible="true" lat="43.99405604" lon="-73.14061016">
+  <node id="-1857" visible="true" lat="43.99405604" lon="-73.14061016">
     <!-- conflict: "1223 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1223 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1223"/>
@@ -384,7 +400,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155848"/>
   </node>
-  <node id="-1862" visible="true" lat="43.99390049" lon="-73.14103415">
+  <node id="-1860" visible="true" lat="43.99390049" lon="-73.14103415">
     <!-- conflict: "1219 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1219 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1219"/>
@@ -392,7 +408,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155852"/>
   </node>
-  <node id="-1883" visible="true" lat="43.99274542" lon="-73.13954796">
+  <node id="-1881" visible="true" lat="43.99274542" lon="-73.13954796">
     <!-- conflict: "1289 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1289 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1289"/>
@@ -400,7 +416,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155874"/>
   </node>
-  <node id="-1885" visible="true" lat="43.99273937" lon="-73.14413745">
+  <node id="-1883" visible="true" lat="43.99273937" lon="-73.14413745">
     <!-- conflict: "1280 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1280 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1280"/>
@@ -408,7 +424,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155876"/>
   </node>
-  <node id="-1890" visible="true" lat="43.99227523" lon="-73.13981628">
+  <node id="-1888" visible="true" lat="43.99227523" lon="-73.13981628">
     <!-- conflict: "1293 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1293 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1293"/>
@@ -416,7 +432,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155881"/>
   </node>
-  <node id="-1900" visible="true" lat="43.99145197" lon="-73.13943149">
+  <node id="-1898" visible="true" lat="43.99145197" lon="-73.13943149">
     <!-- conflict: "1395 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1395 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1395"/>
@@ -424,7 +440,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155893"/>
   </node>
-  <node id="-1903" visible="true" lat="43.99109649" lon="-73.13903045">
+  <node id="-1901" visible="true" lat="43.99109649" lon="-73.13903045">
     <!-- conflict: "1419 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1419 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1419"/>
@@ -432,7 +448,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155896"/>
   </node>
-  <node id="-1907" visible="true" lat="43.99078988" lon="-73.14021059">
+  <node id="-1905" visible="true" lat="43.99078988" lon="-73.14021059">
     <!-- conflict: "1396 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1396 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1396"/>
@@ -440,7 +456,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155900"/>
   </node>
-  <node id="-1909" visible="true" lat="43.99067226" lon="-73.13987626">
+  <node id="-1907" visible="true" lat="43.99067226" lon="-73.13987626">
     <!-- conflict: "1410 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1410 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1410"/>
@@ -448,7 +464,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155902"/>
   </node>
-  <node id="-1912" visible="true" lat="43.99048646" lon="-73.13973498">
+  <node id="-1910" visible="true" lat="43.99048646" lon="-73.13973498">
     <!-- conflict: "1428 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1428 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1428"/>
@@ -456,7 +472,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155905"/>
   </node>
-  <node id="-1914" visible="true" lat="43.99072746" lon="-73.13853456">
+  <node id="-1912" visible="true" lat="43.99072746" lon="-73.13853456">
     <!-- conflict: "1457 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1457 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1457"/>
@@ -464,7 +480,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155907"/>
   </node>
-  <node id="-1915" visible="true" lat="43.99037744" lon="-73.13949539">
+  <node id="-1913" visible="true" lat="43.99037744" lon="-73.13949539">
     <!-- conflict: "1438 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1438 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1438"/>
@@ -472,7 +488,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155908"/>
   </node>
-  <node id="-1916" visible="true" lat="43.98988297" lon="-73.13948324">
+  <node id="-1914" visible="true" lat="43.98988297" lon="-73.13948324">
     <!-- conflict: "1448 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1448 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1448"/>
@@ -480,7 +496,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155910"/>
   </node>
-  <node id="-1918" visible="true" lat="43.99034845" lon="-73.13793958">
+  <node id="-1916" visible="true" lat="43.99034845" lon="-73.13793958">
     <!-- conflict: "1499 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1499 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1499"/>
@@ -488,7 +504,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155912"/>
   </node>
-  <node id="-1921" visible="true" lat="43.990036" lon="-73.13889312">
+  <node id="-1919" visible="true" lat="43.990036" lon="-73.13889312">
     <!-- conflict: "1458 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1458 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1458"/>
@@ -496,7 +512,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155915"/>
   </node>
-  <node id="-1923" visible="true" lat="43.98995935" lon="-73.13732923">
+  <node id="-1921" visible="true" lat="43.98995935" lon="-73.13732923">
     <!-- conflict: "1557 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1557 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1557"/>
@@ -504,7 +520,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155918"/>
   </node>
-  <node id="-1928" visible="true" lat="43.98955662" lon="-73.13828264">
+  <node id="-1926" visible="true" lat="43.98955662" lon="-73.13828264">
     <!-- conflict: "1562 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1562 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1562"/>
@@ -512,7 +528,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155924"/>
   </node>
-  <node id="-1930" visible="true" lat="43.98918151" lon="-73.13764953">
+  <node id="-1928" visible="true" lat="43.98918151" lon="-73.13764953">
     <!-- conflict: "1560 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1560 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1560"/>
@@ -520,7 +536,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155927"/>
   </node>
-  <node id="-1934" visible="true" lat="43.98893943" lon="-73.13597444">
+  <node id="-1932" visible="true" lat="43.98893943" lon="-73.13597444">
     <!-- conflict: "1641 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1641 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1641"/>
@@ -528,7 +544,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155931"/>
   </node>
-  <node id="-1935" visible="true" lat="43.98889923" lon="-73.13718414">
+  <node id="-1933" visible="true" lat="43.98889923" lon="-73.13718414">
     <!-- conflict: "1590 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1590 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1590"/>
@@ -536,7 +552,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155932"/>
   </node>
-  <node id="-1942" visible="true" lat="43.98853912" lon="-73.13546754">
+  <node id="-1940" visible="true" lat="43.98853912" lon="-73.13546754">
     <!-- conflict: "1663 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1663 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1663"/>
@@ -544,7 +560,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155940"/>
   </node>
-  <node id="-1948" visible="true" lat="43.98770214" lon="-73.13302397">
+  <node id="-1946" visible="true" lat="43.98770214" lon="-73.13302397">
     <!-- conflict: "1741 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1741 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1741"/>
@@ -552,7 +568,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155946"/>
   </node>
-  <node id="-1952" visible="true" lat="43.98744391" lon="-73.13459947">
+  <node id="-1950" visible="true" lat="43.98744391" lon="-73.13459947">
     <!-- conflict: "1756 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1756 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1756"/>
@@ -560,7 +576,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155951"/>
   </node>
-  <node id="-1956" visible="true" lat="43.98687857" lon="-73.13449801">
+  <node id="-1954" visible="true" lat="43.98672981" lon="-73.13448121">
     <!-- conflict: "1786 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1786 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1786"/>
@@ -568,7 +584,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155957"/>
   </node>
-  <node id="-1959" visible="true" lat="43.98677825" lon="-73.13367462">
+  <node id="-1957" visible="true" lat="43.98677825" lon="-73.13367462">
     <!-- conflict: "1818 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1818 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1818"/>
@@ -576,7 +592,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155962"/>
   </node>
-  <node id="-1986" visible="true" lat="43.98427963" lon="-73.13014984">
+  <node id="-1983" visible="true" lat="43.98427963" lon="-73.13014984">
     <!-- conflict: "2078 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2078 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2078"/>
@@ -584,7 +600,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155991"/>
   </node>
-  <node id="-1990" visible="true" lat="43.98419952" lon="-73.12846374">
+  <node id="-1987" visible="true" lat="43.98419952" lon="-73.12846374">
     <!-- conflict: "2145 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2145 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2145"/>
@@ -592,7 +608,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155995"/>
   </node>
-  <node id="-1996" visible="true" lat="43.98387137" lon="-73.12970941">
+  <node id="-1993" visible="true" lat="43.98387137" lon="-73.12970941">
     <!-- conflict: "2106 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2106 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2106"/>
@@ -600,7 +616,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156001"/>
   </node>
-  <node id="-1997" visible="true" lat="43.98384475" lon="-73.12837982">
+  <node id="-1994" visible="true" lat="43.98384475" lon="-73.12837982">
     <!-- conflict: "2149 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2149 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2149"/>
@@ -608,7 +624,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156002"/>
   </node>
-  <node id="-1999" visible="true" lat="43.98368945" lon="-73.12970463">
+  <node id="-1996" visible="true" lat="43.98368945" lon="-73.12970463">
     <!-- conflict: "2110 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2110 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2110"/>
@@ -616,7 +632,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156004"/>
   </node>
-  <node id="-2003" visible="true" lat="43.98341369" lon="-73.12798309">
+  <node id="-2000" visible="true" lat="43.98341369" lon="-73.12798309">
     <!-- conflict: "2183 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2183 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2183"/>
@@ -624,7 +640,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156008"/>
   </node>
-  <node id="-2005" visible="true" lat="43.98307019" lon="-73.12941098">
+  <node id="-2002" visible="true" lat="43.98307019" lon="-73.12941098">
     <!-- conflict: "2158 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2158 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2158"/>
@@ -632,7 +648,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156010"/>
   </node>
-  <node id="-2008" visible="true" lat="43.98299026" lon="-73.12737274">
+  <node id="-2005" visible="true" lat="43.98299026" lon="-73.12737274">
     <!-- conflict: "2225 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2225 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2225"/>
@@ -640,7 +656,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156013"/>
   </node>
-  <node id="-2011" visible="true" lat="43.98285675" lon="-73.12615203">
+  <node id="-2008" visible="true" lat="43.98285675" lon="-73.12615203">
     <!-- conflict: "2263 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2263 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2263"/>
@@ -648,7 +664,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156017"/>
   </node>
-  <node id="-2015" visible="true" lat="43.98252868" lon="-73.12999725">
+  <node id="-2012" visible="true" lat="43.98252868" lon="-73.12999725">
     <!-- conflict: "2160 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2160 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2160"/>
@@ -656,7 +672,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156022"/>
   </node>
-  <node id="-2020" visible="true" lat="43.98180092" lon="-73.12837365">
+  <node id="-2017" visible="true" lat="43.98180092" lon="-73.12837365">
     <!-- conflict: "2242 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2242 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2242"/>
@@ -664,7 +680,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156028"/>
   </node>
-  <node id="-2021" visible="true" lat="43.98220062" lon="-73.12631988">
+  <node id="-2018" visible="true" lat="43.98220062" lon="-73.12631988">
     <!-- conflict: "2301 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2301 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2301"/>
@@ -672,7 +688,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156029"/>
   </node>
-  <node id="-2025" visible="true" lat="43.98192263" lon="-73.12583869">
+  <node id="-2022" visible="true" lat="43.98192263" lon="-73.12583869">
     <!-- conflict: "2337 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2337 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2337"/>
@@ -680,7 +696,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156033"/>
   </node>
-  <node id="-2028" visible="true" lat="43.98175694" lon="-73.12660132">
+  <node id="-2025" visible="true" lat="43.98175694" lon="-73.12660132">
     <!-- conflict: "2316 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2316 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2316"/>
@@ -688,7 +704,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156036"/>
   </node>
-  <node id="-2031" visible="true" lat="43.98172346" lon="-73.12538185">
+  <node id="-2028" visible="true" lat="43.98172346" lon="-73.12538185">
     <!-- conflict: "2369 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2369 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2369"/>
@@ -696,7 +712,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156039"/>
   </node>
-  <node id="-2032" visible="true" lat="43.98142242" lon="-73.12522888">
+  <node id="-2029" visible="true" lat="43.98142242" lon="-73.12522888">
     <!-- conflict: "2377 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2377 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2377"/>
@@ -704,7 +720,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156040"/>
   </node>
-  <node id="-2034" visible="true" lat="43.98115878" lon="-73.12602068">
+  <node id="-2031" visible="true" lat="43.98115878" lon="-73.12602068">
     <!-- conflict: "2360 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2360 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2360"/>
@@ -712,7 +728,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156042"/>
   </node>
-  <node id="-2036" visible="true" lat="43.9812088" lon="-73.12483978">
+  <node id="-2033" visible="true" lat="43.9812088" lon="-73.12483978">
     <!-- conflict: "2399 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2399 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2399"/>
@@ -720,7 +736,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156045"/>
   </node>
-  <node id="-2037" visible="true" lat="43.98115539" lon="-73.12567901">
+  <node id="-2034" visible="true" lat="43.98115539" lon="-73.12567901">
     <!-- conflict: "2372 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2372 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2372"/>
@@ -728,7 +744,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156046"/>
   </node>
-  <node id="-2040" visible="true" lat="43.98033004" lon="-73.12516522">
+  <node id="-2037" visible="true" lat="43.98033004" lon="-73.12516522">
     <!-- conflict: "2428 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2428 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2428"/>
@@ -736,7 +752,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156049"/>
   </node>
-  <node id="-2044" visible="true" lat="43.97988899" lon="-73.12448486">
+  <node id="-2041" visible="true" lat="43.97988899" lon="-73.12448486">
     <!-- conflict: "2476 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2476 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2476"/>
@@ -744,7 +760,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156053"/>
   </node>
-  <node id="-2047" visible="true" lat="43.9796799" lon="-73.12402819">
+  <node id="-2044" visible="true" lat="43.9796799" lon="-73.12402819">
     <!-- conflict: "2504 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2504 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2504"/>
@@ -752,7 +768,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156056"/>
   </node>
-  <node id="-2050" visible="true" lat="43.97957992" lon="-73.12229919">
+  <node id="-2047" visible="true" lat="43.97957992" lon="-73.12229919">
     <!-- conflict: "2571 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2571 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2571"/>
@@ -760,7 +776,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156059"/>
   </node>
-  <node id="-2078" visible="true" lat="43.97757595" lon="-73.11966159">
+  <node id="-2075" visible="true" lat="43.97757595" lon="-73.11966159">
     <!-- conflict: "2773 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2773 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2773"/>
@@ -768,7 +784,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156089"/>
   </node>
-  <node id="-2080" visible="true" lat="43.97722861" lon="-73.11895271">
+  <node id="-2077" visible="true" lat="43.97722861" lon="-73.11895271">
     <!-- conflict: "2801 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2801 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2801"/>
@@ -776,7 +792,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156091"/>
   </node>
-  <node id="-2092" visible="true" lat="43.97639083" lon="-73.11658477">
+  <node id="-2089" visible="true" lat="43.97639083" lon="-73.11658477">
     <!-- conflict: "2889 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2889 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2889"/>
@@ -784,7 +800,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156103"/>
   </node>
-  <node id="-2098" visible="true" lat="43.97587446" lon="-73.11807474">
+  <node id="-2095" visible="true" lat="43.97587446" lon="-73.11807474">
     <!-- conflict: "2888 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2888 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2888"/>
@@ -792,7 +808,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156109"/>
   </node>
-  <node id="-2100" visible="true" lat="43.97578243" lon="-73.11836716">
+  <node id="-2097" visible="true" lat="43.97578243" lon="-73.11836716">
     <!-- conflict: "2890 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2890 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2890"/>
@@ -800,7 +816,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156111"/>
   </node>
-  <node id="-2244" visible="true" lat="43.97210486" lon="-73.11602172">
+  <node id="-2241" visible="true" lat="43.97210486" lon="-73.11602172">
     <!-- conflict: "3201 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "3201 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3201"/>
@@ -808,7 +824,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156273"/>
   </node>
-  <node id="-2288" visible="true" lat="43.97113037" lon="-73.11625671">
+  <node id="-2285" visible="true" lat="43.97113037" lon="-73.11625671">
     <!-- conflict: "3255 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "3255 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3255"/>
@@ -816,7 +832,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156322"/>
   </node>
-  <node id="-2321" visible="true" lat="43.97024624" lon="-73.11689143">
+  <node id="-2318" visible="true" lat="43.97024624" lon="-73.11689143">
     <!-- conflict: "3318 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "3318 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3318"/>
@@ -824,7 +840,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156359"/>
   </node>
-  <node id="-2374" visible="true" lat="43.96484212" lon="-73.1158198">
+  <node id="-2371" visible="true" lat="43.96484212" lon="-73.1158198">
     <!-- conflict: "3707 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "3707 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3707"/>
@@ -832,7 +848,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156415"/>
   </node>
-  <node id="-2376" visible="true" lat="43.96462249" lon="-73.11694336">
+  <node id="-2373" visible="true" lat="43.96462249" lon="-73.11694336">
     <!-- conflict: "3706 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "3706 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3706"/>
@@ -840,7 +856,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156417"/>
   </node>
-  <node id="-2381" visible="true" lat="43.96428162" lon="-73.11624618">
+  <node id="-2378" visible="true" lat="43.96428162" lon="-73.11624618">
     <!-- conflict: "3749 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "3749 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3749"/>
@@ -848,7 +864,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156422"/>
   </node>
-  <node id="-2382" visible="true" lat="43.96400833" lon="-73.11580657">
+  <node id="-2379" visible="true" lat="43.96400833" lon="-73.11580657">
     <!-- conflict: "3751 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "3751 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3751"/>
@@ -856,7 +872,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156423"/>
   </node>
-  <node id="-2385" visible="true" lat="43.96377484" lon="-73.11556472">
+  <node id="-2382" visible="true" lat="43.96377484" lon="-73.11556472">
     <!-- conflict: "3753 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "3753 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3753"/>
@@ -864,7 +880,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156426"/>
   </node>
-  <node id="-2399" visible="true" lat="43.9610136" lon="-73.1155869">
+  <node id="-2396" visible="true" lat="43.9610136" lon="-73.1155869">
     <!-- conflict: "3999 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "3999 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3999"/>
@@ -872,7 +888,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156441"/>
   </node>
-  <node id="-2404" visible="true" lat="43.95924393" lon="-73.11606258">
+  <node id="-2401" visible="true" lat="43.95924393" lon="-73.11606258">
     <!-- conflict: "4079 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "4079 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="4079"/>
@@ -880,7 +896,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156447"/>
   </node>
-  <node id="-2406" visible="true" lat="43.95794153" lon="-73.11655238">
+  <node id="-2403" visible="true" lat="43.95794153" lon="-73.11655238">
     <!-- conflict: "4165 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "4165 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="4165"/>
@@ -888,7 +904,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156450"/>
   </node>
-  <node id="-2425" visible="true" lat="43.96528951" lon="-73.11436998">
+  <node id="-2422" visible="true" lat="43.96528951" lon="-73.11436998">
     <!-- conflict: "3667 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "3667 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3667"/>
@@ -896,7 +912,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156469"/>
   </node>
-  <node id="-2435" visible="true" lat="43.99988498" lon="-73.14891874">
+  <node id="-2432" visible="true" lat="43.99988498" lon="-73.14891874">
     <!-- conflict: "610 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "610 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="610"/>
@@ -904,15 +920,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156480"/>
   </node>
-  <node id="-2457" visible="true" lat="44.04353739" lon="-73.16119317">
-    <!-- conflict: "1442 U.S. Route 7 North, Middlebury, VT" Fuzzy match to "1442 US Route 7 North, Middlebury, VT" -->
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="1442"/>
-    <tag k="addr:street" v="U.S. Route 7 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="156502"/>
-  </node>
-  <node id="-2469" visible="true" lat="44.01601852" lon="-73.15736088">
+  <node id="-2466" visible="true" lat="44.01601852" lon="-73.15736088">
     <!-- conflict: "68A Seminary Street Extension, Middlebury, VT" Fuzzy match to "68 A Seminary Street Extension, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="68A"/>
@@ -920,7 +928,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156515"/>
   </node>
-  <node id="-2547" visible="true" lat="44.04561997" lon="-73.16252999">
+  <node id="-2544" visible="true" lat="44.04553366" lon="-73.16252932">
     <!-- conflict: "1522 U.S. Route 7 North, Middlebury, VT" Fuzzy match to "1522 US Route 7 North, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1522"/>
@@ -928,7 +936,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156603"/>
   </node>
-  <node id="-2618" visible="true" lat="44.01478289" lon="-73.15234331">
+  <node id="-2573" visible="true" lat="44.01365939" lon="-73.17871851">
+    <!-- conflict: "75 Freeman Way, Middlebury, VT" No match in OSM, but a different address exists <5m away: "120 Freeman Way, Middlebury, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Freeman Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="156636"/>
+  </node>
+  <node id="-2615" visible="true" lat="44.01478289" lon="-73.15234331">
     <!-- conflict: "4 Nedde Road, Middlebury, VT" Fuzzy match to "4 Nedde Lane, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="4"/>
@@ -936,7 +952,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156680"/>
   </node>
-  <node id="-2619" visible="true" lat="44.01470927" lon="-73.15238437">
+  <node id="-2616" visible="true" lat="44.01470927" lon="-73.15238437">
     <!-- conflict: "6 Nedde Road, Middlebury, VT" Fuzzy match to "6 Nedde Lane, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="6"/>
@@ -944,7 +960,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156681"/>
   </node>
-  <node id="-2620" visible="true" lat="44.01435856" lon="-73.15257192">
+  <node id="-2617" visible="true" lat="44.01435856" lon="-73.15257192">
     <!-- conflict: "10 Nedde Road, Middlebury, VT" Fuzzy match to "10 Nedde Lane, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="10"/>
@@ -952,7 +968,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156682"/>
   </node>
-  <node id="-2621" visible="true" lat="44.01427212" lon="-73.15259191">
+  <node id="-2618" visible="true" lat="44.01427212" lon="-73.15259191">
     <!-- conflict: "12 Nedde Road, Middlebury, VT" Fuzzy match to "12 Nedde Lane, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="12"/>
@@ -960,7 +976,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156683"/>
   </node>
-  <node id="-2622" visible="true" lat="44.01377178" lon="-73.15252661">
+  <node id="-2619" visible="true" lat="44.01377178" lon="-73.15252661">
     <!-- conflict: "16 Nedde Road, Middlebury, VT" Fuzzy match to "16 Nedde Lane, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="16"/>
@@ -968,7 +984,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156684"/>
   </node>
-  <node id="-2623" visible="true" lat="44.01376806" lon="-73.1524219">
+  <node id="-2620" visible="true" lat="44.01376806" lon="-73.1524219">
     <!-- conflict: "18 Nedde Road, Middlebury, VT" Fuzzy match to "18 Nedde Lane, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="18"/>
@@ -976,7 +992,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156685"/>
   </node>
-  <node id="-2781" visible="true" lat="43.96989434" lon="-73.11451518">
+  <node id="-2778" visible="true" lat="43.96989434" lon="-73.11451518">
     <!-- conflict: "3311 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "3311 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3311"/>
@@ -984,7 +1000,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306576"/>
   </node>
-  <node id="-2866" visible="true" lat="44.02848755" lon="-73.16797165">
+  <node id="-2863" visible="true" lat="44.02848755" lon="-73.16797165">
     <!-- conflict: "321 U.S. Route 7 North, Middlebury, VT" Fuzzy match to "321 US Route 7 North, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="321"/>
@@ -992,7 +1008,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="330010"/>
   </node>
-  <node id="-2878" visible="true" lat="43.96168876" lon="-73.1153541">
+  <node id="-2875" visible="true" lat="43.96168876" lon="-73.1153541">
     <!-- conflict: "3881 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "3881 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3881"/>
@@ -1000,7 +1016,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="332732"/>
   </node>
-  <node id="-2880" visible="true" lat="44.00961186" lon="-73.1649678">
+  <node id="-2877" visible="true" lat="44.00961186" lon="-73.1649678">
     <!-- conflict: "2B Duane Court, Middlebury, VT" No match in OSM, but a different address exists <5m away: "2 Duane Court, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2B"/>
@@ -1008,7 +1024,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="335145"/>
   </node>
-  <node id="-2881" visible="true" lat="44.00981646" lon="-73.16506606">
+  <node id="-2878" visible="true" lat="44.00981646" lon="-73.16506606">
     <!-- conflict: "2A Duane Court, Middlebury, VT" No match in OSM, but a different address exists <5m away: "2 Duane Court, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2A"/>
@@ -1016,7 +1032,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="335146"/>
   </node>
-  <node id="-2892" visible="true" lat="43.97659553" lon="-73.11940831">
+  <node id="-2889" visible="true" lat="43.97659553" lon="-73.11940831">
     <!-- conflict: "2822 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2822 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2822"/>
@@ -1024,7 +1040,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="336447"/>
   </node>
-  <node id="-2896" visible="true" lat="43.97504006" lon="-73.1183832">
+  <node id="-2893" visible="true" lat="43.97504006" lon="-73.1183832">
     <!-- conflict: "2896 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2896 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2896"/>
@@ -1032,7 +1048,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="336727"/>
   </node>
-  <node id="-2920" visible="true" lat="43.99860333" lon="-73.14758088">
+  <node id="-2917" visible="true" lat="43.99860333" lon="-73.14758088">
     <!-- conflict: "740 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "740 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="740"/>
@@ -1040,7 +1056,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339770"/>
   </node>
-  <node id="-3011" visible="true" lat="43.99840105" lon="-73.14579928">
+  <node id="-3008" visible="true" lat="43.99840105" lon="-73.14579928">
     <!-- conflict: "889 U.S. Route 7 South, Middlebury, VT" No match in OSM, but a different address exists <5m away: "859 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="889"/>
@@ -1048,7 +1064,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="449649"/>
   </node>
-  <node id="-3024" visible="true" lat="43.9920737" lon="-73.14555339">
+  <node id="-3021" visible="true" lat="43.9920737" lon="-73.14555339">
     <!-- conflict: "1290 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1290 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1290"/>
@@ -1056,7 +1072,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452639"/>
   </node>
-  <node id="-3025" visible="true" lat="44.04289789" lon="-73.1634381">
+  <node id="-3022" visible="true" lat="44.04289789" lon="-73.1634381">
     <!-- conflict: "1405 U.S. Route 7 North, Middlebury, VT" Fuzzy match to "1405 US Route 7 North, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1405"/>
@@ -1064,7 +1080,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452919"/>
   </node>
-  <node id="-3028" visible="true" lat="43.98105504" lon="-73.12767284">
+  <node id="-3025" visible="true" lat="43.98105504" lon="-73.12767284">
     <!-- conflict: "2340 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "2340 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2340"/>
@@ -1072,7 +1088,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454339"/>
   </node>
-  <node id="-3043" visible="true" lat="43.99093746" lon="-73.13830051">
+  <node id="-3040" visible="true" lat="43.99093746" lon="-73.13830051">
     <!-- conflict: "1479 U.S. Route 7 South, Middlebury, VT" Fuzzy match to "1479 US Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1479"/>
@@ -1081,10 +1097,10 @@
     <tag k="ref:vcgi:esiteid" v="455090"/>
   </node>
   <node id="-3129" visible="true" lat="44.04406383" lon="-73.16118448">
-    <!-- conflict: "1486 U.S. Route 7 North, Middlebury, VT" Fuzzy match to "1486 US Route 7 North, Middlebury, VT" -->
+    <!-- conflict: "69 Acker Farm Road, Middlebury, VT" No match in OSM, but a different address exists <5m away: "1486 US Route 7 North, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="1486"/>
-    <tag k="addr:street" v="U.S. Route 7 North"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Acker Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757328"/>
   </node>

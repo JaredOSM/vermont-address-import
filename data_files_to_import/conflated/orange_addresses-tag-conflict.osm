@@ -72,12 +72,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="183951"/>
   </node>
-  <node id="-588" visible="true" lat="44.141434" lon="-72.32991118">
+  <node id="-587" visible="true" lat="44.14111039" lon="-72.33036454">
     <!-- conflict: "1112B U.S. Route 302, Orange, VT" Fuzzy match to "1112 B U.S. Route 302, Orange, VT" -->
     <tag k="addr:city" v="Orange"/>
     <tag k="addr:housenumber" v="1112B"/>
     <tag k="addr:street" v="U.S. Route 302"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307842"/>
+  </node>
+  <node id="-643" visible="true" lat="44.20941824" lon="-72.42221711">
+    <!-- conflict: "112 Preston Road, Orange, VT" Fuzzy match to "112 Preston Road, Barre Town, VT" -->
+    <tag k="addr:city" v="Orange"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="Preston Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365548"/>
   </node>
 </osm>

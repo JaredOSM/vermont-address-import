@@ -8,6 +8,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="112597"/>
   </node>
+  <node id="-139" visible="true" lat="44.98742687" lon="-71.71770661">
+    <!-- conflict: "15 Jackson Road, Averill, VT" No match in OSM, but a different address exists <5m away: "129 Ed Bates Road, Averill, VT" -->
+    <tag k="addr:city" v="Averill"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Jackson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="112620"/>
+  </node>
   <node id="-195" visible="true" lat="44.96947142" lon="-71.67834379">
     <!-- conflict: "1539 Hatchery Brook Road, Averill, VT" No match in OSM, but a different address exists <5m away: " , Averill, VT" -->
     <tag k="addr:city" v="Averill"/>

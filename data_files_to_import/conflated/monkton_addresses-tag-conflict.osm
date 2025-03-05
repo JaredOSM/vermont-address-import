@@ -216,14 +216,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162967"/>
   </node>
-  <node id="-540" visible="true" lat="44.22203241" lon="-73.18605721">
-    <!-- conflict: "610 Ledge Lane, Monkton, VT" Fuzzy match to "610 Ledge Road, Monkton, VT" -->
-    <tag k="addr:city" v="Monkton"/>
-    <tag k="addr:housenumber" v="610"/>
-    <tag k="addr:street" v="Ledge Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="163038"/>
-  </node>
   <node id="-541" visible="true" lat="44.22185754" lon="-73.12593557">
     <!-- conflict: "682 Wendland Road, Monkton, VT" Fuzzy match to "682 Wendland Road, Monkton Road, VT" -->
     <tag k="addr:city" v="Monkton"/>
@@ -296,7 +288,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="163226"/>
   </node>
-  <node id="-736" visible="true" lat="44.24340057" lon="-73.152565">
+  <node id="-736" visible="true" lat="44.24349769" lon="-73.15244683">
     <!-- conflict: "193 Stillson Lane, Monkton, VT" Fuzzy match to "193 Stillson Road, Monkton, VT" -->
     <tag k="addr:city" v="Monkton"/>
     <tag k="addr:housenumber" v="193"/>
@@ -336,7 +328,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="163275"/>
   </node>
-  <node id="-784" visible="true" lat="44.24317234" lon="-73.15667477">
+  <node id="-784" visible="true" lat="44.24391542" lon="-73.15685694">
     <!-- conflict: "15 Stillson Lane, Monkton, VT" Fuzzy match to "15 Stillson Road, Monkton, VT" -->
     <tag k="addr:city" v="Monkton"/>
     <tag k="addr:housenumber" v="15"/>
@@ -375,5 +367,21 @@
     <tag k="addr:street" v="Farley Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="329639"/>
+  </node>
+  <node id="-990" visible="true" lat="44.26431547" lon="-73.19229557">
+    <!-- conflict: "309 Morgan Road, Monkton, VT" No match in OSM, but a different address exists <5m away: " Morgan Road, , " -->
+    <tag k="addr:city" v="Monkton"/>
+    <tag k="addr:housenumber" v="309"/>
+    <tag k="addr:street" v="Morgan Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610398"/>
+  </node>
+  <node id="-1104" visible="true" lat="44.20594903" lon="-73.16239379">
+    <!-- conflict: "176 Old Stage Road, Monkton, VT" No match in OSM, but a different address exists <5m away: " Old Stage Road, , " -->
+    <tag k="addr:city" v="Monkton"/>
+    <tag k="addr:housenumber" v="176"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767762"/>
   </node>
 </osm>

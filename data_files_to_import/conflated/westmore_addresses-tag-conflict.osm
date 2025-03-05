@@ -88,6 +88,30 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284235"/>
   </node>
+  <node id="-359" visible="true" lat="44.76153183" lon="-72.10227203">
+    <!-- conflict: "1347 Cook Road, Westmore, VT" No match in OSM, but a different address exists <5m away: "1347 Cooks Road, Westmore, VT" -->
+    <tag k="addr:city" v="Westmore"/>
+    <tag k="addr:housenumber" v="1347"/>
+    <tag k="addr:street" v="Cook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284252"/>
+  </node>
+  <node id="-379" visible="true" lat="44.76013966" lon="-72.10214854">
+    <!-- conflict: "1400 Cook Road, Westmore, VT" No match in OSM, but a different address exists <5m away: "1400 Cooks Road, Westmore, VT" -->
+    <tag k="addr:city" v="Westmore"/>
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:street" v="Cook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284274"/>
+  </node>
+  <node id="-388" visible="true" lat="44.7591794" lon="-72.09950439">
+    <!-- conflict: "1548 Cook Road, Westmore, VT" No match in OSM, but a different address exists <5m away: "1548 Cooks Road, Westmore, VT" -->
+    <tag k="addr:city" v="Westmore"/>
+    <tag k="addr:housenumber" v="1548"/>
+    <tag k="addr:street" v="Cook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284283"/>
+  </node>
   <node id="-435" visible="true" lat="44.75588529" lon="-72.05169267">
     <!-- conflict: "2665 Vermont Route 5A, Westmore, VT" No match in OSM, but a different address exists <5m away: "2665 Vt Route 5A, Westmore, VT" -->
     <tag k="addr:city" v="Westmore"/>
@@ -280,6 +304,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284477"/>
   </node>
+  <node id="-592" visible="true" lat="44.76610994" lon="-72.05342242">
+    <!-- conflict: "32 Haven Loop, Westmore, VT" No match in OSM, but a different address exists <5m away: "1976 Vermont Route 5A, Westmore, VT" -->
+    <tag k="addr:city" v="Westmore"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Haven Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284501"/>
+  </node>
   <node id="-600" visible="true" lat="44.75528436" lon="-72.05465312">
     <!-- conflict: "452 Old 5a Road, Westmore, VT" Fuzzy match to "452 Old 5A Road, Westmore, VT" -->
     <tag k="addr:city" v="Westmore"/>
@@ -296,7 +328,63 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284511"/>
   </node>
-  <node id="-661" visible="true" lat="44.75207696" lon="-72.05328437">
+  <node id="-630" visible="true" lat="44.76623783" lon="-72.05346066">
+    <!-- conflict: "28 Haven Loop, Westmore, VT" No match in OSM, but a different address exists <5m away: "1950 Vermont Route 5A, Westmore, VT" -->
+    <tag k="addr:city" v="Westmore"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Haven Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284545"/>
+  </node>
+  <node id="-631" visible="true" lat="44.76597834" lon="-72.05342063">
+    <!-- conflict: "36 Haven Loop, Westmore, VT" No match in OSM, but a different address exists <5m away: "1952 Vermont Route 5A, Westmore, VT" -->
+    <tag k="addr:city" v="Westmore"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Haven Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284546"/>
+  </node>
+  <node id="-632" visible="true" lat="44.7658746" lon="-72.05331342">
+    <!-- conflict: "40 Haven Loop, Westmore, VT" No match in OSM, but a different address exists <5m away: "1954 Vermont Route 5A, Westmore, VT" -->
+    <tag k="addr:city" v="Westmore"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Haven Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284547"/>
+  </node>
+  <node id="-633" visible="true" lat="44.76587778" lon="-72.05317894">
+    <!-- conflict: "44 Haven Loop, Westmore, VT" No match in OSM, but a different address exists <5m away: "1956 Vermont Route 5A, Westmore, VT" -->
+    <tag k="addr:city" v="Westmore"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Haven Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284548"/>
+  </node>
+  <node id="-634" visible="true" lat="44.76587398" lon="-72.05308256">
+    <!-- conflict: "48 Haven Loop, Westmore, VT" No match in OSM, but a different address exists <5m away: "1958 Vermont Route 5A, Westmore, VT" -->
+    <tag k="addr:city" v="Westmore"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Haven Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284549"/>
+  </node>
+  <node id="-643" visible="true" lat="44.76083143" lon="-72.10160817">
+    <!-- conflict: "1351 Cook Road, Westmore, VT" No match in OSM, but a different address exists <5m away: "1351 Cooks Road, Westmore, VT" -->
+    <tag k="addr:city" v="Westmore"/>
+    <tag k="addr:housenumber" v="1351"/>
+    <tag k="addr:street" v="Cook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284571"/>
+  </node>
+  <node id="-645" visible="true" lat="44.74273769" lon="-72.0847087">
+    <!-- conflict: "1404 Lakeview Road, Westmore, VT" No match in OSM, but a different address exists <5m away: "1350 Lakeview Road, Westmore, VT" -->
+    <tag k="addr:city" v="Westmore"/>
+    <tag k="addr:housenumber" v="1404"/>
+    <tag k="addr:street" v="Lakeview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326246"/>
+  </node>
+  <node id="-660" visible="true" lat="44.75207696" lon="-72.05328437">
     <!-- conflict: "584 Old 5a Road, Westmore, VT" Fuzzy match to "584 Old 5A Road, Westmore, VT" -->
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="584"/>
@@ -304,7 +392,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="329100"/>
   </node>
-  <node id="-668" visible="true" lat="44.74795862" lon="-72.09187605">
+  <node id="-667" visible="true" lat="44.74795862" lon="-72.09187605">
     <!-- conflict: "77 Stevens Lane, Westmore, VT" No match in OSM, but a different address exists <5m away: "277 Stevens Lane, Westmore, VT" -->
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="77"/>
@@ -312,12 +400,28 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="340967"/>
   </node>
-  <node id="-677" visible="true" lat="44.72109646" lon="-72.03124281">
+  <node id="-676" visible="true" lat="44.72109646" lon="-72.03124281">
     <!-- conflict: "5374 Vermont Route 5A, Westmore, VT" No match in OSM, but a different address exists <5m away: "5374 Vt Route 5A, Westmore, VT" -->
     <tag k="addr:city" v="Westmore"/>
     <tag k="addr:housenumber" v="5374"/>
     <tag k="addr:street" v="Vermont Route 5A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="448689"/>
+  </node>
+  <node id="-679" visible="true" lat="44.75943" lon="-72.10063766">
+    <!-- conflict: "1482 Cook Road, Westmore, VT" No match in OSM, but a different address exists <5m away: "1482 Cooks Road, Westmore, VT" -->
+    <tag k="addr:city" v="Westmore"/>
+    <tag k="addr:housenumber" v="1482"/>
+    <tag k="addr:street" v="Cook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449614"/>
+  </node>
+  <node id="-690" visible="true" lat="44.7619334" lon="-72.10237587">
+    <!-- conflict: "1323 Cook Road, Westmore, VT" No match in OSM, but a different address exists <5m away: "1323 Cooks Road, Westmore, VT" -->
+    <tag k="addr:city" v="Westmore"/>
+    <tag k="addr:housenumber" v="1323"/>
+    <tag k="addr:street" v="Cook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612436"/>
   </node>
 </osm>

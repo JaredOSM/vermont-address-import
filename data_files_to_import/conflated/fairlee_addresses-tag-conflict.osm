@@ -72,7 +72,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105568"/>
   </node>
-  <node id="-575" visible="true" lat="43.88533986" lon="-72.18359175">
+  <node id="-388" visible="true" lat="43.88659594" lon="-72.18034562">
+    <!-- conflict: "40 Echo Brook Lane, Fairlee, VT" No match in OSM, but a different address exists <5m away: "633 Bragg Hill Road, Fairlee, VT" -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Echo Brook Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105573"/>
+  </node>
+  <node id="-574" visible="true" lat="43.88533986" lon="-72.18359175">
     <!-- conflict: "600 Vermont Route 244, Fairlee, VT" No match in OSM, but a different address exists <5m away: "600 Vt Route 244, Fairlee, VT" -->
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="600"/>
@@ -80,7 +88,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105771"/>
   </node>
-  <node id="-621" visible="true" lat="43.90010098" lon="-72.20911759">
+  <node id="-620" visible="true" lat="43.90010098" lon="-72.20911759">
     <!-- conflict: "2398 Vermont Route 244, Fairlee, VT" No match in OSM, but a different address exists <5m away: "2398 VT Route 244, Fairlee, VT" -->
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="2398"/>
@@ -88,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105820"/>
   </node>
-  <node id="-629" visible="true" lat="43.87873032" lon="-72.17746288">
+  <node id="-628" visible="true" lat="43.87873032" lon="-72.17746288">
     <!-- conflict: "71 Vermont Route 244, Fairlee, VT" No match in OSM, but a different address exists <5m away: "69 Vt Route 244, Fairlee, VT" -->
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="71"/>
@@ -96,7 +104,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105828"/>
   </node>
-  <node id="-636" visible="true" lat="43.89041811" lon="-72.20243536">
+  <node id="-635" visible="true" lat="43.89041811" lon="-72.20243536">
     <!-- conflict: "450 Hebbard Road, Fairlee, VT" No match in OSM, but a different address exists <5m away: "418 Hebbard Road, Fairlee, VT" -->
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="450"/>
@@ -104,7 +112,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105835"/>
   </node>
-  <node id="-677" visible="true" lat="43.88614143" lon="-72.18909982">
+  <node id="-657" visible="true" lat="43.88845675" lon="-72.18066978">
+    <!-- conflict: "160 Echo Brook Lane, Fairlee, VT" No match in OSM, but a different address exists <5m away: "635 Bragg Hill Road, Fairlee, VT" -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Echo Brook Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105858"/>
+  </node>
+  <node id="-676" visible="true" lat="43.88614143" lon="-72.18909982">
     <!-- conflict: "835 Vermont Route 244, Fairlee, VT" No match in OSM, but a different address exists <5m away: "835 VT Route 244, Fairlee, VT" -->
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="835"/>
@@ -112,7 +128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105878"/>
   </node>
-  <node id="-789" visible="true" lat="43.88713514" lon="-72.18856292">
+  <node id="-788" visible="true" lat="43.88713514" lon="-72.18856292">
     <!-- conflict: "936 Vermont Route 244, Fairlee, VT" No match in OSM, but a different address exists <5m away: "936 Vt Route 244, Fairlee, VT" -->
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="936"/>

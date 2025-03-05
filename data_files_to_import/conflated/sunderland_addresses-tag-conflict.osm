@@ -160,7 +160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="253941"/>
   </node>
-  <node id="-662" visible="true" lat="43.07402023" lon="-73.10904326">
+  <node id="-660" visible="true" lat="43.07402023" lon="-73.10904326">
     <!-- conflict: "287 Colebrook Road, Sunderland, VT" No match in OSM, but a different address exists <5m away: "193 Colebrook Road, Sunderland, VT" -->
     <tag k="addr:city" v="Sunderland"/>
     <tag k="addr:housenumber" v="287"/>
@@ -168,7 +168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450923"/>
   </node>
-  <node id="-667" visible="true" lat="43.11631188" lon="-73.11227448">
+  <node id="-665" visible="true" lat="43.11631188" lon="-73.11227448">
     <!-- conflict: "6378 Vermont Route 7A, Sunderland, VT" No match in OSM, but a different address exists <5m away: "6378 Vt Route 7A, Sunderland, VT" -->
     <tag k="addr:city" v="Sunderland"/>
     <tag k="addr:housenumber" v="6378"/>
@@ -176,7 +176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451180"/>
   </node>
-  <node id="-671" visible="true" lat="43.08461562" lon="-73.12759849">
+  <node id="-669" visible="true" lat="43.08461562" lon="-73.12759849">
     <!-- conflict: "98 Bear Ridge Road, Sunderland, VT" Fuzzy match to "98 Bear Ridge Road, Sunderland, " -->
     <tag k="addr:city" v="Sunderland"/>
     <tag k="addr:housenumber" v="98"/>
@@ -184,7 +184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451185"/>
   </node>
-  <node id="-686" visible="true" lat="43.10494735" lon="-73.13405066">
+  <node id="-684" visible="true" lat="43.10494735" lon="-73.13405066">
     <!-- conflict: "6161 Vermont Route 7A, Sunderland, VT" No match in OSM, but a different address exists <5m away: "6161 Vt Route 7A, Sunderland, VT" -->
     <tag k="addr:city" v="Sunderland"/>
     <tag k="addr:housenumber" v="6161"/>
@@ -192,7 +192,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="453111"/>
   </node>
-  <node id="-692" visible="true" lat="43.10795127" lon="-73.10344309">
+  <node id="-686" visible="true" lat="43.10601101" lon="-73.12449852">
+    <!-- conflict: "950 Dunham Road, Sunderland, VT" No match in OSM, but a different address exists <5m away: "856 Dunham Road, Sunderland, VT" -->
+    <tag k="addr:city" v="Sunderland"/>
+    <tag k="addr:housenumber" v="950"/>
+    <tag k="addr:street" v="Dunham Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610158"/>
+  </node>
+  <node id="-690" visible="true" lat="43.10795127" lon="-73.10344309">
     <!-- conflict: "123 Mattison Road Extension, Sunderland, VT" Fuzzy match to "123 Mattison Rd, Sunderland, VT" -->
     <tag k="addr:city" v="Sunderland"/>
     <tag k="addr:housenumber" v="123"/>
@@ -200,7 +208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612218"/>
   </node>
-  <node id="-693" visible="true" lat="43.11442254" lon="-73.09406594">
+  <node id="-691" visible="true" lat="43.11442254" lon="-73.09406594">
     <!-- conflict: "95 Turkey Run Road, Sunderland, VT" No match in OSM, but a different address exists <5m away: "95 Sunderland Hill Road, Sunderland, VT" -->
     <tag k="addr:city" v="Sunderland"/>
     <tag k="addr:housenumber" v="95"/>
@@ -208,7 +216,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612220"/>
   </node>
-  <node id="-735" visible="true" lat="43.10855277" lon="-73.10353188">
+  <node id="-771" visible="true" lat="43.10668658" lon="-73.12208157">
+    <!-- conflict: "1030 Dunham Road, Sunderland, VT" No match in OSM, but a different address exists <5m away: "1258 Dunham Road, Sunderland, VT" -->
+    <tag k="addr:city" v="Sunderland"/>
+    <tag k="addr:housenumber" v="1030"/>
+    <tag k="addr:street" v="Dunham Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050802"/>
+  </node>
+  <node id="-777" visible="true" lat="43.10852856" lon="-73.10338049">
     <!-- conflict: "70 Mattison Road Extension, Sunderland, VT" Fuzzy match to "70 Mattison Rd, Sunderland, VT" -->
     <tag k="addr:city" v="Sunderland"/>
     <tag k="addr:housenumber" v="70"/>

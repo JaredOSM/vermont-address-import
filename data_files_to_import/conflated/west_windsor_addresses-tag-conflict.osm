@@ -8,14 +8,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280529"/>
   </node>
-  <node id="-448" visible="true" lat="43.46868848" lon="-72.45934295">
-    <!-- conflict: "350 Vermont Route 44, West Windsor, VT" No match in OSM, but a different address exists <5m away: "350 Vt Route 44, West Windsor, VT" -->
-    <tag k="addr:city" v="West Windsor"/>
-    <tag k="addr:housenumber" v="350"/>
-    <tag k="addr:street" v="Vermont Route 44"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="280533"/>
-  </node>
   <node id="-453" visible="true" lat="43.46843338" lon="-72.47142791">
     <!-- conflict: "41 Brownsville Hartland Road, West Windsor, VT" Fuzzy match to "41 Brownsville-Hartland Road, Brownsville, VT" -->
     <tag k="addr:city" v="West Windsor"/>

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-571" visible="true" lat="43.75661036" lon="-72.45262902">
+    <!-- offset: "2889 Vermont Route 14, Sharon, VT" Significant offset - 210.5m -->
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="2889"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219604"/>
+  </node>
   <node id="-668" visible="true" lat="43.79444333" lon="-72.35895905">
     <!-- offset: "2891 Chapel Hill Road, Sharon, VT" Significant offset - 106.8m -->
     <tag k="addr:city" v="Sharon"/>

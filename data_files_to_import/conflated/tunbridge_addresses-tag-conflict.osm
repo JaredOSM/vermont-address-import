@@ -64,6 +64,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262877"/>
   </node>
+  <node id="-479" visible="true" lat="43.89279232" lon="-72.48711847">
+    <!-- conflict: "329 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "329 Vt Route 110, Tunbridge, VT" -->
+    <tag k="addr:city" v="Tunbridge"/>
+    <tag k="addr:housenumber" v="329"/>
+    <tag k="addr:street" v="Vermont Route 110"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="263001"/>
+  </node>
   <node id="-484" visible="true" lat="43.89234924" lon="-72.48783874">
     <!-- conflict: "325 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "325 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
@@ -200,7 +208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263052"/>
   </node>
-  <node id="-533" visible="true" lat="43.88583094" lon="-72.4954851">
+  <node id="-532" visible="true" lat="43.88583094" lon="-72.4954851">
     <!-- conflict: "261 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "261 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="261"/>
@@ -208,7 +216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263059"/>
   </node>
-  <node id="-534" visible="true" lat="43.88509368" lon="-72.49535369">
+  <node id="-533" visible="true" lat="43.88509368" lon="-72.49535369">
     <!-- conflict: "256 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "256 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="256"/>
@@ -216,7 +224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263060"/>
   </node>
-  <node id="-540" visible="true" lat="43.88370895" lon="-72.49802398">
+  <node id="-539" visible="true" lat="43.88370895" lon="-72.49802398">
     <!-- conflict: "241 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "241 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="241"/>
@@ -224,7 +232,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263066"/>
   </node>
-  <node id="-551" visible="true" lat="43.88220628" lon="-72.49987394">
+  <node id="-550" visible="true" lat="43.88220628" lon="-72.49987394">
     <!-- conflict: "226 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "226 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="226"/>
@@ -232,7 +240,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263077"/>
   </node>
-  <node id="-560" visible="true" lat="43.88025975" lon="-72.50228352">
+  <node id="-559" visible="true" lat="43.88025975" lon="-72.50228352">
     <!-- conflict: "209 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "209 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="209"/>
@@ -240,7 +248,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263086"/>
   </node>
-  <node id="-602" visible="true" lat="43.87335557" lon="-72.4345966">
+  <node id="-601" visible="true" lat="43.87335557" lon="-72.4345966">
     <!-- conflict: "156 Kibling Hill Road, Tunbridge, VT" Fuzzy match to "156 Kibling Hill Road, Strafford, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="156"/>
@@ -248,7 +256,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263128"/>
   </node>
-  <node id="-652" visible="true" lat="43.86719223" lon="-72.49883667">
+  <node id="-651" visible="true" lat="43.86719223" lon="-72.49883667">
     <!-- conflict: "112 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "112 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="112"/>
@@ -256,7 +264,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263182"/>
   </node>
-  <node id="-667" visible="true" lat="43.86480189" lon="-72.49970444">
+  <node id="-666" visible="true" lat="43.86480189" lon="-72.49970444">
     <!-- conflict: "97 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "97 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="97"/>
@@ -264,7 +272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263199"/>
   </node>
-  <node id="-675" visible="true" lat="43.86297356" lon="-72.50025243">
+  <node id="-674" visible="true" lat="43.86297356" lon="-72.50025243">
     <!-- conflict: "83 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "83 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="83"/>
@@ -272,7 +280,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263208"/>
   </node>
-  <node id="-682" visible="true" lat="43.86114706" lon="-72.50002751">
+  <node id="-681" visible="true" lat="43.86114706" lon="-72.50002751">
     <!-- conflict: "71 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "71 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="71"/>
@@ -280,7 +288,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263215"/>
   </node>
-  <node id="-686" visible="true" lat="43.85872514" lon="-72.50202483">
+  <node id="-685" visible="true" lat="43.85872514" lon="-72.50202483">
     <!-- conflict: "55 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "55 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="55"/>
@@ -288,7 +296,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263219"/>
   </node>
-  <node id="-687" visible="true" lat="43.8587306" lon="-72.50151802">
+  <node id="-686" visible="true" lat="43.8587306" lon="-72.50151802">
     <!-- conflict: "53 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "53 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="53"/>
@@ -296,7 +304,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263220"/>
   </node>
-  <node id="-688" visible="true" lat="43.85823134" lon="-72.50161476">
+  <node id="-687" visible="true" lat="43.85823134" lon="-72.50161476">
     <!-- conflict: "51 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "51 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="51"/>
@@ -304,7 +312,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263221"/>
   </node>
-  <node id="-689" visible="true" lat="43.8582344" lon="-72.50103759">
+  <node id="-688" visible="true" lat="43.8582344" lon="-72.50103759">
     <!-- conflict: "49 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "49 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="49"/>
@@ -312,7 +320,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263222"/>
   </node>
-  <node id="-694" visible="true" lat="43.85745239" lon="-72.50134277">
+  <node id="-693" visible="true" lat="43.85745239" lon="-72.50134277">
     <!-- conflict: "43 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "43 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="43"/>
@@ -320,7 +328,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263228"/>
   </node>
-  <node id="-696" visible="true" lat="43.85704244" lon="-72.50153748">
+  <node id="-695" visible="true" lat="43.85704244" lon="-72.50153748">
     <!-- conflict: "41 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "41 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="41"/>
@@ -328,7 +336,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263230"/>
   </node>
-  <node id="-698" visible="true" lat="43.8567276" lon="-72.50159454">
+  <node id="-697" visible="true" lat="43.8567276" lon="-72.50159454">
     <!-- conflict: "39 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "39 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="39"/>
@@ -336,7 +344,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263232"/>
   </node>
-  <node id="-719" visible="true" lat="43.85333699" lon="-72.50536931">
+  <node id="-718" visible="true" lat="43.85333699" lon="-72.50536931">
     <!-- conflict: "7 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "7 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="7"/>
@@ -344,7 +352,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263253"/>
   </node>
-  <node id="-771" visible="true" lat="43.86132487" lon="-72.44497257">
+  <node id="-770" visible="true" lat="43.86132487" lon="-72.44497257">
     <!-- conflict: "181 Round Robin Road, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "108 Gilley Road, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="181"/>
@@ -352,7 +360,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263308"/>
   </node>
-  <node id="-945" visible="true" lat="43.8888359" lon="-72.49265749">
+  <node id="-946" visible="true" lat="43.8888359" lon="-72.49265749">
     <!-- conflict: "282 Vermont Route 110, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "284 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="282"/>
@@ -360,7 +368,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="763904"/>
   </node>
-  <node id="-965" visible="true" lat="43.88961995" lon="-72.49474967">
+  <node id="-966" visible="true" lat="43.88961995" lon="-72.49474967">
     <!-- conflict: "144 Fairground Road, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "16 Fairground Road, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="144"/>
@@ -368,7 +376,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764127"/>
   </node>
-  <node id="-977" visible="true" lat="43.8892836" lon="-72.49487199">
+  <node id="-978" visible="true" lat="43.8892836" lon="-72.49487199">
     <!-- conflict: "174 Fairground Road, Tunbridge, VT" No match in OSM, but a different address exists <5m away: "18 Fairground Road, Tunbridge, VT" -->
     <tag k="addr:city" v="Tunbridge"/>
     <tag k="addr:housenumber" v="174"/>

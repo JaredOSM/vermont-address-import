@@ -56,7 +56,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4154"/>
   </node>
-  <node id="-628" visible="true" lat="43.07302466" lon="-73.15418448">
+  <node id="-627" visible="true" lat="43.07302466" lon="-73.15418448">
     <!-- conflict: "3784 Vermont Route 7A, Arlington, VT" No match in OSM, but a different address exists <5m away: "3784 Vt Route 7A, Arlington, VT" -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="3784"/>
@@ -64,7 +64,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4220"/>
   </node>
-  <node id="-637" visible="true" lat="43.07278344" lon="-73.15439906">
+  <node id="-636" visible="true" lat="43.07278344" lon="-73.15439906">
     <!-- conflict: "3772 Vermont Route 7A, Arlington, VT" No match in OSM, but a different address exists <5m away: "3772 Vt Route 7A, Arlington, VT" -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="3772"/>
@@ -72,7 +72,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4229"/>
   </node>
-  <node id="-658" visible="true" lat="43.07190622" lon="-73.15494791">
+  <node id="-657" visible="true" lat="43.07190622" lon="-73.15494791">
     <!-- conflict: "3698 Vermont Route 7A, Arlington, VT" No match in OSM, but a different address exists <5m away: "3698 Vt Route 7A, Arlington, VT" -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="3698"/>
@@ -80,7 +80,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4251"/>
   </node>
-  <node id="-718" visible="true" lat="43.07036141" lon="-73.16355974">
+  <node id="-692" visible="true" lat="43.07012504" lon="-73.1388104">
+    <!-- conflict: "43 Town Line Road, Arlington, VT" No match in OSM, but a different address exists <5m away: "76 Town Line Road, Arlington, VT" -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4288"/>
+  </node>
+  <node id="-717" visible="true" lat="43.07036141" lon="-73.16355974">
     <!-- conflict: "212 No Name Road, Arlington, VT" Fuzzy match to "212 NoName Road, Arlington, VT" -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="212"/>
@@ -88,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4315"/>
   </node>
-  <node id="-732" visible="true" lat="43.06776805" lon="-73.1389928">
+  <node id="-731" visible="true" lat="43.06776805" lon="-73.1389928">
     <!-- conflict: "18 Walker Meadows, Arlington, VT" Fuzzy match to "18 Walker Meadow, Arlington, VT" -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="18"/>
@@ -96,7 +104,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4329"/>
   </node>
-  <node id="-1222" visible="true" lat="43.10326271" lon="-73.21268844">
+  <node id="-1220" visible="true" lat="43.10326271" lon="-73.21268844">
     <!-- conflict: "3815 Vermont Route 313 West, Arlington, VT" No match in OSM, but a different address exists <5m away: "3831 Vermont Route 313 West, Arlington, VT" -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="3815"/>
@@ -104,7 +112,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4839"/>
   </node>
-  <node id="-1243" visible="true" lat="43.05410989" lon="-73.15477068">
+  <node id="-1241" visible="true" lat="43.05410989" lon="-73.15477068">
     <!-- conflict: "81 Paradise Hill, Arlington, VT" Fuzzy match to "81 Paradise Hollow, Arlington, VT" -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="81"/>
@@ -112,7 +120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4863"/>
   </node>
-  <node id="-1343" visible="true" lat="43.05423416" lon="-73.1570157">
+  <node id="-1341" visible="true" lat="43.05423416" lon="-73.1570157">
     <!-- conflict: "196 Paradise Hill, Arlington, VT" Fuzzy match to "196 Paradise Hollow, Arlington, VT" -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="196"/>
@@ -120,7 +128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4971"/>
   </node>
-  <node id="-1364" visible="true" lat="43.05357614" lon="-73.15747054">
+  <node id="-1362" visible="true" lat="43.05357614" lon="-73.15747054">
     <!-- conflict: "212 Paradise Hill, Arlington, VT" Fuzzy match to "212 Paradise Hollow, Arlington, VT" -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="212"/>
@@ -128,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4992"/>
   </node>
-  <node id="-1365" visible="true" lat="43.05396974" lon="-73.15739582">
+  <node id="-1363" visible="true" lat="43.05396974" lon="-73.15739582">
     <!-- conflict: "208 Paradise Hill, Arlington, VT" Fuzzy match to "208 Paradise Hollow, Arlington, VT" -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="208"/>
@@ -136,7 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4993"/>
   </node>
-  <node id="-1453" visible="true" lat="43.12114882" lon="-73.21005514">
+  <node id="-1452" visible="true" lat="43.12114882" lon="-73.21005514">
     <!-- conflict: "219 Shamrock Hill, Arlington, VT" Fuzzy match to "219 Shamrock Hill, Sandgate, VT" -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="219"/>

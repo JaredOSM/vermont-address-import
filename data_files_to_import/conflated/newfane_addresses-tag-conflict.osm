@@ -208,7 +208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175034"/>
   </node>
-  <node id="-354" visible="true" lat="42.98670959" lon="-72.65527343">
+  <node id="-354" visible="true" lat="42.98669532" lon="-72.6552588">
     <!-- conflict: "597 Vermont Route 30, Newfane, VT" No match in OSM, but a different address exists <5m away: "597 Vt Route 30, Newfane, VT" -->
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="597"/>
@@ -528,7 +528,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175850"/>
   </node>
-  <node id="-1199" visible="true" lat="43.01586421" lon="-72.652794">
+  <node id="-1193" visible="true" lat="43.01586421" lon="-72.652794">
     <!-- conflict: "1064 Vermont Route 30, Newfane, VT" No match in OSM, but a different address exists <5m away: "1064 Vt Route 30, Newfane, VT" -->
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="1064"/>
@@ -536,7 +536,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="610188"/>
   </node>
-  <node id="-1212" visible="true" lat="42.99716265" lon="-72.68197615">
+  <node id="-1206" visible="true" lat="42.99716265" lon="-72.68197615">
     <!-- conflict: "34 Clark Farm Road, Newfane, VT" No match in OSM, but a different address exists <5m away: "38 Clark Farm Road, Newfane, VT" -->
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="34"/>
@@ -544,7 +544,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617590"/>
   </node>
-  <node id="-1224" visible="true" lat="42.93357237" lon="-72.71379344">
+  <node id="-1220" visible="true" lat="42.93357237" lon="-72.71379344">
     <!-- conflict: "14 Rutha Drive, Newfane, VT" No match in OSM, but a different address exists <5m away: "2 Rutha Drive, Newfane, VT" -->
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="14"/>
@@ -552,7 +552,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750787"/>
   </node>
-  <node id="-1237" visible="true" lat="43.01744772" lon="-72.65559776">
+  <node id="-1233" visible="true" lat="43.01744772" lon="-72.65559776">
     <!-- conflict: "1099 Vermont Route 30, Newfane, VT" No match in OSM, but a different address exists <5m away: "1093 Vt Route 30, Newfane, VT" -->
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="1099"/>
@@ -560,12 +560,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754093"/>
   </node>
-  <node id="-1245" visible="true" lat="43.00872801" lon="-72.64602406">
+  <node id="-1241" visible="true" lat="43.00872801" lon="-72.64602406">
     <!-- conflict: "955 Vermont Route 30, Newfane, VT" No match in OSM, but a different address exists <5m away: "957 Vt Route 30, Newfane, VT" -->
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="955"/>
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756678"/>
+  </node>
+  <node id="-1261" visible="true" lat="42.97581452" lon="-72.65980186">
+    <!-- conflict: "136 Browns Road, Newfane, VT" No match in OSM, but a different address exists <5m away: " VT Route 30, Newfane, VT" -->
+    <tag k="addr:city" v="Newfane"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Browns Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757734"/>
   </node>
 </osm>

@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-1030" visible="true" lat="43.06537984" lon="-72.47484121">
+  <node id="-1029" visible="true" lat="43.06537984" lon="-72.47484121">
     <!-- offset: "708 Kurn Hattin Road, Westminster, VT" Significant offset - 485.4m -->
     <tag k="addr:city" v="Westminster"/>
     <tag k="addr:housenumber" v="708"/>
     <tag k="addr:street" v="Kurn Hattin Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="283370"/>
+  </node>
+  <node id="-1786" visible="true" lat="43.06429705" lon="-72.45914104">
+    <!-- offset: "3340 U.S. Route 5, Westminster, VT" Significant offset - 195.6m -->
+    <tag k="addr:city" v="Westminster"/>
+    <tag k="addr:housenumber" v="3340"/>
+    <tag k="addr:street" v="U.S. Route 5"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770158"/>
   </node>
 </osm>

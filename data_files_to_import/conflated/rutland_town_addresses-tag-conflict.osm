@@ -8,7 +8,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="213837"/>
   </node>
-  <node id="-793" visible="true" lat="43.6303947" lon="-72.97580419">
+  <node id="-791" visible="true" lat="43.6303947" lon="-72.97580419">
     <!-- conflict: "296 U.S. Route 7 North, Rutland Town, VT" No match in OSM, but a different address exists <5m away: "272 U.S. Route 7 North, Rutland Town, VT" -->
     <tag k="addr:city" v="Rutland Town"/>
     <tag k="addr:housenumber" v="296"/>
@@ -16,7 +16,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="214417"/>
   </node>
-  <node id="-1301" visible="true" lat="43.60366542" lon="-73.00905556">
+  <node id="-1297" visible="true" lat="43.60366542" lon="-73.00905556">
     <!-- conflict: "79 Depot Lane, Rutland Town, VT" Fuzzy match to "79 Depot Lane, , " -->
     <tag k="addr:city" v="Rutland Town"/>
     <tag k="addr:housenumber" v="79"/>
@@ -24,7 +24,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="214947"/>
   </node>
-  <node id="-1471" visible="true" lat="43.59015261" lon="-72.96965942">
+  <node id="-1466" visible="true" lat="43.59015261" lon="-72.96965942">
     <!-- conflict: "40 U.S. Route 7 South, Rutland Town, VT" Fuzzy match to "40 US Route 7 South, Rutland, VT" -->
     <tag k="addr:city" v="Rutland Town"/>
     <tag k="addr:housenumber" v="40"/>
@@ -32,7 +32,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215132"/>
   </node>
-  <node id="-1812" visible="true" lat="43.65700059" lon="-72.97492665">
+  <node id="-1693" visible="true" lat="43.65294829" lon="-72.98572436">
+    <!-- conflict: "2010 U.S. Route 7 North, Rutland Town, VT" No match in OSM, but a different address exists <5m away: "2006 U.S. Route 7 North, Rutland Town, VT" -->
+    <tag k="addr:city" v="Rutland Town"/>
+    <tag k="addr:housenumber" v="2010"/>
+    <tag k="addr:street" v="U.S. Route 7 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="215393"/>
+  </node>
+  <node id="-1805" visible="true" lat="43.65700059" lon="-72.97492665">
     <!-- conflict: "643 Prospect Hill Road, Rutland Town, VT" No match in OSM, but a different address exists <5m away: "517 Prospect Hill Road, Rutland Town, VT" -->
     <tag k="addr:city" v="Rutland Town"/>
     <tag k="addr:housenumber" v="643"/>
@@ -40,7 +48,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306208"/>
   </node>
-  <node id="-2039" visible="true" lat="43.6031821" lon="-73.02471593">
+  <node id="-2013" visible="true" lat="43.6031821" lon="-73.02471593">
     <!-- conflict: "3572 West Proctor Road, Rutland Town, VT" No match in OSM, but a different address exists <5m away: " Proctor Road, Rutland Town, VT" -->
     <tag k="addr:city" v="Rutland Town"/>
     <tag k="addr:housenumber" v="3572"/>

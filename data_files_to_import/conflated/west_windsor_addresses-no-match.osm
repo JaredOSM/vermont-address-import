@@ -1386,7 +1386,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280514"/>
   </node>
-  <node id="-431" visible="true" lat="43.47029876" lon="-72.51942443">
+  <node id="-431" visible="true" lat="43.47025828" lon="-72.51939827">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="354"/>
     <tag k="addr:street" v="Shattuck Hill Road"/>
@@ -1448,6 +1448,13 @@
     <tag k="addr:street" v="Vermont Route 44"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280531"/>
+  </node>
+  <node id="-448" visible="true" lat="43.46865914" lon="-72.45897684">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="350"/>
+    <tag k="addr:street" v="Vermont Route 44"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280533"/>
   </node>
   <node id="-450" visible="true" lat="43.46813362" lon="-72.52241749">
     <tag k="addr:city" v="West Windsor"/>
@@ -1540,7 +1547,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280566"/>
   </node>
-  <node id="-480" visible="true" lat="43.46736622" lon="-72.4586497">
+  <node id="-480" visible="true" lat="43.46748501" lon="-72.45908576">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="283"/>
     <tag k="addr:street" v="Vermont Route 44"/>
@@ -2324,14 +2331,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280840"/>
   </node>
-  <node id="-737" visible="true" lat="43.47257175" lon="-72.52956841">
+  <node id="-737" visible="true" lat="43.47179822" lon="-72.52963083">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="44"/>
     <tag k="addr:street" v="Gibson Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280844"/>
   </node>
-  <node id="-738" visible="true" lat="43.47180078" lon="-72.52956827">
+  <node id="-738" visible="true" lat="43.47255143" lon="-72.52960003">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Gibson Drive"/>
@@ -2604,7 +2611,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306851"/>
   </node>
-  <node id="-809" visible="true" lat="43.46268902" lon="-72.48072485">
+  <node id="-809" visible="true" lat="43.46266434" lon="-72.48026066">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="306"/>
     <tag k="addr:street" v="Harrington Road"/>
@@ -2688,7 +2695,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341839"/>
   </node>
-  <node id="-831" visible="true" lat="43.53286596" lon="-72.52856106">
+  <node id="-831" visible="true" lat="43.53286728" lon="-72.52855567">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="5696"/>
     <tag k="addr:street" v="Rush Meadow Road"/>
@@ -2702,7 +2709,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343551"/>
   </node>
-  <node id="-834" visible="true" lat="43.47223187" lon="-72.48821192">
+  <node id="-834" visible="true" lat="43.4722407" lon="-72.48821305">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="1114"/>
     <tag k="addr:street" v="Bible Hill Road"/>
@@ -2849,203 +2856,294 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="618474"/>
   </node>
-  <node id="-898" visible="true" lat="43.48922311" lon="-72.49068247">
+  <node id="-899" visible="true" lat="43.45942586" lon="-72.48611689">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Coaching Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655845"/>
+  </node>
+  <node id="-900" visible="true" lat="43.45877688" lon="-72.48607617">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Coaching Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655846"/>
+  </node>
+  <node id="-901" visible="true" lat="43.45866971" lon="-72.48608437">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Coaching Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655847"/>
+  </node>
+  <node id="-902" visible="true" lat="43.47260839" lon="-72.48832361">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="1140"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655848"/>
+  </node>
+  <node id="-903" visible="true" lat="43.46417953" lon="-72.47511202">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="1275"/>
+    <tag k="addr:street" v="Vermont Route 44"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656213"/>
+  </node>
+  <node id="-904" visible="true" lat="43.46253096" lon="-72.47643578">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="1409"/>
+    <tag k="addr:street" v="Vermont Route 44"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656214"/>
+  </node>
+  <node id="-905" visible="true" lat="43.47366507" lon="-72.46610631">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="532"/>
+    <tag k="addr:street" v="Strawberry Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656408"/>
+  </node>
+  <node id="-906" visible="true" lat="43.48922311" lon="-72.49068247">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="1494"/>
     <tag k="addr:street" v="Cowshed Trail"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752100"/>
   </node>
-  <node id="-899" visible="true" lat="43.45597566" lon="-72.52097469">
+  <node id="-907" visible="true" lat="43.45597566" lon="-72.52097469">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="94"/>
     <tag k="addr:street" v="Churchill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753141"/>
   </node>
-  <node id="-901" visible="true" lat="43.50891964" lon="-72.51268087">
+  <node id="-909" visible="true" lat="43.50891964" lon="-72.51268087">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="923"/>
     <tag k="addr:street" v="Queen Victoria Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753205"/>
   </node>
-  <node id="-902" visible="true" lat="43.44353898" lon="-72.45443282">
+  <node id="-910" visible="true" lat="43.44353898" lon="-72.45443282">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="3798"/>
     <tag k="addr:street" v="Mount Ascutney State Park Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753361"/>
   </node>
-  <node id="-904" visible="true" lat="43.50490189" lon="-72.47334482">
+  <node id="-912" visible="true" lat="43.50490189" lon="-72.47334482">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="2748"/>
     <tag k="addr:street" v="Brownsville Hartland Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754500"/>
   </node>
-  <node id="-905" visible="true" lat="43.50259849" lon="-72.48578862">
+  <node id="-913" visible="true" lat="43.50246987" lon="-72.48559725">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="536"/>
     <tag k="addr:street" v="Silver Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755305"/>
   </node>
-  <node id="-906" visible="true" lat="43.47047349" lon="-72.47206668">
+  <node id="-914" visible="true" lat="43.47047349" lon="-72.47206668">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="185"/>
     <tag k="addr:street" v="Brownsville Hartland Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756565"/>
   </node>
-  <node id="-907" visible="true" lat="43.47135097" lon="-72.47158395">
+  <node id="-915" visible="true" lat="43.47135097" lon="-72.47158395">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="250"/>
     <tag k="addr:street" v="Brownsville Hartland Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756566"/>
   </node>
-  <node id="-908" visible="true" lat="43.48744458" lon="-72.48779346">
+  <node id="-916" visible="true" lat="43.48744458" lon="-72.48779346">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="615"/>
     <tag k="addr:street" v="Cemetery Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756567"/>
   </node>
-  <node id="-909" visible="true" lat="43.51205412" lon="-72.47076488">
+  <node id="-917" visible="true" lat="43.51205412" lon="-72.47076488">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="3323"/>
     <tag k="addr:street" v="Brownsville Hartland Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757096"/>
   </node>
-  <node id="-910" visible="true" lat="43.50180408" lon="-72.51703693">
+  <node id="-918" visible="true" lat="43.50180408" lon="-72.51703693">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="3142"/>
     <tag k="addr:street" v="Rush Meadow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758186"/>
   </node>
-  <node id="-911" visible="true" lat="43.4607639" lon="-72.47528346">
+  <node id="-919" visible="true" lat="43.4607639" lon="-72.47528346">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="102"/>
     <tag k="addr:street" v="Mountainside Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758723"/>
   </node>
-  <node id="-912" visible="true" lat="43.46638417" lon="-72.50445948">
+  <node id="-920" visible="true" lat="43.46638417" lon="-72.50445948">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="605"/>
     <tag k="addr:street" v="East Rowe Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759490"/>
   </node>
-  <node id="-914" visible="true" lat="43.46420186" lon="-72.48874337">
+  <node id="-922" visible="true" lat="43.46420186" lon="-72.48874337">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="534"/>
     <tag k="addr:street" v="Bible Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760640"/>
   </node>
-  <node id="-915" visible="true" lat="43.47185299" lon="-72.50211483">
+  <node id="-923" visible="true" lat="43.47179242" lon="-72.5022465">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="170"/>
     <tag k="addr:street" v="Sugarbush Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760641"/>
   </node>
-  <node id="-916" visible="true" lat="43.46320922" lon="-72.47109312">
+  <node id="-924" visible="true" lat="43.46320922" lon="-72.47109312">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="144"/>
     <tag k="addr:street" v="Skyhawk Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760753"/>
   </node>
-  <node id="-917" visible="true" lat="43.51437744" lon="-72.49553637">
+  <node id="-925" visible="true" lat="43.51437744" lon="-72.49553637">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="1472"/>
     <tag k="addr:street" v="Silver Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760862"/>
   </node>
-  <node id="-918" visible="true" lat="43.4711031" lon="-72.50874537">
+  <node id="-926" visible="true" lat="43.4711031" lon="-72.50874537">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="320"/>
     <tag k="addr:street" v="West Rowe Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760863"/>
   </node>
-  <node id="-919" visible="true" lat="43.46509901" lon="-72.48373887">
+  <node id="-927" visible="true" lat="43.46509901" lon="-72.48373887">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="458"/>
     <tag k="addr:street" v="Harrington Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761058"/>
   </node>
-  <node id="-920" visible="true" lat="43.46443353" lon="-72.51679536">
+  <node id="-928" visible="true" lat="43.46438943" lon="-72.51673984">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="307"/>
     <tag k="addr:street" v="Rush Meadow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761944"/>
   </node>
-  <node id="-921" visible="true" lat="43.46262331" lon="-72.47011574">
+  <node id="-929" visible="true" lat="43.46262331" lon="-72.47011574">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="119"/>
     <tag k="addr:street" v="Skyhawk Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762388"/>
   </node>
-  <node id="-922" visible="true" lat="43.51344522" lon="-72.5005175">
+  <node id="-930" visible="true" lat="43.51344522" lon="-72.5005175">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="904"/>
     <tag k="addr:street" v="Bryant Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="763058"/>
   </node>
-  <node id="-923" visible="true" lat="43.52149957" lon="-72.456512">
+  <node id="-931" visible="true" lat="43.52135603" lon="-72.45658523">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="4270"/>
     <tag k="addr:street" v="Brownsville Hartland Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="763142"/>
   </node>
-  <node id="-924" visible="true" lat="43.45801175" lon="-72.488858">
+  <node id="-932" visible="true" lat="43.45746376" lon="-72.48943341">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="2153"/>
     <tag k="addr:street" v="Vermont Route 44"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764861"/>
   </node>
-  <node id="-926" visible="true" lat="43.47432444" lon="-72.52135669">
+  <node id="-933" visible="true" lat="43.52740095" lon="-72.49150376">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="2245"/>
+    <tag k="addr:street" v="Blood Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765344"/>
+  </node>
+  <node id="-934" visible="true" lat="43.48972754" lon="-72.53036375">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="603"/>
+    <tag k="addr:street" v="Delano Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765685"/>
+  </node>
+  <node id="-935" visible="true" lat="43.45122412" lon="-72.48380387">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="651"/>
+    <tag k="addr:street" v="Coaching Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766119"/>
+  </node>
+  <node id="-936" visible="true" lat="43.47200404" lon="-72.50743903">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="317"/>
+    <tag k="addr:street" v="West Rowe Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767275"/>
+  </node>
+  <node id="-937" visible="true" lat="43.46930168" lon="-72.4625538">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="514"/>
+    <tag k="addr:street" v="Vermont Route 44"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767278"/>
+  </node>
+  <node id="-938" visible="true" lat="43.50088554" lon="-72.48812841">
+    <tag k="addr:city" v="West Windsor"/>
+    <tag k="addr:housenumber" v="559"/>
+    <tag k="addr:street" v="Silver Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767280"/>
+  </node>
+  <node id="-939" visible="true" lat="43.47432444" lon="-72.52135669">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="511"/>
     <tag k="addr:street" v="Shattuck Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="800011"/>
   </node>
-  <node id="-927" visible="true" lat="43.45296634" lon="-72.49967841">
+  <node id="-940" visible="true" lat="43.45296634" lon="-72.49967841">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="2883"/>
     <tag k="addr:street" v="Vermont Route 44"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050370"/>
   </node>
-  <node id="-928" visible="true" lat="43.4686395" lon="-72.52708817">
+  <node id="-941" visible="true" lat="43.4686395" lon="-72.52708817">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="4898"/>
     <tag k="addr:street" v="Vermont Route 44"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050371"/>
   </node>
-  <node id="-929" visible="true" lat="43.46445206" lon="-72.46652">
+  <node id="-942" visible="true" lat="43.46445206" lon="-72.46652">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="436"/>
     <tag k="addr:street" v="Ski Tow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050373"/>
   </node>
-  <node id="-930" visible="true" lat="43.47000417" lon="-72.47100461">
+  <node id="-943" visible="true" lat="43.47000417" lon="-72.47100461">
     <tag k="addr:city" v="West Windsor"/>
     <tag k="addr:housenumber" v="144"/>
     <tag k="addr:street" v="Brownsville Hartland Road"/>

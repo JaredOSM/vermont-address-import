@@ -8,7 +8,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1513"/>
   </node>
-  <node id="-777" visible="true" lat="44.73925392" lon="-72.35071022">
+  <node id="-756" visible="true" lat="44.73529398" lon="-72.29968487">
+    <!-- conflict: "1054 Barton Road, Albany, VT" No match in OSM, but a different address exists <5m away: " Barton Road, Albany, VT" -->
+    <tag k="addr:city" v="Albany"/>
+    <tag k="addr:housenumber" v="1054"/>
+    <tag k="addr:street" v="Barton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618548"/>
+  </node>
+  <node id="-780" visible="true" lat="44.73925225" lon="-72.35071022">
     <!-- conflict: "105 Vance Road East, Albany, VT" No match in OSM, but a different address exists <5m away: "177 Vance Road East, Albany, VT" -->
     <tag k="addr:city" v="Albany"/>
     <tag k="addr:housenumber" v="105"/>

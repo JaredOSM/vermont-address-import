@@ -16,6 +16,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267188"/>
   </node>
+  <node id="-130" visible="true" lat="43.9736433" lon="-72.20225217">
+    <!-- conflict: "2095 Wild Hill Road, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "69 Tebbetts Notch Road, West Fairlee, VT" -->
+    <tag k="addr:city" v="West Fairlee"/>
+    <tag k="addr:housenumber" v="2095"/>
+    <tag k="addr:street" v="Wild Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="278701"/>
+  </node>
   <node id="-256" visible="true" lat="43.91502443" lon="-72.23728015">
     <!-- conflict: "60 Manley Hill Road, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "1793 Robinson Road, West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
@@ -31,6 +39,14 @@
     <tag k="addr:street" v="Vermont Route 113"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278885"/>
+  </node>
+  <node id="-315" visible="true" lat="43.90896828" lon="-72.26364293">
+    <!-- conflict: "35 Beanville Road, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "41 Beanville Road, West Fairlee, VT" -->
+    <tag k="addr:city" v="West Fairlee"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Beanville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="278900"/>
   </node>
   <node id="-333" visible="true" lat="43.90822595" lon="-72.2632317">
     <!-- conflict: "773 Vermont Route 113, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "739 Vermont Route 113, West Fairlee, VT" -->
@@ -57,9 +73,9 @@
     <tag k="ref:vcgi:esiteid" v="278923"/>
   </node>
   <node id="-341" visible="true" lat="43.90646188" lon="-72.26397557">
-    <!-- conflict: "645 Vermont Route 113, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "653 Vt Route 113, West Fairlee, VT" -->
+    <!-- conflict: "653 Vermont Route 113, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "653 Vt Route 113, West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
-    <tag k="addr:housenumber" v="645"/>
+    <tag k="addr:housenumber" v="653"/>
     <tag k="addr:street" v="Vermont Route 113"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278928"/>
@@ -104,7 +120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278970"/>
   </node>
-  <node id="-415" visible="true" lat="43.89380662" lon="-72.24822152">
+  <node id="-413" visible="true" lat="43.89380662" lon="-72.24822152">
     <!-- conflict: "644 West Fairlee Road, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "640 West Fairlee Road, West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="644"/>
@@ -112,7 +128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="279009"/>
   </node>
-  <node id="-420" visible="true" lat="43.90751329" lon="-72.26316545">
+  <node id="-418" visible="true" lat="43.90751329" lon="-72.26316545">
     <!-- conflict: "755 Vermont Route 113, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "715 Vermont Route 113, West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="755"/>
@@ -120,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="279015"/>
   </node>
-  <node id="-429" visible="true" lat="43.90820303" lon="-72.2493105">
+  <node id="-427" visible="true" lat="43.90820303" lon="-72.2493105">
     <!-- conflict: "838 Mill Street, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "838 Robinson Road, West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="838"/>
@@ -128,7 +144,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="279024"/>
   </node>
-  <node id="-488" visible="true" lat="43.89331825" lon="-72.21873409">
+  <node id="-457" visible="true" lat="43.91327285" lon="-72.26440429">
+    <!-- conflict: "21 Austin Road Extension, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "50 Austin Road, West Fairlee, VT" -->
+    <tag k="addr:city" v="West Fairlee"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Austin Road Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326520"/>
+  </node>
+  <node id="-485" visible="true" lat="43.89331825" lon="-72.21873409">
     <!-- conflict: "3295 Vermont Route 244, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "3295 VT Route 244, West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="3295"/>
@@ -136,7 +160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="448009"/>
   </node>
-  <node id="-496" visible="true" lat="43.89043761" lon="-72.22686162">
+  <node id="-490" visible="true" lat="43.89043761" lon="-72.22686162">
     <!-- conflict: "3795 Vermont Route 244, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "3795 VT Route 244, West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="3795"/>
@@ -144,7 +168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450539"/>
   </node>
-  <node id="-497" visible="true" lat="43.89035444" lon="-72.22818326">
+  <node id="-491" visible="true" lat="43.89035444" lon="-72.22818326">
     <!-- conflict: "3873 Vermont Route 244, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "3873 VT Route 244, West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="3873"/>
@@ -152,7 +176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450540"/>
   </node>
-  <node id="-498" visible="true" lat="43.89167022" lon="-72.22821844">
+  <node id="-492" visible="true" lat="43.89167022" lon="-72.22821844">
     <!-- conflict: "3878 Vermont Route 244, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "3878 VT Route 244, West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="3878"/>
@@ -160,7 +184,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450541"/>
   </node>
-  <node id="-513" visible="true" lat="43.95084623" lon="-72.25636839">
+  <node id="-504" visible="true" lat="43.92658449" lon="-72.20407127">
+    <!-- conflict: "1916 Blood Brook Road, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "1876 Blood Brook Road, West Fairlee, VT" -->
+    <tag k="addr:city" v="West Fairlee"/>
+    <tag k="addr:housenumber" v="1916"/>
+    <tag k="addr:street" v="Blood Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454303"/>
+  </node>
+  <node id="-507" visible="true" lat="43.95084623" lon="-72.25636839">
     <!-- conflict: "1099 Beaver Meadow Road, West Fairlee, VT" Fuzzy match to "1099 Beaver Meadow Road, Vershire, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="1099"/>
@@ -168,7 +200,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454379"/>
   </node>
-  <node id="-586" visible="true" lat="43.89587467" lon="-72.25673755">
+  <node id="-516" visible="true" lat="43.90912245" lon="-72.26374351">
+    <!-- conflict: "37 Beanville Road, West Fairlee, VT" No match in OSM, but a different address exists <5m away: "51 Beanville Road, West Fairlee, VT" -->
+    <tag k="addr:city" v="West Fairlee"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Beanville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611001"/>
+  </node>
+  <node id="-583" visible="true" lat="43.89587467" lon="-72.25673755">
     <!-- conflict: "1091 West Fairlee Road, West Fairlee, VT" Fuzzy match to "1091 West Fairlee Road, Thetford;West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="1091"/>
@@ -176,7 +216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750856"/>
   </node>
-  <node id="-588" visible="true" lat="43.89564505" lon="-72.25626427">
+  <node id="-585" visible="true" lat="43.89564505" lon="-72.25626427">
     <!-- conflict: "1067 West Fairlee Road, West Fairlee, VT" Fuzzy match to "1067 West Fairlee Road, Thetford, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="1067"/>
@@ -184,7 +224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750858"/>
   </node>
-  <node id="-589" visible="true" lat="43.89545073" lon="-72.25559326">
+  <node id="-586" visible="true" lat="43.89545073" lon="-72.25559326">
     <!-- conflict: "1051 West Fairlee Road, West Fairlee, VT" Fuzzy match to "1051 West Fairlee Road, Thetford;West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="1051"/>
@@ -192,7 +232,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750859"/>
   </node>
-  <node id="-590" visible="true" lat="43.89472264" lon="-72.25255342">
+  <node id="-587" visible="true" lat="43.89472264" lon="-72.25255342">
     <!-- conflict: "865 West Fairlee Road, West Fairlee, VT" Fuzzy match to "865 West Fairlee Road, Thetford, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="865"/>
@@ -200,7 +240,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750860"/>
   </node>
-  <node id="-591" visible="true" lat="43.89462196" lon="-72.25224758">
+  <node id="-588" visible="true" lat="43.89462196" lon="-72.25224758">
     <!-- conflict: "859 West Fairlee Road, West Fairlee, VT" Fuzzy match to "859 West Fairlee Road, Thetford;West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="859"/>
@@ -208,7 +248,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750861"/>
   </node>
-  <node id="-592" visible="true" lat="43.8943844" lon="-72.25141871">
+  <node id="-589" visible="true" lat="43.8943844" lon="-72.25141871">
     <!-- conflict: "799 West Fairlee Road, West Fairlee, VT" Fuzzy match to "799 West Fairlee Road, Thetford;West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="799"/>
@@ -216,7 +256,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750862"/>
   </node>
-  <node id="-593" visible="true" lat="43.89385158" lon="-72.24951425">
+  <node id="-590" visible="true" lat="43.89385158" lon="-72.24951425">
     <!-- conflict: "703 West Fairlee Road, West Fairlee, VT" Fuzzy match to "703 West Fairlee Road, Thetford;West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="703"/>
@@ -224,7 +264,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750863"/>
   </node>
-  <node id="-594" visible="true" lat="43.89370028" lon="-72.24893202">
+  <node id="-591" visible="true" lat="43.89370028" lon="-72.24893202">
     <!-- conflict: "671 West Fairlee Road, West Fairlee, VT" Fuzzy match to "671 West Fairlee Road, Thetford;West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="671"/>
@@ -232,7 +272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750864"/>
   </node>
-  <node id="-595" visible="true" lat="43.89349872" lon="-72.24824133">
+  <node id="-592" visible="true" lat="43.89349872" lon="-72.24824133">
     <!-- conflict: "643 West Fairlee Road, West Fairlee, VT" Fuzzy match to "643 West Fairlee Road, Thetford;West Fairlee, VT" -->
     <tag k="addr:city" v="West Fairlee"/>
     <tag k="addr:housenumber" v="643"/>

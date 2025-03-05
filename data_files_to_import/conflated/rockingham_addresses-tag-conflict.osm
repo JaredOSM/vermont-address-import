@@ -16,4 +16,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203474"/>
   </node>
+  <node id="-1015" visible="true" lat="43.22264711" lon="-72.54084272">
+    <!-- conflict: "1918 Rockingham Road, Rockingham, VT" No match in OSM, but a different address exists <5m away: " Rockingham Road, Rockingham, VT" -->
+    <tag k="addr:city" v="Rockingham"/>
+    <tag k="addr:housenumber" v="1918"/>
+    <tag k="addr:street" v="Rockingham Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758215"/>
+  </node>
 </osm>

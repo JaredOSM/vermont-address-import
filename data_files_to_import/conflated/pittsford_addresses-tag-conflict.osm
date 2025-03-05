@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-802" visible="true" lat="43.7003922" lon="-73.01115283">
+  <node id="-796" visible="true" lat="43.7003922" lon="-73.01115283">
     <!-- conflict: "50 Vermont Route 3, Pittsford, VT" No match in OSM, but a different address exists <5m away: " Arch Street, Pittsford, VT" -->
     <tag k="addr:city" v="Pittsford"/>
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Vermont Route 3"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="188189"/>
+  </node>
+  <node id="-1324" visible="true" lat="43.71571724" lon="-73.01934537">
+    <!-- conflict: "439 Academy Road, Pittsford, VT" No match in OSM, but a different address exists <5m away: "438 Academy Road, Pittsford, VT" -->
+    <tag k="addr:city" v="Pittsford"/>
+    <tag k="addr:housenumber" v="439"/>
+    <tag k="addr:street" v="Academy Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="188731"/>
   </node>
 </osm>
