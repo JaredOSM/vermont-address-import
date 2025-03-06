@@ -57,7 +57,10 @@ END;
     // Some towns have unknown/mixed addr:city values. We won't try to match
     // them in that case.
     if (empty($address['addr:city'])) {
-      $cityWhere = '';
+      // Limit the search radius to 10km if we don't know what the addr:city is
+      // supposed to be so that we are less likely to falsely match the same
+      // street name+number combination in other towns.
+      $cityWhere = "AND st_distance(geom,st_point($lon,$lat),0) < 10000";
     } else {
       $cityWhere = 'AND city=:city';
     }
