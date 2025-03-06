@@ -54,18 +54,27 @@ END;
     // Check for an exact address match.
     $lon = $inputNode->getAttribute('lon');
     $lat = $inputNode->getAttribute('lat');
+    // Some towns have unknown/mixed addr:city values. We won't try to match
+    // them in that case.
+    if (empty($address['addr:city'])) {
+      $cityWhere = '';
+    } else {
+      $cityWhere = 'AND city=:city';
+    }
     // For E911 that includes units, try to match them to OSM exactly.
     if (!empty($address['addr:unit'])) {
-        $exactMatchStmt = $this->db->prepare("SELECT osm_type, id, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE housenumber=:housenumber AND unit=:unit AND street=:street AND city=:city AND state=:state");
+        $exactMatchStmt = $this->db->prepare("SELECT osm_type, id, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE housenumber=:housenumber AND unit=:unit AND street=:street ".$cityWhere." AND state=:state");
     }
     // If there is no unit in E911, just match the basic address. If extra
     // units are mapped in OSM they will fall into the "multiple" bucket.
     else {
-        $exactMatchStmt = $this->db->prepare("SELECT osm_type, id, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE housenumber=:housenumber AND street=:street AND city=:city AND state=:state");
+        $exactMatchStmt = $this->db->prepare("SELECT osm_type, id, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE housenumber=:housenumber AND street=:street ".$cityWhere." AND state=:state");
     }
     $exactMatchStmt->bindValue('housenumber', $address['addr:housenumber']);
     $exactMatchStmt->bindValue('street', $address['addr:street']);
-    $exactMatchStmt->bindValue('city', $address['addr:city']);
+    if (!empty($address['addr:city'])) {
+      $exactMatchStmt->bindValue('city', $address['addr:city']);
+    }
     $exactMatchStmt->bindValue('state', $address['addr:state']);
     if (!empty($address['addr:unit'])) {
         $exactMatchStmt->bindValue('unit', $address['addr:unit']);
@@ -109,7 +118,7 @@ END;
       // consider it a match because E911 (and USPS) strip almost all punctuation.
       if ($address['addr:housenumber'] == $nearby['housenumber']
         && $address['addr:street'] == $this->stripPunctuation($nearby['street'])
-        && $address['addr:city'] == $nearby['city']
+        && (empty($address['addr:city']) || $address['addr:city'] == $nearby['city'])
         && $address['addr:state'] == $nearby['state']
       ) {
         $res->finalize();
@@ -150,7 +159,7 @@ END;
           $testAddress = $this->extractAddress($inputTestNode);
           if ( $testAddress['addr:housenumber'] == $nearby['housenumber']
             && $testAddress['addr:street'] == $nearby['street']
-            && $testAddress['addr:city'] == $nearby['city']
+            && (empty($testAddress['addr:city']) || $testAddress['addr:city'] == $nearby['city'])
             && $testAddress['addr:state'] == $nearby['state']
           ) {
             $nearbyIsInInput = TRUE;
@@ -190,7 +199,7 @@ END;
 
   protected function log($category, DOMElement $inputNode, $message) {
     $address = $this->extractAddress($inputNode);
-    $entry = $category . ": \"" .  $address['addr:housenumber'] . ' ' . $address['addr:street'] . ', ' . $address['addr:city'] . ', ' . $address['addr:state'] . '" ' . $message . "\n";
+    $entry = $category . ": \"" .  $address['addr:housenumber'] . ' ' . $address['addr:street'] . ', ' . (empty($address['addr:city']) ? '' : $address['addr:city']) . ', ' . $address['addr:state'] . '" ' . $message . "\n";
     if ($this->verbose) {
       print $entry;
       // fwrite(STDERR, $entry);

@@ -82,6 +82,9 @@ $all_errors = array();
 
 $output = output_header($output_type);
 
+// Map our
+$postalCommunities = json_decode(file_get_contents(__DIR__.'/town-postal-community-mappings.json'), true);
+
 foreach($data['features'] as $feature) {
     $feature_errors = array();
 
@@ -107,24 +110,20 @@ foreach($data['features'] as $feature) {
     }
 
     if(!empty($feature['properties']['TOWNNAME'])) {
-        $town_name = ucwords(strtolower($feature['properties']['TOWNNAME']));
-        // Add possesive apostrophes to gores and grants.
-        switch ($town_name) {
-            case "Averys Gore":
-                $town_name = "Avery's Gore";
-                break;
-            case "Buels Gore":
-                $town_name = "Buel's Gore";
-                break;
-            case "Warrens Gore":
-                $town_name = "Warren's Gore";
-                break;
-            case "Warners Grant":
-                $town_name = "Warner's Grant";
-                break;
+        $townName = $feature['properties']['TOWNNAME'];
+        if (!isset($postalCommunities[$townName])) {
+          $postal_community = NULL;
+          $feature_errors[] = "Unaccounted for mapping from TOWNNAME ".$townName." to a postal community in town-postal-community-mappings.json (esiteid: " . $esiteid . ")";
+        } else {
+          $postalCommunityMapping = $postalCommunities[$townName];
+          if (empty($postalCommunityMapping['postal-community'])) {
+            $postal_community = NULL;
+          } else {
+            $postal_community = $postalCommunityMapping['postal-community'];
+          }
         }
     } else {
-        $town_name = NULL;
+        $postal_community = NULL;
         $feature_errors[] = "TOWNNAME value is empty (esiteid: " . $esiteid . ")";
     }
 
@@ -202,7 +201,9 @@ foreach($data['features'] as $feature) {
 
             // leaving out timestamp from node: timestamp='2022-09-12T01:50:00Z'
             $output .= "  <node id=\"" . $node_id . "\" visible=\"true\" lat=\"" . $lat . "\" lon=\"" . $long . "\">\n";
-            $output .= "    <tag k=\"addr:city\" v=\"" . $town_name . "\" />\n";
+            if (!empty($postal_community)) {
+              $output .= "    <tag k=\"addr:city\" v=\"" . $postal_community . "\" />\n";
+            }
             $output .= "    <tag k=\"addr:housenumber\" v=\"" . $house_number . "\" />\n";
             if (!empty($unit)) {
                 $output .= "    <tag k=\"addr:unit\" v=\"" . $unit . "\" />\n";
@@ -219,7 +220,9 @@ foreach($data['features'] as $feature) {
 
         } elseif($output_type == "tab") {
             $output .= $node_id . "\t" . $lat . "\t" . $long . "\t";
-            $output .= $town_name . "\t";
+            if (!empty($postal_community)) {
+              $output .= $postal_community . "\t";
+            }
             $output .= $house_number . "\t";
             $output .= $unit . "\t";
             $output .= $street . "\t";
@@ -229,7 +232,16 @@ foreach($data['features'] as $feature) {
         } elseif(count($feature_errors) == 0 && $output_type == "geojson") {
 
             $coordinates = array($long, $lat);
-            $properties = array("house_number" => strval($house_number), "unit" => strval($unit), "street" => $street, "city" => $town_name, "state" => "VT", "esiteid" => strval($esiteid));
+            $properties = [
+              "house_number" => strval($house_number),
+              "unit" => strval($unit),
+              "street" => $street,
+            ];
+            if (!empty($postal_community)) {
+              $properties["city"] = $postal_community;
+            }
+            $properties["state"] = "VT";
+            $properties["esiteid"] = strval($esiteid);
             $geometry = array("type" => "Point", "coordinates" => $coordinates);
             $feature = array("type" => "Feature", "properties" => $properties, "geometry" => $geometry);
 
