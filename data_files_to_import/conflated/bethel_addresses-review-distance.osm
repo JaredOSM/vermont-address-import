@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-332" visible="true" lat="43.83857247" lon="-72.64131266">
+    <!-- offset: "16 Highland Avenue, , VT" Significant offset - 9111.7m -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Highland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24241"/>
+  </node>
+  <node id="-609" visible="true" lat="43.83234148" lon="-72.64047679">
+    <!-- offset: "190 Pleasant Street, , VT" Significant offset - 9938.4m -->
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Pleasant Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24536"/>
+  </node>
 </osm>

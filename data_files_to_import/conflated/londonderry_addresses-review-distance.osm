@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-110" visible="true" lat="43.25863199" lon="-72.84806753">
+    <!-- offset: "10 Landgrove Road, , VT" Significant offset - 5573.1m -->
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="139277"/>
+  </node>
 </osm>

@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-239" visible="true" lat="44.64073944" lon="-71.98316955">
+    <!-- multiple: "40 Depot Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="41962"/>
+  </node>
+  <node id="-452" visible="true" lat="44.61815315" lon="-71.98407608">
+    <!-- multiple: "1874 Gaskell Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1874"/>
+    <tag k="addr:street" v="Gaskell Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="42180"/>
+  </node>
 </osm>

@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-151" visible="true" lat="44.43960556" lon="-72.90647509">
-    <!-- conflict: "57 East Country Club Drive, Bolton, VT" No match in OSM, but a different address exists <5m away: "27 East Country Club Drive, , VT" -->
-    <tag k="addr:city" v="Bolton"/>
+    <!-- conflict: "57 East Country Club Drive, , VT" No match in OSM, but a different address exists <5m away: "27 East Country Club Drive, , VT" -->
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="East Country Club Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="25249"/>
   </node>
   <node id="-152" visible="true" lat="44.43954318" lon="-72.90579638">
-    <!-- conflict: "68 East Country Club Drive, Bolton, VT" No match in OSM, but a different address exists <5m away: "34 East Country Club Drive, Bolton, VT" -->
-    <tag k="addr:city" v="Bolton"/>
+    <!-- conflict: "68 East Country Club Drive, , VT" No match in OSM, but a different address exists <5m away: "34 East Country Club Drive, Bolton, VT" -->
     <tag k="addr:housenumber" v="68"/>
     <tag k="addr:street" v="East Country Club Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="25250"/>
-  </node>
-  <node id="-212" visible="true" lat="44.42149593" lon="-72.84911289">
-    <!-- conflict: "4302 Bolton Valley Access Road, Bolton, VT" Fuzzy match to "4302 Bolton Valley Access Road, Richmond, VT" -->
-    <tag k="addr:city" v="Bolton"/>
-    <tag k="addr:housenumber" v="4302"/>
-    <tag k="addr:street" v="Bolton Valley Access Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="25313"/>
-  </node>
-  <node id="-516" visible="true" lat="44.42209754" lon="-72.85245428">
-    <!-- conflict: "96 Sports Club Drive, Bolton, VT" No match in OSM, but a different address exists <5m away: "4302 Bolton Valley Access Road, Richmond, VT" -->
-    <tag k="addr:city" v="Bolton"/>
-    <tag k="addr:housenumber" v="96"/>
-    <tag k="addr:street" v="Sports Club Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="25643"/>
-  </node>
-  <node id="-591" visible="true" lat="44.38240767" lon="-72.93172553">
-    <!-- conflict: "5510 Theodore Roosevelt Highway, Bolton, VT" Fuzzy match to "5510 Theodore Roosevelt Highway, Richmond, VT" -->
-    <tag k="addr:city" v="Bolton"/>
-    <tag k="addr:housenumber" v="5510"/>
-    <tag k="addr:street" v="Theodore Roosevelt Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="339942"/>
   </node>
 </osm>

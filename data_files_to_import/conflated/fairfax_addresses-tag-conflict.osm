@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-1145" visible="true" lat="44.69376789" lon="-73.0333053">
-    <!-- conflict: "1627 Main Street, Fairfax, VT" Fuzzy match to "1627 Main Street, , " -->
-    <tag k="addr:city" v="Fairfax"/>
+    <!-- conflict: "1627 Main Street, , VT" Fuzzy match to "1627 Main Street, , " -->
     <tag k="addr:housenumber" v="1627"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>

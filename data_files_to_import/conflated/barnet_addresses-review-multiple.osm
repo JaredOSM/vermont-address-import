@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-913" visible="true" lat="44.26452935" lon="-72.06433393">
+    <!-- multiple: "37 Academy Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Academy Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="7537"/>
+  </node>
 </osm>

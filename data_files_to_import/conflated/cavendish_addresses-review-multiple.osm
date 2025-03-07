@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-573" visible="true" lat="43.38394928" lon="-72.6371994">
+    <!-- multiple: "573 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="573"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="61952"/>
+  </node>
 </osm>

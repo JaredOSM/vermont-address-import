@@ -1,531 +1,381 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-175" visible="true" lat="44.17421623" lon="-72.64602137">
-    <!-- conflict: "833 Vermont Route 12 North, Northfield, VT" No match in OSM, but a different address exists <5m away: "833 Vt Route 12 North, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "833 Vermont Route 12 North, , VT" No match in OSM, but a different address exists <5m away: "833 Vt Route 12 North, Northfield, VT" -->
     <tag k="addr:housenumber" v="833"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="179973"/>
   </node>
-  <node id="-183" visible="true" lat="44.17380203" lon="-72.64599534">
-    <!-- conflict: "25 Moody Lane, Northfield, VT" Fuzzy match to "25 Moody Lane, Northfield Falls, VT" -->
-    <tag k="addr:city" v="Northfield"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Moody Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="179981"/>
-  </node>
   <node id="-184" visible="true" lat="44.17374308" lon="-72.6472383">
-    <!-- conflict: "759 Vermont Route 12 North, Northfield, VT" No match in OSM, but a different address exists <5m away: "759 Vt Route 12 North, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "759 Vermont Route 12 North, , VT" No match in OSM, but a different address exists <5m away: "759 Vt Route 12 North, Northfield, VT" -->
     <tag k="addr:housenumber" v="759"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="179982"/>
   </node>
-  <node id="-190" visible="true" lat="44.17375906" lon="-72.64498626">
-    <!-- conflict: "79 Moody Lane, Northfield, VT" Fuzzy match to "79 Moody Lane, Northfield Falls, VT" -->
-    <tag k="addr:city" v="Northfield"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Moody Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="179988"/>
-  </node>
   <node id="-192" visible="true" lat="44.17367149" lon="-72.64553933">
-    <!-- conflict: "49 Moody Lane, Northfield, VT" No match in OSM, but a different address exists <5m away: "40 Moody Lane, Northfield Falls, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "49 Moody Lane, , VT" No match in OSM, but a different address exists <5m away: "40 Moody Lane, Northfield Falls, VT" -->
     <tag k="addr:housenumber" v="49"/>
     <tag k="addr:street" v="Moody Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="179990"/>
   </node>
-  <node id="-193" visible="true" lat="44.1734971" lon="-72.64582859">
-    <!-- conflict: "38 Moody Lane, Northfield, VT" Fuzzy match to "38 Moody Lane, Northfield Falls, VT" -->
-    <tag k="addr:city" v="Northfield"/>
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="Moody Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="179991"/>
-  </node>
-  <node id="-195" visible="true" lat="44.17355441" lon="-72.64678717">
-    <!-- conflict: "768 Vermont Route 12 North, Northfield, VT" Fuzzy match to "768 Vermont Route 12 North, Northfield Falls, VT" -->
-    <tag k="addr:city" v="Northfield"/>
-    <tag k="addr:housenumber" v="768"/>
-    <tag k="addr:street" v="Vermont Route 12 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="179993"/>
-  </node>
-  <node id="-198" visible="true" lat="44.17343212" lon="-72.64715927">
-    <!-- conflict: "752 Vermont Route 12 North, Northfield, VT" Fuzzy match to "752 Vermont Route 12 North, Northfield Falls, VT" -->
-    <tag k="addr:city" v="Northfield"/>
-    <tag k="addr:housenumber" v="752"/>
-    <tag k="addr:street" v="Vermont Route 12 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="179996"/>
-  </node>
   <node id="-201" visible="true" lat="44.17333559" lon="-72.64850967">
-    <!-- conflict: "687 Vermont Route 12 North, Northfield, VT" No match in OSM, but a different address exists <5m away: "687 Vt Route 12 North, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "687 Vermont Route 12 North, , VT" No match in OSM, but a different address exists <5m away: "687 Vt Route 12 North, Northfield, VT" -->
     <tag k="addr:housenumber" v="687"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="179999"/>
   </node>
   <node id="-203" visible="true" lat="44.17323858" lon="-72.64883063">
-    <!-- conflict: "671 Vermont Route 12 North, Northfield, VT" No match in OSM, but a different address exists <5m away: "671 Vt Route 12 North, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "671 Vermont Route 12 North, , VT" No match in OSM, but a different address exists <5m away: "671 Vt Route 12 North, Northfield, VT" -->
     <tag k="addr:housenumber" v="671"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180001"/>
   </node>
-  <node id="-205" visible="true" lat="44.17303332" lon="-72.64633015">
-    <!-- conflict: "28 Moody Lane, Northfield, VT" Fuzzy match to "28 Moody Lane, Northfield Falls, VT" -->
-    <tag k="addr:city" v="Northfield"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Moody Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="180003"/>
-  </node>
   <node id="-207" visible="true" lat="44.17313003" lon="-72.64915466">
-    <!-- conflict: "651 Vermont Route 12 North, Northfield, VT" No match in OSM, but a different address exists <5m away: "651 Vt Route 12 North, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "651 Vermont Route 12 North, , VT" No match in OSM, but a different address exists <5m away: "651 Vt Route 12 North, Northfield, VT" -->
     <tag k="addr:housenumber" v="651"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180005"/>
   </node>
   <node id="-208" visible="true" lat="44.17307994" lon="-72.64804121">
-    <!-- conflict: "692 Vermont Route 12 North, Northfield, VT" No match in OSM, but a different address exists <5m away: "692 Kirkpatrick Lane, Northfield Falls, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "692 Vermont Route 12 North, , VT" No match in OSM, but a different address exists <5m away: "692 Kirkpatrick Lane, Northfield Falls, VT" -->
     <tag k="addr:housenumber" v="692"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180006"/>
   </node>
-  <node id="-209" visible="true" lat="44.1730137" lon="-72.64758033">
-    <!-- conflict: "716 Vermont Route 12 North, Northfield, VT" Fuzzy match to "716 Vermont Route 12 North, Northfield Falls, VT" -->
-    <tag k="addr:city" v="Northfield"/>
-    <tag k="addr:housenumber" v="716"/>
-    <tag k="addr:street" v="Vermont Route 12 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="180008"/>
-  </node>
   <node id="-210" visible="true" lat="44.17293218" lon="-72.64831193">
-    <!-- conflict: "670 Vermont Route 12 North, Northfield, VT" Fuzzy match to "670 Vermont Route 12 North, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "670 Vermont Route 12 North, , VT" Fuzzy match to "670 Vermont Route 12 North, , " -->
     <tag k="addr:housenumber" v="670"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180009"/>
   </node>
-  <node id="-212" visible="true" lat="44.17302237" lon="-72.64544641">
-    <!-- conflict: "106 Moody Lane, Northfield, VT" Fuzzy match to "106 Moody Lane, Northfield Falls, VT" -->
-    <tag k="addr:city" v="Northfield"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:street" v="Moody Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="180011"/>
-  </node>
   <node id="-215" visible="true" lat="44.17297162" lon="-72.64949048">
-    <!-- conflict: "629 Vermont Route 12 North, Northfield, VT" No match in OSM, but a different address exists <5m away: "629 Vt Route 12 North, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "629 Vermont Route 12 North, , VT" No match in OSM, but a different address exists <5m away: "629 Vt Route 12 North, Northfield, VT" -->
     <tag k="addr:housenumber" v="629"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180014"/>
   </node>
   <node id="-216" visible="true" lat="44.17283175" lon="-72.64865092">
-    <!-- conflict: "644 Vermont Route 12 North, Northfield, VT" Fuzzy match to "644 Vermont Route 12 North, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "644 Vermont Route 12 North, , VT" Fuzzy match to "644 Vermont Route 12 North, , " -->
     <tag k="addr:housenumber" v="644"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180015"/>
   </node>
   <node id="-219" visible="true" lat="44.17270981" lon="-72.64913142">
-    <!-- conflict: "620 Vermont Route 12 North, Northfield, VT" Fuzzy match to "620 Vermont Route 12 North, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "620 Vermont Route 12 North, , VT" Fuzzy match to "620 Vermont Route 12 North, , " -->
     <tag k="addr:housenumber" v="620"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180018"/>
   </node>
   <node id="-223" visible="true" lat="44.17250292" lon="-72.64954876">
-    <!-- conflict: "608 Vermont Route 12 North, Northfield, VT" No match in OSM, but a different address exists <5m away: "620 Vermont Route 12 North, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "608 Vermont Route 12 North, , VT" No match in OSM, but a different address exists <5m away: "620 Vermont Route 12 North, , " -->
     <tag k="addr:housenumber" v="608"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180022"/>
   </node>
   <node id="-226" visible="true" lat="44.17234954" lon="-72.65056986">
-    <!-- conflict: "571 Vermont Route 12 North, Northfield, VT" No match in OSM, but a different address exists <5m away: "571 Vt Route 12 North, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "571 Vermont Route 12 North, , VT" No match in OSM, but a different address exists <5m away: "571 Vt Route 12 North, Northfield, VT" -->
     <tag k="addr:housenumber" v="571"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180025"/>
   </node>
   <node id="-230" visible="true" lat="44.17225279" lon="-72.65005665">
-    <!-- conflict: "564 Vermont Route 12 North, Northfield, VT" Fuzzy match to "564 Vermont Route 12 North, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "564 Vermont Route 12 North, , VT" Fuzzy match to "564 Vermont Route 12 North, , " -->
     <tag k="addr:housenumber" v="564"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180029"/>
   </node>
-  <node id="-234" visible="true" lat="44.17191206" lon="-72.64943143">
-    <!-- conflict: "51 Gould Road, Northfield, VT" Fuzzy match to "51 Gould Road, Northfield Falls, VT" -->
-    <tag k="addr:city" v="Northfield"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Gould Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="180033"/>
-  </node>
   <node id="-235" visible="true" lat="44.17173137" lon="-72.65043808">
-    <!-- conflict: "536 Vermont Route 12 North, Northfield, VT" Fuzzy match to "536 Vermont Route 12 North, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "536 Vermont Route 12 North, , VT" Fuzzy match to "536 Vermont Route 12 North, , " -->
     <tag k="addr:housenumber" v="536"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180034"/>
   </node>
   <node id="-236" visible="true" lat="44.17173809" lon="-72.65089583">
-    <!-- conflict: "523 Vermont Route 12 North, Northfield, VT" No match in OSM, but a different address exists <5m away: "523 Vt Route 12 North, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "523 Vermont Route 12 North, , VT" No match in OSM, but a different address exists <5m away: "523 Vt Route 12 North, Northfield, VT" -->
     <tag k="addr:housenumber" v="523"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180035"/>
   </node>
   <node id="-237" visible="true" lat="44.17172237" lon="-72.6501236">
-    <!-- conflict: "32 Gould Road, Northfield, VT" Fuzzy match to "32 Gould Road, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "32 Gould Road, , VT" Fuzzy match to "32 Gould Road, , " -->
     <tag k="addr:housenumber" v="32"/>
     <tag k="addr:street" v="Gould Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180036"/>
   </node>
   <node id="-239" visible="true" lat="44.17152418" lon="-72.65058134">
-    <!-- conflict: "514 Vermont Route 12 North, Northfield, VT" Fuzzy match to "514 Vermont Route 12 North, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "514 Vermont Route 12 North, , VT" Fuzzy match to "514 Vermont Route 12 North, , " -->
     <tag k="addr:housenumber" v="514"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180038"/>
   </node>
   <node id="-240" visible="true" lat="44.17164101" lon="-72.64879565">
-    <!-- conflict: "89 Gould Road, Northfield, VT" Fuzzy match to "89 Gould Road, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "89 Gould Road, , VT" Fuzzy match to "89 Gould Road, , " -->
     <tag k="addr:housenumber" v="89"/>
     <tag k="addr:street" v="Gould Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180039"/>
   </node>
   <node id="-241" visible="true" lat="44.17150089" lon="-72.64849301">
-    <!-- conflict: "105 Gould Road, Northfield, VT" Fuzzy match to "105 Gould Road, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "105 Gould Road, , VT" Fuzzy match to "105 Gould Road, , " -->
     <tag k="addr:housenumber" v="105"/>
     <tag k="addr:street" v="Gould Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180040"/>
   </node>
   <node id="-243" visible="true" lat="44.17130077" lon="-72.64896622">
-    <!-- conflict: "94 Gould Road, Northfield, VT" Fuzzy match to "94 Gould Road, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "94 Gould Road, , VT" Fuzzy match to "94 Gould Road, , " -->
     <tag k="addr:housenumber" v="94"/>
     <tag k="addr:street" v="Gould Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180043"/>
   </node>
   <node id="-247" visible="true" lat="44.17135063" lon="-72.64792206">
-    <!-- conflict: "139 Gould Road, Northfield, VT" Fuzzy match to "139 Gould Road, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "139 Gould Road, , VT" Fuzzy match to "139 Gould Road, , " -->
     <tag k="addr:housenumber" v="139"/>
     <tag k="addr:street" v="Gould Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180047"/>
   </node>
   <node id="-253" visible="true" lat="44.17104156" lon="-72.64788047">
-    <!-- conflict: "142 Gould Road, Northfield, VT" Fuzzy match to "142 Gould Road, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "142 Gould Road, , VT" Fuzzy match to "142 Gould Road, , " -->
     <tag k="addr:housenumber" v="142"/>
     <tag k="addr:street" v="Gould Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180055"/>
   </node>
   <node id="-254" visible="true" lat="44.17106748" lon="-72.65067983">
-    <!-- conflict: "17 Davis Avenue, Northfield, VT" Fuzzy match to "17 Davis Avenue, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "17 Davis Avenue, , VT" Fuzzy match to "17 Davis Avenue, , " -->
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:street" v="Davis Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180056"/>
   </node>
-  <node id="-257" visible="true" lat="44.1707552" lon="-72.65088277">
-    <!-- conflict: "12 Davis Avenue, Northfield, VT" Fuzzy match to "12 Davis Avenue, Northfield Falls, VT" -->
-    <tag k="addr:city" v="Northfield"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Davis Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="180059"/>
-  </node>
   <node id="-259" visible="true" lat="44.17075348" lon="-72.65033721">
-    <!-- conflict: "41 Davis Avenue, Northfield, VT" Fuzzy match to "41 Davis Avenue, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "41 Davis Avenue, , VT" Fuzzy match to "41 Davis Avenue, , " -->
     <tag k="addr:housenumber" v="41"/>
     <tag k="addr:street" v="Davis Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180061"/>
   </node>
   <node id="-261" visible="true" lat="44.17063294" lon="-72.64913307">
-    <!-- conflict: "35 Cardinal Lane, Northfield, VT" Fuzzy match to "35 Cardinal Lane, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "35 Cardinal Lane, , VT" Fuzzy match to "35 Cardinal Lane, , " -->
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="Cardinal Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180063"/>
   </node>
   <node id="-262" visible="true" lat="44.17057418" lon="-72.64990997">
-    <!-- conflict: "65 Davis Avenue, Northfield, VT" Fuzzy match to "65 Davis Avenue, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "65 Davis Avenue, , VT" Fuzzy match to "65 Davis Avenue, , " -->
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:street" v="Davis Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180064"/>
   </node>
   <node id="-265" visible="true" lat="44.17045324" lon="-72.64964886">
-    <!-- conflict: "81 Davis Avenue, Northfield, VT" No match in OSM, but a different address exists <5m away: "91 Davis Avenue, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "81 Davis Avenue, , VT" No match in OSM, but a different address exists <5m away: "91 Davis Avenue, , " -->
     <tag k="addr:housenumber" v="81"/>
     <tag k="addr:street" v="Davis Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180067"/>
   </node>
   <node id="-270" visible="true" lat="44.17031215" lon="-72.64930903">
-    <!-- conflict: "97 Davis Avenue, Northfield, VT" Fuzzy match to "97 Davis Avenue, , " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "97 Davis Avenue, , VT" Fuzzy match to "97 Davis Avenue, , " -->
     <tag k="addr:housenumber" v="97"/>
     <tag k="addr:street" v="Davis Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180072"/>
   </node>
   <node id="-279" visible="true" lat="44.16975409" lon="-72.65173614">
-    <!-- conflict: "376 Vermont Route 12 North, Northfield, VT" No match in OSM, but a different address exists <5m away: "376 Vermont Route 12N, Northfield Falls, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "376 Vermont Route 12 North, , VT" No match in OSM, but a different address exists <5m away: "376 Vermont Route 12N, Northfield Falls, VT" -->
     <tag k="addr:housenumber" v="376"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180082"/>
   </node>
   <node id="-304" visible="true" lat="44.16827476" lon="-72.65357985">
-    <!-- conflict: "249 Vermont Route 12 North, Northfield, VT" No match in OSM, but a different address exists <5m away: "249 Vt Route 12 North, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "249 Vermont Route 12 North, , VT" No match in OSM, but a different address exists <5m away: "249 Vt Route 12 North, Northfield, VT" -->
     <tag k="addr:housenumber" v="249"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180109"/>
   </node>
   <node id="-337" visible="true" lat="44.1675471" lon="-72.65407789">
-    <!-- conflict: "199 Vermont Route 12 North, Northfield, VT" No match in OSM, but a different address exists <5m away: "199 Vt Route 12 North, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "199 Vermont Route 12 North, , VT" No match in OSM, but a different address exists <5m away: "199 Vt Route 12 North, Northfield, VT" -->
     <tag k="addr:housenumber" v="199"/>
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180144"/>
   </node>
   <node id="-538" visible="true" lat="44.15697849" lon="-72.66334965">
-    <!-- conflict: "271 Garvey Hill Road, Northfield, VT" No match in OSM, but a different address exists <5m away: "349 Garvey Hill Road, Northfield, " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "271 Garvey Hill Road, , VT" No match in OSM, but a different address exists <5m away: "349 Garvey Hill Road, Northfield, " -->
     <tag k="addr:housenumber" v="271"/>
     <tag k="addr:street" v="Garvey Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180364"/>
   </node>
   <node id="-597" visible="true" lat="44.15426246" lon="-72.66501196">
-    <!-- conflict: "123 Vine Street Extension, Northfield, VT" Fuzzy match to "123 Vine Street, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "123 Vine Street Extension, , VT" Fuzzy match to "123 Vine Street, Northfield, VT" -->
     <tag k="addr:housenumber" v="123"/>
     <tag k="addr:street" v="Vine Street Extension"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180427"/>
   </node>
   <node id="-609" visible="true" lat="44.15386338" lon="-72.65528338">
-    <!-- conflict: "7 Belknap Street, Northfield, VT" Fuzzy match to "7 Belknap Avenue, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "7 Belknap Street, , VT" Fuzzy match to "7 Belknap Avenue, Northfield, VT" -->
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Belknap Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180439"/>
   </node>
   <node id="-665" visible="true" lat="44.15309143" lon="-72.65528106">
-    <!-- conflict: "102 Belknap Street, Northfield, VT" Fuzzy match to "102 Belknap Avenue, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "102 Belknap Street, , VT" Fuzzy match to "102 Belknap Avenue, Northfield, VT" -->
     <tag k="addr:housenumber" v="102"/>
     <tag k="addr:street" v="Belknap Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180501"/>
   </node>
   <node id="-1158" visible="true" lat="44.14159675" lon="-72.65985397">
-    <!-- conflict: "458 Central Street, Northfield, VT" No match in OSM, but a different address exists <5m away: " , Northfield, " -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "458 Central Street, , VT" No match in OSM, but a different address exists <5m away: " , Northfield, " -->
     <tag k="addr:housenumber" v="458"/>
     <tag k="addr:street" v="Central Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181080"/>
   </node>
   <node id="-1165" visible="true" lat="44.14090512" lon="-72.65824888">
-    <!-- conflict: "24 Id White Avenue, Northfield, VT" Fuzzy match to "24 I.D. White Avenue, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "24 Id White Avenue, , VT" Fuzzy match to "24 I.D. White Avenue, Northfield, VT" -->
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:street" v="Id White Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181087"/>
   </node>
   <node id="-1303" visible="true" lat="44.13438011" lon="-72.65996729">
-    <!-- conflict: "14 Vermont Route 12A, Northfield, VT" No match in OSM, but a different address exists <5m away: "14 Vt Route 12A, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "14 Vermont Route 12A, , VT" No match in OSM, but a different address exists <5m away: "14 Vt Route 12A, Northfield, VT" -->
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Vermont Route 12A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181240"/>
   </node>
   <node id="-1312" visible="true" lat="44.13402931" lon="-72.66080606">
-    <!-- conflict: "62 Vermont Route 12A, Northfield, VT" No match in OSM, but a different address exists <5m away: "62 Vt Route 12A, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "62 Vermont Route 12A, , VT" No match in OSM, but a different address exists <5m away: "62 Vt Route 12A, Northfield, VT" -->
     <tag k="addr:housenumber" v="62"/>
     <tag k="addr:street" v="Vermont Route 12A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181249"/>
   </node>
   <node id="-1342" visible="true" lat="44.13234646" lon="-72.65882265">
-    <!-- conflict: "33 Vermont Route 12 South, Northfield, VT" No match in OSM, but a different address exists <5m away: "33 Vt Route 12 South, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "33 Vermont Route 12 South, , VT" No match in OSM, but a different address exists <5m away: "33 Vt Route 12 South, Northfield, VT" -->
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="Vermont Route 12 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181280"/>
   </node>
   <node id="-1344" visible="true" lat="44.13227776" lon="-72.65936262">
-    <!-- conflict: "34 Vermont Route 12 South, Northfield, VT" No match in OSM, but a different address exists <5m away: "34 Vt Route 12 South, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "34 Vermont Route 12 South, , VT" No match in OSM, but a different address exists <5m away: "34 Vt Route 12 South, Northfield, VT" -->
     <tag k="addr:housenumber" v="34"/>
     <tag k="addr:street" v="Vermont Route 12 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181283"/>
   </node>
   <node id="-1347" visible="true" lat="44.13211581" lon="-72.65869848">
-    <!-- conflict: "49 Vermont Route 12 South, Northfield, VT" No match in OSM, but a different address exists <5m away: "49 Vt Route 12 South, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "49 Vermont Route 12 South, , VT" No match in OSM, but a different address exists <5m away: "49 Vt Route 12 South, Northfield, VT" -->
     <tag k="addr:housenumber" v="49"/>
     <tag k="addr:street" v="Vermont Route 12 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181286"/>
   </node>
   <node id="-1351" visible="true" lat="44.13187305" lon="-72.65857549">
-    <!-- conflict: "69 Vermont Route 12 South, Northfield, VT" No match in OSM, but a different address exists <5m away: "69 Vt Route 12 South, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "69 Vermont Route 12 South, , VT" No match in OSM, but a different address exists <5m away: "69 Vt Route 12 South, Northfield, VT" -->
     <tag k="addr:housenumber" v="69"/>
     <tag k="addr:street" v="Vermont Route 12 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181290"/>
   </node>
   <node id="-1353" visible="true" lat="44.13173539" lon="-72.65907647">
-    <!-- conflict: "74 Vermont Route 12 South, Northfield, VT" No match in OSM, but a different address exists <5m away: "74 Vt Route 12 South, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "74 Vermont Route 12 South, , VT" No match in OSM, but a different address exists <5m away: "74 Vt Route 12 South, Northfield, VT" -->
     <tag k="addr:housenumber" v="74"/>
     <tag k="addr:street" v="Vermont Route 12 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181292"/>
   </node>
   <node id="-1558" visible="true" lat="44.12072705" lon="-72.65553687">
-    <!-- conflict: "829 Vermont Route 12 South, Northfield, VT" No match in OSM, but a different address exists <5m away: "829 Vermont Route 64, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "829 Vermont Route 12 South, , VT" No match in OSM, but a different address exists <5m away: "829 Vermont Route 64, Northfield, VT" -->
     <tag k="addr:housenumber" v="829"/>
     <tag k="addr:street" v="Vermont Route 12 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181503"/>
   </node>
   <node id="-1687" visible="true" lat="44.11320672" lon="-72.68293349">
-    <!-- conflict: "2066 Vermont Route 12A, Northfield, VT" No match in OSM, but a different address exists <5m away: "2066 Vt Route 12A, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "2066 Vermont Route 12A, , VT" No match in OSM, but a different address exists <5m away: "2066 Vt Route 12A, Northfield, VT" -->
     <tag k="addr:housenumber" v="2066"/>
     <tag k="addr:street" v="Vermont Route 12A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181635"/>
   </node>
   <node id="-1754" visible="true" lat="44.10519876" lon="-72.64300441">
-    <!-- conflict: "2183 Vermont Route 12 South, Northfield, VT" No match in OSM, but a different address exists <5m away: "2183 Vt Route 12 South, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "2183 Vermont Route 12 South, , VT" No match in OSM, but a different address exists <5m away: "2183 Vt Route 12 South, Northfield, VT" -->
     <tag k="addr:housenumber" v="2183"/>
     <tag k="addr:street" v="Vermont Route 12 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181702"/>
   </node>
   <node id="-1759" visible="true" lat="44.10352311" lon="-72.64217309">
-    <!-- conflict: "2187 Vermont Route 12 South, Northfield, VT" No match in OSM, but a different address exists <5m away: "2187 Vt Route 12 South, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "2187 Vermont Route 12 South, , VT" No match in OSM, but a different address exists <5m away: "2187 Vt Route 12 South, Northfield, VT" -->
     <tag k="addr:housenumber" v="2187"/>
     <tag k="addr:street" v="Vermont Route 12 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181707"/>
   </node>
   <node id="-1775" visible="true" lat="44.09758011" lon="-72.64439278">
-    <!-- conflict: "2679 Vermont Route 12 South, Northfield, VT" No match in OSM, but a different address exists <5m away: "2679 Vt Route 12 South, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "2679 Vermont Route 12 South, , VT" No match in OSM, but a different address exists <5m away: "2679 Vt Route 12 South, Northfield, VT" -->
     <tag k="addr:housenumber" v="2679"/>
     <tag k="addr:street" v="Vermont Route 12 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181723"/>
   </node>
   <node id="-1778" visible="true" lat="44.09659194" lon="-72.64507293">
-    <!-- conflict: "2765 Vermont Route 12 South, Northfield, VT" No match in OSM, but a different address exists <5m away: "2765 Vt Route 12 South, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "2765 Vermont Route 12 South, , VT" No match in OSM, but a different address exists <5m away: "2765 Vt Route 12 South, Northfield, VT" -->
     <tag k="addr:housenumber" v="2765"/>
     <tag k="addr:street" v="Vermont Route 12 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181726"/>
   </node>
   <node id="-1900" visible="true" lat="44.09963831" lon="-72.66605251">
-    <!-- conflict: "1851 Winch Hill Road, Northfield, VT" No match in OSM, but a different address exists <5m away: "1850 Winch Hill Road, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "1851 Winch Hill Road, , VT" No match in OSM, but a different address exists <5m away: "1850 Winch Hill Road, Northfield, VT" -->
     <tag k="addr:housenumber" v="1851"/>
     <tag k="addr:street" v="Winch Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181861"/>
   </node>
   <node id="-1923" visible="true" lat="44.09948477" lon="-72.66850683">
-    <!-- conflict: "1924 Winch Hill Road, Northfield, VT" No match in OSM, but a different address exists <5m away: "1985 Winch Hill Road, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "1924 Winch Hill Road, , VT" No match in OSM, but a different address exists <5m away: "1985 Winch Hill Road, Northfield, VT" -->
     <tag k="addr:housenumber" v="1924"/>
     <tag k="addr:street" v="Winch Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181885"/>
   </node>
   <node id="-1956" visible="true" lat="44.13364485" lon="-72.6617457">
-    <!-- conflict: "76 Vermont Route 12A, Northfield, VT" No match in OSM, but a different address exists <5m away: "76 Vt Route 12A, Northfield, VT" -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- conflict: "76 Vermont Route 12A, , VT" No match in OSM, but a different address exists <5m away: "76 Vt Route 12A, Northfield, VT" -->
     <tag k="addr:housenumber" v="76"/>
     <tag k="addr:street" v="Vermont Route 12A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="333183"/>
-  </node>
-  <node id="-1961" visible="true" lat="44.08945488" lon="-72.62825666">
-    <!-- conflict: "379 Frost Road, Northfield, VT" Fuzzy match to "379 Frost Road, Williamstown, VT" -->
-    <tag k="addr:city" v="Northfield"/>
-    <tag k="addr:housenumber" v="379"/>
-    <tag k="addr:street" v="Frost Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="339321"/>
-  </node>
-  <node id="-1962" visible="true" lat="44.0901865" lon="-72.62781416">
-    <!-- conflict: "329 Frost Road, Northfield, VT" Fuzzy match to "329 Frost Road, Williamstown, VT" -->
-    <tag k="addr:city" v="Northfield"/>
-    <tag k="addr:housenumber" v="329"/>
-    <tag k="addr:street" v="Frost Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="339322"/>
   </node>
 </osm>

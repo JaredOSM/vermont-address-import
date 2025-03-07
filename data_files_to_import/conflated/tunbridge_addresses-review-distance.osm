@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-581" visible="true" lat="43.87481512" lon="-72.44944295">
+    <!-- offset: "77 Kibling Hill Road, , VT" Significant offset - 2903.2m -->
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:street" v="Kibling Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="263108"/>
+  </node>
+  <node id="-601" visible="true" lat="43.87335557" lon="-72.4345966">
+    <!-- offset: "156 Kibling Hill Road, , VT" Significant offset - 599.5m -->
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:street" v="Kibling Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="263128"/>
+  </node>
   <node id="-655" visible="true" lat="43.86693553" lon="-72.44795308">
-    <!-- offset: "91 Gilley Road, Tunbridge, VT" Significant offset - 128.9m -->
-    <tag k="addr:city" v="Tunbridge"/>
+    <!-- offset: "91 Gilley Road, , VT" Significant offset - 128.9m -->
     <tag k="addr:housenumber" v="91"/>
     <tag k="addr:street" v="Gilley Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263186"/>
+  </node>
+  <node id="-815" visible="true" lat="43.87185291" lon="-72.44784708">
+    <!-- offset: "86 Kibling Hill Road, , VT" Significant offset - 2615.5m -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Kibling Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326602"/>
   </node>
 </osm>

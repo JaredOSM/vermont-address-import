@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-1155" visible="true" lat="43.8182976" lon="-72.51955681">
+    <!-- multiple: "57 Safford Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Safford Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="206888"/>
+  </node>
 </osm>

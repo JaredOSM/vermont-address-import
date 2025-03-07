@@ -1,27 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-203" visible="true" lat="43.88184738" lon="-72.37007141">
-    <!-- offset: "89 Old City Falls Road, Strafford, VT" Significant offset - 115.1m -->
-    <tag k="addr:city" v="Strafford"/>
+    <!-- offset: "89 Old City Falls Road, , VT" Significant offset - 115.1m -->
     <tag k="addr:housenumber" v="89"/>
     <tag k="addr:street" v="Old City Falls Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252226"/>
   </node>
   <node id="-442" visible="true" lat="43.84283232" lon="-72.33943118">
-    <!-- offset: "57 Furnace Flats Road, Strafford, VT" Significant offset - 529.9m -->
-    <tag k="addr:city" v="Strafford"/>
+    <!-- offset: "57 Furnace Flats Road, , VT" Significant offset - 529.9m -->
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="Furnace Flats Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252488"/>
   </node>
+  <node id="-503" visible="true" lat="43.83569882" lon="-72.36525836">
+    <!-- offset: "244 Route 132, , VT" Significant offset - 8766m -->
+    <tag k="addr:housenumber" v="244"/>
+    <tag k="addr:street" v="Route 132"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="252552"/>
+  </node>
+  <node id="-531" visible="true" lat="43.83429979" lon="-72.35958075">
+    <!-- offset: "209 Route 132, , VT" Significant offset - 9085.6m -->
+    <tag k="addr:housenumber" v="209"/>
+    <tag k="addr:street" v="Route 132"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="252584"/>
+  </node>
   <node id="-621" visible="true" lat="43.8235454" lon="-72.33213257">
-    <!-- offset: "181 Mine Road, Strafford, VT" Significant offset - 262.9m -->
-    <tag k="addr:city" v="Strafford"/>
+    <!-- offset: "181 Mine Road, , VT" Significant offset - 262.9m -->
     <tag k="addr:housenumber" v="181"/>
     <tag k="addr:street" v="Mine Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252680"/>
+  </node>
+  <node id="-736" visible="true" lat="43.83151021" lon="-72.41926236">
+    <!-- offset: "34 Fayen Road, , VT" Significant offset - 613.6m -->
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Fayen Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="343798"/>
+  </node>
+  <node id="-750" visible="true" lat="43.87688" lon="-72.28940278">
+    <!-- offset: "2816 Sawnee Bean Road, , VT" Significant offset - 300.1m -->
+    <tag k="addr:housenumber" v="2816"/>
+    <tag k="addr:street" v="Sawnee Bean Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365551"/>
+  </node>
+  <node id="-762" visible="true" lat="43.84915695" lon="-72.31709398">
+    <!-- offset: "1144 Miller Pond Road, , VT" Significant offset - 451.7m -->
+    <tag k="addr:housenumber" v="1144"/>
+    <tag k="addr:street" v="Miller Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="453569"/>
+  </node>
+  <node id="-801" visible="true" lat="43.88738848" lon="-72.2884482">
+    <!-- offset: "3566 Sawnee Bean Road, , VT" Significant offset - 552.7m -->
+    <tag k="addr:housenumber" v="3566"/>
+    <tag k="addr:street" v="Sawnee Bean Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757173"/>
+  </node>
+  <node id="-829" visible="true" lat="43.83564402" lon="-72.36343871">
+    <!-- offset: "236 Route 132, , VT" Significant offset - 8891.5m -->
+    <tag k="addr:housenumber" v="236"/>
+    <tag k="addr:street" v="Route 132"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050674"/>
   </node>
 </osm>

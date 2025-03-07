@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-165" visible="true" lat="44.25904464" lon="-73.22358703">
+    <!-- multiple: "227 Old Hollow Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="227"/>
+    <tag k="addr:street" v="Old Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="106902"/>
+  </node>
+  <node id="-1296" visible="true" lat="44.1726941" lon="-73.24003779">
+    <!-- multiple: "113 Monkton Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:street" v="Monkton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="108073"/>
+  </node>
+  <node id="-1663" visible="true" lat="44.18091592" lon="-73.24886487">
+    <!-- multiple: "49 Park Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Park Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="316779"/>
+  </node>
+  <node id="-1769" visible="true" lat="44.16083702" lon="-73.2193593">
+    <!-- multiple: "808 Plank Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="808"/>
+    <tag k="addr:street" v="Plank Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452669"/>
+  </node>
 </osm>

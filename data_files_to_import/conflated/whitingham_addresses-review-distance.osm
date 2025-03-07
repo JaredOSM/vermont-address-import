@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-468" visible="true" lat="42.79052568" lon="-72.88322974">
+    <!-- offset: "98 School Street, , VT" Significant offset - 5725m -->
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="286605"/>
+  </node>
 </osm>

@@ -1,267 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-100" visible="true" lat="44.52115408" lon="-72.14199586">
-    <!-- conflict: "501 Horne Road, Wheelock, VT" Fuzzy match to "501 Horne Road, Stannard, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
-    <tag k="addr:housenumber" v="501"/>
-    <tag k="addr:street" v="Horne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="12"/>
-  </node>
   <node id="-113" visible="true" lat="44.61198751" lon="-72.17101253">
-    <!-- conflict: "407 Hams Camp Road, Wheelock, VT" No match in OSM, but a different address exists <5m away: "407 Ham Camp Road, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "407 Hams Camp Road, , VT" No match in OSM, but a different address exists <5m away: "407 Ham Camp Road, Wheelock, VT" -->
     <tag k="addr:housenumber" v="407"/>
     <tag k="addr:street" v="Hams Camp Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285631"/>
   </node>
   <node id="-131" visible="true" lat="44.58985772" lon="-72.09004711">
-    <!-- conflict: "1568 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1568 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1568 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1568 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1568"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285651"/>
   </node>
   <node id="-141" visible="true" lat="44.58886312" lon="-72.08893764">
-    <!-- conflict: "1464 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1464 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1464 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1464 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1464"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285661"/>
   </node>
   <node id="-142" visible="true" lat="44.58859739" lon="-72.08678716">
-    <!-- conflict: "1360 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1360 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1360 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1360 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1360"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285663"/>
   </node>
   <node id="-143" visible="true" lat="44.58860778" lon="-72.08757781">
-    <!-- conflict: "1398 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1398 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1398 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1398 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1398"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285664"/>
   </node>
   <node id="-144" visible="true" lat="44.58859252" lon="-72.08719635">
-    <!-- conflict: "1380 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1380 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1380 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1380 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1380"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285665"/>
   </node>
   <node id="-145" visible="true" lat="44.58865582" lon="-72.08779821">
-    <!-- conflict: "1404 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1404 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1404 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1404 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1404"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285666"/>
   </node>
   <node id="-148" visible="true" lat="44.58827754" lon="-72.08543101">
-    <!-- conflict: "1294 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1294 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1294 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1294 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1294"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285670"/>
   </node>
   <node id="-155" visible="true" lat="44.58798599" lon="-72.08547211">
-    <!-- conflict: "1287 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1287 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1287 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1287 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1287"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285679"/>
   </node>
   <node id="-158" visible="true" lat="44.58772814" lon="-72.08414837">
-    <!-- conflict: "1219 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1219 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1219 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1219 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1219"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285682"/>
   </node>
   <node id="-174" visible="true" lat="44.58705433" lon="-72.08140479">
-    <!-- conflict: "1120 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1120 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1120 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1120 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1120"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285698"/>
   </node>
   <node id="-179" visible="true" lat="44.58456802" lon="-72.0785675">
-    <!-- conflict: "867 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "867 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "867 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "867 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="867"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285704"/>
   </node>
   <node id="-185" visible="true" lat="44.58349303" lon="-72.07503208">
-    <!-- conflict: "698 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "698 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "698 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "698 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="698"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285710"/>
   </node>
   <node id="-187" visible="true" lat="44.58262162" lon="-72.07445761">
-    <!-- conflict: "694 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "694 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "694 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "694 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="694"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285712"/>
   </node>
   <node id="-190" visible="true" lat="44.58189027" lon="-72.07279542">
-    <!-- conflict: "472 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "472 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "472 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "472 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="472"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285715"/>
   </node>
   <node id="-199" visible="true" lat="44.58039242" lon="-72.06860215">
-    <!-- conflict: "278 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "278 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "278 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "278 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="278"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285724"/>
   </node>
   <node id="-201" visible="true" lat="44.58016828" lon="-72.06724275">
-    <!-- conflict: "226 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "226 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "226 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "226 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="226"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285726"/>
   </node>
   <node id="-203" visible="true" lat="44.5796177" lon="-72.06575333">
-    <!-- conflict: "122 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "122 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "122 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "122 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="122"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285728"/>
   </node>
   <node id="-369" visible="true" lat="44.58782373" lon="-72.08491518">
-    <!-- conflict: "1261 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1261 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1261 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1261 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1261"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285903"/>
   </node>
   <node id="-370" visible="true" lat="44.58769161" lon="-72.0845566">
-    <!-- conflict: "1241 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1241 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1241 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1241 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1241"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285904"/>
   </node>
   <node id="-386" visible="true" lat="44.58776219" lon="-72.08263702">
-    <!-- conflict: "1192 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1192 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1192 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1192 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1192"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285920"/>
   </node>
   <node id="-447" visible="true" lat="44.58685112" lon="-72.08140921">
-    <!-- conflict: "1090 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1090 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1090 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1090 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1090"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285981"/>
   </node>
   <node id="-478" visible="true" lat="44.5882462" lon="-72.08742011">
-    <!-- conflict: "1385 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1385 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1385 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1385 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1385"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="286013"/>
   </node>
   <node id="-503" visible="true" lat="44.56825223" lon="-72.22438299">
-    <!-- conflict: "1385 Gonyaw Road, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1265 Gonyaw Road, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1385 Gonyaw Road, , VT" No match in OSM, but a different address exists <5m away: "1265 Gonyaw Road, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1385"/>
     <tag k="addr:street" v="Gonyaw Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="286038"/>
   </node>
   <node id="-504" visible="true" lat="44.56251868" lon="-72.21296776">
-    <!-- conflict: "77 Flagg Pond Road, Wheelock, VT" No match in OSM, but a different address exists <5m away: "39 Flagg Pond Road, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "77 Flagg Pond Road, , VT" No match in OSM, but a different address exists <5m away: "39 Flagg Pond Road, Wheelock, VT" -->
     <tag k="addr:housenumber" v="77"/>
     <tag k="addr:street" v="Flagg Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="286039"/>
   </node>
   <node id="-536" visible="true" lat="44.58840063" lon="-72.08579893">
-    <!-- conflict: "1316 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1316 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1316 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1316 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1316"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="312167"/>
   </node>
   <node id="-560" visible="true" lat="44.58661179" lon="-72.08038014">
-    <!-- conflict: "1006 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "1006 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "1006 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "1006 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="1006"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="340011"/>
   </node>
   <node id="-562" visible="true" lat="44.5847935" lon="-72.07889188">
-    <!-- conflict: "881 Vermont Route 122, Wheelock, VT" No match in OSM, but a different address exists <5m away: "881 Vt Route 122, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "881 Vermont Route 122, , VT" No match in OSM, but a different address exists <5m away: "881 Vt Route 122, Wheelock, VT" -->
     <tag k="addr:housenumber" v="881"/>
     <tag k="addr:street" v="Vermont Route 122"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="340089"/>
   </node>
   <node id="-589" visible="true" lat="44.59948747" lon="-72.08268116">
-    <!-- conflict: "765 Mosher Road, Wheelock, VT" No match in OSM, but a different address exists <5m away: "431 Benoit Way, Wheelock, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
+    <!-- conflict: "765 Mosher Road, , VT" No match in OSM, but a different address exists <5m away: "431 Benoit Way, Wheelock, VT" -->
     <tag k="addr:housenumber" v="765"/>
     <tag k="addr:street" v="Mosher Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345456"/>
-  </node>
-  <node id="-595" visible="true" lat="44.55117925" lon="-72.19328838">
-    <!-- conflict: "3098 Stannard Mountain Road, Wheelock, VT" Fuzzy match to "3098 Stannard Mountain Road, Stannard, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
-    <tag k="addr:housenumber" v="3098"/>
-    <tag k="addr:street" v="Stannard Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="365429"/>
-  </node>
-  <node id="-613" visible="true" lat="44.6011804" lon="-72.05928293">
-    <!-- conflict: "1640 Sutton Road, Wheelock, VT" Fuzzy match to "1640 Sutton Road, Sutton, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
-    <tag k="addr:housenumber" v="1640"/>
-    <tag k="addr:street" v="Sutton Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="452461"/>
-  </node>
-  <node id="-634" visible="true" lat="44.56291569" lon="-72.21521572">
-    <!-- conflict: "34 Flagg Pond Road, Wheelock, VT" Fuzzy match to "34 Flagg Pond Road, Stannard, VT" -->
-    <tag k="addr:city" v="Wheelock"/>
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:street" v="Flagg Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="611663"/>
   </node>
 </osm>

@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-1523" visible="true" lat="43.12389127" lon="-72.89982102">
-    <!-- offset: "97 North Branch Road, Winhall, VT" Significant offset - 396.1m -->
-    <tag k="addr:city" v="Winhall"/>
+    <!-- offset: "97 North Branch Road, , VT" Significant offset - 396.1m -->
     <tag k="addr:housenumber" v="97"/>
     <tag k="addr:street" v="North Branch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298416"/>
+  </node>
+  <node id="-1850" visible="true" lat="43.2027518" lon="-72.87277044">
+    <!-- offset: "48 South Road, , VT" Significant offset - 664.4m -->
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449217"/>
   </node>
 </osm>

@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-688" visible="true" lat="43.38158532" lon="-72.64281987">
+    <!-- offset: "224 Main Street, , VT" Significant offset - 5160.6m -->
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62082"/>
+  </node>
 </osm>

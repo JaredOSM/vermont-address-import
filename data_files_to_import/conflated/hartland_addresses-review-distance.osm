@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-151" visible="true" lat="43.61446061" lon="-72.45949881">
-    <!-- offset: "20 Fork Brook Road, Hartland, VT" Significant offset - 106.1m -->
-    <tag k="addr:city" v="Hartland"/>
+    <!-- offset: "20 Fork Brook Road, , VT" Significant offset - 106.1m -->
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="Fork Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="124976"/>
   </node>
   <node id="-460" visible="true" lat="43.5939598" lon="-72.43920898">
-    <!-- offset: "174 Advent Hill Road, Hartland, VT" Significant offset - 127.2m -->
-    <tag k="addr:city" v="Hartland"/>
+    <!-- offset: "174 Advent Hill Road, , VT" Significant offset - 127.2m -->
     <tag k="addr:housenumber" v="174"/>
     <tag k="addr:street" v="Advent Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125289"/>
   </node>
   <node id="-883" visible="true" lat="43.55928874" lon="-72.48290448">
-    <!-- offset: "124 Densmore Hill Road, Hartland, VT" Significant offset - 117.3m -->
-    <tag k="addr:city" v="Hartland"/>
+    <!-- offset: "124 Densmore Hill Road, , VT" Significant offset - 117.3m -->
     <tag k="addr:housenumber" v="124"/>
     <tag k="addr:street" v="Densmore Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125719"/>
+  </node>
+  <node id="-1703" visible="true" lat="43.53683662" lon="-72.52613704">
+    <!-- offset: "152 Reeves Road, , VT" Significant offset - 108m -->
+    <tag k="addr:housenumber" v="152"/>
+    <tag k="addr:street" v="Reeves Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342591"/>
   </node>
 </osm>

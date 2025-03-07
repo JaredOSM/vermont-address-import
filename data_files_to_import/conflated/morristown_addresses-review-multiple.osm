@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-738" visible="true" lat="44.56240529" lon="-72.59031458">
+    <!-- multiple: "202 Copley Avenue, Morrisville, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="202"/>
+    <tag k="addr:street" v="Copley Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="169339"/>
+  </node>
+  <node id="-1520" visible="true" lat="44.53679477" lon="-72.61571879">
+    <!-- multiple: "2305 Laporte Road, Morrisville, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="2305"/>
+    <tag k="addr:street" v="Laporte Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="170215"/>
+  </node>
 </osm>

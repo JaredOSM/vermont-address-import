@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-1556" visible="true" lat="44.50618316" lon="-73.13371582">
+    <!-- offset: "1 Market Place, , VT" Significant offset - 106.1m -->
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96055"/>
+  </node>
+  <node id="-2969" visible="true" lat="44.50734685" lon="-73.133847">
+    <!-- offset: "1 Market Place, , VT" Significant offset - 126.7m -->
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100661"/>
+  </node>
+  <node id="-2970" visible="true" lat="44.50680328" lon="-73.13392501">
+    <!-- offset: "1 Market Place, , VT" Significant offset - 109m -->
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100662"/>
+  </node>
+  <node id="-3905" visible="true" lat="44.50468083" lon="-73.13477832">
+    <!-- offset: "9 Joshua Way, , VT" Significant offset - 158.2m -->
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Joshua Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="318058"/>
+  </node>
 </osm>

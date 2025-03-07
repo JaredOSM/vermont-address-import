@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-385" visible="true" lat="43.19726562" lon="-72.50498199">
-    <!-- conflict: "1292 Rockingham Road, Rockingham, VT" Fuzzy match to "1292 Rockingham Road, Bellows Falls, VT" -->
-    <tag k="addr:city" v="Rockingham"/>
-    <tag k="addr:housenumber" v="1292"/>
-    <tag k="addr:street" v="Rockingham Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203280"/>
-  </node>
   <node id="-568" visible="true" lat="43.1654663" lon="-72.55033874">
-    <!-- conflict: "7 Sand Hill Road, Rockingham, VT" No match in OSM, but a different address exists <5m away: " Sand Hill Road, Cambridgeport, VT" -->
-    <tag k="addr:city" v="Rockingham"/>
+    <!-- conflict: "7 Sand Hill Road, , VT" No match in OSM, but a different address exists <5m away: " Sand Hill Road, Cambridgeport, VT" -->
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Sand Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203474"/>
   </node>
   <node id="-1015" visible="true" lat="43.22264711" lon="-72.54084272">
-    <!-- conflict: "1918 Rockingham Road, Rockingham, VT" No match in OSM, but a different address exists <5m away: " Rockingham Road, Rockingham, VT" -->
-    <tag k="addr:city" v="Rockingham"/>
+    <!-- conflict: "1918 Rockingham Road, , VT" No match in OSM, but a different address exists <5m away: " Rockingham Road, Rockingham, VT" -->
     <tag k="addr:housenumber" v="1918"/>
     <tag k="addr:street" v="Rockingham Road"/>
     <tag k="addr:state" v="VT"/>

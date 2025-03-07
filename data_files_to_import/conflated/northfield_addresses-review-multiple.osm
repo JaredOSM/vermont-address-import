@@ -1,48 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-354" visible="true" lat="44.16731682" lon="-72.6523992">
+    <!-- multiple: "16 Second Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Second Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="180163"/>
+  </node>
   <node id="-505" visible="true" lat="44.158813" lon="-72.65663447">
-    <!-- multiple: "706 North Main Street, Northfield, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- multiple: "706 North Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="706"/>
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180329"/>
   </node>
   <node id="-582" visible="true" lat="44.15498033" lon="-72.65654565">
-    <!-- multiple: "438 North Main Street, Northfield, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- multiple: "438 North Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="438"/>
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180410"/>
   </node>
   <node id="-736" visible="true" lat="44.15177792" lon="-72.65809452">
-    <!-- multiple: "123 Vine Street, Northfield, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- multiple: "123 Vine Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="123"/>
     <tag k="addr:street" v="Vine Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180582"/>
   </node>
   <node id="-884" visible="true" lat="44.14904325" lon="-72.65688659">
-    <!-- multiple: "40 Depot Square, Northfield, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- multiple: "40 Depot Square, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Depot Square"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180751"/>
   </node>
   <node id="-1019" visible="true" lat="44.14587421" lon="-72.65605842">
-    <!-- multiple: "203 South Main Street, Northfield, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- multiple: "203 South Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="203"/>
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180921"/>
   </node>
   <node id="-1570" visible="true" lat="44.11953331" lon="-72.65704782">
-    <!-- multiple: "974 Vermont Route 12 South, Northfield, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Northfield"/>
+    <!-- multiple: "974 Vermont Route 12 South, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="974"/>
     <tag k="addr:street" v="Vermont Route 12 South"/>
     <tag k="addr:state" v="VT"/>

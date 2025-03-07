@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-507" visible="true" lat="43.95084623" lon="-72.25636839">
+    <!-- offset: "1099 Beaver Meadow Road, , VT" Significant offset - 167m -->
+    <tag k="addr:housenumber" v="1099"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454379"/>
+  </node>
+  <node id="-585" visible="true" lat="43.89564505" lon="-72.25626427">
+    <!-- offset: "1067 West Fairlee Road, , VT" Significant offset - 241.2m -->
+    <tag k="addr:housenumber" v="1067"/>
+    <tag k="addr:street" v="West Fairlee Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750858"/>
+  </node>
 </osm>

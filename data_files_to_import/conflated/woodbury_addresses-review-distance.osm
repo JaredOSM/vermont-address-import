@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-842" visible="true" lat="44.42280444" lon="-72.47003298">
-    <!-- offset: "719 Log Town Road, Woodbury, VT" Significant offset - 155.8m -->
-    <tag k="addr:city" v="Woodbury"/>
+    <!-- offset: "719 Log Town Road, , VT" Significant offset - 155.8m -->
     <tag k="addr:housenumber" v="719"/>
     <tag k="addr:street" v="Log Town Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337393"/>
+  </node>
+  <node id="-883" visible="true" lat="44.38954215" lon="-72.39681039">
+    <!-- offset: "1157 Bliss Road, , VT" Significant offset - 166.8m -->
+    <tag k="addr:housenumber" v="1157"/>
+    <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655248"/>
   </node>
 </osm>

@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-1392" visible="true" lat="43.99269945" lon="-72.22965929">
+    <!-- offset: "1900 Camp Munn Road, , VT" Significant offset - 365.3m -->
+    <tag k="addr:housenumber" v="1900"/>
+    <tag k="addr:street" v="Camp Munn Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341875"/>
+  </node>
 </osm>

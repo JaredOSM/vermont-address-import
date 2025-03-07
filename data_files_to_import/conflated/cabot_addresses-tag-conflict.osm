@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-147" visible="true" lat="44.43669315" lon="-72.32474951">
-    <!-- conflict: "155 Herkimer Way, Cabot, VT" Fuzzy match to "155 Herkimer Way, , " -->
-    <tag k="addr:city" v="Cabot"/>
+    <!-- conflict: "155 Herkimer Way, , VT" Fuzzy match to "155 Herkimer Way, , " -->
     <tag k="addr:housenumber" v="155"/>
     <tag k="addr:street" v="Herkimer Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55575"/>
   </node>
   <node id="-956" visible="true" lat="44.43755026" lon="-72.32275403">
-    <!-- conflict: "250 Herkimer Way, Cabot, VT" Fuzzy match to "250 Herkimer Way, , " -->
-    <tag k="addr:city" v="Cabot"/>
+    <!-- conflict: "250 Herkimer Way, , VT" Fuzzy match to "250 Herkimer Way, , " -->
     <tag k="addr:housenumber" v="250"/>
     <tag k="addr:street" v="Herkimer Way"/>
     <tag k="addr:state" v="VT"/>

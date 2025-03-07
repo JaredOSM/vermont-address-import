@@ -1,64 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-225" visible="true" lat="44.15542284" lon="-72.08323449">
-    <!-- conflict: "2420 U.S. Route 302, Newbury, VT" Fuzzy match to "2420 U.S. Route 302, Wells River, VT" -->
-    <tag k="addr:city" v="Newbury"/>
-    <tag k="addr:housenumber" v="2420"/>
-    <tag k="addr:street" v="U.S. Route 302"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="173561"/>
-  </node>
-  <node id="-275" visible="true" lat="44.15341792" lon="-72.04707758">
-    <!-- conflict: "33 Main Street North, Newbury, VT" Fuzzy match to "33 Main Street North, Wells River, VT" -->
-    <tag k="addr:city" v="Newbury"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Main Street North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="173617"/>
-  </node>
   <node id="-287" visible="true" lat="44.15293121" lon="-72.04497527">
-    <!-- conflict: "10 Railroad Street, Newbury, VT" Fuzzy match to "10 Railroad Street, Wells River, " -->
-    <tag k="addr:city" v="Newbury"/>
+    <!-- conflict: "10 Railroad Street, , VT" Fuzzy match to "10 Railroad Street, Wells River, " -->
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="Railroad Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="173631"/>
   </node>
   <node id="-905" visible="true" lat="44.07565069" lon="-72.05822235">
-    <!-- conflict: "5252 Main Street South, Newbury, VT" No match in OSM, but a different address exists <5m away: "5250 Main Street South, Newbury, VT" -->
-    <tag k="addr:city" v="Newbury"/>
+    <!-- conflict: "5252 Main Street South, , VT" No match in OSM, but a different address exists <5m away: "5250 Main Street South, Newbury, VT" -->
     <tag k="addr:housenumber" v="5252"/>
     <tag k="addr:street" v="Main Street South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="174288"/>
   </node>
   <node id="-1413" visible="true" lat="44.06234392" lon="-72.06579659">
-    <!-- conflict: "6337 U.S. Route 5 South, Newbury, VT" No match in OSM, but a different address exists <5m away: "6253 U.S. Route 5 South, Newbury, VT" -->
-    <tag k="addr:city" v="Newbury"/>
+    <!-- conflict: "6337 U.S. Route 5 South, , VT" No match in OSM, but a different address exists <5m away: "6253 U.S. Route 5 South, Newbury, VT" -->
     <tag k="addr:housenumber" v="6337"/>
     <tag k="addr:street" v="U.S. Route 5 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310651"/>
   </node>
-  <node id="-1504" visible="true" lat="44.05002608" lon="-72.15138967">
-    <!-- conflict: "3236 Wrights Mountain Road, Newbury, VT" Fuzzy match to "3236 Wrights Mountain Road, Bradford, VT" -->
-    <tag k="addr:city" v="Newbury"/>
-    <tag k="addr:housenumber" v="3236"/>
-    <tag k="addr:street" v="Wrights Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617806"/>
-  </node>
-  <node id="-1505" visible="true" lat="44.04960444" lon="-72.14997821">
-    <!-- conflict: "3316 Wrights Mountain Road, Newbury, VT" Fuzzy match to "3316 Wrights Mountain Road, Bradford, VT" -->
-    <tag k="addr:city" v="Newbury"/>
-    <tag k="addr:housenumber" v="3316"/>
-    <tag k="addr:street" v="Wrights Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617807"/>
-  </node>
   <node id="-1528" visible="true" lat="44.17584023" lon="-72.11352519">
-    <!-- conflict: "4456 U.S. Route 302, Newbury, VT" Fuzzy match to "4456 US Route 302, Newbury, VT" -->
-    <tag k="addr:city" v="Newbury"/>
+    <!-- conflict: "4456 U.S. Route 302, , VT" Fuzzy match to "4456 US Route 302, Newbury, VT" -->
     <tag k="addr:housenumber" v="4456"/>
     <tag k="addr:street" v="U.S. Route 302"/>
     <tag k="addr:state" v="VT"/>

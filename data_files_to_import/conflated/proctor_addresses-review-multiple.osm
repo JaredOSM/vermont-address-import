@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-395" visible="true" lat="43.6607725" lon="-73.03571887">
-    <!-- multiple: "29 Main Street, Proctor, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Proctor"/>
+    <!-- multiple: "29 Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="194481"/>
   </node>
+  <node id="-434" visible="true" lat="43.65996826" lon="-73.0466791">
+    <!-- multiple: "17 Center Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Center Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="194527"/>
+  </node>
   <node id="-561" visible="true" lat="43.65776466" lon="-73.03194911">
-    <!-- multiple: "45 South Street, Proctor, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Proctor"/>
+    <!-- multiple: "45 South Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="South Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="194667"/>
+  </node>
+  <node id="-571" visible="true" lat="43.65741475" lon="-73.04344569">
+    <!-- multiple: "60 West Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="West Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="194678"/>
   </node>
 </osm>

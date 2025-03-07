@@ -1,24 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-552" visible="true" lat="44.45383523" lon="-72.01476516">
+    <!-- offset: "81 Hill Street, , VT" Significant offset - 8860.1m -->
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Hill Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="244715"/>
+  </node>
   <node id="-1146" visible="true" lat="44.42756929" lon="-71.97644889">
-    <!-- offset: "2176 Portland Street, Saint Johnsbury, VT" Significant offset - 106.9m -->
-    <tag k="addr:city" v="Saint Johnsbury"/>
+    <!-- offset: "2176 Portland Street, , VT" Significant offset - 106.9m -->
     <tag k="addr:housenumber" v="2176"/>
     <tag k="addr:street" v="Portland Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245376"/>
   </node>
+  <node id="-1214" visible="true" lat="44.42671219" lon="-72.01205218">
+    <!-- offset: "173 School Street, , VT" Significant offset - 9622.6m -->
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="245452"/>
+  </node>
   <node id="-2285" visible="true" lat="44.41650764" lon="-72.02485079">
-    <!-- offset: "257 Western Avenue, Saint Johnsbury, VT" Significant offset - 102.6m -->
-    <tag k="addr:city" v="Saint Johnsbury"/>
+    <!-- offset: "257 Western Avenue, , VT" Significant offset - 102.6m -->
     <tag k="addr:housenumber" v="257"/>
     <tag k="addr:street" v="Western Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246658"/>
   </node>
+  <node id="-2741" visible="true" lat="44.41656136" lon="-72.01933564">
+    <!-- offset: "1000 Main Street, , VT" Significant offset - 285.2m -->
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="247170"/>
+  </node>
+  <node id="-2742" visible="true" lat="44.41622707" lon="-72.01930016">
+    <!-- offset: "1000 Main Street, , VT" Significant offset - 257.7m -->
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="247171"/>
+  </node>
   <node id="-3080" visible="true" lat="44.43153776" lon="-71.9614525">
-    <!-- offset: "100 U.S. Route 2 East, Saint Johnsbury, VT" Significant offset - 116.8m -->
-    <tag k="addr:city" v="Saint Johnsbury"/>
+    <!-- offset: "100 U.S. Route 2 East, , VT" Significant offset - 116.8m -->
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:street" v="U.S. Route 2 East"/>
     <tag k="addr:state" v="VT"/>

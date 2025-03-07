@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-1123" visible="true" lat="43.61691549" lon="-72.99125449">
-    <!-- offset: "2 Oak Street Extension, Rutland City, VT" Significant offset - 950.2m -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Oak Street Extension"/>
+  <node id="-1013" visible="true" lat="43.61762656" lon="-72.95461565">
+    <!-- offset: "22 Stratton Road, Rutland, VT" Significant offset - 132m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Stratton Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="208520"/>
+    <tag k="ref:vcgi:esiteid" v="208408"/>
+  </node>
+  <node id="-4834" visible="true" lat="43.59948696" lon="-73.00118468">
+    <!-- offset: "71 Clement Road, Rutland, VT" Significant offset - 120.3m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Clement Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212320"/>
+  </node>
+  <node id="-4851" visible="true" lat="43.59925002" lon="-73.00260702">
+    <!-- offset: "71 Clement Road, Rutland, VT" Significant offset - 200.1m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Clement Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212337"/>
+  </node>
+  <node id="-6193" visible="true" lat="43.6178941" lon="-72.9567293">
+    <!-- offset: "8 Stratton Road, Rutland, VT" Significant offset - 189.8m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Stratton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620698"/>
   </node>
 </osm>

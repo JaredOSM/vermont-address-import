@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-968" visible="true" lat="44.93907422" lon="-73.03021242">
+    <!-- offset: "83 Meadow Lane, , VT" Significant offset - 6197.5m -->
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="127372"/>
+  </node>
   <node id="-1656" visible="true" lat="44.92697476" lon="-72.96928335">
-    <!-- offset: "57 Raymo Drive, Highgate, VT" Significant offset - 108.9m -->
-    <tag k="addr:city" v="Highgate"/>
+    <!-- offset: "57 Raymo Drive, , VT" Significant offset - 108.9m -->
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="Raymo Drive"/>
     <tag k="addr:state" v="VT"/>

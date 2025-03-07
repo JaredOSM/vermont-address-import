@@ -1,715 +1,579 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-196" visible="true" lat="43.62716153" lon="-72.97629213">
-    <!-- conflict: "261 North Main Street, Rutland City, VT" Fuzzy match to "261 North Main Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="261"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="207586"/>
-  </node>
   <node id="-201" visible="true" lat="43.62682152" lon="-72.97477803">
-    <!-- conflict: "260 North Main Street, Rutland City, VT" Fuzzy match to "260 North Main Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "260 North Main Street, Rutland, VT" Fuzzy match to "260 North Main Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="260"/>
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="207591"/>
   </node>
-  <node id="-207" visible="true" lat="43.62681042" lon="-72.97616611">
-    <!-- conflict: "259 North Main Street, Rutland City, VT" Fuzzy match to "259 North Main Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="259"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="207597"/>
-  </node>
   <node id="-234" visible="true" lat="43.62588987" lon="-72.98663745">
-    <!-- conflict: "275 Grove Street, Rutland City, VT" Fuzzy match to "275 Grove Street, Rutland, " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "275 Grove Street, Rutland, VT" Fuzzy match to "275 Grove Street, Rutland, " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="275"/>
     <tag k="addr:street" v="Grove Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="207626"/>
   </node>
   <node id="-308" visible="true" lat="43.62438201" lon="-72.9758377">
-    <!-- conflict: "217 North Main Street, Rutland City, VT" Fuzzy match to "217 North Main Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "217 North Main Street, Rutland, VT" Fuzzy match to "217 North Main Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="217"/>
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="207700"/>
   </node>
-  <node id="-944" visible="true" lat="43.61796188" lon="-72.97362518">
-    <!-- conflict: "138 North Main Street, Rutland City, VT" Fuzzy match to "138 North Main Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="138"/>
+  <node id="-858" visible="true" lat="43.61862338" lon="-72.97456564">
+    <!-- conflict: "145 North Main Street, Rutland, VT" Fuzzy match to "145 North Main Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="145"/>
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="208338"/>
+    <tag k="ref:vcgi:esiteid" v="208252"/>
   </node>
-  <node id="-971" visible="true" lat="43.61796129" lon="-72.96191269">
-    <!-- conflict: "117 Temple Street, Rutland City, VT" Fuzzy match to "117 Temple Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="117"/>
-    <tag k="addr:street" v="Temple Street"/>
+  <node id="-998" visible="true" lat="43.6174119" lon="-72.95756011">
+    <!-- conflict: "194 Woodstock Avenue, Rutland, VT" Fuzzy match to "194 Woodstock Avenue, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="194"/>
+    <tag k="addr:street" v="Woodstock Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="208365"/>
+    <tag k="ref:vcgi:esiteid" v="208393"/>
   </node>
-  <node id="-1013" visible="true" lat="43.61762656" lon="-72.95461565">
-    <!-- conflict: "22 Stratton Road, Rutland City, VT" Fuzzy match to "22 Stratton Road, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Stratton Road"/>
+  <node id="-1123" visible="true" lat="43.61691549" lon="-72.99125449">
+    <!-- conflict: "2 Oak Street Extension, Rutland, VT" Fuzzy match to "2 Oak Street Extension, , " -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Oak Street Extension"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="208408"/>
-  </node>
-  <node id="-1101" visible="true" lat="43.61689473" lon="-72.97668973">
-    <!-- conflict: "112 Lincoln Avenue, Rutland City, VT" Fuzzy match to "112 Lincoln Avenue, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:street" v="Lincoln Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="208498"/>
-  </node>
-  <node id="-1354" visible="true" lat="43.61558711" lon="-72.98332812">
-    <!-- conflict: "97 Crescent Street, Rutland City, VT" Fuzzy match to "97 Crescent Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="97"/>
-    <tag k="addr:street" v="Crescent Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="208754"/>
+    <tag k="ref:vcgi:esiteid" v="208520"/>
   </node>
   <node id="-1439" visible="true" lat="43.61532352" lon="-72.96278097">
-    <!-- conflict: "125 Woodstock Avenue, Rutland City, VT" Fuzzy match to "125 Woodstock Avenue, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "125 Woodstock Avenue, Rutland, VT" Fuzzy match to "125 Woodstock Avenue, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="125"/>
     <tag k="addr:street" v="Woodstock Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="208839"/>
   </node>
   <node id="-1503" visible="true" lat="43.61489297" lon="-72.96342658">
-    <!-- conflict: "115 Woodstock Avenue, Rutland City, VT" Fuzzy match to "115 Woodstock Avenue, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "115 Woodstock Avenue, Rutland, VT" Fuzzy match to "115 Woodstock Avenue, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="115"/>
     <tag k="addr:street" v="Woodstock Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="208903"/>
   </node>
-  <node id="-1953" visible="true" lat="43.61285747" lon="-72.9883686">
-    <!-- conflict: "88 Cleveland Avenue, Rutland City, VT" Fuzzy match to "88 Cleveland Avenue, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Cleveland Avenue"/>
+  <node id="-1615" visible="true" lat="43.61432209" lon="-72.96421622">
+    <!-- conflict: "99 Woodstock Avenue, Rutland, VT" Fuzzy match to "99 Woodstock Avenue, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:street" v="Woodstock Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="209357"/>
+    <tag k="ref:vcgi:esiteid" v="209016"/>
   </node>
-  <node id="-2037" visible="true" lat="43.61245243" lon="-72.98110189">
-    <!-- conflict: "96 Grove Street, Rutland City, VT" Fuzzy match to "96 Grove Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="96"/>
-    <tag k="addr:street" v="Grove Street"/>
+  <node id="-1890" visible="true" lat="43.6130173" lon="-72.96508635">
+    <!-- conflict: "86 Woodstock Avenue, Rutland, VT" Fuzzy match to "86 Woodstock Avenue, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Woodstock Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="209443"/>
+    <tag k="ref:vcgi:esiteid" v="209293"/>
   </node>
   <node id="-2172" visible="true" lat="43.61195373" lon="-72.98719024">
-    <!-- conflict: "137 Library Avenue, Rutland City, VT" Fuzzy match to "137 Library Avenue, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "137 Library Avenue, Rutland, VT" Fuzzy match to "137 Library Avenue, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="137"/>
     <tag k="addr:street" v="Library Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="209581"/>
   </node>
   <node id="-2260" visible="true" lat="43.61156992" lon="-72.9875227">
-    <!-- conflict: "65 Baxter Street, Rutland City, VT" Fuzzy match to "65 Baxter Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "65 Baxter Street, Rutland, VT" Fuzzy match to "65 Baxter Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:street" v="Baxter Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="209670"/>
   </node>
-  <node id="-2282" visible="true" lat="43.6115873" lon="-72.97243032">
-    <!-- conflict: "46 North Main Street, Rutland City, VT" Fuzzy match to "46 North Main Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="209692"/>
-  </node>
   <node id="-2371" visible="true" lat="43.61122894" lon="-72.98675537">
-    <!-- conflict: "143 Maple Street, Rutland City, VT" Fuzzy match to "143 Maple Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "143 Maple Street, Rutland, VT" Fuzzy match to "143 Maple Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="143"/>
     <tag k="addr:street" v="Maple Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="209782"/>
   </node>
   <node id="-2874" visible="true" lat="43.60961532" lon="-72.98110198">
-    <!-- conflict: "81 State Street, Rutland City, VT" Fuzzy match to "81 State Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "81 State Street, Rutland, VT" Fuzzy match to "81 State Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="81"/>
     <tag k="addr:street" v="State Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="210299"/>
   </node>
-  <node id="-2898" visible="true" lat="43.60961545" lon="-72.97535848">
-    <!-- conflict: "18 Lincoln Avenue, Rutland City, VT" Fuzzy match to "18 Lincoln Avenue, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Lincoln Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210323"/>
-  </node>
   <node id="-3025" visible="true" lat="43.60919944" lon="-72.97293265">
-    <!-- conflict: "5 North Main Street, Rutland City, VT" Fuzzy match to "5 Main Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "5 North Main Street, Rutland, VT" Fuzzy match to "5 Main Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="210456"/>
   </node>
   <node id="-3036" visible="true" lat="43.60905838" lon="-72.98657226">
-    <!-- conflict: "145 State Street, Rutland City, VT" Fuzzy match to "145 State Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "145 State Street, Rutland, VT" Fuzzy match to "145 State Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="145"/>
     <tag k="addr:street" v="State Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="210467"/>
   </node>
+  <node id="-3051" visible="true" lat="43.60895154" lon="-72.98261677">
+    <!-- conflict: "100 State Street, Rutland, VT" Fuzzy match to "100 State Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="State Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="210483"/>
+  </node>
   <node id="-3174" visible="true" lat="43.60854721" lon="-72.96918487">
-    <!-- conflict: "41 East Street, Rutland City, VT" Fuzzy match to "41 East Center Street, Rutland City, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "41 East Street, Rutland, VT" Fuzzy match to "41 East Center Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="41"/>
     <tag k="addr:street" v="East Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="210610"/>
   </node>
-  <node id="-3266" visible="true" lat="43.60823747" lon="-72.9798703">
-    <!-- conflict: "117 West Street, Rutland City, VT" Fuzzy match to "117 West Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="117"/>
-    <tag k="addr:street" v="West Street"/>
+  <node id="-3231" visible="true" lat="43.60832214" lon="-72.9682312">
+    <!-- conflict: "41 East Center Street, Rutland, VT" Fuzzy match to "41 East Center Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="East Center Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210706"/>
+    <tag k="ref:vcgi:esiteid" v="210668"/>
   </node>
   <node id="-3275" visible="true" lat="43.60803999" lon="-72.97384167">
-    <!-- conflict: "7 Court Square, Rutland City, VT" Fuzzy match to "7 Court Square, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "7 Court Square, Rutland, VT" Fuzzy match to "7 Court Square, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Court Square"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="210716"/>
   </node>
-  <node id="-3298" visible="true" lat="43.60794304" lon="-72.97735072">
-    <!-- conflict: "60 West Street, Rutland City, VT" Fuzzy match to "60 West Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="West Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210740"/>
-  </node>
-  <node id="-3313" visible="true" lat="43.60791176" lon="-72.98238017">
-    <!-- conflict: "173 West Street, Rutland City, VT" Fuzzy match to "173 West Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="173"/>
-    <tag k="addr:street" v="West Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210756"/>
-  </node>
   <node id="-3341" visible="true" lat="43.60771297" lon="-72.98560885">
-    <!-- conflict: "251 West Street, Rutland City, VT" Fuzzy match to "251 West Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "251 West Street, Rutland, VT" Fuzzy match to "251 West Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="251"/>
     <tag k="addr:street" v="West Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="210784"/>
   </node>
-  <node id="-3345" visible="true" lat="43.60772914" lon="-72.97162803">
-    <!-- conflict: "16 South Main Street, Rutland City, VT" Fuzzy match to "16 South Main Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210788"/>
-  </node>
-  <node id="-3365" visible="true" lat="43.60763653" lon="-72.97504648">
-    <!-- conflict: "8 Court Street, Rutland City, VT" Fuzzy match to "8 Court Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Court Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210808"/>
-  </node>
   <node id="-3381" visible="true" lat="43.60743943" lon="-72.98272338">
-    <!-- conflict: "178 West Street, Rutland City, VT" Fuzzy match to "178 West Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "178 West Street, Rutland, VT" Fuzzy match to "178 West Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="178"/>
     <tag k="addr:street" v="West Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="210825"/>
   </node>
-  <node id="-3431" visible="true" lat="43.60728836" lon="-72.97745513">
-    <!-- conflict: "24 Wales Street, Rutland City, VT" Fuzzy match to "24 Wales Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Wales Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210875"/>
-  </node>
-  <node id="-3447" visible="true" lat="43.60723495" lon="-72.97525787">
-    <!-- conflict: "10 Court Street, Rutland City, VT" Fuzzy match to "10 Court Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Court Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210891"/>
-  </node>
-  <node id="-3488" visible="true" lat="43.60695746" lon="-72.97286018">
-    <!-- conflict: "104 Center Street, Rutland City, VT" Fuzzy match to "104 Center Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="104"/>
-    <tag k="addr:street" v="Center Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210934"/>
-  </node>
-  <node id="-3491" visible="true" lat="43.60715106" lon="-72.97629063">
-    <!-- conflict: "81 Center Street, Rutland City, VT" Fuzzy match to "81 Center Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:street" v="Center Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210937"/>
-  </node>
-  <node id="-3569" visible="true" lat="43.60667785" lon="-72.97920427">
-    <!-- conflict: "17 Center Street, Rutland City, VT" Fuzzy match to "17 Center Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Center Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="211016"/>
-  </node>
   <node id="-3628" visible="true" lat="43.60630685" lon="-72.97762496">
-    <!-- conflict: "51 Wales Street, Rutland City, VT" Fuzzy match to "51 Wales Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "51 Wales Street, Rutland, VT" Fuzzy match to "51 Wales Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="51"/>
     <tag k="addr:street" v="Wales Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="211077"/>
   </node>
-  <node id="-3927" visible="true" lat="43.60493579" lon="-72.99994887">
-    <!-- conflict: "411 West Street, Rutland City, VT" Fuzzy match to "411 West Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="411"/>
+  <node id="-3791" visible="true" lat="43.60554475" lon="-72.99687399">
+    <!-- conflict: "377 West Street, Rutland, VT" Fuzzy match to "377 West Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="377"/>
     <tag k="addr:street" v="West Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="211377"/>
+    <tag k="ref:vcgi:esiteid" v="211241"/>
+  </node>
+  <node id="-3851" visible="true" lat="43.60519348" lon="-72.99427023">
+    <!-- conflict: "360 West Street, Rutland, VT" Fuzzy match to "360 West Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="360"/>
+    <tag k="addr:street" v="West Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="211301"/>
   </node>
   <node id="-3989" visible="true" lat="43.60471588" lon="-72.9769274">
-    <!-- conflict: "108 Wales Street, Rutland City, VT" Fuzzy match to "108 Wales Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "108 Wales Street, Rutland, VT" Fuzzy match to "108 Wales Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="108"/>
     <tag k="addr:street" v="Wales Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="211439"/>
   </node>
+  <node id="-4132" visible="true" lat="43.60400697" lon="-73.00333078">
+    <!-- conflict: "446 West Street, Rutland, VT" Fuzzy match to "446 West Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="446"/>
+    <tag k="addr:street" v="West Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="211589"/>
+  </node>
   <node id="-4221" visible="true" lat="43.60367506" lon="-72.97418293">
-    <!-- conflict: "61 Pleasant Street, Rutland City, VT" Fuzzy match to "61 Pleasant Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "61 Pleasant Street, Rutland, VT" Fuzzy match to "61 Pleasant Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="61"/>
     <tag k="addr:street" v="Pleasant Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="211679"/>
   </node>
-  <node id="-4300" visible="true" lat="43.60311751" lon="-72.9845511">
-    <!-- conflict: "127 Convent Avenue, Rutland City, VT" Fuzzy match to "127 Convent Avenue, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="127"/>
-    <tag k="addr:street" v="Convent Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="211761"/>
-  </node>
   <node id="-4344" visible="true" lat="43.60280227" lon="-72.9785614">
-    <!-- conflict: "65 River Street, Rutland City, VT" Fuzzy match to "65 River Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "65 River Street, Rutland, VT" Fuzzy match to "65 River Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:street" v="River Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="211805"/>
   </node>
-  <node id="-4377" visible="true" lat="43.60220246" lon="-72.98539143">
-    <!-- conflict: "134 Convent Avenue, Rutland City, VT" Fuzzy match to "134 Convent Avenue, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="134"/>
-    <tag k="addr:street" v="Convent Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="211842"/>
-  </node>
-  <node id="-4685" visible="true" lat="43.60052408" lon="-73.00091192">
-    <!-- conflict: "100 Community Drive, Rutland City, VT" No match in OSM, but a different address exists <5m away: "71 Clement Road, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="Community Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="212163"/>
-  </node>
   <node id="-4719" visible="true" lat="43.60037826" lon="-72.97453412">
-    <!-- conflict: "1 Scale Avenue, Rutland City, VT" Fuzzy match to "1 Scale Avenue, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "1 Scale Avenue, Rutland, VT" Fuzzy match to "1 Scale Avenue, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Scale Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="212199"/>
   </node>
-  <node id="-4779" visible="true" lat="43.60020514" lon="-72.96953983">
-    <!-- conflict: "120 South Main Street, Rutland City, VT" Fuzzy match to "120 South Main Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="120"/>
+  <node id="-4757" visible="true" lat="43.60033035" lon="-72.97029876">
+    <!-- conflict: "118 South Main Street, Rutland, VT" Fuzzy match to "118 South Main Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="118"/>
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="212261"/>
+    <tag k="ref:vcgi:esiteid" v="212238"/>
   </node>
   <node id="-4817" visible="true" lat="43.59983825" lon="-72.9728012">
-    <!-- conflict: "129 Strongs Avenue, Rutland City, VT" Fuzzy match to "129 Strongs Avenue, rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "129 Strongs Avenue, Rutland, VT" Fuzzy match to "129 Strongs Avenue, rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="129"/>
     <tag k="addr:street" v="Strongs Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="212301"/>
   </node>
-  <node id="-4834" visible="true" lat="43.59948696" lon="-73.00118468">
-    <!-- conflict: "71 Clement Road, Rutland City, VT" Fuzzy match to "71 Clement Road, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Clement Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="212320"/>
-  </node>
-  <node id="-4851" visible="true" lat="43.59925002" lon="-73.00260702">
-    <!-- conflict: "71 Clement Road, Rutland City, VT" Fuzzy match to "71 Clement Road, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Clement Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="212337"/>
-  </node>
   <node id="-4856" visible="true" lat="43.5993843" lon="-72.95885467">
-    <!-- conflict: "101 Allen Street, Rutland City, VT" Fuzzy match to "101 Allen Street, Rutland, " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "101 Allen Street, Rutland, VT" Fuzzy match to "101 Allen Street, Rutland, " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="101"/>
     <tag k="addr:street" v="Allen Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="212343"/>
   </node>
+  <node id="-4857" visible="true" lat="43.5992977" lon="-72.97094475">
+    <!-- conflict: "140 Strongs Avenue, Rutland, VT" Fuzzy match to "140 Strongs Avenue, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="Strongs Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212344"/>
+  </node>
   <node id="-4897" visible="true" lat="43.59827661" lon="-72.95511734">
-    <!-- conflict: "160 Allen Street, Rutland City, VT" Fuzzy match to "160 Allen Street, Rutland, " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "160 Allen Street, Rutland, VT" Fuzzy match to "160 Allen Street, Rutland, " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="160"/>
     <tag k="addr:street" v="Allen Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="212390"/>
   </node>
   <node id="-4910" visible="true" lat="43.59819626" lon="-72.96975622">
-    <!-- conflict: "158 South Main Street, Rutland City, VT" Fuzzy match to "158 South Main Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "158 South Main Street, Rutland, VT" Fuzzy match to "158 South Main Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="158"/>
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="212406"/>
   </node>
   <node id="-4976" visible="true" lat="43.59749472" lon="-72.96976323">
-    <!-- conflict: "162 South Main Street, Rutland City, VT" Fuzzy match to "162 South Main Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "162 South Main Street, Rutland, VT" Fuzzy match to "162 South Main Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="162"/>
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="212486"/>
   </node>
-  <node id="-5059" visible="true" lat="43.59660339" lon="-72.96808624">
-    <!-- conflict: "19 Allen Street, Rutland City, VT" Fuzzy match to "19 Allen Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="212571"/>
-  </node>
   <node id="-5162" visible="true" lat="43.59529667" lon="-72.96921248">
-    <!-- conflict: "190 South Main Street, Rutland City, VT" No match in OSM, but a different address exists <5m away: "158 South Main Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "190 South Main Street, Rutland, VT" No match in OSM, but a different address exists <5m away: "158 South Main Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="190"/>
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="212677"/>
   </node>
-  <node id="-5188" visible="true" lat="43.5952822" lon="-72.96165009">
-    <!-- conflict: "9 Haywood Avenue, Rutland City, VT" Fuzzy match to "9 Haywood Avenue, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Haywood Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="212703"/>
-  </node>
   <node id="-5241" visible="true" lat="43.59445909" lon="-72.97763345">
-    <!-- conflict: "88 Park Street, Rutland City, VT" Fuzzy match to "88 Park Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "88 Park Street, Rutland, VT" Fuzzy match to "88 Park Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="88"/>
     <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="212756"/>
   </node>
+  <node id="-5402" visible="true" lat="43.59279765" lon="-72.96893174">
+    <!-- conflict: "228 South Main Street, Rutland, VT" Fuzzy match to "228 South Main Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="228"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212918"/>
+  </node>
   <node id="-5445" visible="true" lat="43.59244806" lon="-72.97842331">
-    <!-- conflict: "92 Park Street, Rutland City, VT" Fuzzy match to "92 Park Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "92 Park Street, Rutland, VT" Fuzzy match to "92 Park Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="92"/>
     <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="212961"/>
   </node>
+  <node id="-5458" visible="true" lat="43.59225903" lon="-72.96859359">
+    <!-- conflict: "238 South Main Street, Rutland, VT" Fuzzy match to "238 South Main Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="238"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212974"/>
+  </node>
+  <node id="-5507" visible="true" lat="43.59161227" lon="-72.98119955">
+    <!-- conflict: "134 Park Street, Rutland, VT" Fuzzy match to "134 Park Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="Park Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="213025"/>
+  </node>
+  <node id="-5512" visible="true" lat="43.59194075" lon="-72.96971093">
+    <!-- conflict: "239 South Main Street, Rutland, VT" Fuzzy match to "239 South Main Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="213030"/>
+  </node>
   <node id="-5517" visible="true" lat="43.59178841" lon="-72.967171">
-    <!-- conflict: "20 Curtis Avenue, Rutland City, VT" Fuzzy match to "20 Curtis Avenue, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "20 Curtis Avenue, Rutland, VT" Fuzzy match to "20 Curtis Avenue, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="Curtis Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="213035"/>
   </node>
   <node id="-5543" visible="true" lat="43.59088294" lon="-72.96987286">
-    <!-- conflict: "253 South Main Street, Rutland City, VT" Fuzzy match to "253 South Main Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "253 South Main Street, Rutland, VT" Fuzzy match to "253 South Main Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="253"/>
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="213062"/>
   </node>
-  <node id="-5581" visible="true" lat="43.62457938" lon="-72.97472833">
-    <!-- conflict: "230 North Main Street, Rutland City, VT" Fuzzy match to "230 North Main Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="230"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213508"/>
-  </node>
-  <node id="-5582" visible="true" lat="43.62497607" lon="-72.97407998">
-    <!-- conflict: "230 North Main Street, Rutland City, VT" Fuzzy match to "230 North Main Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="230"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213509"/>
-  </node>
-  <node id="-5583" visible="true" lat="43.62517166" lon="-72.97457885">
-    <!-- conflict: "230 North Main Street, Rutland City, VT" Fuzzy match to "230 North Main Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="230"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213510"/>
-  </node>
-  <node id="-5584" visible="true" lat="43.62515258" lon="-72.97492218">
-    <!-- conflict: "230 North Main Street, Rutland City, VT" Fuzzy match to "230 North Main Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="230"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213511"/>
-  </node>
   <node id="-5634" visible="true" lat="43.60620117" lon="-72.97930908">
-    <!-- conflict: "110 Merchants Row, Rutland City, VT" Fuzzy match to "110 Merchants Row, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "110 Merchants Row, Rutland, VT" Fuzzy match to "110 Merchants Row, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="110"/>
     <tag k="addr:street" v="Merchants Row"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="213565"/>
   </node>
   <node id="-5635" visible="true" lat="43.60624612" lon="-72.97937982">
-    <!-- conflict: "104 Merchants Row, Rutland City, VT" No match in OSM, but a different address exists <5m away: "110 Merchants Row, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "104 Merchants Row, Rutland, VT" No match in OSM, but a different address exists <5m away: "110 Merchants Row, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="104"/>
     <tag k="addr:street" v="Merchants Row"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="213566"/>
   </node>
   <node id="-5646" visible="true" lat="43.60724951" lon="-72.9806865">
-    <!-- conflict: "67 Merchants Row, Rutland City, VT" Fuzzy match to "67 Merchants Row, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "67 Merchants Row, Rutland, VT" Fuzzy match to "67 Merchants Row, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="67"/>
     <tag k="addr:street" v="Merchants Row"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="213582"/>
   </node>
   <node id="-5647" visible="true" lat="43.60739018" lon="-72.98071633">
-    <!-- conflict: "59 Merchants Row, Rutland City, VT" No match in OSM, but a different address exists <5m away: "67 Merchants Row, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "59 Merchants Row, Rutland, VT" No match in OSM, but a different address exists <5m away: "67 Merchants Row, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="59"/>
     <tag k="addr:street" v="Merchants Row"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="213583"/>
   </node>
   <node id="-5651" visible="true" lat="43.60720701" lon="-72.98158434">
-    <!-- conflict: "16 Evelyn Street, Rutland City, VT" Fuzzy match to "16 Evelyn Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "16 Evelyn Street, Rutland, VT" Fuzzy match to "16 Evelyn Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Evelyn Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="213590"/>
   </node>
   <node id="-5655" visible="true" lat="43.60633043" lon="-72.97928936">
-    <!-- conflict: "2 Center Street, Rutland City, VT" No match in OSM, but a different address exists <5m away: "110 Merchants Row, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "2 Center Street, Rutland, VT" No match in OSM, but a different address exists <5m away: "110 Merchants Row, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Center Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="213599"/>
   </node>
-  <node id="-5700" visible="true" lat="43.59843164" lon="-72.96120231">
-    <!-- conflict: "99 Allen Street, Rutland City, VT" Fuzzy match to "99 Allen Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="99"/>
-    <tag k="addr:street" v="Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213664"/>
-  </node>
   <node id="-5732" visible="true" lat="43.60267546" lon="-72.95640087">
-    <!-- conflict: "1 General Wing Road, Rutland City, VT" Fuzzy match to "1 General Wing Road, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "1 General Wing Road, Rutland, VT" Fuzzy match to "1 General Wing Road, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="General Wing Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="213700"/>
   </node>
   <node id="-5733" visible="true" lat="43.60765782" lon="-72.97918356">
-    <!-- conflict: "102 West Street, Rutland City, VT" Fuzzy match to "102 West Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "102 West Street, Rutland, VT" Fuzzy match to "102 West Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="102"/>
     <tag k="addr:street" v="West Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="213701"/>
   </node>
   <node id="-5734" visible="true" lat="43.59138422" lon="-72.96953551">
-    <!-- conflict: "241 South Main Street, Rutland City, VT" Fuzzy match to "241 South Main Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "241 South Main Street, Rutland, VT" Fuzzy match to "241 South Main Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="241"/>
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="213702"/>
   </node>
   <node id="-5755" visible="true" lat="43.60655727" lon="-72.98288949">
-    <!-- conflict: "45 Union Street, Rutland City, VT" Fuzzy match to "45 Union Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "45 Union Street, Rutland, VT" Fuzzy match to "45 Union Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Union Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="315439"/>
   </node>
   <node id="-5775" visible="true" lat="43.60713941" lon="-72.98139179">
-    <!-- conflict: "18 Evelyn Street, Rutland City, VT" No match in OSM, but a different address exists <5m away: "16 Evelyn Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "18 Evelyn Street, Rutland, VT" No match in OSM, but a different address exists <5m away: "16 Evelyn Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Evelyn Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="327458"/>
   </node>
   <node id="-5783" visible="true" lat="43.60276648" lon="-72.95967504">
-    <!-- conflict: "5 General Wing Road, Rutland City, VT" Fuzzy match to "5 General Wing Road, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "5 General Wing Road, Rutland, VT" Fuzzy match to "5 General Wing Road, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="General Wing Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328137"/>
   </node>
   <node id="-5897" visible="true" lat="43.61348436" lon="-72.96808584">
-    <!-- conflict: "1 Deer Street, Rutland City, VT" Fuzzy match to "1 Deer Street, , VT" -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "1 Deer Street, Rutland, VT" Fuzzy match to "1 Deer Street, , VT" -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Deer Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="340190"/>
   </node>
-  <node id="-5960" visible="true" lat="43.59568654" lon="-72.97658768">
-    <!-- conflict: "71 Park Street, Rutland City, VT" Fuzzy match to "71 Park Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="343829"/>
-  </node>
   <node id="-5982" visible="true" lat="43.60914166" lon="-72.9859911">
-    <!-- conflict: "141 State Street, Rutland City, VT" Fuzzy match to "141 State Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "141 State Street, Rutland, VT" Fuzzy match to "141 State Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="141"/>
     <tag k="addr:street" v="State Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343852"/>
   </node>
   <node id="-6000" visible="true" lat="43.61297605" lon="-72.98099194">
-    <!-- conflict: "67 Library Avenue, Rutland City, VT" Fuzzy match to "67 Library Avenue, Rutland, " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "67 Library Avenue, Rutland, VT" Fuzzy match to "67 Library Avenue, Rutland, " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="67"/>
     <tag k="addr:street" v="Library Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343871"/>
   </node>
+  <node id="-6028" visible="true" lat="43.60146837" lon="-72.99013709">
+    <!-- conflict: "169 River Street, Rutland, VT" Fuzzy match to "169 River Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="445143"/>
+  </node>
   <node id="-6061" visible="true" lat="43.60589648" lon="-72.97756784">
-    <!-- conflict: "77 Wales Street, Rutland City, VT" Fuzzy match to "77 Wales Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "77 Wales Street, Rutland, VT" Fuzzy match to "77 Wales Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="77"/>
     <tag k="addr:street" v="Wales Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="445195"/>
   </node>
   <node id="-6063" visible="true" lat="43.60584704" lon="-72.97888262">
-    <!-- conflict: "128 Merchants Row, Rutland City, VT" Fuzzy match to "128 Merchants Row, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "128 Merchants Row, Rutland, VT" Fuzzy match to "128 Merchants Row, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="128"/>
     <tag k="addr:street" v="Merchants Row"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="445197"/>
   </node>
+  <node id="-6109" visible="true" lat="43.61467025" lon="-72.95706057">
+    <!-- conflict: "55 Stratton Road, Rutland, VT" Fuzzy match to "55 Stratton Road, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Stratton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="445480"/>
+  </node>
+  <node id="-6127" visible="true" lat="43.61816077" lon="-72.95919614">
+    <!-- conflict: "8 Hillside Road, Rutland, VT" Fuzzy match to "8 Hillside Road, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Hillside Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451557"/>
+  </node>
+  <node id="-6150" visible="true" lat="43.61942203" lon="-72.95025153">
+    <!-- conflict: "118 Gleason Road, Rutland, VT" Fuzzy match to "118 Gleason Road, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="Gleason Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612786"/>
+  </node>
+  <node id="-6152" visible="true" lat="43.62650813" lon="-72.97266595">
+    <!-- conflict: "258 North Main Street, Rutland, VT" Fuzzy match to "258 North Main Street, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="258"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613140"/>
+  </node>
   <node id="-6180" visible="true" lat="43.6031769" lon="-72.97492819">
-    <!-- conflict: "32 Madison Street, Rutland City, VT" Fuzzy match to "32 Madison Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "32 Madison Street, Rutland, VT" Fuzzy match to "32 Madison Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="32"/>
     <tag k="addr:street" v="Madison Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617554"/>
   </node>
-  <node id="-6193" visible="true" lat="43.6178941" lon="-72.9567293">
-    <!-- conflict: "8 Stratton Road, Rutland City, VT" Fuzzy match to "8 Stratton Road, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Stratton Road"/>
+  <node id="-6221" visible="true" lat="43.60782039" lon="-72.98813806">
+    <!-- conflict: "11 Cleveland Avenue, Rutland, VT" Fuzzy match to "11 Cleveland Avenue, Rutland City, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Cleveland Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620698"/>
-  </node>
-  <node id="-6203" visible="true" lat="43.60574798" lon="-72.98170352">
-    <!-- conflict: "25 Evelyn Street, Rutland City, VT" Fuzzy match to "25 Evelyn Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Evelyn Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751319"/>
+    <tag k="ref:vcgi:esiteid" v="751544"/>
   </node>
   <node id="-6282" visible="true" lat="43.60595901" lon="-72.98271441">
-    <!-- conflict: "45 Union Street, Rutland City, VT" Fuzzy match to "45 Union Street, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "45 Union Street, Rutland, VT" Fuzzy match to "45 Union Street, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Union Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755461"/>
   </node>
   <node id="-6292" visible="true" lat="43.62665538" lon="-72.97613309">
-    <!-- conflict: "1 Field Avenue, Rutland City, VT" Fuzzy match to "1 Field Avenue, , " -->
-    <tag k="addr:city" v="Rutland City"/>
+    <!-- conflict: "1 Field Avenue, Rutland, VT" Fuzzy match to "1 Field Avenue, , " -->
+    <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Field Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757451"/>
-  </node>
-  <node id="-6312" visible="true" lat="43.60614688" lon="-72.97921703">
-    <!-- conflict: "114 Merchants Row, Rutland City, VT" Fuzzy match to "114 Merchants Row, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland City"/>
-    <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:street" v="Merchants Row"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="763438"/>
   </node>
 </osm>

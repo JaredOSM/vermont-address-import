@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-595" visible="true" lat="43.64283423" lon="-72.47781834">
-    <!-- offset: "591 High Pastures Road, Pomfret, VT" Significant offset - 102.4m -->
-    <tag k="addr:city" v="Pomfret"/>
+    <!-- offset: "591 High Pastures Road, , VT" Significant offset - 102.4m -->
     <tag k="addr:housenumber" v="591"/>
     <tag k="addr:street" v="High Pastures Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190712"/>
   </node>
   <node id="-596" visible="true" lat="43.64167094" lon="-72.48806063">
-    <!-- offset: "1 High Pastures Road, Pomfret, VT" Significant offset - 130.6m -->
-    <tag k="addr:city" v="Pomfret"/>
+    <!-- offset: "1 High Pastures Road, , VT" Significant offset - 130.6m -->
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="High Pastures Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190713"/>
+  </node>
+  <node id="-663" visible="true" lat="43.75330591" lon="-72.51949109">
+    <!-- offset: "2826 Allen Hill Road, , VT" Significant offset - 211.1m -->
+    <tag k="addr:housenumber" v="2826"/>
+    <tag k="addr:street" v="Allen Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341553"/>
+  </node>
+  <node id="-664" visible="true" lat="43.662985" lon="-72.46637209">
+    <!-- offset: "454 Sugarbush Farm Road, , VT" Significant offset - 266.9m -->
+    <tag k="addr:housenumber" v="454"/>
+    <tag k="addr:street" v="Sugarbush Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341838"/>
   </node>
 </osm>

@@ -1,40 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-736" visible="true" lat="44.36911987" lon="-72.72923329">
+    <!-- multiple: "2657 Waterbury Stowe Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2657"/>
+    <tag k="addr:street" v="Waterbury Stowe Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="273877"/>
+  </node>
+  <node id="-739" visible="true" lat="44.36919379" lon="-72.7286565">
+    <!-- multiple: "2653 Waterbury Stowe Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2653"/>
+    <tag k="addr:street" v="Waterbury Stowe Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="273880"/>
+  </node>
   <node id="-1320" visible="true" lat="44.3461729" lon="-72.7451692">
-    <!-- multiple: "758 Waterbury Stowe Road, Waterbury, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Waterbury"/>
+    <!-- multiple: "758 Waterbury Stowe Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="758"/>
     <tag k="addr:street" v="Waterbury Stowe Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274501"/>
   </node>
   <node id="-1331" visible="true" lat="44.34565456" lon="-72.74675276">
-    <!-- multiple: "713 Waterbury Stowe Road, Waterbury, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Waterbury"/>
+    <!-- multiple: "713 Waterbury Stowe Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="713"/>
     <tag k="addr:street" v="Waterbury Stowe Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274514"/>
   </node>
   <node id="-1464" visible="true" lat="44.34180993" lon="-72.76016409">
-    <!-- multiple: "52 North Main Street, Waterbury, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Waterbury"/>
+    <!-- multiple: "52 North Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274671"/>
   </node>
   <node id="-1541" visible="true" lat="44.33971357" lon="-72.7587383">
-    <!-- multiple: "28 North Main Street, Waterbury, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Waterbury"/>
+    <!-- multiple: "28 North Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="28"/>
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274773"/>
   </node>
   <node id="-1841" visible="true" lat="44.33019658" lon="-72.74781558">
-    <!-- multiple: "150 South Main Street, Waterbury, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Waterbury"/>
+    <!-- multiple: "150 South Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="150"/>
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>

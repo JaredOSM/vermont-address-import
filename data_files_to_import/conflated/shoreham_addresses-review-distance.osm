@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-480" visible="true" lat="43.88327" lon="-73.29001653">
-    <!-- offset: "200 Burgess Road, Shoreham, VT" Significant offset - 322.2m -->
-    <tag k="addr:city" v="Shoreham"/>
+    <!-- offset: "200 Burgess Road, , VT" Significant offset - 322.2m -->
     <tag k="addr:housenumber" v="200"/>
     <tag k="addr:street" v="Burgess Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225904"/>
+  </node>
+  <node id="-668" visible="true" lat="43.8529889" lon="-73.28140971">
+    <!-- offset: "7 North Orwell Road, , VT" Significant offset - 5587.8m -->
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="North Orwell Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="226094"/>
   </node>
 </osm>

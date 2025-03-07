@@ -1,56 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-339" visible="true" lat="43.80423882" lon="-73.29424411">
-    <!-- conflict: "576 Main Street, Orwell, VT" No match in OSM, but a different address exists <5m away: "600 Main Street, Orwell, VT" -->
-    <tag k="addr:city" v="Orwell"/>
+    <!-- conflict: "576 Main Street, , VT" No match in OSM, but a different address exists <5m away: "600 Main Street, Orwell, VT" -->
     <tag k="addr:housenumber" v="576"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="184278"/>
   </node>
   <node id="-344" visible="true" lat="43.80413068" lon="-73.29519863">
-    <!-- conflict: "566 Main Street, Orwell, VT" No match in OSM, but a different address exists <5m away: "582 Main Street, Orwell, VT" -->
-    <tag k="addr:city" v="Orwell"/>
+    <!-- conflict: "566 Main Street, , VT" No match in OSM, but a different address exists <5m away: "582 Main Street, Orwell, VT" -->
     <tag k="addr:housenumber" v="566"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="184283"/>
   </node>
   <node id="-345" visible="true" lat="43.80411172" lon="-73.29546504">
-    <!-- conflict: "562 Main Street, Orwell, VT" No match in OSM, but a different address exists <5m away: "568 Main Street, Orwell, VT" -->
-    <tag k="addr:city" v="Orwell"/>
+    <!-- conflict: "562 Main Street, , VT" No match in OSM, but a different address exists <5m away: "568 Main Street, Orwell, VT" -->
     <tag k="addr:housenumber" v="562"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="184284"/>
   </node>
   <node id="-353" visible="true" lat="43.80387465" lon="-73.29454854">
-    <!-- conflict: "575 Main Street, Orwell, VT" No match in OSM, but a different address exists <5m away: "599 Main Street, Orwell, VT" -->
-    <tag k="addr:city" v="Orwell"/>
+    <!-- conflict: "575 Main Street, , VT" No match in OSM, but a different address exists <5m away: "599 Main Street, Orwell, VT" -->
     <tag k="addr:housenumber" v="575"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="184293"/>
   </node>
   <node id="-718" visible="true" lat="43.84339893" lon="-73.36287473">
-    <!-- conflict: "3 Vermont Route 73, Orwell, VT" No match in OSM, but a different address exists <5m away: "3 Vt Route 73, Orwell, VT" -->
-    <tag k="addr:city" v="Orwell"/>
+    <!-- conflict: "3 Vermont Route 73, , VT" No match in OSM, but a different address exists <5m away: "3 Vt Route 73, Orwell, VT" -->
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Vermont Route 73"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="184669"/>
   </node>
   <node id="-720" visible="true" lat="43.84303322" lon="-73.36275651">
-    <!-- conflict: "5 Vermont Route 73, Orwell, VT" No match in OSM, but a different address exists <5m away: "5 Vt Route 73, Orwell, VT" -->
-    <tag k="addr:city" v="Orwell"/>
+    <!-- conflict: "5 Vermont Route 73, , VT" No match in OSM, but a different address exists <5m away: "5 Vt Route 73, Orwell, VT" -->
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Vermont Route 73"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="184671"/>
   </node>
   <node id="-870" visible="true" lat="43.84284478" lon="-73.36695945">
-    <!-- conflict: "5A Sampson Road, Orwell, VT" Fuzzy match to "5 A Sampson Road, Orwell, VT" -->
-    <tag k="addr:city" v="Orwell"/>
+    <!-- conflict: "5A Sampson Road, , VT" Fuzzy match to "5 A Sampson Road, Orwell, VT" -->
     <tag k="addr:housenumber" v="5A"/>
     <tag k="addr:street" v="Sampson Road"/>
     <tag k="addr:state" v="VT"/>

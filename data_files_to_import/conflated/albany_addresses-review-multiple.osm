@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-252" visible="true" lat="44.74186794" lon="-72.35032543">
-    <!-- multiple: "243 Vance Road East, Albany, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Albany"/>
+    <!-- multiple: "243 Vance Road East, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="243"/>
     <tag k="addr:street" v="Vance Road East"/>
     <tag k="addr:state" v="VT"/>

@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-147" visible="true" lat="44.89792447" lon="-72.05782491">
-    <!-- conflict: "1165 Vermont Route 105, Charleston, VT" No match in OSM, but a different address exists <5m away: "1155 State Route 105, , " -->
-    <tag k="addr:city" v="Charleston"/>
+    <!-- conflict: "1165 Vermont Route 105, , VT" No match in OSM, but a different address exists <5m away: "1155 State Route 105, , " -->
     <tag k="addr:housenumber" v="1165"/>
     <tag k="addr:street" v="Vermont Route 105"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="62477"/>
   </node>
-  <node id="-494" visible="true" lat="44.84304636" lon="-72.01956079">
-    <!-- conflict: "255 Center School Road, Charleston, VT" Fuzzy match to "255 Center School Road, West Charleston, VT" -->
-    <tag k="addr:city" v="Charleston"/>
-    <tag k="addr:housenumber" v="255"/>
-    <tag k="addr:street" v="Center School Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="62828"/>
-  </node>
   <node id="-529" visible="true" lat="44.83773305" lon="-71.98981337">
-    <!-- conflict: "7066 Vermont Route 105, Charleston, VT" No match in OSM, but a different address exists <5m away: " Vermont Route 105, Charleston, VT" -->
-    <tag k="addr:city" v="Charleston"/>
+    <!-- conflict: "7066 Vermont Route 105, , VT" No match in OSM, but a different address exists <5m away: " Vermont Route 105, Charleston, VT" -->
     <tag k="addr:housenumber" v="7066"/>
     <tag k="addr:street" v="Vermont Route 105"/>
     <tag k="addr:state" v="VT"/>

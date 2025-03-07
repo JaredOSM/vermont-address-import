@@ -1,32 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-973" visible="true" lat="44.81179809" lon="-73.13935851">
-    <!-- multiple: "178 McGinn Drive, Saint Albans Town, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Saint Albans Town"/>
+    <!-- multiple: "178 McGinn Drive, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="178"/>
     <tag k="addr:street" v="McGinn Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="242022"/>
   </node>
   <node id="-1183" visible="true" lat="44.80790025" lon="-73.13964587">
-    <!-- multiple: "585 Lake Road, Saint Albans Town, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Saint Albans Town"/>
+    <!-- multiple: "585 Lake Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="585"/>
     <tag k="addr:street" v="Lake Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="242242"/>
   </node>
   <node id="-1209" visible="true" lat="44.80709324" lon="-73.13927363">
-    <!-- multiple: "40 Georgia Shore Road, Saint Albans Town, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Saint Albans Town"/>
+    <!-- multiple: "40 Georgia Shore Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Georgia Shore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="242270"/>
   </node>
+  <node id="-2383" visible="true" lat="44.80203719" lon="-73.10234192">
+    <!-- multiple: "650 Industrial Park Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="650"/>
+    <tag k="addr:street" v="Industrial Park Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="243521"/>
+  </node>
+  <node id="-2756" visible="true" lat="44.7970329" lon="-73.07172195">
+    <!-- multiple: "555 Fairfax Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="555"/>
+    <tag k="addr:street" v="Fairfax Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306332"/>
+  </node>
   <node id="-3359" visible="true" lat="44.78757967" lon="-73.08452064">
-    <!-- multiple: "591 Harbor View Drive, Saint Albans Town, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Saint Albans Town"/>
+    <!-- multiple: "591 Harbor View Drive, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="591"/>
     <tag k="addr:street" v="Harbor View Drive"/>
     <tag k="addr:state" v="VT"/>

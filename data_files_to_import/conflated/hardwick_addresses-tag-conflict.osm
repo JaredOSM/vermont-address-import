@@ -1,64 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
-  <node id="-101" visible="true" lat="44.54430974" lon="-72.26791282">
-    <!-- conflict: "245 Canyon Drive, Hardwick, VT" Fuzzy match to "245 Canyon Drive, Greensboro, VT" -->
-    <tag k="addr:city" v="Hardwick"/>
-    <tag k="addr:housenumber" v="245"/>
-    <tag k="addr:street" v="Canyon Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="115546"/>
-  </node>
   <node id="-108" visible="true" lat="44.56164391" lon="-72.36441596">
-    <!-- conflict: "218 Town Farm Road, Hardwick, VT" Fuzzy match to "218 Town Farm Road, , " -->
-    <tag k="addr:city" v="Hardwick"/>
+    <!-- conflict: "218 Town Farm Road, , VT" Fuzzy match to "218 Town Farm Road, , " -->
     <tag k="addr:housenumber" v="218"/>
     <tag k="addr:street" v="Town Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="118632"/>
   </node>
   <node id="-723" visible="true" lat="44.50661266" lon="-72.36744014">
-    <!-- conflict: "127 West Church Street, Hardwick, VT" Fuzzy match to "127 Church Street, Hardwick, VT" -->
-    <tag k="addr:city" v="Hardwick"/>
+    <!-- conflict: "127 West Church Street, , VT" Fuzzy match to "127 Church Street, Hardwick, VT" -->
     <tag k="addr:housenumber" v="127"/>
     <tag k="addr:street" v="West Church Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119281"/>
   </node>
   <node id="-849" visible="true" lat="44.50459546" lon="-72.36580838">
-    <!-- conflict: "9 Mill Street, Hardwick, VT" No match in OSM, but a different address exists <5m away: "223 Mill Street, Hardwick, VT" -->
-    <tag k="addr:city" v="Hardwick"/>
+    <!-- conflict: "9 Mill Street, , VT" No match in OSM, but a different address exists <5m away: "223 Mill Street, Hardwick, VT" -->
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Mill Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119423"/>
   </node>
   <node id="-941" visible="true" lat="44.50316614" lon="-72.36887506">
-    <!-- conflict: "171 South Main Street, Hardwick, VT" No match in OSM, but a different address exists <5m away: " , Hardwick, VT" -->
-    <tag k="addr:city" v="Hardwick"/>
+    <!-- conflict: "171 South Main Street, , VT" No match in OSM, but a different address exists <5m away: " , Hardwick, VT" -->
     <tag k="addr:housenumber" v="171"/>
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119525"/>
   </node>
   <node id="-1504" visible="true" lat="44.5223212" lon="-72.30717744">
-    <!-- conflict: "90 East Church Street, Hardwick, VT" No match in OSM, but a different address exists <5m away: "88 Church Street, Location	88 Church St., East Hardwick, VT" -->
-    <tag k="addr:city" v="Hardwick"/>
+    <!-- conflict: "90 East Church Street, , VT" No match in OSM, but a different address exists <5m away: "88 Church Street, Location	88 Church St., East Hardwick, VT" -->
     <tag k="addr:housenumber" v="90"/>
     <tag k="addr:street" v="East Church Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365160"/>
   </node>
   <node id="-1509" visible="true" lat="44.47641103" lon="-72.3492505">
-    <!-- conflict: "1002 Nichols Pond Road, Hardwick, VT" Fuzzy match to "1002 Nichols Pond Road, Hardwick, " -->
-    <tag k="addr:city" v="Hardwick"/>
+    <!-- conflict: "1002 Nichols Pond Road, , VT" Fuzzy match to "1002 Nichols Pond Road, Hardwick, " -->
     <tag k="addr:housenumber" v="1002"/>
     <tag k="addr:street" v="Nichols Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="446960"/>
   </node>
   <node id="-1549" visible="true" lat="44.50565793" lon="-72.35953998">
-    <!-- conflict: "83 Slapp Hill, Hardwick, VT" Fuzzy match to "83 Slapp Hollow, Hardwick, VT" -->
-    <tag k="addr:city" v="Hardwick"/>
+    <!-- conflict: "83 Slapp Hill, , VT" Fuzzy match to "83 Slapp Hollow, Hardwick, VT" -->
     <tag k="addr:housenumber" v="83"/>
     <tag k="addr:street" v="Slapp Hill"/>
     <tag k="addr:state" v="VT"/>

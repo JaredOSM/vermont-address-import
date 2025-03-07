@@ -1,43 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
   <node id="-171" visible="true" lat="43.28343963" lon="-73.00299072">
-    <!-- conflict: "65 Emerald Lake Lane, Dorset, VT" Fuzzy match to "65 Emerald Lake Lane, , " -->
-    <tag k="addr:city" v="Dorset"/>
+    <!-- conflict: "65 Emerald Lake Lane, , VT" Fuzzy match to "65 Emerald Lake Lane, , " -->
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:street" v="Emerald Lake Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="84257"/>
   </node>
   <node id="-181" visible="true" lat="43.2804284" lon="-73.12130984">
-    <!-- conflict: "246 Danforth Drive, Dorset, VT" No match in OSM, but a different address exists <5m away: "652 Danforth Drive, Dorset, VT" -->
-    <tag k="addr:city" v="Dorset"/>
+    <!-- conflict: "246 Danforth Drive, , VT" No match in OSM, but a different address exists <5m away: "652 Danforth Drive, Dorset, VT" -->
     <tag k="addr:housenumber" v="246"/>
     <tag k="addr:street" v="Danforth Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="84267"/>
   </node>
   <node id="-514" visible="true" lat="43.25460273" lon="-73.09888226">
-    <!-- conflict: "13 Church Street, Dorset, VT" No match in OSM, but a different address exists <5m away: "3331 State Route 30, Dorset, VT" -->
-    <tag k="addr:city" v="Dorset"/>
+    <!-- conflict: "13 Church Street, , VT" No match in OSM, but a different address exists <5m away: "3331 State Route 30, Dorset, VT" -->
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Church Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="84619"/>
   </node>
   <node id="-1325" visible="true" lat="43.2133461" lon="-73.06817423">
-    <!-- conflict: "69 Vermont Route 30, Dorset, VT" No match in OSM, but a different address exists <5m away: "69 VT Route 30, Dorset, VT" -->
-    <tag k="addr:city" v="Dorset"/>
+    <!-- conflict: "69 Vermont Route 30, , VT" No match in OSM, but a different address exists <5m away: "69 VT Route 30, Dorset, VT" -->
     <tag k="addr:housenumber" v="69"/>
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="85480"/>
-  </node>
-  <node id="-1579" visible="true" lat="43.25865106" lon="-73.1232724">
-    <!-- conflict: "795 Nims Road, Dorset, VT" Fuzzy match to "795 Nims Road, Rupert, VT" -->
-    <tag k="addr:city" v="Dorset"/>
-    <tag k="addr:housenumber" v="795"/>
-    <tag k="addr:street" v="Nims Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454567"/>
   </node>
 </osm>
