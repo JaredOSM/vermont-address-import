@@ -18,7 +18,7 @@ class AddressConflator {
     // Output targets
     $osmXmlWrapper = <<<END
 <?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' generator='JOSM'>
+<osm version='0.6' generator='JOSM' upload='false'>
 </osm>
 END;
     $this->nonMatchesDoc = new DOMDocument();
