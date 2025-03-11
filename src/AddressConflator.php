@@ -131,6 +131,19 @@ END;
         return;
       }
 
+      // If the address is identical except for missing state, it's a fuzzy match.
+      if ($address['addr:housenumber'] == $nearby['housenumber']
+        && $address['addr:street'] == $this->stripPunctuation($nearby['street'])
+        && (empty($address['addr:city']) || $address['addr:city'] == $nearby['city'])
+        && empty($nearby['state'])
+      ) {
+        $res->finalize();
+        $message = $this->log('match', $inputNode, " ignoring missing state when matching to \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . '"');
+        $this->log('match', $inputNode, $message);
+        $this->append($this->matchesDoc, $inputNode, $message);
+        return;
+      }
+
       // We didn't get a precise match on all fields previously, so if these
       // are a fuzzy match, we have a conflict.
       // var_dump($this->simplifyHouseNumber($nearby['housenumber']), $this->simplifyStreet($nearby['street']));
@@ -163,7 +176,7 @@ END;
           if ( $testAddress['addr:housenumber'] == $nearby['housenumber']
             && $testAddress['addr:street'] == $nearby['street']
             && (empty($testAddress['addr:city']) || $testAddress['addr:city'] == $nearby['city'])
-            && $testAddress['addr:state'] == $nearby['state']
+            && ($testAddress['addr:state'] == $nearby['state'] OR empty($testAddress['addr:state']) OR empty($nearby['state']))
           ) {
             $nearbyIsInInput = TRUE;
             break;
