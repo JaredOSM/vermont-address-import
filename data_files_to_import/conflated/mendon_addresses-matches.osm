@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.70542245" lon="-72.82767197">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="445"/>
@@ -671,6 +671,13 @@
     <tag k="addr:street" v="Journeys End"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153426"/>
+  </node>
+  <node id="-272" visible="true" lat="43.65487118" lon="-72.927641">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="162"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153427"/>
   </node>
   <node id="-273" visible="true" lat="43.65475015" lon="-72.93041048">
     <tag k="addr:city" v="Mendon"/>

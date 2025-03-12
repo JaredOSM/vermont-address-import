@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="44.93217468" lon="-71.97509766">
     <tag k="addr:housenumber" v="1478"/>
     <tag k="addr:street" v="Valley Road"/>
@@ -468,17 +468,52 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168034"/>
   </node>
+  <node id="-311" visible="true" lat="44.90772063" lon="-72.01017802">
+    <!-- match: "257 Twin Camps, , VT"  ignoring missing state when matching to "257 Twin Camps, , " -->
+    <tag k="addr:housenumber" v="257"/>
+    <tag k="addr:street" v="Twin Camps"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168040"/>
+  </node>
   <node id="-313" visible="true" lat="44.90782749" lon="-72.01483592">
     <tag k="addr:housenumber" v="342"/>
     <tag k="addr:street" v="Hunt Shore South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168042"/>
   </node>
+  <node id="-314" visible="true" lat="44.90747018" lon="-72.00965038">
+    <!-- match: "225 Twin Camps, , VT"  ignoring missing state when matching to "225 Twin Camps, , " -->
+    <tag k="addr:housenumber" v="225"/>
+    <tag k="addr:street" v="Twin Camps"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168043"/>
+  </node>
   <node id="-315" visible="true" lat="44.90744796" lon="-72.01517088">
     <tag k="addr:housenumber" v="324"/>
     <tag k="addr:street" v="Hunt Shore South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168044"/>
+  </node>
+  <node id="-317" visible="true" lat="44.90708979" lon="-72.00796075">
+    <!-- match: "7833 Vermont Route 111, , VT"  ignoring missing state when matching to "7833 Vermont Route 111, , " -->
+    <tag k="addr:housenumber" v="7833"/>
+    <tag k="addr:street" v="Vermont Route 111"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168046"/>
+  </node>
+  <node id="-319" visible="true" lat="44.90714332" lon="-72.00850943">
+    <!-- match: "201 Twin Camps, , VT"  ignoring missing state when matching to "201 Twin Camps, , " -->
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:street" v="Twin Camps"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168048"/>
+  </node>
+  <node id="-321" visible="true" lat="44.90698725" lon="-72.00724967">
+    <!-- match: "7831 Vermont Route 111, , VT"  ignoring missing state when matching to "7831 Vermont Route 111, , " -->
+    <tag k="addr:housenumber" v="7831"/>
+    <tag k="addr:street" v="Vermont Route 111"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168050"/>
   </node>
   <node id="-322" visible="true" lat="44.90704937" lon="-72.01555554">
     <tag k="addr:housenumber" v="228"/>
@@ -816,11 +851,46 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168185"/>
   </node>
+  <node id="-467" visible="true" lat="44.89481182" lon="-71.97398296">
+    <!-- match: "5175 Vermont Route 111, , VT"  ignoring missing state when matching to "5175 Vermont Route 111, , " -->
+    <tag k="addr:housenumber" v="5175"/>
+    <tag k="addr:street" v="Vermont Route 111"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168198"/>
+  </node>
   <node id="-469" visible="true" lat="44.8943655" lon="-71.95496288">
     <tag k="addr:housenumber" v="178"/>
     <tag k="addr:street" v="Upland Acres"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168200"/>
+  </node>
+  <node id="-470" visible="true" lat="44.8943121" lon="-71.9737312">
+    <!-- match: "5173 Vermont Route 111, , VT"  ignoring missing state when matching to "5173 Vermont Route 111, , " -->
+    <tag k="addr:housenumber" v="5173"/>
+    <tag k="addr:street" v="Vermont Route 111"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168201"/>
+  </node>
+  <node id="-495" visible="true" lat="44.8932745" lon="-71.97231976">
+    <!-- match: "108 Lay Drive, , VT"  ignoring missing state when matching to "108 Lay Drive, , " -->
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Lay Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168226"/>
+  </node>
+  <node id="-507" visible="true" lat="44.89262219" lon="-71.9732124">
+    <!-- match: "182 Lay Drive, , VT"  ignoring missing state when matching to "182 Lay Drive, , " -->
+    <tag k="addr:housenumber" v="182"/>
+    <tag k="addr:street" v="Lay Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168238"/>
+  </node>
+  <node id="-519" visible="true" lat="44.8921669" lon="-71.97174413">
+    <!-- match: "103 Lay Drive, , VT"  ignoring missing state when matching to "103 Lay Drive, , " -->
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:street" v="Lay Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168251"/>
   </node>
   <node id="-525" visible="true" lat="44.89102383" lon="-71.9662315">
     <tag k="addr:housenumber" v="4838"/>
@@ -828,17 +898,38 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168257"/>
   </node>
+  <node id="-528" visible="true" lat="44.89007856" lon="-71.97245849">
+    <!-- match: "218 Lewis Road, , VT"  ignoring missing state when matching to "218 Lewis Road, , " -->
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="Lewis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168260"/>
+  </node>
   <node id="-529" visible="true" lat="44.89005857" lon="-71.96141853">
     <tag k="addr:housenumber" v="4644"/>
     <tag k="addr:street" v="Vermont Route 111"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168261"/>
   </node>
+  <node id="-531" visible="true" lat="44.88984509" lon="-71.97227398">
+    <!-- match: "246 Lewis Road, , VT"  ignoring missing state when matching to "246 Lewis Road, , " -->
+    <tag k="addr:housenumber" v="246"/>
+    <tag k="addr:street" v="Lewis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168263"/>
+  </node>
   <node id="-532" visible="true" lat="44.88945733" lon="-71.96108894">
     <tag k="addr:housenumber" v="4642"/>
     <tag k="addr:street" v="Vermont Route 111"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168264"/>
+  </node>
+  <node id="-533" visible="true" lat="44.88930729" lon="-71.9720151">
+    <!-- match: "285 Lewis Road, , VT"  ignoring missing state when matching to "285 Lewis Road, , " -->
+    <tag k="addr:housenumber" v="285"/>
+    <tag k="addr:street" v="Lewis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168265"/>
   </node>
   <node id="-534" visible="true" lat="44.8890173" lon="-71.96448437">
     <tag k="addr:housenumber" v="4676"/>
@@ -864,11 +955,46 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168269"/>
   </node>
+  <node id="-538" visible="true" lat="44.88772719" lon="-71.97127085">
+    <!-- match: "45 Lewis Road, , VT"  ignoring missing state when matching to "45 Lewis Road, , " -->
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Lewis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168270"/>
+  </node>
   <node id="-539" visible="true" lat="44.8877668" lon="-71.98638091">
     <tag k="addr:housenumber" v="517"/>
     <tag k="addr:street" v="Sugar Bush Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168271"/>
+  </node>
+  <node id="-540" visible="true" lat="44.8874208" lon="-71.97116499">
+    <!-- match: "745 Elliott Acres Road, , VT"  ignoring missing state when matching to "745 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="745"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168272"/>
+  </node>
+  <node id="-541" visible="true" lat="44.8872288" lon="-71.97113656">
+    <!-- match: "733 Elliott Acres Road, , VT"  ignoring missing state when matching to "733 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="733"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168273"/>
+  </node>
+  <node id="-542" visible="true" lat="44.88707344" lon="-71.97111063">
+    <!-- match: "723 Elliott Acres Road, , VT"  ignoring missing state when matching to "723 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="723"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168274"/>
+  </node>
+  <node id="-543" visible="true" lat="44.88688471" lon="-71.97107324">
+    <!-- match: "705 Elliott Acres Road, , VT"  ignoring missing state when matching to "705 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="705"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168275"/>
   </node>
   <node id="-544" visible="true" lat="44.88684965" lon="-71.98663755">
     <tag k="addr:housenumber" v="607"/>
@@ -882,11 +1008,46 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168277"/>
   </node>
+  <node id="-546" visible="true" lat="44.88651045" lon="-71.97093572">
+    <!-- match: "691 Elliott Acres Road, , VT"  ignoring missing state when matching to "691 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="691"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168278"/>
+  </node>
   <node id="-548" visible="true" lat="44.88626" lon="-71.98541405">
     <tag k="addr:housenumber" v="711"/>
     <tag k="addr:street" v="Sugar Bush Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168280"/>
+  </node>
+  <node id="-549" visible="true" lat="44.88635232" lon="-71.97032614">
+    <!-- match: "662 Elliott Acres Road, , VT"  ignoring missing state when matching to "662 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="662"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168281"/>
+  </node>
+  <node id="-550" visible="true" lat="44.88666597" lon="-71.97099665">
+    <!-- match: "693 Elliott Acres Road, , VT"  ignoring missing state when matching to "693 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="693"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168282"/>
+  </node>
+  <node id="-551" visible="true" lat="44.88576652" lon="-71.97061534">
+    <!-- match: "629 Elliott Acres Road, , VT"  ignoring missing state when matching to "629 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="629"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168283"/>
+  </node>
+  <node id="-552" visible="true" lat="44.88537255" lon="-71.97004194">
+    <!-- match: "600 Elliott Acres Road, , VT"  ignoring missing state when matching to "600 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="600"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168284"/>
   </node>
   <node id="-553" visible="true" lat="44.88497858" lon="-71.9870103">
     <tag k="addr:housenumber" v="678"/>
@@ -894,17 +1055,101 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168285"/>
   </node>
+  <node id="-554" visible="true" lat="44.88528863" lon="-71.97064424">
+    <!-- match: "589 Elliott Acres Road, , VT"  ignoring missing state when matching to "589 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="589"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168286"/>
+  </node>
   <node id="-555" visible="true" lat="44.88482284" lon="-71.89555358">
     <tag k="addr:housenumber" v="2996"/>
     <tag k="addr:street" v="Vermont Route 114"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168287"/>
   </node>
+  <node id="-556" visible="true" lat="44.8849742" lon="-71.97072586">
+    <!-- match: "553 Elliott Acres Road, , VT"  ignoring missing state when matching to "553 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="553"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168288"/>
+  </node>
+  <node id="-557" visible="true" lat="44.88475669" lon="-71.97078">
+    <!-- match: "551 Elliott Acres Road, , VT"  ignoring missing state when matching to "551 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="551"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168289"/>
+  </node>
+  <node id="-559" visible="true" lat="44.88464545" lon="-71.97033581">
+    <!-- match: "544 Elliott Acres Road, , VT"  ignoring missing state when matching to "544 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="544"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168291"/>
+  </node>
+  <node id="-560" visible="true" lat="44.8845355" lon="-71.97083418">
+    <!-- match: "541 Elliott Acres Road, , VT"  ignoring missing state when matching to "541 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="541"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168292"/>
+  </node>
+  <node id="-562" visible="true" lat="44.88406201" lon="-71.96864239">
+    <!-- match: "408 Elliott Acres Road, , VT"  ignoring missing state when matching to "408 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="408"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168294"/>
+  </node>
+  <node id="-563" visible="true" lat="44.8840846" lon="-71.97079601">
+    <!-- match: "511 Elliott Acres Road, , VT"  ignoring missing state when matching to "511 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="511"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168295"/>
+  </node>
+  <node id="-564" visible="true" lat="44.88392667" lon="-71.96764345">
+    <!-- match: "363 Elliott Acres Road, , VT"  ignoring missing state when matching to "363 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="363"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168296"/>
+  </node>
+  <node id="-565" visible="true" lat="44.88383312" lon="-71.97079388">
+    <!-- match: "503 Elliott Acres Road, , VT"  ignoring missing state when matching to "503 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="503"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168297"/>
+  </node>
+  <node id="-566" visible="true" lat="44.88363736" lon="-71.97083083">
+    <!-- match: "485 Elliott Acres Road, , VT"  ignoring missing state when matching to "485 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="485"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168298"/>
+  </node>
   <node id="-567" visible="true" lat="44.88311386" lon="-71.89743804">
     <tag k="addr:housenumber" v="2883"/>
     <tag k="addr:street" v="Vermont Route 114"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168299"/>
+  </node>
+  <node id="-568" visible="true" lat="44.88334103" lon="-71.96926037">
+    <!-- match: "447 Elliott Acres Road, , VT"  ignoring missing state when matching to "447 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="447"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168300"/>
+  </node>
+  <node id="-569" visible="true" lat="44.88329083" lon="-71.97083123">
+    <!-- match: "483 Elliott Acres Road, , VT"  ignoring missing state when matching to "483 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="483"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168301"/>
   </node>
   <node id="-593" visible="true" lat="44.88014221" lon="-71.89747619">
     <tag k="addr:housenumber" v="2682"/>
@@ -1476,6 +1721,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168521"/>
   </node>
+  <node id="-790" visible="true" lat="44.90780046" lon="-72.01034863">
+    <!-- match: "261 Twin Camps, , VT"  ignoring missing state when matching to "261 Twin Camps, , " -->
+    <tag k="addr:housenumber" v="261"/>
+    <tag k="addr:street" v="Twin Camps"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168524"/>
+  </node>
   <node id="-791" visible="true" lat="44.90516983" lon="-72.01558842">
     <tag k="addr:housenumber" v="102"/>
     <tag k="addr:street" v="Hunt Shore South"/>
@@ -1566,6 +1818,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168544"/>
   </node>
+  <node id="-815" visible="true" lat="44.88431616" lon="-71.9708737">
+    <!-- match: "531 Elliott Acres Road, , VT"  ignoring missing state when matching to "531 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="531"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168550"/>
+  </node>
   <node id="-820" visible="true" lat="44.90503629" lon="-72.03399194">
     <tag k="addr:housenumber" v="950"/>
     <tag k="addr:street" v="Sunset Drive"/>
@@ -1620,6 +1879,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168577"/>
   </node>
+  <node id="-844" visible="true" lat="44.88922665" lon="-71.9667024">
+    <!-- match: "4741 Vermont Route 111, , VT"  ignoring missing state when matching to "4741 Vermont Route 111, , " -->
+    <tag k="addr:housenumber" v="4741"/>
+    <tag k="addr:street" v="Vermont Route 111"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168579"/>
+  </node>
   <node id="-847" visible="true" lat="44.92443064" lon="-72.05650675">
     <tag k="addr:housenumber" v="136"/>
     <tag k="addr:street" v="Coche Brook Crossing"/>
@@ -1637,6 +1903,13 @@
     <tag k="addr:street" v="Morgan Charleston Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168585"/>
+  </node>
+  <node id="-851" visible="true" lat="44.88723784" lon="-71.96675927">
+    <!-- match: "48 Elliott Acres Road, , VT"  ignoring missing state when matching to "48 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168586"/>
   </node>
   <node id="-852" visible="true" lat="44.86202853" lon="-71.94399536">
     <tag k="addr:housenumber" v="2302"/>
@@ -1679,6 +1952,13 @@
     <tag k="addr:street" v="Hayward Hollow"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168598"/>
+  </node>
+  <node id="-864" visible="true" lat="44.89342365" lon="-71.97359731">
+    <!-- match: "5171 Vermont Route 111, , VT"  ignoring missing state when matching to "5171 Vermont Route 111, , " -->
+    <tag k="addr:housenumber" v="5171"/>
+    <tag k="addr:street" v="Vermont Route 111"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168599"/>
   </node>
   <node id="-865" visible="true" lat="44.90275772" lon="-71.96086804">
     <tag k="addr:housenumber" v="246"/>
@@ -1757,6 +2037,13 @@
     <tag k="addr:street" v="Round Top Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337898"/>
+  </node>
+  <node id="-900" visible="true" lat="44.8860618" lon="-71.970795">
+    <!-- match: "631 Elliott Acres Road, , VT"  ignoring missing state when matching to "631 Elliott Acres Road, , " -->
+    <tag k="addr:housenumber" v="631"/>
+    <tag k="addr:street" v="Elliott Acres Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338474"/>
   </node>
   <node id="-902" visible="true" lat="44.92760735" lon="-71.97519921">
     <tag k="addr:housenumber" v="1120"/>
@@ -1859,6 +2146,20 @@
     <tag k="addr:street" v="Whitehill Loop"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752739"/>
+  </node>
+  <node id="-942" visible="true" lat="44.88855266" lon="-71.97134662">
+    <!-- match: "49 Lewis Road, , VT"  ignoring missing state when matching to "49 Lewis Road, , " -->
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Lewis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753943"/>
+  </node>
+  <node id="-943" visible="true" lat="44.88888765" lon="-71.97170595">
+    <!-- match: "51 Lewis Road, , VT"  ignoring missing state when matching to "51 Lewis Road, , " -->
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Lewis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753944"/>
   </node>
   <node id="-950" visible="true" lat="44.86203535" lon="-71.93112052">
     <tag k="addr:housenumber" v="190"/>

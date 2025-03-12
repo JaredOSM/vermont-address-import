@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-106" visible="true" lat="44.8140929" lon="-72.20633723">
     <tag k="addr:city" v="Orleans"/>
     <tag k="addr:housenumber" v="17"/>
@@ -447,13 +447,6 @@
     <tag k="addr:street" v="South Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="14332"/>
-  </node>
-  <node id="-190" visible="true" lat="44.8105746" lon="-72.20238559">
-    <tag k="addr:city" v="Orleans"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Water Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="14333"/>
   </node>
   <node id="-191" visible="true" lat="44.81066766" lon="-72.19935465">
     <tag k="addr:city" v="Orleans"/>

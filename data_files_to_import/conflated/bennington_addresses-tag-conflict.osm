@@ -63,103 +63,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="16062"/>
   </node>
-  <node id="-1572" visible="true" lat="42.88527135" lon="-73.19777337">
-    <!-- conflict: "318 North Street, , VT" Fuzzy match to "318 North Street, , " -->
-    <tag k="addr:housenumber" v="318"/>
-    <tag k="addr:street" v="North Street"/>
+  <node id="-684" visible="true" lat="42.90819169" lon="-73.21849874">
+    <!-- conflict: "121 Bennington Plaza, , VT" Fuzzy match to "121 North Bennington Road, Bennington, VT" -->
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Bennington Plaza"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="17652"/>
+    <tag k="ref:vcgi:esiteid" v="16603"/>
   </node>
-  <node id="-1583" visible="true" lat="42.88510212" lon="-73.19747841">
-    <!-- conflict: "314 North Street, , VT" Fuzzy match to "314 North Street, , " -->
-    <tag k="addr:housenumber" v="314"/>
-    <tag k="addr:street" v="North Street"/>
+  <node id="-986" visible="true" lat="42.8960701" lon="-73.20523218">
+    <!-- conflict: "114 Northside Drive, , VT" No match in OSM, but a different address exists <5m away: "114 , , " -->
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Northside Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="17665"/>
-  </node>
-  <node id="-2245" visible="true" lat="42.88168943" lon="-73.1904006">
-    <!-- conflict: "410 Gage Street, , VT" Fuzzy match to "410 Gage Street, , " -->
-    <tag k="addr:housenumber" v="410"/>
-    <tag k="addr:street" v="Gage Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18385"/>
-  </node>
-  <node id="-2250" visible="true" lat="42.88167953" lon="-73.18984985">
-    <!-- conflict: "200 Division Street, , VT" Fuzzy match to "200 Division Street, , " -->
-    <tag k="addr:housenumber" v="200"/>
-    <tag k="addr:street" v="Division Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18390"/>
-  </node>
-  <node id="-2258" visible="true" lat="42.88168744" lon="-73.19084886">
-    <!-- conflict: "404 Gage Street, , VT" Fuzzy match to "404 Gage Street, , " -->
-    <tag k="addr:housenumber" v="404"/>
-    <tag k="addr:street" v="Gage Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18398"/>
-  </node>
-  <node id="-2262" visible="true" lat="42.88167702" lon="-73.19025127">
-    <!-- conflict: "412 Gage Street, , VT" Fuzzy match to "412 Gage Street, , " -->
-    <tag k="addr:housenumber" v="412"/>
-    <tag k="addr:street" v="Gage Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18403"/>
-  </node>
-  <node id="-2352" visible="true" lat="42.88130658" lon="-73.19065891">
-    <!-- conflict: "403 Gage Street, , VT" Fuzzy match to "403 Gage Street, , " -->
-    <tag k="addr:housenumber" v="403"/>
-    <tag k="addr:street" v="Gage Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18503"/>
-  </node>
-  <node id="-2353" visible="true" lat="42.88126552" lon="-73.18984243">
-    <!-- conflict: "411 Gage Street, , VT" Fuzzy match to "411 Gage Street, , " -->
-    <tag k="addr:housenumber" v="411"/>
-    <tag k="addr:street" v="Gage Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18504"/>
-  </node>
-  <node id="-2356" visible="true" lat="42.88128654" lon="-73.19053146">
-    <!-- conflict: "405 Gage Street, , VT" Fuzzy match to "405 Gage Street, , " -->
-    <tag k="addr:housenumber" v="405"/>
-    <tag k="addr:street" v="Gage Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18507"/>
-  </node>
-  <node id="-2358" visible="true" lat="42.88126861" lon="-73.19011606">
-    <!-- conflict: "409 Gage Street, , VT" Fuzzy match to "409 Gage Street, , " -->
-    <tag k="addr:housenumber" v="409"/>
-    <tag k="addr:street" v="Gage Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18509"/>
-  </node>
-  <node id="-2368" visible="true" lat="42.88127136" lon="-73.1903214">
-    <!-- conflict: "407 Gage Street, , VT" Fuzzy match to "407 Gage Street, , " -->
-    <tag k="addr:housenumber" v="407"/>
-    <tag k="addr:street" v="Gage Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18520"/>
-  </node>
-  <node id="-2424" visible="true" lat="42.88101895" lon="-73.18984138">
-    <!-- conflict: "120 Division Street, , VT" Fuzzy match to "120 Division Street, , " -->
-    <tag k="addr:housenumber" v="120"/>
-    <tag k="addr:street" v="Division Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18586"/>
-  </node>
-  <node id="-2861" visible="true" lat="42.87898156" lon="-73.19729143">
-    <!-- conflict: "126 North Street, , VT" No match in OSM, but a different address exists <5m away: "116 North Street, , " -->
-    <tag k="addr:housenumber" v="126"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="19085"/>
-  </node>
-  <node id="-2899" visible="true" lat="42.87887954" lon="-73.19732665">
-    <!-- conflict: "116 North Street, , VT" Fuzzy match to "116 North Street, , " -->
-    <tag k="addr:housenumber" v="116"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="19127"/>
+    <tag k="ref:vcgi:esiteid" v="16987"/>
   </node>
   <node id="-3055" visible="true" lat="42.87827904" lon="-73.18756265">
     <!-- conflict: "713 Main Street, , VT" No match in OSM, but a different address exists <5m away: " , Bennington, " -->
@@ -168,12 +84,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="19294"/>
   </node>
-  <node id="-3933" visible="true" lat="42.87407191" lon="-73.207508">
-    <!-- conflict: "100 Hospital Drive, , VT" Fuzzy match to "100 Hospital Drive, Bennington, " -->
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="Hospital Drive"/>
+  <node id="-3269" visible="true" lat="42.87742975" lon="-73.19518374">
+    <!-- conflict: "126 Union Street, , VT" Fuzzy match to "126 Union St, , " -->
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Union Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="20244"/>
+    <tag k="ref:vcgi:esiteid" v="19529"/>
   </node>
   <node id="-5209" visible="true" lat="42.88169101" lon="-73.19067395">
     <!-- conflict: "406 Gage Street, , VT" No match in OSM, but a different address exists <5m away: "406-408 Gage Street, Bennington, VT" -->
@@ -181,5 +97,12 @@
     <tag k="addr:street" v="Gage Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="314612"/>
+  </node>
+  <node id="-5624" visible="true" lat="42.87548485" lon="-73.18920683">
+    <!-- conflict: "148 1/2 Imperial Avenue, , VT" No match in OSM, but a different address exists <5m away: "148.5 Imperial Avenue, Bennington, VT" -->
+    <tag k="addr:housenumber" v="148 1/2"/>
+    <tag k="addr:street" v="Imperial Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338959"/>
   </node>
 </osm>

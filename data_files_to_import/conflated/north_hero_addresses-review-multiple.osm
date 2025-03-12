@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-429" visible="true" lat="44.85087585" lon="-73.26338958">
+    <!-- multiple: "6441 U.S. Route 2, North Hero, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="6441"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179220"/>
+  </node>
 </osm>

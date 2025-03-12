@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-184" visible="true" lat="42.8817329" lon="-72.55795526">
+    <!-- multiple: "1007 Putney Road, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="1007"/>
+    <tag k="addr:street" v="Putney Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="29750"/>
+  </node>
   <node id="-1213" visible="true" lat="42.85488" lon="-72.55954999">
     <!-- multiple: "210 Main Street, Brattleboro, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brattleboro"/>
@@ -32,6 +40,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32540"/>
   </node>
+  <node id="-3898" visible="true" lat="42.83947612" lon="-72.56534839">
+    <!-- multiple: "469 Canal Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="469"/>
+    <tag k="addr:street" v="Canal Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="33534"/>
+  </node>
   <node id="-4848" visible="true" lat="42.86562108" lon="-72.61589255">
     <!-- multiple: "328 Marlboro Road, Brattleboro, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brattleboro"/>
@@ -39,6 +55,14 @@
     <tag k="addr:street" v="Marlboro Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34511"/>
+  </node>
+  <node id="-6150" visible="true" lat="42.85132161" lon="-72.55773034">
+    <!-- multiple: "50 Main Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="36261"/>
   </node>
   <node id="-6366" visible="true" lat="42.86629796" lon="-72.61604335">
     <!-- multiple: "317 Marlboro Road, Brattleboro, VT" Multiple exact matches in OSM. -->

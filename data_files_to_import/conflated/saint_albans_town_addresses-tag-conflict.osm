@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-457" visible="true" lat="44.83781103" lon="-73.08215508">
+    <!-- conflict: "190 Swanton Road, , VT" No match in OSM, but a different address exists <5m away: "7 Swanton Road, St Albans, VT" -->
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Swanton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="241471"/>
+  </node>
+  <node id="-2013" visible="true" lat="44.78733325" lon="-73.09940604">
+    <!-- conflict: "423 South Main Street, , VT" No match in OSM, but a different address exists <5m away: "423 South Main St., St. Albans, VT" -->
+    <tag k="addr:housenumber" v="423"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="243125"/>
+  </node>
+  <node id="-2462" visible="true" lat="44.83554967" lon="-73.08400238">
+    <!-- conflict: "170 Swanton Road, , VT" No match in OSM, but a different address exists <5m away: " Swanton Road, St Albans, VT" -->
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Swanton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="243615"/>
+  </node>
+  <node id="-2469" visible="true" lat="44.83764609" lon="-73.08074359">
+    <!-- conflict: "183 Swanton Road, , VT" No match in OSM, but a different address exists <5m away: " Swanton Road, St Albans, VT" -->
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:street" v="Swanton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="243626"/>
+  </node>
   <node id="-3133" visible="true" lat="44.78969242" lon="-73.10329578">
     <!-- conflict: "94 Wilder Drive, , VT" No match in OSM, but a different address exists <5m away: "999 Wilder Drive, Saint Albans, VT" -->
     <tag k="addr:housenumber" v="94"/>

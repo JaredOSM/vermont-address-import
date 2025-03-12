@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.27513661" lon="-73.13176909">
     <tag k="addr:housenumber" v="3373"/>
     <tag k="addr:street" v="Baldwin Road"/>
@@ -47,6 +47,13 @@
     <tag k="addr:street" v="Turkey Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162596"/>
+  </node>
+  <node id="-108" visible="true" lat="44.27498566" lon="-73.09498936">
+    <!-- match: "501 Twin Ridge Road, , VT"  ignoring missing state when matching to "501 Twin Ridge Road, Monkton, " -->
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:street" v="Twin Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162597"/>
   </node>
   <node id="-109" visible="true" lat="44.27494706" lon="-73.0941611">
     <tag k="addr:housenumber" v="516"/>
@@ -900,6 +907,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162748"/>
   </node>
+  <node id="-259" visible="true" lat="44.25461282" lon="-73.11868021">
+    <!-- match: "4087 States Prison Hollow Road, , VT"  ignoring missing state when matching to "4087 States Prison Hollow Road, Monkton, " -->
+    <tag k="addr:housenumber" v="4087"/>
+    <tag k="addr:street" v="States Prison Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162749"/>
+  </node>
   <node id="-260" visible="true" lat="44.25487782" lon="-73.09883386">
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:street" v="Hilltop Lane"/>
@@ -917,6 +931,13 @@
     <tag k="addr:street" v="States Prison Hollow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162753"/>
+  </node>
+  <node id="-263" visible="true" lat="44.25452527" lon="-73.12378688">
+    <!-- match: "231 Monkton Ridge, , VT"  ignoring missing state when matching to "231 Monkton Ridge, , " -->
+    <tag k="addr:housenumber" v="231"/>
+    <tag k="addr:street" v="Monkton Ridge"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162754"/>
   </node>
   <node id="-264" visible="true" lat="44.25439492" lon="-73.11953902">
     <tag k="addr:housenumber" v="4109"/>
@@ -965,6 +986,13 @@
     <tag k="addr:street" v="States Prison Hollow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162762"/>
+  </node>
+  <node id="-272" visible="true" lat="44.25433031" lon="-73.09864855">
+    <!-- match: "212 Mountain Road, , VT"  ignoring missing state when matching to "212 Mountain Road, Monkton, " -->
+    <tag k="addr:housenumber" v="212"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162763"/>
   </node>
   <node id="-273" visible="true" lat="44.25376722" lon="-73.18083028">
     <tag k="addr:housenumber" v="2321"/>
@@ -1890,6 +1918,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162953"/>
   </node>
+  <node id="-456" visible="true" lat="44.23582458" lon="-73.13931274">
+    <!-- match: "261 Boro Hill Road, , VT"  ignoring missing state when matching to "261 Boro Hill Road, , " -->
+    <tag k="addr:housenumber" v="261"/>
+    <tag k="addr:street" v="Boro Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162954"/>
+  </node>
   <node id="-457" visible="true" lat="44.23540792" lon="-73.16881699">
     <tag k="addr:housenumber" v="789"/>
     <tag k="addr:street" v="Bennett Road"/>
@@ -1961,6 +1996,13 @@
     <tag k="addr:street" v="Monkton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162966"/>
+  </node>
+  <node id="-469" visible="true" lat="44.23482894" lon="-73.13896179">
+    <!-- match: "345 Boro Hill Road, , VT"  ignoring missing state when matching to "345 Boro Hill Road, Monkton, " -->
+    <tag k="addr:housenumber" v="345"/>
+    <tag k="addr:street" v="Boro Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162967"/>
   </node>
   <node id="-470" visible="true" lat="44.23483657" lon="-73.12919616">
     <tag k="addr:housenumber" v="269"/>
@@ -3156,11 +3198,25 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="163191"/>
   </node>
+  <node id="-693" visible="true" lat="44.18873799" lon="-73.17940763">
+    <!-- match: "5742 Monkton Road, , VT"  ignoring missing state when matching to "5742 Monkton Road, , " -->
+    <tag k="addr:housenumber" v="5742"/>
+    <tag k="addr:street" v="Monkton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163192"/>
+  </node>
   <node id="-694" visible="true" lat="44.18850771" lon="-73.10133693">
     <tag k="addr:housenumber" v="4792"/>
     <tag k="addr:street" v="Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="163193"/>
+  </node>
+  <node id="-695" visible="true" lat="44.18785536" lon="-73.17806174">
+    <!-- match: "5685 Monkton Road, , VT"  ignoring missing state when matching to "5685 Monkton Road, , " -->
+    <tag k="addr:housenumber" v="5685"/>
+    <tag k="addr:street" v="Monkton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163194"/>
   </node>
   <node id="-696" visible="true" lat="44.18798065" lon="-73.15507507">
     <tag k="addr:housenumber" v="821"/>
@@ -3312,6 +3368,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="163221"/>
   </node>
+  <node id="-724" visible="true" lat="44.17769014" lon="-73.17637857">
+    <!-- match: "3493 Lime Kiln Road, , VT"  ignoring missing state when matching to "3493 Lime Kiln Road, , " -->
+    <tag k="addr:housenumber" v="3493"/>
+    <tag k="addr:street" v="Lime Kiln Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163223"/>
+  </node>
   <node id="-725" visible="true" lat="44.1778576" lon="-73.15094215">
     <tag k="addr:housenumber" v="78"/>
     <tag k="addr:street" v="Parks Hurlburt Road"/>
@@ -3323,6 +3386,13 @@
     <tag k="addr:street" v="Parks Hurlburt Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="163225"/>
+  </node>
+  <node id="-727" visible="true" lat="44.17647171" lon="-73.17581939">
+    <!-- match: "3406 Lime Kiln Road, , VT"  ignoring missing state when matching to "3406 Lime Kiln Road, , " -->
+    <tag k="addr:housenumber" v="3406"/>
+    <tag k="addr:street" v="Lime Kiln Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163226"/>
   </node>
   <node id="-728" visible="true" lat="44.27249985" lon="-73.09581571">
     <tag k="addr:housenumber" v="329"/>
@@ -3461,6 +3531,20 @@
     <tag k="addr:street" v="Parks Hurlburt Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="163256"/>
+  </node>
+  <node id="-758" visible="true" lat="44.17954882" lon="-73.17530435">
+    <!-- match: "3642 Lime Kiln Road, , VT"  ignoring missing state when matching to "3642 Lime Kiln Road, , " -->
+    <tag k="addr:housenumber" v="3642"/>
+    <tag k="addr:street" v="Lime Kiln Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163259"/>
+  </node>
+  <node id="-759" visible="true" lat="44.17884359" lon="-73.17659419">
+    <!-- match: "3595 Lime Kiln Road, , VT"  ignoring missing state when matching to "3595 Lime Kiln Road, , " -->
+    <tag k="addr:housenumber" v="3595"/>
+    <tag k="addr:street" v="Lime Kiln Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163260"/>
   </node>
   <node id="-760" visible="true" lat="44.19801518" lon="-73.13273789">
     <tag k="addr:housenumber" v="398"/>
@@ -4223,6 +4307,13 @@
     <tag k="addr:street" v="Farley Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="327677"/>
+  </node>
+  <node id="-918" visible="true" lat="44.24065327" lon="-73.1242492">
+    <!-- match: "134 Farley Lane, , VT"  ignoring missing state when matching to "134 Farley Lane, Monkton, " -->
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="Farley Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="329639"/>
   </node>
   <node id="-919" visible="true" lat="44.24704818" lon="-73.12249453">
     <tag k="addr:housenumber" v="420"/>

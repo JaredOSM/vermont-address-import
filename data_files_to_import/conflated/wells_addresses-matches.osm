@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.46462776" lon="-73.18641345">
     <tag k="addr:city" v="Wells"/>
     <tag k="addr:housenumber" v="1354"/>
@@ -210,89 +210,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="277937"/>
   </node>
-  <node id="-220" visible="true" lat="43.45302489" lon="-73.2238022">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3680"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="277952"/>
-  </node>
-  <node id="-224" visible="true" lat="43.45246417" lon="-73.22672108">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3532"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="277957"/>
-  </node>
-  <node id="-227" visible="true" lat="43.45221936" lon="-73.22782155">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3477"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="277960"/>
-  </node>
-  <node id="-236" visible="true" lat="43.4515233" lon="-73.22797396">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3441"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="277971"/>
-  </node>
-  <node id="-240" visible="true" lat="43.45147705" lon="-73.22865295">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3415"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="277976"/>
-  </node>
-  <node id="-256" visible="true" lat="43.44979705" lon="-73.224523">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3378"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="277993"/>
-  </node>
-  <node id="-262" visible="true" lat="43.44911204" lon="-73.22633514">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3274"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="277999"/>
-  </node>
-  <node id="-266" visible="true" lat="43.44901263" lon="-73.22836573">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3251"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="278003"/>
-  </node>
-  <node id="-276" visible="true" lat="43.44847717" lon="-73.22621808">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3248"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="278013"/>
-  </node>
-  <node id="-301" visible="true" lat="43.44767128" lon="-73.22534055">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3192"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="278040"/>
-  </node>
   <node id="-313" visible="true" lat="43.44739985" lon="-73.16962287">
     <tag k="addr:city" v="Wells"/>
     <tag k="addr:housenumber" v="3502"/>
     <tag k="addr:street" v="Lamb Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278052"/>
-  </node>
-  <node id="-318" visible="true" lat="43.44681471" lon="-73.22787731">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3113"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="278058"/>
   </node>
   <node id="-328" visible="true" lat="43.44658832" lon="-73.20718939">
     <tag k="addr:city" v="Wells"/>
@@ -357,13 +280,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278089"/>
   </node>
-  <node id="-348" visible="true" lat="43.44558349" lon="-73.2258635">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3034"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="278090"/>
-  </node>
   <node id="-349" visible="true" lat="43.44487869" lon="-73.20403716">
     <tag k="addr:city" v="Wells"/>
     <tag k="addr:housenumber" v="117"/>
@@ -377,27 +293,6 @@
     <tag k="addr:street" v="Parker Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278093"/>
-  </node>
-  <node id="-356" visible="true" lat="43.44418723" lon="-73.22705984">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="2906"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="278098"/>
-  </node>
-  <node id="-357" visible="true" lat="43.44412367" lon="-73.22916439">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="2901"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="278099"/>
-  </node>
-  <node id="-360" visible="true" lat="43.44407967" lon="-73.22632014">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="2902"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="278102"/>
   </node>
   <node id="-373" visible="true" lat="43.44284547" lon="-73.22732433">
     <tag k="addr:city" v="Wells"/>
@@ -496,13 +391,6 @@
     <tag k="addr:street" v="Pessler Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278148"/>
-  </node>
-  <node id="-409" visible="true" lat="43.43834732" lon="-73.23183934">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="2447"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="278151"/>
   </node>
   <node id="-410" visible="true" lat="43.43888673" lon="-73.20748212">
     <tag k="addr:city" v="Wells"/>
@@ -1490,13 +1378,6 @@
     <tag k="addr:street" v="Jones Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278350"/>
-  </node>
-  <node id="-602" visible="true" lat="43.42144012" lon="-73.23780059">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="1223"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="278351"/>
   </node>
   <node id="-603" visible="true" lat="43.42165425" lon="-73.20422488">
     <tag k="addr:city" v="Wells"/>
@@ -2849,13 +2730,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338311"/>
   </node>
-  <node id="-1010" visible="true" lat="43.45202036" lon="-73.22785031">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3471"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="339060"/>
-  </node>
   <node id="-1022" visible="true" lat="43.41403571" lon="-73.13984342">
     <tag k="addr:city" v="Wells"/>
     <tag k="addr:housenumber" v="3459"/>
@@ -2890,13 +2764,6 @@
     <tag k="addr:street" v="Topaz Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="344828"/>
-  </node>
-  <node id="-1056" visible="true" lat="43.44231958" lon="-73.2289466">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="2737"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344863"/>
   </node>
   <node id="-1061" visible="true" lat="43.41830136" lon="-73.20751148">
     <tag k="addr:city" v="Wells"/>
@@ -2988,12 +2855,5 @@
     <tag k="addr:street" v="East Wells Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452629"/>
-  </node>
-  <node id="-1112" visible="true" lat="43.44910531" lon="-73.22515848">
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="3276"/>
-    <tag k="addr:street" v="Bull Frog Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="612232"/>
   </node>
 </osm>

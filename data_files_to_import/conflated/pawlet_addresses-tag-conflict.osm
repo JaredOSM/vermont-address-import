@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-140" visible="true" lat="43.37978678" lon="-73.19409286">
     <!-- conflict: "3341 Vermont Route 30, Pawlet, VT" No match in OSM, but a different address exists <5m away: "3341 Vt Route 30, Pawlet, VT" -->
     <tag k="addr:city" v="Pawlet"/>
@@ -71,6 +71,14 @@
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185349"/>
+  </node>
+  <node id="-178" visible="true" lat="43.3716887" lon="-73.13724215">
+    <!-- conflict: "432 Kelley Hill Road, Pawlet, VT" Fuzzy match to "432 Kelley Hill Road, , " -->
+    <tag k="addr:city" v="Pawlet"/>
+    <tag k="addr:housenumber" v="432"/>
+    <tag k="addr:street" v="Kelley Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="185359"/>
   </node>
   <node id="-184" visible="true" lat="43.37049498" lon="-73.18665005">
     <!-- conflict: "3758 Vermont Route 30, Pawlet, VT" No match in OSM, but a different address exists <5m away: "3758 Vt Route 30, Pawlet, VT" -->
@@ -200,14 +208,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185553"/>
   </node>
-  <node id="-264" visible="true" lat="43.3528862" lon="-73.15234375">
-    <!-- conflict: "1382 Vermont Route 133, Pawlet, VT" No match in OSM, but a different address exists <5m away: "1382 Vt Route 133, Pawlet, VT" -->
-    <tag k="addr:city" v="Pawlet"/>
-    <tag k="addr:housenumber" v="1382"/>
-    <tag k="addr:street" v="Vermont Route 133"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="185578"/>
-  </node>
   <node id="-267" visible="true" lat="43.35216723" lon="-73.18205423">
     <!-- conflict: "5170 Vermont Route 30, Pawlet, VT" No match in OSM, but a different address exists <5m away: "5170 Vt Route 30, Pawlet, VT" -->
     <tag k="addr:city" v="Pawlet"/>
@@ -248,13 +248,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185613"/>
   </node>
-  <node id="-285" visible="true" lat="43.34846878" lon="-73.16296386">
-    <!-- conflict: "733 Vermont Route 133, Pawlet, VT" No match in OSM, but a different address exists <5m away: "733 Vt Route 133, Pawlet, VT" -->
+  <node id="-284" visible="true" lat="43.3485794" lon="-73.16679382">
+    <!-- conflict: "573 Vermont Route 133, Pawlet, VT" No match in OSM, but a different address exists <5m away: "573 Vt Route 133, Pawlet, VT" -->
     <tag k="addr:city" v="Pawlet"/>
-    <tag k="addr:housenumber" v="733"/>
+    <tag k="addr:housenumber" v="573"/>
     <tag k="addr:street" v="Vermont Route 133"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="185617"/>
+    <tag k="ref:vcgi:esiteid" v="185616"/>
   </node>
   <node id="-286" visible="true" lat="43.34839416" lon="-73.16829315">
     <!-- conflict: "493 Vermont Route 133, Pawlet, VT" No match in OSM, but a different address exists <5m away: "493 Vt Route 133, Pawlet, VT" -->
@@ -327,6 +327,14 @@
     <tag k="addr:street" v="Vermont Route 133"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185630"/>
+  </node>
+  <node id="-298" visible="true" lat="43.34796032" lon="-73.17154802">
+    <!-- conflict: "306 Vermont Route 133, Pawlet, VT" No match in OSM, but a different address exists <5m away: "306 Vt Route 133, Pawlet, VT" -->
+    <tag k="addr:city" v="Pawlet"/>
+    <tag k="addr:housenumber" v="306"/>
+    <tag k="addr:street" v="Vermont Route 133"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="185631"/>
   </node>
   <node id="-301" visible="true" lat="43.34792327" lon="-73.17297363">
     <!-- conflict: "232 Vermont Route 133, Pawlet, VT" No match in OSM, but a different address exists <5m away: "232 Vt Route 133, Pawlet, VT" -->
@@ -528,14 +536,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185695"/>
   </node>
-  <node id="-356" visible="true" lat="43.34477224" lon="-73.17707799">
-    <!-- conflict: "5859 Vermont Route 30, Pawlet, VT" No match in OSM, but a different address exists <5m away: "5859 Vt Route 30, Pawlet, VT" -->
-    <tag k="addr:city" v="Pawlet"/>
-    <tag k="addr:housenumber" v="5859"/>
-    <tag k="addr:street" v="Vermont Route 30"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="185698"/>
-  </node>
   <node id="-359" visible="true" lat="43.34475379" lon="-73.17775619">
     <!-- conflict: "5866 Vermont Route 30, Pawlet, VT" No match in OSM, but a different address exists <5m away: "5866 Vt Route 30, Pawlet, VT" -->
     <tag k="addr:city" v="Pawlet"/>
@@ -583,14 +583,6 @@
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185710"/>
-  </node>
-  <node id="-369" visible="true" lat="43.34357122" lon="-73.17817024">
-    <!-- conflict: "5936 Vermont Route 30, Pawlet, VT" No match in OSM, but a different address exists <5m away: "5936 Vt Route 30, Pawlet, VT" -->
-    <tag k="addr:city" v="Pawlet"/>
-    <tag k="addr:housenumber" v="5936"/>
-    <tag k="addr:street" v="Vermont Route 30"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="185712"/>
   </node>
   <node id="-371" visible="true" lat="43.34344863" lon="-73.17678833">
     <!-- conflict: "5973 Vermont Route 30, Pawlet, VT" No match in OSM, but a different address exists <5m away: "5973 Vt Route 30, Pawlet, VT" -->

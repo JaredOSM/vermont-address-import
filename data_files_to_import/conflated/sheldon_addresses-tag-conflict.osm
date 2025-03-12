@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="44.90590756" lon="-72.92656497">
     <!-- conflict: "5605 Vermont Route 105, , VT" No match in OSM, but a different address exists <5m away: "5605 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:housenumber" v="5605"/>
@@ -210,20 +210,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223680"/>
   </node>
-  <node id="-765" visible="true" lat="44.86743235" lon="-72.87145022">
-    <!-- conflict: "191 Riley Road, , VT" Fuzzy match to "191 Riley Road, Sheldon, " -->
-    <tag k="addr:housenumber" v="191"/>
-    <tag k="addr:street" v="Riley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224003"/>
-  </node>
-  <node id="-857" visible="true" lat="44.86681403" lon="-72.87246165">
-    <!-- conflict: "240 Riley Road, , VT" Fuzzy match to "240 Riley Road, Sheldon, " -->
-    <tag k="addr:housenumber" v="240"/>
-    <tag k="addr:street" v="Riley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224114"/>
-  </node>
   <node id="-868" visible="true" lat="44.90245367" lon="-72.94398929">
     <!-- conflict: "4550 Vermont Route 105, , VT" No match in OSM, but a different address exists <5m away: "4550 Vt Route 105, Sheldon, VT" -->
     <tag k="addr:housenumber" v="4550"/>
@@ -237,19 +223,5 @@
     <tag k="addr:street" v="Vermont Route 78"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224131"/>
-  </node>
-  <node id="-1144" visible="true" lat="44.86402507" lon="-72.87089379">
-    <!-- conflict: "340 Riley Road, , VT" Fuzzy match to "340 Riley Road, Sheldon, " -->
-    <tag k="addr:housenumber" v="340"/>
-    <tag k="addr:street" v="Riley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="752647"/>
-  </node>
-  <node id="-1145" visible="true" lat="44.86306815" lon="-72.86491178">
-    <!-- conflict: "425 Riley Road, , VT" Fuzzy match to "425 Riley Road, Sheldon, " -->
-    <tag k="addr:housenumber" v="425"/>
-    <tag k="addr:street" v="Riley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="752648"/>
   </node>
 </osm>

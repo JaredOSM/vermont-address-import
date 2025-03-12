@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.69051218" lon="-73.04448389">
     <tag k="addr:housenumber" v="1690"/>
     <tag k="addr:street" v="Florence Road"/>
@@ -2987,5 +2987,11 @@
     <tag k="addr:street" v="Eden Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="449900"/>
+  </node>
+  <node id="-883" visible="true" lat="43.61368317" lon="-73.02658746">
+    <tag k="addr:housenumber" v="2810"/>
+    <tag k="addr:street" v="West Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617108"/>
   </node>
 </osm>

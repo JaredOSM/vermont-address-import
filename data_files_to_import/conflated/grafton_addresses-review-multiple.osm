@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-419" visible="true" lat="43.16594934" lon="-72.61337877">
+    <!-- multiple: "533 Townshend Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="533"/>
+    <tag k="addr:street" v="Townshend Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="113118"/>
+  </node>
 </osm>

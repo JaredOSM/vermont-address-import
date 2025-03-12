@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.38191185" lon="-72.38103296">
     <tag k="addr:housenumber" v="2143"/>
     <tag k="addr:street" v="Ennis Hill Road"/>
@@ -456,17 +456,53 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152642"/>
   </node>
+  <node id="-231" visible="true" lat="44.35142873" lon="-72.35427475">
+    <tag k="addr:housenumber" v="1720"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152645"/>
+  </node>
+  <node id="-233" visible="true" lat="44.35143534" lon="-72.35275132">
+    <tag k="addr:housenumber" v="1648"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152647"/>
+  </node>
+  <node id="-236" visible="true" lat="44.35143816" lon="-72.35369369">
+    <tag k="addr:housenumber" v="1696"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152650"/>
+  </node>
   <node id="-238" visible="true" lat="44.35123773" lon="-72.3890393">
     <tag k="addr:housenumber" v="309"/>
     <tag k="addr:street" v="Pike Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152652"/>
   </node>
+  <node id="-243" visible="true" lat="44.35102487" lon="-72.35266289">
+    <tag k="addr:housenumber" v="1651"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152657"/>
+  </node>
   <node id="-245" visible="true" lat="44.35122299" lon="-72.39039611">
     <tag k="addr:housenumber" v="252"/>
     <tag k="addr:street" v="Pike Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152659"/>
+  </node>
+  <node id="-248" visible="true" lat="44.3510949" lon="-72.35391916">
+    <tag k="addr:housenumber" v="1709"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152662"/>
+  </node>
+  <node id="-252" visible="true" lat="44.35084877" lon="-72.35224807">
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Grist Mill Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152666"/>
   </node>
   <node id="-253" visible="true" lat="44.35112953" lon="-72.35575791">
     <tag k="addr:housenumber" v="1798"/>
@@ -491,6 +527,12 @@
     <tag k="addr:street" v="School Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152671"/>
+  </node>
+  <node id="-258" visible="true" lat="44.35063743" lon="-72.35216627">
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Grist Mill Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152672"/>
   </node>
   <node id="-259" visible="true" lat="44.35085755" lon="-72.3562327">
     <tag k="addr:housenumber" v="1832"/>
@@ -1110,12 +1152,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152784"/>
   </node>
-  <node id="-370" visible="true" lat="44.33782195" lon="-72.28922312">
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="Pleasant Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="152785"/>
-  </node>
   <node id="-371" visible="true" lat="44.3380797" lon="-72.35413073">
     <tag k="addr:housenumber" v="87"/>
     <tag k="addr:street" v="Bailey Pond Road"/>
@@ -1127,12 +1163,6 @@
     <tag k="addr:street" v="Peacham Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152787"/>
-  </node>
-  <node id="-373" visible="true" lat="44.33732342" lon="-72.28833134">
-    <tag k="addr:housenumber" v="93"/>
-    <tag k="addr:street" v="Pleasant Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="152788"/>
   </node>
   <node id="-374" visible="true" lat="44.33737908" lon="-72.27787343">
     <tag k="addr:housenumber" v="257"/>
@@ -1229,12 +1259,6 @@
     <tag k="addr:street" v="Vermont Route 232"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152805"/>
-  </node>
-  <node id="-390" visible="true" lat="44.33588669" lon="-72.29013573">
-    <tag k="addr:housenumber" v="216"/>
-    <tag k="addr:street" v="Pleasant Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="152806"/>
   </node>
   <node id="-391" visible="true" lat="44.33578783" lon="-72.37197871">
     <tag k="addr:housenumber" v="3153"/>
@@ -1961,12 +1985,6 @@
     <tag k="addr:street" v="Eaton Cemetery Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152935"/>
-  </node>
-  <node id="-517" visible="true" lat="44.30329513" lon="-72.40870666">
-    <tag k="addr:housenumber" v="589"/>
-    <tag k="addr:street" v="Eaton Cemetery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="152936"/>
   </node>
   <node id="-518" visible="true" lat="44.30316162" lon="-72.3959732">
     <tag k="addr:housenumber" v="167"/>
@@ -3426,12 +3444,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153206"/>
   </node>
-  <node id="-778" visible="true" lat="44.33697977" lon="-72.28937026">
-    <tag k="addr:housenumber" v="172"/>
-    <tag k="addr:street" v="Pleasant Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="153207"/>
-  </node>
   <node id="-779" visible="true" lat="44.31927512" lon="-72.37909757">
     <tag k="addr:housenumber" v="170"/>
     <tag k="addr:street" v="Lafirira Place"/>
@@ -3671,12 +3683,6 @@
     <tag k="addr:street" v="Holt Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="312203"/>
-  </node>
-  <node id="-833" visible="true" lat="44.33624953" lon="-72.28871866">
-    <tag k="addr:housenumber" v="223"/>
-    <tag k="addr:street" v="Pleasant Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="315301"/>
   </node>
   <node id="-834" visible="true" lat="44.36605142" lon="-72.38493749">
     <tag k="addr:housenumber" v="247"/>

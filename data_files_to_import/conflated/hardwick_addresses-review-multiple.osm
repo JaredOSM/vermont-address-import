@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-907" visible="true" lat="44.50394043" lon="-72.36402866">
     <!-- multiple: "117 Mill Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="Mill Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119488"/>
-  </node>
-  <node id="-1314" visible="true" lat="44.50400562" lon="-72.36698512">
-    <!-- multiple: "41 South Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="119917"/>
   </node>
 </osm>

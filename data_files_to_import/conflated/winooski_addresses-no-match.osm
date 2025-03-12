@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-100" visible="true" lat="44.50252849" lon="-73.18270362">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="486"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298575"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="44.50235088" lon="-73.19406264">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="23"/>
@@ -910,13 +903,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298712"/>
   </node>
-  <node id="-233" visible="true" lat="44.49923977" lon="-73.18415369">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="348"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298714"/>
-  </node>
   <node id="-234" visible="true" lat="44.49971447" lon="-73.18404945">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="364"/>
@@ -945,33 +931,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298720"/>
   </node>
-  <node id="-239" visible="true" lat="44.50073543" lon="-73.18244028">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:street" v="Normand Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298721"/>
-  </node>
   <node id="-240" visible="true" lat="44.50079941" lon="-73.18027764">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="60"/>
     <tag k="addr:street" v="Normand Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298722"/>
-  </node>
-  <node id="-241" visible="true" lat="44.50046869" lon="-73.18299568">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="385"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298723"/>
-  </node>
-  <node id="-242" visible="true" lat="44.50031383" lon="-73.18304436">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="383"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298724"/>
   </node>
   <node id="-243" visible="true" lat="44.50014211" lon="-73.18305536">
     <tag k="addr:city" v="Winooski"/>
@@ -980,89 +945,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298725"/>
   </node>
-  <node id="-244" visible="true" lat="44.50034066" lon="-73.18270268">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Normand Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298726"/>
-  </node>
-  <node id="-245" visible="true" lat="44.50023772" lon="-73.18239773">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Normand Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298727"/>
-  </node>
   <node id="-246" visible="true" lat="44.49984709" lon="-73.18333371">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="379"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298728"/>
-  </node>
-  <node id="-248" visible="true" lat="44.49946319" lon="-73.18304026">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298730"/>
-  </node>
-  <node id="-249" visible="true" lat="44.49929377" lon="-73.18270293">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298731"/>
-  </node>
-  <node id="-250" visible="true" lat="44.4992001" lon="-73.18248485">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298732"/>
-  </node>
-  <node id="-251" visible="true" lat="44.49913317" lon="-73.18229011">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298733"/>
-  </node>
-  <node id="-252" visible="true" lat="44.49906335" lon="-73.18205349">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298734"/>
-  </node>
-  <node id="-254" visible="true" lat="44.49890689" lon="-73.18158483">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298736"/>
-  </node>
-  <node id="-255" visible="true" lat="44.4988059" lon="-73.18138969">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298737"/>
-  </node>
-  <node id="-257" visible="true" lat="44.49872351" lon="-73.18115086">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298739"/>
-  </node>
-  <node id="-258" visible="true" lat="44.49861378" lon="-73.1807787">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298740"/>
   </node>
   <node id="-259" visible="true" lat="44.50028217" lon="-73.18369659">
     <tag k="addr:city" v="Winooski"/>
@@ -1077,153 +965,6 @@
     <tag k="addr:street" v="Bellevue Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298742"/>
-  </node>
-  <node id="-261" visible="true" lat="44.4989046" lon="-73.18016256">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298743"/>
-  </node>
-  <node id="-262" visible="true" lat="44.49865426" lon="-73.17997667">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298745"/>
-  </node>
-  <node id="-263" visible="true" lat="44.49883858" lon="-73.17981413">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298746"/>
-  </node>
-  <node id="-264" visible="true" lat="44.49876356" lon="-73.1796559">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298747"/>
-  </node>
-  <node id="-266" visible="true" lat="44.49864223" lon="-73.17935806">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298749"/>
-  </node>
-  <node id="-267" visible="true" lat="44.49857776" lon="-73.17918897">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298750"/>
-  </node>
-  <node id="-268" visible="true" lat="44.49845627" lon="-73.17891675">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298751"/>
-  </node>
-  <node id="-269" visible="true" lat="44.49824099" lon="-73.17900208">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="170"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298752"/>
-  </node>
-  <node id="-270" visible="true" lat="44.49800938" lon="-73.17918969">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="162"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298753"/>
-  </node>
-  <node id="-271" visible="true" lat="44.49815137" lon="-73.17958522">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298754"/>
-  </node>
-  <node id="-272" visible="true" lat="44.49823881" lon="-73.17985705">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="109"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298755"/>
-  </node>
-  <node id="-273" visible="true" lat="44.49837581" lon="-73.18016238">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="99"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298756"/>
-  </node>
-  <node id="-274" visible="true" lat="44.49786218" lon="-73.17883667">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="163"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298757"/>
-  </node>
-  <node id="-275" visible="true" lat="44.4981386" lon="-73.178602">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="167"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298758"/>
-  </node>
-  <node id="-276" visible="true" lat="44.49834349" lon="-73.17850191">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="171"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298759"/>
-  </node>
-  <node id="-277" visible="true" lat="44.4987384" lon="-73.17860164">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="192"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298760"/>
-  </node>
-  <node id="-278" visible="true" lat="44.49884876" lon="-73.17898352">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298761"/>
-  </node>
-  <node id="-279" visible="true" lat="44.4989437" lon="-73.17931399">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298762"/>
-  </node>
-  <node id="-280" visible="true" lat="44.49903443" lon="-73.1794724">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298763"/>
-  </node>
-  <node id="-281" visible="true" lat="44.49911462" lon="-73.17964168">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298764"/>
-  </node>
-  <node id="-282" visible="true" lat="44.49921526" lon="-73.17989536">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298765"/>
   </node>
   <node id="-283" visible="true" lat="44.49915704" lon="-73.17735125">
     <tag k="addr:city" v="Winooski"/>
@@ -1295,27 +1036,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298777"/>
   </node>
-  <node id="-295" visible="true" lat="44.49648645" lon="-73.17032381">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Gail Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298778"/>
-  </node>
-  <node id="-296" visible="true" lat="44.49663434" lon="-73.17051982">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Gail Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298779"/>
-  </node>
-  <node id="-297" visible="true" lat="44.49677579" lon="-73.17076097">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Gail Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298780"/>
-  </node>
   <node id="-298" visible="true" lat="44.49690693" lon="-73.17097635">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="49"/>
@@ -1343,20 +1063,6 @@
     <tag k="addr:street" v="Gail Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298784"/>
-  </node>
-  <node id="-302" visible="true" lat="44.49677314" lon="-73.17149918">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298785"/>
-  </node>
-  <node id="-303" visible="true" lat="44.4965763" lon="-73.17164493">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298786"/>
   </node>
   <node id="-304" visible="true" lat="44.49639658" lon="-73.17184251">
     <tag k="addr:city" v="Winooski"/>
@@ -1393,110 +1099,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298791"/>
   </node>
-  <node id="-309" visible="true" lat="44.49543577" lon="-73.17259126">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="299"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298792"/>
-  </node>
-  <node id="-310" visible="true" lat="44.495831" lon="-73.17270329">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Gilbrook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298793"/>
-  </node>
   <node id="-311" visible="true" lat="44.49606757" lon="-73.17263712">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:street" v="Gilbrook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298794"/>
-  </node>
-  <node id="-312" visible="true" lat="44.49631846" lon="-73.17265401">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Gilbrook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298795"/>
-  </node>
-  <node id="-313" visible="true" lat="44.49539175" lon="-73.17191876">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="307"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298796"/>
-  </node>
-  <node id="-314" visible="true" lat="44.49561604" lon="-73.17184452">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298797"/>
-  </node>
-  <node id="-315" visible="true" lat="44.49581064" lon="-73.17171136">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298798"/>
-  </node>
-  <node id="-316" visible="true" lat="44.49598737" lon="-73.17150114">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298799"/>
-  </node>
-  <node id="-317" visible="true" lat="44.49617639" lon="-73.17142646">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298800"/>
-  </node>
-  <node id="-318" visible="true" lat="44.4963397" lon="-73.17127098">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298801"/>
-  </node>
-  <node id="-319" visible="true" lat="44.49627804" lon="-73.17085905">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Bernard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298802"/>
-  </node>
-  <node id="-320" visible="true" lat="44.49606518" lon="-73.17096978">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="66"/>
-    <tag k="addr:street" v="Bernard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298803"/>
-  </node>
-  <node id="-321" visible="true" lat="44.49589579" lon="-73.17113101">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="Bernard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298804"/>
-  </node>
-  <node id="-322" visible="true" lat="44.49566639" lon="-73.17129985">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Bernard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298805"/>
-  </node>
-  <node id="-323" visible="true" lat="44.49543468" lon="-73.17150578">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Bernard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298806"/>
   </node>
   <node id="-324" visible="true" lat="44.49592043" lon="-73.16947369">
     <tag k="addr:city" v="Winooski"/>
@@ -1666,13 +1274,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298831"/>
   </node>
-  <node id="-349" visible="true" lat="44.49608635" lon="-73.17042405">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Bernard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298832"/>
-  </node>
   <node id="-350" visible="true" lat="44.49589005" lon="-73.17057869">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="63"/>
@@ -1784,34 +1385,6 @@
     <tag k="addr:street" v="Reginald Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298848"/>
-  </node>
-  <node id="-366" visible="true" lat="44.49504974" lon="-73.17177112">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="318"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298849"/>
-  </node>
-  <node id="-367" visible="true" lat="44.49503657" lon="-73.17206839">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="310"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298850"/>
-  </node>
-  <node id="-368" visible="true" lat="44.49505416" lon="-73.17235465">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="302"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298851"/>
-  </node>
-  <node id="-369" visible="true" lat="44.49505202" lon="-73.1727181">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="296"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298852"/>
   </node>
   <node id="-370" visible="true" lat="44.49349518" lon="-73.17180118">
     <tag k="addr:city" v="Winooski"/>
@@ -2002,40 +1575,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298881"/>
   </node>
-  <node id="-399" visible="true" lat="44.49732137" lon="-73.17570042">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="98"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298882"/>
-  </node>
-  <node id="-400" visible="true" lat="44.49767756" lon="-73.17570453">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298883"/>
-  </node>
-  <node id="-401" visible="true" lat="44.49797638" lon="-73.17571691">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="118"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298884"/>
-  </node>
   <node id="-402" visible="true" lat="44.49785348" lon="-73.17607252">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="51"/>
     <tag k="addr:street" v="Gamelin Court"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298885"/>
-  </node>
-  <node id="-403" visible="true" lat="44.49802716" lon="-73.17637827">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Gamelin Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298886"/>
   </node>
   <node id="-404" visible="true" lat="44.49832939" lon="-73.17664891">
     <tag k="addr:city" v="Winooski"/>
@@ -2044,54 +1589,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298887"/>
   </node>
-  <node id="-405" visible="true" lat="44.49842156" lon="-73.176123">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Gamelin Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298888"/>
-  </node>
-  <node id="-406" visible="true" lat="44.49837656" lon="-73.17576018">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="128"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298889"/>
-  </node>
-  <node id="-407" visible="true" lat="44.4987711" lon="-73.17581259">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="138"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298890"/>
-  </node>
-  <node id="-408" visible="true" lat="44.49837945" lon="-73.17520257">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Gamelin Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298891"/>
-  </node>
-  <node id="-409" visible="true" lat="44.4984261" lon="-73.17491173">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Gamelin Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298892"/>
-  </node>
   <node id="-410" visible="true" lat="44.49843831" lon="-73.1746191">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Gamelin Court"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298893"/>
-  </node>
-  <node id="-411" visible="true" lat="44.49822737" lon="-73.17434248">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298894"/>
   </node>
   <node id="-412" visible="true" lat="44.49795532" lon="-73.17435371">
     <tag k="addr:city" v="Winooski"/>
@@ -2114,124 +1617,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298897"/>
   </node>
-  <node id="-415" visible="true" lat="44.49798893" lon="-73.17520472">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298898"/>
-  </node>
-  <node id="-416" visible="true" lat="44.49793395" lon="-73.17483813">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298899"/>
-  </node>
-  <node id="-417" visible="true" lat="44.49767212" lon="-73.1748518">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298900"/>
-  </node>
-  <node id="-418" visible="true" lat="44.49738152" lon="-73.17483015">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298901"/>
-  </node>
-  <node id="-419" visible="true" lat="44.4970647" lon="-73.17481186">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298902"/>
-  </node>
-  <node id="-420" visible="true" lat="44.49678177" lon="-73.17479157">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298903"/>
-  </node>
   <node id="-421" visible="true" lat="44.4964384" lon="-73.17486318">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Bruce Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298904"/>
-  </node>
-  <node id="-422" visible="true" lat="44.49644702" lon="-73.175178">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Bruce Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298905"/>
-  </node>
-  <node id="-423" visible="true" lat="44.49674011" lon="-73.17522163">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298906"/>
-  </node>
-  <node id="-424" visible="true" lat="44.49708055" lon="-73.17523288">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298907"/>
-  </node>
-  <node id="-425" visible="true" lat="44.49743416" lon="-73.17522964">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298908"/>
-  </node>
-  <node id="-426" visible="true" lat="44.49773151" lon="-73.17524832">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298909"/>
-  </node>
-  <node id="-427" visible="true" lat="44.4962321" lon="-73.17431555">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298910"/>
-  </node>
-  <node id="-428" visible="true" lat="44.49590481" lon="-73.17429714">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298911"/>
-  </node>
-  <node id="-429" visible="true" lat="44.49571098" lon="-73.17429856">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298912"/>
-  </node>
-  <node id="-430" visible="true" lat="44.4955723" lon="-73.17427501">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298913"/>
-  </node>
-  <node id="-431" visible="true" lat="44.49542039" lon="-73.17427326">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298914"/>
   </node>
   <node id="-432" visible="true" lat="44.49604852" lon="-73.17476981">
     <tag k="addr:city" v="Winooski"/>
@@ -2261,68 +1652,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298918"/>
   </node>
-  <node id="-436" visible="true" lat="44.49551018" lon="-73.17503545">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298919"/>
-  </node>
-  <node id="-437" visible="true" lat="44.4957925" lon="-73.17513019">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298920"/>
-  </node>
-  <node id="-438" visible="true" lat="44.49603199" lon="-73.17514887">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298921"/>
-  </node>
-  <node id="-439" visible="true" lat="44.4950562" lon="-73.17426601">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298922"/>
-  </node>
-  <node id="-440" visible="true" lat="44.49487488" lon="-73.17426562">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298923"/>
-  </node>
-  <node id="-441" visible="true" lat="44.49465921" lon="-73.17425169">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298924"/>
-  </node>
-  <node id="-442" visible="true" lat="44.49430701" lon="-73.17423618">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Corrine Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298925"/>
-  </node>
   <node id="-443" visible="true" lat="44.49402192" lon="-73.17441378">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="321"/>
     <tag k="addr:street" v="East Allen Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298926"/>
-  </node>
-  <node id="-444" visible="true" lat="44.49409636" lon="-73.17494229">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298927"/>
   </node>
   <node id="-445" visible="true" lat="44.494644" lon="-73.17471369">
     <tag k="addr:city" v="Winooski"/>
@@ -2345,13 +1680,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298930"/>
   </node>
-  <node id="-448" visible="true" lat="44.49502014" lon="-73.17507737">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298931"/>
-  </node>
   <node id="-449" visible="true" lat="44.49485798" lon="-73.1750389">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="53"/>
@@ -2365,27 +1693,6 @@
     <tag k="addr:street" v="Dion Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298933"/>
-  </node>
-  <node id="-451" visible="true" lat="44.49500166" lon="-73.17554555">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298934"/>
-  </node>
-  <node id="-452" visible="true" lat="44.49502318" lon="-73.17582253">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="254"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298935"/>
-  </node>
-  <node id="-453" visible="true" lat="44.49501153" lon="-73.17618167">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298936"/>
   </node>
   <node id="-454" visible="true" lat="44.49459045" lon="-73.17618153">
     <tag k="addr:city" v="Winooski"/>
@@ -2408,55 +1715,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298939"/>
   </node>
-  <node id="-457" visible="true" lat="44.49429388" lon="-73.17599496">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Corrine Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298940"/>
-  </node>
-  <node id="-458" visible="true" lat="44.4942451" lon="-73.17547827">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298941"/>
-  </node>
-  <node id="-460" visible="true" lat="44.49399902" lon="-73.17545713">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298943"/>
-  </node>
-  <node id="-461" visible="true" lat="44.49375028" lon="-73.17544328">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298944"/>
-  </node>
-  <node id="-462" visible="true" lat="44.49502751" lon="-73.17662536">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298945"/>
-  </node>
-  <node id="-463" visible="true" lat="44.4947292" lon="-73.17673256">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298946"/>
-  </node>
-  <node id="-464" visible="true" lat="44.494537" lon="-73.1767018">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298947"/>
-  </node>
   <node id="-465" visible="true" lat="44.49432775" lon="-73.17673173">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="4"/>
@@ -2464,61 +1722,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298948"/>
   </node>
-  <node id="-466" visible="true" lat="44.4950562" lon="-73.17700098">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="218"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298949"/>
-  </node>
-  <node id="-467" visible="true" lat="44.49507834" lon="-73.17724276">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="210"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298950"/>
-  </node>
   <node id="-468" visible="true" lat="44.4947851" lon="-73.17740087">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:street" v="Manseau Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298951"/>
-  </node>
-  <node id="-469" visible="true" lat="44.49465198" lon="-73.17738843">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298952"/>
-  </node>
-  <node id="-470" visible="true" lat="44.49452854" lon="-73.17737961">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298953"/>
-  </node>
-  <node id="-471" visible="true" lat="44.49439497" lon="-73.17737806">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298954"/>
-  </node>
-  <node id="-472" visible="true" lat="44.49427984" lon="-73.17735843">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298955"/>
-  </node>
-  <node id="-473" visible="true" lat="44.49534797" lon="-73.17744398">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298956"/>
   </node>
   <node id="-474" visible="true" lat="44.49550258" lon="-73.17744493">
     <tag k="addr:city" v="Winooski"/>
@@ -2583,34 +1792,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298965"/>
   </node>
-  <node id="-483" visible="true" lat="44.49688933" lon="-73.17567713">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298966"/>
-  </node>
-  <node id="-484" visible="true" lat="44.49669033" lon="-73.17566751">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="86"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298967"/>
-  </node>
-  <node id="-485" visible="true" lat="44.49647083" lon="-73.1760236">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Bruce Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298968"/>
-  </node>
-  <node id="-486" visible="true" lat="44.49650823" lon="-73.17634241">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Bruce Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298969"/>
-  </node>
   <node id="-487" visible="true" lat="44.49648476" lon="-73.17676664">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="66"/>
@@ -2631,41 +1812,6 @@
     <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298972"/>
-  </node>
-  <node id="-490" visible="true" lat="44.49528091" lon="-73.17850825">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="183"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298973"/>
-  </node>
-  <node id="-491" visible="true" lat="44.49530443" lon="-73.17832209">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="185"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298974"/>
-  </node>
-  <node id="-492" visible="true" lat="44.49532684" lon="-73.17811913">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="187"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298975"/>
-  </node>
-  <node id="-493" visible="true" lat="44.49533343" lon="-73.17795197">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="191"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298976"/>
-  </node>
-  <node id="-494" visible="true" lat="44.4953266" lon="-73.1777799">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="193"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298977"/>
   </node>
   <node id="-495" visible="true" lat="44.49559703" lon="-73.17784574">
     <tag k="addr:city" v="Winooski"/>
@@ -2722,13 +1868,6 @@
     <tag k="addr:street" v="Whitney Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298987"/>
-  </node>
-  <node id="-505" visible="true" lat="44.4950516" lon="-73.17777671">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="194"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298988"/>
   </node>
   <node id="-506" visible="true" lat="44.49506083" lon="-73.17795882">
     <tag k="addr:city" v="Winooski"/>
@@ -2835,34 +1974,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299004"/>
   </node>
-  <node id="-522" visible="true" lat="44.49360389" lon="-73.17495125">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299005"/>
-  </node>
-  <node id="-523" visible="true" lat="44.49376187" lon="-73.17490312">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299006"/>
-  </node>
-  <node id="-524" visible="true" lat="44.49354807" lon="-73.17553243">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299007"/>
-  </node>
-  <node id="-525" visible="true" lat="44.49343026" lon="-73.17552375">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="291"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299008"/>
-  </node>
   <node id="-526" visible="true" lat="44.49382196" lon="-73.17621783">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="277"/>
@@ -2884,27 +1995,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299011"/>
   </node>
-  <node id="-529" visible="true" lat="44.49316897" lon="-73.17729019">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299012"/>
-  </node>
-  <node id="-531" visible="true" lat="44.49351936" lon="-73.17725556">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299014"/>
-  </node>
-  <node id="-532" visible="true" lat="44.49367162" lon="-73.17727728">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299015"/>
-  </node>
   <node id="-533" visible="true" lat="44.49385317" lon="-73.17731324">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="33"/>
@@ -2918,13 +2008,6 @@
     <tag k="addr:street" v="Manseau Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299017"/>
-  </node>
-  <node id="-538" visible="true" lat="44.49279589" lon="-73.17684179">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="268"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299021"/>
   </node>
   <node id="-541" visible="true" lat="44.49208986" lon="-73.17498363">
     <tag k="addr:city" v="Winooski"/>
@@ -3094,27 +2177,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299066"/>
   </node>
-  <node id="-575" visible="true" lat="44.49712164" lon="-73.17938066">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="129"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299067"/>
-  </node>
-  <node id="-576" visible="true" lat="44.49736612" lon="-73.1792298">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299068"/>
-  </node>
-  <node id="-577" visible="true" lat="44.49759378" lon="-73.17904581">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="155"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299069"/>
-  </node>
   <node id="-578" visible="true" lat="44.49657678" lon="-73.17924145">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="17"/>
@@ -3150,20 +2212,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299075"/>
   </node>
-  <node id="-584" visible="true" lat="44.49544038" lon="-73.17920669">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299076"/>
-  </node>
-  <node id="-585" visible="true" lat="44.49552357" lon="-73.17946615">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299077"/>
-  </node>
   <node id="-587" visible="true" lat="44.4957889" lon="-73.17930663">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="93"/>
@@ -3184,13 +2232,6 @@
     <tag k="addr:street" v="Hood Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299081"/>
-  </node>
-  <node id="-591" visible="true" lat="44.495704" lon="-73.18038245">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299084"/>
   </node>
   <node id="-592" visible="true" lat="44.49585466" lon="-73.18015366">
     <tag k="addr:city" v="Winooski"/>
@@ -3227,82 +2268,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299091"/>
   </node>
-  <node id="-600" visible="true" lat="44.4958534" lon="-73.18080502">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299093"/>
-  </node>
-  <node id="-601" visible="true" lat="44.49590194" lon="-73.18101051">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299094"/>
-  </node>
-  <node id="-602" visible="true" lat="44.49593525" lon="-73.18113532">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="73"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299095"/>
-  </node>
-  <node id="-603" visible="true" lat="44.49602072" lon="-73.18154781">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299096"/>
-  </node>
-  <node id="-604" visible="true" lat="44.49606266" lon="-73.18170133">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299097"/>
-  </node>
-  <node id="-606" visible="true" lat="44.49615231" lon="-73.18187339">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299099"/>
-  </node>
-  <node id="-608" visible="true" lat="44.49620521" lon="-73.18222531">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299101"/>
-  </node>
-  <node id="-609" visible="true" lat="44.49624336" lon="-73.18241605">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299102"/>
-  </node>
   <node id="-610" visible="true" lat="44.49632276" lon="-73.18271705">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="Lafountain Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299103"/>
-  </node>
-  <node id="-611" visible="true" lat="44.49637655" lon="-73.18291895">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299104"/>
-  </node>
-  <node id="-612" visible="true" lat="44.49643495" lon="-73.18315614">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299105"/>
   </node>
   <node id="-613" visible="true" lat="44.49647105" lon="-73.18332259">
     <tag k="addr:city" v="Winooski"/>
@@ -3332,82 +2303,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299109"/>
   </node>
-  <node id="-617" visible="true" lat="44.49756543" lon="-73.18251714">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299110"/>
-  </node>
-  <node id="-618" visible="true" lat="44.49769626" lon="-73.18247223">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299111"/>
-  </node>
-  <node id="-619" visible="true" lat="44.4978439" lon="-73.18237767">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299112"/>
-  </node>
   <node id="-620" visible="true" lat="44.49800152" lon="-73.182299">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Richard Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299113"/>
-  </node>
-  <node id="-621" visible="true" lat="44.49813557" lon="-73.18222005">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299114"/>
-  </node>
-  <node id="-622" visible="true" lat="44.4982906" lon="-73.18213769">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299115"/>
-  </node>
-  <node id="-623" visible="true" lat="44.49845603" lon="-73.18206642">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299116"/>
-  </node>
-  <node id="-624" visible="true" lat="44.49864701" lon="-73.18195767">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299117"/>
-  </node>
-  <node id="-625" visible="true" lat="44.49860059" lon="-73.18175752">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299118"/>
-  </node>
-  <node id="-626" visible="true" lat="44.49853021" lon="-73.18150359">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299119"/>
-  </node>
-  <node id="-627" visible="true" lat="44.49826757" lon="-73.18170041">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Solar View Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299120"/>
   </node>
   <node id="-628" visible="true" lat="44.49800133" lon="-73.18189278">
     <tag k="addr:city" v="Winooski"/>
@@ -3416,131 +2317,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299121"/>
   </node>
-  <node id="-629" visible="true" lat="44.49796883" lon="-73.18163258">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Solar View Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299122"/>
-  </node>
-  <node id="-630" visible="true" lat="44.49789842" lon="-73.18138091">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Solar View Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299123"/>
-  </node>
-  <node id="-631" visible="true" lat="44.49810266" lon="-73.18115107">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Solar View Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299124"/>
-  </node>
-  <node id="-632" visible="true" lat="44.49838572" lon="-73.18113595">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299125"/>
-  </node>
-  <node id="-633" visible="true" lat="44.49831625" lon="-73.18092654">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299126"/>
-  </node>
   <node id="-634" visible="true" lat="44.49825719" lon="-73.18072824">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="88"/>
     <tag k="addr:street" v="Bellevue Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299127"/>
-  </node>
-  <node id="-635" visible="true" lat="44.49811258" lon="-73.18038256">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299128"/>
-  </node>
-  <node id="-636" visible="true" lat="44.49801586" lon="-73.18027032">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="104"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299129"/>
-  </node>
-  <node id="-637" visible="true" lat="44.49793184" lon="-73.17994497">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299130"/>
-  </node>
-  <node id="-638" visible="true" lat="44.49782878" lon="-73.17965833">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="120"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299131"/>
-  </node>
-  <node id="-639" visible="true" lat="44.49773874" lon="-73.17938282">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="128"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299132"/>
-  </node>
-  <node id="-640" visible="true" lat="44.49723472" lon="-73.17974426">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299133"/>
-  </node>
-  <node id="-641" visible="true" lat="44.49697795" lon="-73.17994547">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299134"/>
-  </node>
-  <node id="-642" visible="true" lat="44.4968322" lon="-73.18004332">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299135"/>
-  </node>
-  <node id="-643" visible="true" lat="44.49660315" lon="-73.18024193">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299136"/>
-  </node>
-  <node id="-645" visible="true" lat="44.49631362" lon="-73.18048009">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299138"/>
-  </node>
-  <node id="-646" visible="true" lat="44.49622946" lon="-73.18053766">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299139"/>
-  </node>
-  <node id="-647" visible="true" lat="44.49621104" lon="-73.1834345">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299140"/>
   </node>
   <node id="-648" visible="true" lat="44.49614429" lon="-73.18321631">
     <tag k="addr:city" v="Winooski"/>
@@ -3549,124 +2331,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299141"/>
   </node>
-  <node id="-649" visible="true" lat="44.49601656" lon="-73.18354567">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299142"/>
-  </node>
-  <node id="-651" visible="true" lat="44.49572228" lon="-73.18369958">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299144"/>
-  </node>
-  <node id="-652" visible="true" lat="44.49527835" lon="-73.18391396">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299146"/>
-  </node>
-  <node id="-653" visible="true" lat="44.49517101" lon="-73.18395282">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299147"/>
-  </node>
-  <node id="-654" visible="true" lat="44.4950211" lon="-73.18400976">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299148"/>
-  </node>
-  <node id="-655" visible="true" lat="44.49487648" lon="-73.18410321">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299149"/>
-  </node>
-  <node id="-656" visible="true" lat="44.49452803" lon="-73.18420185">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299150"/>
-  </node>
-  <node id="-657" visible="true" lat="44.4946985" lon="-73.18408283">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299151"/>
-  </node>
-  <node id="-658" visible="true" lat="44.49449921" lon="-73.18376605">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299152"/>
-  </node>
-  <node id="-659" visible="true" lat="44.49444816" lon="-73.18354223">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299153"/>
-  </node>
-  <node id="-660" visible="true" lat="44.49438623" lon="-73.18338782">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299154"/>
-  </node>
-  <node id="-661" visible="true" lat="44.49448999" lon="-73.18311824">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299155"/>
-  </node>
-  <node id="-662" visible="true" lat="44.49428108" lon="-73.18301334">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299156"/>
-  </node>
   <node id="-663" visible="true" lat="44.494222" lon="-73.18281871">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="85"/>
     <tag k="addr:street" v="East Spring Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299157"/>
-  </node>
-  <node id="-664" visible="true" lat="44.49416006" lon="-73.18266429">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299158"/>
-  </node>
-  <node id="-665" visible="true" lat="44.49405133" lon="-73.18245079">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="91"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299159"/>
-  </node>
-  <node id="-667" visible="true" lat="44.49437069" lon="-73.18193445">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299162"/>
   </node>
   <node id="-668" visible="true" lat="44.49478208" lon="-73.18162653">
     <tag k="addr:city" v="Winooski"/>
@@ -3709,13 +2379,6 @@
     <tag k="addr:street" v="Franklin Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299170"/>
-  </node>
-  <node id="-674" visible="true" lat="44.49559277" lon="-73.18101329">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299171"/>
   </node>
   <node id="-675" visible="true" lat="44.49565041" lon="-73.1813572">
     <tag k="addr:city" v="Winooski"/>
@@ -3801,13 +2464,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299183"/>
   </node>
-  <node id="-687" visible="true" lat="44.49550353" lon="-73.18060606">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299185"/>
-  </node>
   <node id="-688" visible="true" lat="44.49538513" lon="-73.18069617">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="29"/>
@@ -3836,20 +2492,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299189"/>
   </node>
-  <node id="-692" visible="true" lat="44.49478013" lon="-73.18115412">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299190"/>
-  </node>
-  <node id="-693" visible="true" lat="44.49464844" lon="-73.18125114">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299191"/>
-  </node>
   <node id="-694" visible="true" lat="44.4945119" lon="-73.1813081">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="9"/>
@@ -3863,13 +2505,6 @@
     <tag k="addr:street" v="Franklin Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299193"/>
-  </node>
-  <node id="-696" visible="true" lat="44.49381608" lon="-73.18171849">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299194"/>
   </node>
   <node id="-697" visible="true" lat="44.49370637" lon="-73.18153416">
     <tag k="addr:city" v="Winooski"/>
@@ -3955,13 +2590,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299208"/>
   </node>
-  <node id="-710" visible="true" lat="44.49523945" lon="-73.17966347">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299209"/>
-  </node>
   <node id="-711" visible="true" lat="44.49511815" lon="-73.17978554">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="69"/>
@@ -4038,13 +2666,6 @@
     <tag k="addr:street" v="East Spring Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299220"/>
-  </node>
-  <node id="-722" visible="true" lat="44.49499139" lon="-73.17926702">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Hood Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299221"/>
   </node>
   <node id="-723" visible="true" lat="44.49469603" lon="-73.17928355">
     <tag k="addr:city" v="Winooski"/>
@@ -4584,6 +3205,13 @@
     <tag k="addr:street" v="West Allen Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299318"/>
+  </node>
+  <node id="-810" visible="true" lat="44.49189318" lon="-73.18689535">
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299319"/>
   </node>
   <node id="-812" visible="true" lat="44.49268182" lon="-73.18754414">
     <tag k="addr:city" v="Winooski"/>
@@ -6440,40 +5068,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299645"/>
   </node>
-  <node id="-1127" visible="true" lat="44.49650566" lon="-73.18454159">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299646"/>
-  </node>
-  <node id="-1128" visible="true" lat="44.49642534" lon="-73.18439427">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299647"/>
-  </node>
   <node id="-1130" visible="true" lat="44.49638722" lon="-73.18419988">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:street" v="Lafountain Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299649"/>
-  </node>
-  <node id="-1131" visible="true" lat="44.49634916" lon="-73.1839945">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299650"/>
-  </node>
-  <node id="-1132" visible="true" lat="44.49631364" lon="-73.18379798">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299651"/>
   </node>
   <node id="-1133" visible="true" lat="44.49606935" lon="-73.18391589">
     <tag k="addr:city" v="Winooski"/>
@@ -6692,13 +5292,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299684"/>
   </node>
-  <node id="-1166" visible="true" lat="44.4968575" lon="-73.18482479">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="259"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299687"/>
-  </node>
   <node id="-1167" visible="true" lat="44.49675774" lon="-73.18443476">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="13"/>
@@ -6719,13 +5312,6 @@
     <tag k="addr:street" v="Lafountain Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299690"/>
-  </node>
-  <node id="-1170" visible="true" lat="44.49655791" lon="-73.18368955">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299691"/>
   </node>
   <node id="-1171" visible="true" lat="44.49687859" lon="-73.18349353">
     <tag k="addr:city" v="Winooski"/>
@@ -6748,20 +5334,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299694"/>
   </node>
-  <node id="-1174" visible="true" lat="44.49753076" lon="-73.18368486">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Burling Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299695"/>
-  </node>
-  <node id="-1175" visible="true" lat="44.49761532" lon="-73.18406152">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Burling Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299696"/>
-  </node>
   <node id="-1177" visible="true" lat="44.4973813" lon="-73.18435253">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="279"/>
@@ -6783,13 +5355,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299701"/>
   </node>
-  <node id="-1181" visible="true" lat="44.49756939" lon="-73.18298309">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Burling Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299702"/>
-  </node>
   <node id="-1182" visible="true" lat="44.49807141" lon="-73.18322429">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="15"/>
@@ -6804,82 +5369,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299704"/>
   </node>
-  <node id="-1185" visible="true" lat="44.49920641" lon="-73.18362183">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299707"/>
-  </node>
-  <node id="-1186" visible="true" lat="44.49916159" lon="-73.18323096">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299708"/>
-  </node>
-  <node id="-1187" visible="true" lat="44.4990743" lon="-73.18297404">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299709"/>
-  </node>
-  <node id="-1188" visible="true" lat="44.49895758" lon="-73.18274551">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299710"/>
-  </node>
-  <node id="-1189" visible="true" lat="44.49887253" lon="-73.18251396">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299711"/>
-  </node>
-  <node id="-1190" visible="true" lat="44.49879245" lon="-73.18232533">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299712"/>
-  </node>
-  <node id="-1191" visible="true" lat="44.49856101" lon="-73.1824702">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299713"/>
-  </node>
   <node id="-1192" visible="true" lat="44.49842951" lon="-73.18256016">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Richard Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299714"/>
-  </node>
-  <node id="-1193" visible="true" lat="44.49823507" lon="-73.18266402">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299715"/>
-  </node>
-  <node id="-1194" visible="true" lat="44.4980305" lon="-73.1827092">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299716"/>
-  </node>
-  <node id="-1195" visible="true" lat="44.49784616" lon="-73.18287539">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299717"/>
   </node>
   <node id="-1197" visible="true" lat="44.49469599" lon="-73.19607982">
     <tag k="addr:city" v="Winooski"/>
@@ -9961,13 +8456,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300290"/>
   </node>
-  <node id="-1696" visible="true" lat="44.493263" lon="-73.1906122">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Malletts Bay Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300291"/>
-  </node>
   <node id="-1698" visible="true" lat="44.49173058" lon="-73.18961812">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="18"/>
@@ -10234,69 +8722,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300373"/>
   </node>
-  <node id="-1741" visible="true" lat="44.49651068" lon="-73.17110355">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Gail Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300385"/>
-  </node>
-  <node id="-1742" visible="true" lat="44.4960568" lon="-73.17428425">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300387"/>
-  </node>
-  <node id="-1743" visible="true" lat="44.49646215" lon="-73.17571977">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Bruce Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300389"/>
-  </node>
-  <node id="-1744" visible="true" lat="44.49697578" lon="-73.17434608">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300391"/>
-  </node>
-  <node id="-1745" visible="true" lat="44.49719333" lon="-73.17431931">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300392"/>
-  </node>
-  <node id="-1746" visible="true" lat="44.4987413" lon="-73.17520447">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="137"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300395"/>
-  </node>
-  <node id="-1747" visible="true" lat="44.4942951" lon="-73.17499582">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300398"/>
-  </node>
-  <node id="-1748" visible="true" lat="44.49391558" lon="-73.17495118">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300399"/>
-  </node>
-  <node id="-1749" visible="true" lat="44.49457833" lon="-73.17592193">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Corrine Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300401"/>
-  </node>
   <node id="-1750" visible="true" lat="44.49339674" lon="-73.17787148">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="20"/>
@@ -10331,13 +8756,6 @@
     <tag k="addr:street" v="Hood Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300410"/>
-  </node>
-  <node id="-1755" visible="true" lat="44.49500236" lon="-73.17874637">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Hood Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300411"/>
   </node>
   <node id="-1756" visible="true" lat="44.49392561" lon="-73.17878877">
     <tag k="addr:city" v="Winooski"/>
@@ -10500,13 +8918,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300444"/>
   </node>
-  <node id="-1780" visible="true" lat="44.49891776" lon="-73.17913997">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300447"/>
-  </node>
   <node id="-1781" visible="true" lat="44.49841374" lon="-73.17814043">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="173"/>
@@ -10563,13 +8974,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300460"/>
   </node>
-  <node id="-1790" visible="true" lat="44.49558906" lon="-73.17987884">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="Russell Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300461"/>
-  </node>
   <node id="-1791" visible="true" lat="44.49590065" lon="-73.17989344">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="90"/>
@@ -10597,13 +9001,6 @@
     <tag k="addr:street" v="East Allen Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300481"/>
-  </node>
-  <node id="-1796" visible="true" lat="44.49298501" lon="-73.17795671">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300486"/>
   </node>
   <node id="-1797" visible="true" lat="44.49344511" lon="-73.17199984">
     <tag k="addr:city" v="Winooski"/>
@@ -10654,13 +9051,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300499"/>
   </node>
-  <node id="-1805" visible="true" lat="44.49878744" lon="-73.18380899">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="325"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300501"/>
-  </node>
   <node id="-1806" visible="true" lat="44.50159565" lon="-73.18307599">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="432"/>
@@ -10709,13 +9099,6 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300514"/>
-  </node>
-  <node id="-1814" visible="true" lat="44.50107035" lon="-73.18248684">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="405"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300516"/>
   </node>
   <node id="-1816" visible="true" lat="44.49793261" lon="-73.19070002">
     <tag k="addr:city" v="Winooski"/>
@@ -10793,13 +9176,6 @@
     <tag k="addr:street" v="Forest Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300541"/>
-  </node>
-  <node id="-1828" visible="true" lat="44.49700885" lon="-73.17992845">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300542"/>
   </node>
   <node id="-1829" visible="true" lat="44.49743579" lon="-73.19066498">
     <tag k="addr:city" v="Winooski"/>
@@ -11165,13 +9541,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338614"/>
   </node>
-  <node id="-1887" visible="true" lat="44.49800883" lon="-73.17676047">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="127"/>
-    <tag k="addr:street" v="Hood Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338615"/>
-  </node>
   <node id="-1888" visible="true" lat="44.49766976" lon="-73.17668411">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="119"/>
@@ -11206,20 +9575,6 @@
     <tag k="addr:street" v="Barbara Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343959"/>
-  </node>
-  <node id="-1894" visible="true" lat="44.49429159" lon="-73.18231422">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="343960"/>
-  </node>
-  <node id="-1895" visible="true" lat="44.49666714" lon="-73.17432345">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Lapointe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="343961"/>
   </node>
   <node id="-1896" visible="true" lat="44.49337966" lon="-73.18992547">
     <tag k="addr:city" v="Winooski"/>
@@ -11452,13 +9807,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756263"/>
   </node>
-  <node id="-1937" visible="true" lat="44.49708126" lon="-73.17986566">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="758000"/>
-  </node>
   <node id="-1938" visible="true" lat="44.49740435" lon="-73.17958996">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="152"/>
@@ -11472,13 +9820,6 @@
     <tag k="addr:street" v="Russell Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759201"/>
-  </node>
-  <node id="-1940" visible="true" lat="44.49629019" lon="-73.184464">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Lafountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="759202"/>
   </node>
   <node id="-1942" visible="true" lat="44.49031168" lon="-73.19405243">
     <tag k="addr:city" v="Winooski"/>

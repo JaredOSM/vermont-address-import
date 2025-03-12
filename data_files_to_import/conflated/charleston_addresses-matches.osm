@@ -1,5 +1,682 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-101" visible="true" lat="44.90557006" lon="-72.07629397">
+    <!-- match: "1 Vermont Route 105, , VT"  ignoring missing state when matching to "1 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62426"/>
+  </node>
+  <node id="-104" visible="true" lat="44.90472907" lon="-72.07624378">
+    <!-- match: "34 Vermont Route 105, , VT"  ignoring missing state when matching to "34 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62429"/>
+  </node>
+  <node id="-105" visible="true" lat="44.90453077" lon="-72.07538665">
+    <!-- match: "112 Vermont Route 105, , VT"  ignoring missing state when matching to "112 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62430"/>
+  </node>
+  <node id="-106" visible="true" lat="44.90374985" lon="-72.07351354">
+    <!-- match: "187 Vermont Route 105, , VT"  ignoring missing state when matching to "187 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62432"/>
+  </node>
+  <node id="-108" visible="true" lat="44.90326256" lon="-72.07245509">
+    <!-- match: "235 Vermont Route 105, , VT"  ignoring missing state when matching to "235 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="235"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62434"/>
+  </node>
+  <node id="-109" visible="true" lat="44.90307998" lon="-72.07344818">
+    <!-- match: "218 Vermont Route 105, , VT"  ignoring missing state when matching to "218 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62435"/>
+  </node>
+  <node id="-110" visible="true" lat="44.90200805" lon="-72.07329559">
+    <!-- match: "288 Vermont Route 105, , VT"  ignoring missing state when matching to "288 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="288"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62436"/>
+  </node>
+  <node id="-111" visible="true" lat="44.90197753" lon="-72.0719223">
+    <!-- match: "349 Vermont Route 105, , VT"  ignoring missing state when matching to "349 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="349"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62437"/>
+  </node>
+  <node id="-113" visible="true" lat="44.90095519" lon="-72.07147979">
+    <!-- match: "408 Vermont Route 105, , VT"  ignoring missing state when matching to "408 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="408"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62441"/>
+  </node>
+  <node id="-115" visible="true" lat="44.90068649" lon="-72.0798492">
+    <!-- match: "114 Vermont Route 105, , VT"  ignoring missing state when matching to "114 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62443"/>
+  </node>
+  <node id="-123" visible="true" lat="44.89918899" lon="-72.06838989">
+    <!-- match: "608 Vermont Route 105, , VT"  ignoring missing state when matching to "608 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="608"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62451"/>
+  </node>
+  <node id="-124" visible="true" lat="44.89918899" lon="-72.06970214">
+    <!-- match: "542 Vermont Route 105, , VT"  ignoring missing state when matching to "542 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="542"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62452"/>
+  </node>
+  <node id="-129" visible="true" lat="44.89879608" lon="-72.0692749">
+    <!-- match: "578 Vermont Route 105, , VT"  ignoring missing state when matching to "578 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="578"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62457"/>
+  </node>
+  <node id="-133" visible="true" lat="44.89848556" lon="-72.05954342">
+    <!-- match: "1074 Vermont Route 105, , VT"  ignoring missing state when matching to "1074 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="1074"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62461"/>
+  </node>
+  <node id="-145" visible="true" lat="44.89797462" lon="-72.05790261">
+    <!-- match: "1155 Vermont Route 105, , VT"  ignoring missing state when matching to "1155 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="1155"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62475"/>
+  </node>
+  <node id="-147" visible="true" lat="44.89792447" lon="-72.05782491">
+    <tag k="addr:housenumber" v="1165"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62477"/>
+  </node>
+  <node id="-152" visible="true" lat="44.897686" lon="-72.06871032">
+    <!-- match: "636 Vermont Route 105, , VT"  ignoring missing state when matching to "636 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="636"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62482"/>
+  </node>
+  <node id="-155" visible="true" lat="44.89717526" lon="-72.05698178">
+    <!-- match: "1225 Vermont Route 105, , VT"  ignoring missing state when matching to "1225 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="1225"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62485"/>
+  </node>
+  <node id="-157" visible="true" lat="44.89697265" lon="-72.05495452">
+    <!-- match: "59 Durgin Road, , VT"  ignoring missing state when matching to "59 Durgin Road, , " -->
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="Durgin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62487"/>
+  </node>
+  <node id="-163" visible="true" lat="44.89632415" lon="-72.05393981">
+    <!-- match: "36 Gratton Hill Road, , VT"  ignoring missing state when matching to "36 Gratton Hill Road, , " -->
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Gratton Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62493"/>
+  </node>
+  <node id="-164" visible="true" lat="44.89637496" lon="-72.05624026">
+    <!-- match: "1297 Vermont Route 105, , VT"  ignoring missing state when matching to "1297 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="1297"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62494"/>
+  </node>
+  <node id="-167" visible="true" lat="44.89619445" lon="-72.06577301">
+    <!-- match: "130 Dane Hill Road, , VT"  ignoring missing state when matching to "130 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62497"/>
+  </node>
+  <node id="-168" visible="true" lat="44.90018463" lon="-72.07490079">
+    <!-- match: "382 Vermont Route 105, , VT"  ignoring missing state when matching to "382 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="382"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62498"/>
+  </node>
+  <node id="-172" visible="true" lat="44.89581298" lon="-72.05063629">
+    <!-- match: "215 Gratton Hill Road, , VT"  ignoring missing state when matching to "215 Gratton Hill Road, , " -->
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Gratton Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62502"/>
+  </node>
+  <node id="-174" visible="true" lat="44.89563751" lon="-72.06456756">
+    <!-- match: "151 Dane Hill Road, , VT"  ignoring missing state when matching to "151 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62504"/>
+  </node>
+  <node id="-176" visible="true" lat="44.89525604" lon="-72.05454254">
+    <!-- match: "44 Gratton Hill Road, , VT"  ignoring missing state when matching to "44 Gratton Hill Road, , " -->
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Gratton Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62506"/>
+  </node>
+  <node id="-179" visible="true" lat="44.89497375" lon="-72.06632995">
+    <!-- match: "240 Dane Hill Road, , VT"  ignoring missing state when matching to "240 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62509"/>
+  </node>
+  <node id="-181" visible="true" lat="44.89492416" lon="-72.05552673">
+    <!-- match: "1397 Vermont Route 105, , VT"  ignoring missing state when matching to "1397 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="1397"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62511"/>
+  </node>
+  <node id="-183" visible="true" lat="44.89448928" lon="-72.0651474">
+    <!-- match: "221 Dane Hill Road, , VT"  ignoring missing state when matching to "221 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62513"/>
+  </node>
+  <node id="-184" visible="true" lat="44.89442062" lon="-72.05560302">
+    <!-- match: "1433 Vermont Route 105, , VT"  ignoring missing state when matching to "1433 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="1433"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62514"/>
+  </node>
+  <node id="-186" visible="true" lat="44.89406585" lon="-72.0662918">
+    <!-- match: "281 Dane Hill Road, , VT"  ignoring missing state when matching to "281 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62516"/>
+  </node>
+  <node id="-189" visible="true" lat="44.8938179" lon="-72.04756927">
+    <!-- match: "421 Gratton Hill Road, , VT"  ignoring missing state when matching to "421 Gratton Hill Road, , " -->
+    <tag k="addr:housenumber" v="421"/>
+    <tag k="addr:street" v="Gratton Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62519"/>
+  </node>
+  <node id="-190" visible="true" lat="44.89367294" lon="-72.06670379">
+    <!-- match: "321 Dane Hill Road, , VT"  ignoring missing state when matching to "321 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="321"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62520"/>
+  </node>
+  <node id="-195" visible="true" lat="44.89203924" lon="-72.06775996">
+    <!-- match: "445 Dane Hill Road, , VT"  ignoring missing state when matching to "445 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="445"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62525"/>
+  </node>
+  <node id="-196" visible="true" lat="44.8921051" lon="-72.06909942">
+    <!-- match: "444 Dane Hill Road, , VT"  ignoring missing state when matching to "444 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="444"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62526"/>
+  </node>
+  <node id="-201" visible="true" lat="44.89079104" lon="-72.06910614">
+    <!-- match: "549 Dane Hill Road, , VT"  ignoring missing state when matching to "549 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="549"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62531"/>
+  </node>
+  <node id="-211" visible="true" lat="44.88863084" lon="-72.06965505">
+    <!-- match: "721 Dane Hill Road, , VT"  ignoring missing state when matching to "721 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="721"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62541"/>
+  </node>
+  <node id="-222" visible="true" lat="44.88430244" lon="-72.05514034">
+    <!-- match: "30 Great Falls Road, , VT"  ignoring missing state when matching to "30 Great Falls Road, , " -->
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Great Falls Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62552"/>
+  </node>
+  <node id="-223" visible="true" lat="44.88394546" lon="-72.05439758">
+    <!-- match: "2215 Vermont Route 105, , VT"  ignoring missing state when matching to "2215 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="2215"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62553"/>
+  </node>
+  <node id="-224" visible="true" lat="44.88364791" lon="-72.05503845">
+    <!-- match: "2198 Vermont Route 105, , VT"  ignoring missing state when matching to "2198 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="2198"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62555"/>
+  </node>
+  <node id="-226" visible="true" lat="44.88233121" lon="-72.05252456">
+    <!-- match: "2355 Vermont Route 105, , VT"  ignoring missing state when matching to "2355 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="2355"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62557"/>
+  </node>
+  <node id="-234" visible="true" lat="44.87915532" lon="-72.05559154">
+    <!-- match: "205 Island Road, , VT"  ignoring missing state when matching to "205 Island Road, , " -->
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Island Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62565"/>
+  </node>
+  <node id="-236" visible="true" lat="44.87894375" lon="-72.05613068">
+    <!-- match: "227 Island Road, , VT"  ignoring missing state when matching to "227 Island Road, , " -->
+    <tag k="addr:housenumber" v="227"/>
+    <tag k="addr:street" v="Island Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62567"/>
+  </node>
+  <node id="-237" visible="true" lat="44.87884763" lon="-72.05631233">
+    <!-- match: "245 Island Road, , VT"  ignoring missing state when matching to "245 Island Road, , " -->
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Island Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62568"/>
+  </node>
+  <node id="-238" visible="true" lat="44.87866367" lon="-72.05662614">
+    <!-- match: "257 Island Road, , VT"  ignoring missing state when matching to "257 Island Road, , " -->
+    <tag k="addr:housenumber" v="257"/>
+    <tag k="addr:street" v="Island Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62569"/>
+  </node>
+  <node id="-243" visible="true" lat="44.87696075" lon="-72.05201721">
+    <!-- match: "2720 Vermont Route 105, , VT"  ignoring missing state when matching to "2720 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="2720"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62575"/>
+  </node>
+  <node id="-244" visible="true" lat="44.87702941" lon="-72.07696533">
+    <!-- match: "1646 Dane Hill Road, , VT"  ignoring missing state when matching to "1646 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="1646"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62576"/>
+  </node>
+  <node id="-245" visible="true" lat="44.87690084" lon="-72.05920218">
+    <!-- match: "59 Aspen Drive, , VT"  ignoring missing state when matching to "59 Aspen Drive, , " -->
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="Aspen Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62577"/>
+  </node>
+  <node id="-246" visible="true" lat="44.87665164" lon="-72.05923536">
+    <!-- match: "69 Aspen Drive, , VT"  ignoring missing state when matching to "69 Aspen Drive, , " -->
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Aspen Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62578"/>
+  </node>
+  <node id="-248" visible="true" lat="44.87650851" lon="-72.05176495">
+    <!-- match: "2770 Vermont Route 105, , VT"  ignoring missing state when matching to "2770 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="2770"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62580"/>
+  </node>
+  <node id="-249" visible="true" lat="44.87643858" lon="-72.05975249">
+    <!-- match: "86 Aspen Drive, , VT"  ignoring missing state when matching to "86 Aspen Drive, , " -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Aspen Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62581"/>
+  </node>
+  <node id="-251" visible="true" lat="44.87578341" lon="-72.06132029">
+    <!-- match: "694 Vermont Route 5A, , VT"  ignoring missing state when matching to "694 Vermont Route 5A, , " -->
+    <tag k="addr:housenumber" v="694"/>
+    <tag k="addr:street" v="Vermont Route 5A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62583"/>
+  </node>
+  <node id="-252" visible="true" lat="44.87596012" lon="-72.0600632">
+    <!-- match: "695 Vermont Route 5A, , VT"  ignoring missing state when matching to "695 Vermont Route 5A, , " -->
+    <tag k="addr:housenumber" v="695"/>
+    <tag k="addr:street" v="Vermont Route 5A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62584"/>
+  </node>
+  <node id="-253" visible="true" lat="44.87521362" lon="-72.06005859">
+    <!-- match: "725 Vermont Route 5A, , VT"  ignoring missing state when matching to "725 Vermont Route 5A, , " -->
+    <tag k="addr:housenumber" v="725"/>
+    <tag k="addr:street" v="Vermont Route 5A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62585"/>
+  </node>
+  <node id="-254" visible="true" lat="44.87417983" lon="-72.0512619">
+    <!-- match: "2936 Vermont Route 105, , VT"  ignoring missing state when matching to "2936 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="2936"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62586"/>
+  </node>
+  <node id="-255" visible="true" lat="44.8743316" lon="-72.07832226">
+    <!-- match: "1858 Dane Hill Road, , VT"  ignoring missing state when matching to "1858 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="1858"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62587"/>
+  </node>
+  <node id="-259" visible="true" lat="44.87202453" lon="-72.06104278">
+    <!-- match: "930 Vermont Route 5A, , VT"  ignoring missing state when matching to "930 Vermont Route 5A, , " -->
+    <tag k="addr:housenumber" v="930"/>
+    <tag k="addr:street" v="Vermont Route 5A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62591"/>
+  </node>
+  <node id="-265" visible="true" lat="44.87099075" lon="-72.04986572">
+    <!-- match: "3156 Vermont Route 105, , VT"  ignoring missing state when matching to "3156 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="3156"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62597"/>
+  </node>
+  <node id="-271" visible="true" lat="44.8697853" lon="-72.05078887">
+    <!-- match: "3184 Vermont Route 105, , VT"  ignoring missing state when matching to "3184 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="3184"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62603"/>
+  </node>
+  <node id="-273" visible="true" lat="44.86917705" lon="-72.04631314">
+    <!-- match: "93 Smith Farm Road, , VT"  ignoring missing state when matching to "93 Smith Farm Road, , " -->
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Smith Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62605"/>
+  </node>
+  <node id="-282" visible="true" lat="44.86877286" lon="-72.05927368">
+    <!-- match: "1201 Vermont Route 5A, , VT"  ignoring missing state when matching to "1201 Vermont Route 5A, , " -->
+    <tag k="addr:housenumber" v="1201"/>
+    <tag k="addr:street" v="Vermont Route 5A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62614"/>
+  </node>
+  <node id="-289" visible="true" lat="44.86767394" lon="-72.0289137">
+    <!-- match: "527 Willis Road, , VT"  ignoring missing state when matching to "527 Willis Road, , " -->
+    <tag k="addr:housenumber" v="527"/>
+    <tag k="addr:street" v="Willis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62622"/>
+  </node>
+  <node id="-322" visible="true" lat="44.86702016" lon="-72.04356653">
+    <!-- match: "3673 Vermont Route 105, , VT"  ignoring missing state when matching to "3673 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="3673"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62655"/>
+  </node>
+  <node id="-333" visible="true" lat="44.86423562" lon="-72.02817233">
+    <!-- match: "432 Willis Road, , VT"  ignoring missing state when matching to "432 Willis Road, , " -->
+    <tag k="addr:housenumber" v="432"/>
+    <tag k="addr:street" v="Willis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62666"/>
+  </node>
+  <node id="-343" visible="true" lat="44.8632965" lon="-72.0324707">
+    <!-- match: "224 Willis Road, , VT"  ignoring missing state when matching to "224 Willis Road, , " -->
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="Willis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62676"/>
+  </node>
+  <node id="-346" visible="true" lat="44.86318036" lon="-72.05363836">
+    <!-- match: "1688 Vermont Route 5A, , VT"  ignoring missing state when matching to "1688 Vermont Route 5A, , " -->
+    <tag k="addr:housenumber" v="1688"/>
+    <tag k="addr:street" v="Vermont Route 5A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62679"/>
+  </node>
+  <node id="-352" visible="true" lat="44.8626359" lon="-72.03474509">
+    <!-- match: "123 Willis Road, , VT"  ignoring missing state when matching to "123 Willis Road, , " -->
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Willis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62685"/>
+  </node>
+  <node id="-355" visible="true" lat="44.86221417" lon="-72.03795399">
+    <!-- match: "3960 Vermont Route 105, , VT"  ignoring missing state when matching to "3960 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="3960"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62688"/>
+  </node>
+  <node id="-356" visible="true" lat="44.8615894" lon="-72.03650481">
+    <!-- match: "23 Willis Road, , VT"  ignoring missing state when matching to "23 Willis Road, , " -->
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Willis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62689"/>
+  </node>
+  <node id="-360" visible="true" lat="44.86113709" lon="-72.04946597">
+    <!-- match: "139 Parlin Meadow Road, , VT"  ignoring missing state when matching to "139 Parlin Meadow Road, , " -->
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:street" v="Parlin Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62693"/>
+  </node>
+  <node id="-367" visible="true" lat="44.86007848" lon="-72.05154727">
+    <!-- match: "1948 Vermont Route 5A, , VT"  ignoring missing state when matching to "1948 Vermont Route 5A, , " -->
+    <tag k="addr:housenumber" v="1948"/>
+    <tag k="addr:street" v="Vermont Route 5A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62700"/>
+  </node>
+  <node id="-370" visible="true" lat="44.85947149" lon="-72.03019007">
+    <!-- match: "339 Carpenter Boulevard, , VT"  ignoring missing state when matching to "339 Carpenter Boulevard, , " -->
+    <tag k="addr:housenumber" v="339"/>
+    <tag k="addr:street" v="Carpenter Boulevard"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62703"/>
+  </node>
+  <node id="-374" visible="true" lat="44.85869979" lon="-72.05342865">
+    <!-- match: "2068 Vermont Route 5A, , VT"  ignoring missing state when matching to "2068 Vermont Route 5A, , " -->
+    <tag k="addr:housenumber" v="2068"/>
+    <tag k="addr:street" v="Vermont Route 5A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62707"/>
+  </node>
+  <node id="-383" visible="true" lat="44.85792541" lon="-72.03562164">
+    <!-- match: "4408 Vermont Route 105, , VT"  ignoring missing state when matching to "4408 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="4408"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62716"/>
+  </node>
+  <node id="-388" visible="true" lat="44.85731506" lon="-72.03335245">
+    <!-- match: "93 Carpenter Boulevard, , VT"  ignoring missing state when matching to "93 Carpenter Boulevard, , " -->
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Carpenter Boulevard"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62721"/>
+  </node>
+  <node id="-392" visible="true" lat="44.85697429" lon="-72.03399297">
+    <!-- match: "23 Carpenter Boulevard, , VT"  ignoring missing state when matching to "23 Carpenter Boulevard, , " -->
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Carpenter Boulevard"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62725"/>
+  </node>
+  <node id="-400" visible="true" lat="44.85642623" lon="-72.03303527">
+    <!-- match: "4533 Vermont Route 105, , VT"  ignoring missing state when matching to "4533 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="4533"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62733"/>
+  </node>
+  <node id="-412" visible="true" lat="44.85542297" lon="-72.0313034">
+    <!-- match: "4629 Vermont Route 105, , VT"  ignoring missing state when matching to "4629 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="4629"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62745"/>
+  </node>
+  <node id="-414" visible="true" lat="44.85558942" lon="-72.03488818">
+    <!-- match: "4518 Vermont Route 105, , VT"  ignoring missing state when matching to "4518 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="4518"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62747"/>
+  </node>
+  <node id="-430" visible="true" lat="44.85368347" lon="-72.03206634">
+    <!-- match: "4686 Vermont Route 105, , VT"  ignoring missing state when matching to "4686 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="4686"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62763"/>
+  </node>
+  <node id="-433" visible="true" lat="44.85302734" lon="-72.02773284">
+    <!-- match: "4861 Vermont Route 105, , VT"  ignoring missing state when matching to "4861 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="4861"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62766"/>
+  </node>
+  <node id="-440" visible="true" lat="44.85186767" lon="-72.01782989">
+    <!-- match: "338 Bly Farm Road, , VT"  ignoring missing state when matching to "338 Bly Farm Road, , " -->
+    <tag k="addr:housenumber" v="338"/>
+    <tag k="addr:street" v="Bly Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62773"/>
+  </node>
+  <node id="-443" visible="true" lat="44.85150146" lon="-72.02758026">
+    <!-- match: "4965 Vermont Route 105, , VT"  ignoring missing state when matching to "4965 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="4965"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62776"/>
+  </node>
+  <node id="-446" visible="true" lat="44.85103225" lon="-72.02525329">
+    <!-- match: "5071 Vermont Route 105, , VT"  ignoring missing state when matching to "5071 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="5071"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62779"/>
+  </node>
+  <node id="-448" visible="true" lat="44.85074061" lon="-72.02774585">
+    <!-- match: "4996 Vermont Route 105, , VT"  ignoring missing state when matching to "4996 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="4996"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62781"/>
+  </node>
+  <node id="-450" visible="true" lat="44.85074615" lon="-72.02550506">
+    <tag k="addr:housenumber" v="5063"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62783"/>
+  </node>
+  <node id="-455" visible="true" lat="44.849994" lon="-72.02466103">
+    <!-- match: "5137 Vermont Route 105, , VT"  ignoring missing state when matching to "5137 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="5137"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62788"/>
+  </node>
+  <node id="-456" visible="true" lat="44.84979776" lon="-72.02598333">
+    <!-- match: "5078 Vermont Route 105, , VT"  ignoring missing state when matching to "5078 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="5078"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62789"/>
+  </node>
+  <node id="-459" visible="true" lat="44.8494474" lon="-72.02334588">
+    <!-- match: "5197 Vermont Route 105, , VT"  ignoring missing state when matching to "5197 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="5197"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62792"/>
+  </node>
+  <node id="-465" visible="true" lat="44.84871543" lon="-72.02234219">
+    <!-- match: "5281 Vermont Route 105, , VT"  ignoring missing state when matching to "5281 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="5281"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62798"/>
+  </node>
+  <node id="-467" visible="true" lat="44.84815248" lon="-72.02029078">
+    <!-- match: "5353 Vermont Route 105, , VT"  ignoring missing state when matching to "5353 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="5353"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62801"/>
+  </node>
+  <node id="-472" visible="true" lat="44.8469969" lon="-72.01934156">
+    <!-- match: "27 Bly Farm Road, , VT"  ignoring missing state when matching to "27 Bly Farm Road, , " -->
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Bly Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62806"/>
+  </node>
+  <node id="-480" visible="true" lat="44.84627597" lon="-72.01475531">
+    <!-- match: "5689 Vermont Route 105, , VT"  ignoring missing state when matching to "5689 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="5689"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62814"/>
+  </node>
+  <node id="-493" visible="true" lat="44.84333447" lon="-72.01188234">
+    <!-- match: "5904 Vermont Route 105, , VT"  ignoring missing state when matching to "5904 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="5904"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62827"/>
+  </node>
+  <node id="-497" visible="true" lat="44.84191894" lon="-72.02166748">
+    <!-- match: "354 Center School Road, , VT"  ignoring missing state when matching to "354 Center School Road, , " -->
+    <tag k="addr:housenumber" v="354"/>
+    <tag k="addr:street" v="Center School Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62831"/>
+  </node>
+  <node id="-501" visible="true" lat="44.84113149" lon="-72.0251285">
+    <!-- match: "466 Center School Road, , VT"  ignoring missing state when matching to "466 Center School Road, , " -->
+    <tag k="addr:housenumber" v="466"/>
+    <tag k="addr:street" v="Center School Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62835"/>
+  </node>
+  <node id="-510" visible="true" lat="44.83975624" lon="-72.02336241">
+    <!-- match: "528 Center School Road, , VT"  ignoring missing state when matching to "528 Center School Road, , " -->
+    <tag k="addr:housenumber" v="528"/>
+    <tag k="addr:street" v="Center School Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62844"/>
+  </node>
   <node id="-582" visible="true" lat="44.82131011" lon="-72.03338388">
     <tag k="addr:housenumber" v="1462"/>
     <tag k="addr:street" v="Town Farm Road"/>
@@ -18,11 +695,67 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="62976"/>
   </node>
+  <node id="-640" visible="true" lat="44.89411224" lon="-72.06676584">
+    <!-- match: "304 Dane Hill Road, , VT"  ignoring missing state when matching to "304 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="304"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62979"/>
+  </node>
+  <node id="-641" visible="true" lat="44.88929058" lon="-72.0693014">
+    <!-- match: "667 Dane Hill Road, , VT"  ignoring missing state when matching to "667 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="667"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62980"/>
+  </node>
+  <node id="-656" visible="true" lat="44.85373863" lon="-72.03032091">
+    <!-- match: "4767 Vermont Route 105, , VT"  ignoring missing state when matching to "4767 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="4767"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62996"/>
+  </node>
+  <node id="-663" visible="true" lat="44.85270346" lon="-72.02512807">
+    <!-- match: "5029 Vermont Route 105, , VT"  ignoring missing state when matching to "5029 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="5029"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63003"/>
+  </node>
+  <node id="-664" visible="true" lat="44.85005273" lon="-72.01900987">
+    <!-- match: "235 Bly Farm Road, , VT"  ignoring missing state when matching to "235 Bly Farm Road, , " -->
+    <tag k="addr:housenumber" v="235"/>
+    <tag k="addr:street" v="Bly Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63005"/>
+  </node>
   <node id="-680" visible="true" lat="44.79304041" lon="-71.98574042">
     <tag k="addr:housenumber" v="1011"/>
     <tag k="addr:street" v="Mad Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63022"/>
+  </node>
+  <node id="-681" visible="true" lat="44.8999867" lon="-72.07565477">
+    <!-- match: "372 Vermont Route 105, , VT"  ignoring missing state when matching to "372 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="372"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63024"/>
+  </node>
+  <node id="-682" visible="true" lat="44.89752834" lon="-72.05726576">
+    <!-- match: "1211 Vermont Route 105, , VT"  ignoring missing state when matching to "1211 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="1211"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63025"/>
+  </node>
+  <node id="-691" visible="true" lat="44.84356814" lon="-72.02042266">
+    <!-- match: "244 Center School Road, , VT"  ignoring missing state when matching to "244 Center School Road, , " -->
+    <tag k="addr:housenumber" v="244"/>
+    <tag k="addr:street" v="Center School Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63035"/>
   </node>
   <node id="-692" visible="true" lat="44.8189586" lon="-72.03493552">
     <tag k="addr:housenumber" v="1658"/>
@@ -30,16 +763,198 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63036"/>
   </node>
+  <node id="-699" visible="true" lat="44.8945761" lon="-72.07654428">
+    <!-- match: "456 Vermont Route 105, , VT"  ignoring missing state when matching to "456 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="456"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63043"/>
+  </node>
+  <node id="-706" visible="true" lat="44.86533586" lon="-72.04477385">
+    <!-- match: "3594 Vermont Route 105, , VT"  ignoring missing state when matching to "3594 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="3594"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63052"/>
+  </node>
+  <node id="-707" visible="true" lat="44.86481625" lon="-72.04103218">
+    <!-- match: "3779 Vermont Route 105, , VT"  ignoring missing state when matching to "3779 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="3779"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63053"/>
+  </node>
+  <node id="-739" visible="true" lat="44.89394878" lon="-72.06984405">
+    <!-- match: "386 Dane Hill Road, , VT"  ignoring missing state when matching to "386 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="386"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63086"/>
+  </node>
+  <node id="-742" visible="true" lat="44.89440031" lon="-72.06683686">
+    <!-- match: "302 Dane Hill Road, , VT"  ignoring missing state when matching to "302 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="302"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63090"/>
+  </node>
+  <node id="-743" visible="true" lat="44.87213538" lon="-72.05129321">
+    <!-- match: "3052 Vermont Route 105, , VT"  ignoring missing state when matching to "3052 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="3052"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63091"/>
+  </node>
+  <node id="-744" visible="true" lat="44.86565798" lon="-72.03050657">
+    <!-- match: "413 Willis Road, , VT"  ignoring missing state when matching to "413 Willis Road, , " -->
+    <tag k="addr:housenumber" v="413"/>
+    <tag k="addr:street" v="Willis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63092"/>
+  </node>
+  <node id="-745" visible="true" lat="44.86355988" lon="-72.04907043">
+    <!-- match: "37 Parlin Meadow Road, , VT"  ignoring missing state when matching to "37 Parlin Meadow Road, , " -->
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Parlin Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63093"/>
+  </node>
+  <node id="-762" visible="true" lat="44.90387809" lon="-72.07367337">
+    <!-- match: "185 Vermont Route 105, , VT"  ignoring missing state when matching to "185 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313136"/>
+  </node>
+  <node id="-777" visible="true" lat="44.84192417" lon="-72.02076773">
+    <!-- match: "321 Center School Road, , VT"  ignoring missing state when matching to "321 Center School Road, , " -->
+    <tag k="addr:housenumber" v="321"/>
+    <tag k="addr:street" v="Center School Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313243"/>
+  </node>
   <node id="-778" visible="true" lat="44.84356691" lon="-72.01247423">
     <tag k="addr:housenumber" v="5864"/>
     <tag k="addr:street" v="Vermont Route 105"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="313246"/>
   </node>
+  <node id="-808" visible="true" lat="44.89499417" lon="-72.06463182">
+    <!-- match: "177 Dane Hill Road, , VT"  ignoring missing state when matching to "177 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313280"/>
+  </node>
   <node id="-815" visible="true" lat="44.84296899" lon="-71.98839897">
     <tag k="addr:housenumber" v="271"/>
     <tag k="addr:street" v="Church Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="313287"/>
+  </node>
+  <node id="-823" visible="true" lat="44.86321835" lon="-72.04137854">
+    <!-- match: "3810 Vermont Route 105, , VT"  ignoring missing state when matching to "3810 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="3810"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="328558"/>
+  </node>
+  <node id="-831" visible="true" lat="44.85287158" lon="-72.03404204">
+    <!-- match: "4570 Vermont Route 105, , VT"  ignoring missing state when matching to "4570 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="4570"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="331921"/>
+  </node>
+  <node id="-834" visible="true" lat="44.87515098" lon="-72.05159956">
+    <!-- match: "2856 Vermont Route 105, , VT"  ignoring missing state when matching to "2856 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="2856"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="335300"/>
+  </node>
+  <node id="-876" visible="true" lat="44.86402873" lon="-72.04236641">
+    <!-- match: "3746 Vermont Route 105, , VT"  ignoring missing state when matching to "3746 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="3746"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620350"/>
+  </node>
+  <node id="-877" visible="true" lat="44.88203932" lon="-72.0540045">
+    <!-- match: "2312 Vermont Route 105, , VT"  ignoring missing state when matching to "2312 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="2312"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620351"/>
+  </node>
+  <node id="-881" visible="true" lat="44.8755696" lon="-72.05161428">
+    <!-- match: "2836 Vermont Route 105, , VT"  ignoring missing state when matching to "2836 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="2836"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620579"/>
+  </node>
+  <node id="-882" visible="true" lat="44.8754864" lon="-72.05164841">
+    <!-- match: "2840 Vermont Route 105, , VT"  ignoring missing state when matching to "2840 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="2840"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620580"/>
+  </node>
+  <node id="-884" visible="true" lat="44.89185351" lon="-72.07072989">
+    <!-- match: "550 Dane Hill Road, , VT"  ignoring missing state when matching to "550 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="550"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620582"/>
+  </node>
+  <node id="-900" visible="true" lat="44.88156336" lon="-72.05264617">
+    <!-- match: "2314 Vermont Route 105, , VT"  ignoring missing state when matching to "2314 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="2314"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750917"/>
+  </node>
+  <node id="-902" visible="true" lat="44.8642887" lon="-72.05135842">
+    <!-- match: "1687 Vermont Route 5A, , VT"  ignoring missing state when matching to "1687 Vermont Route 5A, , " -->
+    <tag k="addr:housenumber" v="1687"/>
+    <tag k="addr:street" v="Vermont Route 5A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750919"/>
+  </node>
+  <node id="-910" visible="true" lat="44.86213785" lon="-72.03416599">
+    <!-- match: "124 Willis Road, , VT"  ignoring missing state when matching to "124 Willis Road, , " -->
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Willis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755773"/>
+  </node>
+  <node id="-911" visible="true" lat="44.86207443" lon="-72.0337689">
+    <!-- match: "126 Willis Road, , VT"  ignoring missing state when matching to "126 Willis Road, , " -->
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Willis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755774"/>
+  </node>
+  <node id="-915" visible="true" lat="44.90372866" lon="-72.07637035">
+    <!-- match: "116 Vermont Route 105, , VT"  ignoring missing state when matching to "116 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757316"/>
+  </node>
+  <node id="-918" visible="true" lat="44.87384097" lon="-72.04953061">
+    <!-- match: "2919 Vermont Route 105, , VT"  ignoring missing state when matching to "2919 Vermont Route 105, , " -->
+    <tag k="addr:housenumber" v="2919"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758147"/>
+  </node>
+  <node id="-921" visible="true" lat="44.88218068" lon="-72.07243341">
+    <!-- match: "1043 Dane Hill Road, , VT"  ignoring missing state when matching to "1043 Dane Hill Road, , " -->
+    <tag k="addr:housenumber" v="1043"/>
+    <tag k="addr:street" v="Dane Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759799"/>
   </node>
 </osm>

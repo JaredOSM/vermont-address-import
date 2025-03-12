@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-104" visible="true" lat="43.4638138" lon="-73.20519499">
     <!-- conflict: "5064 Vermont Route 30, Wells, VT" No match in OSM, but a different address exists <5m away: "5064 Vt Route 30, Wells, VT" -->
     <tag k="addr:city" v="Wells"/>
@@ -56,6 +56,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="277943"/>
   </node>
+  <node id="-220" visible="true" lat="43.45302489" lon="-73.2238022">
+    <!-- conflict: "3680 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3680 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="3680"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="277952"/>
+  </node>
   <node id="-222" visible="true" lat="43.45288196" lon="-73.242077">
     <!-- conflict: "4507 Vermont Route 31, Wells, VT" No match in OSM, but a different address exists <5m away: "4507 Vt Route 31, Wells, VT" -->
     <tag k="addr:city" v="Wells"/>
@@ -71,6 +79,38 @@
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="277956"/>
+  </node>
+  <node id="-224" visible="true" lat="43.45246417" lon="-73.22672108">
+    <!-- conflict: "3532 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3532 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="3532"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="277957"/>
+  </node>
+  <node id="-227" visible="true" lat="43.45221936" lon="-73.22782155">
+    <!-- conflict: "3477 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3477 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="3477"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="277960"/>
+  </node>
+  <node id="-236" visible="true" lat="43.4515233" lon="-73.22797396">
+    <!-- conflict: "3441 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3441 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="3441"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="277971"/>
+  </node>
+  <node id="-240" visible="true" lat="43.45147705" lon="-73.22865295">
+    <!-- conflict: "3415 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3415 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="3415"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="277976"/>
   </node>
   <node id="-247" visible="true" lat="43.45079333" lon="-73.20400789">
     <!-- conflict: "4153 Vermont Route 30, Wells, VT" No match in OSM, but a different address exists <5m away: "4153 Vt Route 30, Wells, VT" -->
@@ -112,6 +152,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="277992"/>
   </node>
+  <node id="-256" visible="true" lat="43.44979705" lon="-73.224523">
+    <!-- conflict: "3378 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3378 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="3378"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="277993"/>
+  </node>
   <node id="-258" visible="true" lat="43.44984545" lon="-73.20396967">
     <!-- conflict: "4087 Vermont Route 30, Wells, VT" No match in OSM, but a different address exists <5m away: "4087 Vt Route 30, Wells, VT" -->
     <tag k="addr:city" v="Wells"/>
@@ -120,6 +168,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="277995"/>
   </node>
+  <node id="-262" visible="true" lat="43.44911204" lon="-73.22633514">
+    <!-- conflict: "3274 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3274 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="3274"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="277999"/>
+  </node>
   <node id="-264" visible="true" lat="43.44926264" lon="-73.20400512">
     <!-- conflict: "4047 Vermont Route 30, Wells, VT" No match in OSM, but a different address exists <5m away: "4047 Vt Route 30, Wells, VT" -->
     <tag k="addr:city" v="Wells"/>
@@ -127,6 +183,14 @@
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278001"/>
+  </node>
+  <node id="-266" visible="true" lat="43.44901263" lon="-73.22836573">
+    <!-- conflict: "3251 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3251 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="3251"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="278003"/>
   </node>
   <node id="-269" visible="true" lat="43.44902865" lon="-73.20404645">
     <!-- conflict: "4029 Vermont Route 30, Wells, VT" No match in OSM, but a different address exists <5m away: "4029 Vt Route 30, Wells, VT" -->
@@ -160,6 +224,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278012"/>
   </node>
+  <node id="-276" visible="true" lat="43.44847717" lon="-73.22621808">
+    <!-- conflict: "3248 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3248 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="3248"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="278013"/>
+  </node>
   <node id="-284" visible="true" lat="43.44854448" lon="-73.20408246">
     <!-- conflict: "3995 Vermont Route 30, Wells, VT" No match in OSM, but a different address exists <5m away: "3995 Vt Route 30, Wells, VT" -->
     <tag k="addr:city" v="Wells"/>
@@ -175,6 +247,14 @@
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278026"/>
+  </node>
+  <node id="-301" visible="true" lat="43.44767128" lon="-73.22534055">
+    <!-- conflict: "3192 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3192 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="3192"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="278040"/>
   </node>
   <node id="-303" visible="true" lat="43.44792294" lon="-73.20389019">
     <!-- conflict: "3955 Vermont Route 30, Wells, VT" No match in OSM, but a different address exists <5m away: "3955 Vt Route 30, Wells, VT" -->
@@ -207,6 +287,14 @@
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278055"/>
+  </node>
+  <node id="-318" visible="true" lat="43.44681471" lon="-73.22787731">
+    <!-- conflict: "3113 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3113 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="3113"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="278058"/>
   </node>
   <node id="-319" visible="true" lat="43.44689778" lon="-73.20358377">
     <!-- conflict: "3885 Vermont Route 30, Wells, VT" No match in OSM, but a different address exists <5m away: "3885 Vt Route 30, Wells, VT" -->
@@ -256,6 +344,38 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278079"/>
   </node>
+  <node id="-348" visible="true" lat="43.44558349" lon="-73.2258635">
+    <!-- conflict: "3034 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3034 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="3034"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="278090"/>
+  </node>
+  <node id="-356" visible="true" lat="43.44418723" lon="-73.22705984">
+    <!-- conflict: "2906 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "2906 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="2906"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="278098"/>
+  </node>
+  <node id="-357" visible="true" lat="43.44412367" lon="-73.22916439">
+    <!-- conflict: "2901 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "2901 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="2901"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="278099"/>
+  </node>
+  <node id="-360" visible="true" lat="43.44407967" lon="-73.22632014">
+    <!-- conflict: "2902 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "2902 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="2902"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="278102"/>
+  </node>
   <node id="-368" visible="true" lat="43.44346002" lon="-73.2472194">
     <!-- conflict: "5225 Vermont Route 31, Wells, VT" No match in OSM, but a different address exists <5m away: "5225 Vt Route 31, Wells, VT" -->
     <tag k="addr:city" v="Wells"/>
@@ -280,6 +400,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278147"/>
   </node>
+  <node id="-409" visible="true" lat="43.43834732" lon="-73.23183934">
+    <!-- conflict: "2447 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "2447 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="2447"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="278151"/>
+  </node>
   <node id="-571" visible="true" lat="43.4234981" lon="-73.12168523">
     <!-- conflict: "156 Vermont Route 133 W Tinmouth Road, Wells, VT" No match in OSM, but a different address exists <5m away: "156 West Tinmouth Road, Wells, VT" -->
     <tag k="addr:city" v="Wells"/>
@@ -287,6 +415,14 @@
     <tag k="addr:street" v="Vermont Route 133 W Tinmouth Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278320"/>
+  </node>
+  <node id="-602" visible="true" lat="43.42144012" lon="-73.23780059">
+    <!-- conflict: "1223 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "1223 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="1223"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="278351"/>
   </node>
   <node id="-697" visible="true" lat="43.4175324" lon="-73.20831554">
     <!-- conflict: "1261 Vermont Route 30, Wells, VT" No match in OSM, but a different address exists <5m away: "1261 Vt Route 30, Wells, VT" -->
@@ -400,21 +536,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278479"/>
   </node>
-  <node id="-925" visible="true" lat="43.45078368" lon="-73.24375598">
-    <!-- conflict: "4738 Vermont Route 31, Wells, VT" No match in OSM, but a different address exists <5m away: "4738 Vt Route 31, Wells, VT" -->
+  <node id="-1010" visible="true" lat="43.45202036" lon="-73.22785031">
+    <!-- conflict: "3471 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3471 Bullfrog Hollow Road, Wells, VT" -->
     <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="4738"/>
-    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="addr:housenumber" v="3471"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310909"/>
-  </node>
-  <node id="-1013" visible="true" lat="43.4520447" lon="-73.24355998">
-    <!-- conflict: "4574 Vermont Route 31, Wells, VT" No match in OSM, but a different address exists <5m away: "4574 Vt Route 31, Wells, VT" -->
-    <tag k="addr:city" v="Wells"/>
-    <tag k="addr:housenumber" v="4574"/>
-    <tag k="addr:street" v="Vermont Route 31"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="339199"/>
+    <tag k="ref:vcgi:esiteid" v="339060"/>
   </node>
   <node id="-1043" visible="true" lat="43.42067673" lon="-73.2053883">
     <!-- conflict: "27 Saint Catherine Court, Wells, VT" No match in OSM, but a different address exists <5m away: "17 Saint Catherine Court, Wells, VT" -->
@@ -440,6 +568,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="344830"/>
   </node>
+  <node id="-1056" visible="true" lat="43.44231958" lon="-73.2289466">
+    <!-- conflict: "2737 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "2737 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="2737"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="344863"/>
+  </node>
   <node id="-1060" visible="true" lat="43.4166578" lon="-73.20788088">
     <!-- conflict: "1272 Vermont Route 30, Wells, VT" No match in OSM, but a different address exists <5m away: "1272 Vt Route 30, Wells, VT" -->
     <tag k="addr:city" v="Wells"/>
@@ -455,5 +591,13 @@
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452494"/>
+  </node>
+  <node id="-1112" visible="true" lat="43.44910531" lon="-73.22515848">
+    <!-- conflict: "3276 Bull Frog Hollow Road, Wells, VT" Fuzzy match to "3276 Bullfrog Hollow Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="3276"/>
+    <tag k="addr:street" v="Bull Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612232"/>
   </node>
 </osm>

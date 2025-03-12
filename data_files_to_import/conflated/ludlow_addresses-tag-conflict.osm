@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-286" visible="true" lat="43.43566152" lon="-72.72883536">
     <!-- conflict: "1360 Vermont Route 103 North, Ludlow, VT" No match in OSM, but a different address exists <5m away: "1360 Vt Route 103 North, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
@@ -40,13 +40,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143296"/>
   </node>
-  <node id="-1926" visible="true" lat="43.39562541" lon="-72.69646899">
-    <!-- conflict: "1 Elm Street, Ludlow, VT" Fuzzy match to "1 Elm Street, Ludlow, " -->
+  <node id="-1311" visible="true" lat="43.3954768" lon="-72.70072912">
+    <!-- conflict: "44 Depot Street, Ludlow, VT" Fuzzy match to "44 South Depot Street, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Depot Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="144488"/>
+    <tag k="ref:vcgi:esiteid" v="143832"/>
   </node>
   <node id="-2754" visible="true" lat="43.41661466" lon="-72.74012861">
     <!-- conflict: "1380 Mountain Road, Ludlow, VT" Fuzzy match to "1380 Mountain Road, Mount Holly, VT" -->

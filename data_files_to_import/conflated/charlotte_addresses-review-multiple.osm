@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-901" visible="true" lat="44.30598306" lon="-73.24529506">
+    <!-- multiple: "3488 Ethan Allen Highway, Charlotte, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Charlotte"/>
+    <tag k="addr:housenumber" v="3488"/>
+    <tag k="addr:street" v="Ethan Allen Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63939"/>
+  </node>
 </osm>

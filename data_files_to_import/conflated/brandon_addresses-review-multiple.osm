@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-909" visible="true" lat="43.80109311" lon="-73.0941551">
+    <!-- multiple: "11 Grove Street, Brandon, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brandon"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="28608"/>
+  </node>
   <node id="-954" visible="true" lat="43.80029544" lon="-73.09257266">
     <!-- multiple: "37 Conant Square, Brandon, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brandon"/>

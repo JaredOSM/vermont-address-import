@@ -1,10 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-146" visible="true" lat="43.87160347" lon="-72.58707146">
+    <!-- match: "60 Store Hill Road, , VT"  ignoring missing state when matching to "60 Store Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Store Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24053"/>
+  </node>
+  <node id="-147" visible="true" lat="43.871268" lon="-72.58699396">
+    <!-- match: "78 Store Hill Road, , VT"  ignoring missing state when matching to "78 Store Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Store Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24054"/>
+  </node>
+  <node id="-148" visible="true" lat="43.87077304" lon="-72.5869081">
+    <!-- match: "529 Oxbow Road, , VT"  ignoring missing state when matching to "529 Oxbow Road, Bethel, " -->
+    <tag k="addr:housenumber" v="529"/>
+    <tag k="addr:street" v="Oxbow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24055"/>
+  </node>
+  <node id="-149" visible="true" lat="43.87052414" lon="-72.58690024">
+    <!-- match: "136 Store Hill Road, , VT"  ignoring missing state when matching to "136 Store Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Store Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24056"/>
+  </node>
+  <node id="-150" visible="true" lat="43.87026876" lon="-72.58690743">
+    <!-- match: "146 Store Hill Road, , VT"  ignoring missing state when matching to "146 Store Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="146"/>
+    <tag k="addr:street" v="Store Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24057"/>
+  </node>
+  <node id="-151" visible="true" lat="43.8698085" lon="-72.58687266">
+    <!-- match: "176 Store Hill Road, , VT"  ignoring missing state when matching to "176 Store Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="176"/>
+    <tag k="addr:street" v="Store Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24058"/>
+  </node>
+  <node id="-152" visible="true" lat="43.86931044" lon="-72.58629685">
+    <!-- match: "217 Store Hill Road, , VT"  ignoring missing state when matching to "217 Store Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:street" v="Store Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24059"/>
+  </node>
+  <node id="-153" visible="true" lat="43.87031708" lon="-72.58638357">
+    <!-- match: "145 Store Hill Road, , VT"  ignoring missing state when matching to "145 Store Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Store Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24060"/>
+  </node>
+  <node id="-154" visible="true" lat="43.87054381" lon="-72.58645064">
+    <!-- match: "131 Store Hill Road, , VT"  ignoring missing state when matching to "131 Store Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:street" v="Store Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24061"/>
+  </node>
+  <node id="-155" visible="true" lat="43.87083962" lon="-72.58640796">
+    <!-- match: "107 Store Hill Road, , VT"  ignoring missing state when matching to "107 Store Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Store Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24062"/>
+  </node>
+  <node id="-156" visible="true" lat="43.87119379" lon="-72.58614814">
+    <!-- match: "81 Store Hill Road, , VT"  ignoring missing state when matching to "81 Store Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Store Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24063"/>
+  </node>
+  <node id="-157" visible="true" lat="43.87167135" lon="-72.58648804">
+    <!-- match: "53 Store Hill Road, , VT"  ignoring missing state when matching to "53 Store Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Store Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24064"/>
+  </node>
+  <node id="-158" visible="true" lat="43.87231902" lon="-72.58642844">
+    <!-- match: "147 Factory Hill Road, , VT"  ignoring missing state when matching to "147 Factory Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:street" v="Factory Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24065"/>
+  </node>
+  <node id="-185" visible="true" lat="43.87328472" lon="-72.58452722">
+    <!-- match: "34 Factory Hill Road, , VT"  ignoring missing state when matching to "34 Factory Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Factory Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24092"/>
+  </node>
+  <node id="-188" visible="true" lat="43.8727577" lon="-72.58675918">
+    <!-- match: "138 Factory Hill Road, , VT"  ignoring missing state when matching to "138 Factory Hill Road, Bethel, " -->
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="Factory Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24095"/>
+  </node>
   <node id="-266" visible="true" lat="43.83000389" lon="-72.63170266">
     <tag k="addr:housenumber" v="106"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="24174"/>
+  </node>
+  <node id="-364" visible="true" lat="43.83098257" lon="-72.63365665">
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24274"/>
+  </node>
+  <node id="-373" visible="true" lat="43.82683157" lon="-72.62962556">
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24283"/>
   </node>
   <node id="-465" visible="true" lat="43.81064263" lon="-72.65875635">
     <tag k="addr:housenumber" v="2086"/>

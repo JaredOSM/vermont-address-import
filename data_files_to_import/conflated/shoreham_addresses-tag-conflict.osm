@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-327" visible="true" lat="43.89984236" lon="-73.30762375">
     <!-- conflict: "2949 Vermont Route 22A, , VT" No match in OSM, but a different address exists <5m away: "2949 State Route 22A, Shoreham, VT" -->
     <tag k="addr:housenumber" v="2949"/>
@@ -56,26 +56,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225824"/>
   </node>
-  <node id="-422" visible="true" lat="43.89220526" lon="-73.31025359">
-    <!-- conflict: "3442 Vermont Route 22A, , VT" No match in OSM, but a different address exists <5m away: "3442 Vt Route 22A, Shoreham, VT" -->
-    <tag k="addr:housenumber" v="3442"/>
-    <tag k="addr:street" v="Vermont Route 22A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225842"/>
-  </node>
   <node id="-474" visible="true" lat="43.88395878" lon="-73.30987576">
     <!-- conflict: "3994 Vermont Route 22A, , VT" No match in OSM, but a different address exists <5m away: "3994 Vt Route 22A, Shoreham, VT" -->
     <tag k="addr:housenumber" v="3994"/>
     <tag k="addr:street" v="Vermont Route 22A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225898"/>
-  </node>
-  <node id="-645" visible="true" lat="43.85732531" lon="-73.37361522">
-    <!-- conflict: "4668 Vermont Route 74 West, , VT" No match in OSM, but a different address exists <5m away: "4668 Vt Route 74 West, Shoreham, VT" -->
-    <tag k="addr:housenumber" v="4668"/>
-    <tag k="addr:street" v="Vermont Route 74 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="226071"/>
   </node>
   <node id="-646" visible="true" lat="43.85752486" lon="-73.30972299">
     <!-- conflict: "5834 Vermont Route 22A, , VT" No match in OSM, but a different address exists <5m away: "5834 Vt Route 22A, Shoreham, VT" -->
@@ -98,20 +84,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="226076"/>
   </node>
-  <node id="-654" visible="true" lat="43.85575575" lon="-73.37591419">
-    <!-- conflict: "4809 Vermont Route 74 West, , VT" No match in OSM, but a different address exists <5m away: "4809 Vt Route 74 West, Shoreham, VT" -->
-    <tag k="addr:housenumber" v="4809"/>
-    <tag k="addr:street" v="Vermont Route 74 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="226080"/>
-  </node>
-  <node id="-655" visible="true" lat="43.85579045" lon="-73.37429481">
-    <!-- conflict: "4701 Vermont Route 74 West, , VT" No match in OSM, but a different address exists <5m away: "4701 Vt Route 74 West, Shoreham, VT" -->
-    <tag k="addr:housenumber" v="4701"/>
-    <tag k="addr:street" v="Vermont Route 74 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="226081"/>
-  </node>
   <node id="-656" visible="true" lat="43.85576982" lon="-73.37472442">
     <!-- conflict: "4703 Vermont Route 74 West, , VT" No match in OSM, but a different address exists <5m away: "4703 Vt Route 74 West, Shoreham, VT" -->
     <tag k="addr:housenumber" v="4703"/>
@@ -126,32 +98,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="226083"/>
   </node>
-  <node id="-658" visible="true" lat="43.85516207" lon="-73.37570014">
-    <!-- conflict: "4821 Vermont Route 74 West, , VT" No match in OSM, but a different address exists <5m away: "4821 Vt Route 74 West, Shoreham, VT" -->
-    <tag k="addr:housenumber" v="4821"/>
-    <tag k="addr:street" v="Vermont Route 74 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="226084"/>
-  </node>
-  <node id="-662" visible="true" lat="43.85471782" lon="-73.37440588">
-    <!-- conflict: "4675 Vermont Route 74 West, , VT" No match in OSM, but a different address exists <5m away: "4675 Vt Route 74 West, Shoreham, VT" -->
-    <tag k="addr:housenumber" v="4675"/>
-    <tag k="addr:street" v="Vermont Route 74 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="226088"/>
-  </node>
   <node id="-797" visible="true" lat="43.89911434" lon="-73.30887201">
     <!-- conflict: "2936 Vermont Route 22A, , VT" No match in OSM, but a different address exists <5m away: "2936 State Route 22A, Shoreham, VT" -->
     <tag k="addr:housenumber" v="2936"/>
     <tag k="addr:street" v="Vermont Route 22A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310789"/>
-  </node>
-  <node id="-825" visible="true" lat="43.85658763" lon="-73.37341399">
-    <!-- conflict: "4614 Vermont Route 74 West, , VT" No match in OSM, but a different address exists <5m away: "4614 Vt Route 74 West, Shoreham, VT" -->
-    <tag k="addr:housenumber" v="4614"/>
-    <tag k="addr:street" v="Vermont Route 74 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="336153"/>
   </node>
 </osm>

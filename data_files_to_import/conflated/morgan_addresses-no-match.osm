@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.88231897" lon="-72.00602396">
     <tag k="addr:housenumber" v="2383"/>
     <tag k="addr:street" v="Morgan Charleston Road"/>
@@ -150,12 +150,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="167909"/>
   </node>
-  <node id="-185" visible="true" lat="44.9171757" lon="-72.02226653">
-    <tag k="addr:housenumber" v="8874"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167913"/>
-  </node>
   <node id="-187" visible="true" lat="44.91637086" lon="-71.97867296">
     <tag k="addr:housenumber" v="398"/>
     <tag k="addr:street" v="Valley Road"/>
@@ -191,6 +185,12 @@
     <tag k="addr:street" v="Vermont Route 111"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="167928"/>
+  </node>
+  <node id="-204" visible="true" lat="44.91423884" lon="-72.01584489">
+    <tag k="addr:housenumber" v="8502"/>
+    <tag k="addr:street" v="Vermont Route 111"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="167932"/>
   </node>
   <node id="-207" visible="true" lat="44.91389795" lon="-72.01418353">
     <tag k="addr:housenumber" v="36"/>
@@ -708,23 +708,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168039"/>
   </node>
-  <node id="-311" visible="true" lat="44.90772063" lon="-72.01017802">
-    <tag k="addr:housenumber" v="257"/>
-    <tag k="addr:street" v="Twin Camps"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168040"/>
-  </node>
   <node id="-312" visible="true" lat="44.90766354" lon="-71.97839275">
     <tag k="addr:housenumber" v="6179"/>
     <tag k="addr:street" v="Vermont Route 111"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168041"/>
-  </node>
-  <node id="-314" visible="true" lat="44.90747018" lon="-72.00965038">
-    <tag k="addr:housenumber" v="225"/>
-    <tag k="addr:street" v="Twin Camps"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168043"/>
   </node>
   <node id="-316" visible="true" lat="44.90738507" lon="-71.97823254">
     <tag k="addr:housenumber" v="6157"/>
@@ -732,35 +720,17 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168045"/>
   </node>
-  <node id="-317" visible="true" lat="44.90708979" lon="-72.00796075">
-    <tag k="addr:housenumber" v="7833"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168046"/>
-  </node>
   <node id="-318" visible="true" lat="44.90702197" lon="-71.97742133">
     <tag k="addr:housenumber" v="6138"/>
     <tag k="addr:street" v="Vermont Route 111"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168047"/>
   </node>
-  <node id="-319" visible="true" lat="44.90714332" lon="-72.00850943">
-    <tag k="addr:housenumber" v="201"/>
-    <tag k="addr:street" v="Twin Camps"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168048"/>
-  </node>
   <node id="-320" visible="true" lat="44.90692348" lon="-71.97463909">
     <tag k="addr:housenumber" v="227"/>
     <tag k="addr:street" v="Williams Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168049"/>
-  </node>
-  <node id="-321" visible="true" lat="44.90698725" lon="-72.00724967">
-    <tag k="addr:housenumber" v="7831"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168050"/>
   </node>
   <node id="-323" visible="true" lat="44.90712345" lon="-72.02995645">
     <tag k="addr:housenumber" v="724"/>
@@ -1284,23 +1254,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168197"/>
   </node>
-  <node id="-467" visible="true" lat="44.89481182" lon="-71.97398296">
-    <tag k="addr:housenumber" v="5175"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168198"/>
-  </node>
   <node id="-468" visible="true" lat="44.8946994" lon="-72.01078573">
     <tag k="addr:housenumber" v="252"/>
     <tag k="addr:street" v="Niwaskwikok Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168199"/>
-  </node>
-  <node id="-470" visible="true" lat="44.8943121" lon="-71.9737312">
-    <tag k="addr:housenumber" v="5173"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168201"/>
   </node>
   <node id="-471" visible="true" lat="44.89447174" lon="-72.00971359">
     <tag k="addr:housenumber" v="153"/>
@@ -1446,12 +1404,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168225"/>
   </node>
-  <node id="-495" visible="true" lat="44.8932745" lon="-71.97231976">
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="Lay Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168226"/>
-  </node>
   <node id="-496" visible="true" lat="44.89346317" lon="-71.99430231">
     <tag k="addr:housenumber" v="319"/>
     <tag k="addr:street" v="Wayeeses Shore"/>
@@ -1517,12 +1469,6 @@
     <tag k="addr:street" v="Wayeeses Shore"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168237"/>
-  </node>
-  <node id="-507" visible="true" lat="44.89262219" lon="-71.9732124">
-    <tag k="addr:housenumber" v="182"/>
-    <tag k="addr:street" v="Lay Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168238"/>
   </node>
   <node id="-508" visible="true" lat="44.89261966" lon="-71.98852408">
     <tag k="addr:housenumber" v="637"/>
@@ -1590,12 +1536,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168250"/>
   </node>
-  <node id="-519" visible="true" lat="44.8921669" lon="-71.97174413">
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="Lay Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168251"/>
-  </node>
   <node id="-520" visible="true" lat="44.89204859" lon="-71.98980805">
     <tag k="addr:housenumber" v="564"/>
     <tag k="addr:street" v="Wayeeses Shore"/>
@@ -1638,65 +1578,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168259"/>
   </node>
-  <node id="-528" visible="true" lat="44.89007856" lon="-71.97245849">
-    <tag k="addr:housenumber" v="218"/>
-    <tag k="addr:street" v="Lewis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168260"/>
-  </node>
   <node id="-530" visible="true" lat="44.89001507" lon="-71.99947627">
     <tag k="addr:housenumber" v="694"/>
     <tag k="addr:street" v="Wayeeses Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168262"/>
-  </node>
-  <node id="-531" visible="true" lat="44.88984509" lon="-71.97227398">
-    <tag k="addr:housenumber" v="246"/>
-    <tag k="addr:street" v="Lewis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168263"/>
-  </node>
-  <node id="-533" visible="true" lat="44.88930729" lon="-71.9720151">
-    <tag k="addr:housenumber" v="285"/>
-    <tag k="addr:street" v="Lewis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168265"/>
-  </node>
-  <node id="-538" visible="true" lat="44.88772719" lon="-71.97127085">
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Lewis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168270"/>
-  </node>
-  <node id="-540" visible="true" lat="44.8874208" lon="-71.97116499">
-    <tag k="addr:housenumber" v="745"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168272"/>
-  </node>
-  <node id="-541" visible="true" lat="44.8872288" lon="-71.97113656">
-    <tag k="addr:housenumber" v="733"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168273"/>
-  </node>
-  <node id="-542" visible="true" lat="44.88707344" lon="-71.97111063">
-    <tag k="addr:housenumber" v="723"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168274"/>
-  </node>
-  <node id="-543" visible="true" lat="44.88688471" lon="-71.97107324">
-    <tag k="addr:housenumber" v="705"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168275"/>
-  </node>
-  <node id="-546" visible="true" lat="44.88651045" lon="-71.97093572">
-    <tag k="addr:housenumber" v="691"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168278"/>
   </node>
   <node id="-547" visible="true" lat="44.88632752" lon="-71.97080725">
     <tag k="addr:housenumber" v="681"/>
@@ -1704,113 +1590,17 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168279"/>
   </node>
-  <node id="-549" visible="true" lat="44.88635232" lon="-71.97032614">
-    <tag k="addr:housenumber" v="662"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168281"/>
-  </node>
-  <node id="-550" visible="true" lat="44.88666597" lon="-71.97099665">
-    <tag k="addr:housenumber" v="693"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168282"/>
-  </node>
-  <node id="-551" visible="true" lat="44.88576652" lon="-71.97061534">
-    <tag k="addr:housenumber" v="629"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168283"/>
-  </node>
-  <node id="-552" visible="true" lat="44.88537255" lon="-71.97004194">
-    <tag k="addr:housenumber" v="600"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168284"/>
-  </node>
-  <node id="-554" visible="true" lat="44.88528863" lon="-71.97064424">
-    <tag k="addr:housenumber" v="589"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168286"/>
-  </node>
-  <node id="-556" visible="true" lat="44.8849742" lon="-71.97072586">
-    <tag k="addr:housenumber" v="553"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168288"/>
-  </node>
-  <node id="-557" visible="true" lat="44.88475669" lon="-71.97078">
-    <tag k="addr:housenumber" v="551"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168289"/>
-  </node>
   <node id="-558" visible="true" lat="44.88254241" lon="-72.00645057">
     <tag k="addr:housenumber" v="2127"/>
     <tag k="addr:street" v="Morgan Charleston Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168290"/>
   </node>
-  <node id="-559" visible="true" lat="44.88464545" lon="-71.97033581">
-    <tag k="addr:housenumber" v="544"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168291"/>
-  </node>
-  <node id="-560" visible="true" lat="44.8845355" lon="-71.97083418">
-    <tag k="addr:housenumber" v="541"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168292"/>
-  </node>
   <node id="-561" visible="true" lat="44.88472701" lon="-72.01126154">
     <tag k="addr:housenumber" v="2068"/>
     <tag k="addr:street" v="Morgan Charleston Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168293"/>
-  </node>
-  <node id="-562" visible="true" lat="44.88406201" lon="-71.96864239">
-    <tag k="addr:housenumber" v="408"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168294"/>
-  </node>
-  <node id="-563" visible="true" lat="44.8840846" lon="-71.97079601">
-    <tag k="addr:housenumber" v="511"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168295"/>
-  </node>
-  <node id="-564" visible="true" lat="44.88392667" lon="-71.96764345">
-    <tag k="addr:housenumber" v="363"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168296"/>
-  </node>
-  <node id="-565" visible="true" lat="44.88383312" lon="-71.97079388">
-    <tag k="addr:housenumber" v="503"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168297"/>
-  </node>
-  <node id="-566" visible="true" lat="44.88363736" lon="-71.97083083">
-    <tag k="addr:housenumber" v="485"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168298"/>
-  </node>
-  <node id="-568" visible="true" lat="44.88334103" lon="-71.96926037">
-    <tag k="addr:housenumber" v="447"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168300"/>
-  </node>
-  <node id="-569" visible="true" lat="44.88329083" lon="-71.97083123">
-    <tag k="addr:housenumber" v="483"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168301"/>
   </node>
   <node id="-570" visible="true" lat="44.88301456" lon="-71.96660987">
     <tag k="addr:housenumber" v="331"/>
@@ -2544,12 +2334,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168520"/>
   </node>
-  <node id="-790" visible="true" lat="44.90780046" lon="-72.01034863">
-    <tag k="addr:housenumber" v="261"/>
-    <tag k="addr:street" v="Twin Camps"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168524"/>
-  </node>
   <node id="-792" visible="true" lat="44.8908237" lon="-72.00077322">
     <tag k="addr:housenumber" v="684"/>
     <tag k="addr:street" v="Wayeeses Drive"/>
@@ -2603,12 +2387,6 @@
     <tag k="addr:street" v="Gore Road South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168548"/>
-  </node>
-  <node id="-815" visible="true" lat="44.88431616" lon="-71.9708737">
-    <tag k="addr:housenumber" v="531"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168550"/>
   </node>
   <node id="-816" visible="true" lat="44.85136747" lon="-71.9224084">
     <tag k="addr:housenumber" v="329"/>
@@ -2706,12 +2484,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168578"/>
   </node>
-  <node id="-844" visible="true" lat="44.88922665" lon="-71.9667024">
-    <tag k="addr:housenumber" v="4741"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168579"/>
-  </node>
   <node id="-845" visible="true" lat="44.90891077" lon="-72.00219481">
     <tag k="addr:housenumber" v="7734"/>
     <tag k="addr:street" v="Vermont Route 111"/>
@@ -2729,12 +2501,6 @@
     <tag k="addr:street" v="Wayeeses Shore"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168583"/>
-  </node>
-  <node id="-851" visible="true" lat="44.88723784" lon="-71.96675927">
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168586"/>
   </node>
   <node id="-858" visible="true" lat="44.89460754" lon="-71.96941969">
     <tag k="addr:housenumber" v="4996"/>
@@ -2765,12 +2531,6 @@
     <tag k="addr:street" v="Vermont Route 111"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168597"/>
-  </node>
-  <node id="-864" visible="true" lat="44.89342365" lon="-71.97359731">
-    <tag k="addr:housenumber" v="5171"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168599"/>
   </node>
   <node id="-866" visible="true" lat="44.89353107" lon="-71.99781217">
     <tag k="addr:housenumber" v="150"/>
@@ -2892,12 +2652,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338439"/>
   </node>
-  <node id="-900" visible="true" lat="44.8860618" lon="-71.970795">
-    <tag k="addr:housenumber" v="631"/>
-    <tag k="addr:street" v="Elliott Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338474"/>
-  </node>
   <node id="-901" visible="true" lat="44.92035751" lon="-71.98701914">
     <tag k="addr:housenumber" v="397"/>
     <tag k="addr:street" v="Old Blake Farm Road"/>
@@ -3011,18 +2765,6 @@
     <tag k="addr:street" v="Old Mccabe Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750325"/>
-  </node>
-  <node id="-942" visible="true" lat="44.88855266" lon="-71.97134662">
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Lewis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="753943"/>
-  </node>
-  <node id="-943" visible="true" lat="44.88888765" lon="-71.97170595">
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Lewis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="753944"/>
   </node>
   <node id="-944" visible="true" lat="44.89361218" lon="-71.99962112">
     <tag k="addr:housenumber" v="339"/>

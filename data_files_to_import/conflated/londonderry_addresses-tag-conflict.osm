@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-145" visible="true" lat="43.24742193" lon="-72.79679133">
     <!-- conflict: "7455 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "7455 Vt Route 100, Londonderry, VT" -->
     <tag k="addr:housenumber" v="7455"/>
@@ -28,13 +28,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="141049"/>
   </node>
-  <node id="-507" visible="true" lat="43.22577667" lon="-72.80662536">
-    <!-- conflict: "2461 Middletown Road, , VT" Fuzzy match to "2461 Middletown Road, Londonderry, " -->
-    <tag k="addr:housenumber" v="2461"/>
-    <tag k="addr:street" v="Middletown Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="141067"/>
-  </node>
   <node id="-697" visible="true" lat="43.2130618" lon="-72.78830722">
     <!-- conflict: "3806 Vermont Route 11, , VT" No match in OSM, but a different address exists <5m away: "3806 State Route 11, Londonderry, VT" -->
     <tag k="addr:housenumber" v="3806"/>
@@ -55,13 +48,6 @@
     <tag k="addr:street" v="Magic Mountain Access Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="141466"/>
-  </node>
-  <node id="-1003" visible="true" lat="43.19298263" lon="-72.81463511">
-    <!-- conflict: "1 Main Street, , VT" Fuzzy match to "1 Main Street, , " -->
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="141584"/>
   </node>
   <node id="-1031" visible="true" lat="43.19096143" lon="-72.8124301">
     <!-- conflict: "15 Old School Street, , VT" Fuzzy match to "15 Old School Road, South Londonderry, VT" -->

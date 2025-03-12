@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-185" visible="true" lat="42.9176686" lon="-72.88086932">
     <!-- multiple: "441 Coldbrook Road, Wilmington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Wilmington"/>
@@ -39,6 +39,14 @@
     <tag k="addr:street" v="East Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294415"/>
+  </node>
+  <node id="-1833" visible="true" lat="42.86408522" lon="-72.81786248">
+    <!-- multiple: "154 Mountain View Road, Wilmington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294462"/>
   </node>
   <node id="-2114" visible="true" lat="42.82825778" lon="-72.85654196">
     <!-- multiple: "6 Green Road, Wilmington, VT" Multiple exact matches in OSM. -->

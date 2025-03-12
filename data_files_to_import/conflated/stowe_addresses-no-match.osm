@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.43946969" lon="-72.72254786">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="329"/>
@@ -14,61 +14,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249352"/>
   </node>
-  <node id="-107" visible="true" lat="44.54308358" lon="-72.70247785">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="328"/>
-    <tag k="addr:street" v="Bull Moose Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249354"/>
-  </node>
-  <node id="-108" visible="true" lat="44.54110509" lon="-72.70134009">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="250"/>
-    <tag k="addr:street" v="Bull Moose Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249355"/>
-  </node>
-  <node id="-109" visible="true" lat="44.54056716" lon="-72.70246772">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="214"/>
-    <tag k="addr:street" v="Bull Moose Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249356"/>
-  </node>
   <node id="-110" visible="true" lat="44.53931886" lon="-72.79081275">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="8280"/>
     <tag k="addr:street" v="Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249357"/>
-  </node>
-  <node id="-111" visible="true" lat="44.54009055" lon="-72.71609678">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="4319"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249358"/>
-  </node>
-  <node id="-112" visible="true" lat="44.5397573" lon="-72.71410919">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="4213"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249359"/>
-  </node>
-  <node id="-113" visible="true" lat="44.53942124" lon="-72.71871566">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="91"/>
-    <tag k="addr:street" v="Sterling Gorge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249360"/>
-  </node>
-  <node id="-114" visible="true" lat="44.53953934" lon="-72.70161446">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="Sterling Woods Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249361"/>
   </node>
   <node id="-115" visible="true" lat="44.53906345" lon="-72.77371611">
     <tag k="addr:city" v="Stowe"/>
@@ -77,68 +28,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249362"/>
   </node>
-  <node id="-116" visible="true" lat="44.53882704" lon="-72.70124376">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="117"/>
-    <tag k="addr:street" v="Sterling Woods Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249363"/>
-  </node>
-  <node id="-117" visible="true" lat="44.5383179" lon="-72.69964226">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="452"/>
-    <tag k="addr:street" v="Sterling Woods Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249364"/>
-  </node>
-  <node id="-118" visible="true" lat="44.53842639" lon="-72.70274203">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="98"/>
-    <tag k="addr:street" v="Sterling Woods Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249365"/>
-  </node>
-  <node id="-119" visible="true" lat="44.53800181" lon="-72.70844515">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="3915"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249366"/>
-  </node>
-  <node id="-120" visible="true" lat="44.53781923" lon="-72.70119147">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Sterling Woods Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249367"/>
-  </node>
   <node id="-121" visible="true" lat="44.53746791" lon="-72.7735966">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="1027"/>
     <tag k="addr:street" v="Spruce Peak"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249368"/>
-  </node>
-  <node id="-122" visible="true" lat="44.53740771" lon="-72.70274039">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="164"/>
-    <tag k="addr:street" v="Sterling Woods Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249369"/>
-  </node>
-  <node id="-123" visible="true" lat="44.53705587" lon="-72.70677203">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="3791"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249370"/>
-  </node>
-  <node id="-124" visible="true" lat="44.53701401" lon="-72.70430764">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="3677"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249371"/>
   </node>
   <node id="-125" visible="true" lat="44.53682904" lon="-72.77367008">
     <tag k="addr:city" v="Stowe"/>
@@ -147,54 +42,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249372"/>
   </node>
-  <node id="-126" visible="true" lat="44.53675546" lon="-72.70030249">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="391"/>
-    <tag k="addr:street" v="Sterling Woods Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249373"/>
-  </node>
-  <node id="-127" visible="true" lat="44.53646863" lon="-72.70781491">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="3829"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249374"/>
-  </node>
-  <node id="-128" visible="true" lat="44.53635649" lon="-72.69915831">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="432"/>
-    <tag k="addr:street" v="Sterling Woods Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249375"/>
-  </node>
-  <node id="-129" visible="true" lat="44.53642271" lon="-72.70264519">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="182"/>
-    <tag k="addr:street" v="Sterling Woods Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249376"/>
-  </node>
   <node id="-130" visible="true" lat="44.53618206" lon="-72.77362642">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="959"/>
     <tag k="addr:street" v="Spruce Peak"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249377"/>
-  </node>
-  <node id="-131" visible="true" lat="44.53596249" lon="-72.70482637">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="3511"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249378"/>
-  </node>
-  <node id="-132" visible="true" lat="44.53572866" lon="-72.70328122">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="3580"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249379"/>
   </node>
   <node id="-133" visible="true" lat="44.5354239" lon="-72.77366167">
     <tag k="addr:city" v="Stowe"/>
@@ -210,33 +63,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249382"/>
   </node>
-  <node id="-135" visible="true" lat="44.53516388" lon="-72.70021828">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="306"/>
-    <tag k="addr:street" v="Sterling Woods Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249383"/>
-  </node>
-  <node id="-136" visible="true" lat="44.53496624" lon="-72.70486402">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="3509"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249384"/>
-  </node>
   <node id="-137" visible="true" lat="44.53468826" lon="-72.77320592">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="843"/>
     <tag k="addr:street" v="Spruce Peak"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249385"/>
-  </node>
-  <node id="-138" visible="true" lat="44.53473348" lon="-72.70267154">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="3490"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249386"/>
   </node>
   <node id="-139" visible="true" lat="44.53420062" lon="-72.71295046">
     <tag k="addr:city" v="Stowe"/>
@@ -251,13 +83,6 @@
     <tag k="addr:street" v="Spruce Peak"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249389"/>
-  </node>
-  <node id="-141" visible="true" lat="44.53390297" lon="-72.70230835">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="3426"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249390"/>
   </node>
   <node id="-142" visible="true" lat="44.53341068" lon="-72.77734095">
     <tag k="addr:city" v="Stowe"/>
@@ -287,33 +112,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249395"/>
   </node>
-  <node id="-147" visible="true" lat="44.53302278" lon="-72.70163323">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="3382"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249396"/>
-  </node>
   <node id="-148" visible="true" lat="44.53291819" lon="-72.71027767">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="381"/>
     <tag k="addr:street" v="Sterling Ridge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249397"/>
-  </node>
-  <node id="-149" visible="true" lat="44.5328894" lon="-72.70875459">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="343"/>
-    <tag k="addr:street" v="Sterling Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249398"/>
-  </node>
-  <node id="-150" visible="true" lat="44.53288032" lon="-72.70523779">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Sterling Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249399"/>
   </node>
   <node id="-151" visible="true" lat="44.53168254" lon="-72.79031081">
     <tag k="addr:city" v="Stowe"/>
@@ -336,13 +140,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249404"/>
   </node>
-  <node id="-154" visible="true" lat="44.53151774" lon="-72.70596661">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="143"/>
-    <tag k="addr:street" v="Sterling Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249405"/>
-  </node>
   <node id="-155" visible="true" lat="44.53124237" lon="-72.70359048">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="73"/>
@@ -350,33 +147,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249407"/>
   </node>
-  <node id="-156" visible="true" lat="44.53098674" lon="-72.70728081">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="209"/>
-    <tag k="addr:street" v="Sterling Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249410"/>
-  </node>
-  <node id="-157" visible="true" lat="44.53099203" lon="-72.70505528">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Sterling Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249411"/>
-  </node>
   <node id="-158" visible="true" lat="44.53043969" lon="-72.7869636">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="198"/>
     <tag k="addr:street" v="Mansfield Base"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249413"/>
-  </node>
-  <node id="-159" visible="true" lat="44.53033184" lon="-72.70325272">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Sterling Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249416"/>
   </node>
   <node id="-162" visible="true" lat="44.52472559" lon="-72.77539078">
     <tag k="addr:city" v="Stowe"/>
@@ -2029,13 +1805,6 @@
     <tag k="addr:street" v="Elizabeths Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249876"/>
-  </node>
-  <node id="-580" visible="true" lat="44.49392792" lon="-72.71139742">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="2295"/>
-    <tag k="addr:street" v="Weeks Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249877"/>
   </node>
   <node id="-581" visible="true" lat="44.49389814" lon="-72.74561828">
     <tag k="addr:city" v="Stowe"/>
@@ -5397,20 +5166,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250531"/>
   </node>
-  <node id="-1193" visible="true" lat="44.47399863" lon="-72.6960231">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="876"/>
-    <tag k="addr:street" v="Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="250532"/>
-  </node>
-  <node id="-1194" visible="true" lat="44.47386406" lon="-72.69980461">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="1069"/>
-    <tag k="addr:street" v="Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="250533"/>
-  </node>
   <node id="-1195" visible="true" lat="44.47404819" lon="-72.69814513">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="990"/>
@@ -5726,13 +5481,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250598"/>
   </node>
-  <node id="-1256" visible="true" lat="44.47208046" lon="-72.70856388">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="1613"/>
-    <tag k="addr:street" v="Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="250599"/>
-  </node>
   <node id="-1257" visible="true" lat="44.47213449" lon="-72.69192781">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="46"/>
@@ -5915,13 +5663,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250638"/>
   </node>
-  <node id="-1294" visible="true" lat="44.47143516" lon="-72.68783567">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="430"/>
-    <tag k="addr:street" v="Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="250639"/>
-  </node>
   <node id="-1297" visible="true" lat="44.47131961" lon="-72.70953024">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="36"/>
@@ -6040,6 +5781,13 @@
     <tag k="addr:street" v="Meadow Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250665"/>
+  </node>
+  <node id="-1320" visible="true" lat="44.47061493" lon="-72.68551915">
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Dump Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250666"/>
   </node>
   <node id="-1321" visible="true" lat="44.47049285" lon="-72.71477124">
     <tag k="addr:city" v="Stowe"/>
@@ -8162,13 +7910,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="251243"/>
   </node>
-  <node id="-1833" visible="true" lat="44.45415182" lon="-72.69569802">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="911"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="251245"/>
-  </node>
   <node id="-1834" visible="true" lat="44.4538817" lon="-72.75671942">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="1083"/>
@@ -8266,6 +8007,13 @@
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="251280"/>
+  </node>
+  <node id="-1871" visible="true" lat="44.45287901" lon="-72.72842081">
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Alpenglow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251284"/>
   </node>
   <node id="-1875" visible="true" lat="44.45276528" lon="-72.69107565">
     <tag k="addr:city" v="Stowe"/>
@@ -11634,13 +11382,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="251920"/>
   </node>
-  <node id="-2477" visible="true" lat="44.53355976" lon="-72.70485775">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="3375"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="251921"/>
-  </node>
   <node id="-2478" visible="true" lat="44.53651978" lon="-72.71849752">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="357"/>
@@ -11654,13 +11395,6 @@
     <tag k="addr:street" v="Sterling Gorge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="251923"/>
-  </node>
-  <node id="-2481" visible="true" lat="44.53938651" lon="-72.70298327">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="118"/>
-    <tag k="addr:street" v="Bull Moose Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="251925"/>
   </node>
   <node id="-2482" visible="true" lat="44.50541887" lon="-72.76256004">
     <tag k="addr:city" v="Stowe"/>
@@ -11984,6 +11718,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="251995"/>
   </node>
+  <node id="-2548" visible="true" lat="44.44618974" lon="-72.72625871">
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:street" v="High Farms Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251996"/>
+  </node>
   <node id="-2549" visible="true" lat="44.48479496" lon="-72.7028915">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="28"/>
@@ -12081,20 +11822,6 @@
     <tag k="addr:street" v="Sterling Gorge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252018"/>
-  </node>
-  <node id="-2571" visible="true" lat="44.53909338" lon="-72.71580945">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="4321"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252019"/>
-  </node>
-  <node id="-2572" visible="true" lat="44.54029384" lon="-72.70901015">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="3990"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252020"/>
   </node>
   <node id="-2576" visible="true" lat="44.48844077" lon="-72.7441204">
     <tag k="addr:city" v="Stowe"/>
@@ -13846,13 +13573,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="333992"/>
   </node>
-  <node id="-2934" visible="true" lat="44.54434685" lon="-72.70085461">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="454"/>
-    <tag k="addr:street" v="Bull Moose Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="335062"/>
-  </node>
   <node id="-2936" visible="true" lat="44.47917794" lon="-72.69570476">
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="53"/>
@@ -14769,13 +14489,6 @@
     <tag k="addr:street" v="Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="340711"/>
-  </node>
-  <node id="-3100" visible="true" lat="44.47284166" lon="-72.69947835">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="1009"/>
-    <tag k="addr:street" v="Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="340713"/>
   </node>
   <node id="-3101" visible="true" lat="44.47739997" lon="-72.70526976">
     <tag k="addr:city" v="Stowe"/>
@@ -16456,13 +16169,6 @@
     <tag k="addr:street" v="Grey Birch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752178"/>
-  </node>
-  <node id="-3643" visible="true" lat="44.54022091" lon="-72.71063618">
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="4090"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="752185"/>
   </node>
   <node id="-3644" visible="true" lat="44.46942422" lon="-72.68856591">
     <tag k="addr:city" v="Stowe"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.8461113" lon="-71.90977478">
     <tag k="addr:housenumber" v="1606"/>
     <tag k="addr:street" v="Norton Road"/>
@@ -30,11 +30,78 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38098"/>
   </node>
+  <node id="-363" visible="true" lat="44.81490095" lon="-71.88090129">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38099"/>
+  </node>
+  <node id="-386" visible="true" lat="44.81420898" lon="-71.88134002">
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Cross Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38124"/>
+  </node>
+  <node id="-460" visible="true" lat="44.80990982" lon="-71.86134338">
+    <!-- match: "1348 East Brighton Road, , VT"  ignoring missing state when matching to "1348 East Brighton Road, , " -->
+    <tag k="addr:housenumber" v="1348"/>
+    <tag k="addr:street" v="East Brighton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38208"/>
+  </node>
+  <node id="-513" visible="true" lat="44.80754089" lon="-71.93301391">
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Basil Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38269"/>
+  </node>
+  <node id="-516" visible="true" lat="44.80739593" lon="-71.93199157">
+    <tag k="addr:housenumber" v="2640"/>
+    <tag k="addr:street" v="Charleston Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38273"/>
+  </node>
+  <node id="-532" visible="true" lat="44.80667114" lon="-71.94296264">
+    <tag k="addr:housenumber" v="553"/>
+    <tag k="addr:street" v="Basil Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38290"/>
+  </node>
+  <node id="-538" visible="true" lat="44.80633544" lon="-71.93993377">
+    <tag k="addr:housenumber" v="396"/>
+    <tag k="addr:street" v="Basil Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38297"/>
+  </node>
+  <node id="-545" visible="true" lat="44.80611419" lon="-71.93921661">
+    <tag k="addr:housenumber" v="369"/>
+    <tag k="addr:street" v="Basil Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38304"/>
+  </node>
+  <node id="-547" visible="true" lat="44.80568695" lon="-71.93039703">
+    <tag k="addr:housenumber" v="2505"/>
+    <tag k="addr:street" v="Charleston Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38307"/>
+  </node>
   <node id="-556" visible="true" lat="44.80472115" lon="-71.85533774">
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Fishing Village Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38316"/>
+  </node>
+  <node id="-557" visible="true" lat="44.80519104" lon="-71.92984771">
+    <tag k="addr:housenumber" v="2501"/>
+    <tag k="addr:street" v="Charleston Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38317"/>
+  </node>
+  <node id="-567" visible="true" lat="44.80446243" lon="-71.92185974">
+    <tag k="addr:housenumber" v="2058"/>
+    <tag k="addr:street" v="Charleston Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38332"/>
   </node>
   <node id="-570" visible="true" lat="44.80387232" lon="-71.85577044">
     <tag k="addr:housenumber" v="161"/>
@@ -78,6 +145,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38359"/>
   </node>
+  <node id="-591" visible="true" lat="44.80220413" lon="-71.91705322">
+    <tag k="addr:housenumber" v="1733"/>
+    <tag k="addr:street" v="Charleston Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38361"/>
+  </node>
   <node id="-593" visible="true" lat="44.80167126" lon="-71.85554044">
     <tag k="addr:housenumber" v="319"/>
     <tag k="addr:street" v="Fishing Village Road"/>
@@ -101,6 +174,12 @@
     <tag k="addr:street" v="East Brighton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38368"/>
+  </node>
+  <node id="-601" visible="true" lat="44.80160141" lon="-71.93894958">
+    <tag k="addr:housenumber" v="332"/>
+    <tag k="addr:street" v="McRae Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38371"/>
   </node>
   <node id="-603" visible="true" lat="44.80098724" lon="-71.85505676">
     <tag k="addr:housenumber" v="133"/>
@@ -132,6 +211,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38388"/>
   </node>
+  <node id="-622" visible="true" lat="44.80075836" lon="-71.93713378">
+    <tag k="addr:housenumber" v="422"/>
+    <tag k="addr:street" v="McRae Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38394"/>
+  </node>
   <node id="-646" visible="true" lat="44.79834258" lon="-71.83720573">
     <tag k="addr:housenumber" v="112"/>
     <tag k="addr:street" v="Fairchild Drive"/>
@@ -150,11 +235,71 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38431"/>
   </node>
+  <node id="-664" visible="true" lat="44.79710388" lon="-71.91165924">
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38438"/>
+  </node>
+  <node id="-667" visible="true" lat="44.79669952" lon="-71.85550689">
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="State Park Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38441"/>
+  </node>
+  <node id="-673" visible="true" lat="44.79569099" lon="-71.91080295">
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38450"/>
+  </node>
   <node id="-676" visible="true" lat="44.79510635" lon="-71.83704972">
     <tag k="addr:housenumber" v="2997"/>
     <tag k="addr:street" v="East Brighton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38453"/>
+  </node>
+  <node id="-678" visible="true" lat="44.79543352" lon="-71.9102139">
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38455"/>
+  </node>
+  <node id="-679" visible="true" lat="44.79522941" lon="-71.91070499">
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38456"/>
+  </node>
+  <node id="-694" visible="true" lat="44.79353823" lon="-71.91033145">
+    <tag k="addr:housenumber" v="298"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38472"/>
+  </node>
+  <node id="-701" visible="true" lat="44.79273955" lon="-71.90977638">
+    <tag k="addr:housenumber" v="342"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38480"/>
+  </node>
+  <node id="-705" visible="true" lat="44.79250267" lon="-71.90895022">
+    <tag k="addr:housenumber" v="369"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38485"/>
+  </node>
+  <node id="-709" visible="true" lat="44.79152679" lon="-71.90951538">
+    <tag k="addr:housenumber" v="438"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38490"/>
+  </node>
+  <node id="-711" visible="true" lat="44.79073868" lon="-71.91088629">
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Rosebrook Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38493"/>
   </node>
   <node id="-712" visible="true" lat="44.78992072" lon="-71.82917867">
     <tag k="addr:housenumber" v="3529"/>
@@ -162,17 +307,59 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38494"/>
   </node>
+  <node id="-713" visible="true" lat="44.79023784" lon="-71.90950791">
+    <tag k="addr:housenumber" v="536"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38495"/>
+  </node>
+  <node id="-714" visible="true" lat="44.78967778" lon="-71.91215101">
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Rosebrook Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38496"/>
+  </node>
+  <node id="-716" visible="true" lat="44.7892775" lon="-71.9117968">
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Rosebrook Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38498"/>
+  </node>
   <node id="-718" visible="true" lat="44.78854749" lon="-71.82805806">
     <tag k="addr:housenumber" v="3630"/>
     <tag k="addr:street" v="East Brighton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38500"/>
   </node>
+  <node id="-719" visible="true" lat="44.78905774" lon="-71.91007703">
+    <tag k="addr:housenumber" v="624"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38501"/>
+  </node>
+  <node id="-720" visible="true" lat="44.78893929" lon="-71.80817451">
+    <tag k="addr:housenumber" v="4711"/>
+    <tag k="addr:street" v="East Brighton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38502"/>
+  </node>
   <node id="-721" visible="true" lat="44.78822444" lon="-71.82740121">
     <tag k="addr:housenumber" v="3670"/>
     <tag k="addr:street" v="East Brighton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38503"/>
+  </node>
+  <node id="-724" visible="true" lat="44.7874674" lon="-71.8048579">
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Hobson Mills Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38506"/>
+  </node>
+  <node id="-725" visible="true" lat="44.78769446" lon="-71.91118883">
+    <tag k="addr:housenumber" v="716"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38507"/>
   </node>
   <node id="-728" visible="true" lat="44.78615951" lon="-71.80458831">
     <tag k="addr:housenumber" v="4847"/>
@@ -186,17 +373,89 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38511"/>
   </node>
+  <node id="-730" visible="true" lat="44.78670544" lon="-71.9139714">
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="Newark Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38512"/>
+  </node>
   <node id="-731" visible="true" lat="44.78590255" lon="-71.81318013">
     <tag k="addr:housenumber" v="4418"/>
     <tag k="addr:street" v="East Brighton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38513"/>
   </node>
+  <node id="-732" visible="true" lat="44.78614044" lon="-71.91375732">
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Newark Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38514"/>
+  </node>
+  <node id="-734" visible="true" lat="44.78552627" lon="-71.9192276">
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Allard Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38516"/>
+  </node>
+  <node id="-738" visible="true" lat="44.78495151" lon="-71.92054393">
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="Allard Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38520"/>
+  </node>
+  <node id="-743" visible="true" lat="44.78356552" lon="-71.92067718">
+    <tag k="addr:housenumber" v="576"/>
+    <tag k="addr:street" v="Newark Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38525"/>
+  </node>
+  <node id="-747" visible="true" lat="44.78212073" lon="-71.92094726">
+    <tag k="addr:housenumber" v="668"/>
+    <tag k="addr:street" v="Newark Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38529"/>
+  </node>
+  <node id="-752" visible="true" lat="44.78091524" lon="-71.92298416">
+    <tag k="addr:housenumber" v="790"/>
+    <tag k="addr:street" v="Newark Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38534"/>
+  </node>
+  <node id="-764" visible="true" lat="44.77986459" lon="-71.92069393">
+    <tag k="addr:housenumber" v="769"/>
+    <tag k="addr:street" v="Newark Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38546"/>
+  </node>
   <node id="-775" visible="true" lat="44.77713012" lon="-71.83728027">
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Atwood Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38557"/>
+  </node>
+  <node id="-776" visible="true" lat="44.77758026" lon="-71.9258728">
+    <tag k="addr:housenumber" v="1052"/>
+    <tag k="addr:street" v="Newark Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38558"/>
+  </node>
+  <node id="-777" visible="true" lat="44.7773351" lon="-71.92756697">
+    <tag k="addr:housenumber" v="1195"/>
+    <tag k="addr:street" v="Newark Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38559"/>
+  </node>
+  <node id="-779" visible="true" lat="44.77738189" lon="-71.92851257">
+    <tag k="addr:housenumber" v="1224"/>
+    <tag k="addr:street" v="Newark Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38561"/>
+  </node>
+  <node id="-780" visible="true" lat="44.77719879" lon="-71.92503357">
+    <tag k="addr:housenumber" v="1039"/>
+    <tag k="addr:street" v="Newark Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38562"/>
   </node>
   <node id="-786" visible="true" lat="44.7745018" lon="-71.85419464">
     <tag k="addr:housenumber" v="1398"/>
@@ -354,11 +613,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38729"/>
   </node>
+  <node id="-943" visible="true" lat="44.78016978" lon="-71.92703164">
+    <tag k="addr:housenumber" v="994"/>
+    <tag k="addr:street" v="Newark Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38743"/>
+  </node>
+  <node id="-947" visible="true" lat="44.79186569" lon="-71.90843536">
+    <tag k="addr:housenumber" v="427"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38747"/>
+  </node>
   <node id="-949" visible="true" lat="44.79993629" lon="-71.85637706">
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:street" v="Woodland Trail Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38749"/>
+  </node>
+  <node id="-962" visible="true" lat="44.80097781" lon="-71.95093667">
+    <tag k="addr:housenumber" v="1265"/>
+    <tag k="addr:street" v="County Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38762"/>
+  </node>
+  <node id="-963" visible="true" lat="44.80277744" lon="-71.95260787">
+    <tag k="addr:housenumber" v="1298"/>
+    <tag k="addr:street" v="County Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38763"/>
+  </node>
+  <node id="-965" visible="true" lat="44.79416819" lon="-71.91064067">
+    <tag k="addr:housenumber" v="246"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38765"/>
+  </node>
+  <node id="-969" visible="true" lat="44.80525959" lon="-71.93055242">
+    <tag k="addr:housenumber" v="2503"/>
+    <tag k="addr:street" v="Charleston Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38769"/>
   </node>
   <node id="-972" visible="true" lat="44.80521128" lon="-71.85641192">
     <tag k="addr:housenumber" v="1452"/>
@@ -371,6 +666,12 @@
     <tag k="addr:street" v="Lakeshore Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316811"/>
+  </node>
+  <node id="-988" visible="true" lat="44.77329105" lon="-71.92843907">
+    <tag k="addr:housenumber" v="1525"/>
+    <tag k="addr:street" v="Newark Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="329262"/>
   </node>
   <node id="-999" visible="true" lat="44.79262546" lon="-71.86647485">
     <tag k="addr:housenumber" v="16"/>
@@ -396,6 +697,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337507"/>
   </node>
+  <node id="-1011" visible="true" lat="44.7749976" lon="-71.93064528">
+    <tag k="addr:housenumber" v="1450"/>
+    <tag k="addr:street" v="Newark Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337752"/>
+  </node>
+  <node id="-1021" visible="true" lat="44.76849811" lon="-71.81607379">
+    <tag k="addr:housenumber" v="1418"/>
+    <tag k="addr:street" v="Quarry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340851"/>
+  </node>
   <node id="-1027" visible="true" lat="44.76770198" lon="-71.83768173">
     <tag k="addr:housenumber" v="61"/>
     <tag k="addr:street" v="Lydia Lane"/>
@@ -420,11 +733,35 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="344498"/>
   </node>
+  <node id="-1038" visible="true" lat="44.7924497" lon="-71.90762993">
+    <tag k="addr:housenumber" v="191"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345134"/>
+  </node>
+  <node id="-1052" visible="true" lat="44.79638076" lon="-71.91284937">
+    <tag k="addr:housenumber" v="1363"/>
+    <tag k="addr:street" v="Charleston Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452863"/>
+  </node>
   <node id="-1057" visible="true" lat="44.79929162" lon="-71.85636061">
     <tag k="addr:housenumber" v="98"/>
     <tag k="addr:street" v="Woodland Trail Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454110"/>
+  </node>
+  <node id="-1065" visible="true" lat="44.79005627" lon="-71.80499122">
+    <tag k="addr:housenumber" v="171"/>
+    <tag k="addr:street" v="Hobson Mills Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454682"/>
+  </node>
+  <node id="-1066" visible="true" lat="44.78892493" lon="-71.80219623">
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Hobson Mills Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454683"/>
   </node>
   <node id="-1069" visible="true" lat="44.7653331" lon="-71.84212465">
     <tag k="addr:housenumber" v="328"/>
@@ -462,6 +799,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751839"/>
   </node>
+  <node id="-1089" visible="true" lat="44.80158654" lon="-71.91490997">
+    <tag k="addr:housenumber" v="2150"/>
+    <tag k="addr:street" v="Five Mile Square Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752003"/>
+  </node>
   <node id="-1093" visible="true" lat="44.76055863" lon="-71.83951829">
     <tag k="addr:housenumber" v="444"/>
     <tag k="addr:street" v="Arthur John Road"/>
@@ -474,11 +817,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755944"/>
   </node>
+  <node id="-1112" visible="true" lat="44.78676654" lon="-71.91008701">
+    <tag k="addr:housenumber" v="687"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756878"/>
+  </node>
+  <node id="-1116" visible="true" lat="44.78939551" lon="-71.90890772">
+    <tag k="addr:housenumber" v="607"/>
+    <tag k="addr:street" v="East Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758089"/>
+  </node>
   <node id="-1118" visible="true" lat="44.79444827" lon="-71.83555809">
     <tag k="addr:housenumber" v="3071"/>
     <tag k="addr:street" v="East Brighton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758091"/>
+  </node>
+  <node id="-1121" visible="true" lat="44.78743523" lon="-71.80273974">
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Hobson Mills Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759967"/>
   </node>
   <node id="-1157" visible="true" lat="44.80360534" lon="-71.87756176">
     <tag k="addr:housenumber" v="595"/>

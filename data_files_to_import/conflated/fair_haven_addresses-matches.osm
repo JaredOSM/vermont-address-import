@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-114" visible="true" lat="43.63373979" lon="-73.29104139">
     <tag k="addr:city" v="Fair Haven"/>
     <tag k="addr:housenumber" v="715"/>
@@ -258,5 +258,12 @@
     <tag k="addr:street" v="Appletree Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755862"/>
+  </node>
+  <node id="-1272" visible="true" lat="43.60158607" lon="-73.27367638">
+    <tag k="addr:city" v="Fair Haven"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769058"/>
   </node>
 </osm>

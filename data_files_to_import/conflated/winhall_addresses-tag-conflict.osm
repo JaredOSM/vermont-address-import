@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-222" visible="true" lat="43.19894109" lon="-72.99797604">
     <!-- conflict: "49 Deep Woods Road, , VT" No match in OSM, but a different address exists <5m away: "45 Deep Woods Road, Winhall, VT" -->
     <tag k="addr:housenumber" v="49"/>
@@ -13,6 +13,13 @@
     <tag k="addr:street" v="Winhall Hollow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297127"/>
+  </node>
+  <node id="-336" visible="true" lat="43.1881624" lon="-72.86684865">
+    <!-- conflict: "474 Winhall Hollow Road, , VT" No match in OSM, but a different address exists <5m away: "476 Winhall Hollow Road, Winhall, VT" -->
+    <tag k="addr:housenumber" v="474"/>
+    <tag k="addr:street" v="Winhall Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="297163"/>
   </node>
   <node id="-423" visible="true" lat="43.17090606" lon="-72.92164611">
     <!-- conflict: "419 Vermont Route 30, , VT" No match in OSM, but a different address exists <5m away: "419 Vt Route 30, Winhall, VT" -->
@@ -118,13 +125,6 @@
     <tag k="addr:street" v="Pumpkin Mill Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="327266"/>
-  </node>
-  <node id="-1806" visible="true" lat="43.2092868" lon="-72.98184813">
-    <!-- conflict: "181 Vermont Route 11 30, , VT" No match in OSM, but a different address exists <5m away: "181 Vt Route 11 30, Winhall, VT" -->
-    <tag k="addr:housenumber" v="181"/>
-    <tag k="addr:street" v="Vermont Route 11 30"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="327267"/>
   </node>
   <node id="-1838" visible="true" lat="43.16142869" lon="-72.92360067">
     <!-- conflict: "348 Vermont Route 30, , VT" No match in OSM, but a different address exists <5m away: "348 Vt Route 30, Winhall, VT" -->

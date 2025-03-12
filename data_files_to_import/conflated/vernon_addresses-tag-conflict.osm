@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-1162" visible="true" lat="42.7992274" lon="-72.53792482">
-    <!-- conflict: "1002 Fort Bridgman Road, Vernon, VT" Fuzzy match to "1002 Fort Bridgman Road, Vernon, " -->
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-531" visible="true" lat="42.75968636" lon="-72.50496128">
+    <!-- conflict: "75 T Bird Drive, Vernon, VT" Fuzzy match to "75 T-Bird Drive, Vernon, VT" -->
     <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1002"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="T Bird Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="265978"/>
+  </node>
+  <node id="-532" visible="true" lat="42.76097821" lon="-72.50520505">
+    <!-- conflict: "43 T Bird Drive, Vernon, VT" Fuzzy match to "43 T-Bird Drive, Vernon, VT" -->
+    <tag k="addr:city" v="Vernon"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="T Bird Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="265979"/>
+  </node>
+  <node id="-1002" visible="true" lat="42.73322744" lon="-72.46947496">
+    <!-- conflict: "4370 Fort Bridgman Road, Vernon, VT" Fuzzy match to "4370 Fort Bridgman Road, , VT" -->
+    <tag k="addr:city" v="Vernon"/>
+    <tag k="addr:housenumber" v="4370"/>
     <tag k="addr:street" v="Fort Bridgman Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266613"/>
+    <tag k="ref:vcgi:esiteid" v="266451"/>
   </node>
   <node id="-1402" visible="true" lat="42.72710298" lon="-72.46339697">
     <!-- conflict: "26 Old Depot Road, Vernon, VT" Fuzzy match to "26 Old Depot Road, , " -->

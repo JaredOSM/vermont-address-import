@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-261" visible="true" lat="42.9423253" lon="-72.87144492">
     <!-- multiple: "48 Country Club Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="48"/>
     <tag k="addr:street" v="Country Club Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="85803"/>
+  </node>
+  <node id="-1345" visible="true" lat="42.92864753" lon="-72.84093487">
+    <!-- multiple: "78 Dorr Fitch Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Dorr Fitch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="87033"/>
+  </node>
+  <node id="-2239" visible="true" lat="42.93510923" lon="-72.84897616">
+    <!-- multiple: "85 Vermont Route 100, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="88951"/>
+  </node>
+  <node id="-2556" visible="true" lat="42.96311702" lon="-72.90187325">
+    <!-- multiple: "90 Summit Work Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Summit Work Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752807"/>
   </node>
 </osm>

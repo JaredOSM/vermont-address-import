@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-172" visible="true" lat="44.42004374" lon="-73.21304089">
+    <!-- multiple: "2438 Shelburne Road, Shelburne, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="2438"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220339"/>
+  </node>
+  <node id="-739" visible="true" lat="44.40838241" lon="-73.21825409">
+    <!-- multiple: "3328 Shelburne Road, Shelburne, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="3328"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220978"/>
+  </node>
+  <node id="-1212" visible="true" lat="44.39201885" lon="-73.22067107">
+    <!-- multiple: "4405 Shelburne Road, Shelburne, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="4405"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="221541"/>
+  </node>
+  <node id="-1224" visible="true" lat="44.3914833" lon="-73.22040557">
+    <!-- multiple: "45 Hoes Lane, Shelburne, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Hoes Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="221554"/>
+  </node>
+  <node id="-1472" visible="true" lat="44.38155365" lon="-73.23723602">
+    <!-- multiple: "56 School Street, Shelburne, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="221852"/>
+  </node>
   <node id="-1655" visible="true" lat="44.37768263" lon="-73.22720387">
     <!-- multiple: "72 Church Street, Shelburne, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Shelburne"/>
@@ -16,6 +56,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="222652"/>
   </node>
+  <node id="-2410" visible="true" lat="44.39124784" lon="-73.22485019">
+    <!-- multiple: "4750 Shelburne Road, Shelburne, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="4750"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222926"/>
+  </node>
+  <node id="-2411" visible="true" lat="44.39011149" lon="-73.22485038">
+    <!-- multiple: "4744 Shelburne Road, Shelburne, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="4744"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222928"/>
+  </node>
   <node id="-2445" visible="true" lat="44.36901092" lon="-73.23141479">
     <!-- multiple: "10 Marsett Road, Shelburne, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Shelburne"/>
@@ -31,6 +87,22 @@
     <tag k="addr:street" v="Shelburne Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="222992"/>
+  </node>
+  <node id="-2463" visible="true" lat="44.39285659" lon="-73.21855163">
+    <!-- multiple: "4385 Shelburne Road, Shelburne, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="4385"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222993"/>
+  </node>
+  <node id="-2464" visible="true" lat="44.39285278" lon="-73.21874236">
+    <!-- multiple: "4385 Shelburne Road, Shelburne, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="4385"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222994"/>
   </node>
   <node id="-2465" visible="true" lat="44.39284133" lon="-73.21905517">
     <!-- multiple: "4385 Shelburne Road, Shelburne, VT" Multiple exact matches in OSM. -->
@@ -56,6 +128,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="222997"/>
   </node>
+  <node id="-2468" visible="true" lat="44.39271545" lon="-73.21804809">
+    <!-- multiple: "4385 Shelburne Road, Shelburne, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="4385"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222998"/>
+  </node>
+  <node id="-2469" visible="true" lat="44.39266204" lon="-73.21874999">
+    <!-- multiple: "4385 Shelburne Road, Shelburne, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="4385"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222999"/>
+  </node>
   <node id="-2562" visible="true" lat="44.37976129" lon="-73.22992707">
     <!-- multiple: "71 Harbor Road, Shelburne, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Shelburne"/>
@@ -71,5 +159,13 @@
     <tag k="addr:street" v="Longmeadow Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223112"/>
+  </node>
+  <node id="-3113" visible="true" lat="44.40268116" lon="-73.21874553">
+    <!-- multiple: "3708 Shelburne Road, Shelburne, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="3708"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340023"/>
   </node>
 </osm>

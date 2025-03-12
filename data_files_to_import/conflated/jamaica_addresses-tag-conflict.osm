@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-149" visible="true" lat="43.14897984" lon="-72.84141344">
     <!-- conflict: "180 Vermont Route 100 North, , VT" No match in OSM, but a different address exists <5m away: "180 Vt Route 100 North, Jamaica, VT" -->
     <tag k="addr:housenumber" v="180"/>
@@ -7,19 +7,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="134541"/>
   </node>
-  <node id="-153" visible="true" lat="43.14811779" lon="-72.84129818">
-    <!-- conflict: "132 Vermont Route 100 North, , VT" No match in OSM, but a different address exists <5m away: "132 Vt Route 100 North, Jamaica, VT" -->
-    <tag k="addr:housenumber" v="132"/>
-    <tag k="addr:street" v="Vermont Route 100 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="134545"/>
-  </node>
   <node id="-158" visible="true" lat="43.14756998" lon="-72.84091628">
     <!-- conflict: "78 Vermont Route 100 North, , VT" No match in OSM, but a different address exists <5m away: "78 Vt Route 100 North, Jamaica, VT" -->
     <tag k="addr:housenumber" v="78"/>
     <tag k="addr:street" v="Vermont Route 100 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="134550"/>
+  </node>
+  <node id="-161" visible="true" lat="43.14729441" lon="-72.83968484">
+    <!-- conflict: "32 Vermont Route 100 North, , VT" No match in OSM, but a different address exists <5m away: "32 Vt Route 100 North, Jamaica, VT" -->
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Vermont Route 100 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="134553"/>
   </node>
   <node id="-162" visible="true" lat="43.14727231" lon="-72.8417442">
     <!-- conflict: "67 Vermont Route 100 North, , VT" No match in OSM, but a different address exists <5m away: "67 Vt Route 100 North, Jamaica, VT" -->

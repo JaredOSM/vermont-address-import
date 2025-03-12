@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="43.84142748" lon="-72.2311933">
     <tag k="addr:housenumber" v="1246"/>
     <tag k="addr:street" v="Mud Pond Road"/>
@@ -2310,6 +2310,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259019"/>
   </node>
+  <node id="-631" visible="true" lat="43.83449499" lon="-72.20315353">
+    <!-- match: "126 Makalas Way, , VT"  ignoring street punctuation to "126 Makala's Way, Thetford, VT" -->
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Makalas Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259021"/>
+  </node>
   <node id="-632" visible="true" lat="43.83463395" lon="-72.28068437">
     <tag k="addr:housenumber" v="619"/>
     <tag k="addr:street" v="Ulman Road"/>
@@ -2327,6 +2334,13 @@
     <tag k="addr:street" v="Route 132"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259024"/>
+  </node>
+  <node id="-635" visible="true" lat="43.8339829" lon="-72.20344377">
+    <!-- match: "125 Makalas Way, , VT"  ignoring street punctuation to "125 Makala's Way, Thetford, VT" -->
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Makalas Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259025"/>
   </node>
   <node id="-636" visible="true" lat="43.83401718" lon="-72.19083258">
     <tag k="addr:housenumber" v="4551"/>
@@ -2544,6 +2558,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259069"/>
   </node>
+  <node id="-679" visible="true" lat="43.83190629" lon="-72.246965">
+    <tag k="addr:housenumber" v="3934"/>
+    <tag k="addr:street" v="Vermont Route 113"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259070"/>
+  </node>
   <node id="-680" visible="true" lat="43.83184328" lon="-72.25425403">
     <tag k="addr:housenumber" v="348"/>
     <tag k="addr:street" v="Tucker Hill Road"/>
@@ -2568,6 +2588,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259074"/>
   </node>
+  <node id="-684" visible="true" lat="43.83173885" lon="-72.24769099">
+    <tag k="addr:housenumber" v="3923"/>
+    <tag k="addr:street" v="Vermont Route 113"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259075"/>
+  </node>
   <node id="-686" visible="true" lat="43.83148077" lon="-72.30183055">
     <tag k="addr:housenumber" v="628"/>
     <tag k="addr:street" v="Lower Bailey Road"/>
@@ -2579,6 +2605,12 @@
     <tag k="addr:street" v="Lower Bailey Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259078"/>
+  </node>
+  <node id="-688" visible="true" lat="43.83136055" lon="-72.24759825">
+    <tag k="addr:housenumber" v="3901"/>
+    <tag k="addr:street" v="Vermont Route 113"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259079"/>
   </node>
   <node id="-689" visible="true" lat="43.83131262" lon="-72.30077318">
     <tag k="addr:housenumber" v="572"/>
@@ -2718,6 +2750,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259109"/>
   </node>
+  <node id="-719" visible="true" lat="43.83007213" lon="-72.24692164">
+    <tag k="addr:housenumber" v="3815"/>
+    <tag k="addr:street" v="Vermont Route 113"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259110"/>
+  </node>
   <node id="-720" visible="true" lat="43.82984567" lon="-72.20392106">
     <tag k="addr:housenumber" v="1384"/>
     <tag k="addr:street" v="Latham Road"/>
@@ -2736,11 +2774,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259113"/>
   </node>
+  <node id="-723" visible="true" lat="43.82993187" lon="-72.24633591">
+    <tag k="addr:housenumber" v="3802"/>
+    <tag k="addr:street" v="Vermont Route 113"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259114"/>
+  </node>
   <node id="-724" visible="true" lat="43.82962855" lon="-72.23413931">
     <tag k="addr:housenumber" v="389"/>
     <tag k="addr:street" v="Mud Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259115"/>
+  </node>
+  <node id="-726" visible="true" lat="43.82976027" lon="-72.24621127">
+    <tag k="addr:housenumber" v="3782"/>
+    <tag k="addr:street" v="Vermont Route 113"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259117"/>
   </node>
   <node id="-727" visible="true" lat="43.83006184" lon="-72.25976781">
     <tag k="addr:housenumber" v="688"/>
@@ -3348,6 +3398,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259233"/>
   </node>
+  <node id="-842" visible="true" lat="43.82049534" lon="-72.23186943">
+    <!-- match: "2734 Vermont Route 113, , VT"  ignoring missing state when matching to "2734 Vermont Route 113, , " -->
+    <tag k="addr:housenumber" v="2734"/>
+    <tag k="addr:street" v="Vermont Route 113"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259234"/>
+  </node>
   <node id="-843" visible="true" lat="43.82046426" lon="-72.30668474">
     <tag k="addr:housenumber" v="1534"/>
     <tag k="addr:street" v="Gove Hill Road"/>
@@ -3924,6 +3981,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259342"/>
   </node>
+  <node id="-946" visible="true" lat="43.81505538" lon="-72.206424">
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:street" v="Family Farm Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259344"/>
+  </node>
   <node id="-947" visible="true" lat="43.81514665" lon="-72.27762981">
     <tag k="addr:housenumber" v="1535"/>
     <tag k="addr:street" v="Route 132"/>
@@ -4001,6 +4064,12 @@
     <tag k="addr:street" v="Picknell Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259361"/>
+  </node>
+  <node id="-961" visible="true" lat="43.81419441" lon="-72.2065034">
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:street" v="Family Farm Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259362"/>
   </node>
   <node id="-962" visible="true" lat="43.81420405" lon="-72.31369985">
     <tag k="addr:housenumber" v="358"/>
@@ -4890,6 +4959,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259531"/>
   </node>
+  <node id="-1127" visible="true" lat="43.80156364" lon="-72.26680728">
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Lower Cream Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259532"/>
+  </node>
   <node id="-1128" visible="true" lat="43.80102949" lon="-72.29420929">
     <tag k="addr:housenumber" v="248"/>
     <tag k="addr:street" v="Norford Lake Road"/>
@@ -4907,6 +4982,12 @@
     <tag k="addr:street" v="Cranberry Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259535"/>
+  </node>
+  <node id="-1131" visible="true" lat="43.80074484" lon="-72.26665928">
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Lower Cream Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259536"/>
   </node>
   <node id="-1132" visible="true" lat="43.80000269" lon="-72.19840183">
     <tag k="addr:housenumber" v="269"/>
@@ -5970,6 +6051,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259742"/>
   </node>
+  <node id="-1333" visible="true" lat="43.7874149" lon="-72.25791578">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Route 132"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259743"/>
+  </node>
   <node id="-1334" visible="true" lat="43.78724948" lon="-72.23038278">
     <tag k="addr:housenumber" v="2073"/>
     <tag k="addr:street" v="Godfrey Road"/>
@@ -5981,6 +6068,13 @@
     <tag k="addr:street" v="Macs Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259746"/>
+  </node>
+  <node id="-1336" visible="true" lat="43.83390457" lon="-72.2024576">
+    <!-- match: "71 Makalas Way, , VT"  ignoring street punctuation to "71 Makala's Way, Thetford, VT" -->
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Makalas Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259747"/>
   </node>
   <node id="-1337" visible="true" lat="43.83962989" lon="-72.20002584">
     <tag k="addr:housenumber" v="420"/>
@@ -6546,6 +6640,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259900"/>
   </node>
+  <node id="-1478" visible="true" lat="43.81703404" lon="-72.20604952">
+    <tag k="addr:housenumber" v="307"/>
+    <tag k="addr:street" v="Family Farm Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259903"/>
+  </node>
   <node id="-1479" visible="true" lat="43.8184747" lon="-72.2020873">
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:street" v="Sugarhouse Lane"/>
@@ -7068,6 +7168,30 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750801"/>
   </node>
+  <node id="-1626" visible="true" lat="43.81621676" lon="-72.2346301">
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:street" v="Panther Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750802"/>
+  </node>
+  <node id="-1627" visible="true" lat="43.81504095" lon="-72.23335107">
+    <tag k="addr:housenumber" v="159"/>
+    <tag k="addr:street" v="Panther Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750803"/>
+  </node>
+  <node id="-1628" visible="true" lat="43.81456547" lon="-72.23165622">
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Panther Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750804"/>
+  </node>
+  <node id="-1629" visible="true" lat="43.81610264" lon="-72.23266721">
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:street" v="Panther Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750806"/>
+  </node>
   <node id="-1630" visible="true" lat="43.81532619" lon="-72.23109439">
     <tag k="addr:housenumber" v="245"/>
     <tag k="addr:street" v="Panther Way"/>
@@ -7145,6 +7269,13 @@
     <tag k="addr:street" v="Vermont Route 113"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760405"/>
+  </node>
+  <node id="-1689" visible="true" lat="43.83420306" lon="-72.20205407">
+    <!-- match: "46 Makalas Way, , VT"  ignoring street punctuation to "46 Makala's Way, Thetford, VT" -->
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Makalas Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764344"/>
   </node>
   <node id="-1704" visible="true" lat="43.84007474" lon="-72.27502755">
     <tag k="addr:housenumber" v="569"/>

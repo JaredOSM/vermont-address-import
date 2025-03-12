@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-441" visible="true" lat="44.93126201" lon="-72.49321912">
+    <!-- conflict: "4375 Vermont Route 242, Jay, VT" No match in OSM, but a different address exists <5m away: "4475 Vermont Route 242, Jay, VT" -->
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="4375"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="135861"/>
+  </node>
   <node id="-565" visible="true" lat="44.38516677" lon="-71.95850839">
     <!-- conflict: "17 Green Mountain Drive, Jay, VT" No match in OSM, but a different address exists <5m away: "160 Blodgett Farm Road, Waterford, VT" -->
     <tag k="addr:city" v="Jay"/>

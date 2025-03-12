@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-501" visible="true" lat="43.33196904" lon="-72.46740795">
-    <!-- offset: "11 Town Farm Road, , VT" Significant offset - 1136.8m -->
+    <!-- offset: "11 Town Farm Road, , VT" Significant offset - 1141m -->
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Town Farm Road"/>
     <tag k="addr:state" v="VT"/>
@@ -20,6 +20,13 @@
     <tag k="addr:street" v="Baltimore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="344429"/>
+  </node>
+  <node id="-3902" visible="true" lat="43.3016769" lon="-72.48583434">
+    <!-- offset: "100 River Street, , VT" Significant offset - 102.6m -->
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345993"/>
   </node>
   <node id="-3934" visible="true" lat="43.30282553" lon="-72.49463984">
     <!-- offset: "2 Chester Road, , VT" Significant offset - 258.9m -->

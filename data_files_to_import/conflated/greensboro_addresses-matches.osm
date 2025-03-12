@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="44.65591076" lon="-72.29899611">
     <tag k="addr:housenumber" v="2420"/>
     <tag k="addr:street" v="Shadow Lake Road"/>
@@ -533,6 +533,12 @@
     <tag k="addr:street" v="Bayley Hazen Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="114944"/>
+  </node>
+  <node id="-229" visible="true" lat="44.60027313" lon="-72.30553436">
+    <tag k="addr:housenumber" v="1608"/>
+    <tag k="addr:street" v="Craftsbury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="114949"/>
   </node>
   <node id="-234" visible="true" lat="44.60006594" lon="-72.29051055">
     <tag k="addr:housenumber" v="1038"/>
@@ -2826,12 +2832,6 @@
     <tag k="addr:street" v="Winchester Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="115465"/>
-  </node>
-  <node id="-726" visible="true" lat="44.54522922" lon="-72.26528035">
-    <tag k="addr:housenumber" v="1160"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="115467"/>
   </node>
   <node id="-727" visible="true" lat="44.54479335" lon="-72.26520053">
     <tag k="addr:housenumber" v="1188"/>

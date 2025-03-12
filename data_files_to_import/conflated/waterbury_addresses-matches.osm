@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-114" visible="true" lat="44.42360562" lon="-72.72061731">
     <tag k="addr:housenumber" v="6620"/>
     <tag k="addr:street" v="Waterbury Stowe Road"/>
@@ -618,23 +618,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="273423"/>
   </node>
-  <node id="-320" visible="true" lat="44.39114096" lon="-72.72471946">
-    <tag k="addr:housenumber" v="294"/>
-    <tag k="addr:street" v="Gregg Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="273428"/>
-  </node>
   <node id="-321" visible="true" lat="44.39066454" lon="-72.71484166">
     <tag k="addr:housenumber" v="51"/>
     <tag k="addr:street" v="Vista Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="273430"/>
-  </node>
-  <node id="-322" visible="true" lat="44.3905191" lon="-72.72502069">
-    <tag k="addr:housenumber" v="327"/>
-    <tag k="addr:street" v="Gregg Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="273431"/>
   </node>
   <node id="-323" visible="true" lat="44.39061729" lon="-72.70865743">
     <tag k="addr:housenumber" v="1187"/>
@@ -660,6 +648,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="273437"/>
   </node>
+  <node id="-329" visible="true" lat="44.38983065" lon="-72.76735188">
+    <!-- match: "3444 Little River Road, , VT"  ignoring missing state when matching to "3444 Little River Road, , " -->
+    <tag k="addr:housenumber" v="3444"/>
+    <tag k="addr:street" v="Little River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="273438"/>
+  </node>
   <node id="-330" visible="true" lat="44.38989929" lon="-72.71598188">
     <tag k="addr:housenumber" v="118"/>
     <tag k="addr:street" v="Vista Drive"/>
@@ -678,12 +673,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="273442"/>
   </node>
-  <node id="-334" visible="true" lat="44.38926742" lon="-72.72158899">
-    <tag k="addr:housenumber" v="137"/>
-    <tag k="addr:street" v="Gregg Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="273443"/>
-  </node>
   <node id="-335" visible="true" lat="44.38936774" lon="-72.71331677">
     <tag k="addr:housenumber" v="350"/>
     <tag k="addr:street" v="Guild Hill Road"/>
@@ -695,12 +684,6 @@
     <tag k="addr:street" v="Maple Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="273446"/>
-  </node>
-  <node id="-337" visible="true" lat="44.38905647" lon="-72.71954733">
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Gregg Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="273447"/>
   </node>
   <node id="-338" visible="true" lat="44.38878022" lon="-72.71550485">
     <tag k="addr:housenumber" v="182"/>
@@ -2214,6 +2197,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274388"/>
   </node>
+  <node id="-1235" visible="true" lat="44.34994914" lon="-72.74374964">
+    <tag k="addr:housenumber" v="1017"/>
+    <tag k="addr:street" v="Waterbury Stowe Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274397"/>
+  </node>
   <node id="-1244" visible="true" lat="44.34962211" lon="-72.74155297">
     <tag k="addr:housenumber" v="46"/>
     <tag k="addr:street" v="Laurel Lane"/>
@@ -2231,6 +2220,12 @@
     <tag k="addr:street" v="Laurel Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274421"/>
+  </node>
+  <node id="-1336" visible="true" lat="44.34522746" lon="-72.74857785">
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Blush Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274523"/>
   </node>
   <node id="-1382" visible="true" lat="44.3436436" lon="-72.7579371">
     <tag k="addr:housenumber" v="5"/>
@@ -2256,11 +2251,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274646"/>
   </node>
-  <node id="-1454" visible="true" lat="44.34212219" lon="-72.74803738">
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="Stowe Street"/>
+  <node id="-1446" visible="true" lat="44.34228184" lon="-72.759014">
+    <!-- match: "47 North Main Street, , VT"  ignoring missing state when matching to "47 North Main Street, Waterbury, " -->
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="274660"/>
+    <tag k="ref:vcgi:esiteid" v="274652"/>
+  </node>
+  <node id="-1466" visible="true" lat="44.34188485" lon="-72.75955337">
+    <!-- match: "47 North Main Street, , VT"  ignoring missing state when matching to "47 North Main Street, Waterbury, " -->
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274674"/>
   </node>
   <node id="-1474" visible="true" lat="44.34147761" lon="-72.75969085">
     <tag k="addr:housenumber" v="38"/>
@@ -2298,6 +2301,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274835"/>
   </node>
+  <node id="-1596" visible="true" lat="44.33870486" lon="-72.75777014">
+    <!-- match: "18 North Main Street, , VT"  ignoring missing state when matching to "18 North Main Street, Waterbury, " -->
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274836"/>
+  </node>
   <node id="-1601" visible="true" lat="44.33868186" lon="-72.75857512">
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Winooski Street"/>
@@ -2315,6 +2325,26 @@
     <tag k="addr:street" v="Winooski Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274851"/>
+  </node>
+  <node id="-1656" visible="true" lat="44.33768472" lon="-72.75611172">
+    <!-- match: "1 Stowe Street, , VT"  ignoring missing state when matching to "1 Stowe Street, , " -->
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Stowe Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274907"/>
+  </node>
+  <node id="-1682" visible="true" lat="44.3374805" lon="-72.75581904">
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274938"/>
+  </node>
+  <node id="-1686" visible="true" lat="44.33726378" lon="-72.75648966">
+    <!-- match: "3 Elm Street, , VT"  ignoring missing state when matching to "3 Elm Street, , " -->
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274946"/>
   </node>
   <node id="-1711" visible="true" lat="44.33624248" lon="-72.75535488">
     <tag k="addr:housenumber" v="51"/>
@@ -2334,6 +2364,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274990"/>
   </node>
+  <node id="-1743" visible="true" lat="44.33524386" lon="-72.75290788">
+    <!-- match: "80 South Main Street, , VT"  ignoring missing state when matching to "80 South Main Street, , " -->
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="275017"/>
+  </node>
   <node id="-1750" visible="true" lat="44.33507957" lon="-72.75174498">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Rotarian Place"/>
@@ -2345,6 +2382,12 @@
     <tag k="addr:street" v="Horseshoe Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275136"/>
+  </node>
+  <node id="-1845" visible="true" lat="44.32977727" lon="-72.74822305">
+    <tag k="addr:housenumber" v="149"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="275178"/>
   </node>
   <node id="-1869" visible="true" lat="44.42262648" lon="-72.7201173">
     <tag k="addr:housenumber" v="251"/>
@@ -2514,18 +2557,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275362"/>
   </node>
-  <node id="-2028" visible="true" lat="44.39033544" lon="-72.72093956">
-    <tag k="addr:housenumber" v="120"/>
-    <tag k="addr:street" v="Gregg Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="316550"/>
-  </node>
-  <node id="-2030" visible="true" lat="44.39106443" lon="-72.72330912">
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Fuller Acres Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="316552"/>
-  </node>
   <node id="-2042" visible="true" lat="44.35057312" lon="-72.74531207">
     <tag k="addr:housenumber" v="159"/>
     <tag k="addr:street" v="Crossroad"/>
@@ -2694,12 +2725,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450808"/>
   </node>
-  <node id="-2279" visible="true" lat="44.39166083" lon="-72.71698123">
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Coopers Landing"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450822"/>
-  </node>
   <node id="-2280" visible="true" lat="44.35785461" lon="-72.73667101">
     <tag k="addr:housenumber" v="215"/>
     <tag k="addr:street" v="East Countryside Road"/>
@@ -2712,11 +2737,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451687"/>
   </node>
-  <node id="-2334" visible="true" lat="44.39462861" lon="-72.72005287">
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Cabin Lane"/>
+  <node id="-2326" visible="true" lat="44.35671552" lon="-72.79509425">
+    <!-- match: "1901 U.S. Route 2, , VT"  ignoring missing state when matching to "1901 U.S. Route 2, Waterbury, " -->
+    <tag k="addr:housenumber" v="1901"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454315"/>
+    <tag k="ref:vcgi:esiteid" v="452565"/>
   </node>
   <node id="-2335" visible="true" lat="44.37720722" lon="-72.71768792">
     <tag k="addr:housenumber" v="99"/>

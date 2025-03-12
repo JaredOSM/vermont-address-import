@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-624" visible="true" lat="43.93149804" lon="-72.68948145">
     <!-- conflict: "932 Vermont Route 12A, , VT" No match in OSM, but a different address exists <5m away: "932 Vt Route 12A, Braintree, VT" -->
     <tag k="addr:housenumber" v="932"/>
     <tag k="addr:street" v="Vermont Route 12A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="27552"/>
-  </node>
-  <node id="-653" visible="true" lat="43.93050163" lon="-72.70110755">
-    <!-- conflict: "354 Mobile Acres Road, , VT" Fuzzy match to "354 Mobile Acres Road, , " -->
-    <tag k="addr:housenumber" v="354"/>
-    <tag k="addr:street" v="Mobile Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="27585"/>
   </node>
 </osm>

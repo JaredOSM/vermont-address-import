@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-104" visible="true" lat="44.93063592" lon="-72.0655053">
     <!-- conflict: "42 Hayward Hollow, , VT" No match in OSM, but a different address exists <5m away: "2 Hayward Hollow, Morgan, VT" -->
     <tag k="addr:housenumber" v="42"/>
@@ -42,12 +42,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="167881"/>
   </node>
-  <node id="-204" visible="true" lat="44.91423884" lon="-72.01584489">
-    <!-- conflict: "8502 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "8502 Vt Route 111, Morgan, VT" -->
-    <tag k="addr:housenumber" v="8502"/>
+  <node id="-185" visible="true" lat="44.9171757" lon="-72.02226653">
+    <!-- conflict: "8874 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "8874 Vt Route 111, Morgan, VT" -->
+    <tag k="addr:housenumber" v="8874"/>
     <tag k="addr:street" v="Vermont Route 111"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167932"/>
+    <tag k="ref:vcgi:esiteid" v="167913"/>
   </node>
   <node id="-205" visible="true" lat="44.91399795" lon="-72.016779">
     <!-- conflict: "8523 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "8523 Vt Route 111, Morgan, VT" -->

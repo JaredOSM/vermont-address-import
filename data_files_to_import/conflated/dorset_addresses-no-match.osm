@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.30706055" lon="-73.0998708">
     <tag k="addr:housenumber" v="573"/>
     <tag k="addr:street" v="Scallop Drive"/>
@@ -2820,23 +2820,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="84725"/>
   </node>
-  <node id="-613" visible="true" lat="43.2517929" lon="-73.10821533">
-    <tag k="addr:housenumber" v="517"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="84726"/>
-  </node>
   <node id="-614" visible="true" lat="43.25187985" lon="-73.10391045">
     <tag k="addr:housenumber" v="281"/>
     <tag k="addr:street" v="Church Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="84727"/>
-  </node>
-  <node id="-615" visible="true" lat="43.25163746" lon="-73.10972141">
-    <tag k="addr:housenumber" v="597"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="84728"/>
   </node>
   <node id="-616" visible="true" lat="43.25177383" lon="-73.09784698">
     <tag k="addr:housenumber" v="105"/>
@@ -4895,12 +4883,6 @@
     <tag k="addr:street" v="Dorset West Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="85103"/>
-  </node>
-  <node id="-960" visible="true" lat="43.23274452" lon="-73.08221879">
-    <tag k="addr:housenumber" v="1567"/>
-    <tag k="addr:street" v="Vermont Route 30"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="85104"/>
   </node>
   <node id="-961" visible="true" lat="43.23312377" lon="-73.10764312">
     <tag k="addr:housenumber" v="591"/>
@@ -8310,12 +8292,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338722"/>
   </node>
-  <node id="-1541" visible="true" lat="43.23672362" lon="-73.02849903">
-    <tag k="addr:housenumber" v="1899"/>
-    <tag k="addr:street" v="Dorset Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="340620"/>
-  </node>
   <node id="-1542" visible="true" lat="43.21239397" lon="-73.03321148">
     <tag k="addr:housenumber" v="685"/>
     <tag k="addr:street" v="Green Peak Orchard"/>
@@ -8369,12 +8345,6 @@
     <tag k="addr:street" v="Moose Crossing"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345022"/>
-  </node>
-  <node id="-1551" visible="true" lat="43.2493703" lon="-73.08576927">
-    <tag k="addr:housenumber" v="649"/>
-    <tag k="addr:street" v="Awesome View Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="345029"/>
   </node>
   <node id="-1552" visible="true" lat="43.24786489" lon="-73.09108279">
     <tag k="addr:housenumber" v="65"/>

@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-124" visible="true" lat="43.51291338" lon="-72.40160934">
     <!-- conflict: "336 Ruth Carney Drive, , VT" No match in OSM, but a different address exists <5m away: "336 Ruth H Carney Drive, Windsor, VT" -->
     <tag k="addr:housenumber" v="336"/>
     <tag k="addr:street" v="Ruth Carney Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295388"/>
-  </node>
-  <node id="-130" visible="true" lat="43.51192474" lon="-72.4013977">
-    <!-- conflict: "272 Ruth Carney Drive, , VT" Fuzzy match to "272 Ruth Carney Drive, , " -->
-    <tag k="addr:housenumber" v="272"/>
-    <tag k="addr:street" v="Ruth Carney Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="295395"/>
-  </node>
-  <node id="-352" visible="true" lat="43.48745618" lon="-72.40300916">
-    <!-- conflict: "289 County Road, , VT" Fuzzy match to "289 County Road, Windsor, " -->
-    <tag k="addr:housenumber" v="289"/>
-    <tag k="addr:street" v="County Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="295632"/>
   </node>
   <node id="-503" visible="true" lat="43.48119773" lon="-72.38691706">
     <!-- conflict: "52 Main Street, , VT" No match in OSM, but a different address exists <5m away: " , Windsor, VT" -->
@@ -202,13 +188,6 @@
     <tag k="addr:street" v="Vermont Route 44"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="296644"/>
-  </node>
-  <node id="-1356" visible="true" lat="43.43729296" lon="-72.4004309">
-    <!-- conflict: "333 Cabot Drive, , VT" No match in OSM, but a different address exists <5m away: "272 Cedar Hill Drive, Windsor, VT" -->
-    <tag k="addr:housenumber" v="333"/>
-    <tag k="addr:street" v="Cabot Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="296758"/>
   </node>
   <node id="-1372" visible="true" lat="43.48601532" lon="-72.38449859">
     <!-- conflict: "2745 U.S. Route 5 North, , VT" No match in OSM, but a different address exists <5m away: " , Windsor, VT" -->

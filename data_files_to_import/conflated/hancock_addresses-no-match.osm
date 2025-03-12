@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.94719215" lon="-72.89309583">
     <tag k="addr:city" v="Hancock"/>
     <tag k="addr:housenumber" v="100"/>
@@ -482,13 +482,6 @@
     <tag k="addr:street" v="Vermont Route 100"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="118467"/>
-  </node>
-  <node id="-169" visible="true" lat="43.92752565" lon="-72.88265018">
-    <tag k="addr:city" v="Hancock"/>
-    <tag k="addr:housenumber" v="2198"/>
-    <tag k="addr:street" v="Vermont Route 125"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="118468"/>
   </node>
   <node id="-170" visible="true" lat="43.92756271" lon="-72.86544037">
     <tag k="addr:city" v="Hancock"/>

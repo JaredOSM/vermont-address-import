@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-5184" visible="true" lat="42.84733923" lon="-72.6490212">
+    <!-- offset: "828 Ames Hill Road, Brattleboro, VT" Significant offset - 687.9m -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="828"/>
+    <tag k="addr:street" v="Ames Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="34855"/>
+  </node>
   <node id="-6452" visible="true" lat="42.8864801" lon="-72.55696395">
-    <!-- offset: "1186 Putney Road, Brattleboro, VT" Significant offset - 135.6m -->
+    <!-- offset: "1186 Putney Road, Brattleboro, VT" Significant offset - 131m -->
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="1186"/>
     <tag k="addr:street" v="Putney Road"/>

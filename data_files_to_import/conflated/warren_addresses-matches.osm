@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-187" visible="true" lat="44.14556725" lon="-72.87954962">
     <tag k="addr:city" v="Warren"/>
     <tag k="addr:housenumber" v="1840"/>
@@ -385,6 +385,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="271569"/>
   </node>
+  <node id="-580" visible="true" lat="44.13047546" lon="-72.87263422">
+    <!-- match: "1225 Golf Course Road, Warren, VT"  ignoring missing state when matching to "1225 Golf Course Road, Warren, " -->
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="1225"/>
+    <tag k="addr:street" v="Golf Course Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="271655"/>
+  </node>
   <node id="-637" visible="true" lat="44.12828706" lon="-72.88001437">
     <tag k="addr:city" v="Warren"/>
     <tag k="addr:housenumber" v="64"/>
@@ -510,6 +518,13 @@
     <tag k="addr:street" v="Old Orchard Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="271834"/>
+  </node>
+  <node id="-757" visible="true" lat="44.11642764" lon="-72.85272994">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="293"/>
+    <tag k="addr:street" v="School Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="271835"/>
   </node>
   <node id="-758" visible="true" lat="44.11628069" lon="-72.83210953">
     <tag k="addr:city" v="Warren"/>
@@ -1141,6 +1156,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272309"/>
   </node>
+  <node id="-1212" visible="true" lat="44.07040405" lon="-72.82314799">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="1340"/>
+    <tag k="addr:street" v="Prickly Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272313"/>
+  </node>
   <node id="-1214" visible="true" lat="44.06985884" lon="-72.83874073">
     <tag k="addr:city" v="Warren"/>
     <tag k="addr:housenumber" v="260"/>
@@ -1210,6 +1232,13 @@
     <tag k="addr:street" v="Plunkton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272328"/>
+  </node>
+  <node id="-1226" visible="true" lat="44.06827155" lon="-72.82271819">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="1444"/>
+    <tag k="addr:street" v="Prickly Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272329"/>
   </node>
   <node id="-1227" visible="true" lat="44.068118" lon="-72.83508055">
     <tag k="addr:city" v="Warren"/>
@@ -1295,6 +1324,83 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272345"/>
   </node>
+  <node id="-1243" visible="true" lat="44.06684547" lon="-72.82118369">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="1559"/>
+    <tag k="addr:street" v="Prickly Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272346"/>
+  </node>
+  <node id="-1251" visible="true" lat="44.06572519" lon="-72.82080603">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="1715"/>
+    <tag k="addr:street" v="Prickly Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272354"/>
+  </node>
+  <node id="-1255" visible="true" lat="44.06650316" lon="-72.82817098">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="137"/>
+    <tag k="addr:street" v="Circle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272358"/>
+  </node>
+  <node id="-1259" visible="true" lat="44.06510298" lon="-72.8236906">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="309"/>
+    <tag k="addr:street" v="Chatfield Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272362"/>
+  </node>
+  <node id="-1260" visible="true" lat="44.06485467" lon="-72.82358843">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:street" v="Chatfield Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272363"/>
+  </node>
+  <node id="-1264" visible="true" lat="44.0644459" lon="-72.82385366">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="351"/>
+    <tag k="addr:street" v="Chatfield Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272367"/>
+  </node>
+  <node id="-1266" visible="true" lat="44.06449423" lon="-72.82248837">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="1752"/>
+    <tag k="addr:street" v="Prickly Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272369"/>
+  </node>
+  <node id="-1267" visible="true" lat="44.06413354" lon="-72.82942297">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="363"/>
+    <tag k="addr:street" v="Willow Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272370"/>
+  </node>
+  <node id="-1268" visible="true" lat="44.06380039" lon="-72.82406562">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="395"/>
+    <tag k="addr:street" v="Chatfield Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272371"/>
+  </node>
+  <node id="-1270" visible="true" lat="44.06209457" lon="-72.82959747">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272373"/>
+  </node>
+  <node id="-1271" visible="true" lat="44.0621505" lon="-72.8261606">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Chatfield Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272374"/>
+  </node>
   <node id="-1279" visible="true" lat="44.11844147" lon="-72.81391624">
     <tag k="addr:city" v="Warren"/>
     <tag k="addr:housenumber" v="5241"/>
@@ -1344,12 +1450,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272436"/>
   </node>
+  <node id="-1329" visible="true" lat="44.06927133" lon="-72.82368086">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="1408"/>
+    <tag k="addr:street" v="Prickly Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272439"/>
+  </node>
   <node id="-1335" visible="true" lat="44.11685605" lon="-72.83289076">
     <tag k="addr:city" v="Warren"/>
     <tag k="addr:housenumber" v="172"/>
     <tag k="addr:street" v="Old Orchard Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272447"/>
+  </node>
+  <node id="-1339" visible="true" lat="44.06403587" lon="-72.82878405">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:street" v="Willow Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272451"/>
+  </node>
+  <node id="-1341" visible="true" lat="44.06263629" lon="-72.81732098">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="330"/>
+    <tag k="addr:street" v="Rice Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272453"/>
   </node>
   <node id="-1364" visible="true" lat="44.1398954" lon="-72.89244397">
     <tag k="addr:city" v="Warren"/>
@@ -1442,6 +1569,27 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272562"/>
   </node>
+  <node id="-1448" visible="true" lat="44.06333842" lon="-72.82897925">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="289"/>
+    <tag k="addr:street" v="Beech Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272568"/>
+  </node>
+  <node id="-1468" visible="true" lat="44.06635516" lon="-72.82317122">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="1516"/>
+    <tag k="addr:street" v="Prickly Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272590"/>
+  </node>
+  <node id="-1478" visible="true" lat="44.06472078" lon="-72.82880668">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Circle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272601"/>
+  </node>
   <node id="-1479" visible="true" lat="44.11416965" lon="-72.82643744">
     <tag k="addr:city" v="Warren"/>
     <tag k="addr:housenumber" v="200"/>
@@ -1462,6 +1610,13 @@
     <tag k="addr:street" v="Upper Village Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272618"/>
+  </node>
+  <node id="-1509" visible="true" lat="44.06380249" lon="-72.82259676">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="1804"/>
+    <tag k="addr:street" v="Prickly Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272632"/>
   </node>
   <node id="-1510" visible="true" lat="44.14105304" lon="-72.89373852">
     <tag k="addr:city" v="Warren"/>
@@ -1497,6 +1652,20 @@
     <tag k="addr:street" v="Woods Road South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="329248"/>
+  </node>
+  <node id="-1574" visible="true" lat="44.06361352" lon="-72.82796734">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:street" v="Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="332943"/>
+  </node>
+  <node id="-1624" visible="true" lat="44.06330678" lon="-72.82139056">
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="1815"/>
+    <tag k="addr:street" v="Prickly Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340701"/>
   </node>
   <node id="-1626" visible="true" lat="44.14804749" lon="-72.89786383">
     <tag k="addr:city" v="Warren"/>

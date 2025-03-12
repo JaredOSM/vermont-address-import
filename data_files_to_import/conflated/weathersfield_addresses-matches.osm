@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-152" visible="true" lat="43.42518194" lon="-72.45808255">
+    <tag k="addr:housenumber" v="935"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276370"/>
+  </node>
   <node id="-158" visible="true" lat="43.42377853" lon="-72.40106964">
     <tag k="addr:housenumber" v="6377"/>
     <tag k="addr:street" v="U.S. Route 5"/>
@@ -18,11 +24,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276382"/>
   </node>
+  <node id="-169" visible="true" lat="43.42246475" lon="-72.45692231">
+    <tag k="addr:housenumber" v="838"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276387"/>
+  </node>
   <node id="-172" visible="true" lat="43.42247772" lon="-72.40272521">
     <tag k="addr:housenumber" v="6248"/>
     <tag k="addr:street" v="U.S. Route 5"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276390"/>
+  </node>
+  <node id="-173" visible="true" lat="43.42250823" lon="-72.45557403">
+    <tag k="addr:housenumber" v="793"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276391"/>
   </node>
   <node id="-176" visible="true" lat="43.42188236" lon="-72.40423668">
     <tag k="addr:housenumber" v="91"/>
@@ -36,6 +54,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276398"/>
   </node>
+  <node id="-182" visible="true" lat="43.42162704" lon="-72.4554367">
+    <tag k="addr:housenumber" v="726"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276400"/>
+  </node>
+  <node id="-188" visible="true" lat="43.42118453" lon="-72.45531463">
+    <tag k="addr:housenumber" v="724"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276406"/>
+  </node>
+  <node id="-189" visible="true" lat="43.42116928" lon="-72.45389556">
+    <tag k="addr:housenumber" v="626"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276407"/>
+  </node>
   <node id="-190" visible="true" lat="43.42112731" lon="-72.40281677">
     <tag k="addr:housenumber" v="6176"/>
     <tag k="addr:street" v="U.S. Route 5"/>
@@ -48,11 +84,35 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276409"/>
   </node>
+  <node id="-194" visible="true" lat="43.42046308" lon="-72.45159149">
+    <tag k="addr:housenumber" v="581"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276412"/>
+  </node>
   <node id="-196" visible="true" lat="43.42010814" lon="-72.40329981">
     <tag k="addr:housenumber" v="6106"/>
     <tag k="addr:street" v="U.S. Route 5"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276414"/>
+  </node>
+  <node id="-197" visible="true" lat="43.42023468" lon="-72.45386505">
+    <tag k="addr:housenumber" v="562"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276415"/>
+  </node>
+  <node id="-200" visible="true" lat="43.41977262" lon="-72.45209503">
+    <tag k="addr:housenumber" v="481"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276418"/>
+  </node>
+  <node id="-201" visible="true" lat="43.41969299" lon="-72.4530487">
+    <tag k="addr:housenumber" v="519"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276419"/>
   </node>
   <node id="-202" visible="true" lat="43.41950374" lon="-72.40729248">
     <tag k="addr:housenumber" v="167"/>
@@ -84,11 +144,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276434"/>
   </node>
+  <node id="-218" visible="true" lat="43.41895567" lon="-72.44640695">
+    <tag k="addr:housenumber" v="490"/>
+    <tag k="addr:street" v="Wheeler Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276436"/>
+  </node>
+  <node id="-221" visible="true" lat="43.4188919" lon="-72.45318603">
+    <tag k="addr:housenumber" v="465"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276439"/>
+  </node>
   <node id="-224" visible="true" lat="43.41867446" lon="-72.40175628">
     <tag k="addr:housenumber" v="61"/>
     <tag k="addr:street" v="Red Maple Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276442"/>
+  </node>
+  <node id="-228" visible="true" lat="43.41854476" lon="-72.45308685">
+    <tag k="addr:housenumber" v="441"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276446"/>
   </node>
   <node id="-229" visible="true" lat="43.4184731" lon="-72.40326256">
     <tag k="addr:housenumber" v="5991"/>
@@ -132,6 +210,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276473"/>
   </node>
+  <node id="-255" visible="true" lat="43.41723547" lon="-72.45284183">
+    <tag k="addr:housenumber" v="359"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276474"/>
+  </node>
+  <node id="-256" visible="true" lat="43.41743088" lon="-72.4488436">
+    <tag k="addr:housenumber" v="434"/>
+    <tag k="addr:street" v="Wheeler Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276475"/>
+  </node>
   <node id="-258" visible="true" lat="43.4172554" lon="-72.40812683">
     <tag k="addr:housenumber" v="203"/>
     <tag k="addr:street" v="Thrasher Road"/>
@@ -162,11 +252,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276491"/>
   </node>
+  <node id="-277" visible="true" lat="43.41671373" lon="-72.45282627">
+    <tag k="addr:housenumber" v="307"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276496"/>
+  </node>
+  <node id="-292" visible="true" lat="43.41603088" lon="-72.45383453">
+    <tag k="addr:housenumber" v="228"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276511"/>
+  </node>
+  <node id="-293" visible="true" lat="43.41582441" lon="-72.44917297">
+    <tag k="addr:housenumber" v="334"/>
+    <tag k="addr:street" v="Wheeler Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276512"/>
+  </node>
+  <node id="-294" visible="true" lat="43.41580915" lon="-72.44813537">
+    <tag k="addr:housenumber" v="327"/>
+    <tag k="addr:street" v="Wheeler Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276513"/>
+  </node>
   <node id="-296" visible="true" lat="43.41561126" lon="-72.40533447">
     <tag k="addr:housenumber" v="5782"/>
     <tag k="addr:street" v="U.S. Route 5"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276515"/>
+  </node>
+  <node id="-300" visible="true" lat="43.41538238" lon="-72.45436859">
+    <tag k="addr:housenumber" v="198"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276519"/>
+  </node>
+  <node id="-302" visible="true" lat="43.41530609" lon="-72.45301055">
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276521"/>
   </node>
   <node id="-303" visible="true" lat="43.4152839" lon="-72.40450875">
     <tag k="addr:housenumber" v="5771"/>
@@ -192,6 +318,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276528"/>
   </node>
+  <node id="-310" visible="true" lat="43.41487836" lon="-72.44921111">
+    <tag k="addr:housenumber" v="276"/>
+    <tag k="addr:street" v="Wheeler Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276529"/>
+  </node>
   <node id="-314" visible="true" lat="43.41468042" lon="-72.40472615">
     <tag k="addr:housenumber" v="5725"/>
     <tag k="addr:street" v="U.S. Route 5"/>
@@ -215,6 +347,12 @@
     <tag k="addr:street" v="U.S. Route 5"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276539"/>
+  </node>
+  <node id="-321" visible="true" lat="43.41445922" lon="-72.45317077">
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276540"/>
   </node>
   <node id="-324" visible="true" lat="43.41451724" lon="-72.40488412">
     <tag k="addr:housenumber" v="20"/>
@@ -246,6 +384,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276549"/>
   </node>
+  <node id="-335" visible="true" lat="43.41383313" lon="-72.4358139">
+    <tag k="addr:housenumber" v="1721"/>
+    <tag k="addr:street" v="Thrasher Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276554"/>
+  </node>
   <node id="-336" visible="true" lat="43.4138169" lon="-72.40517134">
     <tag k="addr:housenumber" v="5661"/>
     <tag k="addr:street" v="U.S. Route 5"/>
@@ -258,17 +402,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276556"/>
   </node>
+  <node id="-342" visible="true" lat="43.41355466" lon="-72.44915008">
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Wheeler Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276561"/>
+  </node>
+  <node id="-345" visible="true" lat="43.41332626" lon="-72.45415496">
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276564"/>
+  </node>
   <node id="-346" visible="true" lat="43.41310084" lon="-72.40731634">
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:street" v="Riley Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276565"/>
   </node>
+  <node id="-348" visible="true" lat="43.4129486" lon="-72.4530487">
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276567"/>
+  </node>
   <node id="-349" visible="true" lat="43.41294325" lon="-72.40632648">
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:street" v="Riley Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276568"/>
+  </node>
+  <node id="-353" visible="true" lat="43.412685" lon="-72.44690323">
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="Old Wheeler Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276572"/>
+  </node>
+  <node id="-354" visible="true" lat="43.41269825" lon="-72.43881091">
+    <tag k="addr:housenumber" v="1827"/>
+    <tag k="addr:street" v="Thrasher Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276573"/>
   </node>
   <node id="-356" visible="true" lat="43.41268157" lon="-72.40548706">
     <tag k="addr:housenumber" v="5585"/>
@@ -282,11 +456,35 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276579"/>
   </node>
+  <node id="-363" visible="true" lat="43.41255604" lon="-72.45043249">
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Wheeler Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276582"/>
+  </node>
+  <node id="-378" visible="true" lat="43.41166555" lon="-72.44617044">
+    <tag k="addr:housenumber" v="2335"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276597"/>
+  </node>
+  <node id="-379" visible="true" lat="43.41177701" lon="-72.44921874">
+    <tag k="addr:housenumber" v="2453"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276598"/>
+  </node>
   <node id="-381" visible="true" lat="43.41152891" lon="-72.40796682">
     <tag k="addr:housenumber" v="73"/>
     <tag k="addr:street" v="Schoolhouse Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276601"/>
+  </node>
+  <node id="-383" visible="true" lat="43.41151761" lon="-72.44853973">
+    <tag k="addr:housenumber" v="2397"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276603"/>
   </node>
   <node id="-384" visible="true" lat="43.41159139" lon="-72.40876704">
     <tag k="addr:housenumber" v="115"/>
@@ -299,6 +497,18 @@
     <tag k="addr:street" v="Schoolhouse Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276609"/>
+  </node>
+  <node id="-391" visible="true" lat="43.4113879" lon="-72.4476102">
+    <tag k="addr:housenumber" v="2349"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276611"/>
+  </node>
+  <node id="-394" visible="true" lat="43.41117811" lon="-72.44820403">
+    <tag k="addr:housenumber" v="2385"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276614"/>
   </node>
   <node id="-397" visible="true" lat="43.41107174" lon="-72.40743404">
     <tag k="addr:housenumber" v="50"/>
@@ -336,11 +546,17 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276632"/>
   </node>
-  <node id="-416" visible="true" lat="43.41047819" lon="-72.40600937">
-    <tag k="addr:housenumber" v="5431"/>
-    <tag k="addr:street" v="U.S. Route 5"/>
+  <node id="-413" visible="true" lat="43.41074712" lon="-72.44647808">
+    <tag k="addr:housenumber" v="2291"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="276638"/>
+    <tag k="ref:vcgi:esiteid" v="276635"/>
+  </node>
+  <node id="-417" visible="true" lat="43.41044643" lon="-72.44070131">
+    <tag k="addr:housenumber" v="2035"/>
+    <tag k="addr:street" v="Thrasher Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276639"/>
   </node>
   <node id="-418" visible="true" lat="43.41052439" lon="-72.40816741">
     <tag k="addr:housenumber" v="55"/>
@@ -371,6 +587,18 @@
     <tag k="addr:street" v="Turner Place"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276646"/>
+  </node>
+  <node id="-426" visible="true" lat="43.41033328" lon="-72.44341706">
+    <tag k="addr:housenumber" v="2123"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276648"/>
+  </node>
+  <node id="-432" visible="true" lat="43.41014287" lon="-72.44168627">
+    <tag k="addr:housenumber" v="2091"/>
+    <tag k="addr:street" v="Thrasher Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276654"/>
   </node>
   <node id="-434" visible="true" lat="43.41008217" lon="-72.40913929">
     <tag k="addr:housenumber" v="86"/>
@@ -564,12 +792,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276722"/>
   </node>
-  <node id="-494" visible="true" lat="43.40792846" lon="-72.4072647">
-    <tag k="addr:housenumber" v="5243"/>
-    <tag k="addr:street" v="U.S. Route 5"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="276724"/>
-  </node>
   <node id="-498" visible="true" lat="43.40789397" lon="-72.40813704">
     <tag k="addr:housenumber" v="5236"/>
     <tag k="addr:street" v="U.S. Route 5"/>
@@ -750,17 +972,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276829"/>
   </node>
+  <node id="-600" visible="true" lat="43.40150833" lon="-72.5151596">
+    <tag k="addr:housenumber" v="4400"/>
+    <tag k="addr:street" v="Vermont Route 106"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276833"/>
+  </node>
   <node id="-602" visible="true" lat="43.40137481" lon="-72.40614318">
     <tag k="addr:housenumber" v="4792"/>
     <tag k="addr:street" v="U.S. Route 5"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276835"/>
   </node>
+  <node id="-616" visible="true" lat="43.40070626" lon="-72.51432587">
+    <tag k="addr:housenumber" v="7303"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276849"/>
+  </node>
+  <node id="-623" visible="true" lat="43.40039062" lon="-72.51300811">
+    <tag k="addr:housenumber" v="7242"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276856"/>
+  </node>
+  <node id="-625" visible="true" lat="43.40028381" lon="-72.51393127">
+    <tag k="addr:housenumber" v="7290"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276858"/>
+  </node>
   <node id="-626" visible="true" lat="43.4000028" lon="-72.41151167">
     <tag k="addr:housenumber" v="305"/>
     <tag k="addr:street" v="Tenney Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276860"/>
+  </node>
+  <node id="-633" visible="true" lat="43.39960039" lon="-72.51439973">
+    <tag k="addr:housenumber" v="4261"/>
+    <tag k="addr:street" v="Vermont Route 106"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276870"/>
   </node>
   <node id="-636" visible="true" lat="43.39936828" lon="-72.41079711">
     <tag k="addr:housenumber" v="412"/>
@@ -1824,6 +2076,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="277637"/>
   </node>
+  <node id="-1380" visible="true" lat="43.41229962" lon="-72.44938659">
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Wheeler Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="277639"/>
+  </node>
   <node id="-1387" visible="true" lat="43.36330366" lon="-72.45196533">
     <tag k="addr:housenumber" v="1618"/>
     <tag k="addr:street" v="Skyline Drive"/>
@@ -1986,6 +2244,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="277738"/>
   </node>
+  <node id="-1478" visible="true" lat="43.41893584" lon="-72.45382128">
+    <tag k="addr:housenumber" v="462"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="277740"/>
+  </node>
   <node id="-1482" visible="true" lat="43.41861746" lon="-72.40226431">
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Red Maple Lane"/>
@@ -2021,6 +2285,18 @@
     <tag k="addr:street" v="Garden Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="277763"/>
+  </node>
+  <node id="-1502" visible="true" lat="43.41914296" lon="-72.44841262">
+    <tag k="addr:housenumber" v="488"/>
+    <tag k="addr:street" v="Wheeler Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="277764"/>
+  </node>
+  <node id="-1511" visible="true" lat="43.422708" lon="-72.45324989">
+    <tag k="addr:housenumber" v="653"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="277773"/>
   </node>
   <node id="-1512" visible="true" lat="43.35280717" lon="-72.43506324">
     <tag k="addr:housenumber" v="1662"/>
@@ -2088,6 +2364,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="277825"/>
   </node>
+  <node id="-1564" visible="true" lat="43.4132319" lon="-72.44799116">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Old Wheeler Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="277827"/>
+  </node>
   <node id="-1565" visible="true" lat="43.36392503" lon="-72.50171638">
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Pine Pitch Road"/>
@@ -2129,6 +2411,12 @@
     <tag k="addr:street" v="U.S. Route 5"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="315255"/>
+  </node>
+  <node id="-1597" visible="true" lat="43.41911972" lon="-72.45153688">
+    <tag k="addr:housenumber" v="479"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326409"/>
   </node>
   <node id="-1598" visible="true" lat="43.37328916" lon="-72.53812288">
     <tag k="addr:housenumber" v="998"/>
@@ -2178,6 +2466,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345873"/>
   </node>
+  <node id="-1641" visible="true" lat="43.41307836" lon="-72.43661054">
+    <tag k="addr:housenumber" v="1751"/>
+    <tag k="addr:street" v="Thrasher Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345990"/>
+  </node>
   <node id="-1649" visible="true" lat="43.4116928" lon="-72.40822513">
     <tag k="addr:housenumber" v="75"/>
     <tag k="addr:street" v="Schoolhouse Road"/>
@@ -2189,5 +2483,11 @@
     <tag k="addr:street" v="U.S. Route 5"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750828"/>
+  </node>
+  <node id="-1705" visible="true" lat="43.42396481" lon="-72.4563517">
+    <tag k="addr:housenumber" v="887"/>
+    <tag k="addr:street" v="South Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758302"/>
   </node>
 </osm>

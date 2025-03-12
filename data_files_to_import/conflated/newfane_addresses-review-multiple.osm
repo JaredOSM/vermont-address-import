@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-746" visible="true" lat="42.94889503" lon="-72.66142735">
+    <!-- multiple: "108 Duke Road, Newfane, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Newfane"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Duke Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="175444"/>
+  </node>
   <node id="-1140" visible="true" lat="42.93223935" lon="-72.74331125">
     <!-- multiple: "240 Stratton Hill Road, Newfane, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Newfane"/>

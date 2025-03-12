@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="43.52617333" lon="-72.46182671">
     <tag k="addr:housenumber" v="347"/>
     <tag k="addr:street" v="Bronson Road"/>
@@ -678,11 +678,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280446"/>
   </node>
+  <node id="-367" visible="true" lat="43.4762535" lon="-72.48871612">
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Corliss Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280447"/>
+  </node>
+  <node id="-368" visible="true" lat="43.47619628" lon="-72.49575042">
+    <tag k="addr:housenumber" v="298"/>
+    <tag k="addr:street" v="Jewett Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280448"/>
+  </node>
   <node id="-369" visible="true" lat="43.47615051" lon="-72.45576476">
     <tag k="addr:housenumber" v="278"/>
     <tag k="addr:street" v="Old Barn Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280449"/>
+  </node>
+  <node id="-372" visible="true" lat="43.47596477" lon="-72.49989037">
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Spruce Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280452"/>
   </node>
   <node id="-373" visible="true" lat="43.47593688" lon="-72.45697784">
     <tag k="addr:housenumber" v="214"/>
@@ -690,17 +708,53 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280453"/>
   </node>
+  <node id="-375" visible="true" lat="43.47589825" lon="-72.49307905">
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:street" v="Jewett Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280457"/>
+  </node>
+  <node id="-376" visible="true" lat="43.47581863" lon="-72.49735259">
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="Hardwood Ridge"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280458"/>
+  </node>
+  <node id="-379" visible="true" lat="43.47554192" lon="-72.49969566">
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Spruce Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280461"/>
+  </node>
+  <node id="-381" visible="true" lat="43.47510909" lon="-72.49642181">
+    <tag k="addr:housenumber" v="342"/>
+    <tag k="addr:street" v="Jewett Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280463"/>
+  </node>
   <node id="-382" visible="true" lat="43.4748764" lon="-72.45888519">
     <tag k="addr:housenumber" v="84"/>
     <tag k="addr:street" v="Old Barn Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280464"/>
   </node>
+  <node id="-384" visible="true" lat="43.47441482" lon="-72.49830627">
+    <tag k="addr:housenumber" v="460"/>
+    <tag k="addr:street" v="Jewett Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280467"/>
+  </node>
   <node id="-385" visible="true" lat="43.47435379" lon="-72.46091461">
     <tag k="addr:housenumber" v="285"/>
     <tag k="addr:street" v="Pierce Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280468"/>
+  </node>
+  <node id="-388" visible="true" lat="43.47407913" lon="-72.49723815">
+    <tag k="addr:housenumber" v="415"/>
+    <tag k="addr:street" v="Jewett Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280471"/>
   </node>
   <node id="-389" visible="true" lat="43.47401809" lon="-72.45924377">
     <tag k="addr:housenumber" v="178"/>
@@ -714,17 +768,53 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280473"/>
   </node>
+  <node id="-392" visible="true" lat="43.4737091" lon="-72.50012206">
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Sugarbush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280475"/>
+  </node>
   <node id="-395" visible="true" lat="43.4734383" lon="-72.47302793">
     <tag k="addr:housenumber" v="393"/>
     <tag k="addr:street" v="Brownsville Hartland Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280478"/>
   </node>
+  <node id="-396" visible="true" lat="43.4734258" lon="-72.49796838">
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Horseshoe Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280479"/>
+  </node>
+  <node id="-397" visible="true" lat="43.47322002" lon="-72.48820171">
+    <tag k="addr:housenumber" v="1194"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280480"/>
+  </node>
+  <node id="-398" visible="true" lat="43.47313246" lon="-72.48990277">
+    <tag k="addr:housenumber" v="1173"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280481"/>
+  </node>
+  <node id="-399" visible="true" lat="43.4732722" lon="-72.49644795">
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Horseshoe Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280482"/>
+  </node>
   <node id="-401" visible="true" lat="43.47297096" lon="-72.46002087">
     <tag k="addr:housenumber" v="123"/>
     <tag k="addr:street" v="Pierce Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280484"/>
+  </node>
+  <node id="-402" visible="true" lat="43.47288894" lon="-72.49942779">
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:street" v="Sugarbush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280485"/>
   </node>
   <node id="-403" visible="true" lat="43.47278976" lon="-72.47264099">
     <tag k="addr:housenumber" v="347"/>
@@ -738,6 +828,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280487"/>
   </node>
+  <node id="-405" visible="true" lat="43.47268676" lon="-72.49685668">
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Horseshoe Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280488"/>
+  </node>
   <node id="-407" visible="true" lat="43.47259521" lon="-72.46781158">
     <tag k="addr:housenumber" v="457"/>
     <tag k="addr:street" v="Strawberry Hill Road"/>
@@ -750,6 +846,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280491"/>
   </node>
+  <node id="-410" visible="true" lat="43.47224044" lon="-72.49880981">
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="Sugarbush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280493"/>
+  </node>
+  <node id="-416" visible="true" lat="43.47160339" lon="-72.48887634">
+    <tag k="addr:housenumber" v="1073"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280499"/>
+  </node>
   <node id="-417" visible="true" lat="43.47155761" lon="-72.4637146">
     <tag k="addr:housenumber" v="219"/>
     <tag k="addr:street" v="Brook Road"/>
@@ -761,6 +869,12 @@
     <tag k="addr:street" v="Brownsville Hartland Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280501"/>
+  </node>
+  <node id="-419" visible="true" lat="43.4714775" lon="-72.49929809">
+    <tag k="addr:housenumber" v="198"/>
+    <tag k="addr:street" v="Sugarbush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280502"/>
   </node>
   <node id="-421" visible="true" lat="43.47147077" lon="-72.46196961">
     <tag k="addr:housenumber" v="347"/>
@@ -780,11 +894,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280510"/>
   </node>
+  <node id="-429" visible="true" lat="43.47045898" lon="-72.48763275">
+    <tag k="addr:housenumber" v="968"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280513"/>
+  </node>
   <node id="-432" visible="true" lat="43.47015575" lon="-72.46504866">
     <tag k="addr:housenumber" v="176"/>
     <tag k="addr:street" v="Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280516"/>
+  </node>
+  <node id="-434" visible="true" lat="43.46991729" lon="-72.48905181">
+    <tag k="addr:housenumber" v="955"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280518"/>
   </node>
   <node id="-437" visible="true" lat="43.46979522" lon="-72.46772766">
     <tag k="addr:housenumber" v="252"/>
@@ -792,11 +918,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280521"/>
   </node>
+  <node id="-438" visible="true" lat="43.4695053" lon="-72.48794555">
+    <tag k="addr:housenumber" v="938"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280522"/>
+  </node>
   <node id="-439" visible="true" lat="43.46950149" lon="-72.47096252">
     <tag k="addr:housenumber" v="108"/>
     <tag k="addr:street" v="Brownsville Hartland Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280523"/>
+  </node>
+  <node id="-440" visible="true" lat="43.46932601" lon="-72.48710632">
+    <tag k="addr:housenumber" v="900"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280524"/>
   </node>
   <node id="-442" visible="true" lat="43.46900176" lon="-72.47164154">
     <tag k="addr:housenumber" v="81"/>
@@ -827,6 +965,18 @@
     <tag k="addr:street" v="Brownsville Hartland Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280534"/>
+  </node>
+  <node id="-451" visible="true" lat="43.46844863" lon="-72.48735046">
+    <tag k="addr:housenumber" v="902"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280537"/>
+  </node>
+  <node id="-452" visible="true" lat="43.46843719" lon="-72.48892974">
+    <tag k="addr:housenumber" v="847"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280538"/>
   </node>
   <node id="-457" visible="true" lat="43.46820793" lon="-72.47081778">
     <tag k="addr:housenumber" v="22"/>
@@ -888,6 +1038,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280565"/>
   </node>
+  <node id="-478" visible="true" lat="43.46747207" lon="-72.48831939">
+    <tag k="addr:housenumber" v="788"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280566"/>
+  </node>
   <node id="-479" visible="true" lat="43.46746826" lon="-72.46791076">
     <tag k="addr:housenumber" v="803"/>
     <tag k="addr:street" v="Vermont Route 44"/>
@@ -912,6 +1068,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280571"/>
   </node>
+  <node id="-484" visible="true" lat="43.46717086" lon="-72.48677937">
+    <tag k="addr:housenumber" v="684"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280572"/>
+  </node>
   <node id="-487" visible="true" lat="43.46722116" lon="-72.47287528">
     <tag k="addr:housenumber" v="1060"/>
     <tag k="addr:street" v="Vermont Route 44"/>
@@ -929,6 +1091,12 @@
     <tag k="addr:street" v="Ski Tow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280581"/>
+  </node>
+  <node id="-494" visible="true" lat="43.4665451" lon="-72.48814392">
+    <tag k="addr:housenumber" v="742"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280582"/>
   </node>
   <node id="-497" visible="true" lat="43.46625885" lon="-72.46941517">
     <tag k="addr:housenumber" v="389"/>
@@ -953,6 +1121,18 @@
     <tag k="addr:street" v="Deer Run Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280593"/>
+  </node>
+  <node id="-503" visible="true" lat="43.46562576" lon="-72.48783111">
+    <tag k="addr:housenumber" v="682"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280594"/>
+  </node>
+  <node id="-508" visible="true" lat="43.46541316" lon="-72.48883384">
+    <tag k="addr:housenumber" v="646"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280599"/>
   </node>
   <node id="-513" visible="true" lat="43.46517944" lon="-72.46791076">
     <tag k="addr:housenumber" v="295"/>
@@ -996,6 +1176,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280622"/>
   </node>
+  <node id="-537" visible="true" lat="43.4636383" lon="-72.48947906">
+    <tag k="addr:housenumber" v="517"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280630"/>
+  </node>
   <node id="-538" visible="true" lat="43.46372601" lon="-72.47381008">
     <tag k="addr:housenumber" v="434"/>
     <tag k="addr:street" v="Skyhawk Lane"/>
@@ -1025,6 +1211,12 @@
     <tag k="addr:street" v="Skyhawk Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280641"/>
+  </node>
+  <node id="-548" visible="true" lat="43.46303939" lon="-72.48993682">
+    <tag k="addr:housenumber" v="449"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280642"/>
   </node>
   <node id="-550" visible="true" lat="43.46300593" lon="-72.47238853">
     <tag k="addr:housenumber" v="859"/>
@@ -1092,6 +1284,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280659"/>
   </node>
+  <node id="-565" visible="true" lat="43.46223253" lon="-72.49049158">
+    <tag k="addr:housenumber" v="826"/>
+    <tag k="addr:street" v="Harrington Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280660"/>
+  </node>
   <node id="-566" visible="true" lat="43.46216104" lon="-72.47269328">
     <tag k="addr:housenumber" v="817"/>
     <tag k="addr:street" v="Skyhawk Lane"/>
@@ -1115,6 +1313,12 @@
     <tag k="addr:street" v="Skyhawk Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280665"/>
+  </node>
+  <node id="-571" visible="true" lat="43.4618635" lon="-72.49205016">
+    <tag k="addr:housenumber" v="841"/>
+    <tag k="addr:street" v="Westgate Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280667"/>
   </node>
   <node id="-572" visible="true" lat="43.4617958" lon="-72.46807861">
     <tag k="addr:housenumber" v="127"/>
@@ -1608,6 +1812,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280809"/>
   </node>
+  <node id="-704" visible="true" lat="43.47543334" lon="-72.50216674">
+    <tag k="addr:housenumber" v="690"/>
+    <tag k="addr:street" v="Jewett Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280810"/>
+  </node>
+  <node id="-705" visible="true" lat="43.47501436" lon="-72.50172864">
+    <tag k="addr:housenumber" v="650"/>
+    <tag k="addr:street" v="Jewett Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280811"/>
+  </node>
+  <node id="-706" visible="true" lat="43.47631835" lon="-72.50460052">
+    <tag k="addr:housenumber" v="727"/>
+    <tag k="addr:street" v="Jewett Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280812"/>
+  </node>
   <node id="-709" visible="true" lat="43.52666238" lon="-72.49186774">
     <tag k="addr:housenumber" v="2217"/>
     <tag k="addr:street" v="Blood Hill Road"/>
@@ -1668,6 +1890,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280829"/>
   </node>
+  <node id="-728" visible="true" lat="43.47557533" lon="-72.49020606">
+    <tag k="addr:housenumber" v="1345"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280834"/>
+  </node>
+  <node id="-729" visible="true" lat="43.47500997" lon="-72.49127298">
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Jewett Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280835"/>
+  </node>
   <node id="-731" visible="true" lat="43.4617958" lon="-72.484375">
     <tag k="addr:housenumber" v="1790"/>
     <tag k="addr:street" v="Vermont Route 44"/>
@@ -1680,6 +1914,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280839"/>
   </node>
+  <node id="-733" visible="true" lat="43.46420123" lon="-72.48593767">
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Beaver Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280840"/>
+  </node>
   <node id="-735" visible="true" lat="43.47187909" lon="-72.46504542">
     <tag k="addr:housenumber" v="217"/>
     <tag k="addr:street" v="Brook Road"/>
@@ -1691,6 +1931,12 @@
     <tag k="addr:street" v="Yale Heights Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280843"/>
+  </node>
+  <node id="-742" visible="true" lat="43.46918648" lon="-72.49011471">
+    <tag k="addr:housenumber" v="929"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280849"/>
   </node>
   <node id="-743" visible="true" lat="43.5048062" lon="-72.49317652">
     <tag k="addr:housenumber" v="317"/>
@@ -1734,11 +1980,35 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280864"/>
   </node>
+  <node id="-759" visible="true" lat="43.47381649" lon="-72.50165438">
+    <tag k="addr:housenumber" v="649"/>
+    <tag k="addr:street" v="Jewett Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280866"/>
+  </node>
+  <node id="-760" visible="true" lat="43.47547102" lon="-72.48919299">
+    <tag k="addr:housenumber" v="1356"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280867"/>
+  </node>
   <node id="-761" visible="true" lat="43.51813972" lon="-72.48677012">
     <tag k="addr:housenumber" v="151"/>
     <tag k="addr:street" v="Parrish View Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280868"/>
+  </node>
+  <node id="-763" visible="true" lat="43.47112767" lon="-72.49726869">
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Horseshoe Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280870"/>
+  </node>
+  <node id="-765" visible="true" lat="43.47335447" lon="-72.491484">
+    <tag k="addr:housenumber" v="931"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280872"/>
   </node>
   <node id="-766" visible="true" lat="43.47800843" lon="-72.47251136">
     <tag k="addr:housenumber" v="740"/>
@@ -1878,6 +2148,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="311811"/>
   </node>
+  <node id="-813" visible="true" lat="43.47729447" lon="-72.48877268">
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Corliss Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313895"/>
+  </node>
   <node id="-814" visible="true" lat="43.48800033" lon="-72.48969945">
     <tag k="addr:housenumber" v="743"/>
     <tag k="addr:street" v="Cemetery Road"/>
@@ -1889,6 +2165,12 @@
     <tag k="addr:street" v="Village Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="313897"/>
+  </node>
+  <node id="-819" visible="true" lat="43.47414012" lon="-72.48753384">
+    <tag k="addr:housenumber" v="1202"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317518"/>
   </node>
   <node id="-821" visible="true" lat="43.47442378" lon="-72.46001034">
     <tag k="addr:housenumber" v="222"/>
@@ -1932,6 +2214,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="446516"/>
   </node>
+  <node id="-844" visible="true" lat="43.47393691" lon="-72.48749778">
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450171"/>
+  </node>
   <node id="-855" visible="true" lat="43.51552108" lon="-72.51759719">
     <tag k="addr:housenumber" v="4108"/>
     <tag k="addr:street" v="Rush Meadow Road"/>
@@ -1961,5 +2249,17 @@
     <tag k="addr:street" v="Silver Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759603"/>
+  </node>
+  <node id="-922" visible="true" lat="43.46420186" lon="-72.48874337">
+    <tag k="addr:housenumber" v="534"/>
+    <tag k="addr:street" v="Bible Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760640"/>
+  </node>
+  <node id="-923" visible="true" lat="43.47179242" lon="-72.5022465">
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Sugarbush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760641"/>
   </node>
 </osm>

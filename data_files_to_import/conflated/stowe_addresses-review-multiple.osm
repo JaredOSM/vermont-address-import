@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-300" visible="true" lat="44.51095149" lon="-72.7346568">
+    <!-- multiple: "1500 Edson Hill Road, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:street" v="Edson Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="249570"/>
+  </node>
   <node id="-1094" visible="true" lat="44.47707655" lon="-72.71540534">
     <!-- multiple: "140 Cottage Club Road, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
@@ -16,13 +24,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250527"/>
   </node>
-  <node id="-1232" visible="true" lat="44.47274832" lon="-72.69855379">
-    <!-- multiple: "1007 Mountain Road, Stowe, VT" Multiple exact matches in OSM. -->
+  <node id="-1191" visible="true" lat="44.47382376" lon="-72.71397672">
+    <!-- multiple: "1859 Mountain Road, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="1007"/>
+    <tag k="addr:housenumber" v="1859"/>
     <tag k="addr:street" v="Mountain Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="250574"/>
+    <tag k="ref:vcgi:esiteid" v="250530"/>
   </node>
   <node id="-1368" visible="true" lat="44.46924181" lon="-72.68851136">
     <!-- multiple: "287 Mountain Road, Stowe, VT" Multiple exact matches in OSM. -->
@@ -48,22 +56,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250964"/>
   </node>
-  <node id="-1663" visible="true" lat="44.46155844" lon="-72.69320709">
-    <!-- multiple: "56 River Road, Stowe, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="River Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="251064"/>
-  </node>
-  <node id="-1664" visible="true" lat="44.46146377" lon="-72.69393072">
-    <!-- multiple: "56 River Road, Stowe, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="River Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="251065"/>
-  </node>
   <node id="-1733" visible="true" lat="44.4582921" lon="-72.76710695">
     <!-- multiple: "256 Falls Brook Lane, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
@@ -71,14 +63,6 @@
     <tag k="addr:street" v="Falls Brook Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="251138"/>
-  </node>
-  <node id="-1749" visible="true" lat="44.45759258" lon="-72.7263046">
-    <!-- multiple: "183 McAllister Road, Stowe, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="183"/>
-    <tag k="addr:street" v="McAllister Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="251156"/>
   </node>
   <node id="-2176" visible="true" lat="44.44112771" lon="-72.71618441">
     <!-- multiple: "435 Moscow Road, Stowe, VT" Multiple exact matches in OSM. -->
@@ -104,12 +88,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="331633"/>
   </node>
-  <node id="-3502" visible="true" lat="44.46183768" lon="-72.69366623">
-    <!-- multiple: "56 River Road, Stowe, VT" Multiple exact matches in OSM. -->
+  <node id="-3507" visible="true" lat="44.4760051" lon="-72.71572713">
+    <!-- multiple: "100 Cottage Club Road, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Cottage Club Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454727"/>
+    <tag k="ref:vcgi:esiteid" v="455416"/>
   </node>
 </osm>

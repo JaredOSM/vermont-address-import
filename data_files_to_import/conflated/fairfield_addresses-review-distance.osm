@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1057" visible="true" lat="44.86248449" lon="-73.00148778">
+    <!-- offset: "3706 Pond Road, , VT" Significant offset - 167.8m -->
+    <tag k="addr:housenumber" v="3706"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365058"/>
+  </node>
 </osm>

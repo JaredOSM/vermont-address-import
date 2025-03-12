@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-128" visible="true" lat="43.71732739" lon="-72.41732284">
     <!-- multiple: "49 Tigertown Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="49"/>
@@ -426,6 +426,13 @@
     <tag k="addr:street" v="Beswick Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123547"/>
+  </node>
+  <node id="-3292" visible="true" lat="43.64534862" lon="-72.42024121">
+    <!-- multiple: "61 River Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123551"/>
   </node>
   <node id="-3321" visible="true" lat="43.64503927" lon="-72.34032925">
     <!-- multiple: "4 Ballardvale Drive, , VT" Multiple exact matches in OSM. -->

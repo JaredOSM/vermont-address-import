@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="42.89649947" lon="-72.54935202">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="56"/>
@@ -104,13 +104,6 @@
     <tag k="addr:street" v="Obryan Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="29674"/>
-  </node>
-  <node id="-127" visible="true" lat="42.890884" lon="-72.55362622">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1378"/>
-    <tag k="addr:street" v="Putney Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="29675"/>
   </node>
   <node id="-129" visible="true" lat="42.89153378" lon="-72.54662006">
     <tag k="addr:city" v="Brattleboro"/>
@@ -301,13 +294,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="29714"/>
   </node>
-  <node id="-167" visible="true" lat="42.88332999" lon="-72.5573">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1071"/>
-    <tag k="addr:street" v="Putney Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="29720"/>
-  </node>
   <node id="-168" visible="true" lat="42.88339092" lon="-72.56271443">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="29"/>
@@ -349,13 +335,6 @@
     <tag k="addr:street" v="Brisk Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="29726"/>
-  </node>
-  <node id="-174" visible="true" lat="42.88300808" lon="-72.55748404">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1059"/>
-    <tag k="addr:street" v="Putney Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="29727"/>
   </node>
   <node id="-175" visible="true" lat="42.88285" lon="-72.55592999">
     <tag k="addr:city" v="Brattleboro"/>
@@ -420,13 +399,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="29748"/>
   </node>
-  <node id="-184" visible="true" lat="42.8817329" lon="-72.55795526">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1007"/>
-    <tag k="addr:street" v="Putney Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="29750"/>
-  </node>
   <node id="-185" visible="true" lat="42.88107999" lon="-72.55573999">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="92"/>
@@ -454,13 +426,6 @@
     <tag k="addr:street" v="Black Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="29754"/>
-  </node>
-  <node id="-189" visible="true" lat="42.88124019" lon="-72.55827606">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="987"/>
-    <tag k="addr:street" v="Putney Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="29755"/>
   </node>
   <node id="-191" visible="true" lat="42.88082999" lon="-72.55657999">
     <tag k="addr:city" v="Brattleboro"/>
@@ -797,13 +762,6 @@
     <tag k="addr:street" v="Deepwood Park"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="29816"/>
-  </node>
-  <node id="-249" visible="true" lat="42.87452653" lon="-72.56233314">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="768"/>
-    <tag k="addr:street" v="Putney Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="29817"/>
   </node>
   <node id="-250" visible="true" lat="42.87456565" lon="-72.61704786">
     <tag k="addr:city" v="Brattleboro"/>
@@ -10031,13 +9989,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31477"/>
   </node>
-  <node id="-1868" visible="true" lat="42.8516774" lon="-72.55996003">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="Elliot Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31481"/>
-  </node>
   <node id="-1869" visible="true" lat="42.85159" lon="-72.57165">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="142"/>
@@ -11130,13 +11081,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31705"/>
   </node>
-  <node id="-2089" visible="true" lat="42.85022999" lon="-72.56023">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="Flat Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31706"/>
-  </node>
   <node id="-2090" visible="true" lat="42.85057817" lon="-72.57801495">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="316"/>
@@ -11459,13 +11403,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31764"/>
   </node>
-  <node id="-2149" visible="true" lat="42.85037325" lon="-72.57997861">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="364"/>
-    <tag k="addr:street" v="Western Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31767"/>
-  </node>
   <node id="-2150" visible="true" lat="42.85032999" lon="-72.57495">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="18"/>
@@ -11486,13 +11423,6 @@
     <tag k="addr:street" v="Western Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31770"/>
-  </node>
-  <node id="-2153" visible="true" lat="42.85030999" lon="-72.58024">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="376"/>
-    <tag k="addr:street" v="Western Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31771"/>
   </node>
   <node id="-2154" visible="true" lat="42.85035952" lon="-72.56374295">
     <tag k="addr:city" v="Brattleboro"/>
@@ -11521,13 +11451,6 @@
     <tag k="addr:street" v="Western Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31775"/>
-  </node>
-  <node id="-2158" visible="true" lat="42.85023" lon="-72.56883999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="231"/>
-    <tag k="addr:street" v="Birge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31776"/>
   </node>
   <node id="-2159" visible="true" lat="42.85029999" lon="-72.56213">
     <tag k="addr:city" v="Brattleboro"/>
@@ -11577,20 +11500,6 @@
     <tag k="addr:street" v="Elliot Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31783"/>
-  </node>
-  <node id="-2166" visible="true" lat="42.85029999" lon="-72.56918999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="240"/>
-    <tag k="addr:street" v="Birge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31784"/>
-  </node>
-  <node id="-2167" visible="true" lat="42.85027882" lon="-72.58048743">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="382"/>
-    <tag k="addr:street" v="Western Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31785"/>
   </node>
   <node id="-2168" visible="true" lat="42.85027" lon="-72.57531">
     <tag k="addr:city" v="Brattleboro"/>
@@ -11809,13 +11718,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31835"/>
   </node>
-  <node id="-2218" visible="true" lat="42.84998" lon="-72.56902">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="224"/>
-    <tag k="addr:street" v="Birge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31837"/>
-  </node>
   <node id="-2219" visible="true" lat="42.84998" lon="-72.58156">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="412"/>
@@ -11900,13 +11802,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31857"/>
   </node>
-  <node id="-2239" visible="true" lat="42.84988999" lon="-72.56896999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Reynolds Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31858"/>
-  </node>
   <node id="-2240" visible="true" lat="42.84991347" lon="-72.55840509">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="18"/>
@@ -11949,13 +11844,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31866"/>
   </node>
-  <node id="-2248" visible="true" lat="42.84985" lon="-72.56854999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="213"/>
-    <tag k="addr:street" v="Birge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31867"/>
-  </node>
   <node id="-2249" visible="true" lat="42.84986596" lon="-72.60107835">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="16"/>
@@ -11984,26 +11872,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31875"/>
   </node>
-  <node id="-2256" visible="true" lat="42.84978999" lon="-72.56917999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Reynolds Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31876"/>
-  </node>
   <node id="-2257" visible="true" lat="42.84988528" lon="-72.58413575">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="480"/>
     <tag k="addr:street" v="Western Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31877"/>
-  </node>
-  <node id="-2258" visible="true" lat="42.84972375" lon="-72.57226242">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="West Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31878"/>
   </node>
   <node id="-2259" visible="true" lat="42.84978999" lon="-72.56283">
     <tag k="addr:city" v="Brattleboro"/>
@@ -12096,26 +11970,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31893"/>
   </node>
-  <node id="-2274" visible="true" lat="42.84971999" lon="-72.56904999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Reynolds Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31894"/>
-  </node>
   <node id="-2276" visible="true" lat="42.84970999" lon="-72.57539">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="71"/>
     <tag k="addr:street" v="Crosby Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31896"/>
-  </node>
-  <node id="-2277" visible="true" lat="42.84966" lon="-72.56878999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Baker Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31897"/>
   </node>
   <node id="-2281" visible="true" lat="42.84964" lon="-72.58345999">
     <tag k="addr:city" v="Brattleboro"/>
@@ -12229,13 +12089,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31918"/>
   </node>
-  <node id="-2301" visible="true" lat="42.84957" lon="-72.56945999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Reynolds Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31921"/>
-  </node>
   <node id="-2303" visible="true" lat="42.84955" lon="-72.55845">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="12"/>
@@ -12270,13 +12123,6 @@
     <tag k="addr:street" v="West Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31927"/>
-  </node>
-  <node id="-2309" visible="true" lat="42.84952864" lon="-72.56903963">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Baker Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31929"/>
   </node>
   <node id="-2311" visible="true" lat="42.84947" lon="-72.55863">
     <tag k="addr:city" v="Brattleboro"/>
@@ -12333,13 +12179,6 @@
     <tag k="addr:street" v="Crosby Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31942"/>
-  </node>
-  <node id="-2322" visible="true" lat="42.84941" lon="-72.56853999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Baker Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31943"/>
   </node>
   <node id="-2323" visible="true" lat="42.84941999" lon="-72.55835">
     <tag k="addr:city" v="Brattleboro"/>
@@ -12411,13 +12250,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31956"/>
   </node>
-  <node id="-2335" visible="true" lat="42.8493197" lon="-72.56864039">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Baker Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31957"/>
-  </node>
   <node id="-2337" visible="true" lat="42.84926251" lon="-72.56502659">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="108"/>
@@ -12452,13 +12284,6 @@
     <tag k="addr:street" v="Frost Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31963"/>
-  </node>
-  <node id="-2342" visible="true" lat="42.84922999" lon="-72.56920999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Baker Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31964"/>
   </node>
   <node id="-2343" visible="true" lat="42.84928717" lon="-72.5652267">
     <tag k="addr:city" v="Brattleboro"/>
@@ -12529,13 +12354,6 @@
     <tag k="addr:street" v="South Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31975"/>
-  </node>
-  <node id="-2354" visible="true" lat="42.84919104" lon="-72.56825582">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="190"/>
-    <tag k="addr:street" v="Birge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31976"/>
   </node>
   <node id="-2355" visible="true" lat="42.84913" lon="-72.58203999">
     <tag k="addr:city" v="Brattleboro"/>
@@ -12691,20 +12509,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32008"/>
   </node>
-  <node id="-2386" visible="true" lat="42.84896758" lon="-72.56807874">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="180"/>
-    <tag k="addr:street" v="Birge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="32009"/>
-  </node>
-  <node id="-2387" visible="true" lat="42.84901172" lon="-72.56910149">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Baker Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="32010"/>
-  </node>
   <node id="-2388" visible="true" lat="42.84894" lon="-72.55940999">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="64"/>
@@ -12775,13 +12579,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32026"/>
   </node>
-  <node id="-2403" visible="true" lat="42.84883431" lon="-72.56798117">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="174"/>
-    <tag k="addr:street" v="Birge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="32027"/>
-  </node>
   <node id="-2404" visible="true" lat="42.84881" lon="-72.58828999">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="14"/>
@@ -12838,20 +12635,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32036"/>
   </node>
-  <node id="-2413" visible="true" lat="42.8487686" lon="-72.568667">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Baker Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="32038"/>
-  </node>
-  <node id="-2414" visible="true" lat="42.84882435" lon="-72.56898112">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Baker Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="32039"/>
-  </node>
   <node id="-2415" visible="true" lat="42.84873" lon="-72.56627999">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="55"/>
@@ -12873,26 +12656,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32043"/>
   </node>
-  <node id="-2420" visible="true" lat="42.84864999" lon="-72.58353">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="72"/>
-    <tag k="addr:street" v="Blanche Moyse Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="32045"/>
-  </node>
   <node id="-2421" visible="true" lat="42.84876999" lon="-72.58082999">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="485"/>
     <tag k="addr:street" v="Williams Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32046"/>
-  </node>
-  <node id="-2422" visible="true" lat="42.84870871" lon="-72.56784599">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="170"/>
-    <tag k="addr:street" v="Birge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="32047"/>
   </node>
   <node id="-2423" visible="true" lat="42.8487" lon="-72.55832999">
     <tag k="addr:city" v="Brattleboro"/>
@@ -13083,13 +12852,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32079"/>
   </node>
-  <node id="-2455" visible="true" lat="42.84859912" lon="-72.56708705">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Birge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="32080"/>
-  </node>
   <node id="-2456" visible="true" lat="42.8485" lon="-72.57198">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="204"/>
@@ -13160,13 +12922,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32093"/>
   </node>
-  <node id="-2469" visible="true" lat="42.84837999" lon="-72.56892">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Estey Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="32094"/>
-  </node>
   <node id="-2471" visible="true" lat="42.84837999" lon="-72.57254999">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="216"/>
@@ -13180,13 +12935,6 @@
     <tag k="addr:street" v="Whetstone Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32097"/>
-  </node>
-  <node id="-2473" visible="true" lat="42.84834999" lon="-72.56826999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Estey Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="32098"/>
   </node>
   <node id="-2474" visible="true" lat="42.84830027" lon="-72.58603962">
     <tag k="addr:city" v="Brattleboro"/>
@@ -13593,13 +13341,6 @@
     <tag k="addr:street" v="Brookside Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32166"/>
-  </node>
-  <node id="-2541" visible="true" lat="42.84796853" lon="-72.56888212">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="Estey Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="32167"/>
   </node>
   <node id="-2542" visible="true" lat="42.84786981" lon="-72.55801635">
     <tag k="addr:city" v="Brattleboro"/>
@@ -16855,13 +16596,6 @@
     <tag k="addr:street" v="Friendship Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32876"/>
-  </node>
-  <node id="-3250" visible="true" lat="42.84413999" lon="-72.56051">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="97"/>
-    <tag k="addr:street" v="Pine Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="32881"/>
   </node>
   <node id="-3251" visible="true" lat="42.84410654" lon="-72.57579101">
     <tag k="addr:city" v="Brattleboro"/>
@@ -20552,13 +20286,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="33618"/>
   </node>
-  <node id="-3983" visible="true" lat="42.83807999" lon="-72.56621">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="515"/>
-    <tag k="addr:street" v="Canal Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="33619"/>
-  </node>
   <node id="-3984" visible="true" lat="42.83820999" lon="-72.55843">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="111"/>
@@ -21441,34 +21168,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="33802"/>
   </node>
-  <node id="-4166" visible="true" lat="42.89785" lon="-72.65785999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1589"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="33805"/>
-  </node>
-  <node id="-4167" visible="true" lat="42.89775816" lon="-72.66356194">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Hescock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="33806"/>
-  </node>
-  <node id="-4172" visible="true" lat="42.89698105" lon="-72.66091011">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Hescock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="33811"/>
-  </node>
-  <node id="-4174" visible="true" lat="42.89676999" lon="-72.65617">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Kelly Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="33813"/>
-  </node>
   <node id="-4175" visible="true" lat="42.89638198" lon="-72.60048088">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="1468"/>
@@ -21518,13 +21217,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="33826"/>
   </node>
-  <node id="-4184" visible="true" lat="42.89625332" lon="-72.66277767">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:street" v="Hescock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="33827"/>
-  </node>
   <node id="-4185" visible="true" lat="42.89579341" lon="-72.60266938">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="186"/>
@@ -21559,13 +21251,6 @@
     <tag k="addr:street" v="Hillwinds North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="33837"/>
-  </node>
-  <node id="-4195" visible="true" lat="42.8952395" lon="-72.67417617">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="856"/>
-    <tag k="addr:street" v="Fisch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="33839"/>
   </node>
   <node id="-4196" visible="true" lat="42.89555" lon="-72.6017">
     <tag k="addr:city" v="Brattleboro"/>
@@ -21664,13 +21349,6 @@
     <tag k="addr:street" v="Fleisher Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="33857"/>
-  </node>
-  <node id="-4213" visible="true" lat="42.89409884" lon="-72.65474082">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1420"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="33858"/>
   </node>
   <node id="-4215" visible="true" lat="42.89416" lon="-72.59584">
     <tag k="addr:city" v="Brattleboro"/>
@@ -22057,13 +21735,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="33934"/>
   </node>
-  <node id="-4292" visible="true" lat="42.89080999" lon="-72.65105999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1267"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="33937"/>
-  </node>
   <node id="-4293" visible="true" lat="42.89068999" lon="-72.60132999">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="177"/>
@@ -22169,13 +21840,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="33961"/>
   </node>
-  <node id="-4318" visible="true" lat="42.8896" lon="-72.64963999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1203"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="33963"/>
-  </node>
   <node id="-4319" visible="true" lat="42.88965" lon="-72.59178">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="58"/>
@@ -22203,13 +21867,6 @@
     <tag k="addr:street" v="Upper Dummerston Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="33968"/>
-  </node>
-  <node id="-4324" visible="true" lat="42.8892675" lon="-72.67454355">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1136"/>
-    <tag k="addr:street" v="Fisch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="33969"/>
   </node>
   <node id="-4326" visible="true" lat="42.88935999" lon="-72.60083999">
     <tag k="addr:city" v="Brattleboro"/>
@@ -22245,13 +21902,6 @@
     <tag k="addr:street" v="West River Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="33978"/>
-  </node>
-  <node id="-4335" visible="true" lat="42.88885999" lon="-72.64986999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1210"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="33980"/>
   </node>
   <node id="-4337" visible="true" lat="42.8889" lon="-72.59451">
     <tag k="addr:city" v="Brattleboro"/>
@@ -22407,13 +22057,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34014"/>
   </node>
-  <node id="-4370" visible="true" lat="42.88732999" lon="-72.64758999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1106"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34015"/>
-  </node>
   <node id="-4371" visible="true" lat="42.88699208" lon="-72.59815028">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="336"/>
@@ -22449,26 +22092,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34020"/>
   </node>
-  <node id="-4377" visible="true" lat="42.88690206" lon="-72.6493586">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1138"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34022"/>
-  </node>
   <node id="-4378" visible="true" lat="42.88686" lon="-72.59226999">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="1079"/>
     <tag k="addr:street" v="Upper Dummerston Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34023"/>
-  </node>
-  <node id="-4379" visible="true" lat="42.88673027" lon="-72.6445941">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1025"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34024"/>
   </node>
   <node id="-4381" visible="true" lat="42.88677" lon="-72.58958">
     <tag k="addr:city" v="Brattleboro"/>
@@ -22511,13 +22140,6 @@
     <tag k="addr:street" v="Kipling Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34034"/>
-  </node>
-  <node id="-4393" visible="true" lat="42.88611999" lon="-72.64344">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="990"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34038"/>
   </node>
   <node id="-4394" visible="true" lat="42.88614213" lon="-72.59937115">
     <tag k="addr:city" v="Brattleboro"/>
@@ -22757,13 +22379,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34082"/>
   </node>
-  <node id="-4438" visible="true" lat="42.88435915" lon="-72.63192246">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="645"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34083"/>
-  </node>
   <node id="-4440" visible="true" lat="42.88439" lon="-72.60931">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="480"/>
@@ -22805,20 +22420,6 @@
     <tag k="addr:street" v="Crescent Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34091"/>
-  </node>
-  <node id="-4447" visible="true" lat="42.88402458" lon="-72.63801982">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="797"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34092"/>
-  </node>
-  <node id="-4448" visible="true" lat="42.88405802" lon="-72.63785061">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="795"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34093"/>
   </node>
   <node id="-4450" visible="true" lat="42.88409" lon="-72.59349">
     <tag k="addr:city" v="Brattleboro"/>
@@ -22890,13 +22491,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34105"/>
   </node>
-  <node id="-4461" visible="true" lat="42.88317025" lon="-72.63617506">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="757"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34106"/>
-  </node>
   <node id="-4462" visible="true" lat="42.88309658" lon="-72.59392182">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="904"/>
@@ -22904,54 +22498,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34107"/>
   </node>
-  <node id="-4463" visible="true" lat="42.88280211" lon="-72.63196573">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="639"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34108"/>
-  </node>
-  <node id="-4468" visible="true" lat="42.88238999" lon="-72.63687">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="748"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34113"/>
-  </node>
-  <node id="-4470" visible="true" lat="42.88372836" lon="-72.62933935">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="Bear Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34116"/>
-  </node>
-  <node id="-4471" visible="true" lat="42.88226191" lon="-72.63164881">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="619"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34117"/>
-  </node>
   <node id="-4472" visible="true" lat="42.88222804" lon="-72.61130265">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="416"/>
     <tag k="addr:street" v="Pleasant Valley Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34118"/>
-  </node>
-  <node id="-4475" visible="true" lat="42.88205567" lon="-72.62724581">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Gulf Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34122"/>
-  </node>
-  <node id="-4479" visible="true" lat="42.88163999" lon="-72.65337">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="448"/>
-    <tag k="addr:street" v="Halladay Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34126"/>
   </node>
   <node id="-4483" visible="true" lat="42.88140483" lon="-72.60832876">
     <tag k="addr:city" v="Brattleboro"/>
@@ -25228,13 +24780,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34693"/>
   </node>
-  <node id="-5025" visible="true" lat="42.85509708" lon="-72.65531463">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="889"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34694"/>
-  </node>
   <node id="-5028" visible="true" lat="42.85460999" lon="-72.58584999">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="180"/>
@@ -25270,13 +24815,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34704"/>
   </node>
-  <node id="-5036" visible="true" lat="42.85407" lon="-72.65955">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1023"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34705"/>
-  </node>
   <node id="-5037" visible="true" lat="42.85402999" lon="-72.58518999">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="152"/>
@@ -25284,33 +24822,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34706"/>
   </node>
-  <node id="-5039" visible="true" lat="42.85397" lon="-72.67830999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1507"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34708"/>
-  </node>
   <node id="-5040" visible="true" lat="42.85389999" lon="-72.62654">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="318"/>
     <tag k="addr:street" v="Abbott Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34709"/>
-  </node>
-  <node id="-5041" visible="true" lat="42.85367175" lon="-72.65518723">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="887"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34710"/>
-  </node>
-  <node id="-5042" visible="true" lat="42.85374357" lon="-72.6660894">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="89"/>
-    <tag k="addr:street" v="Red Oak Ridge"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34711"/>
   </node>
   <node id="-5044" visible="true" lat="42.85375872" lon="-72.64134701">
     <tag k="addr:city" v="Brattleboro"/>
@@ -25326,75 +24843,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34716"/>
   </node>
-  <node id="-5049" visible="true" lat="42.85339688" lon="-72.65600281">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="923"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34718"/>
-  </node>
-  <node id="-5050" visible="true" lat="42.85331863" lon="-72.65440925">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="843"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34719"/>
-  </node>
-  <node id="-5051" visible="true" lat="42.8532562" lon="-72.65044008">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="785"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34720"/>
-  </node>
-  <node id="-5053" visible="true" lat="42.85321261" lon="-72.64816211">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="694"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34722"/>
-  </node>
-  <node id="-5054" visible="true" lat="42.85314" lon="-72.66861">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Red Oak Ridge"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34723"/>
-  </node>
   <node id="-5055" visible="true" lat="42.85318999" lon="-72.58610999">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Timber Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34724"/>
-  </node>
-  <node id="-5059" visible="true" lat="42.85315531" lon="-72.6531146">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="827"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34728"/>
-  </node>
-  <node id="-5060" visible="true" lat="42.85306999" lon="-72.6565">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="921"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34729"/>
-  </node>
-  <node id="-5061" visible="true" lat="42.85306" lon="-72.65822">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="967"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34730"/>
-  </node>
-  <node id="-5062" visible="true" lat="42.85303" lon="-72.67489999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1429"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34731"/>
   </node>
   <node id="-5064" visible="true" lat="42.85304" lon="-72.61869999">
     <tag k="addr:city" v="Brattleboro"/>
@@ -25410,40 +24864,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34734"/>
   </node>
-  <node id="-5066" visible="true" lat="42.85275" lon="-72.67717999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1505"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34735"/>
-  </node>
-  <node id="-5067" visible="true" lat="42.85277999" lon="-72.65136">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="784"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34736"/>
-  </node>
   <node id="-5068" visible="true" lat="42.85272999" lon="-72.58658999">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="44"/>
     <tag k="addr:street" v="Timber Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34737"/>
-  </node>
-  <node id="-5069" visible="true" lat="42.85250613" lon="-72.6619226">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1081"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34738"/>
-  </node>
-  <node id="-5072" visible="true" lat="42.85255389" lon="-72.6565759">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="914"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34741"/>
   </node>
   <node id="-5073" visible="true" lat="42.84767355" lon="-72.65600264">
     <tag k="addr:city" v="Brattleboro"/>
@@ -25522,47 +24948,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34761"/>
   </node>
-  <node id="-5092" visible="true" lat="42.85158" lon="-72.66213">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1104"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34762"/>
-  </node>
-  <node id="-5096" visible="true" lat="42.85136526" lon="-72.67794663">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1526"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34766"/>
-  </node>
   <node id="-5097" visible="true" lat="42.85148" lon="-72.63669999">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="627"/>
     <tag k="addr:street" v="Abbott Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34767"/>
-  </node>
-  <node id="-5099" visible="true" lat="42.85136415" lon="-72.66477343">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1157"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34769"/>
-  </node>
-  <node id="-5101" visible="true" lat="42.85136146" lon="-72.67577923">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1468"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34771"/>
-  </node>
-  <node id="-5102" visible="true" lat="42.85124999" lon="-72.66588999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1193"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34772"/>
   </node>
   <node id="-5104" visible="true" lat="42.85125999" lon="-72.61343">
     <tag k="addr:city" v="Brattleboro"/>
@@ -25577,27 +24968,6 @@
     <tag k="addr:street" v="Abbott Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34776"/>
-  </node>
-  <node id="-5106" visible="true" lat="42.85106" lon="-72.66898">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1294"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34777"/>
-  </node>
-  <node id="-5107" visible="true" lat="42.85093265" lon="-72.65986194">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1012"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34778"/>
-  </node>
-  <node id="-5109" visible="true" lat="42.85091999" lon="-72.67609999">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1470"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34780"/>
   </node>
   <node id="-5111" visible="true" lat="42.85088" lon="-72.62361">
     <tag k="addr:city" v="Brattleboro"/>
@@ -25626,13 +24996,6 @@
     <tag k="addr:street" v="Hinesburg Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34790"/>
-  </node>
-  <node id="-5120" visible="true" lat="42.85029226" lon="-72.66662641">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1194"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34791"/>
   </node>
   <node id="-5123" visible="true" lat="42.85016251" lon="-72.62265809">
     <tag k="addr:city" v="Brattleboro"/>
@@ -25689,13 +25052,6 @@
     <tag k="addr:street" v="Ames Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34807"/>
-  </node>
-  <node id="-5138" visible="true" lat="42.84959875" lon="-72.6726378">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="74"/>
-    <tag k="addr:street" v="Barrows Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34809"/>
   </node>
   <node id="-5139" visible="true" lat="42.84956" lon="-72.63999">
     <tag k="addr:city" v="Brattleboro"/>
@@ -25864,13 +25220,6 @@
     <tag k="addr:street" v="Bonnyvale Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34853"/>
-  </node>
-  <node id="-5184" visible="true" lat="42.84733923" lon="-72.6490212">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="828"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34855"/>
   </node>
   <node id="-5185" visible="true" lat="42.8471898" lon="-72.62786647">
     <tag k="addr:city" v="Brattleboro"/>
@@ -26942,13 +26291,6 @@
     <tag k="addr:street" v="University Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="35107"/>
-  </node>
-  <node id="-5430" visible="true" lat="42.83092551" lon="-72.56846017">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="G S P Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="35110"/>
   </node>
   <node id="-5432" visible="true" lat="42.83097" lon="-72.59999999">
     <tag k="addr:city" v="Brattleboro"/>
@@ -29169,62 +28511,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36133"/>
   </node>
-  <node id="-6074" visible="true" lat="42.88399671" lon="-72.64843517">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="312"/>
-    <tag k="addr:street" v="Halladay Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36139"/>
-  </node>
-  <node id="-6075" visible="true" lat="42.88436455" lon="-72.64952315">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="351"/>
-    <tag k="addr:street" v="Halladay Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36140"/>
-  </node>
-  <node id="-6083" visible="true" lat="42.89802329" lon="-72.66592236">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="186"/>
-    <tag k="addr:street" v="Hescock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36148"/>
-  </node>
-  <node id="-6086" visible="true" lat="42.85434791" lon="-72.64733074">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="699"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36153"/>
-  </node>
-  <node id="-6088" visible="true" lat="42.85281363" lon="-72.65226819">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="822"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36155"/>
-  </node>
-  <node id="-6093" visible="true" lat="42.8522535" lon="-72.66612042">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1211"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36162"/>
-  </node>
-  <node id="-6100" visible="true" lat="42.85291181" lon="-72.67105375">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1323"/>
-    <tag k="addr:street" v="Ames Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36169"/>
-  </node>
-  <node id="-6102" visible="true" lat="42.85036378" lon="-72.67363169">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Barrows Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36171"/>
-  </node>
   <node id="-6110" visible="true" lat="42.85537045" lon="-72.55775152">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="48"/>
@@ -29435,13 +28721,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36260"/>
   </node>
-  <node id="-6150" visible="true" lat="42.85132161" lon="-72.55773034">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36261"/>
-  </node>
   <node id="-6151" visible="true" lat="42.85118985" lon="-72.55738884">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="37"/>
@@ -29560,13 +28839,6 @@
     <tag k="addr:street" v="Elliot Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36281"/>
-  </node>
-  <node id="-6168" visible="true" lat="42.8520696" lon="-72.55935153">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Elliot Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36282"/>
   </node>
   <node id="-6169" visible="true" lat="42.85207315" lon="-72.55931631">
     <tag k="addr:city" v="Brattleboro"/>
@@ -30079,13 +29351,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36365"/>
   </node>
-  <node id="-6245" visible="true" lat="42.85311827" lon="-72.55884179">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36366"/>
-  </node>
   <node id="-6246" visible="true" lat="42.85324723" lon="-72.55826355">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="157"/>
@@ -30338,13 +29603,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36409"/>
   </node>
-  <node id="-6285" visible="true" lat="42.88636944" lon="-72.64564919">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1038"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36410"/>
-  </node>
   <node id="-6286" visible="true" lat="42.85795847" lon="-72.59118136">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="75"/>
@@ -30548,13 +29806,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36444"/>
   </node>
-  <node id="-6316" visible="true" lat="42.88542969" lon="-72.64199582">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="950"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36447"/>
-  </node>
   <node id="-6317" visible="true" lat="42.84262112" lon="-72.57001664">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="97"/>
@@ -30596,13 +29847,6 @@
     <tag k="addr:street" v="Peach Tree Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310616"/>
-  </node>
-  <node id="-6323" visible="true" lat="42.89893287" lon="-72.67367568">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="750"/>
-    <tag k="addr:street" v="Fisch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310883"/>
   </node>
   <node id="-6324" visible="true" lat="42.85062501" lon="-72.55721455">
     <tag k="addr:city" v="Brattleboro"/>
@@ -30694,20 +29938,6 @@
     <tag k="addr:street" v="Atwood Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="313453"/>
-  </node>
-  <node id="-6337" visible="true" lat="42.8912144" lon="-72.65542832">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1320"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="315168"/>
-  </node>
-  <node id="-6338" visible="true" lat="42.88960415" lon="-72.65494185">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="1318"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="315169"/>
   </node>
   <node id="-6339" visible="true" lat="42.87473465" lon="-72.61564768">
     <tag k="addr:city" v="Brattleboro"/>
@@ -31283,13 +30513,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="344977"/>
   </node>
-  <node id="-6428" visible="true" lat="42.89819579" lon="-72.66349587">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:street" v="Hescock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344978"/>
-  </node>
   <node id="-6429" visible="true" lat="42.82497758" lon="-72.58762003">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="1006"/>
@@ -31793,13 +31016,6 @@
     <tag k="addr:street" v="Country Hill"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455443"/>
-  </node>
-  <node id="-6509" visible="true" lat="42.82848044" lon="-72.59964831">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Eli Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="610397"/>
   </node>
   <node id="-6510" visible="true" lat="42.82447785" lon="-72.56818895">
     <tag k="addr:city" v="Brattleboro"/>

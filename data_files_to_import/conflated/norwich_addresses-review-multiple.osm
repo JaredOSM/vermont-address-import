@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-908" visible="true" lat="43.72448325" lon="-72.28980366">
+    <!-- multiple: "185 Upper Loveland Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:street" v="Upper Loveland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182937"/>
+  </node>
+  <node id="-935" visible="true" lat="43.72360041" lon="-72.31171437">
+    <!-- multiple: "43 Turnpike Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182967"/>
+  </node>
+  <node id="-943" visible="true" lat="43.72319923" lon="-72.29035225">
+    <!-- multiple: "147 Upper Loveland Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:street" v="Upper Loveland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182975"/>
+  </node>
+  <node id="-964" visible="true" lat="43.72252845" lon="-72.29090941">
+    <!-- multiple: "133 Upper Loveland Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="133"/>
+    <tag k="addr:street" v="Upper Loveland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="183000"/>
+  </node>
+  <node id="-988" visible="true" lat="43.72152709" lon="-72.29180908">
+    <!-- multiple: "109 Upper Loveland Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:street" v="Upper Loveland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="183024"/>
+  </node>
+  <node id="-1001" visible="true" lat="43.72120872" lon="-72.31376175">
+    <!-- multiple: "35 Sargent Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Sargent Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="183038"/>
+  </node>
+  <node id="-1040" visible="true" lat="43.72014236" lon="-72.31408691">
+    <!-- multiple: "5 Sargent Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Sargent Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="183079"/>
+  </node>
   <node id="-1190" visible="true" lat="43.71563429" lon="-72.3092725">
     <!-- multiple: "8 Beaver Meadow Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="8"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-844" visible="true" lat="43.39550447" lon="-72.70376602">
     <!-- multiple: "224 Main Street, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
@@ -7,5 +7,13 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143349"/>
+  </node>
+  <node id="-1318" visible="true" lat="43.39620307" lon="-72.70164325">
+    <!-- multiple: "195 Main Street, Ludlow, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="195"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="143839"/>
   </node>
 </osm>

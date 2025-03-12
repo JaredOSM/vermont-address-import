@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-103" visible="true" lat="44.86958912" lon="-73.2835276">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="166"/>
+  </node>
+  <node id="-114" visible="true" lat="44.90087565" lon="-73.30254694">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1713"/>
+  </node>
+  <node id="-131" visible="true" lat="44.86820593" lon="-73.28456194">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1730"/>
+  </node>
   <node id="-133" visible="true" lat="44.98621827" lon="-73.29558482">
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="680"/>
@@ -7,12 +28,89 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1732"/>
   </node>
+  <node id="-181" visible="true" lat="44.99093243" lon="-73.32180793">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Windmill Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1780"/>
+  </node>
+  <node id="-182" visible="true" lat="44.99095974" lon="-73.32088568">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:street" v="Windmill Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1781"/>
+  </node>
+  <node id="-186" visible="true" lat="44.90361154" lon="-73.30154979">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1785"/>
+  </node>
+  <node id="-187" visible="true" lat="44.90740679" lon="-73.28569907">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1786"/>
+  </node>
+  <node id="-242" visible="true" lat="44.91106025" lon="-73.28069366">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1842"/>
+  </node>
   <node id="-245" visible="true" lat="44.94817685" lon="-73.27893753">
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="285"/>
     <tag k="addr:street" v="Cameron Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1845"/>
+  </node>
+  <node id="-250" visible="true" lat="44.86048054" lon="-73.2879422">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="195"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1850"/>
+  </node>
+  <node id="-251" visible="true" lat="44.8609752" lon="-73.2878702">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="193"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1851"/>
+  </node>
+  <node id="-253" visible="true" lat="44.87110484" lon="-73.28418531">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1854"/>
+  </node>
+  <node id="-255" visible="true" lat="44.88009617" lon="-73.27993144">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1856"/>
+  </node>
+  <node id="-256" visible="true" lat="44.88081307" lon="-73.27944863">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1857"/>
+  </node>
+  <node id="-257" visible="true" lat="44.88104704" lon="-73.27928938">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1858"/>
   </node>
   <node id="-309" visible="true" lat="44.85685735" lon="-73.28979774">
     <tag k="addr:city" v="Alburgh"/>
@@ -62,6 +160,13 @@
     <tag k="addr:street" v="Mooney Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1923"/>
+  </node>
+  <node id="-359" visible="true" lat="44.91116245" lon="-73.31350273">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="3953"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1962"/>
   </node>
   <node id="-377" visible="true" lat="44.85343191" lon="-73.29182128">
     <tag k="addr:city" v="Alburgh"/>
@@ -175,6 +280,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2002"/>
   </node>
+  <node id="-398" visible="true" lat="44.85991879" lon="-73.28814872">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2003"/>
+  </node>
   <node id="-399" visible="true" lat="44.85421942" lon="-73.29289369">
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="52"/>
@@ -223,6 +335,174 @@
     <tag k="addr:street" v="Point Of Tongue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2011"/>
+  </node>
+  <node id="-412" visible="true" lat="44.87966171" lon="-73.30545064">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Killdeer Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2017"/>
+  </node>
+  <node id="-413" visible="true" lat="44.87742297" lon="-73.30712463">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Killdeer Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2018"/>
+  </node>
+  <node id="-414" visible="true" lat="44.87706339" lon="-73.30739625">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Killdeer Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2019"/>
+  </node>
+  <node id="-431" visible="true" lat="44.91120709" lon="-73.26920264">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2036"/>
+  </node>
+  <node id="-432" visible="true" lat="44.90739554" lon="-73.27069235">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2037"/>
+  </node>
+  <node id="-433" visible="true" lat="44.90708687" lon="-73.27177836">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2038"/>
+  </node>
+  <node id="-434" visible="true" lat="44.90637475" lon="-73.27215748">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2039"/>
+  </node>
+  <node id="-435" visible="true" lat="44.90580889" lon="-73.27284845">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2040"/>
+  </node>
+  <node id="-467" visible="true" lat="44.90505194" lon="-73.29318455">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2073"/>
+  </node>
+  <node id="-476" visible="true" lat="44.89225348" lon="-73.30191622">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Hidden Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2082"/>
+  </node>
+  <node id="-478" visible="true" lat="44.89164834" lon="-73.30424578">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Hidden Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2084"/>
+  </node>
+  <node id="-479" visible="true" lat="44.89203257" lon="-73.30439675">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Hidden Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2085"/>
+  </node>
+  <node id="-490" visible="true" lat="44.90241891" lon="-73.30349618">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2096"/>
+  </node>
+  <node id="-491" visible="true" lat="44.90210276" lon="-73.30354817">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2097"/>
+  </node>
+  <node id="-493" visible="true" lat="44.90231172" lon="-73.30222402">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2099"/>
+  </node>
+  <node id="-494" visible="true" lat="44.90191313" lon="-73.30235333">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2100"/>
+  </node>
+  <node id="-495" visible="true" lat="44.90145221" lon="-73.30236107">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2101"/>
+  </node>
+  <node id="-496" visible="true" lat="44.90118237" lon="-73.30248808">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2102"/>
+  </node>
+  <node id="-497" visible="true" lat="44.90523666" lon="-73.29012433">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2103"/>
+  </node>
+  <node id="-504" visible="true" lat="44.86134323" lon="-73.28645987">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Macomber Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2112"/>
+  </node>
+  <node id="-505" visible="true" lat="44.86183722" lon="-73.28671284">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Macomber Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2113"/>
+  </node>
+  <node id="-506" visible="true" lat="44.86094861" lon="-73.28667964">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Macomber Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2114"/>
+  </node>
+  <node id="-507" visible="true" lat="44.86045288" lon="-73.28725442">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Macomber Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2115"/>
+  </node>
+  <node id="-508" visible="true" lat="44.86026015" lon="-73.28771396">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Macomber Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2116"/>
   </node>
   <node id="-515" visible="true" lat="44.99952913" lon="-73.29582106">
     <tag k="addr:city" v="Alburgh"/>
@@ -294,6 +574,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2300"/>
   </node>
+  <node id="-689" visible="true" lat="44.9808262" lon="-73.29839995">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="291"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2301"/>
+  </node>
+  <node id="-716" visible="true" lat="44.9902153" lon="-73.29608917">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Border Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2328"/>
+  </node>
   <node id="-966" visible="true" lat="45.0095586" lon="-73.32268162">
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="1241"/>
@@ -314,6 +608,13 @@
     <tag k="addr:street" v="U.S. Route 2 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2595"/>
+  </node>
+  <node id="-970" visible="true" lat="44.9976998" lon="-73.32389173">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="2719"/>
+    <tag k="addr:street" v="U.S. Route 2 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2598"/>
   </node>
   <node id="-974" visible="true" lat="45.00379366" lon="-73.32908135">
     <tag k="addr:city" v="Alburgh"/>
@@ -469,6 +770,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2634"/>
   </node>
+  <node id="-1005" visible="true" lat="44.99485359" lon="-73.32091762">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="2361"/>
+    <tag k="addr:street" v="U.S. Route 2 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2635"/>
+  </node>
+  <node id="-1006" visible="true" lat="44.99308174" lon="-73.32005987">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="2226"/>
+    <tag k="addr:street" v="U.S. Route 2 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2636"/>
+  </node>
   <node id="-1050" visible="true" lat="44.88519715" lon="-73.27786225">
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="7"/>
@@ -483,6 +798,293 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2685"/>
   </node>
+  <node id="-1052" visible="true" lat="44.88270541" lon="-73.27904966">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2686"/>
+  </node>
+  <node id="-1053" visible="true" lat="44.88120968" lon="-73.27925135">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2687"/>
+  </node>
+  <node id="-1054" visible="true" lat="44.88188381" lon="-73.27939387">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2688"/>
+  </node>
+  <node id="-1055" visible="true" lat="44.87959397" lon="-73.28004844">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2689"/>
+  </node>
+  <node id="-1056" visible="true" lat="44.87867455" lon="-73.28136591">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2690"/>
+  </node>
+  <node id="-1057" visible="true" lat="44.87806091" lon="-73.28130461">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2691"/>
+  </node>
+  <node id="-1058" visible="true" lat="44.87824489" lon="-73.28266759">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2692"/>
+  </node>
+  <node id="-1059" visible="true" lat="44.87686098" lon="-73.28285384">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2693"/>
+  </node>
+  <node id="-1060" visible="true" lat="44.87724975" lon="-73.28160779">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2694"/>
+  </node>
+  <node id="-1061" visible="true" lat="44.87686926" lon="-73.28124042">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2695"/>
+  </node>
+  <node id="-1062" visible="true" lat="44.87582621" lon="-73.28344491">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2696"/>
+  </node>
+  <node id="-1063" visible="true" lat="44.87508737" lon="-73.28155569">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2697"/>
+  </node>
+  <node id="-1065" visible="true" lat="44.87298727" lon="-73.28259782">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2699"/>
+  </node>
+  <node id="-1066" visible="true" lat="44.87062975" lon="-73.28341712">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2700"/>
+  </node>
+  <node id="-1067" visible="true" lat="44.87121004" lon="-73.28640316">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2702"/>
+  </node>
+  <node id="-1068" visible="true" lat="44.86805582" lon="-73.28480023">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2703"/>
+  </node>
+  <node id="-1069" visible="true" lat="44.86866408" lon="-73.28428305">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2704"/>
+  </node>
+  <node id="-1070" visible="true" lat="44.86752647" lon="-73.28558941">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2706"/>
+  </node>
+  <node id="-1071" visible="true" lat="44.86773889" lon="-73.28484296">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="146"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2707"/>
+  </node>
+  <node id="-1072" visible="true" lat="44.86791465" lon="-73.28475239">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2708"/>
+  </node>
+  <node id="-1073" visible="true" lat="44.8690498" lon="-73.28421674">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2709"/>
+  </node>
+  <node id="-1097" visible="true" lat="44.86660929" lon="-73.28545432">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2733"/>
+  </node>
+  <node id="-1098" visible="true" lat="44.86360316" lon="-73.28719332">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="174"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2734"/>
+  </node>
+  <node id="-1099" visible="true" lat="44.86389994" lon="-73.28704377">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="172"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2735"/>
+  </node>
+  <node id="-1100" visible="true" lat="44.86413957" lon="-73.28700115">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2736"/>
+  </node>
+  <node id="-1101" visible="true" lat="44.86448445" lon="-73.28669584">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="168"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2737"/>
+  </node>
+  <node id="-1102" visible="true" lat="44.86482343" lon="-73.28648885">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2738"/>
+  </node>
+  <node id="-1103" visible="true" lat="44.8650516" lon="-73.28646928">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2739"/>
+  </node>
+  <node id="-1104" visible="true" lat="44.86527766" lon="-73.28631288">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="162"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2740"/>
+  </node>
+  <node id="-1105" visible="true" lat="44.86541874" lon="-73.28624944">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2741"/>
+  </node>
+  <node id="-1106" visible="true" lat="44.86550754" lon="-73.28607152">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="158"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2742"/>
+  </node>
+  <node id="-1107" visible="true" lat="44.86565872" lon="-73.28595513">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2743"/>
+  </node>
+  <node id="-1108" visible="true" lat="44.86580271" lon="-73.28583865">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2744"/>
+  </node>
+  <node id="-1109" visible="true" lat="44.88589401" lon="-73.28363889">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Railroad Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2745"/>
+  </node>
+  <node id="-1110" visible="true" lat="44.88527165" lon="-73.28392919">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Railroad Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2746"/>
+  </node>
+  <node id="-1111" visible="true" lat="44.8839973" lon="-73.28471244">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Railroad Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2747"/>
+  </node>
+  <node id="-1112" visible="true" lat="44.88290165" lon="-73.28502437">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Railroad Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2748"/>
+  </node>
+  <node id="-1141" visible="true" lat="44.9125157" lon="-73.31216992">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="3815"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2778"/>
+  </node>
+  <node id="-1142" visible="true" lat="44.9106571" lon="-73.31340783">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="4005"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2779"/>
+  </node>
+  <node id="-1143" visible="true" lat="44.90989117" lon="-73.31201457">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="4009"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2780"/>
+  </node>
+  <node id="-1148" visible="true" lat="44.87443616" lon="-73.28283739">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2785"/>
+  </node>
   <node id="-1186" visible="true" lat="45.00445987" lon="-73.32932597">
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="362"/>
@@ -490,12 +1092,180 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2831"/>
   </node>
+  <node id="-1213" visible="true" lat="44.87980276" lon="-73.27991155">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2864"/>
+  </node>
+  <node id="-1215" visible="true" lat="44.87698984" lon="-73.28184312">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2867"/>
+  </node>
+  <node id="-1229" visible="true" lat="44.90263605" lon="-73.27264616">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2889"/>
+  </node>
+  <node id="-1352" visible="true" lat="44.90190087" lon="-73.27328436">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3016"/>
+  </node>
+  <node id="-1353" visible="true" lat="44.90357139" lon="-73.27316049">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3017"/>
+  </node>
+  <node id="-1354" visible="true" lat="44.90295818" lon="-73.27299881">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3018"/>
+  </node>
+  <node id="-1355" visible="true" lat="44.90381705" lon="-73.27293973">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3019"/>
+  </node>
+  <node id="-1356" visible="true" lat="44.90318449" lon="-73.27307695">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3020"/>
+  </node>
+  <node id="-1357" visible="true" lat="44.90333441" lon="-73.27285303">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3021"/>
+  </node>
+  <node id="-1358" visible="true" lat="44.90365192" lon="-73.2728983">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3022"/>
+  </node>
+  <node id="-1359" visible="true" lat="44.90293035" lon="-73.27268035">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3023"/>
+  </node>
+  <node id="-1360" visible="true" lat="44.90309348" lon="-73.27271931">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3024"/>
+  </node>
+  <node id="-1361" visible="true" lat="44.90279007" lon="-73.2726379">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3025"/>
+  </node>
+  <node id="-1362" visible="true" lat="44.90230922" lon="-73.27280016">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3026"/>
+  </node>
+  <node id="-1363" visible="true" lat="44.90246739" lon="-73.2727146">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3027"/>
+  </node>
+  <node id="-1364" visible="true" lat="44.9019824" lon="-73.27297983">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3028"/>
+  </node>
+  <node id="-1365" visible="true" lat="44.90214591" lon="-73.27286174">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3029"/>
+  </node>
+  <node id="-1366" visible="true" lat="44.90145575" lon="-73.27333868">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3030"/>
+  </node>
+  <node id="-1367" visible="true" lat="44.90186616" lon="-73.27304915">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3031"/>
+  </node>
+  <node id="-1368" visible="true" lat="44.90159984" lon="-73.27325224">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3032"/>
+  </node>
+  <node id="-1369" visible="true" lat="44.90127995" lon="-73.27341469">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3033"/>
+  </node>
+  <node id="-1370" visible="true" lat="44.90110638" lon="-73.27361904">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3034"/>
+  </node>
   <node id="-1517" visible="true" lat="44.99995058" lon="-73.32860053">
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="Bay Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3186"/>
+  </node>
+  <node id="-1525" visible="true" lat="44.90551806" lon="-73.31302011">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="4345"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3195"/>
+  </node>
+  <node id="-1537" visible="true" lat="44.9877811" lon="-73.2919053">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:street" v="Missile Base Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3208"/>
   </node>
   <node id="-1551" visible="true" lat="44.84849062" lon="-73.29446366">
     <tag k="addr:city" v="Alburgh"/>
@@ -532,6 +1302,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306691"/>
   </node>
+  <node id="-1593" visible="true" lat="44.99434381" lon="-73.3209997">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="2319"/>
+    <tag k="addr:street" v="U.S. Route 2 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306696"/>
+  </node>
   <node id="-1594" visible="true" lat="44.99786823" lon="-73.29683182">
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="609"/>
@@ -560,6 +1337,62 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306704"/>
   </node>
+  <node id="-1633" visible="true" lat="44.91194586" lon="-73.31324721">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="3899"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306756"/>
+  </node>
+  <node id="-1634" visible="true" lat="44.91260036" lon="-73.26888718">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306757"/>
+  </node>
+  <node id="-1635" visible="true" lat="44.90972801" lon="-73.26925143">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306758"/>
+  </node>
+  <node id="-1636" visible="true" lat="44.87001588" lon="-73.28619851">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306759"/>
+  </node>
+  <node id="-1637" visible="true" lat="44.89670288" lon="-73.30368508">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Carrigan Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306760"/>
+  </node>
+  <node id="-1638" visible="true" lat="44.89807139" lon="-73.30331438">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Carrigan Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306761"/>
+  </node>
+  <node id="-1639" visible="true" lat="44.89845149" lon="-73.30325358">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Carrigan Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306762"/>
+  </node>
+  <node id="-1640" visible="true" lat="44.89896651" lon="-73.30296291">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Carrigan Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306763"/>
+  </node>
   <node id="-1641" visible="true" lat="44.85427952" lon="-73.29200422">
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="54"/>
@@ -567,12 +1400,68 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306767"/>
   </node>
+  <node id="-1675" visible="true" lat="44.89253303" lon="-73.30055489">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Hidden Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313368"/>
+  </node>
+  <node id="-1676" visible="true" lat="44.89118072" lon="-73.29944991">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Hidden Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313369"/>
+  </node>
+  <node id="-1677" visible="true" lat="44.89222636" lon="-73.29919651">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Hidden Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313370"/>
+  </node>
+  <node id="-1678" visible="true" lat="44.89139302" lon="-73.29550999">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Hidden Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313371"/>
+  </node>
   <node id="-1686" visible="true" lat="45.0103084" lon="-73.32685239">
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="1477"/>
     <tag k="addr:street" v="Line Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="327080"/>
+  </node>
+  <node id="-1692" visible="true" lat="44.91013538" lon="-73.26919771">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="327145"/>
+  </node>
+  <node id="-1697" visible="true" lat="44.86080823" lon="-73.2901324">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Cedarvale Estate"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="327697"/>
+  </node>
+  <node id="-1842" visible="true" lat="44.86147706" lon="-73.2885794">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Sand Beach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452868"/>
+  </node>
+  <node id="-1857" visible="true" lat="44.9904656" lon="-73.31938112">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Windmill Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454908"/>
   </node>
   <node id="-1864" visible="true" lat="44.97416105" lon="-73.29818974">
     <tag k="addr:city" v="Alburgh"/>
@@ -602,12 +1491,82 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612049"/>
   </node>
+  <node id="-2046" visible="true" lat="44.9118085" lon="-73.28213899">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613293"/>
+  </node>
+  <node id="-2057" visible="true" lat="44.87008105" lon="-73.28334964">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="614274"/>
+  </node>
+  <node id="-2082" visible="true" lat="44.88010563" lon="-73.28057733">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618571"/>
+  </node>
+  <node id="-2098" visible="true" lat="44.90228393" lon="-73.27302686">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618590"/>
+  </node>
+  <node id="-2123" visible="true" lat="44.90245303" lon="-73.27294435">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620846"/>
+  </node>
+  <node id="-2124" visible="true" lat="44.9033021" lon="-73.27308136">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620848"/>
+  </node>
   <node id="-2205" visible="true" lat="44.96763035" lon="-73.26902421">
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="673"/>
     <tag k="addr:street" v="Vermont Route 78"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750633"/>
+  </node>
+  <node id="-2242" visible="true" lat="44.9073409" lon="-73.3116458">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="4241"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750820"/>
+  </node>
+  <node id="-2246" visible="true" lat="44.86837504" lon="-73.28403075">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751063"/>
+  </node>
+  <node id="-2247" visible="true" lat="44.87140046" lon="-73.28368858">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751064"/>
+  </node>
+  <node id="-2248" visible="true" lat="44.87208894" lon="-73.28364171">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751065"/>
   </node>
   <node id="-2371" visible="true" lat="44.94776193" lon="-73.27243199">
     <tag k="addr:city" v="Alburgh"/>
@@ -616,11 +1575,116 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752246"/>
   </node>
+  <node id="-2375" visible="true" lat="44.91295616" lon="-73.31167406">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="3813"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752979"/>
+  </node>
+  <node id="-2376" visible="true" lat="44.91216367" lon="-73.31346389">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="3897"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752980"/>
+  </node>
+  <node id="-2377" visible="true" lat="44.90943236" lon="-73.31334998">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="4093"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752981"/>
+  </node>
+  <node id="-2395" visible="true" lat="44.90921294" lon="-73.31168646">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="360"/>
+    <tag k="addr:street" v="Terrapin Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757495"/>
+  </node>
+  <node id="-2411" visible="true" lat="44.90570514" lon="-73.30976339">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Terrapin Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759454"/>
+  </node>
+  <node id="-2412" visible="true" lat="44.90626043" lon="-73.31009453">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Terrapin Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759455"/>
+  </node>
+  <node id="-2413" visible="true" lat="44.90681268" lon="-73.31011234">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Terrapin Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759456"/>
+  </node>
+  <node id="-2414" visible="true" lat="44.90715728" lon="-73.3098659">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:street" v="Terrapin Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759457"/>
+  </node>
+  <node id="-2416" visible="true" lat="44.90795799" lon="-73.31077171">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="432"/>
+    <tag k="addr:street" v="Terrapin Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759460"/>
+  </node>
+  <node id="-2417" visible="true" lat="44.90778694" lon="-73.31172417">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="418"/>
+    <tag k="addr:street" v="Terrapin Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759461"/>
+  </node>
+  <node id="-2418" visible="true" lat="44.90847006" lon="-73.31201678">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="394"/>
+    <tag k="addr:street" v="Terrapin Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759462"/>
+  </node>
+  <node id="-2419" visible="true" lat="44.90883011" lon="-73.3118271">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="386"/>
+    <tag k="addr:street" v="Terrapin Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759463"/>
+  </node>
+  <node id="-2420" visible="true" lat="44.86079139" lon="-73.28900865">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Sand Beach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759961"/>
+  </node>
   <node id="-2421" visible="true" lat="44.84864387" lon="-73.29423983">
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="86"/>
     <tag k="addr:street" v="Point Of Tongue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760150"/>
+  </node>
+  <node id="-2433" visible="true" lat="44.88430461" lon="-73.27932705">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762276"/>
+  </node>
+  <node id="-2437" visible="true" lat="44.90837863" lon="-73.30973465">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:street" v="Terrapin Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763306"/>
   </node>
 </osm>

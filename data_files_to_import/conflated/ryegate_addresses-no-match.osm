@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.22394673" lon="-72.13142147">
     <tag k="addr:housenumber" v="220"/>
     <tag k="addr:street" v="Perkins Lane"/>
@@ -65,12 +65,6 @@
     <tag k="addr:street" v="Mosquitoville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215517"/>
-  </node>
-  <node id="-113" visible="true" lat="44.25943158" lon="-72.15409789">
-    <tag k="addr:housenumber" v="956"/>
-    <tag k="addr:street" v="Mosquitoville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215519"/>
   </node>
   <node id="-114" visible="true" lat="44.25907791" lon="-72.08804068">
     <tag k="addr:housenumber" v="278"/>
@@ -1482,12 +1476,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215892"/>
   </node>
-  <node id="-476" visible="true" lat="44.19180411" lon="-72.14069805">
-    <tag k="addr:housenumber" v="197"/>
-    <tag k="addr:street" v="Stone Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215894"/>
-  </node>
   <node id="-477" visible="true" lat="44.19169998" lon="-72.16030883">
     <tag k="addr:housenumber" v="859"/>
     <tag k="addr:street" v="Barr Drive"/>
@@ -1500,29 +1488,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215896"/>
   </node>
-  <node id="-479" visible="true" lat="44.19140437" lon="-72.14340768">
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Stone Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215897"/>
-  </node>
-  <node id="-480" visible="true" lat="44.191374" lon="-72.14124929">
-    <tag k="addr:housenumber" v="159"/>
-    <tag k="addr:street" v="Stone Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215898"/>
-  </node>
   <node id="-481" visible="true" lat="44.19135284" lon="-72.13320922">
     <tag k="addr:housenumber" v="156"/>
     <tag k="addr:street" v="Zambon Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215899"/>
-  </node>
-  <node id="-482" visible="true" lat="44.19139365" lon="-72.14449193">
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Mackennon Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215900"/>
   </node>
   <node id="-483" visible="true" lat="44.19129202" lon="-72.14686377">
     <tag k="addr:housenumber" v="3035"/>
@@ -1530,77 +1500,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215901"/>
   </node>
-  <node id="-484" visible="true" lat="44.19108268" lon="-72.14243717">
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Stone Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215902"/>
-  </node>
-  <node id="-485" visible="true" lat="44.19117061" lon="-72.1445548">
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Mackennon Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215903"/>
-  </node>
-  <node id="-487" visible="true" lat="44.19074177" lon="-72.14402015">
-    <tag k="addr:housenumber" v="1540"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215906"/>
-  </node>
-  <node id="-488" visible="true" lat="44.19070284" lon="-72.14027561">
-    <tag k="addr:housenumber" v="165"/>
-    <tag k="addr:street" v="Hall Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215907"/>
-  </node>
   <node id="-489" visible="true" lat="44.19062293" lon="-72.15009889">
     <tag k="addr:housenumber" v="366"/>
     <tag k="addr:street" v="Farquharson Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215908"/>
-  </node>
-  <node id="-490" visible="true" lat="44.19028073" lon="-72.14172164">
-    <tag k="addr:housenumber" v="83"/>
-    <tag k="addr:street" v="Cowie Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215909"/>
-  </node>
-  <node id="-491" visible="true" lat="44.19021554" lon="-72.144412">
-    <tag k="addr:housenumber" v="1529"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215910"/>
-  </node>
-  <node id="-492" visible="true" lat="44.19020233" lon="-72.1437806">
-    <tag k="addr:housenumber" v="1506"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215911"/>
-  </node>
-  <node id="-494" visible="true" lat="44.19000244" lon="-72.14047241">
-    <tag k="addr:housenumber" v="155"/>
-    <tag k="addr:street" v="Cowie Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215913"/>
-  </node>
-  <node id="-495" visible="true" lat="44.18992304" lon="-72.14397269">
-    <tag k="addr:housenumber" v="1501"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215914"/>
-  </node>
-  <node id="-496" visible="true" lat="44.18999079" lon="-72.14187173">
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Cowie Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215915"/>
-  </node>
-  <node id="-497" visible="true" lat="44.18995007" lon="-72.1430029">
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Stone Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215916"/>
   </node>
   <node id="-498" visible="true" lat="44.18915693" lon="-72.09744583">
     <tag k="addr:housenumber" v="1545"/>
@@ -1608,83 +1512,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215917"/>
   </node>
-  <node id="-499" visible="true" lat="44.18977355" lon="-72.14068603">
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Hall Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215918"/>
-  </node>
-  <node id="-500" visible="true" lat="44.18979499" lon="-72.14207439">
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Cowie Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215919"/>
-  </node>
-  <node id="-502" visible="true" lat="44.18983032" lon="-72.1411628">
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:street" v="Cowie Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215921"/>
-  </node>
-  <node id="-503" visible="true" lat="44.18951797" lon="-72.14330291">
-    <tag k="addr:housenumber" v="1459"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215922"/>
-  </node>
-  <node id="-504" visible="true" lat="44.18957325" lon="-72.14114978">
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="Smith Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215923"/>
-  </node>
-  <node id="-505" visible="true" lat="44.18942798" lon="-72.14249937">
-    <tag k="addr:housenumber" v="1416"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215924"/>
-  </node>
-  <node id="-506" visible="true" lat="44.1893697" lon="-72.13927261">
-    <tag k="addr:housenumber" v="68"/>
-    <tag k="addr:street" v="Hall Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215925"/>
-  </node>
   <node id="-507" visible="true" lat="44.18918991" lon="-72.12193298">
     <tag k="addr:housenumber" v="344"/>
     <tag k="addr:street" v="Creamery Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215926"/>
-  </node>
-  <node id="-508" visible="true" lat="44.18932716" lon="-72.14288108">
-    <tag k="addr:housenumber" v="1429"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215927"/>
-  </node>
-  <node id="-509" visible="true" lat="44.18907023" lon="-72.14415795">
-    <tag k="addr:housenumber" v="187"/>
-    <tag k="addr:street" v="Stoneshed Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215928"/>
-  </node>
-  <node id="-510" visible="true" lat="44.18922488" lon="-72.14213244">
-    <tag k="addr:housenumber" v="1392"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215929"/>
-  </node>
-  <node id="-511" visible="true" lat="44.18909823" lon="-72.14105789">
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Hall Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215930"/>
-  </node>
-  <node id="-512" visible="true" lat="44.1891005" lon="-72.14177837">
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Smith Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215931"/>
   </node>
   <node id="-513" visible="true" lat="44.18884277" lon="-72.1287384">
     <tag k="addr:housenumber" v="108"/>
@@ -1698,12 +1530,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215933"/>
   </node>
-  <node id="-515" visible="true" lat="44.18894255" lon="-72.14159467">
-    <tag k="addr:housenumber" v="1364"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215934"/>
-  </node>
   <node id="-516" visible="true" lat="44.18855667" lon="-72.07814788">
     <tag k="addr:housenumber" v="771"/>
     <tag k="addr:street" v="Davidson Road"/>
@@ -1715,48 +1541,6 @@
     <tag k="addr:street" v="Davidson Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215936"/>
-  </node>
-  <node id="-518" visible="true" lat="44.18882666" lon="-72.14143863">
-    <tag k="addr:housenumber" v="1348"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215937"/>
-  </node>
-  <node id="-519" visible="true" lat="44.18872406" lon="-72.14184609">
-    <tag k="addr:housenumber" v="1363"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215938"/>
-  </node>
-  <node id="-520" visible="true" lat="44.18868319" lon="-72.142324">
-    <tag k="addr:housenumber" v="1373"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215939"/>
-  </node>
-  <node id="-521" visible="true" lat="44.18873156" lon="-72.1412205">
-    <tag k="addr:housenumber" v="1334"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215940"/>
-  </node>
-  <node id="-522" visible="true" lat="44.18852045" lon="-72.14147435">
-    <tag k="addr:housenumber" v="1339"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215941"/>
-  </node>
-  <node id="-523" visible="true" lat="44.18846893" lon="-72.141716">
-    <tag k="addr:housenumber" v="1355"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215943"/>
-  </node>
-  <node id="-524" visible="true" lat="44.18845748" lon="-72.14059448">
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Hall Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215944"/>
   </node>
   <node id="-525" visible="true" lat="44.18840789" lon="-72.13414764">
     <tag k="addr:housenumber" v="2025"/>
@@ -1770,41 +1554,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215946"/>
   </node>
-  <node id="-527" visible="true" lat="44.18832052" lon="-72.1413623">
-    <tag k="addr:housenumber" v="1327"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215947"/>
-  </node>
-  <node id="-528" visible="true" lat="44.18830123" lon="-72.14015246">
-    <tag k="addr:housenumber" v="1276"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215948"/>
-  </node>
-  <node id="-529" visible="true" lat="44.18833087" lon="-72.14264851">
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="Stoneshed Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215949"/>
-  </node>
-  <node id="-530" visible="true" lat="44.18824148" lon="-72.14109653">
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215950"/>
-  </node>
   <node id="-532" visible="true" lat="44.18812213" lon="-72.12388273">
     <tag k="addr:housenumber" v="424"/>
     <tag k="addr:street" v="Creamery Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215952"/>
-  </node>
-  <node id="-533" visible="true" lat="44.18817388" lon="-72.13969882">
-    <tag k="addr:housenumber" v="1248"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215953"/>
   </node>
   <node id="-534" visible="true" lat="44.18804599" lon="-72.1344831">
     <tag k="addr:housenumber" v="980"/>
@@ -1818,41 +1572,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215955"/>
   </node>
-  <node id="-536" visible="true" lat="44.18779974" lon="-72.13986254">
-    <tag k="addr:housenumber" v="1271"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215956"/>
-  </node>
   <node id="-537" visible="true" lat="44.18783569" lon="-72.13368225">
     <tag k="addr:housenumber" v="948"/>
     <tag k="addr:street" v="Creamery Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215957"/>
-  </node>
-  <node id="-538" visible="true" lat="44.18790449" lon="-72.14023486">
-    <tag k="addr:housenumber" v="1265"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215959"/>
-  </node>
-  <node id="-539" visible="true" lat="44.18784108" lon="-72.13836501">
-    <tag k="addr:housenumber" v="1202"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215960"/>
-  </node>
-  <node id="-540" visible="true" lat="44.18783012" lon="-72.13782276">
-    <tag k="addr:housenumber" v="1102"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215961"/>
-  </node>
-  <node id="-541" visible="true" lat="44.18778842" lon="-72.13620204">
-    <tag k="addr:housenumber" v="1098"/>
-    <tag k="addr:street" v="Creamery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215962"/>
   </node>
   <node id="-542" visible="true" lat="44.1877871" lon="-72.13197615">
     <tag k="addr:housenumber" v="918"/>
@@ -1865,18 +1589,6 @@
     <tag k="addr:street" v="Creamery Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215964"/>
-  </node>
-  <node id="-544" visible="true" lat="44.18760577" lon="-72.14106113">
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Stoneshed Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215965"/>
-  </node>
-  <node id="-545" visible="true" lat="44.18779968" lon="-72.14063908">
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215966"/>
   </node>
   <node id="-546" visible="true" lat="44.18756636" lon="-72.13513152">
     <tag k="addr:housenumber" v="1027"/>
@@ -2958,12 +2670,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339152"/>
   </node>
-  <node id="-776" visible="true" lat="44.18880022" lon="-72.13782201">
-    <tag k="addr:housenumber" v="2026"/>
-    <tag k="addr:street" v="Gilfillan Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="345860"/>
-  </node>
   <node id="-777" visible="true" lat="44.19085103" lon="-72.15502469">
     <tag k="addr:housenumber" v="575"/>
     <tag k="addr:street" v="Barr Drive"/>
@@ -3035,12 +2741,6 @@
     <tag k="addr:street" v="Barr Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455060"/>
-  </node>
-  <node id="-789" visible="true" lat="44.18757949" lon="-72.14136095">
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Stoneshed Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="455159"/>
   </node>
   <node id="-791" visible="true" lat="44.18956704" lon="-72.14279714">
     <tag k="addr:housenumber" v="1442"/>

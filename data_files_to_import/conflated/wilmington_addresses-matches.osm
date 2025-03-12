@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="42.92600664" lon="-72.8846824">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="561"/>
@@ -819,12 +819,54 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="293356"/>
   </node>
+  <node id="-805" visible="true" lat="42.89244079" lon="-72.90984344">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="277"/>
+    <tag k="addr:street" v="Chimney Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293389"/>
+  </node>
+  <node id="-808" visible="true" lat="42.89234382" lon="-72.91419325">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Snow Shoe Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293392"/>
+  </node>
+  <node id="-810" visible="true" lat="42.89239617" lon="-72.9093274">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Big Bend Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293394"/>
+  </node>
   <node id="-819" visible="true" lat="42.89220184" lon="-72.91785298">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="Fox Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="293403"/>
+  </node>
+  <node id="-821" visible="true" lat="42.89208221" lon="-72.91416168">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Snow Shoe Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293405"/>
+  </node>
+  <node id="-822" visible="true" lat="42.89208583" lon="-72.91562621">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Bear Lair Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293406"/>
+  </node>
+  <node id="-834" visible="true" lat="42.89184148" lon="-72.91554281">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Bear Lair Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293418"/>
   </node>
   <node id="-837" visible="true" lat="42.89161934" lon="-72.91646153">
     <tag k="addr:city" v="Wilmington"/>
@@ -833,12 +875,110 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="293421"/>
   </node>
+  <node id="-841" visible="true" lat="42.89190623" lon="-72.91172285">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Spruce Grove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293425"/>
+  </node>
+  <node id="-847" visible="true" lat="42.89137868" lon="-72.91398732">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Snow Shoe Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293431"/>
+  </node>
+  <node id="-848" visible="true" lat="42.89132821" lon="-72.91533226">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Bear Lair Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293432"/>
+  </node>
+  <node id="-850" visible="true" lat="42.89128875" lon="-72.91062164">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="258"/>
+    <tag k="addr:street" v="Chimney Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293434"/>
+  </node>
+  <node id="-855" visible="true" lat="42.89124918" lon="-72.91294396">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Bracket Wall"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293439"/>
+  </node>
+  <node id="-861" visible="true" lat="42.8911209" lon="-72.90866088">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="232"/>
+    <tag k="addr:street" v="Chimney Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293445"/>
+  </node>
+  <node id="-862" visible="true" lat="42.891197" lon="-72.9124299">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Spruce Grove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293446"/>
+  </node>
+  <node id="-863" visible="true" lat="42.89111459" lon="-72.91516441">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Bear Lair Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293447"/>
+  </node>
+  <node id="-869" visible="true" lat="42.89092133" lon="-72.91173956">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Rabbit Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293453"/>
+  </node>
+  <node id="-872" visible="true" lat="42.89099618" lon="-72.91313845">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Bracket Wall"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293456"/>
+  </node>
+  <node id="-873" visible="true" lat="42.8908126" lon="-72.91405366">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Snow Shoe Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293457"/>
+  </node>
   <node id="-876" visible="true" lat="42.8907547" lon="-72.91882324">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="48"/>
     <tag k="addr:street" v="Fox Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="293460"/>
+  </node>
+  <node id="-884" visible="true" lat="42.89062917" lon="-72.91123001">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Rabbit Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293468"/>
+  </node>
+  <node id="-887" visible="true" lat="42.89060907" lon="-72.91315175">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Bracket Wall"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293471"/>
+  </node>
+  <node id="-889" visible="true" lat="42.89059999" lon="-72.91520416">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Bear Lair Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293473"/>
   </node>
   <node id="-891" visible="true" lat="42.89064433" lon="-72.91725776">
     <tag k="addr:city" v="Wilmington"/>
@@ -847,12 +987,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="293475"/>
   </node>
+  <node id="-899" visible="true" lat="42.89038239" lon="-72.91178846">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Rabbit Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293483"/>
+  </node>
   <node id="-902" visible="true" lat="42.8901776" lon="-72.9178721">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="46"/>
     <tag k="addr:street" v="Bear Lair Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="293486"/>
+  </node>
+  <node id="-903" visible="true" lat="42.89033031" lon="-72.91070874">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Rabbit Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293487"/>
   </node>
   <node id="-909" visible="true" lat="42.89009522" lon="-72.91678474">
     <tag k="addr:city" v="Wilmington"/>
@@ -868,12 +1022,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="293499"/>
   </node>
+  <node id="-919" visible="true" lat="42.8899108" lon="-72.9133538">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Deer Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293503"/>
+  </node>
   <node id="-922" visible="true" lat="42.88970565" lon="-72.91490936">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="48"/>
     <tag k="addr:street" v="Snow Shoe Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="293506"/>
+  </node>
+  <node id="-927" visible="true" lat="42.88968931" lon="-72.9137298">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Deer Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293511"/>
   </node>
   <node id="-935" visible="true" lat="42.88967268" lon="-72.91636116">
     <tag k="addr:city" v="Wilmington"/>
@@ -888,6 +1056,48 @@
     <tag k="addr:street" v="Snow Shoe Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="293524"/>
+  </node>
+  <node id="-941" visible="true" lat="42.88929358" lon="-72.91205626">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Spruce Grove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293525"/>
+  </node>
+  <node id="-945" visible="true" lat="42.889439" lon="-72.91286704">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Deer Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293529"/>
+  </node>
+  <node id="-948" visible="true" lat="42.88913065" lon="-72.91348817">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Deer Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293532"/>
+  </node>
+  <node id="-949" visible="true" lat="42.88922119" lon="-72.91133117">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Rabbit Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293533"/>
+  </node>
+  <node id="-957" visible="true" lat="42.88900756" lon="-72.9125595">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Spruce Grove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293541"/>
+  </node>
+  <node id="-966" visible="true" lat="42.88875221" lon="-72.9127872">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Fern Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293550"/>
   </node>
   <node id="-1000" visible="true" lat="42.8876419" lon="-72.91416931">
     <tag k="addr:city" v="Wilmington"/>
@@ -1120,6 +1330,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="293971"/>
   </node>
+  <node id="-1403" visible="true" lat="42.87287521" lon="-72.90550994">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="393"/>
+    <tag k="addr:street" v="Vermont Route 9 West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293991"/>
+  </node>
   <node id="-1410" visible="true" lat="42.87280501" lon="-72.87511771">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="78"/>
@@ -1127,12 +1344,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="293999"/>
   </node>
+  <node id="-1419" visible="true" lat="42.87216186" lon="-72.90150451">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="359"/>
+    <tag k="addr:street" v="Vermont Route 9 West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294008"/>
+  </node>
+  <node id="-1421" visible="true" lat="42.87198638" lon="-72.90189361">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="361"/>
+    <tag k="addr:street" v="Vermont Route 9 West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294010"/>
+  </node>
   <node id="-1422" visible="true" lat="42.87198257" lon="-72.87981414">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="107"/>
     <tag k="addr:street" v="West Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294011"/>
+  </node>
+  <node id="-1424" visible="true" lat="42.87181091" lon="-72.90272521">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="371"/>
+    <tag k="addr:street" v="Vermont Route 9 West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294013"/>
+  </node>
+  <node id="-1426" visible="true" lat="42.87166976" lon="-72.91822815">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="567"/>
+    <tag k="addr:street" v="Vermont Route 9 West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294017"/>
+  </node>
+  <node id="-1427" visible="true" lat="42.87172317" lon="-72.9024887">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="369"/>
+    <tag k="addr:street" v="Vermont Route 9 West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294018"/>
   </node>
   <node id="-1436" visible="true" lat="42.87144088" lon="-72.88144683">
     <tag k="addr:city" v="Wilmington"/>
@@ -1161,6 +1413,13 @@
     <tag k="addr:street" v="West Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294034"/>
+  </node>
+  <node id="-1448" visible="true" lat="42.87104797" lon="-72.90369415">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="389"/>
+    <tag k="addr:street" v="Vermont Route 9 West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294039"/>
   </node>
   <node id="-1452" visible="true" lat="42.87107467" lon="-72.87973022">
     <tag k="addr:city" v="Wilmington"/>
@@ -1680,6 +1939,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294221"/>
   </node>
+  <node id="-1617" visible="true" lat="42.86846542" lon="-72.81663513">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294228"/>
+  </node>
   <node id="-1620" visible="true" lat="42.86825561" lon="-72.87982177">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="34"/>
@@ -1742,6 +2008,13 @@
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294244"/>
+  </node>
+  <node id="-1632" visible="true" lat="42.86819458" lon="-72.81596374">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294245"/>
   </node>
   <node id="-1633" visible="true" lat="42.86787366" lon="-72.91588833">
     <tag k="addr:city" v="Wilmington"/>
@@ -1848,6 +2121,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294270"/>
   </node>
+  <node id="-1658" visible="true" lat="42.8679161" lon="-72.81745147">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294273"/>
+  </node>
   <node id="-1660" visible="true" lat="42.86773681" lon="-72.87192535">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="16"/>
@@ -1876,6 +2156,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294279"/>
   </node>
+  <node id="-1665" visible="true" lat="42.86784744" lon="-72.81841278">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="197"/>
+    <tag k="addr:street" v="Lake Raponda Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294280"/>
+  </node>
   <node id="-1668" visible="true" lat="42.86771893" lon="-72.86966901">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="20"/>
@@ -1896,6 +2183,13 @@
     <tag k="addr:street" v="East Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294285"/>
+  </node>
+  <node id="-1673" visible="true" lat="42.86771392" lon="-72.81641388">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294288"/>
   </node>
   <node id="-1675" visible="true" lat="42.86750793" lon="-72.87808227">
     <tag k="addr:city" v="Wilmington"/>
@@ -1925,12 +2219,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294295"/>
   </node>
+  <node id="-1684" visible="true" lat="42.86753845" lon="-72.81766509">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294300"/>
+  </node>
   <node id="-1686" visible="true" lat="42.8674387" lon="-72.87220051">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Beaver Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294302"/>
+  </node>
+  <node id="-1687" visible="true" lat="42.86750411" lon="-72.81716919">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294303"/>
   </node>
   <node id="-1688" visible="true" lat="42.86731338" lon="-72.87398529">
     <tag k="addr:city" v="Wilmington"/>
@@ -2016,6 +2324,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294326"/>
   </node>
+  <node id="-1709" visible="true" lat="42.86716461" lon="-72.81807708">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294327"/>
+  </node>
   <node id="-1711" visible="true" lat="42.86692517" lon="-72.86935903">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="27"/>
@@ -2029,6 +2344,13 @@
     <tag k="addr:street" v="Beaver Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294330"/>
+  </node>
+  <node id="-1713" visible="true" lat="42.86714911" lon="-72.81566582">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294331"/>
   </node>
   <node id="-1714" visible="true" lat="42.86693573" lon="-72.86799621">
     <tag k="addr:city" v="Wilmington"/>
@@ -2058,6 +2380,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294337"/>
   </node>
+  <node id="-1719" visible="true" lat="42.86701965" lon="-72.81745147">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294338"/>
+  </node>
   <node id="-1722" visible="true" lat="42.86681411" lon="-72.86898372">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="29"/>
@@ -2071,6 +2400,13 @@
     <tag k="addr:street" v="Castle Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294342"/>
+  </node>
+  <node id="-1726" visible="true" lat="42.86687088" lon="-72.81655883">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294346"/>
   </node>
   <node id="-1727" visible="true" lat="42.86651804" lon="-72.91433998">
     <tag k="addr:city" v="Wilmington"/>
@@ -2093,6 +2429,27 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294352"/>
   </node>
+  <node id="-1732" visible="true" lat="42.86676788" lon="-72.81832885">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294356"/>
+  </node>
+  <node id="-1734" visible="true" lat="42.86676025" lon="-72.8199234">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Red House Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294358"/>
+  </node>
+  <node id="-1735" visible="true" lat="42.86673736" lon="-72.81598663">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294359"/>
+  </node>
   <node id="-1736" visible="true" lat="42.86657333" lon="-72.86682891">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="54"/>
@@ -2106,6 +2463,13 @@
     <tag k="addr:street" v="Beaver Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294362"/>
+  </node>
+  <node id="-1740" visible="true" lat="42.86666488" lon="-72.82080078">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Red House Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294365"/>
   </node>
   <node id="-1742" visible="true" lat="42.86654123" lon="-72.86806917">
     <tag k="addr:city" v="Wilmington"/>
@@ -2149,6 +2513,27 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294378"/>
   </node>
+  <node id="-1756" visible="true" lat="42.866436" lon="-72.81788635">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294382"/>
+  </node>
+  <node id="-1757" visible="true" lat="42.86642837" lon="-72.81668853">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294383"/>
+  </node>
+  <node id="-1758" visible="true" lat="42.86639785" lon="-72.81863403">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294384"/>
+  </node>
   <node id="-1759" visible="true" lat="42.86624145" lon="-72.86542511">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="70"/>
@@ -2191,12 +2576,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294397"/>
   </node>
+  <node id="-1772" visible="true" lat="42.86603546" lon="-72.81886291">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294398"/>
+  </node>
   <node id="-1773" visible="true" lat="42.86587524" lon="-72.86552429">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="69"/>
     <tag k="addr:street" v="East Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294399"/>
+  </node>
+  <node id="-1776" visible="true" lat="42.86592483" lon="-72.81629943">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294402"/>
+  </node>
+  <node id="-1778" visible="true" lat="42.86590957" lon="-72.8170166">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294404"/>
   </node>
   <node id="-1780" visible="true" lat="42.86586981" lon="-72.86296218">
     <tag k="addr:city" v="Wilmington"/>
@@ -2211,6 +2617,125 @@
     <tag k="addr:street" v="East Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294412"/>
+  </node>
+  <node id="-1786" visible="true" lat="42.86570358" lon="-72.81912231">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294413"/>
+  </node>
+  <node id="-1787" visible="true" lat="42.86569595" lon="-72.81631469">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294414"/>
+  </node>
+  <node id="-1792" visible="true" lat="42.86558151" lon="-72.81780242">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294419"/>
+  </node>
+  <node id="-1794" visible="true" lat="42.86551879" lon="-72.81843299">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294423"/>
+  </node>
+  <node id="-1795" visible="true" lat="42.86545181" lon="-72.81939697">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294424"/>
+  </node>
+  <node id="-1802" visible="true" lat="42.86527252" lon="-72.81738281">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294431"/>
+  </node>
+  <node id="-1804" visible="true" lat="42.86520385" lon="-72.81903076">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294433"/>
+  </node>
+  <node id="-1808" visible="true" lat="42.86501693" lon="-72.81967926">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294437"/>
+  </node>
+  <node id="-1812" visible="true" lat="42.86486816" lon="-72.81763458">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294441"/>
+  </node>
+  <node id="-1813" visible="true" lat="42.86486434" lon="-72.81840515">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294442"/>
+  </node>
+  <node id="-1817" visible="true" lat="42.86470413" lon="-72.81989288">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294446"/>
+  </node>
+  <node id="-1821" visible="true" lat="42.86455154" lon="-72.81799316">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294450"/>
+  </node>
+  <node id="-1822" visible="true" lat="42.86445999" lon="-72.81845855">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294451"/>
+  </node>
+  <node id="-1824" visible="true" lat="42.86437988" lon="-72.82014465">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294453"/>
+  </node>
+  <node id="-1835" visible="true" lat="42.86386108" lon="-72.82041931">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Ware Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294464"/>
+  </node>
+  <node id="-1838" visible="true" lat="42.86362838" lon="-72.81873321">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294467"/>
+  </node>
+  <node id="-1846" visible="true" lat="42.86332484" lon="-72.81801538">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="162"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294475"/>
   </node>
   <node id="-1890" visible="true" lat="42.86028053" lon="-72.80340899">
     <tag k="addr:city" v="Wilmington"/>
@@ -2232,6 +2757,20 @@
     <tag k="addr:street" v="Sun And Ski Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294530"/>
+  </node>
+  <node id="-1923" visible="true" lat="42.85738561" lon="-72.82283425">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Lake Raponda Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294553"/>
+  </node>
+  <node id="-1928" visible="true" lat="42.85697141" lon="-72.82210121">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Lake Raponda Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294558"/>
   </node>
   <node id="-1929" visible="true" lat="42.85699081" lon="-72.8066101">
     <tag k="addr:city" v="Wilmington"/>
@@ -2289,6 +2828,27 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294752"/>
   </node>
+  <node id="-2136" visible="true" lat="42.86125816" lon="-72.82071729">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Lake Raponda Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294771"/>
+  </node>
+  <node id="-2137" visible="true" lat="42.86228708" lon="-72.81886192">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Ware Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294772"/>
+  </node>
+  <node id="-2142" visible="true" lat="42.89234667" lon="-72.91594086">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Bear Lair Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294777"/>
+  </node>
   <node id="-2143" visible="true" lat="42.89344757" lon="-72.9163741">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="10"/>
@@ -2303,6 +2863,27 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294781"/>
   </node>
+  <node id="-2151" visible="true" lat="42.8929971" lon="-72.90937183">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="285"/>
+    <tag k="addr:street" v="Chimney Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294786"/>
+  </node>
+  <node id="-2157" visible="true" lat="42.86923299" lon="-72.81522793">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="186"/>
+    <tag k="addr:street" v="Ware Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294792"/>
+  </node>
+  <node id="-2159" visible="true" lat="42.89278239" lon="-72.91647265">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Fox Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294794"/>
+  </node>
   <node id="-2163" visible="true" lat="42.87319033" lon="-72.90203102">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="106"/>
@@ -2310,12 +2891,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294798"/>
   </node>
+  <node id="-2166" visible="true" lat="42.85957933" lon="-72.8189885">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Lake Raponda Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294801"/>
+  </node>
   <node id="-2169" visible="true" lat="42.83256008" lon="-72.8042198">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="535"/>
     <tag k="addr:street" v="Shearer Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294806"/>
+  </node>
+  <node id="-2176" visible="true" lat="42.89323031" lon="-72.9091533">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="289"/>
+    <tag k="addr:street" v="Chimney Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294813"/>
   </node>
   <node id="-2178" visible="true" lat="42.88642767" lon="-72.91897107">
     <tag k="addr:city" v="Wilmington"/>
@@ -2331,6 +2926,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294833"/>
   </node>
+  <node id="-2199" visible="true" lat="42.88940737" lon="-72.91381874">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Deer Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294837"/>
+  </node>
   <node id="-2211" visible="true" lat="42.87867622" lon="-72.81083376">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="155"/>
@@ -2338,12 +2940,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294849"/>
   </node>
+  <node id="-2213" visible="true" lat="42.88969023" lon="-72.91272097">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Deer Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294851"/>
+  </node>
+  <node id="-2216" visible="true" lat="42.89181402" lon="-72.91397721">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Snow Shoe Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294854"/>
+  </node>
   <node id="-2218" visible="true" lat="42.87031766" lon="-72.90784481">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="Primrose Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294856"/>
+  </node>
+  <node id="-2226" visible="true" lat="42.86795259" lon="-72.81562815">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294866"/>
   </node>
   <node id="-2227" visible="true" lat="42.87760213" lon="-72.90088142">
     <tag k="addr:city" v="Wilmington"/>
@@ -2358,6 +2981,13 @@
     <tag k="addr:street" v="Gallup Pitch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294872"/>
+  </node>
+  <node id="-2241" visible="true" lat="42.89263874" lon="-72.91522533">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Fox Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294882"/>
   </node>
   <node id="-2253" visible="true" lat="42.87144252" lon="-72.81005502">
     <tag k="addr:city" v="Wilmington"/>
@@ -2400,6 +3030,20 @@
     <tag k="addr:street" v="Old Town Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294906"/>
+  </node>
+  <node id="-2265" visible="true" lat="42.86373121" lon="-72.81793919">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294908"/>
+  </node>
+  <node id="-2282" visible="true" lat="42.88961882" lon="-72.91109954">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Rabbit Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294925"/>
   </node>
   <node id="-2290" visible="true" lat="42.88928019" lon="-72.9172767">
     <tag k="addr:city" v="Wilmington"/>
@@ -2450,6 +3094,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306237"/>
   </node>
+  <node id="-2318" visible="true" lat="42.86640933" lon="-72.81604122">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306552"/>
+  </node>
   <node id="-2320" visible="true" lat="42.88681504" lon="-72.91566399">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="25"/>
@@ -2471,6 +3122,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316750"/>
   </node>
+  <node id="-2365" visible="true" lat="42.86616044" lon="-72.8181621">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="327245"/>
+  </node>
   <node id="-2371" visible="true" lat="42.92357553" lon="-72.87932626">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="63"/>
@@ -2484,6 +3142,20 @@
     <tag k="addr:street" v="Woods Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="327253"/>
+  </node>
+  <node id="-2375" visible="true" lat="42.89220906" lon="-72.91494632">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Snow Shoe Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="327256"/>
+  </node>
+  <node id="-2376" visible="true" lat="42.89057948" lon="-72.91410756">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Snow Shoe Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="327257"/>
   </node>
   <node id="-2404" visible="true" lat="42.9233172" lon="-72.83713323">
     <tag k="addr:city" v="Wilmington"/>
@@ -2582,6 +3254,13 @@
     <tag k="addr:street" v="Conifer Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450149"/>
+  </node>
+  <node id="-2437" visible="true" lat="42.89345783" lon="-72.91697715">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Lightning Ledge Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450458"/>
   </node>
   <node id="-2444" visible="true" lat="42.92182723" lon="-72.89029183">
     <tag k="addr:city" v="Wilmington"/>
@@ -2716,6 +3395,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="453136"/>
   </node>
+  <node id="-2481" visible="true" lat="42.8739706" lon="-72.8952762">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:street" v="Vermont Route 9 West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454187"/>
+  </node>
   <node id="-2482" visible="true" lat="42.8271819" lon="-72.80397692">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="380"/>
@@ -2764,6 +3450,20 @@
     <tag k="addr:street" v="Old Stage Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752111"/>
+  </node>
+  <node id="-2545" visible="true" lat="42.87082787" lon="-72.92514535">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="New England Power Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752789"/>
+  </node>
+  <node id="-2566" visible="true" lat="42.8883768" lon="-72.91344513">
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Fern Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757552"/>
   </node>
   <node id="-2692" visible="true" lat="42.86062513" lon="-72.85046102">
     <tag k="addr:city" v="Wilmington"/>

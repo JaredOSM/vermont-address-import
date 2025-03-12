@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-296" visible="true" lat="44.80815864" lon="-72.20473056">
-    <!-- conflict: "25 Railroad Avenue, Orleans, VT" No match in OSM, but a different address exists <5m away: " Railroad Avenue, Orleans, VT" -->
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-190" visible="true" lat="44.8105746" lon="-72.20238559">
+    <!-- conflict: "2 Water Street, Orleans, VT" Fuzzy match to "2 Water Street, , " -->
     <tag k="addr:city" v="Orleans"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Railroad Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="14463"/>
-  </node>
-  <node id="-382" visible="true" lat="44.81065385" lon="-72.20422677">
-    <!-- conflict: "52 Main Street, Orleans, VT" Fuzzy match to "52 Main Street, Orleans, " -->
-    <tag k="addr:city" v="Orleans"/>
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="15452"/>
-  </node>
-  <node id="-395" visible="true" lat="44.810016" lon="-72.20146215">
-    <!-- conflict: "27 Water Street, Orleans, VT" Fuzzy match to "27 Water Street, Orleans, " -->
-    <tag k="addr:city" v="Orleans"/>
-    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Water Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="15467"/>
+    <tag k="ref:vcgi:esiteid" v="14333"/>
   </node>
 </osm>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-103" visible="true" lat="44.3264389" lon="-72.7457199">
     <!-- conflict: "100 U.S. Route 2, , VT" Fuzzy match to "100 US Route 2, Waterbury, VT" -->
     <tag k="addr:housenumber" v="100"/>
@@ -181,6 +181,13 @@
     <tag k="addr:street" v="Vermont Route 100B"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="167624"/>
+  </node>
+  <node id="-684" visible="true" lat="44.23227509" lon="-72.66243668">
+    <!-- conflict: "151 Winters Road, , VT" No match in OSM, but a different address exists <5m away: " Winters Road, Moretown, VT" -->
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Winters Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="167716"/>
   </node>
   <node id="-753" visible="true" lat="44.29640188" lon="-72.70572958">
     <!-- conflict: "1070 Lovers Lane, , VT" No match in OSM, but a different address exists <5m away: "400 Lovers Lane, Moretown, VT" -->

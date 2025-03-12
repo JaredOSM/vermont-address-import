@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-102" visible="true" lat="44.39978027" lon="-73.14051055">
     <tag k="addr:city" v="Saint George"/>
     <tag k="addr:housenumber" v="5336"/>
@@ -42,26 +42,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="243935"/>
   </node>
-  <node id="-112" visible="true" lat="44.38959884" lon="-73.12625121">
+  <node id="-113" visible="true" lat="44.38947296" lon="-73.12774658">
     <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="Goose Creek Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="243938"/>
-  </node>
-  <node id="-114" visible="true" lat="44.38940811" lon="-73.1251831">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="89"/>
-    <tag k="addr:street" v="Goose Creek Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="243940"/>
-  </node>
-  <node id="-128" visible="true" lat="44.38284301" lon="-73.12667846">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="7602"/>
+    <tag k="addr:housenumber" v="7210"/>
     <tag k="addr:street" v="Vermont Route 2A"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="243954"/>
+    <tag k="ref:vcgi:esiteid" v="243939"/>
   </node>
   <node id="-129" visible="true" lat="44.38285808" lon="-73.12617549">
     <tag k="addr:city" v="Saint George"/>
@@ -69,13 +55,6 @@
     <tag k="addr:street" v="Vermont Route 2A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="243955"/>
-  </node>
-  <node id="-131" visible="true" lat="44.38103485" lon="-73.12643432">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="7694"/>
-    <tag k="addr:street" v="Vermont Route 2A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="243958"/>
   </node>
   <node id="-159" visible="true" lat="44.37848973" lon="-73.12587272">
     <tag k="addr:city" v="Saint George"/>
@@ -104,41 +83,6 @@
     <tag k="addr:street" v="Winterbottom Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244092"/>
-  </node>
-  <node id="-270" visible="true" lat="44.37239456" lon="-73.12809753">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="8340"/>
-    <tag k="addr:street" v="Vermont Route 2A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244098"/>
-  </node>
-  <node id="-272" visible="true" lat="44.37200546" lon="-73.12741851">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="8305"/>
-    <tag k="addr:street" v="Vermont Route 2A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244100"/>
-  </node>
-  <node id="-283" visible="true" lat="44.37139892" lon="-73.12830352">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="8342"/>
-    <tag k="addr:street" v="Vermont Route 2A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244112"/>
-  </node>
-  <node id="-288" visible="true" lat="44.37114334" lon="-73.12970733">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="7451"/>
-    <tag k="addr:street" v="Vermont Route 116"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244117"/>
-  </node>
-  <node id="-297" visible="true" lat="44.37071227" lon="-73.13005828">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="7438"/>
-    <tag k="addr:street" v="Vermont Route 116"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244127"/>
   </node>
   <node id="-298" visible="true" lat="44.37075424" lon="-73.11760711">
     <tag k="addr:city" v="Saint George"/>
@@ -245,13 +189,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244188"/>
   </node>
-  <node id="-355" visible="true" lat="44.38395848" lon="-73.12664137">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="7551"/>
-    <tag k="addr:street" v="Vermont Route 2A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244190"/>
-  </node>
   <node id="-364" visible="true" lat="44.37844493" lon="-73.12616348">
     <tag k="addr:city" v="Saint George"/>
     <tag k="addr:housenumber" v="7873"/>
@@ -259,12 +196,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244201"/>
   </node>
-  <node id="-367" visible="true" lat="44.36939017" lon="-73.13047917">
+  <node id="-373" visible="true" lat="44.38988029" lon="-73.12708672">
     <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="7470"/>
-    <tag k="addr:street" v="Vermont Route 116"/>
+    <tag k="addr:housenumber" v="7181"/>
+    <tag k="addr:street" v="Vermont Route 2A"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244204"/>
+    <tag k="ref:vcgi:esiteid" v="244210"/>
   </node>
   <node id="-398" visible="true" lat="44.37108415" lon="-73.12767055">
     <tag k="addr:city" v="Saint George"/>
@@ -287,61 +224,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="447819"/>
   </node>
-  <node id="-422" visible="true" lat="44.38743083" lon="-73.13098223">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="7362"/>
-    <tag k="addr:street" v="Vermont Route 2A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453249"/>
-  </node>
   <node id="-426" visible="true" lat="44.38466883" lon="-73.12651737">
     <tag k="addr:city" v="Saint George"/>
     <tag k="addr:housenumber" v="7535"/>
     <tag k="addr:street" v="Vermont Route 2A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455369"/>
-  </node>
-  <node id="-427" visible="true" lat="44.38798322" lon="-73.12964112">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="7360"/>
-    <tag k="addr:street" v="Vermont Route 2A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="612580"/>
-  </node>
-  <node id="-430" visible="true" lat="44.38750826" lon="-73.12652916">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Apple Blossom Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620455"/>
-  </node>
-  <node id="-431" visible="true" lat="44.38722418" lon="-73.12647445">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Apple Blossom Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620456"/>
-  </node>
-  <node id="-432" visible="true" lat="44.39762806" lon="-73.13278763">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Henry Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620457"/>
-  </node>
-  <node id="-433" visible="true" lat="44.38311329" lon="-73.13245481">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="316"/>
-    <tag k="addr:street" v="Acadia Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620458"/>
-  </node>
-  <node id="-434" visible="true" lat="44.39867558" lon="-73.13297024">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Henry Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620459"/>
   </node>
   <node id="-435" visible="true" lat="44.38453802" lon="-73.13094298">
     <tag k="addr:city" v="Saint George"/>
@@ -364,61 +252,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656218"/>
   </node>
-  <node id="-438" visible="true" lat="44.39803071" lon="-73.13183639">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Henry Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751239"/>
-  </node>
-  <node id="-439" visible="true" lat="44.38239439" lon="-73.13151272">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="351"/>
-    <tag k="addr:street" v="Acadia Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="752184"/>
-  </node>
-  <node id="-440" visible="true" lat="44.38406355" lon="-73.13077402">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Acadia Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="752790"/>
-  </node>
   <node id="-441" visible="true" lat="44.37652357" lon="-73.10619448">
     <tag k="addr:city" v="Saint George"/>
     <tag k="addr:housenumber" v="562"/>
     <tag k="addr:street" v="Martel Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752862"/>
-  </node>
-  <node id="-442" visible="true" lat="44.38244989" lon="-73.13265048">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="350"/>
-    <tag k="addr:street" v="Acadia Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755357"/>
-  </node>
-  <node id="-443" visible="true" lat="44.38312186" lon="-73.1314697">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="315"/>
-    <tag k="addr:street" v="Acadia Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="759360"/>
-  </node>
-  <node id="-444" visible="true" lat="44.39838988" lon="-73.13127039">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="318"/>
-    <tag k="addr:street" v="Pillsbury Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="759806"/>
-  </node>
-  <node id="-445" visible="true" lat="44.39852106" lon="-73.1319693">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="329"/>
-    <tag k="addr:street" v="Pillsbury Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="759807"/>
   </node>
   <node id="-447" visible="true" lat="44.37495113" lon="-73.12199721">
     <tag k="addr:city" v="Saint George"/>
@@ -433,20 +272,6 @@
     <tag k="addr:street" v="Vermont Route 116"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762352"/>
-  </node>
-  <node id="-449" visible="true" lat="44.3859776" lon="-73.12482915">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="86"/>
-    <tag k="addr:street" v="Hawk Hollow"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="765359"/>
-  </node>
-  <node id="-450" visible="true" lat="44.38595058" lon="-73.12519744">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="Hawk Hollow"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="765360"/>
   </node>
   <node id="-451" visible="true" lat="44.38506955" lon="-73.12693629">
     <tag k="addr:city" v="Saint George"/>
@@ -545,12 +370,5 @@
     <tag k="addr:street" v="Cadence Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="766809"/>
-  </node>
-  <node id="-466" visible="true" lat="44.39892174" lon="-73.13234162">
-    <tag k="addr:city" v="Saint George"/>
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Pillsbury Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1052530"/>
   </node>
 </osm>

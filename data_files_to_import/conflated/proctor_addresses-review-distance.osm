@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-277" visible="true" lat="43.66408795" lon="-73.03634894">
     <!-- offset: "54 Main Street, , VT" Significant offset - 136.3m -->
     <tag k="addr:housenumber" v="54"/>
@@ -20,12 +20,5 @@
     <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="194746"/>
-  </node>
-  <node id="-889" visible="true" lat="43.66326262" lon="-73.03500504">
-    <!-- offset: "52 Main Street, , VT" Significant offset - 154.5m -->
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="752160"/>
   </node>
 </osm>

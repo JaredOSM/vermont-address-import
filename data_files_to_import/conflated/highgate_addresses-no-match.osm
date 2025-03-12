@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="45.01449203" lon="-73.04830169">
     <tag k="addr:housenumber" v="1702"/>
     <tag k="addr:street" v="Ballard Road"/>
@@ -17,12 +17,6 @@
     <tag k="addr:street" v="Rheaume Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126491"/>
-  </node>
-  <node id="-103" visible="true" lat="45.01353714" lon="-73.07919753">
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:street" v="Border View Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126492"/>
   </node>
   <node id="-104" visible="true" lat="45.01249694" lon="-72.9978485">
     <tag k="addr:housenumber" v="531"/>
@@ -60,12 +54,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126498"/>
   </node>
-  <node id="-110" visible="true" lat="45.00994816" lon="-73.08684449">
-    <tag k="addr:housenumber" v="6052"/>
-    <tag k="addr:street" v="U.S. Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126499"/>
-  </node>
   <node id="-111" visible="true" lat="45.010091" lon="-73.07123209">
     <tag k="addr:housenumber" v="571"/>
     <tag k="addr:street" v="Rheaume Road"/>
@@ -77,12 +65,6 @@
     <tag k="addr:street" v="Rheaume Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126501"/>
-  </node>
-  <node id="-113" visible="true" lat="45.00995067" lon="-73.07480322">
-    <tag k="addr:housenumber" v="415"/>
-    <tag k="addr:street" v="Rheaume Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126502"/>
   </node>
   <node id="-114" visible="true" lat="45.00943756" lon="-73.05021667">
     <tag k="addr:housenumber" v="4523"/>
@@ -156,12 +138,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126514"/>
   </node>
-  <node id="-126" visible="true" lat="45.00667627" lon="-73.08509197">
-    <tag k="addr:housenumber" v="5711"/>
-    <tag k="addr:street" v="U.S. Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126515"/>
-  </node>
   <node id="-127" visible="true" lat="45.00642588" lon="-73.03833843">
     <tag k="addr:housenumber" v="3794"/>
     <tag k="addr:street" v="Rollo Road"/>
@@ -173,12 +149,6 @@
     <tag k="addr:street" v="Rollo Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126517"/>
-  </node>
-  <node id="-129" visible="true" lat="45.00572585" lon="-73.0879898">
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126518"/>
   </node>
   <node id="-130" visible="true" lat="45.00563812" lon="-73.00060272">
     <tag k="addr:housenumber" v="37"/>
@@ -198,35 +168,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126521"/>
   </node>
-  <node id="-133" visible="true" lat="45.00445955" lon="-73.07993952">
-    <tag k="addr:housenumber" v="5513"/>
-    <tag k="addr:street" v="U.S. Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126522"/>
-  </node>
-  <node id="-134" visible="true" lat="45.0040892" lon="-73.08134884">
-    <tag k="addr:housenumber" v="94"/>
-    <tag k="addr:street" v="Humphrey Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126523"/>
-  </node>
   <node id="-135" visible="true" lat="45.00423431" lon="-73.02526092">
     <tag k="addr:housenumber" v="2838"/>
     <tag k="addr:street" v="Rollo Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126524"/>
-  </node>
-  <node id="-136" visible="true" lat="45.0037056" lon="-73.09117668">
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:street" v="Sunset Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126525"/>
-  </node>
-  <node id="-137" visible="true" lat="45.00350379" lon="-73.08253087">
-    <tag k="addr:housenumber" v="129"/>
-    <tag k="addr:street" v="Humphrey Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126526"/>
   </node>
   <node id="-138" visible="true" lat="45.00345604" lon="-73.08992677">
     <tag k="addr:housenumber" v="102"/>
@@ -234,143 +180,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126527"/>
   </node>
-  <node id="-139" visible="true" lat="45.00343698" lon="-73.08818979">
-    <tag k="addr:housenumber" v="310"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126528"/>
-  </node>
-  <node id="-140" visible="true" lat="45.00323025" lon="-73.09112546">
-    <tag k="addr:housenumber" v="146"/>
-    <tag k="addr:street" v="Sunset Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126529"/>
-  </node>
-  <node id="-141" visible="true" lat="45.0031929" lon="-73.08779144">
-    <tag k="addr:housenumber" v="337"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126530"/>
-  </node>
-  <node id="-142" visible="true" lat="45.00318539" lon="-73.09062664">
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Sunset Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126531"/>
-  </node>
-  <node id="-143" visible="true" lat="45.00317998" lon="-73.08908363">
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Sunset Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126532"/>
-  </node>
-  <node id="-144" visible="true" lat="45.00300978" lon="-73.08859235">
-    <tag k="addr:housenumber" v="356"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126533"/>
-  </node>
-  <node id="-145" visible="true" lat="45.00297927" lon="-73.09116363">
-    <tag k="addr:housenumber" v="158"/>
-    <tag k="addr:street" v="Sunset Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126534"/>
-  </node>
-  <node id="-146" visible="true" lat="45.00258429" lon="-73.08797641">
-    <tag k="addr:housenumber" v="375"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126535"/>
-  </node>
-  <node id="-147" visible="true" lat="45.00255005" lon="-73.09047218">
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Browns Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126536"/>
-  </node>
-  <node id="-148" visible="true" lat="45.0024147" lon="-73.08880615">
-    <tag k="addr:housenumber" v="402"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126537"/>
-  </node>
-  <node id="-149" visible="true" lat="45.00238365" lon="-73.09147813">
-    <tag k="addr:housenumber" v="220"/>
-    <tag k="addr:street" v="Sunset Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126538"/>
-  </node>
-  <node id="-150" visible="true" lat="45.00214385" lon="-73.0879898">
-    <tag k="addr:housenumber" v="399"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126539"/>
-  </node>
-  <node id="-151" visible="true" lat="45.00204849" lon="-73.09117126">
-    <tag k="addr:housenumber" v="224"/>
-    <tag k="addr:street" v="Sunset Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126540"/>
-  </node>
-  <node id="-152" visible="true" lat="45.00190734" lon="-73.09021759">
-    <tag k="addr:housenumber" v="86"/>
-    <tag k="addr:street" v="Browns Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126541"/>
-  </node>
-  <node id="-153" visible="true" lat="45.00182723" lon="-73.08890533">
-    <tag k="addr:housenumber" v="458"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126542"/>
-  </node>
-  <node id="-154" visible="true" lat="45.00177764" lon="-73.09105682">
-    <tag k="addr:housenumber" v="254"/>
-    <tag k="addr:street" v="Sunset Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126543"/>
-  </node>
-  <node id="-155" visible="true" lat="45.00172042" lon="-73.08966064">
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="Browns Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126544"/>
-  </node>
   <node id="-156" visible="true" lat="45.00210189" lon="-73.00124359">
     <tag k="addr:housenumber" v="5123"/>
     <tag k="addr:street" v="Gore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126545"/>
-  </node>
-  <node id="-157" visible="true" lat="45.00156126" lon="-73.08924517">
-    <tag k="addr:housenumber" v="460"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126546"/>
-  </node>
-  <node id="-158" visible="true" lat="45.0015335" lon="-73.08997345">
-    <tag k="addr:housenumber" v="488"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126547"/>
-  </node>
-  <node id="-159" visible="true" lat="45.00146865" lon="-73.09088134">
-    <tag k="addr:housenumber" v="264"/>
-    <tag k="addr:street" v="Sunset Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126548"/>
-  </node>
-  <node id="-160" visible="true" lat="45.00122451" lon="-73.08960723">
-    <tag k="addr:housenumber" v="486"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126549"/>
-  </node>
-  <node id="-161" visible="true" lat="45.00114059" lon="-73.09079742">
-    <tag k="addr:housenumber" v="290"/>
-    <tag k="addr:street" v="Sunset Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126550"/>
   </node>
   <node id="-162" visible="true" lat="45.00095878" lon="-73.08882593">
     <tag k="addr:housenumber" v="487"/>
@@ -378,47 +192,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126551"/>
   </node>
-  <node id="-163" visible="true" lat="45.00090408" lon="-73.09059142">
-    <tag k="addr:housenumber" v="308"/>
-    <tag k="addr:street" v="Sunset Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126552"/>
-  </node>
-  <node id="-164" visible="true" lat="45.00092664" lon="-73.08981036">
-    <tag k="addr:housenumber" v="534"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126553"/>
-  </node>
-  <node id="-165" visible="true" lat="45.0007553" lon="-73.0905075">
-    <tag k="addr:housenumber" v="310"/>
-    <tag k="addr:street" v="Sunset Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126554"/>
-  </node>
-  <node id="-166" visible="true" lat="45.00054931" lon="-73.0894165">
-    <tag k="addr:housenumber" v="531"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126555"/>
-  </node>
-  <node id="-167" visible="true" lat="45.00051117" lon="-73.09040069">
-    <tag k="addr:housenumber" v="560"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126556"/>
-  </node>
   <node id="-168" visible="true" lat="45.00056838" lon="-73.07874298">
     <tag k="addr:housenumber" v="5225"/>
     <tag k="addr:street" v="U.S. Route 7"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126557"/>
-  </node>
-  <node id="-169" visible="true" lat="45.00029681" lon="-73.08964024">
-    <tag k="addr:housenumber" v="573"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126558"/>
   </node>
   <node id="-170" visible="true" lat="45.00036621" lon="-73.0500946">
     <tag k="addr:housenumber" v="594"/>
@@ -426,47 +204,17 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126559"/>
   </node>
-  <node id="-171" visible="true" lat="45.00003051" lon="-73.09040832">
-    <tag k="addr:housenumber" v="584"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126560"/>
-  </node>
   <node id="-172" visible="true" lat="44.99984741" lon="-73.07872009">
     <tag k="addr:housenumber" v="5171"/>
     <tag k="addr:street" v="U.S. Route 7"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126561"/>
   </node>
-  <node id="-173" visible="true" lat="44.99960708" lon="-73.09043121">
-    <tag k="addr:housenumber" v="618"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126562"/>
-  </node>
   <node id="-174" visible="true" lat="44.99964904" lon="-73.0488739">
     <tag k="addr:housenumber" v="676"/>
     <tag k="addr:street" v="Partlow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126563"/>
-  </node>
-  <node id="-175" visible="true" lat="44.99937057" lon="-73.09046172">
-    <tag k="addr:housenumber" v="634"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126564"/>
-  </node>
-  <node id="-176" visible="true" lat="44.99926376" lon="-73.08994293">
-    <tag k="addr:housenumber" v="637"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126565"/>
-  </node>
-  <node id="-177" visible="true" lat="44.99892044" lon="-73.09059906">
-    <tag k="addr:housenumber" v="664"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126566"/>
   </node>
   <node id="-178" visible="true" lat="44.99904688" lon="-72.99961769">
     <tag k="addr:housenumber" v="4892"/>
@@ -480,12 +228,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126568"/>
   </node>
-  <node id="-180" visible="true" lat="44.99851608" lon="-73.09062194">
-    <tag k="addr:housenumber" v="698"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126569"/>
-  </node>
   <node id="-181" visible="true" lat="44.99892955" lon="-72.99904108">
     <tag k="addr:housenumber" v="4890"/>
     <tag k="addr:street" v="Gore Road"/>
@@ -497,12 +239,6 @@
     <tag k="addr:street" v="Ballard Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126571"/>
-  </node>
-  <node id="-183" visible="true" lat="44.9981537" lon="-73.09074133">
-    <tag k="addr:housenumber" v="720"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126572"/>
   </node>
   <node id="-184" visible="true" lat="44.99816894" lon="-73.07566833">
     <tag k="addr:housenumber" v="4882"/>
@@ -516,29 +252,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126574"/>
   </node>
-  <node id="-186" visible="true" lat="44.99802863" lon="-73.09020968">
-    <tag k="addr:housenumber" v="729"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126575"/>
-  </node>
   <node id="-187" visible="true" lat="44.99814605" lon="-73.04621124">
     <tag k="addr:housenumber" v="712"/>
     <tag k="addr:street" v="Partlow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126576"/>
-  </node>
-  <node id="-188" visible="true" lat="44.99777986" lon="-73.09087103">
-    <tag k="addr:housenumber" v="746"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126577"/>
-  </node>
-  <node id="-189" visible="true" lat="44.99752046" lon="-73.09093207">
-    <tag k="addr:housenumber" v="772"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126578"/>
   </node>
   <node id="-190" visible="true" lat="44.99755859" lon="-73.08034515">
     <tag k="addr:housenumber" v="4985"/>
@@ -576,29 +294,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126584"/>
   </node>
-  <node id="-196" visible="true" lat="44.99711631" lon="-73.09099801">
-    <tag k="addr:housenumber" v="786"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126585"/>
-  </node>
   <node id="-197" visible="true" lat="44.99700867" lon="-73.0813934">
     <tag k="addr:housenumber" v="4931"/>
     <tag k="addr:street" v="U.S. Route 7"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126586"/>
-  </node>
-  <node id="-198" visible="true" lat="44.99687557" lon="-73.09102246">
-    <tag k="addr:housenumber" v="800"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126587"/>
-  </node>
-  <node id="-199" visible="true" lat="44.99687196" lon="-73.09046668">
-    <tag k="addr:housenumber" v="803"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126588"/>
   </node>
   <node id="-200" visible="true" lat="44.99700546" lon="-73.00003051">
     <tag k="addr:housenumber" v="4767"/>
@@ -606,29 +306,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126589"/>
   </node>
-  <node id="-201" visible="true" lat="44.99648286" lon="-73.09096259">
-    <tag k="addr:housenumber" v="442"/>
-    <tag k="addr:street" v="Duck Point Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126590"/>
-  </node>
   <node id="-202" visible="true" lat="44.9963417" lon="-73.08361053">
     <tag k="addr:housenumber" v="4809"/>
     <tag k="addr:street" v="U.S. Route 7"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126591"/>
-  </node>
-  <node id="-203" visible="true" lat="44.99619215" lon="-73.09085261">
-    <tag k="addr:housenumber" v="460"/>
-    <tag k="addr:street" v="Duck Point Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126592"/>
-  </node>
-  <node id="-204" visible="true" lat="44.99563981" lon="-73.09091681">
-    <tag k="addr:housenumber" v="502"/>
-    <tag k="addr:street" v="Duck Point Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126593"/>
   </node>
   <node id="-205" visible="true" lat="44.99575042" lon="-72.99978637">
     <tag k="addr:housenumber" v="4679"/>
@@ -641,18 +323,6 @@
     <tag k="addr:street" v="U.S. Route 7"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126595"/>
-  </node>
-  <node id="-207" visible="true" lat="44.99518587" lon="-73.09092444">
-    <tag k="addr:housenumber" v="532"/>
-    <tag k="addr:street" v="Duck Point Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126596"/>
-  </node>
-  <node id="-208" visible="true" lat="44.99491121" lon="-73.09057349">
-    <tag k="addr:housenumber" v="541"/>
-    <tag k="addr:street" v="Duck Point Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126597"/>
   </node>
   <node id="-209" visible="true" lat="44.99480819" lon="-73.06575012">
     <tag k="addr:housenumber" v="21"/>
@@ -8088,12 +7758,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="127876"/>
   </node>
-  <node id="-1459" visible="true" lat="45.00947618" lon="-73.07295744">
-    <tag k="addr:housenumber" v="477"/>
-    <tag k="addr:street" v="Rheaume Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="127877"/>
-  </node>
   <node id="-1460" visible="true" lat="44.96134567" lon="-73.05761718">
     <tag k="addr:housenumber" v="1426"/>
     <tag k="addr:street" v="Campagna Road"/>
@@ -8111,12 +7775,6 @@
     <tag k="addr:street" v="Vermont Route 78"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="127880"/>
-  </node>
-  <node id="-1463" visible="true" lat="45.00404819" lon="-73.08001189">
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Humphrey Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="127881"/>
   </node>
   <node id="-1464" visible="true" lat="44.92297363" lon="-73.00920867">
     <tag k="addr:housenumber" v="2668"/>
@@ -8514,18 +8172,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="127950"/>
   </node>
-  <node id="-1530" visible="true" lat="45.01347732" lon="-73.08664703">
-    <tag k="addr:housenumber" v="469"/>
-    <tag k="addr:street" v="Welcome Center Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="127951"/>
-  </node>
-  <node id="-1531" visible="true" lat="45.01289003" lon="-73.08706255">
-    <tag k="addr:housenumber" v="429"/>
-    <tag k="addr:street" v="Welcome Center Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="127952"/>
-  </node>
   <node id="-1532" visible="true" lat="45.01153182" lon="-73.08621215">
     <tag k="addr:housenumber" v="366"/>
     <tag k="addr:street" v="Interstate 89 South"/>
@@ -8844,12 +8490,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128012"/>
   </node>
-  <node id="-1589" visible="true" lat="45.00328745" lon="-73.08348251">
-    <tag k="addr:housenumber" v="177"/>
-    <tag k="addr:street" v="Humphrey Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128013"/>
-  </node>
   <node id="-1590" visible="true" lat="44.93654107" lon="-73.11607357">
     <tag k="addr:housenumber" v="153"/>
     <tag k="addr:street" v="Decker Road"/>
@@ -9095,12 +8735,6 @@
     <tag k="addr:street" v="Ballard Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128056"/>
-  </node>
-  <node id="-1632" visible="true" lat="45.00918209" lon="-73.07341583">
-    <tag k="addr:housenumber" v="431"/>
-    <tag k="addr:street" v="Rheaume Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128057"/>
   </node>
   <node id="-1634" visible="true" lat="44.94050211" lon="-73.1254009">
     <tag k="addr:housenumber" v="391"/>
@@ -9972,24 +9606,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="315291"/>
   </node>
-  <node id="-1783" visible="true" lat="45.0039882" lon="-73.08826282">
-    <tag k="addr:housenumber" v="272"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="315292"/>
-  </node>
-  <node id="-1784" visible="true" lat="45.00430663" lon="-73.08816928">
-    <tag k="addr:housenumber" v="242"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="315293"/>
-  </node>
-  <node id="-1785" visible="true" lat="45.00468273" lon="-73.08798207">
-    <tag k="addr:housenumber" v="240"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="315294"/>
-  </node>
   <node id="-1786" visible="true" lat="44.96453568" lon="-73.10126893">
     <tag k="addr:housenumber" v="61"/>
     <tag k="addr:street" v="Ila Lane"/>
@@ -10086,12 +9702,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="324327"/>
   </node>
-  <node id="-1802" visible="true" lat="45.0040922" lon="-73.08542785">
-    <tag k="addr:housenumber" v="224"/>
-    <tag k="addr:street" v="Humphrey Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326377"/>
-  </node>
   <node id="-1803" visible="true" lat="44.93754115" lon="-72.91222519">
     <tag k="addr:housenumber" v="3144"/>
     <tag k="addr:street" v="Rice Hill Road"/>
@@ -10187,12 +9797,6 @@
     <tag k="addr:street" v="Parizo Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="330992"/>
-  </node>
-  <node id="-1820" visible="true" lat="44.99971629" lon="-73.08974231">
-    <tag k="addr:housenumber" v="613"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="330993"/>
   </node>
   <node id="-1821" visible="true" lat="44.93890024" lon="-73.09443061">
     <tag k="addr:housenumber" v="658"/>
@@ -10343,12 +9947,6 @@
     <tag k="addr:street" v="Vermont Route 78"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338235"/>
-  </node>
-  <node id="-1846" visible="true" lat="45.00690524" lon="-73.08074544">
-    <tag k="addr:housenumber" v="5688"/>
-    <tag k="addr:street" v="U.S. Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338236"/>
   </node>
   <node id="-1847" visible="true" lat="44.93967633" lon="-73.02286652">
     <tag k="addr:housenumber" v="234"/>
@@ -10620,23 +10218,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345422"/>
   </node>
-  <node id="-1911" visible="true" lat="45.00886032" lon="-73.07436294">
-    <tag k="addr:housenumber" v="375"/>
-    <tag k="addr:street" v="Rheaume Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="346024"/>
-  </node>
   <node id="-1912" visible="true" lat="44.96407459" lon="-73.10091028">
     <tag k="addr:housenumber" v="2943"/>
     <tag k="addr:street" v="Carter Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365026"/>
-  </node>
-  <node id="-1913" visible="true" lat="45.00215119" lon="-73.08923393">
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Browns Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="365064"/>
   </node>
   <node id="-1914" visible="true" lat="44.91366747" lon="-73.05086136">
     <tag k="addr:housenumber" v="542"/>
@@ -10740,12 +10326,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="448142"/>
   </node>
-  <node id="-1932" visible="true" lat="45.00672069" lon="-73.07559015">
-    <tag k="addr:housenumber" v="248"/>
-    <tag k="addr:street" v="Rheaume Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="448418"/>
-  </node>
   <node id="-1934" visible="true" lat="44.95903774" lon="-73.07369926">
     <tag k="addr:housenumber" v="671"/>
     <tag k="addr:street" v="Campagna Road"/>
@@ -10842,12 +10422,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="610319"/>
   </node>
-  <node id="-1950" visible="true" lat="44.99752729" lon="-73.0903018">
-    <tag k="addr:housenumber" v="761"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="610440"/>
-  </node>
   <node id="-1951" visible="true" lat="44.97271308" lon="-73.05450368">
     <tag k="addr:housenumber" v="2615"/>
     <tag k="addr:street" v="Saint Armand Road"/>
@@ -10907,12 +10481,6 @@
     <tag k="addr:street" v="Gore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="618086"/>
-  </node>
-  <node id="-1961" visible="true" lat="44.99782086" lon="-73.09024964">
-    <tag k="addr:housenumber" v="745"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="618287"/>
   </node>
   <node id="-1963" visible="true" lat="44.91868462" lon="-73.02069237">
     <tag k="addr:housenumber" v="2015"/>
@@ -11004,23 +10572,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753148"/>
   </node>
-  <node id="-1978" visible="true" lat="45.00280935" lon="-73.08249864">
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Applewood Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="753207"/>
-  </node>
   <node id="-1979" visible="true" lat="45.00359826" lon="-73.07775313">
     <tag k="addr:housenumber" v="5382"/>
     <tag k="addr:street" v="U.S. Route 7"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753453"/>
-  </node>
-  <node id="-1980" visible="true" lat="45.00165951" lon="-73.08829987">
-    <tag k="addr:housenumber" v="443"/>
-    <tag k="addr:street" v="Country Club Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="753610"/>
   </node>
   <node id="-1981" visible="true" lat="44.95907051" lon="-73.02762392">
     <tag k="addr:housenumber" v="106"/>
@@ -11051,12 +10607,6 @@
     <tag k="addr:street" v="Deso Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754503"/>
-  </node>
-  <node id="-1987" visible="true" lat="45.00532701" lon="-73.07867671">
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="Rheaume Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="754505"/>
   </node>
   <node id="-1988" visible="true" lat="44.95350918" lon="-73.05222981">
     <tag k="addr:housenumber" v="13"/>
@@ -11099,12 +10649,6 @@
     <tag k="addr:street" v="Jedware Circle"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756123"/>
-  </node>
-  <node id="-1995" visible="true" lat="45.00487969" lon="-73.07923808">
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Rheaume Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="756237"/>
   </node>
   <node id="-1996" visible="true" lat="44.99014718" lon="-73.0646297">
     <tag k="addr:housenumber" v="4012"/>

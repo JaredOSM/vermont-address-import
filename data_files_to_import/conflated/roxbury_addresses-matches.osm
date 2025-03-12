@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-117" visible="true" lat="44.11454737" lon="-72.76960508">
     <tag k="addr:city" v="Roxbury"/>
     <tag k="addr:housenumber" v="2516"/>
@@ -533,6 +533,34 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205472"/>
   </node>
+  <node id="-272" visible="true" lat="44.08751088" lon="-72.70922952">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205473"/>
+  </node>
+  <node id="-274" visible="true" lat="44.08698284" lon="-72.72089053">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:street" v="Moose Run Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205475"/>
+  </node>
+  <node id="-279" visible="true" lat="44.08713579" lon="-72.69756549">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="757"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205480"/>
+  </node>
+  <node id="-281" visible="true" lat="44.08697707" lon="-72.69886738">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="691"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205482"/>
+  </node>
   <node id="-282" visible="true" lat="44.08707706" lon="-72.6511312">
     <tag k="addr:city" v="Roxbury"/>
     <tag k="addr:housenumber" v="48"/>
@@ -554,6 +582,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205491"/>
   </node>
+  <node id="-292" visible="true" lat="44.08646274" lon="-72.69815717">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="728"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205493"/>
+  </node>
+  <node id="-293" visible="true" lat="44.08591222" lon="-72.70253067">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="502"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205494"/>
+  </node>
   <node id="-294" visible="true" lat="44.08640537" lon="-72.65135775">
     <tag k="addr:city" v="Roxbury"/>
     <tag k="addr:housenumber" v="70"/>
@@ -561,19 +603,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205495"/>
   </node>
+  <node id="-295" visible="true" lat="44.08609308" lon="-72.70543181">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="370"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205496"/>
+  </node>
   <node id="-296" visible="true" lat="44.08595033" lon="-72.6513346">
     <tag k="addr:city" v="Roxbury"/>
     <tag k="addr:housenumber" v="80"/>
     <tag k="addr:street" v="Tenney Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205497"/>
-  </node>
-  <node id="-301" visible="true" lat="44.0856721" lon="-72.65026768">
-    <tag k="addr:city" v="Roxbury"/>
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="Tenney Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="205502"/>
   </node>
   <node id="-303" visible="true" lat="44.08542744" lon="-72.64933284">
     <tag k="addr:city" v="Roxbury"/>
@@ -588,13 +630,6 @@
     <tag k="addr:street" v="Tenney Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205505"/>
-  </node>
-  <node id="-305" visible="true" lat="44.08512917" lon="-72.65047544">
-    <tag k="addr:city" v="Roxbury"/>
-    <tag k="addr:housenumber" v="109"/>
-    <tag k="addr:street" v="Tenney Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="205506"/>
   </node>
   <node id="-309" visible="true" lat="44.08425348" lon="-72.64984274">
     <tag k="addr:city" v="Roxbury"/>
@@ -616,13 +651,6 @@
     <tag k="addr:street" v="East Roxbury Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205521"/>
-  </node>
-  <node id="-321" visible="true" lat="44.08142364" lon="-72.64875933">
-    <tag k="addr:city" v="Roxbury"/>
-    <tag k="addr:housenumber" v="859"/>
-    <tag k="addr:street" v="East Roxbury Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="205522"/>
   </node>
   <node id="-324" visible="true" lat="44.08073126" lon="-72.65248101">
     <tag k="addr:city" v="Roxbury"/>
@@ -694,12 +722,54 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205694"/>
   </node>
+  <node id="-490" visible="true" lat="44.08618275" lon="-72.70694758">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="332"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205695"/>
+  </node>
+  <node id="-491" visible="true" lat="44.08251575" lon="-72.71194575">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="232"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205696"/>
+  </node>
   <node id="-493" visible="true" lat="44.0908596" lon="-72.72976276">
     <tag k="addr:city" v="Roxbury"/>
     <tag k="addr:housenumber" v="286"/>
     <tag k="addr:street" v="Tracy Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205698"/>
+  </node>
+  <node id="-494" visible="true" lat="44.08795238" lon="-72.69929228">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="677"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205699"/>
+  </node>
+  <node id="-495" visible="true" lat="44.08680964" lon="-72.70208262">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="505"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205700"/>
+  </node>
+  <node id="-497" visible="true" lat="44.08763402" lon="-72.69683422">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="811"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205702"/>
+  </node>
+  <node id="-498" visible="true" lat="44.08589364" lon="-72.71265429">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="1248"/>
+    <tag k="addr:street" v="Tracy Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205703"/>
   </node>
   <node id="-500" visible="true" lat="44.10037065" lon="-72.73209879">
     <tag k="addr:city" v="Roxbury"/>
@@ -736,6 +806,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205723"/>
   </node>
+  <node id="-525" visible="true" lat="44.08486559" lon="-72.71928747">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="399"/>
+    <tag k="addr:street" v="Moose Run Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205731"/>
+  </node>
   <node id="-526" visible="true" lat="44.09145807" lon="-72.67357626">
     <tag k="addr:city" v="Roxbury"/>
     <tag k="addr:housenumber" v="2630"/>
@@ -743,12 +820,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205732"/>
   </node>
+  <node id="-528" visible="true" lat="44.08340378" lon="-72.70953275">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205734"/>
+  </node>
+  <node id="-529" visible="true" lat="44.08718356" lon="-72.70344823">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="487"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205735"/>
+  </node>
+  <node id="-530" visible="true" lat="44.08699852" lon="-72.71506528">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="1122"/>
+    <tag k="addr:street" v="Tracy Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205736"/>
+  </node>
   <node id="-533" visible="true" lat="44.09515685" lon="-72.73979844">
     <tag k="addr:city" v="Roxbury"/>
     <tag k="addr:housenumber" v="365"/>
     <tag k="addr:street" v="Warren Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205739"/>
+  </node>
+  <node id="-535" visible="true" lat="44.08659485" lon="-72.70523606">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="371"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205741"/>
   </node>
   <node id="-537" visible="true" lat="44.09721732" lon="-72.6786826">
     <tag k="addr:city" v="Roxbury"/>
@@ -764,6 +869,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205747"/>
   </node>
+  <node id="-546" visible="true" lat="44.08767561" lon="-72.70652115">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205754"/>
+  </node>
+  <node id="-550" visible="true" lat="44.08630836" lon="-72.71416112">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="1190"/>
+    <tag k="addr:street" v="Tracy Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="316715"/>
+  </node>
   <node id="-554" visible="true" lat="44.1052325" lon="-72.74854341">
     <!-- match: "35 Dunbars Way, Roxbury, VT"  ignoring street punctuation to "35 Dunbar's Way, Roxbury, VT" -->
     <tag k="addr:city" v="Roxbury"/>
@@ -771,6 +890,13 @@
     <tag k="addr:street" v="Dunbars Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316719"/>
+  </node>
+  <node id="-557" visible="true" lat="44.08536149" lon="-72.70394731">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="508"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="327645"/>
   </node>
   <node id="-559" visible="true" lat="44.10489667" lon="-72.75046704">
     <tag k="addr:city" v="Roxbury"/>
@@ -786,6 +912,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="330012"/>
   </node>
+  <node id="-563" visible="true" lat="44.08057019" lon="-72.71020443">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="413"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="335734"/>
+  </node>
   <node id="-566" visible="true" lat="44.11563017" lon="-72.77519379">
     <tag k="addr:city" v="Roxbury"/>
     <tag k="addr:housenumber" v="2742"/>
@@ -793,12 +926,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337718"/>
   </node>
+  <node id="-572" visible="true" lat="44.0834208" lon="-72.71261247">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339057"/>
+  </node>
+  <node id="-577" visible="true" lat="44.08591561" lon="-72.69964414">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="672"/>
+    <tag k="addr:street" v="Horner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340218"/>
+  </node>
   <node id="-582" visible="true" lat="44.09982058" lon="-72.67682939">
     <tag k="addr:city" v="Roxbury"/>
     <tag k="addr:housenumber" v="1341"/>
     <tag k="addr:street" v="Bull Run Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342938"/>
+  </node>
+  <node id="-590" visible="true" lat="44.08697467" lon="-72.72830128">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="472"/>
+    <tag k="addr:street" v="Tracy Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="445441"/>
   </node>
   <node id="-594" visible="true" lat="44.09699961" lon="-72.67837208">
     <tag k="addr:city" v="Roxbury"/>
@@ -813,6 +967,34 @@
     <tag k="addr:street" v="Winch Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451938"/>
+  </node>
+  <node id="-615" visible="true" lat="44.08569251" lon="-72.71405068">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="1238"/>
+    <tag k="addr:street" v="Tracy Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750155"/>
+  </node>
+  <node id="-617" visible="true" lat="44.0145259" lon="-72.68244105">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:street" v="Bouvant Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754225"/>
+  </node>
+  <node id="-662" visible="true" lat="44.01455371" lon="-72.68228289">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="498"/>
+    <tag k="addr:street" v="Bouvant Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765580"/>
+  </node>
+  <node id="-663" visible="true" lat="44.01454859" lon="-72.68265376">
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="502"/>
+    <tag k="addr:street" v="Bouvant Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765581"/>
   </node>
   <node id="-664" visible="true" lat="44.08699267" lon="-72.64737819">
     <tag k="addr:city" v="Roxbury"/>

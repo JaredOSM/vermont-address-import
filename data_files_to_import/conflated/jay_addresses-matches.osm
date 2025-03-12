@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-228" visible="true" lat="44.95266342" lon="-72.43502807">
     <tag k="addr:city" v="Jay"/>
     <tag k="addr:housenumber" v="257"/>
@@ -7,12 +7,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="135641"/>
   </node>
+  <node id="-340" visible="true" lat="44.93691088" lon="-72.50471577">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="196"/>
+    <tag k="addr:street" v="Trailside Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="135758"/>
+  </node>
+  <node id="-342" visible="true" lat="44.93637778" lon="-72.50446639">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="Trailside Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="135760"/>
+  </node>
+  <node id="-373" visible="true" lat="44.93081489" lon="-72.49423907">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="4435"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="135791"/>
+  </node>
   <node id="-453" visible="true" lat="44.9294776" lon="-72.43498632">
     <tag k="addr:city" v="Jay"/>
     <tag k="addr:housenumber" v="197"/>
     <tag k="addr:street" v="Cross Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="135873"/>
+  </node>
+  <node id="-542" visible="true" lat="44.93082298" lon="-72.49688841">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Jay Peak Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340235"/>
   </node>
   <node id="-553" visible="true" lat="44.97829374" lon="-72.48224192">
     <tag k="addr:city" v="Jay"/>
@@ -27,5 +55,159 @@
     <tag k="addr:street" v="Cross Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="446615"/>
+  </node>
+  <node id="-595" visible="true" lat="44.93603226" lon="-72.49220499">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Hole Three"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449178"/>
+  </node>
+  <node id="-596" visible="true" lat="44.93615964" lon="-72.49217145">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Hole Three"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449179"/>
+  </node>
+  <node id="-597" visible="true" lat="44.93632511" lon="-72.49208092">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Hole Three"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449180"/>
+  </node>
+  <node id="-598" visible="true" lat="44.93649534" lon="-72.49197196">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Hole Three"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449181"/>
+  </node>
+  <node id="-599" visible="true" lat="44.93664056" lon="-72.49181104">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Hole Three"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449182"/>
+  </node>
+  <node id="-627" visible="true" lat="44.93364354" lon="-72.4972229">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Spruce Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449230"/>
+  </node>
+  <node id="-628" visible="true" lat="44.93347687" lon="-72.49700839">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Spruce Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449231"/>
+  </node>
+  <node id="-629" visible="true" lat="44.93332924" lon="-72.49675365">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Spruce Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449232"/>
+  </node>
+  <node id="-630" visible="true" lat="44.93311971" lon="-72.49656596">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Spruce Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449233"/>
+  </node>
+  <node id="-638" visible="true" lat="44.93089864" lon="-72.4978822">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Hemlock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455453"/>
+  </node>
+  <node id="-639" visible="true" lat="44.93034388" lon="-72.49766771">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Hemlock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455454"/>
+  </node>
+  <node id="-640" visible="true" lat="44.92998675" lon="-72.49842186">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:street" v="Hemlock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455455"/>
+  </node>
+  <node id="-641" visible="true" lat="44.9302939" lon="-72.49934358">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="Hemlock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455456"/>
+  </node>
+  <node id="-642" visible="true" lat="44.93095818" lon="-72.4996821">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Hemlock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455457"/>
+  </node>
+  <node id="-643" visible="true" lat="44.93118729" lon="-72.49862919">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Hemlock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455458"/>
+  </node>
+  <node id="-644" visible="true" lat="44.93104962" lon="-72.49856763">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Hemlock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455459"/>
+  </node>
+  <node id="-645" visible="true" lat="44.93130338" lon="-72.49700067">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Hemlock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610190"/>
+  </node>
+  <node id="-646" visible="true" lat="44.93124625" lon="-72.49748165">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Hemlock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610191"/>
+  </node>
+  <node id="-647" visible="true" lat="44.93103196" lon="-72.49746323">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Hemlock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610192"/>
+  </node>
+  <node id="-648" visible="true" lat="44.93132959" lon="-72.49815033">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Hemlock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610201"/>
+  </node>
+  <node id="-649" visible="true" lat="44.93155458" lon="-72.49770118">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Hemlock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610202"/>
+  </node>
+  <node id="-673" visible="true" lat="44.93099389" lon="-72.49899499">
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Hemlock Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="749994"/>
   </node>
 </osm>

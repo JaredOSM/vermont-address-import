@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-342" visible="true" lat="44.81549578" lon="-71.88065231">
     <!-- conflict: "23 East Brighton Road, , VT" No match in OSM, but a different address exists <5m away: "23 VT Route 105 East Brighton Road, Island Pond, VT" -->
     <tag k="addr:housenumber" v="23"/>
@@ -13,13 +13,6 @@
     <tag k="addr:street" v="Rlw Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38182"/>
-  </node>
-  <node id="-460" visible="true" lat="44.80990982" lon="-71.86134338">
-    <!-- conflict: "1348 East Brighton Road, , VT" Fuzzy match to "1348 East Brighton Road, , " -->
-    <tag k="addr:housenumber" v="1348"/>
-    <tag k="addr:street" v="East Brighton Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="38208"/>
   </node>
   <node id="-464" visible="true" lat="44.80980323" lon="-71.84071805">
     <!-- conflict: "667 Rlw Road, , VT" Fuzzy match to "667 RLW Road, Brighton, VT" -->

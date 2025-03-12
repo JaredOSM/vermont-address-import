@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="44.83847791" lon="-72.76434972">
     <tag k="addr:housenumber" v="2850"/>
     <tag k="addr:street" v="Witchcat Road"/>
@@ -1170,12 +1170,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="93348"/>
   </node>
-  <node id="-297" visible="true" lat="44.90987396" lon="-72.79830169">
-    <tag k="addr:housenumber" v="68"/>
-    <tag k="addr:street" v="East Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="93349"/>
-  </node>
   <node id="-298" visible="true" lat="44.90983509" lon="-72.80700086">
     <tag k="addr:housenumber" v="170"/>
     <tag k="addr:street" v="Valentine Drive"/>
@@ -2123,6 +2117,12 @@
     <tag k="addr:street" v="Maple Park"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="93525"/>
+  </node>
+  <node id="-458" visible="true" lat="44.90758523" lon="-72.80520401">
+    <tag k="addr:housenumber" v="349"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="93526"/>
   </node>
   <node id="-459" visible="true" lat="44.9075737" lon="-72.81290435">
     <tag k="addr:housenumber" v="28"/>
@@ -4482,12 +4482,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="93976"/>
   </node>
-  <node id="-870" visible="true" lat="44.87213134" lon="-72.79747772">
-    <tag k="addr:housenumber" v="2394"/>
-    <tag k="addr:street" v="West Enosburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="93977"/>
-  </node>
   <node id="-871" visible="true" lat="44.8721199" lon="-72.79771423">
     <tag k="addr:housenumber" v="1735"/>
     <tag k="addr:street" v="Tyler Branch Road"/>
@@ -5112,12 +5106,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="94082"/>
   </node>
-  <node id="-975" visible="true" lat="44.85979461" lon="-72.76246643">
-    <tag k="addr:housenumber" v="4280"/>
-    <tag k="addr:street" v="Boston Post Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="94083"/>
-  </node>
   <node id="-976" visible="true" lat="44.85982513" lon="-72.73129272">
     <tag k="addr:housenumber" v="118"/>
     <tag k="addr:street" v="Horseshoe Circle"/>
@@ -5135,12 +5123,6 @@
     <tag k="addr:street" v="Courser Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="94086"/>
-  </node>
-  <node id="-979" visible="true" lat="44.85914993" lon="-72.76618194">
-    <tag k="addr:housenumber" v="4276"/>
-    <tag k="addr:street" v="Boston Post Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="94087"/>
   </node>
   <node id="-980" visible="true" lat="44.85903549" lon="-72.75963592">
     <tag k="addr:housenumber" v="88"/>
@@ -6407,12 +6389,6 @@
     <tag k="addr:street" v="Jay View Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="94305"/>
-  </node>
-  <node id="-1192" visible="true" lat="44.91230626" lon="-72.79559275">
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Jay View Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="94306"/>
   </node>
   <node id="-1193" visible="true" lat="44.89307571" lon="-72.75948761">
     <tag k="addr:housenumber" v="2014"/>

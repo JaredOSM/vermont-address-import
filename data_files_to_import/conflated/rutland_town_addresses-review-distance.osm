@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-500" visible="true" lat="43.63880275" lon="-72.9879724">
+    <!-- offset: "871 McKinley Avenue, , VT" Significant offset - 276.6m -->
+    <tag k="addr:housenumber" v="871"/>
+    <tag k="addr:street" v="McKinley Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="214121"/>
+  </node>
 </osm>

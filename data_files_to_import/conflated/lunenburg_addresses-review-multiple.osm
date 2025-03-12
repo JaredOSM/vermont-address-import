@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1115" visible="true" lat="44.41222456" lon="-71.72542401">
+    <!-- multiple: "147 Riverside Avenue, Lunenburg, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:street" v="Riverside Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="146147"/>
+  </node>
 </osm>

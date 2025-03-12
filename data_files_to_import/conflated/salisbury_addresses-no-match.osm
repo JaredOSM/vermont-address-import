@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.96066714" lon="-73.07679299">
     <tag k="addr:city" v="Salisbury"/>
     <tag k="addr:housenumber" v="3091"/>
@@ -4473,13 +4473,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455163"/>
   </node>
-  <node id="-1102" visible="true" lat="43.93584879" lon="-73.15532825">
-    <tag k="addr:city" v="Salisbury"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Story Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="610795"/>
-  </node>
   <node id="-1103" visible="true" lat="43.94622857" lon="-73.08672007">
     <tag k="addr:city" v="Salisbury"/>
     <tag k="addr:housenumber" v="1872"/>
@@ -4689,13 +4682,6 @@
     <tag k="addr:street" v="Upper Plains Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764614"/>
-  </node>
-  <node id="-1166" visible="true" lat="43.95332447" lon="-73.1359309">
-    <tag k="addr:city" v="Salisbury"/>
-    <tag k="addr:housenumber" v="2189"/>
-    <tag k="addr:street" v="Middle Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="764615"/>
   </node>
   <node id="-1167" visible="true" lat="43.93709481" lon="-73.09292807">
     <tag k="addr:city" v="Salisbury"/>

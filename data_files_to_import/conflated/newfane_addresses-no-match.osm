@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-102" visible="true" lat="42.93477832" lon="-72.76969237">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="29"/>
@@ -482,6 +482,13 @@
     <tag k="addr:street" v="South Wardsboro Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="174873"/>
+  </node>
+  <node id="-185" visible="true" lat="43.00597825" lon="-72.64512836">
+    <tag k="addr:city" v="Newfane"/>
+    <tag k="addr:housenumber" v="907"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="174874"/>
   </node>
   <node id="-186" visible="true" lat="43.00599881" lon="-72.69377355">
     <tag k="addr:city" v="Newfane"/>
@@ -2331,13 +2338,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175300"/>
   </node>
-  <node id="-606" visible="true" lat="42.95927047" lon="-72.65847015">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Lane Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175301"/>
-  </node>
   <node id="-607" visible="true" lat="42.95873571" lon="-72.6603944">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="60"/>
@@ -2527,13 +2527,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175329"/>
   </node>
-  <node id="-634" visible="true" lat="42.95687505" lon="-72.65905522">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Lane Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175330"/>
-  </node>
   <node id="-635" visible="true" lat="42.95658445" lon="-72.6904816">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="38"/>
@@ -2562,13 +2555,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175334"/>
   </node>
-  <node id="-639" visible="true" lat="42.95643655" lon="-72.6573562">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Newfane Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175335"/>
-  </node>
   <node id="-640" visible="true" lat="42.95631408" lon="-72.66665649">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="42"/>
@@ -2589,13 +2575,6 @@
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175338"/>
-  </node>
-  <node id="-643" visible="true" lat="42.95616149" lon="-72.66020965">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Newfane Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175339"/>
   </node>
   <node id="-644" visible="true" lat="42.95611986" lon="-72.64735568">
     <tag k="addr:city" v="Newfane"/>
@@ -2674,13 +2653,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175350"/>
   </node>
-  <node id="-655" visible="true" lat="42.95487703" lon="-72.65102869">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175351"/>
-  </node>
   <node id="-656" visible="true" lat="42.95530722" lon="-72.69420086">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="206"/>
@@ -2737,13 +2709,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175360"/>
   </node>
-  <node id="-664" visible="true" lat="42.95429042" lon="-72.65266857">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175361"/>
-  </node>
   <node id="-666" visible="true" lat="42.95452203" lon="-72.68180318">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="120"/>
@@ -2757,20 +2722,6 @@
     <tag k="addr:street" v="Spring Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175364"/>
-  </node>
-  <node id="-669" visible="true" lat="42.95439751" lon="-72.65743456">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Newfane Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175366"/>
-  </node>
-  <node id="-670" visible="true" lat="42.95431733" lon="-72.65544144">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Newfane Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175367"/>
   </node>
   <node id="-674" visible="true" lat="42.95364372" lon="-72.68173828">
     <tag k="addr:city" v="Newfane"/>
@@ -2898,33 +2849,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175403"/>
   </node>
-  <node id="-708" visible="true" lat="42.95097362" lon="-72.66765532">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="118"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175405"/>
-  </node>
   <node id="-713" visible="true" lat="42.95030442" lon="-72.76530367">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="1107"/>
     <tag k="addr:street" v="Dover Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175410"/>
-  </node>
-  <node id="-714" visible="true" lat="42.95043563" lon="-72.66820526">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="129"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175411"/>
-  </node>
-  <node id="-715" visible="true" lat="42.95036341" lon="-72.67110224">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175412"/>
   </node>
   <node id="-716" visible="true" lat="42.95038726" lon="-72.69919246">
     <tag k="addr:city" v="Newfane"/>
@@ -2968,13 +2898,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175422"/>
   </node>
-  <node id="-726" visible="true" lat="42.94989263" lon="-72.66996325">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="140"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175423"/>
-  </node>
   <node id="-727" visible="true" lat="42.94998135" lon="-72.64400256">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="33"/>
@@ -3010,20 +2933,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175435"/>
   </node>
-  <node id="-741" visible="true" lat="42.94923336" lon="-72.67101874">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175438"/>
-  </node>
-  <node id="-742" visible="true" lat="42.9491806" lon="-72.66976928">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="143"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175439"/>
-  </node>
   <node id="-745" visible="true" lat="42.94892097" lon="-72.64334432">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="17"/>
@@ -3052,33 +2961,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175450"/>
   </node>
-  <node id="-754" visible="true" lat="42.948538" lon="-72.67228446">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="158"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175452"/>
-  </node>
   <node id="-755" visible="true" lat="42.94839107" lon="-72.73332357">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="89"/>
     <tag k="addr:street" v="Penner Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175453"/>
-  </node>
-  <node id="-756" visible="true" lat="42.94845018" lon="-72.67292959">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="160"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175454"/>
-  </node>
-  <node id="-757" visible="true" lat="42.94843108" lon="-72.67327592">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="164"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175455"/>
   </node>
   <node id="-760" visible="true" lat="42.94828578" lon="-72.69859012">
     <tag k="addr:city" v="Newfane"/>
@@ -3107,13 +2995,6 @@
     <tag k="addr:street" v="Penner Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175463"/>
-  </node>
-  <node id="-767" visible="true" lat="42.948095" lon="-72.67080106">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="157"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175466"/>
   </node>
   <node id="-768" visible="true" lat="42.94803041" lon="-72.70079642">
     <tag k="addr:city" v="Newfane"/>
@@ -3171,13 +3052,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175485"/>
   </node>
-  <node id="-787" visible="true" lat="42.94757461" lon="-72.66616058">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Duke Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175486"/>
-  </node>
   <node id="-791" visible="true" lat="42.94745284" lon="-72.69524294">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="56"/>
@@ -3206,13 +3080,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175495"/>
   </node>
-  <node id="-800" visible="true" lat="42.94695281" lon="-72.64226531">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Station Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175499"/>
-  </node>
   <node id="-801" visible="true" lat="42.94666447" lon="-72.69649378">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="51"/>
@@ -3234,27 +3101,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175502"/>
   </node>
-  <node id="-805" visible="true" lat="42.94683837" lon="-72.67279815">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="346"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175504"/>
-  </node>
-  <node id="-806" visible="true" lat="42.946939" lon="-72.6431225">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Station Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175505"/>
-  </node>
-  <node id="-807" visible="true" lat="42.94676156" lon="-72.67249247">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="344"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175506"/>
-  </node>
   <node id="-809" visible="true" lat="42.94651141" lon="-72.73762104">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="26"/>
@@ -3275,27 +3121,6 @@
     <tag k="addr:street" v="Baker Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175511"/>
-  </node>
-  <node id="-814" visible="true" lat="42.94678022" lon="-72.67223348">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="338"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175513"/>
-  </node>
-  <node id="-815" visible="true" lat="42.94676485" lon="-72.6434397">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Station Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175514"/>
-  </node>
-  <node id="-819" visible="true" lat="42.94655428" lon="-72.674322">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175518"/>
   </node>
   <node id="-828" visible="true" lat="42.94609075" lon="-72.68435191">
     <tag k="addr:city" v="Newfane"/>
@@ -3346,20 +3171,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175543"/>
   </node>
-  <node id="-843" visible="true" lat="42.94567108" lon="-72.67290496">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175544"/>
-  </node>
-  <node id="-844" visible="true" lat="42.9455228" lon="-72.66058157">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="218"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175546"/>
-  </node>
   <node id="-845" visible="true" lat="42.94529334" lon="-72.7366325">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="768"/>
@@ -3373,13 +3184,6 @@
     <tag k="addr:street" v="Dover Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175551"/>
-  </node>
-  <node id="-851" visible="true" lat="42.94531557" lon="-72.66269679">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="237"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175554"/>
   </node>
   <node id="-852" visible="true" lat="42.94508388" lon="-72.75497491">
     <tag k="addr:city" v="Newfane"/>
@@ -3416,13 +3220,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175560"/>
   </node>
-  <node id="-859" visible="true" lat="42.94492544" lon="-72.65205882">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="116"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175563"/>
-  </node>
   <node id="-860" visible="true" lat="42.94501785" lon="-72.68115216">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="69"/>
@@ -3437,13 +3234,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175565"/>
   </node>
-  <node id="-862" visible="true" lat="42.94477292" lon="-72.66327866">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="247"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175566"/>
-  </node>
   <node id="-863" visible="true" lat="42.94468307" lon="-72.68276977">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="86"/>
@@ -3457,13 +3247,6 @@
     <tag k="addr:street" v="Holcomb Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175569"/>
-  </node>
-  <node id="-866" visible="true" lat="42.94448751" lon="-72.65818747">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="190"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175570"/>
   </node>
   <node id="-867" visible="true" lat="42.94418653" lon="-72.74853344">
     <tag k="addr:city" v="Newfane"/>
@@ -3499,13 +3282,6 @@
     <tag k="addr:street" v="Dover Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175575"/>
-  </node>
-  <node id="-874" visible="true" lat="42.94407653" lon="-72.66070556">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="199"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175579"/>
   </node>
   <node id="-875" visible="true" lat="42.94380759" lon="-72.72695941">
     <tag k="addr:city" v="Newfane"/>
@@ -3570,13 +3346,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175589"/>
   </node>
-  <node id="-885" visible="true" lat="42.94310965" lon="-72.65521377">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175590"/>
-  </node>
   <node id="-886" visible="true" lat="42.94298553" lon="-72.75354003">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="23"/>
@@ -3598,13 +3367,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175593"/>
   </node>
-  <node id="-889" visible="true" lat="42.94306945" lon="-72.65756988">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="173"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175594"/>
-  </node>
   <node id="-890" visible="true" lat="42.94270623" lon="-72.68789078">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="144"/>
@@ -3618,13 +3380,6 @@
     <tag k="addr:street" v="Dover Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175596"/>
-  </node>
-  <node id="-892" visible="true" lat="42.94287109" lon="-72.64989471">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175597"/>
   </node>
   <node id="-893" visible="true" lat="42.94225962" lon="-72.69102558">
     <tag k="addr:city" v="Newfane"/>
@@ -3668,13 +3423,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175603"/>
   </node>
-  <node id="-899" visible="true" lat="42.94219606" lon="-72.65703561">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="165"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175604"/>
-  </node>
   <node id="-900" visible="true" lat="42.94211871" lon="-72.72435285">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="621"/>
@@ -3709,13 +3457,6 @@
     <tag k="addr:street" v="Dover Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175609"/>
-  </node>
-  <node id="-905" visible="true" lat="42.94133769" lon="-72.65666984">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="163"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175610"/>
   </node>
   <node id="-906" visible="true" lat="42.94081497" lon="-72.70262145">
     <tag k="addr:city" v="Newfane"/>
@@ -4067,41 +3808,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175695"/>
   </node>
-  <node id="-989" visible="true" lat="42.93057238" lon="-72.70762821">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="Auger Hole Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175696"/>
-  </node>
-  <node id="-990" visible="true" lat="42.9298676" lon="-72.70820582">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:street" v="Auger Hole Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175697"/>
-  </node>
-  <node id="-991" visible="true" lat="42.92976596" lon="-72.70743353">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Auger Hole Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175698"/>
-  </node>
-  <node id="-992" visible="true" lat="42.92727363" lon="-72.64903856">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Lost Mile Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175699"/>
-  </node>
-  <node id="-993" visible="true" lat="42.92947166" lon="-72.70892737">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="96"/>
-    <tag k="addr:street" v="Auger Hole Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175700"/>
-  </node>
   <node id="-994" visible="true" lat="42.927473" lon="-72.77030329">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="296"/>
@@ -4116,40 +3822,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175702"/>
   </node>
-  <node id="-996" visible="true" lat="42.92851316" lon="-72.70818905">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="107"/>
-    <tag k="addr:street" v="Auger Hole Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175703"/>
-  </node>
-  <node id="-997" visible="true" lat="42.9279639" lon="-72.70941133">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="116"/>
-    <tag k="addr:street" v="Auger Hole Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175704"/>
-  </node>
-  <node id="-998" visible="true" lat="42.92972707" lon="-72.65044218">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Lost Mile Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175705"/>
-  </node>
   <node id="-999" visible="true" lat="42.92693968" lon="-72.77126594">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="322"/>
     <tag k="addr:street" v="Hunter Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175706"/>
-  </node>
-  <node id="-1000" visible="true" lat="42.92687754" lon="-72.70950709">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="129"/>
-    <tag k="addr:street" v="Auger Hole Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175707"/>
   </node>
   <node id="-1001" visible="true" lat="42.92684726" lon="-72.67422625">
     <tag k="addr:city" v="Newfane"/>
@@ -4178,20 +3856,6 @@
     <tag k="addr:street" v="Williams Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175711"/>
-  </node>
-  <node id="-1005" visible="true" lat="42.92654159" lon="-72.65837446">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:street" v="Lost Mile Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175712"/>
-  </node>
-  <node id="-1006" visible="true" lat="42.92641837" lon="-72.65628666">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Lost Mile Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175713"/>
   </node>
   <node id="-1007" visible="true" lat="42.9263153" lon="-72.67378997">
     <tag k="addr:city" v="Newfane"/>
@@ -4235,13 +3899,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175719"/>
   </node>
-  <node id="-1013" visible="true" lat="42.92551645" lon="-72.65852523">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Lost Mile Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175720"/>
-  </node>
   <node id="-1014" visible="true" lat="42.92504962" lon="-72.67460165">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="350"/>
@@ -4249,61 +3906,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175721"/>
   </node>
-  <node id="-1015" visible="true" lat="42.92537053" lon="-72.71226308">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="172"/>
-    <tag k="addr:street" v="Auger Hole Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175722"/>
-  </node>
-  <node id="-1016" visible="true" lat="42.92521377" lon="-72.66274736">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="160"/>
-    <tag k="addr:street" v="Lost Mile Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175723"/>
-  </node>
-  <node id="-1017" visible="true" lat="42.92490596" lon="-72.66032027">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="131"/>
-    <tag k="addr:street" v="Lost Mile Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175724"/>
-  </node>
   <node id="-1018" visible="true" lat="42.92663254" lon="-72.67881462">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="Williams Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175725"/>
-  </node>
-  <node id="-1019" visible="true" lat="42.92585959" lon="-72.65001387">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Lost Mile Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175726"/>
-  </node>
-  <node id="-1020" visible="true" lat="42.92592809" lon="-72.65189356">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Lost Mile Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175727"/>
-  </node>
-  <node id="-1021" visible="true" lat="42.92555948" lon="-72.64999839">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Lost Mile Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175728"/>
-  </node>
-  <node id="-1022" visible="true" lat="42.92533471" lon="-72.65329951">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Lost Mile Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175729"/>
   </node>
   <node id="-1027" visible="true" lat="42.97125179" lon="-72.65849833">
     <tag k="addr:city" v="Newfane"/>
@@ -4410,20 +4018,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175758"/>
   </node>
-  <node id="-1052" visible="true" lat="42.95876661" lon="-72.65800248">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Lane Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175759"/>
-  </node>
-  <node id="-1053" visible="true" lat="42.95798886" lon="-72.65821419">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Lane Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175760"/>
-  </node>
   <node id="-1054" visible="true" lat="42.95620959" lon="-72.66466243">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="21"/>
@@ -4479,13 +4073,6 @@
     <tag k="addr:street" v="Timson Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175769"/>
-  </node>
-  <node id="-1062" visible="true" lat="42.95030749" lon="-72.6680128">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175770"/>
   </node>
   <node id="-1063" visible="true" lat="42.94936284" lon="-72.75765836">
     <tag k="addr:city" v="Newfane"/>
@@ -4633,13 +4220,6 @@
     <tag k="addr:street" v="Deer Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175797"/>
-  </node>
-  <node id="-1088" visible="true" lat="42.94454752" lon="-72.65377518">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="132"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="175798"/>
   </node>
   <node id="-1094" visible="true" lat="42.93987992" lon="-72.70248994">
     <tag k="addr:city" v="Newfane"/>
@@ -4956,13 +4536,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="327181"/>
   </node>
-  <node id="-1149" visible="true" lat="42.9280149" lon="-72.65152743">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="Lost Mile Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="328758"/>
-  </node>
   <node id="-1151" visible="true" lat="42.96451671" lon="-72.70770336">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="16"/>
@@ -5159,33 +4732,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451111"/>
   </node>
-  <node id="-1182" visible="true" lat="42.95042407" lon="-72.65816729">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="452340"/>
-  </node>
-  <node id="-1183" visible="true" lat="42.95031943" lon="-72.65544836">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Grimes Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="452341"/>
-  </node>
   <node id="-1184" visible="true" lat="42.99167229" lon="-72.69289224">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="155"/>
     <tag k="addr:street" v="Grout Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="453589"/>
-  </node>
-  <node id="-1185" visible="true" lat="42.9564629" lon="-72.6550034">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:street" v="Newfane Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453652"/>
   </node>
   <node id="-1186" visible="true" lat="42.94561329" lon="-72.70088557">
     <tag k="addr:city" v="Newfane"/>
@@ -5250,13 +4802,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612057"/>
   </node>
-  <node id="-1201" visible="true" lat="42.93355152" lon="-72.6637279">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="161"/>
-    <tag k="addr:street" v="Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613103"/>
-  </node>
   <node id="-1203" visible="true" lat="42.99814077" lon="-72.68740146">
     <tag k="addr:city" v="Newfane"/>
     <tag k="addr:housenumber" v="389"/>
@@ -5298,13 +4843,6 @@
     <tag k="addr:street" v="Dover Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617593"/>
-  </node>
-  <node id="-1210" visible="true" lat="42.94722882" lon="-72.64626328">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Rock River Terrace"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="618035"/>
   </node>
   <node id="-1211" visible="true" lat="42.97839709" lon="-72.66093247">
     <tag k="addr:city" v="Newfane"/>
@@ -5368,20 +4906,6 @@
     <tag k="addr:street" v="Cemetery Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753345"/>
-  </node>
-  <node id="-1227" visible="true" lat="42.92449875" lon="-72.71037495">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="161"/>
-    <tag k="addr:street" v="Auger Hole Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="753398"/>
-  </node>
-  <node id="-1228" visible="true" lat="42.94712805" lon="-72.64416381">
-    <tag k="addr:city" v="Newfane"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Vermont Route 30"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="753435"/>
   </node>
   <node id="-1230" visible="true" lat="42.97433769" lon="-72.68827356">
     <tag k="addr:city" v="Newfane"/>

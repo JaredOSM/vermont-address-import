@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-115" visible="true" lat="44.92997482" lon="-72.93135817">
     <tag k="addr:housenumber" v="2029"/>
     <tag k="addr:street" v="Rice Hill Road"/>
@@ -648,6 +648,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223907"/>
   </node>
+  <node id="-673" visible="true" lat="44.8830502" lon="-72.94200259">
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223909"/>
+  </node>
   <node id="-675" visible="true" lat="44.88307022" lon="-72.94644226">
     <tag k="addr:housenumber" v="1475"/>
     <tag k="addr:street" v="Main Street"/>
@@ -660,6 +666,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223912"/>
   </node>
+  <node id="-679" visible="true" lat="44.88279545" lon="-72.94203101">
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223915"/>
+  </node>
   <node id="-681" visible="true" lat="44.88271331" lon="-72.94657134">
     <tag k="addr:housenumber" v="1495"/>
     <tag k="addr:street" v="Main Street"/>
@@ -671,6 +683,13 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223919"/>
+  </node>
+  <node id="-685" visible="true" lat="44.88258601" lon="-72.94173751">
+    <!-- match: "52 Church Street, , VT"  ignoring missing state when matching to "52 Church Street, , " -->
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223921"/>
   </node>
   <node id="-686" visible="true" lat="44.88243703" lon="-72.9464132">
     <tag k="addr:housenumber" v="1517"/>
@@ -690,11 +709,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223928"/>
   </node>
+  <node id="-697" visible="true" lat="44.88173679" lon="-72.94143536">
+    <tag k="addr:housenumber" v="250"/>
+    <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223933"/>
+  </node>
   <node id="-699" visible="true" lat="44.88164669" lon="-72.94690957">
     <tag k="addr:housenumber" v="1570"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223935"/>
+  </node>
+  <node id="-701" visible="true" lat="44.88158416" lon="-72.94235229">
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223937"/>
   </node>
   <node id="-702" visible="true" lat="44.88153002" lon="-72.94400701">
     <tag k="addr:housenumber" v="125"/>
@@ -725,6 +756,12 @@
     <tag k="addr:street" v="Bridge Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223942"/>
+  </node>
+  <node id="-707" visible="true" lat="44.8812816" lon="-72.94093257">
+    <tag k="addr:housenumber" v="276"/>
+    <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223943"/>
   </node>
   <node id="-708" visible="true" lat="44.88142881" lon="-72.94528955">
     <tag k="addr:housenumber" v="57"/>
@@ -792,6 +829,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223962"/>
   </node>
+  <node id="-765" visible="true" lat="44.86743235" lon="-72.87145022">
+    <!-- match: "191 Riley Road, , VT"  ignoring missing state when matching to "191 Riley Road, Sheldon, " -->
+    <tag k="addr:housenumber" v="191"/>
+    <tag k="addr:street" v="Riley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224003"/>
+  </node>
   <node id="-771" visible="true" lat="44.90401189" lon="-72.9743542">
     <tag k="addr:housenumber" v="614"/>
     <tag k="addr:street" v="Mill Street"/>
@@ -821,6 +865,13 @@
     <tag k="addr:street" v="Rice Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224069"/>
+  </node>
+  <node id="-857" visible="true" lat="44.86681403" lon="-72.87246165">
+    <!-- match: "240 Riley Road, , VT"  ignoring missing state when matching to "240 Riley Road, Sheldon, " -->
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:street" v="Riley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224114"/>
   </node>
   <node id="-873" visible="true" lat="44.91783303" lon="-72.96432922">
     <tag k="addr:housenumber" v="1276"/>
@@ -941,5 +992,26 @@
     <tag k="addr:street" v="Woods Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="615545"/>
+  </node>
+  <node id="-1144" visible="true" lat="44.86402507" lon="-72.87089379">
+    <!-- match: "340 Riley Road, , VT"  ignoring missing state when matching to "340 Riley Road, Sheldon, " -->
+    <tag k="addr:housenumber" v="340"/>
+    <tag k="addr:street" v="Riley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752647"/>
+  </node>
+  <node id="-1145" visible="true" lat="44.86306815" lon="-72.86491178">
+    <!-- match: "425 Riley Road, , VT"  ignoring missing state when matching to "425 Riley Road, Sheldon, " -->
+    <tag k="addr:housenumber" v="425"/>
+    <tag k="addr:street" v="Riley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752648"/>
+  </node>
+  <node id="-1168" visible="true" lat="44.88237028" lon="-72.94169349">
+    <!-- match: "40 Church Street, , VT"  ignoring missing state when matching to "40 Church Street, , " -->
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755558"/>
   </node>
 </osm>

@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-373" visible="true" lat="43.41187781" lon="-72.40511981">
     <!-- conflict: "72 Freedom Drive, , VT" No match in OSM, but a different address exists <5m away: "5499 U.S. Route 5, Weathersfield, VT" -->
     <tag k="addr:housenumber" v="72"/>
     <tag k="addr:street" v="Freedom Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276592"/>
+  </node>
+  <node id="-416" visible="true" lat="43.41047819" lon="-72.40600937">
+    <!-- conflict: "5431 U.S. Route 5, , VT" No match in OSM, but a different address exists <5m away: "5431 Route 5, Weathersfield, VT" -->
+    <tag k="addr:housenumber" v="5431"/>
+    <tag k="addr:street" v="U.S. Route 5"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276638"/>
   </node>
   <node id="-514" visible="true" lat="43.40716454" lon="-72.40728252">
     <!-- conflict: "5181 U.S. Route 5, , VT" No match in OSM, but a different address exists <5m away: "5181 US-5, Ascutney, VT" -->
@@ -20,13 +27,6 @@
     <tag k="addr:street" v="Vermont Route 131"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276747"/>
-  </node>
-  <node id="-528" visible="true" lat="43.40661621" lon="-72.50546264">
-    <!-- conflict: "6574 Vermont Route 131, , VT" No match in OSM, but a different address exists <5m away: "6574 Vt Route 131, Weathersfield, VT" -->
-    <tag k="addr:housenumber" v="6574"/>
-    <tag k="addr:street" v="Vermont Route 131"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="276759"/>
   </node>
   <node id="-533" visible="true" lat="43.40594629" lon="-72.40560491">
     <!-- conflict: "86 Vermont Route 12, , VT" No match in OSM, but a different address exists <5m away: "86 Vt Route 12, Weathersfield, VT" -->
@@ -91,13 +91,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276846"/>
   </node>
-  <node id="-616" visible="true" lat="43.40070626" lon="-72.51432587">
-    <!-- conflict: "7303 Vermont Route 131, , VT" No match in OSM, but a different address exists <5m away: "7303 Vt Route 131, Weathersfield, VT" -->
-    <tag k="addr:housenumber" v="7303"/>
-    <tag k="addr:street" v="Vermont Route 131"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="276849"/>
-  </node>
   <node id="-617" visible="true" lat="43.40064239" lon="-72.51164245">
     <!-- conflict: "7164 Vermont Route 131, , VT" No match in OSM, but a different address exists <5m away: "7164 Vt Route 131, Weathersfield, VT" -->
     <tag k="addr:housenumber" v="7164"/>
@@ -119,20 +112,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276855"/>
   </node>
-  <node id="-623" visible="true" lat="43.40039062" lon="-72.51300811">
-    <!-- conflict: "7242 Vermont Route 131, , VT" No match in OSM, but a different address exists <5m away: "7242 Vt Route 131, Weathersfield, VT" -->
-    <tag k="addr:housenumber" v="7242"/>
-    <tag k="addr:street" v="Vermont Route 131"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="276856"/>
-  </node>
-  <node id="-625" visible="true" lat="43.40028381" lon="-72.51393127">
-    <!-- conflict: "7290 Vermont Route 131, , VT" No match in OSM, but a different address exists <5m away: "7290 Vt Route 131, Weathersfield, VT" -->
-    <tag k="addr:housenumber" v="7290"/>
-    <tag k="addr:street" v="Vermont Route 131"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="276858"/>
-  </node>
   <node id="-630" visible="true" lat="43.39972292" lon="-72.51509141">
     <!-- conflict: "4276 Vermont Route 106, , VT" No match in OSM, but a different address exists <5m away: "4276 Vt Route 106, Weathersfield, VT" -->
     <tag k="addr:housenumber" v="4276"/>
@@ -147,19 +126,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276865"/>
   </node>
-  <node id="-633" visible="true" lat="43.39960039" lon="-72.51439973">
-    <!-- conflict: "4261 Vermont Route 106, , VT" No match in OSM, but a different address exists <5m away: "4261 Vt Route 106, Weathersfield, VT" -->
-    <tag k="addr:housenumber" v="4261"/>
-    <tag k="addr:street" v="Vermont Route 106"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="276870"/>
-  </node>
   <node id="-637" visible="true" lat="43.39933451" lon="-72.51268428">
     <!-- conflict: "50 Elk Ridge, , VT" No match in OSM, but a different address exists <5m away: "7228 Vt Route 131, Weathersfield, VT" -->
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Elk Ridge"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276875"/>
+  </node>
+  <node id="-647" visible="true" lat="43.39888381" lon="-72.51705169">
+    <!-- conflict: "7452 Vermont Route 131, , VT" No match in OSM, but a different address exists <5m away: "7452 Vt Route 131, Weathersfield, VT" -->
+    <tag k="addr:housenumber" v="7452"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276890"/>
   </node>
   <node id="-659" visible="true" lat="43.39824676" lon="-72.51445007">
     <!-- conflict: "4173 Vermont Route 106, , VT" No match in OSM, but a different address exists <5m away: "4173 Vt Route 106, Weathersfield, VT" -->
@@ -174,13 +153,6 @@
     <tag k="addr:street" v="Vermont Route 106"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276906"/>
-  </node>
-  <node id="-669" visible="true" lat="43.39772033" lon="-72.51448822">
-    <!-- conflict: "4137 Vermont Route 106, , VT" No match in OSM, but a different address exists <5m away: "4137 Vt Route 106, Weathersfield, VT" -->
-    <tag k="addr:housenumber" v="4137"/>
-    <tag k="addr:street" v="Vermont Route 106"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="276912"/>
   </node>
   <node id="-814" visible="true" lat="43.37748342" lon="-72.50907664">
     <!-- conflict: "2666 Vermont Route 106, , VT" No match in OSM, but a different address exists <5m away: "2666 Vt Route 106, Weathersfield, VT" -->
@@ -224,8 +196,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="277199"/>
   </node>
+  <node id="-1019" visible="true" lat="43.36203007" lon="-72.52105356">
+    <!-- conflict: "1342 Vermont Route 106, , VT" No match in OSM, but a different address exists <5m away: "1342 VT-106, Perkinsville, VT" -->
+    <tag k="addr:housenumber" v="1342"/>
+    <tag k="addr:street" v="Vermont Route 106"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="277269"/>
+  </node>
   <node id="-1114" visible="true" lat="43.35400413" lon="-72.40738051">
-    <!-- conflict: "1102 U.S. Route 5, , VT" No match in OSM, but a different address exists <5m away: "1102 Route 5, Weathersfield, vT" -->
+    <!-- conflict: "1102 U.S. Route 5, , VT" No match in OSM, but a different address exists <5m away: "1102 Route 5, Weathersfield, VT" -->
     <tag k="addr:housenumber" v="1102"/>
     <tag k="addr:street" v="U.S. Route 5"/>
     <tag k="addr:state" v="VT"/>

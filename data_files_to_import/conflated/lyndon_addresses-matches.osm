@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-203" visible="true" lat="44.57851069" lon="-72.0614529">
     <tag k="addr:housenumber" v="3740"/>
     <tag k="addr:street" v="Gilman Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="146483"/>
+  </node>
+  <node id="-222" visible="true" lat="44.57580947" lon="-71.96996307">
+    <!-- match: "2283 Darling Hill Road, , VT"  ignoring missing state when matching to "2283 Darling Hill Road, , " -->
+    <tag k="addr:housenumber" v="2283"/>
+    <tag k="addr:street" v="Darling Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="146502"/>
+  </node>
+  <node id="-259" visible="true" lat="44.57294206" lon="-71.97230206">
+    <!-- match: "2059 Darling Hill Road, , VT"  ignoring missing state when matching to "2059 Darling Hill Road, , " -->
+    <tag k="addr:housenumber" v="2059"/>
+    <tag k="addr:street" v="Darling Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="146539"/>
+  </node>
+  <node id="-406" visible="true" lat="44.55561233" lon="-71.99605108">
+    <!-- match: "972 Lynburke Road, , VT"  ignoring missing state when matching to "972 Lynburke Road, , " -->
+    <tag k="addr:housenumber" v="972"/>
+    <tag k="addr:street" v="Lynburke Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="146687"/>
   </node>
   <node id="-521" visible="true" lat="44.54837999" lon="-72.01452438">
     <tag k="addr:housenumber" v="3"/>
@@ -18,11 +39,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147294"/>
   </node>
+  <node id="-1019" visible="true" lat="44.53655705" lon="-72.00191735">
+    <!-- match: "136 Church Street, , VT"  ignoring missing state when matching to "136 Church Street, , " -->
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="147342"/>
+  </node>
   <node id="-1037" visible="true" lat="44.53604887" lon="-72.00245631">
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:street" v="Church Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147361"/>
+  </node>
+  <node id="-1046" visible="true" lat="44.53610477" lon="-72.00685814">
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:street" v="Park Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="147371"/>
   </node>
   <node id="-1063" visible="true" lat="44.53553012" lon="-72.00554736">
     <tag k="addr:housenumber" v="35"/>
@@ -258,6 +292,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147700"/>
   </node>
+  <node id="-1360" visible="true" lat="44.52934877" lon="-72.00100429">
+    <tag k="addr:housenumber" v="686"/>
+    <tag k="addr:street" v="Broad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="147731"/>
+  </node>
   <node id="-1384" visible="true" lat="44.5285263" lon="-71.98705291">
     <tag k="addr:housenumber" v="1274"/>
     <tag k="addr:street" v="Lily Pond Road"/>
@@ -281,12 +321,6 @@
     <tag k="addr:street" v="Sky Farm"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147867"/>
-  </node>
-  <node id="-1579" visible="true" lat="44.52065717" lon="-72.00052286">
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="Broad Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="147968"/>
   </node>
   <node id="-1797" visible="true" lat="44.51326403" lon="-71.99439049">
     <tag k="addr:housenumber" v="30"/>
@@ -359,6 +393,20 @@
     <tag k="addr:street" v="Commercial Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617803"/>
+  </node>
+  <node id="-2426" visible="true" lat="44.54696142" lon="-71.94933217">
+    <!-- match: "341 Town Farm Drive, , VT"  ignoring missing state when matching to "341 Town Farm Drive, Lyndon, " -->
+    <tag k="addr:housenumber" v="341"/>
+    <tag k="addr:street" v="Town Farm Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620645"/>
+  </node>
+  <node id="-2441" visible="true" lat="44.57368643" lon="-71.97213748">
+    <!-- match: "2099 Darling Hill Road, , VT"  ignoring missing state when matching to "2099 Darling Hill Road, , " -->
+    <tag k="addr:housenumber" v="2099"/>
+    <tag k="addr:street" v="Darling Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750189"/>
   </node>
   <node id="-2452" visible="true" lat="44.56904472" lon="-71.99083247">
     <tag k="addr:housenumber" v="1909"/>

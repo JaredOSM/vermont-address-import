@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-545" visible="true" lat="42.98732354" lon="-72.55401864">
     <!-- multiple: "418 Houghton Brook Road, Putney, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Putney"/>
@@ -16,6 +16,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195618"/>
   </node>
+  <node id="-841" visible="true" lat="42.97056169" lon="-72.49928515">
+    <!-- multiple: "263 River Road South, Putney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Putney"/>
+    <tag k="addr:housenumber" v="263"/>
+    <tag k="addr:street" v="River Road South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="195667"/>
+  </node>
   <node id="-867" visible="true" lat="42.96798852" lon="-72.52312991">
     <!-- multiple: "8 Carol Brown Way, Putney, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Putney"/>
@@ -31,5 +39,21 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195696"/>
+  </node>
+  <node id="-1118" visible="true" lat="42.97456091" lon="-72.60255373">
+    <!-- multiple: "452 Holland Hill, Putney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Putney"/>
+    <tag k="addr:housenumber" v="452"/>
+    <tag k="addr:street" v="Holland Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="195966"/>
+  </node>
+  <node id="-1315" visible="true" lat="42.97681029" lon="-72.51326174">
+    <!-- multiple: "22 Robert Rhodes Lane, Putney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Putney"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Robert Rhodes Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451388"/>
   </node>
 </osm>

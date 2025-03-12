@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-132" visible="true" lat="44.56039758" lon="-73.04149996">
     <tag k="addr:housenumber" v="67"/>
     <tag k="addr:street" v="Pettingill Road"/>
@@ -36,11 +36,113 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="94439"/>
   </node>
+  <node id="-176" visible="true" lat="44.55214832" lon="-73.07112107">
+    <tag k="addr:housenumber" v="310"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94455"/>
+  </node>
+  <node id="-183" visible="true" lat="44.55071525" lon="-73.07051232">
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94463"/>
+  </node>
+  <node id="-184" visible="true" lat="44.55055933" lon="-73.06940396">
+    <tag k="addr:housenumber" v="301"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94464"/>
+  </node>
+  <node id="-188" visible="true" lat="44.5496915" lon="-73.07269995">
+    <tag k="addr:housenumber" v="290"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94468"/>
+  </node>
+  <node id="-189" visible="true" lat="44.54986953" lon="-73.06912231">
+    <tag k="addr:housenumber" v="297"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94469"/>
+  </node>
+  <node id="-196" visible="true" lat="44.54885482" lon="-73.06925964">
+    <tag k="addr:housenumber" v="291"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94476"/>
+  </node>
+  <node id="-200" visible="true" lat="44.54831773" lon="-73.06939536">
+    <tag k="addr:housenumber" v="285"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94480"/>
+  </node>
+  <node id="-202" visible="true" lat="44.54825052" lon="-73.07183193">
+    <tag k="addr:housenumber" v="282"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94482"/>
+  </node>
+  <node id="-208" visible="true" lat="44.547484" lon="-73.06997543">
+    <tag k="addr:housenumber" v="279"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94488"/>
+  </node>
+  <node id="-210" visible="true" lat="44.54745472" lon="-73.07326539">
+    <tag k="addr:housenumber" v="274"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94490"/>
+  </node>
+  <node id="-219" visible="true" lat="44.54625343" lon="-73.07183723">
+    <tag k="addr:housenumber" v="266"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94499"/>
+  </node>
+  <node id="-222" visible="true" lat="44.54601427" lon="-73.07313247">
+    <tag k="addr:housenumber" v="262"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94502"/>
+  </node>
+  <node id="-225" visible="true" lat="44.54582865" lon="-73.06956422">
+    <tag k="addr:housenumber" v="267"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94505"/>
+  </node>
+  <node id="-233" visible="true" lat="44.54524941" lon="-73.07131709">
+    <tag k="addr:housenumber" v="261"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94513"/>
+  </node>
+  <node id="-234" visible="true" lat="44.54518901" lon="-73.07235831">
+    <tag k="addr:housenumber" v="256"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94514"/>
+  </node>
+  <node id="-241" visible="true" lat="44.5447149" lon="-73.07272166">
+    <tag k="addr:housenumber" v="254"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94521"/>
+  </node>
   <node id="-260" visible="true" lat="44.5437941" lon="-72.98564082">
     <tag k="addr:housenumber" v="91"/>
     <tag k="addr:street" v="Sawmill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="94540"/>
+  </node>
+  <node id="-264" visible="true" lat="44.54295819" lon="-73.07225108">
+    <tag k="addr:housenumber" v="243"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94544"/>
   </node>
   <node id="-611" visible="true" lat="44.52043533" lon="-73.12389373">
     <tag k="addr:housenumber" v="224"/>
@@ -132,17 +234,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="95825"/>
   </node>
-  <node id="-1409" visible="true" lat="44.50823551" lon="-73.08720168">
-    <tag k="addr:housenumber" v="72"/>
+  <node id="-1386" visible="true" lat="44.508685" lon="-73.08499818">
+    <!-- match: "4 Carmichael Street, , VT"  ignoring missing state when matching to "4 Carmichael Street, Essex, " -->
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Carmichael Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95846"/>
+  </node>
+  <node id="-1454" visible="true" lat="44.50736618" lon="-73.08650207">
+    <tag k="addr:housenumber" v="71"/>
     <tag k="addr:street" v="Upper Main Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="95872"/>
+    <tag k="ref:vcgi:esiteid" v="95930"/>
   </node>
-  <node id="-1474" visible="true" lat="44.50688178" lon="-73.13134188">
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Market Place"/>
+  <node id="-1475" visible="true" lat="44.50713469" lon="-73.08387859">
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Essex Way"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="95957"/>
+    <tag k="ref:vcgi:esiteid" v="95959"/>
   </node>
   <node id="-1482" visible="true" lat="44.50672671" lon="-73.14468033">
     <tag k="addr:housenumber" v="1110"/>
@@ -246,6 +355,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="96199"/>
   </node>
+  <node id="-1740" visible="true" lat="44.50509595" lon="-73.08998761">
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Upper Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96267"/>
+  </node>
+  <node id="-2014" visible="true" lat="44.50200652" lon="-73.07907867">
+    <!-- match: "70 Essex Way, , VT"  ignoring missing state when matching to "70 Essex Way, , " -->
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Essex Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96668"/>
+  </node>
+  <node id="-2033" visible="true" lat="44.50160598" lon="-73.07851409">
+    <!-- match: "70 Essex Way, , VT"  ignoring missing state when matching to "70 Essex Way, , " -->
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Essex Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96724"/>
+  </node>
   <node id="-2632" visible="true" lat="44.48433303" lon="-73.08136749">
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="River Road"/>
@@ -288,6 +417,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="100496"/>
   </node>
+  <node id="-2932" visible="true" lat="44.5531505" lon="-73.07022509">
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100616"/>
+  </node>
+  <node id="-2934" visible="true" lat="44.55301327" lon="-73.06846133">
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100618"/>
+  </node>
+  <node id="-2936" visible="true" lat="44.55594782" lon="-73.03885161">
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Pettingill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100620"/>
+  </node>
   <node id="-2947" visible="true" lat="44.50833723" lon="-73.13390688">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="David Drive"/>
@@ -324,6 +471,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="100683"/>
   </node>
+  <node id="-2988" visible="true" lat="44.54269154" lon="-73.07622356">
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100684"/>
+  </node>
+  <node id="-2990" visible="true" lat="44.54426034" lon="-73.0729907">
+    <tag k="addr:housenumber" v="248"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100686"/>
+  </node>
   <node id="-3117" visible="true" lat="44.50059537" lon="-73.08182952">
     <tag k="addr:housenumber" v="73"/>
     <tag k="addr:street" v="Essex Way"/>
@@ -336,11 +495,36 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="100975"/>
   </node>
+  <node id="-3219" visible="true" lat="44.50630339" lon="-73.07974917">
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Essex Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="101230"/>
+  </node>
+  <node id="-3443" visible="true" lat="44.5080598" lon="-73.08562244">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Carmichael Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308360"/>
+  </node>
   <node id="-3741" visible="true" lat="44.5019989" lon="-73.04170121">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Corporate Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="308962"/>
+  </node>
+  <node id="-3945" visible="true" lat="44.50924689" lon="-73.07989364">
+    <!-- match: "22 Carmichael Street, , VT"  ignoring missing state when matching to "22 Carmichael Street, , " -->
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Carmichael Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="330043"/>
+  </node>
+  <node id="-3946" visible="true" lat="44.50771484" lon="-73.07940479">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Essex Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="330044"/>
   </node>
   <node id="-3991" visible="true" lat="44.50878543" lon="-73.08020831">
     <tag k="addr:housenumber" v="21"/>
@@ -348,11 +532,44 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338996"/>
   </node>
+  <node id="-3992" visible="true" lat="44.50874713" lon="-73.08142256">
+    <!-- match: "17 Carmichael Street, , VT"  ignoring missing state when matching to "17 Carmichael Street, , " -->
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Carmichael Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338997"/>
+  </node>
+  <node id="-4048" visible="true" lat="44.5097495" lon="-73.07956873">
+    <!-- match: "20 Carmichael Street, , VT"  ignoring missing state when matching to "20 Carmichael Street, , " -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Carmichael Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449332"/>
+  </node>
+  <node id="-4049" visible="true" lat="44.5095918" lon="-73.08131578">
+    <!-- match: "18 Carmichael Street, , VT"  ignoring missing state when matching to "18 Carmichael Street, , " -->
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Carmichael Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449333"/>
+  </node>
   <node id="-4063" visible="true" lat="44.51520917" lon="-73.03154736">
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:street" v="Weed Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451630"/>
+  </node>
+  <node id="-4083" visible="true" lat="44.55137064" lon="-73.06921413">
+    <tag k="addr:housenumber" v="309"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454050"/>
+  </node>
+  <node id="-4084" visible="true" lat="44.55241968" lon="-73.06874683">
+    <tag k="addr:housenumber" v="313"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454051"/>
   </node>
   <node id="-4096" visible="true" lat="44.52494127" lon="-73.04903934">
     <tag k="addr:housenumber" v="99"/>
@@ -371,6 +588,26 @@
     <tag k="addr:street" v="Thompson Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617745"/>
+  </node>
+  <node id="-4241" visible="true" lat="44.50111876" lon="-73.07898372">
+    <!-- match: "70 Essex Way, , VT"  ignoring missing state when matching to "70 Essex Way, , " -->
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Essex Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754245"/>
+  </node>
+  <node id="-4242" visible="true" lat="44.50102271" lon="-73.07801285">
+    <!-- match: "70 Essex Way, , VT"  ignoring missing state when matching to "70 Essex Way, , " -->
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Essex Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754246"/>
+  </node>
+  <node id="-4251" visible="true" lat="44.50436877" lon="-73.13860527">
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Sunderland Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756105"/>
   </node>
   <node id="-4385" visible="true" lat="44.51134295" lon="-73.0594843">
     <tag k="addr:housenumber" v="1"/>

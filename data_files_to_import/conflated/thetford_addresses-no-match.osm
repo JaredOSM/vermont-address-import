@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.82259295" lon="-72.23189133">
     <tag k="addr:housenumber" v="2774"/>
     <tag k="addr:street" v="Vermont Route 113"/>
@@ -474,18 +474,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259508"/>
   </node>
-  <node id="-1127" visible="true" lat="43.80156364" lon="-72.26680728">
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Lower Cream Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259532"/>
-  </node>
-  <node id="-1131" visible="true" lat="43.80074484" lon="-72.26665928">
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Lower Cream Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259536"/>
-  </node>
   <node id="-1179" visible="true" lat="43.79520886" lon="-72.22451031">
     <tag k="addr:housenumber" v="1445"/>
     <tag k="addr:street" v="Godfrey Road"/>
@@ -575,12 +563,6 @@
     <tag k="addr:street" v="Mud Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259736"/>
-  </node>
-  <node id="-1333" visible="true" lat="43.7874149" lon="-72.25791578">
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Route 132"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259743"/>
   </node>
   <node id="-1340" visible="true" lat="43.82050088" lon="-72.23861639">
     <tag k="addr:housenumber" v="2837"/>
@@ -864,30 +846,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656161"/>
   </node>
-  <node id="-1626" visible="true" lat="43.81621676" lon="-72.2346301">
-    <tag k="addr:housenumber" v="163"/>
-    <tag k="addr:street" v="Panther Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750802"/>
-  </node>
-  <node id="-1627" visible="true" lat="43.81504095" lon="-72.23335107">
-    <tag k="addr:housenumber" v="159"/>
-    <tag k="addr:street" v="Panther Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750803"/>
-  </node>
-  <node id="-1628" visible="true" lat="43.81456547" lon="-72.23165622">
-    <tag k="addr:housenumber" v="160"/>
-    <tag k="addr:street" v="Panther Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750804"/>
-  </node>
-  <node id="-1629" visible="true" lat="43.81610264" lon="-72.23266721">
-    <tag k="addr:housenumber" v="201"/>
-    <tag k="addr:street" v="Panther Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750806"/>
-  </node>
   <node id="-1635" visible="true" lat="43.88431679" lon="-72.2457191">
     <tag k="addr:housenumber" v="418"/>
     <tag k="addr:street" v="Robinson Hill Road"/>
@@ -1115,12 +1073,6 @@
     <tag k="addr:street" v="Mud Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764312"/>
-  </node>
-  <node id="-1689" visible="true" lat="43.83420306" lon="-72.20205407">
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Makalas Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="764344"/>
   </node>
   <node id="-1692" visible="true" lat="43.83325556" lon="-72.19034925">
     <tag k="addr:housenumber" v="4506"/>

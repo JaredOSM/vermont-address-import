@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-292" visible="true" lat="43.72992095" lon="-72.93762155">
+    <!-- conflict: "195 Mountain Top Road, Chittenden, VT" Fuzzy match to "195 Mountain Top Rd, , " -->
+    <tag k="addr:city" v="Chittenden"/>
+    <tag k="addr:housenumber" v="195"/>
+    <tag k="addr:street" v="Mountain Top Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="67756"/>
+  </node>
 </osm>

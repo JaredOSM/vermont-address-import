@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-451" visible="true" lat="44.67358915" lon="-72.92384725">
+    <!-- match: "110 School Road, , VT"  ignoring missing state when matching to "110 School Road, , " -->
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="School Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="108798"/>
+  </node>
+  <node id="-453" visible="true" lat="44.67342772" lon="-72.92397801">
+    <!-- match: "120 School Road, , VT"  ignoring missing state when matching to "120 School Road, , " -->
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="School Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="108800"/>
+  </node>
   <node id="-474" visible="true" lat="44.67040662" lon="-72.92386516">
     <tag k="addr:housenumber" v="340"/>
     <tag k="addr:street" v="School Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="108821"/>
+  </node>
+  <node id="-531" visible="true" lat="44.65043159" lon="-72.91399204">
+    <!-- match: "1266 River Road, , VT"  ignoring missing state when matching to "1266 River Road, , " -->
+    <tag k="addr:housenumber" v="1266"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="108878"/>
   </node>
 </osm>

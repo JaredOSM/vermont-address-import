@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-336" visible="true" lat="44.16762578" lon="-72.65259766">
+    <!-- offset: "35 First Street, , VT" Significant offset - 9764.7m -->
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="First Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="180143"/>
+  </node>
+  <node id="-354" visible="true" lat="44.16731682" lon="-72.6523992">
+    <!-- offset: "16 Second Street, , VT" Significant offset - 9576.8m -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Second Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="180163"/>
+  </node>
+  <node id="-736" visible="true" lat="44.15177792" lon="-72.65809452">
+    <!-- offset: "123 Vine Street, , VT" Significant offset - 620.4m -->
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Vine Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="180582"/>
+  </node>
   <node id="-1210" visible="true" lat="44.13838525" lon="-72.65897648">
-    <!-- offset: "158 Harmon Drive, , VT" Significant offset - 191.4m -->
+    <!-- offset: "158 Harmon Drive, , VT" Significant offset - 189.7m -->
     <tag k="addr:housenumber" v="158"/>
     <tag k="addr:street" v="Harmon Drive"/>
     <tag k="addr:state" v="VT"/>
@@ -13,5 +34,12 @@
     <tag k="addr:street" v="Turkey Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452900"/>
+  </node>
+  <node id="-2172" visible="true" lat="44.09667015" lon="-72.62401794">
+    <!-- offset: "1399 Loop Road, , VT" Significant offset - 603.5m -->
+    <tag k="addr:housenumber" v="1399"/>
+    <tag k="addr:street" v="Loop Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620367"/>
   </node>
 </osm>

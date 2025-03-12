@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-110" visible="true" lat="43.75243601" lon="-72.51767267">
     <!-- conflict: "68 Leonard Road, , VT" No match in OSM, but a different address exists <5m away: "114 Leonard Road, Pomfret, VT" -->
     <tag k="addr:housenumber" v="68"/>
@@ -120,7 +120,7 @@
     <tag k="ref:vcgi:esiteid" v="190623"/>
   </node>
   <node id="-618" visible="true" lat="43.66551681" lon="-72.53799595">
-    <!-- conflict: "2026 Pomfret Road, , VT" No match in OSM, but a different address exists <5m away: " Pomfret Road, South Pomfret, " -->
+    <!-- conflict: "2026 Pomfret Road, , VT" No match in OSM, but a different address exists <5m away: " Pomfret Road, South Pomfret, VT" -->
     <tag k="addr:housenumber" v="2026"/>
     <tag k="addr:street" v="Pomfret Road"/>
     <tag k="addr:state" v="VT"/>

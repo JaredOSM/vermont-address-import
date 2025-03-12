@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-580" visible="true" lat="44.73531921" lon="-73.11417274">
-    <!-- conflict: "4416 Ethan Allen Highway, , VT" Fuzzy match to "4416 Ethan Allen Highway, Georgia, " -->
-    <tag k="addr:housenumber" v="4416"/>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-2075" visible="true" lat="44.69200543" lon="-73.10808605">
+    <!-- conflict: "862 Ethan Allen Highway, , VT" No match in OSM, but a different address exists <5m away: "862,864 Ethan Allen Highway, , " -->
+    <tag k="addr:housenumber" v="862"/>
     <tag k="addr:street" v="Ethan Allen Highway"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="110362"/>
-  </node>
-  <node id="-937" visible="true" lat="44.70693257" lon="-73.10400582">
-    <!-- conflict: "1959 Ethan Allen Highway, , VT" Fuzzy match to "1959 Ethan Allen Highway, Georgia, " -->
-    <tag k="addr:housenumber" v="1959"/>
-    <tag k="addr:street" v="Ethan Allen Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="110725"/>
+    <tag k="ref:vcgi:esiteid" v="451425"/>
   </node>
 </osm>

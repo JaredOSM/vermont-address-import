@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-426" visible="true" lat="44.46054116" lon="-72.01363305">
+    <!-- offset: "2000 Memorial Drive, , VT" Significant offset - 112.1m -->
+    <tag k="addr:housenumber" v="2000"/>
+    <tag k="addr:street" v="Memorial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="244580"/>
+  </node>
   <node id="-552" visible="true" lat="44.45383523" lon="-72.01476516">
     <!-- offset: "81 Hill Street, , VT" Significant offset - 8860.1m -->
     <tag k="addr:housenumber" v="81"/>

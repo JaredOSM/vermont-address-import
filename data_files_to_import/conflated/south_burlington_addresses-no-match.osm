@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-100" visible="true" lat="44.45316118" lon="-73.1591939">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Laurentide Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="286"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="44.45980253" lon="-73.18840758">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="504"/>
@@ -4039,13 +4032,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="227677"/>
   </node>
-  <node id="-737" visible="true" lat="44.46861044" lon="-73.1766966">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="1184"/>
-    <tag k="addr:street" v="Williston Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="227678"/>
-  </node>
   <node id="-738" visible="true" lat="44.46861648" lon="-73.1592102">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="16"/>
@@ -4900,13 +4886,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="227849"/>
   </node>
-  <node id="-874" visible="true" lat="44.4671907" lon="-73.17434338">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="1251"/>
-    <tag k="addr:street" v="Williston Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="227850"/>
-  </node>
   <node id="-875" visible="true" lat="44.46736205" lon="-73.15864982">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="15"/>
@@ -5088,13 +5067,6 @@
     <tag k="addr:street" v="Pine Tree Terrace"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="227882"/>
-  </node>
-  <node id="-905" visible="true" lat="44.46682616" lon="-73.17303415">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="1285"/>
-    <tag k="addr:street" v="Williston Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="227883"/>
   </node>
   <node id="-906" visible="true" lat="44.46702775" lon="-73.15714969">
     <tag k="addr:city" v="South Burlington"/>
@@ -7462,13 +7434,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228307"/>
   </node>
-  <node id="-1261" visible="true" lat="44.46327989" lon="-73.1484211">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Customs Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="228308"/>
-  </node>
   <node id="-1262" visible="true" lat="44.46328417" lon="-73.15717737">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="1705"/>
@@ -7538,13 +7503,6 @@
     <tag k="addr:street" v="Victoria Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228319"/>
-  </node>
-  <node id="-1272" visible="true" lat="44.46289099" lon="-73.18152978">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="225"/>
-    <tag k="addr:street" v="Dorset Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="228320"/>
   </node>
   <node id="-1273" visible="true" lat="44.46303282" lon="-73.15594904">
     <tag k="addr:city" v="South Burlington"/>
@@ -9254,13 +9212,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228598"/>
   </node>
-  <node id="-1523" visible="true" lat="44.46022033" lon="-73.14963531">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="1961"/>
-    <tag k="addr:street" v="Williston Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="228599"/>
-  </node>
   <node id="-1524" visible="true" lat="44.46011473" lon="-73.17376022">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="10"/>
@@ -9953,13 +9904,6 @@
     <tag k="addr:street" v="Millham Court"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228715"/>
-  </node>
-  <node id="-1623" visible="true" lat="44.45951569" lon="-73.14645792">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="2026"/>
-    <tag k="addr:street" v="Williston Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="228716"/>
   </node>
   <node id="-1624" visible="true" lat="44.45928286" lon="-73.17309922">
     <tag k="addr:city" v="South Burlington"/>
@@ -11179,13 +11123,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228942"/>
   </node>
-  <node id="-1810" visible="true" lat="44.45710363" lon="-73.16148274">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="228943"/>
-  </node>
   <node id="-1811" visible="true" lat="44.45686555" lon="-73.18347396">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="115"/>
@@ -11235,13 +11172,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228951"/>
   </node>
-  <node id="-1818" visible="true" lat="44.45699811" lon="-73.16206221">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="228953"/>
-  </node>
   <node id="-1819" visible="true" lat="44.45712593" lon="-73.14248946">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="10"/>
@@ -11256,26 +11186,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228958"/>
   </node>
-  <node id="-1821" visible="true" lat="44.45684111" lon="-73.16288935">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="228959"/>
-  </node>
   <node id="-1822" visible="true" lat="44.45695956" lon="-73.14821337">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="102"/>
     <tag k="addr:street" v="Kimball Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228962"/>
-  </node>
-  <node id="-1823" visible="true" lat="44.45695176" lon="-73.15944047">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="175"/>
-    <tag k="addr:street" v="Kennedy Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="228963"/>
   </node>
   <node id="-1824" visible="true" lat="44.45661729" lon="-73.16967513">
     <tag k="addr:city" v="South Burlington"/>
@@ -11368,13 +11284,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228977"/>
   </node>
-  <node id="-1838" visible="true" lat="44.45663123" lon="-73.16397657">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="228979"/>
-  </node>
   <node id="-1839" visible="true" lat="44.45668028" lon="-73.13823619">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="5"/>
@@ -11403,13 +11312,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228984"/>
   </node>
-  <node id="-1843" visible="true" lat="44.4566086" lon="-73.16198554">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="228985"/>
-  </node>
   <node id="-1844" visible="true" lat="44.45669263" lon="-73.13714855">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="6"/>
@@ -11430,13 +11332,6 @@
     <tag k="addr:street" v="Spear Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228992"/>
-  </node>
-  <node id="-1847" visible="true" lat="44.45633396" lon="-73.16320699">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="228993"/>
   </node>
   <node id="-1848" visible="true" lat="44.45626985" lon="-73.16881235">
     <tag k="addr:city" v="South Burlington"/>
@@ -11472,13 +11367,6 @@
     <tag k="addr:street" v="Shunpike Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229001"/>
-  </node>
-  <node id="-1853" visible="true" lat="44.45615752" lon="-73.1642177">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229004"/>
   </node>
   <node id="-1854" visible="true" lat="44.45581308" lon="-73.18165362">
     <tag k="addr:city" v="South Burlington"/>
@@ -11536,13 +11424,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229015"/>
   </node>
-  <node id="-1862" visible="true" lat="44.45593735" lon="-73.16440493">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229016"/>
-  </node>
   <node id="-1863" visible="true" lat="44.45551332" lon="-73.17981944">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="435"/>
@@ -11571,13 +11452,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229022"/>
   </node>
-  <node id="-1867" visible="true" lat="44.4555472" lon="-73.16168327">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Kennedy Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229024"/>
-  </node>
   <node id="-1868" visible="true" lat="44.4556963" lon="-73.13891848">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="11"/>
@@ -11605,13 +11479,6 @@
     <tag k="addr:street" v="Kennedy Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229028"/>
-  </node>
-  <node id="-1872" visible="true" lat="44.45559739" lon="-73.16304554">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Kennedy Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229029"/>
   </node>
   <node id="-1873" visible="true" lat="44.45545829" lon="-73.16812985">
     <tag k="addr:city" v="South Burlington"/>
@@ -11647,20 +11514,6 @@
     <tag k="addr:street" v="Dorset Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229036"/>
-  </node>
-  <node id="-1878" visible="true" lat="44.45537403" lon="-73.16377529">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="140"/>
-    <tag k="addr:street" v="Kennedy Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229037"/>
-  </node>
-  <node id="-1879" visible="true" lat="44.45524247" lon="-73.16226138">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Kennedy Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229039"/>
   </node>
   <node id="-1880" visible="true" lat="44.45502594" lon="-73.20573404">
     <tag k="addr:city" v="South Burlington"/>
@@ -11732,13 +11585,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229054"/>
   </node>
-  <node id="-1891" visible="true" lat="44.45481409" lon="-73.20696431">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229055"/>
-  </node>
   <node id="-1892" visible="true" lat="44.45471046" lon="-73.20554308">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="42"/>
@@ -11774,27 +11620,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229064"/>
   </node>
-  <node id="-1897" visible="true" lat="44.45492935" lon="-73.16500854">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="620"/>
-    <tag k="addr:street" v="Hinesburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229065"/>
-  </node>
-  <node id="-1898" visible="true" lat="44.45477293" lon="-73.20621423">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229066"/>
-  </node>
-  <node id="-1899" visible="true" lat="44.45466782" lon="-73.20580175">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229067"/>
-  </node>
   <node id="-1900" visible="true" lat="44.45473442" lon="-73.1806551">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="435"/>
@@ -11816,13 +11641,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229071"/>
   </node>
-  <node id="-1903" visible="true" lat="44.45466613" lon="-73.2046585">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229072"/>
-  </node>
   <node id="-1904" visible="true" lat="44.45466765" lon="-73.20493875">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="46"/>
@@ -11836,20 +11654,6 @@
     <tag k="addr:street" v="Holt Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229076"/>
-  </node>
-  <node id="-1906" visible="true" lat="44.45455165" lon="-73.20289511">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229078"/>
-  </node>
-  <node id="-1907" visible="true" lat="44.45463579" lon="-73.2043799">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229079"/>
   </node>
   <node id="-1908" visible="true" lat="44.45505853" lon="-73.14172739">
     <tag k="addr:city" v="South Burlington"/>
@@ -11872,13 +11676,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229083"/>
   </node>
-  <node id="-1911" visible="true" lat="44.45481651" lon="-73.16222286">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Kennedy Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229084"/>
-  </node>
   <node id="-1912" visible="true" lat="44.45460965" lon="-73.20409397">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="52"/>
@@ -11892,34 +11689,6 @@
     <tag k="addr:street" v="South Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229086"/>
-  </node>
-  <node id="-1914" visible="true" lat="44.45463038" lon="-73.20377751">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229087"/>
-  </node>
-  <node id="-1915" visible="true" lat="44.45455395" lon="-73.20264595">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229088"/>
-  </node>
-  <node id="-1916" visible="true" lat="44.45458676" lon="-73.20351414">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229090"/>
-  </node>
-  <node id="-1917" visible="true" lat="44.45456122" lon="-73.20319686">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229091"/>
   </node>
   <node id="-1918" visible="true" lat="44.45474918" lon="-73.14616949">
     <tag k="addr:city" v="South Burlington"/>
@@ -11935,26 +11704,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229093"/>
   </node>
-  <node id="-1920" visible="true" lat="44.45452534" lon="-73.20232098">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229094"/>
-  </node>
   <node id="-1921" visible="true" lat="44.45443538" lon="-73.20712404">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="Proctor Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229095"/>
-  </node>
-  <node id="-1922" visible="true" lat="44.45448131" lon="-73.20778662">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229096"/>
   </node>
   <node id="-1923" visible="true" lat="44.45471109" lon="-73.13982004">
     <tag k="addr:city" v="South Burlington"/>
@@ -11970,13 +11725,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229098"/>
   </node>
-  <node id="-1925" visible="true" lat="44.45445378" lon="-73.20738559">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229099"/>
-  </node>
   <node id="-1928" visible="true" lat="44.45439594" lon="-73.2064604">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="33"/>
@@ -11990,13 +11738,6 @@
     <tag k="addr:street" v="South Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229104"/>
-  </node>
-  <node id="-1930" visible="true" lat="44.45466902" lon="-73.16296436">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Kennedy Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229105"/>
   </node>
   <node id="-1932" visible="true" lat="44.45437985" lon="-73.20624319">
     <tag k="addr:city" v="South Burlington"/>
@@ -12026,13 +11767,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229110"/>
   </node>
-  <node id="-1936" visible="true" lat="44.4545796" lon="-73.16339992">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Kennedy Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229111"/>
-  </node>
   <node id="-1937" visible="true" lat="44.45433998" lon="-73.2050473">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="45"/>
@@ -12061,13 +11795,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229115"/>
   </node>
-  <node id="-1942" visible="true" lat="44.4543457" lon="-73.20036315">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="123"/>
-    <tag k="addr:street" v="Fairmont Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229117"/>
-  </node>
   <node id="-1943" visible="true" lat="44.4543457" lon="-73.19989013">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="122"/>
@@ -12089,33 +11816,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229120"/>
   </node>
-  <node id="-1946" visible="true" lat="44.45464584" lon="-73.16160413">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Kennedy Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229122"/>
-  </node>
-  <node id="-1947" visible="true" lat="44.45425814" lon="-73.20409362">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229123"/>
-  </node>
   <node id="-1948" visible="true" lat="44.45420228" lon="-73.20714876">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Appletree Court"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229125"/>
-  </node>
-  <node id="-1949" visible="true" lat="44.45424305" lon="-73.20391412">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229126"/>
   </node>
   <node id="-1950" visible="true" lat="44.45428773" lon="-73.1988573">
     <tag k="addr:city" v="South Burlington"/>
@@ -12152,20 +11858,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229132"/>
   </node>
-  <node id="-1956" visible="true" lat="44.45401566" lon="-73.20335239">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Meadow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229133"/>
-  </node>
-  <node id="-1957" visible="true" lat="44.45407087" lon="-73.20298683">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Meadow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229134"/>
-  </node>
   <node id="-1958" visible="true" lat="44.45409631" lon="-73.20441451">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="10"/>
@@ -12179,13 +11871,6 @@
     <tag k="addr:street" v="Birchwood Court"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229138"/>
-  </node>
-  <node id="-1960" visible="true" lat="44.45438613" lon="-73.15552835">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="200"/>
-    <tag k="addr:street" v="Old Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229139"/>
   </node>
   <node id="-1961" visible="true" lat="44.45403289" lon="-73.20568084">
     <tag k="addr:city" v="South Burlington"/>
@@ -12222,20 +11907,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229145"/>
   </node>
-  <node id="-1966" visible="true" lat="44.45419474" lon="-73.1624541">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="630"/>
-    <tag k="addr:street" v="Hinesburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229146"/>
-  </node>
-  <node id="-1967" visible="true" lat="44.45414694" lon="-73.16302226">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="630"/>
-    <tag k="addr:street" v="Hinesburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229147"/>
-  </node>
   <node id="-1969" visible="true" lat="44.45390626" lon="-73.20658352">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="18"/>
@@ -12263,27 +11934,6 @@
     <tag k="addr:street" v="Birchwood Court"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229154"/>
-  </node>
-  <node id="-1973" visible="true" lat="44.45388412" lon="-73.20353698">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Meadow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229155"/>
-  </node>
-  <node id="-1974" visible="true" lat="44.4538903" lon="-73.15517729">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="198"/>
-    <tag k="addr:street" v="Old Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229156"/>
-  </node>
-  <node id="-1975" visible="true" lat="44.4538536" lon="-73.20303344">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Meadow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229158"/>
   </node>
   <node id="-1976" visible="true" lat="44.45386287" lon="-73.20490668">
     <tag k="addr:city" v="South Burlington"/>
@@ -12334,20 +11984,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229165"/>
   </node>
-  <node id="-1983" visible="true" lat="44.45396834" lon="-73.16196632">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="630"/>
-    <tag k="addr:street" v="Hinesburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229166"/>
-  </node>
-  <node id="-1984" visible="true" lat="44.45367374" lon="-73.2034671">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Meadow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229170"/>
-  </node>
   <node id="-1985" visible="true" lat="44.45370364" lon="-73.20488003">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="21"/>
@@ -12368,13 +12004,6 @@
     <tag k="addr:street" v="Gregory Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229174"/>
-  </node>
-  <node id="-1988" visible="true" lat="44.4536013" lon="-73.20303268">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Meadow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229176"/>
   </node>
   <node id="-1989" visible="true" lat="44.45420363" lon="-73.14183355">
     <tag k="addr:city" v="South Burlington"/>
@@ -12418,33 +12047,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229185"/>
   </node>
-  <node id="-1995" visible="true" lat="44.45377494" lon="-73.16308032">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="630"/>
-    <tag k="addr:street" v="Hinesburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229186"/>
-  </node>
-  <node id="-1996" visible="true" lat="44.45370755" lon="-73.16252434">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="630"/>
-    <tag k="addr:street" v="Hinesburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229187"/>
-  </node>
   <node id="-1997" visible="true" lat="44.45351979" lon="-73.16660042">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="Timber Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229188"/>
-  </node>
-  <node id="-1998" visible="true" lat="44.45351666" lon="-73.20352352">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Meadow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229189"/>
   </node>
   <node id="-1999" visible="true" lat="44.45352882" lon="-73.20822644">
     <tag k="addr:city" v="South Burlington"/>
@@ -12460,26 +12068,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229192"/>
   </node>
-  <node id="-2001" visible="true" lat="44.45360734" lon="-73.16179757">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="630"/>
-    <tag k="addr:street" v="Hinesburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229193"/>
-  </node>
   <node id="-2002" visible="true" lat="44.45346242" lon="-73.20406079">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="Meadow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229194"/>
-  </node>
-  <node id="-2003" visible="true" lat="44.45337206" lon="-73.20304604">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:street" v="Meadow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229195"/>
   </node>
   <node id="-2004" visible="true" lat="44.4533221" lon="-73.20454164">
     <tag k="addr:city" v="South Burlington"/>
@@ -12537,13 +12131,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229209"/>
   </node>
-  <node id="-2012" visible="true" lat="44.45312674" lon="-73.20302089">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="Meadow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229210"/>
-  </node>
   <node id="-2013" visible="true" lat="44.45315323" lon="-73.20358069">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="39"/>
@@ -12571,13 +12158,6 @@
     <tag k="addr:street" v="White Place"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229214"/>
-  </node>
-  <node id="-2017" visible="true" lat="44.45323332" lon="-73.16220592">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="638"/>
-    <tag k="addr:street" v="Hinesburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229215"/>
   </node>
   <node id="-2018" visible="true" lat="44.45315847" lon="-73.20609878">
     <tag k="addr:city" v="South Burlington"/>
@@ -12740,13 +12320,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229245"/>
   </node>
-  <node id="-2042" visible="true" lat="44.45287924" lon="-73.20309437">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Meadow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229246"/>
-  </node>
   <node id="-2043" visible="true" lat="44.45305681" lon="-73.16619782">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="52"/>
@@ -12781,13 +12354,6 @@
     <tag k="addr:street" v="Orchard Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229253"/>
-  </node>
-  <node id="-2050" visible="true" lat="44.45259976" lon="-73.20309133">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:street" v="Meadow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229255"/>
   </node>
   <node id="-2051" visible="true" lat="44.45265048" lon="-73.16777205">
     <tag k="addr:city" v="South Burlington"/>
@@ -12830,13 +12396,6 @@
     <tag k="addr:street" v="Kennedy Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229262"/>
-  </node>
-  <node id="-2057" visible="true" lat="44.45269104" lon="-73.15681922">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="105"/>
-    <tag k="addr:street" v="Old Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229264"/>
   </node>
   <node id="-2058" visible="true" lat="44.45241782" lon="-73.20364474">
     <tag k="addr:city" v="South Burlington"/>
@@ -12935,13 +12494,6 @@
     <tag k="addr:street" v="Chelsea Circle"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229285"/>
-  </node>
-  <node id="-2072" visible="true" lat="44.45236937" lon="-73.15678402">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="Old Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229287"/>
   </node>
   <node id="-2073" visible="true" lat="44.45229457" lon="-73.19581622">
     <tag k="addr:city" v="South Burlington"/>
@@ -13090,13 +12642,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229313"/>
   </node>
-  <node id="-2095" visible="true" lat="44.45194404" lon="-73.20632623">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Hadley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229314"/>
-  </node>
   <node id="-2096" visible="true" lat="44.45195382" lon="-73.20654526">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="65"/>
@@ -13132,26 +12677,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229321"/>
   </node>
-  <node id="-2101" visible="true" lat="44.45183146" lon="-73.2049852">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="99"/>
-    <tag k="addr:street" v="Hadley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229322"/>
-  </node>
   <node id="-2102" visible="true" lat="44.45198988" lon="-73.16518659">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:street" v="Chelsea Circle"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229324"/>
-  </node>
-  <node id="-2103" visible="true" lat="44.45183429" lon="-73.20473347">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="Hadley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229325"/>
   </node>
   <node id="-2104" visible="true" lat="44.45188694" lon="-73.17959647">
     <tag k="addr:city" v="South Burlington"/>
@@ -13216,20 +12747,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229335"/>
   </node>
-  <node id="-2113" visible="true" lat="44.45174148" lon="-73.20358673">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Hadley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229336"/>
-  </node>
-  <node id="-2114" visible="true" lat="44.45198651" lon="-73.15695507">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Old Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229338"/>
-  </node>
   <node id="-2115" visible="true" lat="44.45191542" lon="-73.16426457">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="6"/>
@@ -13258,13 +12775,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229343"/>
   </node>
-  <node id="-2119" visible="true" lat="44.45210963" lon="-73.15610564">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="Old Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229344"/>
-  </node>
   <node id="-2120" visible="true" lat="44.45179512" lon="-73.17243508">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="142"/>
@@ -13292,13 +12802,6 @@
     <tag k="addr:street" v="Shelburne Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229348"/>
-  </node>
-  <node id="-2124" visible="true" lat="44.45178424" lon="-73.1589895">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="660"/>
-    <tag k="addr:street" v="Hinesburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229350"/>
   </node>
   <node id="-2125" visible="true" lat="44.45160356" lon="-73.1793588">
     <tag k="addr:city" v="South Burlington"/>
@@ -13440,13 +12943,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229379"/>
   </node>
-  <node id="-2145" visible="true" lat="44.45146942" lon="-73.15570395">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="Old Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229380"/>
-  </node>
   <node id="-2146" visible="true" lat="44.45145113" lon="-73.16212824">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="168"/>
@@ -13545,13 +13041,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229396"/>
   </node>
-  <node id="-2160" visible="true" lat="44.45127308" lon="-73.15707779">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Old Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229397"/>
-  </node>
   <node id="-2161" visible="true" lat="44.45135951" lon="-73.1603244">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="14"/>
@@ -13614,13 +13103,6 @@
     <tag k="addr:street" v="Dover Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229411"/>
-  </node>
-  <node id="-2171" visible="true" lat="44.45121257" lon="-73.1585467">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="666"/>
-    <tag k="addr:street" v="Hinesburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229412"/>
   </node>
   <node id="-2172" visible="true" lat="44.45107244" lon="-73.1659323">
     <tag k="addr:city" v="South Burlington"/>
@@ -13972,13 +13454,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229475"/>
   </node>
-  <node id="-2223" visible="true" lat="44.45060517" lon="-73.15635562">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Old Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229476"/>
-  </node>
   <node id="-2224" visible="true" lat="44.4504858" lon="-73.1703248">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="72"/>
@@ -14231,13 +13706,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229529"/>
   </node>
-  <node id="-2263" visible="true" lat="44.44876428" lon="-73.20809437">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="580"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229530"/>
-  </node>
   <node id="-2264" visible="true" lat="44.44966191" lon="-73.15872744">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="14"/>
@@ -14265,13 +13733,6 @@
     <tag k="addr:street" v="Derby Circle"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229534"/>
-  </node>
-  <node id="-2268" visible="true" lat="44.44925404" lon="-73.15703342">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Tilley Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229538"/>
   </node>
   <node id="-2269" visible="true" lat="44.44963153" lon="-73.14437284">
     <tag k="addr:city" v="South Burlington"/>
@@ -14931,13 +14392,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229651"/>
   </node>
-  <node id="-2363" visible="true" lat="44.44653697" lon="-73.20737151">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Swift Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229652"/>
-  </node>
   <node id="-2364" visible="true" lat="44.44653496" lon="-73.1683113">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="2204"/>
@@ -14979,13 +14433,6 @@
     <tag k="addr:street" v="Brand Farm Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229663"/>
-  </node>
-  <node id="-2370" visible="true" lat="44.44638882" lon="-73.20537908">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Farrell Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229664"/>
   </node>
   <node id="-2371" visible="true" lat="44.44656885" lon="-73.17130577">
     <tag k="addr:city" v="South Burlington"/>
@@ -15070,13 +14517,6 @@
     <tag k="addr:street" v="Brand Farm Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229682"/>
-  </node>
-  <node id="-2385" visible="true" lat="44.44601896" lon="-73.20747179">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Swift Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229684"/>
   </node>
   <node id="-2386" visible="true" lat="44.44604693" lon="-73.18223565">
     <tag k="addr:city" v="South Burlington"/>
@@ -17129,13 +16569,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="230082"/>
   </node>
-  <node id="-2706" visible="true" lat="44.44129706" lon="-73.20952277">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="1000"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="230083"/>
-  </node>
   <node id="-2707" visible="true" lat="44.44138076" lon="-73.20423157">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="52"/>
@@ -19089,13 +18522,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="230412"/>
   </node>
-  <node id="-2994" visible="true" lat="44.43763058" lon="-73.21083901">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="1125"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="230413"/>
-  </node>
   <node id="-2995" visible="true" lat="44.43757456" lon="-73.19574327">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="B9"/>
@@ -19642,13 +19068,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="230501"/>
   </node>
-  <node id="-3073" visible="true" lat="44.43695302" lon="-73.20980091">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="1184"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="230502"/>
-  </node>
   <node id="-3074" visible="true" lat="44.43693864" lon="-73.20803179">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="26"/>
@@ -20166,13 +19585,6 @@
     <tag k="addr:street" v="Knoll Circle"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="230583"/>
-  </node>
-  <node id="-3148" visible="true" lat="44.43625125" lon="-73.21005552">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="1210"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="230584"/>
   </node>
   <node id="-3149" visible="true" lat="44.43614447" lon="-73.19752089">
     <tag k="addr:city" v="South Burlington"/>
@@ -23128,13 +22540,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="231120"/>
   </node>
-  <node id="-3607" visible="true" lat="44.4300676" lon="-73.20697027">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Green Mountain Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="231121"/>
-  </node>
   <node id="-3608" visible="true" lat="44.43010279" lon="-73.19193767">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="74"/>
@@ -25424,13 +24829,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="231560"/>
   </node>
-  <node id="-3961" visible="true" lat="44.44000072" lon="-73.20885817">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="1030"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="231564"/>
-  </node>
   <node id="-3963" visible="true" lat="44.43976113" lon="-73.20768205">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="2"/>
@@ -26362,26 +25760,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="231728"/>
   </node>
-  <node id="-4106" visible="true" lat="44.46236002" lon="-73.18299343">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="215"/>
-    <tag k="addr:street" v="Dorset Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="231730"/>
-  </node>
   <node id="-4108" visible="true" lat="44.46718756" lon="-73.18196037">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Dorset Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="231732"/>
-  </node>
-  <node id="-4109" visible="true" lat="44.46352267" lon="-73.18112299">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Dorset Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="231733"/>
   </node>
   <node id="-4110" visible="true" lat="44.4636795" lon="-73.18114351">
     <tag k="addr:city" v="South Burlington"/>
@@ -32998,335 +32382,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="232733"/>
   </node>
-  <node id="-5071" visible="true" lat="44.45307584" lon="-73.16049203">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232734"/>
-  </node>
-  <node id="-5072" visible="true" lat="44.45309619" lon="-73.16056436">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232735"/>
-  </node>
-  <node id="-5073" visible="true" lat="44.45312636" lon="-73.1606977">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232736"/>
-  </node>
-  <node id="-5074" visible="true" lat="44.45315346" lon="-73.16077762">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232737"/>
-  </node>
-  <node id="-5075" visible="true" lat="44.45320074" lon="-73.16109316">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232738"/>
-  </node>
-  <node id="-5076" visible="true" lat="44.45326706" lon="-73.16105616">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232739"/>
-  </node>
-  <node id="-5077" visible="true" lat="44.45333884" lon="-73.1610257">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232740"/>
-  </node>
-  <node id="-5078" visible="true" lat="44.45343432" lon="-73.16094636">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232741"/>
-  </node>
-  <node id="-5079" visible="true" lat="44.45350547" lon="-73.16089753">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232742"/>
-  </node>
-  <node id="-5080" visible="true" lat="44.45355716" lon="-73.16083257">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232743"/>
-  </node>
-  <node id="-5081" visible="true" lat="44.45361885" lon="-73.1607728">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232744"/>
-  </node>
-  <node id="-5082" visible="true" lat="44.45374396" lon="-73.16068682">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232745"/>
-  </node>
-  <node id="-5083" visible="true" lat="44.45378782" lon="-73.16061339">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="110"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232746"/>
-  </node>
-  <node id="-5084" visible="true" lat="44.45383521" lon="-73.16053422">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="120"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232747"/>
-  </node>
-  <node id="-5085" visible="true" lat="44.45386045" lon="-73.16045534">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="122"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232748"/>
-  </node>
-  <node id="-5086" visible="true" lat="44.45356767" lon="-73.16032793">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="158"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232749"/>
-  </node>
-  <node id="-5087" visible="true" lat="44.45353234" lon="-73.16027078">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="160"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232750"/>
-  </node>
-  <node id="-5088" visible="true" lat="44.45348822" lon="-73.16019517">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="168"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232751"/>
-  </node>
-  <node id="-5089" visible="true" lat="44.45344295" lon="-73.16012041">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="170"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232752"/>
-  </node>
-  <node id="-5090" visible="true" lat="44.45277633" lon="-73.16120174">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232753"/>
-  </node>
-  <node id="-5091" visible="true" lat="44.45277492" lon="-73.16130321">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232754"/>
-  </node>
-  <node id="-5092" visible="true" lat="44.45279587" lon="-73.16143028">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232755"/>
-  </node>
-  <node id="-5093" visible="true" lat="44.45285484" lon="-73.16163199">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232756"/>
-  </node>
-  <node id="-5094" visible="true" lat="44.45289974" lon="-73.16169334">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232757"/>
-  </node>
-  <node id="-5095" visible="true" lat="44.45294068" lon="-73.16175465">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232758"/>
-  </node>
-  <node id="-5096" visible="true" lat="44.45315632" lon="-73.16168552">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232759"/>
-  </node>
-  <node id="-5097" visible="true" lat="44.45321462" lon="-73.16164003">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232760"/>
-  </node>
-  <node id="-5098" visible="true" lat="44.45330085" lon="-73.16157749">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232761"/>
-  </node>
-  <node id="-5099" visible="true" lat="44.45335533" lon="-73.16152534">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232762"/>
-  </node>
-  <node id="-5100" visible="true" lat="44.45379626" lon="-73.16128042">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="89"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232763"/>
-  </node>
-  <node id="-5101" visible="true" lat="44.45384893" lon="-73.16122126">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="91"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232764"/>
-  </node>
-  <node id="-5102" visible="true" lat="44.45390061" lon="-73.16115772">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="99"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232765"/>
-  </node>
-  <node id="-5103" visible="true" lat="44.45394497" lon="-73.16110321">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="101"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232766"/>
-  </node>
-  <node id="-5104" visible="true" lat="44.45415393" lon="-73.16072461">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="117"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232767"/>
-  </node>
-  <node id="-5105" visible="true" lat="44.45413182" lon="-73.16060571">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232768"/>
-  </node>
-  <node id="-5106" visible="true" lat="44.45367092" lon="-73.15982177">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="169"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232769"/>
-  </node>
-  <node id="-5107" visible="true" lat="44.45371471" lon="-73.15988834">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="167"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232770"/>
-  </node>
-  <node id="-5108" visible="true" lat="44.45384288" lon="-73.16001313">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232771"/>
-  </node>
-  <node id="-5109" visible="true" lat="44.45390027" lon="-73.16003456">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="145"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232772"/>
-  </node>
-  <node id="-5110" visible="true" lat="44.45396003" lon="-73.16005601">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="143"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232773"/>
-  </node>
-  <node id="-5111" visible="true" lat="44.4540237" lon="-73.15960798">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="141"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232774"/>
-  </node>
-  <node id="-5112" visible="true" lat="44.45408278" lon="-73.15961455">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="139"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232775"/>
-  </node>
-  <node id="-5113" visible="true" lat="44.45413954" lon="-73.15961983">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="137"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232776"/>
-  </node>
-  <node id="-5114" visible="true" lat="44.45430369" lon="-73.15979198">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="135"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232777"/>
-  </node>
-  <node id="-5115" visible="true" lat="44.45430713" lon="-73.15985693">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232778"/>
-  </node>
-  <node id="-5116" visible="true" lat="44.45430617" lon="-73.1599929">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="131"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232779"/>
-  </node>
-  <node id="-5117" visible="true" lat="44.45430891" lon="-73.16005328">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="129"/>
-    <tag k="addr:street" v="Stonington Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232780"/>
-  </node>
   <node id="-5118" visible="true" lat="44.45476099" lon="-73.1446488">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="110"/>
@@ -34607,13 +33662,6 @@
     <tag k="addr:street" v="Hadley Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="232971"/>
-  </node>
-  <node id="-5304" visible="true" lat="44.4519405" lon="-73.20623027">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Hadley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232972"/>
   </node>
   <node id="-5305" visible="true" lat="44.45193531" lon="-73.20593847">
     <tag k="addr:city" v="South Burlington"/>
@@ -36302,20 +35350,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233220"/>
   </node>
-  <node id="-5551" visible="true" lat="44.45570289" lon="-73.16048039">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="99"/>
-    <tag k="addr:street" v="Eldredge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233221"/>
-  </node>
-  <node id="-5552" visible="true" lat="44.45523391" lon="-73.1596694">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="101"/>
-    <tag k="addr:street" v="Eldredge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233222"/>
-  </node>
   <node id="-5553" visible="true" lat="44.48404975" lon="-73.1472087">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="10"/>
@@ -37736,13 +36770,6 @@
     <tag k="addr:street" v="Appletree Court"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="309607"/>
-  </node>
-  <node id="-5760" visible="true" lat="44.45447714" lon="-73.20771897">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Proctor Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="309608"/>
   </node>
   <node id="-5761" visible="true" lat="44.45373776" lon="-73.20450974">
     <tag k="addr:city" v="South Burlington"/>
@@ -41916,538 +40943,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310392"/>
   </node>
-  <node id="-6357" visible="true" lat="44.45702321" lon="-73.16184299">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310399"/>
-  </node>
-  <node id="-6358" visible="true" lat="44.45709258" lon="-73.16153272">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310400"/>
-  </node>
-  <node id="-6359" visible="true" lat="44.45708495" lon="-73.16157391">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310401"/>
-  </node>
-  <node id="-6360" visible="true" lat="44.45707513" lon="-73.16162835">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310402"/>
-  </node>
-  <node id="-6361" visible="true" lat="44.45706428" lon="-73.16167982">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310403"/>
-  </node>
-  <node id="-6362" visible="true" lat="44.4570481" lon="-73.16173861">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310404"/>
-  </node>
-  <node id="-6363" visible="true" lat="44.45703515" lon="-73.16178711">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310405"/>
-  </node>
-  <node id="-6364" visible="true" lat="44.45698921" lon="-73.162108">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310406"/>
-  </node>
-  <node id="-6365" visible="true" lat="44.45697944" lon="-73.16215358">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310407"/>
-  </node>
-  <node id="-6366" visible="true" lat="44.45696756" lon="-73.16219915">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310408"/>
-  </node>
-  <node id="-6367" visible="true" lat="44.45695566" lon="-73.16224914">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310409"/>
-  </node>
-  <node id="-6368" visible="true" lat="44.45694586" lon="-73.16230063">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310410"/>
-  </node>
-  <node id="-6369" visible="true" lat="44.45693501" lon="-73.16235062">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310411"/>
-  </node>
-  <node id="-6370" visible="true" lat="44.45691882" lon="-73.16241236">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310412"/>
-  </node>
-  <node id="-6371" visible="true" lat="44.45659839" lon="-73.16204608">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310413"/>
-  </node>
-  <node id="-6372" visible="true" lat="44.45659276" lon="-73.16210646">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310414"/>
-  </node>
-  <node id="-6373" visible="true" lat="44.45658402" lon="-73.16215649">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310415"/>
-  </node>
-  <node id="-6374" visible="true" lat="44.45657316" lon="-73.16220796">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310416"/>
-  </node>
-  <node id="-6375" visible="true" lat="44.4565644" lon="-73.16226241">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310417"/>
-  </node>
-  <node id="-6376" visible="true" lat="44.45657048" lon="-73.1623067">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310418"/>
-  </node>
-  <node id="-6377" visible="true" lat="44.4565607" lon="-73.16235376">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310419"/>
-  </node>
-  <node id="-6378" visible="true" lat="44.45655304" lon="-73.16240085">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310420"/>
-  </node>
-  <node id="-6379" visible="true" lat="44.45654112" lon="-73.16245379">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310421"/>
-  </node>
-  <node id="-6380" visible="true" lat="44.45653762" lon="-73.16251124">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310422"/>
-  </node>
-  <node id="-6381" visible="true" lat="44.45652678" lon="-73.16255977">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310423"/>
-  </node>
-  <node id="-6382" visible="true" lat="44.45683074" lon="-73.16294499">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310424"/>
-  </node>
-  <node id="-6383" visible="true" lat="44.45682094" lon="-73.16299647">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310425"/>
-  </node>
-  <node id="-6384" visible="true" lat="44.45680683" lon="-73.16306265">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310426"/>
-  </node>
-  <node id="-6385" visible="true" lat="44.45679056" lon="-73.16313618">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310427"/>
-  </node>
-  <node id="-6386" visible="true" lat="44.45677967" lon="-73.16319355">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310428"/>
-  </node>
-  <node id="-6387" visible="true" lat="44.45677622" lon="-73.16324216">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310429"/>
-  </node>
-  <node id="-6388" visible="true" lat="44.4567631" lon="-73.16332014">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310430"/>
-  </node>
-  <node id="-6389" visible="true" lat="44.45662211" lon="-73.16402746">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310431"/>
-  </node>
-  <node id="-6390" visible="true" lat="44.45660991" lon="-73.16408261">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310432"/>
-  </node>
-  <node id="-6391" visible="true" lat="44.456599" lon="-73.16414329">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310433"/>
-  </node>
-  <node id="-6392" visible="true" lat="44.45658135" lon="-73.16422786">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310434"/>
-  </node>
-  <node id="-6393" visible="true" lat="44.45657177" lon="-73.16428672">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310435"/>
-  </node>
-  <node id="-6394" visible="true" lat="44.45656082" lon="-73.16435477">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310436"/>
-  </node>
-  <node id="-6395" visible="true" lat="44.45655391" lon="-73.16440814">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310437"/>
-  </node>
-  <node id="-6396" visible="true" lat="44.45632298" lon="-73.16326487">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310438"/>
-  </node>
-  <node id="-6397" visible="true" lat="44.45631347" lon="-73.16331268">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310439"/>
-  </node>
-  <node id="-6398" visible="true" lat="44.45630119" lon="-73.16338072">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310440"/>
-  </node>
-  <node id="-6399" visible="true" lat="44.45629019" lon="-73.16345799">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310441"/>
-  </node>
-  <node id="-6400" visible="true" lat="44.4562807" lon="-73.16350026">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310442"/>
-  </node>
-  <node id="-6401" visible="true" lat="44.45626715" lon="-73.16356092">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310443"/>
-  </node>
-  <node id="-6402" visible="true" lat="44.45625491" lon="-73.16362343">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310444"/>
-  </node>
-  <node id="-6403" visible="true" lat="44.4561139" lon="-73.16417978">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310445"/>
-  </node>
-  <node id="-6404" visible="true" lat="44.45606939" lon="-73.16411662">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310446"/>
-  </node>
-  <node id="-6405" visible="true" lat="44.45604575" lon="-73.16409608">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310447"/>
-  </node>
-  <node id="-6406" visible="true" lat="44.45601819" lon="-73.16406997">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310448"/>
-  </node>
-  <node id="-6407" visible="true" lat="44.45598798" lon="-73.16404383">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310449"/>
-  </node>
-  <node id="-6408" visible="true" lat="44.45594071" lon="-73.16400276">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310450"/>
-  </node>
-  <node id="-6409" visible="true" lat="44.45591312" lon="-73.16398033">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310451"/>
-  </node>
-  <node id="-6410" visible="true" lat="44.45588292" lon="-73.16395419">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310452"/>
-  </node>
-  <node id="-6411" visible="true" lat="44.45583166" lon="-73.16391676">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310453"/>
-  </node>
-  <node id="-6412" visible="true" lat="44.45590621" lon="-73.16446033">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310454"/>
-  </node>
-  <node id="-6413" visible="true" lat="44.45588417" lon="-73.16449792">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310455"/>
-  </node>
-  <node id="-6414" visible="true" lat="44.45584705" lon="-73.16454172">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="66"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310456"/>
-  </node>
-  <node id="-6415" visible="true" lat="44.45581766" lon="-73.16458856">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310457"/>
-  </node>
-  <node id="-6416" visible="true" lat="44.45578182" lon="-73.16463778">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="68"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310458"/>
-  </node>
-  <node id="-6417" visible="true" lat="44.45576242" lon="-73.16467626">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310459"/>
-  </node>
-  <node id="-6418" visible="true" lat="44.45572288" lon="-73.1646962">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310460"/>
-  </node>
-  <node id="-6419" visible="true" lat="44.45569015" lon="-73.1647408">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310461"/>
-  </node>
-  <node id="-6420" visible="true" lat="44.45565032" lon="-73.16478199">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="72"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310462"/>
-  </node>
-  <node id="-6421" visible="true" lat="44.45618278" lon="-73.16554623">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="83"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310463"/>
-  </node>
-  <node id="-6422" visible="true" lat="44.45615714" lon="-73.16550724">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310464"/>
-  </node>
-  <node id="-6423" visible="true" lat="44.45613651" lon="-73.16546757">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310465"/>
-  </node>
-  <node id="-6424" visible="true" lat="44.45610955" lon="-73.16542595">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310466"/>
-  </node>
-  <node id="-6425" visible="true" lat="44.45607706" lon="-73.16538689">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310467"/>
-  </node>
-  <node id="-6426" visible="true" lat="44.45604127" lon="-73.1653257">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310468"/>
-  </node>
-  <node id="-6427" visible="true" lat="44.45601252" lon="-73.16527562">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310469"/>
-  </node>
-  <node id="-6428" visible="true" lat="44.45599268" lon="-73.16523631">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310470"/>
-  </node>
-  <node id="-6429" visible="true" lat="44.4559592" lon="-73.16518508">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310471"/>
-  </node>
-  <node id="-6430" visible="true" lat="44.4559283" lon="-73.16514234">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="74"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310472"/>
-  </node>
-  <node id="-6431" visible="true" lat="44.45589741" lon="-73.16509887">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="73"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310473"/>
-  </node>
-  <node id="-6432" visible="true" lat="44.45336058" lon="-73.16238231">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="636"/>
-    <tag k="addr:street" v="Hinesburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310474"/>
-  </node>
   <node id="-6433" visible="true" lat="44.44072321" lon="-73.15043803">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="73"/>
@@ -43512,13 +42007,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316536"/>
   </node>
-  <node id="-6586" visible="true" lat="44.45619823" lon="-73.16559895">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="84"/>
-    <tag k="addr:street" v="Winding Brook Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="317039"/>
-  </node>
   <node id="-6587" visible="true" lat="44.46385377" lon="-73.14720145">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="228"/>
@@ -44183,6 +42671,13 @@
     <tag k="addr:street" v="Hinesburg Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="333203"/>
+  </node>
+  <node id="-6692" visible="true" lat="44.465844" lon="-73.17310136">
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Hinesburg Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333205"/>
   </node>
   <node id="-6693" visible="true" lat="44.48336433" lon="-73.15576817">
     <tag k="addr:city" v="South Burlington"/>
@@ -45094,26 +43589,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="449039"/>
   </node>
-  <node id="-6834" visible="true" lat="44.47689147" lon="-73.15130648">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Nco Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="449122"/>
-  </node>
   <node id="-6835" visible="true" lat="44.4584912" lon="-73.17836447">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="75"/>
     <tag k="addr:street" v="San Remo Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="449613"/>
-  </node>
-  <node id="-6836" visible="true" lat="44.46831151" lon="-73.18292333">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Dorset Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450125"/>
   </node>
   <node id="-6837" visible="true" lat="44.47068393" lon="-73.17241721">
     <tag k="addr:city" v="South Burlington"/>
@@ -45556,13 +44037,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452412"/>
   </node>
-  <node id="-6903" visible="true" lat="44.47653428" lon="-73.1460852">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="140"/>
-    <tag k="addr:street" v="Mustang Pass"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="452413"/>
-  </node>
   <node id="-6905" visible="true" lat="44.45112928" lon="-73.20238016">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="80"/>
@@ -45681,13 +44155,6 @@
     <tag k="addr:street" v="Blackberry Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454504"/>
-  </node>
-  <node id="-6922" visible="true" lat="44.43059041" lon="-73.21398361">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="1489"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="610462"/>
   </node>
   <node id="-6923" visible="true" lat="44.45972471" lon="-73.14624164">
     <tag k="addr:city" v="South Burlington"/>
@@ -45863,13 +44330,6 @@
     <tag k="addr:street" v="Spear Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="610906"/>
-  </node>
-  <node id="-6954" visible="true" lat="44.47781316" lon="-73.15337276">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:street" v="Nco Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="610921"/>
   </node>
   <node id="-6957" visible="true" lat="44.47271212" lon="-73.17124829">
     <tag k="addr:city" v="South Burlington"/>
@@ -46822,804 +45282,6 @@
     <tag k="addr:street" v="Randall Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="614625"/>
-  </node>
-  <node id="-7097" visible="true" lat="44.45342129" lon="-73.15930155">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Laurentide Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616820"/>
-  </node>
-  <node id="-7098" visible="true" lat="44.45329675" lon="-73.15922036">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Laurentide Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616821"/>
-  </node>
-  <node id="-7099" visible="true" lat="44.45299706" lon="-73.15916214">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Laurentide Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616823"/>
-  </node>
-  <node id="-7100" visible="true" lat="44.45284372" lon="-73.15912052">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Laurentide Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616824"/>
-  </node>
-  <node id="-7101" visible="true" lat="44.45269749" lon="-73.15908397">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Laurentide Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616825"/>
-  </node>
-  <node id="-7102" visible="true" lat="44.4529975" lon="-73.15970567">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Laurentide Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616826"/>
-  </node>
-  <node id="-7103" visible="true" lat="44.45285847" lon="-73.15965922">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Laurentide Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616827"/>
-  </node>
-  <node id="-7104" visible="true" lat="44.45270864" lon="-73.15962762">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Laurentide Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616828"/>
-  </node>
-  <node id="-7105" visible="true" lat="44.45258373" lon="-73.15961125">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:street" v="Laurentide Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616829"/>
-  </node>
-  <node id="-7106" visible="true" lat="44.4524339" lon="-73.15957965">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="68"/>
-    <tag k="addr:street" v="Laurentide Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616830"/>
-  </node>
-  <node id="-7107" visible="true" lat="44.45373543" lon="-73.15871168">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616831"/>
-  </node>
-  <node id="-7108" visible="true" lat="44.45375642" lon="-73.15816839">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616832"/>
-  </node>
-  <node id="-7109" visible="true" lat="44.45358871" lon="-73.15814157">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616833"/>
-  </node>
-  <node id="-7110" visible="true" lat="44.45358212" lon="-73.15866508">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616834"/>
-  </node>
-  <node id="-7111" visible="true" lat="44.45344248" lon="-73.15872335">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616835"/>
-  </node>
-  <node id="-7112" visible="true" lat="44.45326728" lon="-73.15875629">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616836"/>
-  </node>
-  <node id="-7113" visible="true" lat="44.45316359" lon="-73.15877507">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616837"/>
-  </node>
-  <node id="-7114" visible="true" lat="44.45298499" lon="-73.15877805">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616838"/>
-  </node>
-  <node id="-7115" visible="true" lat="44.45287108" lon="-73.15871194">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="72"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616839"/>
-  </node>
-  <node id="-7116" visible="true" lat="44.45268188" lon="-73.15869486">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616840"/>
-  </node>
-  <node id="-7117" visible="true" lat="44.45258248" lon="-73.15858902">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616841"/>
-  </node>
-  <node id="-7118" visible="true" lat="44.45234192" lon="-73.15818741">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="102"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616842"/>
-  </node>
-  <node id="-7119" visible="true" lat="44.45283838" lon="-73.158188">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616843"/>
-  </node>
-  <node id="-7120" visible="true" lat="44.45297041" lon="-73.15820943">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616844"/>
-  </node>
-  <node id="-7121" visible="true" lat="44.45313813" lon="-73.15823624">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616845"/>
-  </node>
-  <node id="-7122" visible="true" lat="44.45328476" lon="-73.15820298">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616846"/>
-  </node>
-  <node id="-7123" visible="true" lat="44.45343145" lon="-73.15815975">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Ledge Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616847"/>
-  </node>
-  <node id="-7124" visible="true" lat="44.45369437" lon="-73.15777874">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Split Rock Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616848"/>
-  </node>
-  <node id="-7125" visible="true" lat="44.45355866" lon="-73.15777722">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Split Rock Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616849"/>
-  </node>
-  <node id="-7126" visible="true" lat="44.45342309" lon="-73.15775077">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="Split Rock Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616850"/>
-  </node>
-  <node id="-7127" visible="true" lat="44.45328386" lon="-73.15773923">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Split Rock Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616851"/>
-  </node>
-  <node id="-7128" visible="true" lat="44.45314106" lon="-73.15772766">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="Split Rock Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616852"/>
-  </node>
-  <node id="-7129" visible="true" lat="44.45312281" lon="-73.15717395">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Split Rock Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616853"/>
-  </node>
-  <node id="-7130" visible="true" lat="44.45334505" lon="-73.15724376">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Split Rock Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616854"/>
-  </node>
-  <node id="-7131" visible="true" lat="44.45349133" lon="-73.15727034">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Split Rock Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616855"/>
-  </node>
-  <node id="-7132" visible="true" lat="44.45366864" lon="-73.15728479">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Split Rock Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616856"/>
-  </node>
-  <node id="-7133" visible="true" lat="44.45380076" lon="-73.15729126">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Split Rock Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616857"/>
-  </node>
-  <node id="-7134" visible="true" lat="44.4540615" lon="-73.1572892">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="86"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616858"/>
-  </node>
-  <node id="-7135" visible="true" lat="44.45420108" lon="-73.1572409">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="96"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616859"/>
-  </node>
-  <node id="-7136" visible="true" lat="44.45434056" lon="-73.15720756">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616860"/>
-  </node>
-  <node id="-7137" visible="true" lat="44.45448011" lon="-73.15716424">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="116"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616861"/>
-  </node>
-  <node id="-7138" visible="true" lat="44.4546268" lon="-73.15712101">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="126"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616862"/>
-  </node>
-  <node id="-7139" visible="true" lat="44.45475926" lon="-73.15706764">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="136"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616863"/>
-  </node>
-  <node id="-7140" visible="true" lat="44.45491654" lon="-73.15704447">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616864"/>
-  </node>
-  <node id="-7141" visible="true" lat="44.45504523" lon="-73.15702597">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="154"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616865"/>
-  </node>
-  <node id="-7142" visible="true" lat="44.45520235" lon="-73.15703272">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="162"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616866"/>
-  </node>
-  <node id="-7143" visible="true" lat="44.45420483" lon="-73.15782935">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="89"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616867"/>
-  </node>
-  <node id="-7144" visible="true" lat="44.45434432" lon="-73.15779601">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="99"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616868"/>
-  </node>
-  <node id="-7145" visible="true" lat="44.45447318" lon="-73.15774759">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="107"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616869"/>
-  </node>
-  <node id="-7146" visible="true" lat="44.45463404" lon="-73.15772447">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="117"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616870"/>
-  </node>
-  <node id="-7147" visible="true" lat="44.4547665" lon="-73.1576711">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="129"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616871"/>
-  </node>
-  <node id="-7148" visible="true" lat="44.45488461" lon="-73.15762755">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="139"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616872"/>
-  </node>
-  <node id="-7149" visible="true" lat="44.45504539" lon="-73.15761938">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616873"/>
-  </node>
-  <node id="-7150" visible="true" lat="44.45495424" lon="-73.15856083">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="232"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616874"/>
-  </node>
-  <node id="-7151" visible="true" lat="44.45502576" lon="-73.15854667">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="236"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616875"/>
-  </node>
-  <node id="-7152" visible="true" lat="44.45514356" lon="-73.15855797">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="246"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616876"/>
-  </node>
-  <node id="-7153" visible="true" lat="44.45521162" lon="-73.15852383">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="250"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616877"/>
-  </node>
-  <node id="-7154" visible="true" lat="44.45531888" lon="-73.15850509">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="260"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616878"/>
-  </node>
-  <node id="-7155" visible="true" lat="44.45538336" lon="-73.1584709">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="264"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616879"/>
-  </node>
-  <node id="-7156" visible="true" lat="44.45506339" lon="-73.15904077">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="239"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616880"/>
-  </node>
-  <node id="-7157" visible="true" lat="44.45515265" lon="-73.15904593">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="243"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616881"/>
-  </node>
-  <node id="-7158" visible="true" lat="44.45525694" lon="-73.15902633">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="251"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616882"/>
-  </node>
-  <node id="-7159" visible="true" lat="44.45534927" lon="-73.1590149">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="257"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616883"/>
-  </node>
-  <node id="-7160" visible="true" lat="44.45545056" lon="-73.15899942">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="263"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616884"/>
-  </node>
-  <node id="-7161" visible="true" lat="44.45554892" lon="-73.15897559">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="269"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616885"/>
-  </node>
-  <node id="-7162" visible="true" lat="44.45549234" lon="-73.15846382">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="272"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616886"/>
-  </node>
-  <node id="-7163" visible="true" lat="44.45556996" lon="-73.15842313">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="276"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616887"/>
-  </node>
-  <node id="-7164" visible="true" lat="44.45566249" lon="-73.15837846">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="286"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616888"/>
-  </node>
-  <node id="-7165" visible="true" lat="44.45573104" lon="-73.15836261">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="290"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616889"/>
-  </node>
-  <node id="-7166" visible="true" lat="44.45584752" lon="-73.15829327">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="300"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616890"/>
-  </node>
-  <node id="-7167" visible="true" lat="44.45590128" lon="-73.15826063">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="304"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616891"/>
-  </node>
-  <node id="-7168" visible="true" lat="44.45601178" lon="-73.15819539">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="312"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616892"/>
-  </node>
-  <node id="-7169" visible="true" lat="44.45607162" lon="-73.15814204">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="316"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616893"/>
-  </node>
-  <node id="-7170" visible="true" lat="44.45617919" lon="-73.15806844">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="326"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616894"/>
-  </node>
-  <node id="-7171" visible="true" lat="44.45623903" lon="-73.15801509">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="330"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616895"/>
-  </node>
-  <node id="-7172" visible="true" lat="44.45567418" lon="-73.15893129">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="277"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616896"/>
-  </node>
-  <node id="-7173" visible="true" lat="44.45574285" lon="-73.15889466">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="281"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616897"/>
-  </node>
-  <node id="-7174" visible="true" lat="44.45584133" lon="-73.15885005">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="289"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616898"/>
-  </node>
-  <node id="-7175" visible="true" lat="44.45593093" lon="-73.15879704">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="295"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616899"/>
-  </node>
-  <node id="-7176" visible="true" lat="44.45604426" lon="-73.15875676">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="301"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616900"/>
-  </node>
-  <node id="-7177" visible="true" lat="44.45611005" lon="-73.15870347">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="307"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616901"/>
-  </node>
-  <node id="-7178" visible="true" lat="44.45621465" lon="-73.15862985">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="315"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616902"/>
-  </node>
-  <node id="-7179" visible="true" lat="44.45628932" lon="-73.15858498">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="321"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616903"/>
-  </node>
-  <node id="-7180" visible="true" lat="44.45520275" lon="-73.15758374">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="163"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616904"/>
-  </node>
-  <node id="-7181" visible="true" lat="44.45533353" lon="-73.1576143">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="173"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616905"/>
-  </node>
-  <node id="-7182" visible="true" lat="44.45547051" lon="-73.15760337">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="181"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616906"/>
-  </node>
-  <node id="-7183" visible="true" lat="44.45533395" lon="-73.15702422">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="172"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616908"/>
-  </node>
-  <node id="-7184" visible="true" lat="44.45550364" lon="-73.15701781">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="186"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616909"/>
-  </node>
-  <node id="-7185" visible="true" lat="44.45564691" lon="-73.15694877">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="200"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616910"/>
-  </node>
-  <node id="-7186" visible="true" lat="44.45576614" lon="-73.15689791">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="210"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616911"/>
-  </node>
-  <node id="-7187" visible="true" lat="44.45592765" lon="-73.15678154">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="220"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616912"/>
-  </node>
-  <node id="-7188" visible="true" lat="44.45606164" lon="-73.15679351">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="228"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616913"/>
-  </node>
-  <node id="-7189" visible="true" lat="44.45560461" lon="-73.15757579">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="191"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616914"/>
-  </node>
-  <node id="-7190" visible="true" lat="44.45575796" lon="-73.15751185">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="201"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616916"/>
-  </node>
-  <node id="-7191" visible="true" lat="44.45589007" lon="-73.15741609">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="211"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616917"/>
-  </node>
-  <node id="-7192" visible="true" lat="44.45607643" lon="-73.15730681">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="225"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616918"/>
-  </node>
-  <node id="-7193" visible="true" lat="44.45640304" lon="-73.15847821">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="329"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616920"/>
-  </node>
-  <node id="-7194" visible="true" lat="44.45648087" lon="-73.15840013">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="335"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616921"/>
-  </node>
-  <node id="-7195" visible="true" lat="44.45658857" lon="-73.15830576">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="341"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616922"/>
-  </node>
-  <node id="-7196" visible="true" lat="44.45666033" lon="-73.15824838">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="347"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616923"/>
-  </node>
-  <node id="-7197" visible="true" lat="44.4567325" lon="-73.15812037">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616924"/>
-  </node>
-  <node id="-7198" visible="true" lat="44.45679824" lon="-73.1580754">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="361"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616925"/>
-  </node>
-  <node id="-7199" visible="true" lat="44.45687625" lon="-73.15796823">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="369"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616926"/>
-  </node>
-  <node id="-7200" visible="true" lat="44.45695108" lon="-73.15789426">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="375"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616927"/>
-  </node>
-  <node id="-7201" visible="true" lat="44.4563492" lon="-73.15674571">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="246"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616928"/>
-  </node>
-  <node id="-7202" visible="true" lat="44.45621068" lon="-73.15673485">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="238"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616929"/>
-  </node>
-  <node id="-7203" visible="true" lat="44.45634335" lon="-73.15726949">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="245"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616930"/>
-  </node>
-  <node id="-7204" visible="true" lat="44.45621377" lon="-73.1572848">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="235"/>
-    <tag k="addr:street" v="Two Brothers Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616931"/>
-  </node>
-  <node id="-7205" visible="true" lat="44.45632896" lon="-73.1579039">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="340"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616932"/>
-  </node>
-  <node id="-7206" visible="true" lat="44.45638277" lon="-73.15786295">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="344"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616933"/>
-  </node>
-  <node id="-7207" visible="true" lat="44.45646073" lon="-73.15776409">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="352"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616934"/>
-  </node>
-  <node id="-7208" visible="true" lat="44.45653256" lon="-73.15769425">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="356"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616935"/>
-  </node>
-  <node id="-7209" visible="true" lat="44.45659852" lon="-73.15761188">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="366"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616936"/>
-  </node>
-  <node id="-7210" visible="true" lat="44.45666438" lon="-73.15754612">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="370"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="616937"/>
   </node>
   <node id="-7211" visible="true" lat="44.44271901" lon="-73.22039719">
     <tag k="addr:city" v="South Burlington"/>
@@ -48685,13 +46347,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754173"/>
   </node>
-  <node id="-7369" visible="true" lat="44.46359351" lon="-73.17835566">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:street" v="Garden Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="754179"/>
-  </node>
   <node id="-7370" visible="true" lat="44.4637076" lon="-73.17658313">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="200"/>
@@ -49735,13 +47390,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755379"/>
   </node>
-  <node id="-7573" visible="true" lat="44.4249296" lon="-73.2123923">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="1775"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755396"/>
-  </node>
   <node id="-7574" visible="true" lat="44.46418716" lon="-73.18097311">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="181"/>
@@ -50287,13 +47935,6 @@
     <tag k="addr:street" v="Wilson Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="765492"/>
-  </node>
-  <node id="-7659" visible="true" lat="44.44720663" lon="-73.14545656">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="435"/>
-    <tag k="addr:street" v="Community Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="765582"/>
   </node>
   <node id="-7665" visible="true" lat="44.45656778" lon="-73.17165416">
     <tag k="addr:city" v="South Burlington"/>
@@ -51415,20 +49056,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="767354"/>
   </node>
-  <node id="-7827" visible="true" lat="44.45704936" lon="-73.15710476">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="418"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="767457"/>
-  </node>
-  <node id="-7828" visible="true" lat="44.45755783" lon="-73.15646549">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="442"/>
-    <tag k="addr:street" v="Obrien Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="767458"/>
-  </node>
   <node id="-7829" visible="true" lat="44.4669054" lon="-73.18476458">
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="105"/>
@@ -51498,13 +49125,6 @@
     <tag k="addr:street" v="Centennial Woods Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768638"/>
-  </node>
-  <node id="-7840" visible="true" lat="44.47037226" lon="-73.19289191">
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Catamount Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768685"/>
   </node>
   <node id="-7841" visible="true" lat="44.42541179" lon="-73.18060838">
     <tag k="addr:city" v="South Burlington"/>

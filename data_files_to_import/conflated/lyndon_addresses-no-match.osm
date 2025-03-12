@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.59650503" lon="-72.04656357">
     <tag k="addr:housenumber" v="875"/>
     <tag k="addr:street" v="Crestwood Road"/>
@@ -929,6 +929,12 @@
     <tag k="addr:street" v="Poplar Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="146536"/>
+  </node>
+  <node id="-257" visible="true" lat="44.57315444" lon="-71.97163391">
+    <tag k="addr:housenumber" v="2074"/>
+    <tag k="addr:street" v="Darling Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="146537"/>
   </node>
   <node id="-258" visible="true" lat="44.57330703" lon="-72.01982116">
     <tag k="addr:housenumber" v="253"/>
@@ -5448,12 +5454,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147341"/>
   </node>
-  <node id="-1019" visible="true" lat="44.53655705" lon="-72.00191735">
-    <tag k="addr:housenumber" v="136"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="147342"/>
-  </node>
   <node id="-1020" visible="true" lat="44.53659661" lon="-72.00621434">
     <tag k="addr:housenumber" v="173"/>
     <tag k="addr:street" v="Park Avenue"/>
@@ -5603,12 +5603,6 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147370"/>
-  </node>
-  <node id="-1046" visible="true" lat="44.53610477" lon="-72.00685814">
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Park Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="147371"/>
   </node>
   <node id="-1047" visible="true" lat="44.53609708" lon="-72.00023969">
     <tag k="addr:housenumber" v="43"/>
@@ -7235,12 +7229,6 @@
     <tag k="addr:street" v="North Prospect Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147730"/>
-  </node>
-  <node id="-1360" visible="true" lat="44.52934877" lon="-72.00100429">
-    <tag k="addr:housenumber" v="686"/>
-    <tag k="addr:street" v="Broad Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="147731"/>
   </node>
   <node id="-1361" visible="true" lat="44.52947998" lon="-72.04213714">
     <tag k="addr:housenumber" v="2013"/>

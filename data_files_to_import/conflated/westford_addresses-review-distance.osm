@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-114" visible="true" lat="44.64690602" lon="-73.01631928">
+    <!-- offset: "24 Talcott Road, , VT" Significant offset - 106.1m -->
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Talcott Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281266"/>
+  </node>
 </osm>

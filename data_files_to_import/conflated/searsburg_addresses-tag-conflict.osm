@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-109" visible="true" lat="42.89721197" lon="-72.97019967">
     <!-- conflict: "1401 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1401 Vt Route 9 West, Searsburg, VT" -->
     <tag k="addr:city" v="Searsburg"/>
@@ -7,22 +7,6 @@
     <tag k="addr:street" v="Vermont Route 9 West"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217267"/>
-  </node>
-  <node id="-114" visible="true" lat="42.89566812" lon="-72.98519495">
-    <!-- conflict: "1561 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1561 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="1561"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217272"/>
-  </node>
-  <node id="-115" visible="true" lat="42.8955355" lon="-72.98194345">
-    <!-- conflict: "1527 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1527 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="1527"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217273"/>
   </node>
   <node id="-116" visible="true" lat="42.89547397" lon="-72.98085457">
     <!-- conflict: "1515 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1515 Vt Route 9 West, Searsburg, VT" -->
@@ -40,14 +24,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217275"/>
   </node>
-  <node id="-118" visible="true" lat="42.89541612" lon="-72.97568788">
-    <!-- conflict: "1459 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1459 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="1459"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217276"/>
-  </node>
   <node id="-119" visible="true" lat="42.89546643" lon="-72.96786063">
     <!-- conflict: "1371 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1371 Vt Route 9 West, Searsburg, VT" -->
     <tag k="addr:city" v="Searsburg"/>
@@ -56,30 +32,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217277"/>
   </node>
-  <node id="-121" visible="true" lat="42.89515978" lon="-72.98281315">
-    <!-- conflict: "1534 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1534 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="1534"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217279"/>
-  </node>
-  <node id="-122" visible="true" lat="42.89520844" lon="-72.97457653">
-    <!-- conflict: "1447 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1447 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="1447"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217280"/>
-  </node>
-  <node id="-125" visible="true" lat="42.89475998" lon="-72.97945521">
-    <!-- conflict: "1498 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1498 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="1498"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217283"/>
-  </node>
   <node id="-126" visible="true" lat="42.89479306" lon="-72.97761008">
     <!-- conflict: "1478 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1478 Vt Route 9 West, Searsburg, VT" -->
     <tag k="addr:city" v="Searsburg"/>
@@ -87,14 +39,6 @@
     <tag k="addr:street" v="Vermont Route 9 West"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217284"/>
-  </node>
-  <node id="-127" visible="true" lat="42.89476273" lon="-72.97790672">
-    <!-- conflict: "1482 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1482 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="1482"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217285"/>
   </node>
   <node id="-128" visible="true" lat="42.89478654" lon="-72.96975302">
     <!-- conflict: "1394 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1394 Vt Route 9 West, Searsburg, VT" -->
@@ -111,14 +55,6 @@
     <tag k="addr:street" v="Vermont Route 9 West"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217287"/>
-  </node>
-  <node id="-130" visible="true" lat="42.89463803" lon="-72.97837162">
-    <!-- conflict: "1488 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1488 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="1488"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217289"/>
   </node>
   <node id="-131" visible="true" lat="42.89447343" lon="-72.99550879">
     <!-- conflict: "1675 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1675 Vt Route 9 West, Searsburg, VT" -->
@@ -168,54 +104,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217302"/>
   </node>
-  <node id="-146" visible="true" lat="42.89221977" lon="-72.97508738">
-    <!-- conflict: "45 Vermont Route 8, Searsburg, VT" No match in OSM, but a different address exists <5m away: "45 Vt Route 8, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Vermont Route 8"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217309"/>
-  </node>
-  <node id="-152" visible="true" lat="42.89155843" lon="-72.97454964">
-    <!-- conflict: "57 Vermont Route 8, Searsburg, VT" No match in OSM, but a different address exists <5m away: "57 Vt Route 8, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Vermont Route 8"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217317"/>
-  </node>
-  <node id="-155" visible="true" lat="42.89108129" lon="-72.97419103">
-    <!-- conflict: "64 Vermont Route 8, Searsburg, VT" No match in OSM, but a different address exists <5m away: "64 Vt Route 8, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Vermont Route 8"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217320"/>
-  </node>
-  <node id="-157" visible="true" lat="42.89071215" lon="-72.97296512">
-    <!-- conflict: "72 Vermont Route 8, Searsburg, VT" No match in OSM, but a different address exists <5m away: "72 Vt Route 8, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="72"/>
-    <tag k="addr:street" v="Vermont Route 8"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217322"/>
-  </node>
-  <node id="-158" visible="true" lat="42.890687" lon="-72.97408734">
-    <!-- conflict: "70 Vermont Route 8, Searsburg, VT" No match in OSM, but a different address exists <5m away: "70 Vt Route 8, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Vermont Route 8"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217323"/>
-  </node>
-  <node id="-159" visible="true" lat="42.8900976" lon="-72.9747449">
-    <!-- conflict: "79 Vermont Route 8, Searsburg, VT" No match in OSM, but a different address exists <5m away: "79 Vt Route 8, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Vermont Route 8"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217326"/>
-  </node>
   <node id="-160" visible="true" lat="42.88989587" lon="-73.00970524">
     <!-- conflict: "1843 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1845 Vt Route 9 West, Searsburg, VT" -->
     <tag k="addr:city" v="Searsburg"/>
@@ -223,14 +111,6 @@
     <tag k="addr:street" v="Vermont Route 9 West"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217327"/>
-  </node>
-  <node id="-163" visible="true" lat="42.88965395" lon="-72.97481753">
-    <!-- conflict: "85 Vermont Route 8, Searsburg, VT" No match in OSM, but a different address exists <5m away: "85 Vt Route 8, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:street" v="Vermont Route 8"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217330"/>
   </node>
   <node id="-164" visible="true" lat="42.88887988" lon="-72.97294608">
     <!-- conflict: "100 Vermont Route 8, Searsburg, VT" No match in OSM, but a different address exists <5m away: "100 Vt Route 8, Searsburg, VT" -->
@@ -296,14 +176,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217351"/>
   </node>
-  <node id="-185" visible="true" lat="42.87348401" lon="-72.92824084">
-    <!-- conflict: "693 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "693 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="693"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217353"/>
-  </node>
   <node id="-186" visible="true" lat="42.87301782" lon="-72.97076781">
     <!-- conflict: "343 Vermont Route 8, Searsburg, VT" No match in OSM, but a different address exists <5m away: "343 Vt Route 8, Searsburg, VT" -->
     <tag k="addr:city" v="Searsburg"/>
@@ -311,38 +183,6 @@
     <tag k="addr:street" v="Vermont Route 8"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217354"/>
-  </node>
-  <node id="-187" visible="true" lat="42.87277946" lon="-72.93753479">
-    <!-- conflict: "789 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "789 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="789"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217355"/>
-  </node>
-  <node id="-188" visible="true" lat="42.87273339" lon="-72.9257466">
-    <!-- conflict: "665 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "665 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="665"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217356"/>
-  </node>
-  <node id="-189" visible="true" lat="42.87253036" lon="-72.93592095">
-    <!-- conflict: "771 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "771 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="771"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217357"/>
-  </node>
-  <node id="-190" visible="true" lat="42.87222795" lon="-72.93191468">
-    <!-- conflict: "725 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "725 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="725"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217358"/>
   </node>
   <node id="-191" visible="true" lat="42.87071679" lon="-72.97055851">
     <!-- conflict: "376 Vermont Route 8, Searsburg, VT" No match in OSM, but a different address exists <5m away: "376 Vt Route 8, Searsburg, VT" -->
@@ -352,6 +192,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217359"/>
   </node>
+  <node id="-192" visible="true" lat="42.87285875" lon="-72.93710988">
+    <!-- conflict: "779 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: " Vermont Route 9 West, , " -->
+    <tag k="addr:city" v="Searsburg"/>
+    <tag k="addr:housenumber" v="779"/>
+    <tag k="addr:street" v="Vermont Route 9 West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217360"/>
+  </node>
   <node id="-200" visible="true" lat="42.89412347" lon="-72.99624903">
     <!-- conflict: "1677 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1677 Vt Route 9 West, Searsburg, VT" -->
     <tag k="addr:city" v="Searsburg"/>
@@ -359,14 +207,6 @@
     <tag k="addr:street" v="Vermont Route 9 West"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217369"/>
-  </node>
-  <node id="-201" visible="true" lat="42.89640463" lon="-72.98473584">
-    <!-- conflict: "1549 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1549 Vt Route 9 West, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="1549"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217370"/>
   </node>
   <node id="-202" visible="true" lat="42.88062731" lon="-72.97201485">
     <!-- conflict: "231 Vermont Route 8, Searsburg, VT" No match in OSM, but a different address exists <5m away: "231 Vt Route 8, Searsburg, VT" -->
@@ -399,14 +239,6 @@
     <tag k="addr:street" v="Vermont Route 9 West"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217374"/>
-  </node>
-  <node id="-207" visible="true" lat="42.89274211" lon="-72.97476912">
-    <!-- conflict: "36 Vermont Route 8, Searsburg, VT" No match in OSM, but a different address exists <5m away: "36 Vt Route 8, Searsburg, VT" -->
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Vermont Route 8"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217376"/>
   </node>
   <node id="-210" visible="true" lat="42.89438534" lon="-73.00112732">
     <!-- conflict: "1799 Vermont Route 9 West, Searsburg, VT" No match in OSM, but a different address exists <5m away: "1799 Vt Route 9 West, Searsburg, VT" -->

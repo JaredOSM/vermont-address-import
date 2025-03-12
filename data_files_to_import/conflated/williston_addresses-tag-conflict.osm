@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-113" visible="true" lat="44.47772126" lon="-73.11445639">
     <!-- conflict: "300 Essex Road, Williston, VT" Fuzzy match to "300 Essex Road, , VT" -->
     <tag k="addr:city" v="Williston"/>
@@ -15,6 +15,14 @@
     <tag k="addr:street" v="Essex Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="288492"/>
+  </node>
+  <node id="-175" visible="true" lat="44.47458648" lon="-73.11450195">
+    <!-- conflict: "528 Essex Road, Williston, VT" Fuzzy match to "528 Essex road, , " -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="528"/>
+    <tag k="addr:street" v="Essex Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="288553"/>
   </node>
   <node id="-228" visible="true" lat="44.47293124" lon="-73.08990851">
     <!-- conflict: "470 Ibm Road, Williston, VT" Fuzzy match to "470 IBM Road, Williston, VT" -->
@@ -72,6 +80,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="289651"/>
   </node>
+  <node id="-1129" visible="true" lat="44.45121785" lon="-73.11147731">
+    <!-- conflict: "72 Helena Drive, Williston, VT" No match in OSM, but a different address exists <5m away: " Lawrence Place, , VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Helena Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="289684"/>
+  </node>
   <node id="-1152" visible="true" lat="44.4508937" lon="-73.11295464">
     <!-- conflict: "5689 Williston Road, Williston, VT" Fuzzy match to "5689 Williston Road, , VT" -->
     <tag k="addr:city" v="Williston"/>
@@ -80,13 +96,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="289710"/>
   </node>
-  <node id="-1613" visible="true" lat="44.44268383" lon="-73.05393735">
-    <!-- conflict: "119 Heartstone Lane, Williston, VT" No match in OSM, but a different address exists <5m away: "353 Golf Course Road, Williston, VT" -->
+  <node id="-1439" visible="true" lat="44.44593782" lon="-73.1136916">
+    <!-- conflict: "78 Marshall Avenue, Williston, VT" Fuzzy match to "78 Marshall Avenue, , VT" -->
     <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Heartstone Lane"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Marshall Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="290299"/>
+    <tag k="ref:vcgi:esiteid" v="290072"/>
   </node>
   <node id="-1620" visible="true" lat="44.44249849" lon="-73.05632008">
     <!-- conflict: "33 Heartstone Lane, Williston, VT" No match in OSM, but a different address exists <5m away: "351 Golf Course Road, Williston, VT" -->
@@ -136,6 +152,54 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="290629"/>
   </node>
+  <node id="-1920" visible="true" lat="44.43077087" lon="-73.1210556">
+    <!-- conflict: "59 Walker Hill Road, Williston, VT" Fuzzy match to "59 Walker Hill Road, , VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="Walker Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="290701"/>
+  </node>
+  <node id="-1924" visible="true" lat="44.43043059" lon="-73.12417201">
+    <!-- conflict: "128 Blackberry Ridge Road, Williston, VT" Fuzzy match to "128 Blackberry Ridge, Williston, VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Blackberry Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="290705"/>
+  </node>
+  <node id="-1933" visible="true" lat="44.42985916" lon="-73.12184143">
+    <!-- conflict: "139 Blackberry Ridge Road, Williston, VT" Fuzzy match to "139 Blackberry Ridge, Williston, VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:street" v="Blackberry Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="290714"/>
+  </node>
+  <node id="-1945" visible="true" lat="44.42953109" lon="-73.12399292">
+    <!-- conflict: "140 Blackberry Ridge Road, Williston, VT" Fuzzy match to "140 Blackberry Ridge, Williston, VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="Blackberry Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="290726"/>
+  </node>
+  <node id="-1947" visible="true" lat="44.42903759" lon="-73.12373201">
+    <!-- conflict: "142 Blackberry Ridge Road, Williston, VT" Fuzzy match to "142 Blackberry Ridge, Williston, VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Blackberry Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="290728"/>
+  </node>
+  <node id="-1958" visible="true" lat="44.42854309" lon="-73.1231842">
+    <!-- conflict: "144 Blackberry Ridge Road, Williston, VT" Fuzzy match to "144 Blackberry Ridge, Williston, VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="Blackberry Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="290739"/>
+  </node>
   <node id="-2324" visible="true" lat="44.4055195" lon="-73.15039725">
     <!-- conflict: "4304 Vermont Route 116, Williston, VT" No match in OSM, but a different address exists <5m away: "4304 Vt Route 116, Williston, VT" -->
     <tag k="addr:city" v="Williston"/>
@@ -144,14 +208,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="291108"/>
   </node>
-  <node id="-2535" visible="true" lat="44.47582515" lon="-73.11516986">
-    <!-- conflict: "28 Park Avenue, Williston, VT" Fuzzy match to "28 Park Avenue, Williston, " -->
-    <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Park Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="291336"/>
-  </node>
   <node id="-2647" visible="true" lat="44.44981583" lon="-73.11664891">
     <!-- conflict: "188 Harvest Lane, Williston, VT" Fuzzy match to "188 Harvest Lane, , VT" -->
     <tag k="addr:city" v="Williston"/>
@@ -159,14 +215,6 @@
     <tag k="addr:street" v="Harvest Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="291461"/>
-  </node>
-  <node id="-2692" visible="true" lat="44.4377623" lon="-73.11199267">
-    <!-- conflict: "177 Hurricane Lane, Williston, VT" Fuzzy match to "177 Hurricane Lane, , VT" -->
-    <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="177"/>
-    <tag k="addr:street" v="Hurricane Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="291506"/>
   </node>
   <node id="-2693" visible="true" lat="44.43552904" lon="-73.10792873">
     <!-- conflict: "380 Hurricane Lane, Williston, VT" Fuzzy match to "380 Hurricane Lane, , VT" -->
@@ -184,14 +232,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="291742"/>
   </node>
-  <node id="-3100" visible="true" lat="44.4466267" lon="-73.11068">
-    <!-- conflict: "30 Hawthorne Street, Williston, VT" Fuzzy match to "30 Hawthorne Street, , VT" -->
-    <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Hawthorne Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="291958"/>
-  </node>
   <node id="-3101" visible="true" lat="44.44691919" lon="-73.10841198">
     <!-- conflict: "71 Boxwood Street, Williston, VT" Fuzzy match to "71 Boxwood Street, , VT" -->
     <tag k="addr:city" v="Williston"/>
@@ -208,13 +248,21 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="291960"/>
   </node>
-  <node id="-3456" visible="true" lat="44.43952952" lon="-73.08789642">
-    <!-- conflict: "355 Cedar Lane, Williston, VT" Fuzzy match to "355 Cedar Lane, , VT" -->
+  <node id="-3109" visible="true" lat="44.43091033" lon="-73.12424621">
+    <!-- conflict: "78 Blackberry Ridge Road, Williston, VT" Fuzzy match to "78 Blackberry Ridge, Williston, VT" -->
     <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Cedar Lane"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Blackberry Ridge Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="292319"/>
+    <tag k="ref:vcgi:esiteid" v="291967"/>
+  </node>
+  <node id="-3546" visible="true" lat="44.45023158" lon="-73.11000267">
+    <!-- conflict: "20 Taft Corners Shopping Center, Williston, VT" No match in OSM, but a different address exists <5m away: "18 Taft Corners Shopping Center, Taft Corners, VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Taft Corners Shopping Center"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="292409"/>
   </node>
   <node id="-3553" visible="true" lat="44.45045267" lon="-73.1093967">
     <!-- conflict: "27 Taft Corners Shopping Center, Williston, VT" No match in OSM, but a different address exists <5m away: "27 Taft Corners, , " -->
@@ -223,6 +271,14 @@
     <tag k="addr:street" v="Taft Corners Shopping Center"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="292416"/>
+  </node>
+  <node id="-3559" visible="true" lat="44.45207753" lon="-73.11223845">
+    <!-- conflict: "285 Lawrence Place, Williston, VT" No match in OSM, but a different address exists <5m away: " Lawrence Place, , VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="285"/>
+    <tag k="addr:street" v="Lawrence Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="292432"/>
   </node>
   <node id="-3759" visible="true" lat="44.44701698" lon="-73.11042441">
     <!-- conflict: "39 Connor Way, Williston, VT" No match in OSM, but a different address exists <5m away: "38 Connor Way, , VT" -->
@@ -239,6 +295,22 @@
     <tag k="addr:street" v="Taft Corners Shopping Center"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="312465"/>
+  </node>
+  <node id="-4043" visible="true" lat="44.45020657" lon="-73.11015419">
+    <!-- conflict: "18 Taft Corners Shopping Center, Williston, VT" Fuzzy match to "18 Taft Corners Shopping Center, Taft Corners, VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Taft Corners Shopping Center"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="332408"/>
+  </node>
+  <node id="-4064" visible="true" lat="44.43303735" lon="-73.12051748">
+    <!-- conflict: "10 Ricky Vista, Williston, VT" Fuzzy match to "10 Ricky Vista, Essex Junction, VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Ricky Vista"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="332925"/>
   </node>
   <node id="-4120" visible="true" lat="44.45050078" lon="-73.11564717">
     <!-- conflict: "237 Harvest Lane, Williston, VT" Fuzzy match to "237 Harvest Lane, , VT" -->
@@ -263,6 +335,22 @@
     <tag k="addr:street" v="Market Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751483"/>
+  </node>
+  <node id="-4485" visible="true" lat="44.39954999" lon="-73.13250486">
+    <!-- conflict: "410 Pillsbury Lane, Williston, VT" Fuzzy match to "410 Pillsbury Lane, Saint George, VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="410"/>
+    <tag k="addr:street" v="Pillsbury Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753753"/>
+  </node>
+  <node id="-4722" visible="true" lat="44.4383137" lon="-73.11718464">
+    <!-- conflict: "3130 Saint George Road, Williston, VT" Fuzzy match to "3130 Saint George Road, , " -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="3130"/>
+    <tag k="addr:street" v="Saint George Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767287"/>
   </node>
   <node id="-5011" visible="true" lat="44.43701825" lon="-73.03767196">
     <!-- conflict: "273 Memorial Drive, Williston, VT" No match in OSM, but a different address exists <5m away: "5 Pine Ridge, Williston, VT" -->

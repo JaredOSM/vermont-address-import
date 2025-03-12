@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-568" visible="true" lat="43.1654663" lon="-72.55033874">
-    <!-- conflict: "7 Sand Hill Road, , VT" No match in OSM, but a different address exists <5m away: " Sand Hill Road, Cambridgeport, VT" -->
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Sand Hill Road"/>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-183" visible="true" lat="43.22525739" lon="-72.53572083">
+    <!-- conflict: "97B Lower Bartonsville Road, , VT" No match in OSM, but a different address exists <5m away: "97 Lower Bartonsville Road, Rockingham, VT" -->
+    <tag k="addr:housenumber" v="97B"/>
+    <tag k="addr:street" v="Lower Bartonsville Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203474"/>
+    <tag k="ref:vcgi:esiteid" v="203075"/>
   </node>
-  <node id="-1015" visible="true" lat="43.22264711" lon="-72.54084272">
-    <!-- conflict: "1918 Rockingham Road, , VT" No match in OSM, but a different address exists <5m away: " Rockingham Road, Rockingham, VT" -->
-    <tag k="addr:housenumber" v="1918"/>
-    <tag k="addr:street" v="Rockingham Road"/>
+  <node id="-960" visible="true" lat="43.22500833" lon="-72.53586176">
+    <!-- conflict: "97A Lower Bartonsville Road, , VT" No match in OSM, but a different address exists <5m away: "97 Lower Bartonsville Road, Rockingham, VT" -->
+    <tag k="addr:housenumber" v="97A"/>
+    <tag k="addr:street" v="Lower Bartonsville Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="758215"/>
+    <tag k="ref:vcgi:esiteid" v="339261"/>
   </node>
 </osm>

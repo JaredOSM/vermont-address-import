@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.80335692" lon="-73.07228639">
     <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="903"/>
@@ -5257,13 +5257,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="28547"/>
   </node>
-  <node id="-858" visible="true" lat="43.80285368" lon="-73.0966186">
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="256"/>
-    <tag k="addr:street" v="Grove Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28549"/>
-  </node>
   <node id="-859" visible="true" lat="43.80273432" lon="-73.08657305">
     <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="43"/>
@@ -5635,6 +5628,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="28632"/>
   </node>
+  <node id="-929" visible="true" lat="43.80096872" lon="-73.09391863">
+    <tag k="addr:city" v="Brandon"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="28633"/>
+  </node>
   <node id="-930" visible="true" lat="43.80083465" lon="-73.08486175">
     <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="20"/>
@@ -5683,13 +5683,6 @@
     <tag k="addr:street" v="Champlain Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="28648"/>
-  </node>
-  <node id="-946" visible="true" lat="43.80038801" lon="-73.09433498">
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Grove Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28650"/>
   </node>
   <node id="-947" visible="true" lat="43.80042111" lon="-73.08506666">
     <tag k="addr:city" v="Brandon"/>
@@ -6328,13 +6321,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="28781"/>
   </node>
-  <node id="-1063" visible="true" lat="43.79851572" lon="-73.08675784">
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28782"/>
-  </node>
   <node id="-1064" visible="true" lat="43.79848861" lon="-73.09368133">
     <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="18"/>
@@ -6510,13 +6496,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="28816"/>
   </node>
-  <node id="-1091" visible="true" lat="43.79790878" lon="-73.08648681">
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28818"/>
-  </node>
   <node id="-1092" visible="true" lat="43.79786338" lon="-73.08529417">
     <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="10"/>
@@ -6663,13 +6642,6 @@
     <tag k="addr:street" v="Franklin Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="28843"/>
-  </node>
-  <node id="-1113" visible="true" lat="43.79718642" lon="-73.08940683">
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Supermarket Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28844"/>
   </node>
   <node id="-1114" visible="true" lat="43.7972022" lon="-73.08671181">
     <tag k="addr:city" v="Brandon"/>

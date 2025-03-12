@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-193" visible="true" lat="44.85993533" lon="-73.00296771">
+    <!-- multiple: "3906 Pond Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3906"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="104559"/>
+  </node>
+  <node id="-949" visible="true" lat="44.85996828" lon="-73.00376221">
+    <!-- multiple: "3906 Pond Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3906"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333376"/>
+  </node>
 </osm>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-1715" visible="true" lat="43.00222172" lon="-73.19178067">
     <!-- offset: "1766 Hidden Valley Road, , VT" Significant offset - 185.3m -->
     <tag k="addr:housenumber" v="1766"/>
@@ -13,5 +13,12 @@
     <tag k="addr:street" v="Horton Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219101"/>
+  </node>
+  <node id="-1753" visible="true" lat="42.98398176" lon="-73.20623597">
+    <!-- offset: "3628 Vermont Route 7A, , VT" Significant offset - 118m -->
+    <tag k="addr:housenumber" v="3628"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="324347"/>
   </node>
 </osm>

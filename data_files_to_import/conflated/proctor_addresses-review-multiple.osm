@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-395" visible="true" lat="43.6607725" lon="-73.03571887">
     <!-- multiple: "29 Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="29"/>
@@ -27,5 +27,12 @@
     <tag k="addr:street" v="West Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="194678"/>
+  </node>
+  <node id="-889" visible="true" lat="43.66326262" lon="-73.03500504">
+    <!-- multiple: "52 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752160"/>
   </node>
 </osm>

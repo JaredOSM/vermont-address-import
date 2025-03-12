@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="43.55154766" lon="-72.61446015">
     <tag k="addr:housenumber" v="2897"/>
     <tag k="addr:street" v="Curtis Hollow Road"/>
@@ -1434,23 +1434,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="198474"/>
   </node>
+  <node id="-467" visible="true" lat="43.45607757" lon="-72.53726959">
+    <tag k="addr:housenumber" v="833"/>
+    <tag k="addr:street" v="Vermont Route 106"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="198477"/>
+  </node>
   <node id="-473" visible="true" lat="43.45596313" lon="-72.53678131">
     <tag k="addr:housenumber" v="826"/>
     <tag k="addr:street" v="Vermont Route 106"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="198483"/>
   </node>
-  <node id="-474" visible="true" lat="43.45589828" lon="-72.53742218">
-    <tag k="addr:housenumber" v="821"/>
-    <tag k="addr:street" v="Vermont Route 106"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="198484"/>
-  </node>
   <node id="-477" visible="true" lat="43.45574188" lon="-72.5820465">
     <tag k="addr:housenumber" v="1212"/>
     <tag k="addr:street" v="Town Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="198488"/>
+  </node>
+  <node id="-481" visible="true" lat="43.45562262" lon="-72.53735135">
+    <tag k="addr:housenumber" v="799"/>
+    <tag k="addr:street" v="Vermont Route 106"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="198493"/>
   </node>
   <node id="-497" visible="true" lat="43.45460891" lon="-72.53771209">
     <tag k="addr:housenumber" v="729"/>

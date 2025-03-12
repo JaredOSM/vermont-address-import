@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-128" visible="true" lat="43.95465348" lon="-73.10877535">
     <tag k="addr:city" v="Salisbury"/>
     <tag k="addr:housenumber" v="421"/>
@@ -2330,6 +2330,13 @@
     <tag k="addr:street" v="Pomainville Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454969"/>
+  </node>
+  <node id="-1102" visible="true" lat="43.93584879" lon="-73.15532825">
+    <tag k="addr:city" v="Salisbury"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Story Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610795"/>
   </node>
   <node id="-1116" visible="true" lat="43.94848098" lon="-73.14655581">
     <tag k="addr:city" v="Salisbury"/>

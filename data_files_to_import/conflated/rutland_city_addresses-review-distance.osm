@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-1013" visible="true" lat="43.61762656" lon="-72.95461565">
     <!-- offset: "22 Stratton Road, Rutland, VT" Significant offset - 132m -->
     <tag k="addr:city" v="Rutland"/>
@@ -7,6 +7,14 @@
     <tag k="addr:street" v="Stratton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="208408"/>
+  </node>
+  <node id="-1123" visible="true" lat="43.61691549" lon="-72.99125449">
+    <!-- offset: "2 Oak Street Extension, Rutland, VT" Significant offset - 950.2m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Oak Street Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="208520"/>
   </node>
   <node id="-4834" visible="true" lat="43.59948696" lon="-73.00118468">
     <!-- offset: "71 Clement Road, Rutland, VT" Significant offset - 120.3m -->
@@ -23,6 +31,14 @@
     <tag k="addr:street" v="Clement Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="212337"/>
+  </node>
+  <node id="-5761" visible="true" lat="43.60612155" lon="-73.00654242">
+    <!-- offset: "154 Business Route 4, Rutland, VT" Significant offset - 122.9m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:street" v="Business Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317611"/>
   </node>
   <node id="-6193" visible="true" lat="43.6178941" lon="-72.9567293">
     <!-- offset: "8 Stratton Road, Rutland, VT" Significant offset - 189.8m -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.9965286" lon="-71.70975176">
     <tag k="addr:city" v="Averill"/>
     <tag k="addr:housenumber" v="422"/>
@@ -546,6 +546,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="112672"/>
   </node>
+  <node id="-191" visible="true" lat="44.96997833" lon="-71.68566894">
+    <tag k="addr:city" v="Averill"/>
+    <tag k="addr:housenumber" v="238"/>
+    <tag k="addr:street" v="Beach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="112673"/>
+  </node>
   <node id="-192" visible="true" lat="44.97005081" lon="-71.69838714">
     <tag k="addr:city" v="Averill"/>
     <tag k="addr:housenumber" v="1594"/>
@@ -636,6 +643,13 @@
     <tag k="addr:street" v="Jackson Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="112688"/>
+  </node>
+  <node id="-206" visible="true" lat="44.96748352" lon="-71.6836853">
+    <tag k="addr:city" v="Averill"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Beach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="112689"/>
   </node>
   <node id="-207" visible="true" lat="44.96758939" lon="-71.68236019">
     <tag k="addr:city" v="Averill"/>

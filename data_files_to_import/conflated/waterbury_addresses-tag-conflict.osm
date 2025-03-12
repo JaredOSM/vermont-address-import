@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-329" visible="true" lat="44.38983065" lon="-72.76735188">
-    <!-- conflict: "3444 Little River Road, , VT" Fuzzy match to "3444 Little River Road, , " -->
-    <tag k="addr:housenumber" v="3444"/>
-    <tag k="addr:street" v="Little River Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="273438"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-446" visible="true" lat="44.38096413" lon="-72.71997116">
     <!-- conflict: "3582 Waterbury Stowe Road, , VT" No match in OSM, but a different address exists <5m away: "3852 Waterbury Stowe Road, Waterbury Center, VT" -->
     <tag k="addr:housenumber" v="3582"/>
@@ -28,60 +21,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274618"/>
   </node>
-  <node id="-1446" visible="true" lat="44.34228184" lon="-72.759014">
-    <!-- conflict: "47 North Main Street, , VT" Fuzzy match to "47 North Main Street, Waterbury, " -->
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="274652"/>
-  </node>
-  <node id="-1466" visible="true" lat="44.34188485" lon="-72.75955337">
-    <!-- conflict: "47 North Main Street, , VT" Fuzzy match to "47 North Main Street, Waterbury, " -->
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="274674"/>
-  </node>
-  <node id="-1596" visible="true" lat="44.33870486" lon="-72.75777014">
-    <!-- conflict: "18 North Main Street, , VT" Fuzzy match to "18 North Main Street, Waterbury, " -->
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="274836"/>
-  </node>
-  <node id="-1656" visible="true" lat="44.33768472" lon="-72.75611172">
-    <!-- conflict: "1 Stowe Street, , VT" Fuzzy match to "1 Stowe Street, , " -->
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Stowe Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="274907"/>
-  </node>
-  <node id="-1686" visible="true" lat="44.33726378" lon="-72.75648966">
-    <!-- conflict: "3 Elm Street, , VT" Fuzzy match to "3 Elm Street, , " -->
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Elm Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="274946"/>
-  </node>
-  <node id="-1743" visible="true" lat="44.33524386" lon="-72.75290788">
-    <!-- conflict: "80 South Main Street, , VT" Fuzzy match to "80 South Main Street, , " -->
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275017"/>
-  </node>
   <node id="-2019" visible="true" lat="44.33711097" lon="-72.7552613">
     <!-- conflict: "38 South Main Street, , VT" Fuzzy match to "38 North Main Street, Waterbury, VT" -->
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275359"/>
-  </node>
-  <node id="-2326" visible="true" lat="44.35671552" lon="-72.79509425">
-    <!-- conflict: "1901 U.S. Route 2, , VT" Fuzzy match to "1901 U.S. Route 2, Waterbury, " -->
-    <tag k="addr:housenumber" v="1901"/>
-    <tag k="addr:street" v="U.S. Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="452565"/>
   </node>
 </osm>

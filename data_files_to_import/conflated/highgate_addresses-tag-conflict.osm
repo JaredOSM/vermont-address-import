@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-992" visible="true" lat="44.93851852" lon="-73.04582214">
-    <!-- conflict: "9 Saint Armand Road, , VT" Fuzzy match to "9 Saint Armand Road, , " -->
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Saint Armand Road"/>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-133" visible="true" lat="45.00445955" lon="-73.07993952">
+    <!-- conflict: "5513 U.S. Route 7, , VT" Fuzzy match to "5513 US Route 7, Highgate, VT" -->
+    <tag k="addr:housenumber" v="5513"/>
+    <tag k="addr:street" v="U.S. Route 7"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="127399"/>
+    <tag k="ref:vcgi:esiteid" v="126522"/>
+  </node>
+  <node id="-136" visible="true" lat="45.0037056" lon="-73.09117668">
+    <!-- conflict: "148 Sunset Drive, , VT" No match in OSM, but a different address exists <5m away: "148 Country Club Road, Highgate, VT" -->
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Sunset Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126525"/>
   </node>
   <node id="-1368" visible="true" lat="44.92637941" lon="-72.96989075">
     <!-- conflict: "7581 Vermont Route 78, , VT" No match in OSM, but a different address exists <5m away: "7581 Vt Route 78, Highgate, VT" -->
@@ -20,5 +27,12 @@
     <tag k="addr:street" v="Vermont Route 78"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="127808"/>
+  </node>
+  <node id="-1950" visible="true" lat="44.99752729" lon="-73.0903018">
+    <!-- conflict: "761 Country Club Road, , VT" No match in OSM, but a different address exists <5m away: "767 Country Club Road, Highgate, VT" -->
+    <tag k="addr:housenumber" v="761"/>
+    <tag k="addr:street" v="Country Club Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610440"/>
   </node>
 </osm>

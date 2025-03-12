@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-1779" visible="true" lat="44.45704468" lon="-73.13825793">
     <!-- offset: "3 Gregory Drive, South Burlington, VT" Significant offset - 117.1m -->
     <tag k="addr:city" v="South Burlington"/>
@@ -15,6 +15,54 @@
     <tag k="addr:street" v="Williston Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228919"/>
+  </node>
+  <node id="-1867" visible="true" lat="44.4555472" lon="-73.16168327">
+    <!-- offset: "125 Kennedy Drive, South Burlington, VT" Significant offset - 175.3m -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Kennedy Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229024"/>
+  </node>
+  <node id="-1879" visible="true" lat="44.45524247" lon="-73.16226138">
+    <!-- offset: "125 Kennedy Drive, South Burlington, VT" Significant offset - 118.3m -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Kennedy Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229039"/>
+  </node>
+  <node id="-1946" visible="true" lat="44.45464584" lon="-73.16160413">
+    <!-- offset: "125 Kennedy Drive, South Burlington, VT" Significant offset - 145.1m -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Kennedy Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229122"/>
+  </node>
+  <node id="-1967" visible="true" lat="44.45414694" lon="-73.16302226">
+    <!-- offset: "630 Hinesburg Road, South Burlington, VT" Significant offset - 114.8m -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="630"/>
+    <tag k="addr:street" v="Hinesburg Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229147"/>
+  </node>
+  <node id="-1995" visible="true" lat="44.45377494" lon="-73.16308032">
+    <!-- offset: "630 Hinesburg Road, South Burlington, VT" Significant offset - 109.3m -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="630"/>
+    <tag k="addr:street" v="Hinesburg Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229186"/>
+  </node>
+  <node id="-2230" visible="true" lat="44.44966495" lon="-73.20710765">
+    <!-- offset: "570 Shelburne Road, South Burlington, VT" Significant offset - 136.6m -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="570"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229485"/>
   </node>
   <node id="-5753" visible="true" lat="44.46265259" lon="-73.16719035">
     <!-- offset: "200 Hinesburg Road, South Burlington, VT" Significant offset - 164.2m -->

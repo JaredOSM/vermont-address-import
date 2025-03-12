@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="44.02521066" lon="-72.72695061">
     <tag k="addr:housenumber" v="1468"/>
     <tag k="addr:street" v="Connecticut Corners Road"/>
@@ -23,12 +23,6 @@
     <tag k="addr:street" v="Connecticut Corners Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="27018"/>
-  </node>
-  <node id="-105" visible="true" lat="44.01805057" lon="-72.71353055">
-    <tag k="addr:housenumber" v="859"/>
-    <tag k="addr:street" v="Bover Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="27019"/>
   </node>
   <node id="-106" visible="true" lat="44.01658719" lon="-72.72823268">
     <tag k="addr:housenumber" v="862"/>
@@ -54,23 +48,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="27023"/>
   </node>
-  <node id="-110" visible="true" lat="44.01449586" lon="-72.72652144">
-    <tag k="addr:housenumber" v="130"/>
-    <tag k="addr:street" v="Bover Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="27024"/>
-  </node>
   <node id="-111" visible="true" lat="44.01392046" lon="-72.73241792">
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Old Home Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="27025"/>
-  </node>
-  <node id="-112" visible="true" lat="44.01448894" lon="-72.68994607">
-    <tag k="addr:housenumber" v="733"/>
-    <tag k="addr:street" v="Bouvant Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="27026"/>
   </node>
   <node id="-113" visible="true" lat="44.01191185" lon="-72.72506973">
     <tag k="addr:housenumber" v="2355"/>
@@ -1463,12 +1445,6 @@
     <tag k="addr:street" v="Peth Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="27295"/>
-  </node>
-  <node id="-375" visible="true" lat="43.96924142" lon="-72.68810686">
-    <tag k="addr:housenumber" v="2756"/>
-    <tag k="addr:street" v="Braintree Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="27296"/>
   </node>
   <node id="-376" visible="true" lat="43.96935498" lon="-72.7293096">
     <tag k="addr:housenumber" v="150"/>
@@ -4289,12 +4265,6 @@
     <tag k="addr:street" v="Summit Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768178"/>
-  </node>
-  <node id="-1364" visible="true" lat="43.94384461" lon="-72.75047847">
-    <tag k="addr:housenumber" v="2576"/>
-    <tag k="addr:street" v="Riford Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1050051"/>
   </node>
   <node id="-1365" visible="true" lat="43.93424759" lon="-72.75053378">
     <tag k="addr:housenumber" v="3238"/>

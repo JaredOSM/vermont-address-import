@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-110" visible="true" lat="43.62787414" lon="-72.4559702">
     <!-- conflict: "69 U.S. Route 4, , VT" Fuzzy match to "69 US Route 4, Hartland, VT" -->
     <tag k="addr:housenumber" v="69"/>
@@ -34,6 +34,20 @@
     <tag k="addr:street" v="Chase School Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125278"/>
+  </node>
+  <node id="-452" visible="true" lat="43.5945397" lon="-72.47492561">
+    <!-- conflict: "10 Crystal Path Left, , VT" No match in OSM, but a different address exists <5m away: "10 Crystal Path, Hartland, VT" -->
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Crystal Path Left"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125280"/>
+  </node>
+  <node id="-467" visible="true" lat="43.59321057" lon="-72.47622923">
+    <!-- conflict: "18 Crystal Path Left, , VT" No match in OSM, but a different address exists <5m away: "18 Crystal Path, Hartland, VT" -->
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Crystal Path Left"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125296"/>
   </node>
   <node id="-927" visible="true" lat="43.5513916" lon="-72.38627624">
     <!-- conflict: "275 U.S. Route 5, , VT" Fuzzy match to "275 US Route 5, Hartland, VT" -->

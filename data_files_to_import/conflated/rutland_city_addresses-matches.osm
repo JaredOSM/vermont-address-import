@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-196" visible="true" lat="43.62716153" lon="-72.97629213">
     <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="261"/>
@@ -13,6 +13,21 @@
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="207597"/>
+  </node>
+  <node id="-234" visible="true" lat="43.62588987" lon="-72.98663745">
+    <!-- match: "275 Grove Street, Rutland, VT"  ignoring missing state when matching to "275 Grove Street, Rutland, " -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="207626"/>
+  </node>
+  <node id="-800" visible="true" lat="43.61934501" lon="-72.95579664">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:street" v="Woodstock Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="208194"/>
   </node>
   <node id="-944" visible="true" lat="43.61796188" lon="-72.97362518">
     <tag k="addr:city" v="Rutland"/>
@@ -42,6 +57,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="208754"/>
   </node>
+  <node id="-1715" visible="true" lat="43.61400451" lon="-72.96478683">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Woodstock Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="209118"/>
+  </node>
+  <node id="-1890" visible="true" lat="43.6130173" lon="-72.96508635">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Woodstock Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="209293"/>
+  </node>
   <node id="-1953" visible="true" lat="43.61285747" lon="-72.9883686">
     <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="88"/>
@@ -69,6 +98,20 @@
     <tag k="addr:street" v="Lincoln Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="210323"/>
+  </node>
+  <node id="-3025" visible="true" lat="43.60919944" lon="-72.97293265">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="210456"/>
+  </node>
+  <node id="-3231" visible="true" lat="43.60832214" lon="-72.9682312">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="East Center Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="210668"/>
   </node>
   <node id="-3266" visible="true" lat="43.60823747" lon="-72.9798703">
     <tag k="addr:city" v="Rutland"/>
@@ -119,6 +162,34 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="210891"/>
   </node>
+  <node id="-3455" visible="true" lat="43.60723448" lon="-72.96608513">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Lafayette Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="210899"/>
+  </node>
+  <node id="-3471" visible="true" lat="43.60712814" lon="-72.96632385">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="East Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="210916"/>
+  </node>
+  <node id="-3475" visible="true" lat="43.60711288" lon="-72.96656036">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="East Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="210920"/>
+  </node>
+  <node id="-3487" visible="true" lat="43.60704421" lon="-72.96684265">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="East Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="210933"/>
+  </node>
   <node id="-3488" visible="true" lat="43.60695746" lon="-72.97286018">
     <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="104"/>
@@ -133,12 +204,82 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="210937"/>
   </node>
+  <node id="-3504" visible="true" lat="43.60701436" lon="-72.96705377">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="East Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="210950"/>
+  </node>
+  <node id="-3516" visible="true" lat="43.60696539" lon="-72.96733454">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="East Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="210962"/>
+  </node>
+  <node id="-3527" visible="true" lat="43.60691459" lon="-72.96759545">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="East Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="210974"/>
+  </node>
+  <node id="-3541" visible="true" lat="43.60677337" lon="-72.96607971">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Lafayette Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="210988"/>
+  </node>
+  <node id="-3544" visible="true" lat="43.60671292" lon="-72.96662691">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="East Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="210991"/>
+  </node>
+  <node id="-3559" visible="true" lat="43.6066757" lon="-72.96696698">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="East Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="211006"/>
+  </node>
+  <node id="-3566" visible="true" lat="43.60660075" lon="-72.96722669">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="East Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="211013"/>
+  </node>
   <node id="-3569" visible="true" lat="43.60667785" lon="-72.97920427">
     <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:street" v="Center Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="211016"/>
+  </node>
+  <node id="-3581" visible="true" lat="43.60660968" lon="-72.96743605">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="East Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="211028"/>
+  </node>
+  <node id="-3587" visible="true" lat="43.60655828" lon="-72.96773179">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="East Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="211035"/>
+  </node>
+  <node id="-3851" visible="true" lat="43.60519348" lon="-72.99427023">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="360"/>
+    <tag k="addr:street" v="West Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="211301"/>
   </node>
   <node id="-3927" visible="true" lat="43.60493579" lon="-72.99994887">
     <tag k="addr:city" v="Rutland"/>
@@ -168,6 +309,43 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="212261"/>
   </node>
+  <node id="-4817" visible="true" lat="43.59983825" lon="-72.9728012">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:street" v="Strongs Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212301"/>
+  </node>
+  <node id="-4856" visible="true" lat="43.5993843" lon="-72.95885467">
+    <!-- match: "101 Allen Street, Rutland, VT"  ignoring missing state when matching to "101 Allen Street, Rutland, " -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="Allen Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212343"/>
+  </node>
+  <node id="-4886" visible="true" lat="43.5988121" lon="-72.96979522">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212374"/>
+  </node>
+  <node id="-4897" visible="true" lat="43.59827661" lon="-72.95511734">
+    <!-- match: "160 Allen Street, Rutland, VT"  ignoring missing state when matching to "160 Allen Street, Rutland, " -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Allen Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212390"/>
+  </node>
+  <node id="-4912" visible="true" lat="43.59802788" lon="-72.97073694">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="153"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212408"/>
+  </node>
   <node id="-5059" visible="true" lat="43.59660339" lon="-72.96808624">
     <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="19"/>
@@ -181,6 +359,188 @@
     <tag k="addr:street" v="Haywood Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="212703"/>
+  </node>
+  <node id="-5256" visible="true" lat="43.5944712" lon="-72.9570007">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Haywood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212771"/>
+  </node>
+  <node id="-5269" visible="true" lat="43.59433126" lon="-72.95739753">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Haywood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212784"/>
+  </node>
+  <node id="-5273" visible="true" lat="43.59428118" lon="-72.956814">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Gay Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212788"/>
+  </node>
+  <node id="-5277" visible="true" lat="43.59428651" lon="-72.95773077">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Haywood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212793"/>
+  </node>
+  <node id="-5281" visible="true" lat="43.59424072" lon="-72.95809328">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Haywood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212797"/>
+  </node>
+  <node id="-5286" visible="true" lat="43.59419087" lon="-72.95845564">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Haywood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212802"/>
+  </node>
+  <node id="-5291" visible="true" lat="43.59412587" lon="-72.95881537">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Haywood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212807"/>
+  </node>
+  <node id="-5302" visible="true" lat="43.59406755" lon="-72.95918361">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Haywood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212818"/>
+  </node>
+  <node id="-5315" visible="true" lat="43.59396743" lon="-72.95968627">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Haywood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212831"/>
+  </node>
+  <node id="-5321" visible="true" lat="43.59391403" lon="-72.96006774">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Haywood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212837"/>
+  </node>
+  <node id="-5330" visible="true" lat="43.59387491" lon="-72.95685773">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212846"/>
+  </node>
+  <node id="-5333" visible="true" lat="43.59378121" lon="-72.96041104">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Haywood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212849"/>
+  </node>
+  <node id="-5334" visible="true" lat="43.59380304" lon="-72.95723768">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212850"/>
+  </node>
+  <node id="-5335" visible="true" lat="43.59366282" lon="-72.9607939">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Haywood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212851"/>
+  </node>
+  <node id="-5351" visible="true" lat="43.59347206" lon="-72.95905748">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212867"/>
+  </node>
+  <node id="-5355" visible="true" lat="43.59341741" lon="-72.95951634">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212871"/>
+  </node>
+  <node id="-5356" visible="true" lat="43.5933497" lon="-72.95981581">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212872"/>
+  </node>
+  <node id="-5363" visible="true" lat="43.59327589" lon="-72.96050555">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212879"/>
+  </node>
+  <node id="-5366" visible="true" lat="43.5932678" lon="-72.96202642">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="236"/>
+    <tag k="addr:street" v="Mussey Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212882"/>
+  </node>
+  <node id="-5371" visible="true" lat="43.59321688" lon="-72.96087277">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212887"/>
+  </node>
+  <node id="-5377" visible="true" lat="43.59316274" lon="-72.9612011">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212893"/>
+  </node>
+  <node id="-5382" visible="true" lat="43.59310567" lon="-72.96161084">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212898"/>
+  </node>
+  <node id="-5402" visible="true" lat="43.59279765" lon="-72.96893174">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="228"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212918"/>
+  </node>
+  <node id="-5458" visible="true" lat="43.59225903" lon="-72.96859359">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="238"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212974"/>
+  </node>
+  <node id="-5507" visible="true" lat="43.59161227" lon="-72.98119955">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="Park Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="213025"/>
+  </node>
+  <node id="-5521" visible="true" lat="43.59157476" lon="-72.96344134">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="213039"/>
   </node>
   <node id="-5581" visible="true" lat="43.62457938" lon="-72.97472833">
     <tag k="addr:city" v="Rutland"/>
@@ -217,6 +577,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="213664"/>
   </node>
+  <node id="-5721" visible="true" lat="43.59376516" lon="-72.95758864">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="213685"/>
+  </node>
+  <node id="-5734" visible="true" lat="43.59138422" lon="-72.96953551">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="241"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="213702"/>
+  </node>
   <node id="-5960" visible="true" lat="43.59568654" lon="-72.97658768">
     <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="71"/>
@@ -224,12 +598,97 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343829"/>
   </node>
+  <node id="-6000" visible="true" lat="43.61297605" lon="-72.98099194">
+    <!-- match: "67 Library Avenue, Rutland, VT"  ignoring missing state when matching to "67 Library Avenue, Rutland, " -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Library Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="343871"/>
+  </node>
+  <node id="-6028" visible="true" lat="43.60146837" lon="-72.99013709">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="445143"/>
+  </node>
+  <node id="-6090" visible="true" lat="43.60671176" lon="-72.96666335">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="East Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="445228"/>
+  </node>
+  <node id="-6109" visible="true" lat="43.61467025" lon="-72.95706057">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Stratton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="445480"/>
+  </node>
+  <node id="-6127" visible="true" lat="43.61816077" lon="-72.95919614">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Hillside Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451557"/>
+  </node>
+  <node id="-6150" visible="true" lat="43.61942203" lon="-72.95025153">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="Gleason Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612786"/>
+  </node>
+  <node id="-6152" visible="true" lat="43.62650813" lon="-72.97266595">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="258"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613140"/>
+  </node>
+  <node id="-6153" visible="true" lat="43.59343819" lon="-72.96187018">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="234"/>
+    <tag k="addr:street" v="Mussey Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613195"/>
+  </node>
   <node id="-6203" visible="true" lat="43.60574798" lon="-72.98170352">
     <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:street" v="Evelyn Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751319"/>
+  </node>
+  <node id="-6209" visible="true" lat="43.59354742" lon="-72.9586249">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751342"/>
+  </node>
+  <node id="-6210" visible="true" lat="43.59359037" lon="-72.95830575">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751343"/>
+  </node>
+  <node id="-6211" visible="true" lat="43.59366611" lon="-72.95797866">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Curtis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751344"/>
+  </node>
+  <node id="-6221" visible="true" lat="43.60782039" lon="-72.98813806">
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Cleveland Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751544"/>
   </node>
   <node id="-6312" visible="true" lat="43.60614688" lon="-72.97921703">
     <tag k="addr:city" v="Rutland"/>

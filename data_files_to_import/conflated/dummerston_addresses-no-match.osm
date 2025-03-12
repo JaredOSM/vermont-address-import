@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-101" visible="true" lat="42.96751396" lon="-72.61729632">
-    <tag k="addr:housenumber" v="194"/>
-    <tag k="addr:street" v="Purple Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="88972"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-102" visible="true" lat="42.96650156" lon="-72.60809866">
     <tag k="addr:housenumber" v="523"/>
     <tag k="addr:street" v="Holland Hill"/>
@@ -17,12 +11,6 @@
     <tag k="addr:street" v="Bunker Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="88976"/>
-  </node>
-  <node id="-104" visible="true" lat="42.966212" lon="-72.61646172">
-    <tag k="addr:housenumber" v="260"/>
-    <tag k="addr:street" v="Purple Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="88977"/>
   </node>
   <node id="-105" visible="true" lat="42.96576962" lon="-72.56744342">
     <tag k="addr:housenumber" v="1091"/>
@@ -114,12 +102,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89008"/>
   </node>
-  <node id="-134" visible="true" lat="42.96352375" lon="-72.61629746">
-    <tag k="addr:housenumber" v="358"/>
-    <tag k="addr:street" v="Purple Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89010"/>
-  </node>
   <node id="-136" visible="true" lat="42.96343607" lon="-72.55381137">
     <tag k="addr:housenumber" v="345"/>
     <tag k="addr:street" v="Greenhoe Road"/>
@@ -179,12 +161,6 @@
     <tag k="addr:street" v="Park Laughton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89034"/>
-  </node>
-  <node id="-156" visible="true" lat="42.96238059" lon="-72.61333658">
-    <tag k="addr:housenumber" v="407"/>
-    <tag k="addr:street" v="Purple Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89035"/>
   </node>
   <node id="-159" visible="true" lat="42.96217727" lon="-72.55689239">
     <tag k="addr:housenumber" v="237"/>
@@ -1277,12 +1253,6 @@
     <tag k="addr:street" v="Sugar House Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89238"/>
-  </node>
-  <node id="-358" visible="true" lat="42.94639319" lon="-72.64161849">
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Williamsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89239"/>
   </node>
   <node id="-359" visible="true" lat="42.94649887" lon="-72.61856079">
     <tag k="addr:housenumber" v="14"/>
@@ -2718,12 +2688,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89489"/>
   </node>
-  <node id="-602" visible="true" lat="42.92435966" lon="-72.64655898">
-    <tag k="addr:housenumber" v="360"/>
-    <tag k="addr:street" v="Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89490"/>
-  </node>
   <node id="-603" visible="true" lat="42.92458433" lon="-72.61553552">
     <tag k="addr:housenumber" v="251"/>
     <tag k="addr:street" v="Leonard Road"/>
@@ -2862,12 +2826,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89513"/>
   </node>
-  <node id="-626" visible="true" lat="42.92222375" lon="-72.6667526">
-    <tag k="addr:housenumber" v="2044"/>
-    <tag k="addr:street" v="Stickney Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89514"/>
-  </node>
   <node id="-627" visible="true" lat="42.92219763" lon="-72.55525952">
     <tag k="addr:housenumber" v="209"/>
     <tag k="addr:street" v="Knapp Road East"/>
@@ -2994,18 +2952,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89535"/>
   </node>
-  <node id="-648" visible="true" lat="42.92040634" lon="-72.66931152">
-    <tag k="addr:housenumber" v="2112"/>
-    <tag k="addr:street" v="Stickney Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89536"/>
-  </node>
-  <node id="-649" visible="true" lat="42.92039108" lon="-72.67368316">
-    <tag k="addr:housenumber" v="2463"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89537"/>
-  </node>
   <node id="-650" visible="true" lat="42.92048645" lon="-72.55944061">
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Knapp Road West"/>
@@ -3054,12 +3000,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89546"/>
   </node>
-  <node id="-658" visible="true" lat="42.92007064" lon="-72.64219665">
-    <tag k="addr:housenumber" v="196"/>
-    <tag k="addr:street" v="Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89547"/>
-  </node>
   <node id="-659" visible="true" lat="42.92021743" lon="-72.53926321">
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Charette Drive"/>
@@ -3096,12 +3036,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89553"/>
   </node>
-  <node id="-665" visible="true" lat="42.91958999" lon="-72.66033172">
-    <tag k="addr:housenumber" v="1868"/>
-    <tag k="addr:street" v="Stickney Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89554"/>
-  </node>
   <node id="-666" visible="true" lat="42.91970433" lon="-72.55978865">
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="Knapp Road West"/>
@@ -3113,12 +3047,6 @@
     <tag k="addr:street" v="Black Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89556"/>
-  </node>
-  <node id="-668" visible="true" lat="42.9196005" lon="-72.64368246">
-    <tag k="addr:housenumber" v="197"/>
-    <tag k="addr:street" v="Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89557"/>
   </node>
   <node id="-669" visible="true" lat="42.91965708" lon="-72.53671138">
     <tag k="addr:housenumber" v="924"/>
@@ -3138,23 +3066,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89560"/>
   </node>
-  <node id="-672" visible="true" lat="42.91906043" lon="-72.64185915">
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Hopkins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89561"/>
-  </node>
   <node id="-673" visible="true" lat="42.91919919" lon="-72.5368535">
     <tag k="addr:housenumber" v="912"/>
     <tag k="addr:street" v="U.S. Route 5"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89562"/>
-  </node>
-  <node id="-674" visible="true" lat="42.91900634" lon="-72.64073181">
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Hopkins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89563"/>
   </node>
   <node id="-675" visible="true" lat="42.91900634" lon="-72.57107543">
     <tag k="addr:housenumber" v="456"/>
@@ -3186,12 +3102,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89568"/>
   </node>
-  <node id="-680" visible="true" lat="42.91854476" lon="-72.66875457">
-    <tag k="addr:housenumber" v="2125"/>
-    <tag k="addr:street" v="Stickney Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89569"/>
-  </node>
   <node id="-681" visible="true" lat="42.91860539" lon="-72.53838323">
     <tag k="addr:housenumber" v="885"/>
     <tag k="addr:street" v="U.S. Route 5"/>
@@ -3215,24 +3125,6 @@
     <tag k="addr:street" v="U.S. Route 5"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89574"/>
-  </node>
-  <node id="-685" visible="true" lat="42.91839112" lon="-72.63739436">
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="Hopkins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89575"/>
-  </node>
-  <node id="-686" visible="true" lat="42.91831588" lon="-72.64115905">
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Hopkins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89576"/>
-  </node>
-  <node id="-687" visible="true" lat="42.91823959" lon="-72.67343902">
-    <tag k="addr:housenumber" v="2400"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89577"/>
   </node>
   <node id="-688" visible="true" lat="42.9183855" lon="-72.62083884">
     <tag k="addr:housenumber" v="127"/>
@@ -3269,12 +3161,6 @@
     <tag k="addr:street" v="Stickney Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89583"/>
-  </node>
-  <node id="-694" visible="true" lat="42.91748046" lon="-72.67354583">
-    <tag k="addr:housenumber" v="2243"/>
-    <tag k="addr:street" v="Stickney Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89585"/>
   </node>
   <node id="-695" visible="true" lat="42.91743681" lon="-72.61896625">
     <tag k="addr:housenumber" v="74"/>
@@ -3330,12 +3216,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89594"/>
   </node>
-  <node id="-704" visible="true" lat="42.91671752" lon="-72.67404937">
-    <tag k="addr:housenumber" v="2344"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89595"/>
-  </node>
   <node id="-705" visible="true" lat="42.91679" lon="-72.53656768">
     <tag k="addr:housenumber" v="830"/>
     <tag k="addr:street" v="U.S. Route 5"/>
@@ -3383,12 +3263,6 @@
     <tag k="addr:street" v="Stickney Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89603"/>
-  </node>
-  <node id="-713" visible="true" lat="42.91612816" lon="-72.6462792">
-    <tag k="addr:housenumber" v="1412"/>
-    <tag k="addr:street" v="Stickney Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89604"/>
   </node>
   <node id="-714" visible="true" lat="42.91622142" lon="-72.53757812">
     <tag k="addr:housenumber" v="807"/>
@@ -3455,12 +3329,6 @@
     <tag k="addr:street" v="U.S. Route 5"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89616"/>
-  </node>
-  <node id="-725" visible="true" lat="42.91487884" lon="-72.64155578">
-    <tag k="addr:housenumber" v="1267"/>
-    <tag k="addr:street" v="Stickney Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89617"/>
   </node>
   <node id="-726" visible="true" lat="42.91489791" lon="-72.54875183">
     <tag k="addr:housenumber" v="84"/>
@@ -3744,12 +3612,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89666"/>
   </node>
-  <node id="-775" visible="true" lat="42.91271003" lon="-72.63980741">
-    <tag k="addr:housenumber" v="1039"/>
-    <tag k="addr:street" v="Stickney Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89667"/>
-  </node>
   <node id="-776" visible="true" lat="42.90940497" lon="-72.6021928">
     <tag k="addr:housenumber" v="1002"/>
     <tag k="addr:street" v="Rice Farm Road"/>
@@ -3809,12 +3671,6 @@
     <tag k="addr:street" v="High Bridge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89677"/>
-  </node>
-  <node id="-786" visible="true" lat="42.908432" lon="-72.54418945">
-    <tag k="addr:housenumber" v="471"/>
-    <tag k="addr:street" v="U.S. Route 5"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89678"/>
   </node>
   <node id="-787" visible="true" lat="42.90822982" lon="-72.67166137">
     <tag k="addr:housenumber" v="2001"/>
@@ -3882,12 +3738,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89691"/>
   </node>
-  <node id="-798" visible="true" lat="42.90678787" lon="-72.66840362">
-    <tag k="addr:housenumber" v="1910"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89692"/>
-  </node>
   <node id="-799" visible="true" lat="42.90671539" lon="-72.54759216">
     <tag k="addr:housenumber" v="371"/>
     <tag k="addr:street" v="U.S. Route 5"/>
@@ -3906,23 +3756,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89695"/>
   </node>
-  <node id="-802" visible="true" lat="42.90620803" lon="-72.67117309">
-    <tag k="addr:housenumber" v="68"/>
-    <tag k="addr:street" v="Fisch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89696"/>
-  </node>
   <node id="-803" visible="true" lat="42.9062697" lon="-72.60200778">
     <tag k="addr:housenumber" v="1703"/>
     <tag k="addr:street" v="West River Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89697"/>
-  </node>
-  <node id="-804" visible="true" lat="42.90607452" lon="-72.66721343">
-    <tag k="addr:housenumber" v="1872"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89698"/>
   </node>
   <node id="-805" visible="true" lat="42.90618133" lon="-72.54391479">
     <tag k="addr:housenumber" v="84"/>
@@ -3959,24 +3797,6 @@
     <tag k="addr:street" v="West River Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89704"/>
-  </node>
-  <node id="-811" visible="true" lat="42.90519714" lon="-72.66587829">
-    <tag k="addr:housenumber" v="1852"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89705"/>
-  </node>
-  <node id="-812" visible="true" lat="42.90471267" lon="-72.67169952">
-    <tag k="addr:housenumber" v="122"/>
-    <tag k="addr:street" v="Fisch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89706"/>
-  </node>
-  <node id="-813" visible="true" lat="42.90462112" lon="-72.66536712">
-    <tag k="addr:housenumber" v="1788"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89707"/>
   </node>
   <node id="-814" visible="true" lat="42.90464019" lon="-72.54891204">
     <tag k="addr:housenumber" v="294"/>
@@ -4032,12 +3852,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89716"/>
   </node>
-  <node id="-823" visible="true" lat="42.90377044" lon="-72.67080688">
-    <tag k="addr:housenumber" v="127"/>
-    <tag k="addr:street" v="Fisch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89717"/>
-  </node>
   <node id="-824" visible="true" lat="42.90381622" lon="-72.57232666">
     <tag k="addr:housenumber" v="739"/>
     <tag k="addr:street" v="Kipling Road"/>
@@ -4055,12 +3869,6 @@
     <tag k="addr:street" v="West River Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89720"/>
-  </node>
-  <node id="-827" visible="true" lat="42.90356445" lon="-72.66495513">
-    <tag k="addr:housenumber" v="1765"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89721"/>
   </node>
   <node id="-828" visible="true" lat="42.90357988" lon="-72.6042449">
     <tag k="addr:housenumber" v="1649"/>
@@ -4175,12 +3983,6 @@
     <tag k="addr:street" v="Oak Hill Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89740"/>
-  </node>
-  <node id="-847" visible="true" lat="42.90180305" lon="-72.67263343">
-    <tag k="addr:housenumber" v="227"/>
-    <tag k="addr:street" v="Fisch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89741"/>
   </node>
   <node id="-848" visible="true" lat="42.90139375" lon="-72.61816131">
     <tag k="addr:housenumber" v="71"/>
@@ -4512,18 +4314,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89797"/>
   </node>
-  <node id="-903" visible="true" lat="42.91619023" lon="-72.64028874">
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89798"/>
-  </node>
-  <node id="-904" visible="true" lat="42.92194713" lon="-72.67279785">
-    <tag k="addr:housenumber" v="2518"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89800"/>
-  </node>
   <node id="-905" visible="true" lat="42.92732827" lon="-72.54627801">
     <tag k="addr:housenumber" v="561"/>
     <tag k="addr:street" v="Nourse Hollow Road"/>
@@ -4698,24 +4488,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89829"/>
   </node>
-  <node id="-934" visible="true" lat="42.90353659" lon="-72.67433845">
-    <tag k="addr:housenumber" v="134"/>
-    <tag k="addr:street" v="Fisch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89830"/>
-  </node>
-  <node id="-935" visible="true" lat="42.90529817" lon="-72.67117761">
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Fisch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89831"/>
-  </node>
-  <node id="-936" visible="true" lat="42.91449117" lon="-72.63989984">
-    <tag k="addr:housenumber" v="1099"/>
-    <tag k="addr:street" v="Stickney Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89832"/>
-  </node>
   <node id="-937" visible="true" lat="42.91134104" lon="-72.6718675">
     <tag k="addr:housenumber" v="2108"/>
     <tag k="addr:street" v="Sunset Lake Road"/>
@@ -4728,29 +4500,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89834"/>
   </node>
-  <node id="-939" visible="true" lat="42.91386112" lon="-72.63838071">
-    <tag k="addr:housenumber" v="1070"/>
-    <tag k="addr:street" v="Stickney Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89835"/>
-  </node>
-  <node id="-940" visible="true" lat="42.91901502" lon="-72.64282008">
-    <tag k="addr:housenumber" v="159"/>
-    <tag k="addr:street" v="Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89836"/>
-  </node>
   <node id="-942" visible="true" lat="42.90772324" lon="-72.61997432">
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="High Bridge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89838"/>
-  </node>
-  <node id="-943" visible="true" lat="42.92148113" lon="-72.64502314">
-    <tag k="addr:housenumber" v="245"/>
-    <tag k="addr:street" v="Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89839"/>
   </node>
   <node id="-944" visible="true" lat="42.94023354" lon="-72.5695134">
     <tag k="addr:housenumber" v="53"/>
@@ -4872,12 +4626,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89860"/>
   </node>
-  <node id="-964" visible="true" lat="42.90607482" lon="-72.67506202">
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Fisch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89861"/>
-  </node>
   <node id="-965" visible="true" lat="42.92611031" lon="-72.55201783">
     <tag k="addr:housenumber" v="385"/>
     <tag k="addr:street" v="Tucker Reed Road"/>
@@ -4901,12 +4649,6 @@
     <tag k="addr:street" v="Leverwood Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="89865"/>
-  </node>
-  <node id="-970" visible="true" lat="42.9215595" lon="-72.67576274">
-    <tag k="addr:housenumber" v="2501"/>
-    <tag k="addr:street" v="Sunset Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89867"/>
   </node>
   <node id="-971" visible="true" lat="42.90904712" lon="-72.63499809">
     <tag k="addr:housenumber" v="962"/>
@@ -5154,12 +4896,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310629"/>
   </node>
-  <node id="-1013" visible="true" lat="42.92096084" lon="-72.67053581">
-    <tag k="addr:housenumber" v="2126"/>
-    <tag k="addr:street" v="Stickney Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="311381"/>
-  </node>
   <node id="-1015" visible="true" lat="42.90502351" lon="-72.60371507">
     <tag k="addr:housenumber" v="1695"/>
     <tag k="addr:street" v="Upper Dummerston Road"/>
@@ -5207,18 +4943,6 @@
     <tag k="addr:street" v="Emery Hill Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="314947"/>
-  </node>
-  <node id="-1024" visible="true" lat="42.91859885" lon="-72.66788678">
-    <tag k="addr:housenumber" v="2123"/>
-    <tag k="addr:street" v="Stickney Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="315207"/>
-  </node>
-  <node id="-1025" visible="true" lat="42.92433829" lon="-72.64754127">
-    <tag k="addr:housenumber" v="375"/>
-    <tag k="addr:street" v="Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="315272"/>
   </node>
   <node id="-1026" visible="true" lat="42.92772281" lon="-72.5892627">
     <tag k="addr:housenumber" v="2201"/>
@@ -5322,12 +5046,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="331819"/>
   </node>
-  <node id="-1043" visible="true" lat="42.92755964" lon="-72.64644653">
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Lost Mile Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="331832"/>
-  </node>
   <node id="-1044" visible="true" lat="42.91049252" lon="-72.6308801">
     <tag k="addr:housenumber" v="776"/>
     <tag k="addr:street" v="Stickney Brook Road"/>
@@ -5393,12 +5111,6 @@
     <tag k="addr:street" v="Beaver Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339527"/>
-  </node>
-  <node id="-1056" visible="true" lat="42.89958706" lon="-72.66261547">
-    <tag k="addr:housenumber" v="268"/>
-    <tag k="addr:street" v="Hescock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="339981"/>
   </node>
   <node id="-1057" visible="true" lat="42.92835829" lon="-72.54431076">
     <tag k="addr:housenumber" v="564"/>
@@ -5544,12 +5256,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455166"/>
   </node>
-  <node id="-1081" visible="true" lat="42.96765223" lon="-72.61348066">
-    <tag k="addr:housenumber" v="105"/>
-    <tag k="addr:street" v="Purple Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="455230"/>
-  </node>
   <node id="-1082" visible="true" lat="42.94825002" lon="-72.53784462">
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Old Sawmill Drive"/>
@@ -5562,23 +5268,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611669"/>
   </node>
-  <node id="-1084" visible="true" lat="42.91548704" lon="-72.64132397">
-    <tag k="addr:housenumber" v="1266"/>
-    <tag k="addr:street" v="Stickney Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="611902"/>
-  </node>
   <node id="-1085" visible="true" lat="42.95902582" lon="-72.56495717">
     <tag k="addr:housenumber" v="840"/>
     <tag k="addr:street" v="Bunker Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612107"/>
-  </node>
-  <node id="-1087" visible="true" lat="42.90305148" lon="-72.6701103">
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Fisch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="612790"/>
   </node>
   <node id="-1088" visible="true" lat="42.90867788" lon="-72.53843996">
     <tag k="addr:housenumber" v="48"/>

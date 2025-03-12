@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-208" visible="true" lat="44.85781943" lon="-73.28962063">
-    <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="218"/>
-    <tag k="addr:street" v="Poor Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1808"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-693" visible="true" lat="44.97899072" lon="-73.29806282">
     <!-- multiple: "45 Champlain Street, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
@@ -31,5 +23,53 @@
     <tag k="addr:street" v="Poor Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2881"/>
+  </node>
+  <node id="-1223" visible="true" lat="44.85827535" lon="-73.28946005">
+    <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2882"/>
+  </node>
+  <node id="-1224" visible="true" lat="44.85839361" lon="-73.28943716">
+    <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2883"/>
+  </node>
+  <node id="-1225" visible="true" lat="44.85850805" lon="-73.28939901">
+    <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2884"/>
+  </node>
+  <node id="-1226" visible="true" lat="44.85863523" lon="-73.2893504">
+    <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2885"/>
+  </node>
+  <node id="-1227" visible="true" lat="44.85881035" lon="-73.28931515">
+    <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2886"/>
+  </node>
+  <node id="-1228" visible="true" lat="44.8589248" lon="-73.28925412">
+    <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2887"/>
   </node>
 </osm>

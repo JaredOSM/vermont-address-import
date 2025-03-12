@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-109" visible="true" lat="44.52984687" lon="-73.27227854">
     <!-- conflict: "116 North Cove Road, Burlington, VT" No match in OSM, but a different address exists <5m away: "116 Cove Road, Burlington, VT" -->
     <tag k="addr:city" v="Burlington"/>
@@ -1031,14 +1031,6 @@
     <tag k="addr:street" v="Vest Haven Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="43279"/>
-  </node>
-  <node id="-632" visible="true" lat="44.52013248" lon="-73.26119025">
-    <!-- conflict: "24 Algird Street, Burlington, VT" No match in OSM, but a different address exists <5m away: " Algird Street, Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Algird Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="43286"/>
   </node>
   <node id="-688" visible="true" lat="44.51941106" lon="-73.25595095">
     <!-- conflict: "18 Saint Francis Park, Burlington, VT" No match in OSM, but a different address exists <5m away: " , Burlington, VT" -->
@@ -2272,16 +2264,8 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="46215"/>
   </node>
-  <node id="-3553" visible="true" lat="44.50032832" lon="-73.23555862">
-    <!-- conflict: "764 North Avenue, Burlington, VT" No match in OSM, but a different address exists <5m away: " North Avenue, Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="764"/>
-    <tag k="addr:street" v="North Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="46218"/>
-  </node>
   <node id="-3558" visible="true" lat="44.49675287" lon="-73.20557387">
-    <!-- conflict: "282 Intervale Road, Burlington, VT" No match in OSM, but a different address exists <5m away: "181 Intervale Road, Burlington, VT" -->
+    <!-- conflict: "282 Intervale Road, Burlington, VT" Fuzzy match to "282 Intervale Road, Burlington, Vermont" -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="282"/>
     <tag k="addr:street" v="Intervale Road"/>
@@ -2513,7 +2497,7 @@
     <tag k="ref:vcgi:esiteid" v="46667"/>
   </node>
   <node id="-4000" visible="true" lat="44.48565789" lon="-73.20016074">
-    <!-- conflict: "33 Prospect Hill, Burlington, VT" Fuzzy match to "33 Prospect Street, Burlington, VT" -->
+    <!-- conflict: "33 Prospect Hill, Burlington, VT" Fuzzy match to "33 Prospect Hill Street, Burlington, VT" -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="Prospect Hill"/>
@@ -4352,14 +4336,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="48600"/>
   </node>
-  <node id="-5915" visible="true" lat="44.48185111" lon="-73.2016574">
-    <!-- conflict: "33 North Prospect Street, Burlington, VT" Fuzzy match to "33 Prospect Street, Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="North Prospect Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="48601"/>
-  </node>
   <node id="-5925" visible="true" lat="44.48176053" lon="-73.20360797">
     <!-- conflict: "34 North Williams Street, Burlington, VT" Fuzzy match to "34 Williams Street, Burlington, VT" -->
     <tag k="addr:city" v="Burlington"/>
@@ -4639,14 +4615,6 @@
     <tag k="addr:street" v="South Champlain Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49381"/>
-  </node>
-  <node id="-6682" visible="true" lat="44.47682563" lon="-73.21508316">
-    <!-- conflict: "119 College Street, Burlington, VT" Fuzzy match to "119 College Street, Burlington, " -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="College Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="49392"/>
   </node>
   <node id="-6687" visible="true" lat="44.47911989" lon="-73.21997306">
     <!-- conflict: "112 Lake Street, Burlington, VT" Fuzzy match to "112 Lake Street, , VT" -->
@@ -5176,14 +5144,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49822"/>
   </node>
-  <node id="-7105" visible="true" lat="44.47331209" lon="-73.20907548">
-    <!-- conflict: "239 South Union Street, Burlington, VT" No match in OSM, but a different address exists <5m away: "239 Union Street, Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="239"/>
-    <tag k="addr:street" v="South Union Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="49823"/>
-  </node>
   <node id="-7106" visible="true" lat="44.47295102" lon="-73.20897013">
     <!-- conflict: "253 South Union Street, Burlington, VT" No match in OSM, but a different address exists <5m away: "253 Union Street, Burlington, VT" -->
     <tag k="addr:city" v="Burlington"/>
@@ -5423,22 +5383,6 @@
     <tag k="addr:street" v="South Prospect Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49957"/>
-  </node>
-  <node id="-7252" visible="true" lat="44.47482772" lon="-73.1888783">
-    <!-- conflict: "84 Centennial Woods Way, Burlington, VT" No match in OSM, but a different address exists <5m away: "280 East Avenue, Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="84"/>
-    <tag k="addr:street" v="Centennial Woods Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="49990"/>
-  </node>
-  <node id="-7253" visible="true" lat="44.47468951" lon="-73.18921056">
-    <!-- conflict: "82 Centennial Woods Way, Burlington, VT" No match in OSM, but a different address exists <5m away: "282 East Avenue, Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Centennial Woods Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="49991"/>
   </node>
   <node id="-7257" visible="true" lat="44.47111682" lon="-73.19744607">
     <!-- conflict: "370 South Prospect Street, Burlington, VT" Fuzzy match to "370 Prospect Street, Burlington, VT" -->
@@ -6560,14 +6504,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51022"/>
   </node>
-  <node id="-8276" visible="true" lat="44.45876326" lon="-73.20533584">
-    <!-- conflict: "65 Crescent Terrace, Burlington, VT" Fuzzy match to "65 Crescent Road, Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="Crescent Terrace"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="51026"/>
-  </node>
   <node id="-8300" visible="true" lat="44.45920998" lon="-73.20778348">
     <!-- conflict: "210 Shelburne Street, Burlington, VT" Fuzzy match to "210 Shelburne Road, Burlington, VT" -->
     <tag k="addr:city" v="Burlington"/>
@@ -6752,6 +6688,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51575"/>
   </node>
+  <node id="-8828" visible="true" lat="44.45553419" lon="-73.20047784">
+    <!-- conflict: "73 Fairmount Street, Burlington, VT" No match in OSM, but a different address exists <5m away: "73 , , " -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Fairmount Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="51591"/>
+  </node>
   <node id="-8838" visible="true" lat="44.45769661" lon="-73.1997931">
     <!-- conflict: "822 South Prospect Street, Burlington, VT" Fuzzy match to "822 Prospect Street, Burlington, VT" -->
     <tag k="addr:city" v="Burlington"/>
@@ -6935,6 +6879,14 @@
     <tag k="addr:street" v="South Meadow Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51902"/>
+  </node>
+  <node id="-9139" visible="true" lat="44.44958251" lon="-73.21085757">
+    <!-- conflict: "595 Shelburne Street, Burlington, VT" Fuzzy match to "595 Shelburne Road, Burlington, VT" -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="595"/>
+    <tag k="addr:street" v="Shelburne Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="51904"/>
   </node>
   <node id="-9146" visible="true" lat="44.45209484" lon="-73.21820267">
     <!-- conflict: "109 Briggs Street, Burlington, VT" No match in OSM, but a different address exists <5m away: "35 Batchelder Street, Burlington, VT" -->
@@ -7816,14 +7768,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53781"/>
   </node>
-  <node id="-10514" visible="true" lat="44.50031527" lon="-73.2355386">
-    <!-- conflict: "762 North Avenue, Burlington, VT" No match in OSM, but a different address exists <5m away: " North Avenue, Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="762"/>
-    <tag k="addr:street" v="North Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="53840"/>
-  </node>
   <node id="-10526" visible="true" lat="44.50336607" lon="-73.23922358">
     <!-- conflict: "13 Village Green, Burlington, VT" No match in OSM, but a different address exists <5m away: " Village Green, Burlington, VT" -->
     <tag k="addr:city" v="Burlington"/>
@@ -8576,14 +8520,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55138"/>
   </node>
-  <node id="-11463" visible="true" lat="44.47347214" lon="-73.21401502">
-    <!-- conflict: "205 Saint Paul Street, Burlington, VT" Fuzzy match to "205 Saint Paul Street, Burlington, " -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Saint Paul Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="55155"/>
-  </node>
   <node id="-11465" visible="true" lat="44.4722938" lon="-73.21411987">
     <!-- conflict: "249 Saint Paul Street, Burlington, VT" No match in OSM, but a different address exists <5m away: " Saint Paul Street, , VT" -->
     <tag k="addr:city" v="Burlington"/>
@@ -8752,14 +8688,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55296"/>
   </node>
-  <node id="-11802" visible="true" lat="44.47897064" lon="-73.21646524">
-    <!-- conflict: "67 Cherry Street, Burlington, VT" Fuzzy match to "67 Cherry Street, Burlington, " -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Cherry Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="55515"/>
-  </node>
   <node id="-11807" visible="true" lat="44.48774538" lon="-73.208553">
     <!-- conflict: "289 North Winooski Avenue, Burlington, VT" Fuzzy match to "289 Winooski Avenue, Burlington, VT" -->
     <tag k="addr:city" v="Burlington"/>
@@ -8783,14 +8711,6 @@
     <tag k="addr:street" v="College Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55522"/>
-  </node>
-  <node id="-11814" visible="true" lat="44.44818842" lon="-73.2097235">
-    <!-- conflict: "555 Shelburne Street, Burlington, VT" No match in OSM, but a different address exists <5m away: " Shelburne Road, Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="555"/>
-    <tag k="addr:street" v="Shelburne Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="55527"/>
   </node>
   <node id="-11878" visible="true" lat="44.48086815" lon="-73.21205142">
     <!-- conflict: "6 Clarke Street, Burlington, VT" No match in OSM, but a different address exists <5m away: "8 Clark Street, Burlington, VT" -->

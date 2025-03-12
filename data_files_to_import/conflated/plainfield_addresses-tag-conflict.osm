@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-104" visible="true" lat="44.28211413" lon="-72.43791751">
-    <!-- conflict: "327 Vermont Route 214, , VT" No match in OSM, but a different address exists <5m away: "327 Vt Route 214, Plainfield, VT" -->
-    <tag k="addr:housenumber" v="327"/>
-    <tag k="addr:street" v="Vermont Route 214"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="188855"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-106" visible="true" lat="44.28151694" lon="-72.43903983">
     <!-- conflict: "68 Loop Road, , VT" No match in OSM, but a different address exists <5m away: "108 Loop Road, Plainfield, VT" -->
     <tag k="addr:housenumber" v="68"/>
@@ -84,32 +77,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="188874"/>
   </node>
-  <node id="-123" visible="true" lat="44.27966804" lon="-72.43543247">
-    <!-- conflict: "114 Vermont Route 214, , VT" No match in OSM, but a different address exists <5m away: "114 Vt Route 214, Plainfield, VT" -->
-    <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:street" v="Vermont Route 214"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="188876"/>
-  </node>
   <node id="-128" visible="true" lat="44.27907299" lon="-72.43844542">
     <!-- conflict: "123 Pitkin Road, , VT" No match in OSM, but a different address exists <5m away: "165 Pitkin Road, Plainfield, VT" -->
     <tag k="addr:housenumber" v="123"/>
     <tag k="addr:street" v="Pitkin Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="188881"/>
-  </node>
-  <node id="-178" visible="true" lat="44.27781588" lon="-72.42440441">
-    <!-- conflict: "69 Main Street, , VT" Fuzzy match to "69 Main Street, , " -->
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="188941"/>
-  </node>
-  <node id="-570" visible="true" lat="44.28185377" lon="-72.43594284">
-    <!-- conflict: "35 Sugarwood Road, , VT" No match in OSM, but a different address exists <5m away: "30 Greatwood Drive, Plainfield, VT" -->
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Sugarwood Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="189345"/>
   </node>
 </osm>

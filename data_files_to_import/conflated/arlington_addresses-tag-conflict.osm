@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-231" visible="true" lat="43.1046359" lon="-73.2242705">
     <!-- conflict: "4372 Vermont Route 313 West, Arlington, VT" No match in OSM, but a different address exists <5m away: "4372 Batten Kill Road, Arlington, VT" -->
     <tag k="addr:city" v="Arlington"/>
@@ -7,22 +7,6 @@
     <tag k="addr:street" v="Vermont Route 313 West"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3815"/>
-  </node>
-  <node id="-287" visible="true" lat="43.10166181" lon="-73.13622172">
-    <!-- conflict: "6156 Vermont Route 7A, Arlington, VT" No match in OSM, but a different address exists <5m away: "6156 Vt Route 7A, Arlington, VT" -->
-    <tag k="addr:city" v="Arlington"/>
-    <tag k="addr:housenumber" v="6156"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3871"/>
-  </node>
-  <node id="-291" visible="true" lat="43.10141157" lon="-73.13666732">
-    <!-- conflict: "6112 Vermont Route 7A, Arlington, VT" No match in OSM, but a different address exists <5m away: "6112 Vt Route 7A, Arlington, VT" -->
-    <tag k="addr:city" v="Arlington"/>
-    <tag k="addr:housenumber" v="6112"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3875"/>
   </node>
   <node id="-321" visible="true" lat="43.09882202" lon="-73.20549426">
     <!-- conflict: "3307 Vermont Route 313 West, Arlington, VT" No match in OSM, but a different address exists <5m away: "3307 Batten Kill Road, Arlington, VT" -->
@@ -55,6 +39,22 @@
     <tag k="addr:street" v="Vermont Route 313 West"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4154"/>
+  </node>
+  <node id="-596" visible="true" lat="43.07441324" lon="-73.16738196">
+    <!-- conflict: "87 West Mountain Inn Road, Arlington, VT" Fuzzy match to "87 West Mountain Inn Road, , VT" -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="West Mountain Inn Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4184"/>
+  </node>
+  <node id="-609" visible="true" lat="43.07391746" lon="-73.16862822">
+    <!-- conflict: "144 West Mountain Inn Road, Arlington, VT" Fuzzy match to "144 West Mountain Inn Road, , " -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="West Mountain Inn Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4198"/>
   </node>
   <node id="-627" visible="true" lat="43.07302466" lon="-73.15418448">
     <!-- conflict: "3784 Vermont Route 7A, Arlington, VT" No match in OSM, but a different address exists <5m away: "3784 Vt Route 7A, Arlington, VT" -->
@@ -111,6 +111,14 @@
     <tag k="addr:street" v="Vermont Route 313 West"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4839"/>
+  </node>
+  <node id="-1237" visible="true" lat="43.07377224" lon="-73.15401293">
+    <!-- conflict: "3828 Vermont Route 7A, Arlington, VT" No match in OSM, but a different address exists <5m away: "3828 Vt Route 7A, Arlington, VT" -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="3828"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4859"/>
   </node>
   <node id="-1241" visible="true" lat="43.05410989" lon="-73.15477068">
     <!-- conflict: "81 Paradise Hill, Arlington, VT" Fuzzy match to "81 Paradise Hollow, Arlington, VT" -->

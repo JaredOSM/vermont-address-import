@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-102" visible="true" lat="43.8451408" lon="-73.03135645">
     <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="103"/>
@@ -77,13 +77,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="28604"/>
   </node>
-  <node id="-909" visible="true" lat="43.80109311" lon="-73.0941551">
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Grove Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28608"/>
-  </node>
   <node id="-910" visible="true" lat="43.80124094" lon="-73.09515896">
     <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="16"/>
@@ -125,13 +118,6 @@
     <tag k="addr:street" v="Grove Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="28631"/>
-  </node>
-  <node id="-929" visible="true" lat="43.80096872" lon="-73.09391863">
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Grove Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28633"/>
   </node>
   <node id="-931" visible="true" lat="43.80078887" lon="-73.09355163">
     <tag k="addr:city" v="Brandon"/>
@@ -188,6 +174,13 @@
     <tag k="addr:street" v="Conant Square"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="28649"/>
+  </node>
+  <node id="-946" visible="true" lat="43.80038801" lon="-73.09433498">
+    <tag k="addr:city" v="Brandon"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="28650"/>
   </node>
   <node id="-949" visible="true" lat="43.80039117" lon="-73.08869496">
     <tag k="addr:city" v="Brandon"/>
@@ -356,6 +349,13 @@
     <tag k="addr:street" v="Center Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="28796"/>
+  </node>
+  <node id="-1091" visible="true" lat="43.79790878" lon="-73.08648681">
+    <tag k="addr:city" v="Brandon"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Franklin Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="28818"/>
   </node>
   <node id="-1489" visible="true" lat="43.78024616" lon="-73.13871636">
     <tag k="addr:city" v="Brandon"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-103" visible="true" lat="43.92061811" lon="-72.36107681">
     <tag k="addr:housenumber" v="148"/>
     <tag k="addr:street" v="Van Dyke Road"/>
@@ -300,12 +300,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252188"/>
   </node>
-  <node id="-173" visible="true" lat="43.89010376" lon="-72.39035861">
-    <tag k="addr:housenumber" v="420"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252192"/>
-  </node>
   <node id="-174" visible="true" lat="43.88991843" lon="-72.30775623">
     <tag k="addr:housenumber" v="4535"/>
     <tag k="addr:street" v="Miller Pond Road"/>
@@ -342,41 +336,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252201"/>
   </node>
-  <node id="-183" visible="true" lat="43.88752044" lon="-72.38816654">
-    <tag k="addr:housenumber" v="399"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252204"/>
-  </node>
-  <node id="-185" visible="true" lat="43.88725694" lon="-72.38744574">
-    <tag k="addr:housenumber" v="396"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252206"/>
-  </node>
   <node id="-187" visible="true" lat="43.88656401" lon="-72.30963839">
     <tag k="addr:housenumber" v="4314"/>
     <tag k="addr:street" v="Miller Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252209"/>
-  </node>
-  <node id="-190" visible="true" lat="43.88590523" lon="-72.36214058">
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Pennock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252212"/>
-  </node>
-  <node id="-191" visible="true" lat="43.88562577" lon="-72.38692098">
-    <tag k="addr:housenumber" v="384"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252213"/>
-  </node>
-  <node id="-192" visible="true" lat="43.88499937" lon="-72.3874886">
-    <tag k="addr:housenumber" v="381"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252215"/>
   </node>
   <node id="-193" visible="true" lat="43.88411305" lon="-72.28985052">
     <tag k="addr:housenumber" v="3319"/>
@@ -390,12 +354,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252217"/>
   </node>
-  <node id="-195" visible="true" lat="43.88426675" lon="-72.38697848">
-    <tag k="addr:housenumber" v="375"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252218"/>
-  </node>
   <node id="-196" visible="true" lat="43.88383098" lon="-72.36153563">
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Eastman Lane"/>
@@ -407,24 +365,6 @@
     <tag k="addr:street" v="Miller Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252220"/>
-  </node>
-  <node id="-198" visible="true" lat="43.88350676" lon="-72.36305543">
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Pennock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252221"/>
-  </node>
-  <node id="-200" visible="true" lat="43.88319323" lon="-72.3604831">
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Eastman Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252223"/>
-  </node>
-  <node id="-201" visible="true" lat="43.88282676" lon="-72.36362435">
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Pennock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252224"/>
   </node>
   <node id="-202" visible="true" lat="43.88202519" lon="-72.29302146">
     <tag k="addr:housenumber" v="3101"/>
@@ -438,12 +378,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252228"/>
   </node>
-  <node id="-207" visible="true" lat="43.88159125" lon="-72.32200057">
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Maple Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252230"/>
-  </node>
   <node id="-209" visible="true" lat="43.8814152" lon="-72.29050831">
     <tag k="addr:housenumber" v="3119"/>
     <tag k="addr:street" v="Sawnee Bean Road"/>
@@ -455,12 +389,6 @@
     <tag k="addr:street" v="Sawnee Bean Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252234"/>
-  </node>
-  <node id="-214" visible="true" lat="43.87968673" lon="-72.3221758">
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Maple Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252239"/>
   </node>
   <node id="-222" visible="true" lat="43.87867521" lon="-72.29033603">
     <tag k="addr:housenumber" v="2961"/>
@@ -474,89 +402,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252248"/>
   </node>
-  <node id="-226" visible="true" lat="43.87848281" lon="-72.3686676">
-    <tag k="addr:housenumber" v="66"/>
-    <tag k="addr:street" v="Old City Falls Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252251"/>
-  </node>
-  <node id="-227" visible="true" lat="43.87832014" lon="-72.38283138">
-    <tag k="addr:housenumber" v="330"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252252"/>
-  </node>
   <node id="-228" visible="true" lat="43.8784747" lon="-72.28988005">
     <tag k="addr:housenumber" v="2950"/>
     <tag k="addr:street" v="Sawnee Bean Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252253"/>
-  </node>
-  <node id="-229" visible="true" lat="43.87799609" lon="-72.32302735">
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Maple Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252254"/>
-  </node>
-  <node id="-230" visible="true" lat="43.87810725" lon="-72.3258514">
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="Maple Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252255"/>
-  </node>
-  <node id="-231" visible="true" lat="43.87810123" lon="-72.38115678">
-    <tag k="addr:housenumber" v="312"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252256"/>
-  </node>
-  <node id="-232" visible="true" lat="43.8776741" lon="-72.32453918">
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Maple Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252258"/>
-  </node>
-  <node id="-233" visible="true" lat="43.87749115" lon="-72.38254857">
-    <tag k="addr:housenumber" v="325"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252259"/>
-  </node>
-  <node id="-236" visible="true" lat="43.87732496" lon="-72.32196235">
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Race Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252262"/>
-  </node>
-  <node id="-238" visible="true" lat="43.87687491" lon="-72.32369412">
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Maple Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252264"/>
-  </node>
-  <node id="-239" visible="true" lat="43.8769373" lon="-72.38305531">
-    <tag k="addr:housenumber" v="315"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252266"/>
-  </node>
-  <node id="-240" visible="true" lat="43.87657165" lon="-72.32831573">
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="Maple Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252268"/>
-  </node>
-  <node id="-243" visible="true" lat="43.87622202" lon="-72.32815956">
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Maple Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252272"/>
-  </node>
-  <node id="-244" visible="true" lat="43.87635409" lon="-72.33047743">
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Maple Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252273"/>
   </node>
   <node id="-249" visible="true" lat="43.87514386" lon="-72.37946213">
     <tag k="addr:housenumber" v="302"/>
@@ -564,65 +414,17 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252279"/>
   </node>
-  <node id="-253" visible="true" lat="43.87450409" lon="-72.33139801">
-    <tag k="addr:housenumber" v="99"/>
-    <tag k="addr:street" v="Maple Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252283"/>
-  </node>
   <node id="-255" visible="true" lat="43.87463368" lon="-72.42300752">
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="Havelok Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252285"/>
   </node>
-  <node id="-257" visible="true" lat="43.87380599" lon="-72.31924438">
-    <tag k="addr:housenumber" v="3043"/>
-    <tag k="addr:street" v="Miller Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252288"/>
-  </node>
-  <node id="-260" visible="true" lat="43.87301216" lon="-72.31734912">
-    <tag k="addr:housenumber" v="3041"/>
-    <tag k="addr:street" v="Miller Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252291"/>
-  </node>
   <node id="-265" visible="true" lat="43.87215042" lon="-72.34424591">
     <tag k="addr:housenumber" v="213"/>
     <tag k="addr:street" v="Alger Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252296"/>
-  </node>
-  <node id="-266" visible="true" lat="43.87177819" lon="-72.31646414">
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Willey Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252297"/>
-  </node>
-  <node id="-270" visible="true" lat="43.871315" lon="-72.31623077">
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Willey Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252301"/>
-  </node>
-  <node id="-274" visible="true" lat="43.8708055" lon="-72.31673934">
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Willey Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252305"/>
-  </node>
-  <node id="-283" visible="true" lat="43.87010568" lon="-72.31629821">
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Willey Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252315"/>
-  </node>
-  <node id="-287" visible="true" lat="43.86987824" lon="-72.3150586">
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Willey Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252319"/>
   </node>
   <node id="-294" visible="true" lat="43.86972427" lon="-72.42333221">
     <tag k="addr:housenumber" v="140"/>
@@ -647,12 +449,6 @@
     <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252338"/>
-  </node>
-  <node id="-318" visible="true" lat="43.86692731" lon="-72.31657263">
-    <tag k="addr:housenumber" v="2521"/>
-    <tag k="addr:street" v="Miller Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252350"/>
   </node>
   <node id="-319" visible="true" lat="43.86694717" lon="-72.42802429">
     <tag k="addr:housenumber" v="139"/>
@@ -690,12 +486,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252399"/>
   </node>
-  <node id="-362" visible="true" lat="43.86030759" lon="-72.37417775">
-    <tag k="addr:housenumber" v="192"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252400"/>
-  </node>
   <node id="-364" visible="true" lat="43.8597892" lon="-72.37602844">
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Eastburn Road"/>
@@ -708,41 +498,17 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252407"/>
   </node>
-  <node id="-370" visible="true" lat="43.85799265" lon="-72.3725036">
-    <tag k="addr:housenumber" v="188"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252410"/>
-  </node>
   <node id="-372" visible="true" lat="43.85762032" lon="-72.36090488">
     <tag k="addr:housenumber" v="64"/>
     <tag k="addr:street" v="Alger Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252412"/>
   </node>
-  <node id="-373" visible="true" lat="43.85749563" lon="-72.37310337">
-    <tag k="addr:housenumber" v="172"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252413"/>
-  </node>
-  <node id="-376" visible="true" lat="43.85691684" lon="-72.37268507">
-    <tag k="addr:housenumber" v="168"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252416"/>
-  </node>
   <node id="-378" visible="true" lat="43.85664449" lon="-72.36169678">
     <tag k="addr:housenumber" v="60"/>
     <tag k="addr:street" v="Alger Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252419"/>
-  </node>
-  <node id="-380" visible="true" lat="43.85595681" lon="-72.37230143">
-    <tag k="addr:housenumber" v="160"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252421"/>
   </node>
   <node id="-384" visible="true" lat="43.85571084" lon="-72.36711126">
     <tag k="addr:housenumber" v="19"/>
@@ -767,24 +533,6 @@
     <tag k="addr:street" v="Alger Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252433"/>
-  </node>
-  <node id="-394" visible="true" lat="43.852875" lon="-72.3709848">
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Alger Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252436"/>
-  </node>
-  <node id="-398" visible="true" lat="43.85243498" lon="-72.37149236">
-    <tag k="addr:housenumber" v="135"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252440"/>
-  </node>
-  <node id="-399" visible="true" lat="43.85246929" lon="-72.37087858">
-    <tag k="addr:housenumber" v="134"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252441"/>
   </node>
   <node id="-400" visible="true" lat="43.85173201" lon="-72.37021578">
     <tag k="addr:housenumber" v="130"/>
@@ -1236,12 +984,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252714"/>
   </node>
-  <node id="-653" visible="true" lat="43.8846443" lon="-72.38464395">
-    <tag k="addr:housenumber" v="374"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252716"/>
-  </node>
   <node id="-654" visible="true" lat="43.83667957" lon="-72.43401031">
     <tag k="addr:housenumber" v="478"/>
     <tag k="addr:street" v="Brook Road"/>
@@ -1307,12 +1049,6 @@
     <tag k="addr:street" v="Sawnee Bean Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252749"/>
-  </node>
-  <node id="-678" visible="true" lat="43.87818969" lon="-72.32214631">
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Race Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252750"/>
   </node>
   <node id="-683" visible="true" lat="43.85455652" lon="-72.36316982">
     <tag k="addr:housenumber" v="28"/>
@@ -1578,12 +1314,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612039"/>
   </node>
-  <node id="-772" visible="true" lat="43.87838106" lon="-72.32268132">
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Maple Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="612770"/>
-  </node>
   <node id="-773" visible="true" lat="43.83819619" lon="-72.35136683">
     <tag k="addr:housenumber" v="156"/>
     <tag k="addr:street" v="Route 132"/>
@@ -1632,12 +1362,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751339"/>
   </node>
-  <node id="-784" visible="true" lat="43.88018331" lon="-72.38376955">
-    <tag k="addr:housenumber" v="350"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751366"/>
-  </node>
   <node id="-785" visible="true" lat="43.89237545" lon="-72.37070619">
     <tag k="addr:housenumber" v="37"/>
     <tag k="addr:street" v="Jordan Road"/>
@@ -1674,35 +1398,17 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754311"/>
   </node>
-  <node id="-793" visible="true" lat="43.86407199" lon="-72.32131924">
-    <tag k="addr:housenumber" v="2245"/>
-    <tag k="addr:street" v="Miller Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="754925"/>
-  </node>
   <node id="-794" visible="true" lat="43.86824005" lon="-72.35994775">
     <tag k="addr:housenumber" v="161"/>
     <tag k="addr:street" v="Alger Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755113"/>
   </node>
-  <node id="-795" visible="true" lat="43.87171745" lon="-72.37991327">
-    <tag k="addr:housenumber" v="279"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="756462"/>
-  </node>
   <node id="-796" visible="true" lat="43.86833226" lon="-72.39779524">
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:street" v="Robert Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756615"/>
-  </node>
-  <node id="-797" visible="true" lat="43.88555426" lon="-72.32021486">
-    <tag k="addr:housenumber" v="3821"/>
-    <tag k="addr:street" v="Miller Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="756895"/>
   </node>
   <node id="-798" visible="true" lat="43.89782143" lon="-72.29330782">
     <tag k="addr:housenumber" v="5682"/>
@@ -1811,12 +1517,6 @@
     <tag k="addr:street" v="Alger Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764589"/>
-  </node>
-  <node id="-819" visible="true" lat="43.87057232" lon="-72.33293173">
-    <tag k="addr:housenumber" v="808"/>
-    <tag k="addr:street" v="Dodge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="765881"/>
   </node>
   <node id="-820" visible="true" lat="43.81681644" lon="-72.34406556">
     <tag k="addr:housenumber" v="149"/>

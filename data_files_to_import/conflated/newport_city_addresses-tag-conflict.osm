@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-119" visible="true" lat="44.9613485" lon="-72.20457986">
     <!-- conflict: "461 Pine Street, Newport, VT" Fuzzy match to "461 Pine Street, Newport City, " -->
     <tag k="addr:city" v="Newport"/>
@@ -7,30 +7,6 @@
     <tag k="addr:street" v="Pine Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175875"/>
-  </node>
-  <node id="-295" visible="true" lat="44.95578298" lon="-72.20079917">
-    <!-- conflict: "189 Prouty Drive, Newport, VT" Fuzzy match to "189 Prouty Drive, Newport, " -->
-    <tag k="addr:city" v="Newport"/>
-    <tag k="addr:housenumber" v="189"/>
-    <tag k="addr:street" v="Prouty Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="176077"/>
-  </node>
-  <node id="-600" visible="true" lat="44.94647579" lon="-72.2032804">
-    <!-- conflict: "209 Veterans Avenue, Newport, VT" Fuzzy match to "209 Veterans Avenue, Newport, " -->
-    <tag k="addr:city" v="Newport"/>
-    <tag k="addr:housenumber" v="209"/>
-    <tag k="addr:street" v="Veterans Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="176433"/>
-  </node>
-  <node id="-683" visible="true" lat="44.9449203" lon="-72.19257007">
-    <!-- conflict: "166 Sias Avenue, Newport, VT" Fuzzy match to "166 Sias Avenue, Newport, " -->
-    <tag k="addr:city" v="Newport"/>
-    <tag k="addr:housenumber" v="166"/>
-    <tag k="addr:street" v="Sias Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="176528"/>
   </node>
   <node id="-822" visible="true" lat="44.9435168" lon="-72.1932147">
     <!-- conflict: "535 East Main Street, Newport, VT" Fuzzy match to "535 East Main Street, Newport City, VT" -->
@@ -41,7 +17,7 @@
     <tag k="ref:vcgi:esiteid" v="176687"/>
   </node>
   <node id="-835" visible="true" lat="44.94327154" lon="-72.19423627">
-    <!-- conflict: "477 East Main Street, Newport, VT" Fuzzy match to "477 East Main Street, Newport, " -->
+    <!-- conflict: "477 East Main Street, Newport, VT" Fuzzy match to "477 East Main Street, Newport City, VT" -->
     <tag k="addr:city" v="Newport"/>
     <tag k="addr:housenumber" v="477"/>
     <tag k="addr:street" v="East Main Street"/>
@@ -104,38 +80,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="177119"/>
   </node>
-  <node id="-1211" visible="true" lat="44.93596595" lon="-72.20807172">
-    <!-- conflict: "95 Main Street, Newport, VT" Fuzzy match to "95 Main Street, Newport, " -->
-    <tag k="addr:city" v="Newport"/>
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="177140"/>
-  </node>
-  <node id="-1224" visible="true" lat="44.93602133" lon="-72.20933343">
-    <!-- conflict: "150 Main Street, Newport, VT" Fuzzy match to "150 Main Street, Newport, " -->
-    <tag k="addr:city" v="Newport"/>
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="177154"/>
-  </node>
-  <node id="-1264" visible="true" lat="44.93555876" lon="-72.2108191">
-    <!-- conflict: "222 Main Street, Newport, VT" Fuzzy match to "222 Main Street, Newport, " -->
-    <tag k="addr:city" v="Newport"/>
-    <tag k="addr:housenumber" v="222"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="177206"/>
-  </node>
-  <node id="-1265" visible="true" lat="44.93552719" lon="-72.20729077">
-    <!-- conflict: "59 Coventry Street, Newport, VT" Fuzzy match to "59 Coventry Street, Newport, " -->
-    <tag k="addr:city" v="Newport"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="Coventry Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="177207"/>
-  </node>
   <node id="-1293" visible="true" lat="44.93494601" lon="-72.21073082">
     <!-- conflict: "247 Main Street, Newport, VT" No match in OSM, but a different address exists <5m away: " Main Street, Newport, VT" -->
     <tag k="addr:city" v="Newport"/>
@@ -151,14 +95,6 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="177271"/>
-  </node>
-  <node id="-1535" visible="true" lat="44.93292595" lon="-72.19337112">
-    <!-- conflict: "590 Mount Vernon Street, Newport, VT" Fuzzy match to "590 Mount Vernon Street, Newport, " -->
-    <tag k="addr:city" v="Newport"/>
-    <tag k="addr:housenumber" v="590"/>
-    <tag k="addr:street" v="Mount Vernon Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="177538"/>
   </node>
   <node id="-1587" visible="true" lat="44.93260462" lon="-72.2212783">
     <!-- conflict: "236 Highland Avenue, Newport, VT" No match in OSM, but a different address exists <5m away: "68 Highland Avenue, Newport City, VT" -->

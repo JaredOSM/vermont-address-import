@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.4038588" lon="-73.15128479">
     <tag k="addr:city" v="Pawlet"/>
     <tag k="addr:housenumber" v="1657"/>
@@ -469,13 +469,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185358"/>
   </node>
-  <node id="-178" visible="true" lat="43.3716887" lon="-73.13724215">
-    <tag k="addr:city" v="Pawlet"/>
-    <tag k="addr:housenumber" v="432"/>
-    <tag k="addr:street" v="Kelley Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="185359"/>
-  </node>
   <node id="-179" visible="true" lat="43.37161254" lon="-73.13992309">
     <tag k="addr:city" v="Pawlet"/>
     <tag k="addr:housenumber" v="285"/>
@@ -833,6 +826,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185569"/>
   </node>
+  <node id="-264" visible="true" lat="43.3528862" lon="-73.15234375">
+    <tag k="addr:city" v="Pawlet"/>
+    <tag k="addr:housenumber" v="1382"/>
+    <tag k="addr:street" v="Vermont Route 133"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="185578"/>
+  </node>
   <node id="-265" visible="true" lat="43.35286649" lon="-73.14243392">
     <tag k="addr:city" v="Pawlet"/>
     <tag k="addr:housenumber" v="158"/>
@@ -917,12 +917,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185615"/>
   </node>
-  <node id="-284" visible="true" lat="43.3485794" lon="-73.16679382">
+  <node id="-285" visible="true" lat="43.34846878" lon="-73.16296386">
     <tag k="addr:city" v="Pawlet"/>
-    <tag k="addr:housenumber" v="573"/>
+    <tag k="addr:housenumber" v="733"/>
     <tag k="addr:street" v="Vermont Route 133"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="185616"/>
+    <tag k="ref:vcgi:esiteid" v="185617"/>
   </node>
   <node id="-292" visible="true" lat="43.34818619" lon="-73.17555428">
     <tag k="addr:city" v="Pawlet"/>
@@ -937,13 +937,6 @@
     <tag k="addr:street" v="Cemetery Hill"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185629"/>
-  </node>
-  <node id="-298" visible="true" lat="43.34796032" lon="-73.17154802">
-    <tag k="addr:city" v="Pawlet"/>
-    <tag k="addr:housenumber" v="306"/>
-    <tag k="addr:street" v="Vermont Route 133"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="185631"/>
   </node>
   <node id="-299" visible="true" lat="43.34802547" lon="-73.18786058">
     <tag k="addr:city" v="Pawlet"/>
@@ -1008,6 +1001,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185696"/>
   </node>
+  <node id="-356" visible="true" lat="43.34477224" lon="-73.17707799">
+    <tag k="addr:city" v="Pawlet"/>
+    <tag k="addr:housenumber" v="5859"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="185698"/>
+  </node>
   <node id="-357" visible="true" lat="43.34487915" lon="-73.16041564">
     <tag k="addr:city" v="Pawlet"/>
     <tag k="addr:housenumber" v="237"/>
@@ -1049,6 +1049,13 @@
     <tag k="addr:street" v="Solar Park"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185711"/>
+  </node>
+  <node id="-369" visible="true" lat="43.34357122" lon="-73.17817024">
+    <tag k="addr:city" v="Pawlet"/>
+    <tag k="addr:housenumber" v="5936"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="185712"/>
   </node>
   <node id="-370" visible="true" lat="43.34361267" lon="-73.16075134">
     <tag k="addr:city" v="Pawlet"/>

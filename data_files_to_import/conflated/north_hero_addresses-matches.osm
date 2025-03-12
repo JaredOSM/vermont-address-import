@@ -1,11 +1,1838 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-429" visible="true" lat="44.85087585" lon="-73.26338958">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="44.8697239" lon="-73.2506814">
     <tag k="addr:city" v="North Hero"/>
-    <tag k="addr:housenumber" v="6441"/>
-    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:housenumber" v="900"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="179220"/>
+    <tag k="ref:vcgi:esiteid" v="272"/>
+  </node>
+  <node id="-106" visible="true" lat="44.9132538" lon="-73.23566432">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="250"/>
+    <tag k="addr:street" v="Jigger House Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178857"/>
+  </node>
+  <node id="-107" visible="true" lat="44.91286849" lon="-73.23551178">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:street" v="Jigger House Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178858"/>
+  </node>
+  <node id="-108" visible="true" lat="44.91242606" lon="-73.23511007">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Jigger House Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178859"/>
+  </node>
+  <node id="-109" visible="true" lat="44.9116707" lon="-73.23429603">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="Jigger House Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178861"/>
+  </node>
+  <node id="-110" visible="true" lat="44.91082384" lon="-73.23323554">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Jigger House Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178862"/>
+  </node>
+  <node id="-111" visible="true" lat="44.90924837" lon="-73.23299903">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Strong House Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178864"/>
+  </node>
+  <node id="-112" visible="true" lat="44.90899658" lon="-73.23670196">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3803"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178865"/>
+  </node>
+  <node id="-113" visible="true" lat="44.90882112" lon="-73.23320502">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Strong House Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178866"/>
+  </node>
+  <node id="-114" visible="true" lat="44.90874862" lon="-73.23659515">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3799"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178867"/>
+  </node>
+  <node id="-115" visible="true" lat="44.90842058" lon="-73.2332508">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Strong House Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178869"/>
+  </node>
+  <node id="-116" visible="true" lat="44.90817143" lon="-73.25259168">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="549"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178870"/>
+  </node>
+  <node id="-117" visible="true" lat="44.90807726" lon="-73.23308295">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:street" v="Strong House Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178871"/>
+  </node>
+  <node id="-118" visible="true" lat="44.9076102" lon="-73.2529447">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178873"/>
+  </node>
+  <node id="-119" visible="true" lat="44.90747454" lon="-73.23322791">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:street" v="Strong House Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178874"/>
+  </node>
+  <node id="-120" visible="true" lat="44.90727438" lon="-73.25310283">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="493"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178875"/>
+  </node>
+  <node id="-121" visible="true" lat="44.90732576" lon="-73.23302192">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="Strong House Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178876"/>
+  </node>
+  <node id="-122" visible="true" lat="44.90703612" lon="-73.25322647">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="473"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178877"/>
+  </node>
+  <node id="-123" visible="true" lat="44.90690233" lon="-73.23319739">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="197"/>
+    <tag k="addr:street" v="Strong House Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178878"/>
+  </node>
+  <node id="-124" visible="true" lat="44.90662014" lon="-73.25315389">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="435"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178879"/>
+  </node>
+  <node id="-125" visible="true" lat="44.906662" lon="-73.23310584">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Strong House Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178880"/>
+  </node>
+  <node id="-126" visible="true" lat="44.90638735" lon="-73.23297614">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="225"/>
+    <tag k="addr:street" v="Strong House Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178881"/>
+  </node>
+  <node id="-127" visible="true" lat="44.90625454" lon="-73.25325317">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="413"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178882"/>
+  </node>
+  <node id="-128" visible="true" lat="44.90609254" lon="-73.25340364">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="389"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178883"/>
+  </node>
+  <node id="-129" visible="true" lat="44.90610887" lon="-73.23301429">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:street" v="Strong House Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178884"/>
+  </node>
+  <node id="-130" visible="true" lat="44.90589844" lon="-73.25360409">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="375"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178885"/>
+  </node>
+  <node id="-131" visible="true" lat="44.90571872" lon="-73.25363559">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="359"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178886"/>
+  </node>
+  <node id="-132" visible="true" lat="44.90578079" lon="-73.2332077">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3676"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178887"/>
+  </node>
+  <node id="-133" visible="true" lat="44.9055056" lon="-73.25383634">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="345"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178888"/>
+  </node>
+  <node id="-134" visible="true" lat="44.90532491" lon="-73.25419148">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="325"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178889"/>
+  </node>
+  <node id="-135" visible="true" lat="44.90528587" lon="-73.23308737">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3618"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178890"/>
+  </node>
+  <node id="-136" visible="true" lat="44.90506231" lon="-73.25434235">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="305"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178891"/>
+  </node>
+  <node id="-137" visible="true" lat="44.90480833" lon="-73.25454625">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="287"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178892"/>
+  </node>
+  <node id="-138" visible="true" lat="44.90476226" lon="-73.2332077">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3614"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178893"/>
+  </node>
+  <node id="-139" visible="true" lat="44.90433251" lon="-73.25512682">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="241"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178894"/>
+  </node>
+  <node id="-140" visible="true" lat="44.90413219" lon="-73.25540949">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178895"/>
+  </node>
+  <node id="-141" visible="true" lat="44.90389999" lon="-73.25553832">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="209"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178896"/>
+  </node>
+  <node id="-142" visible="true" lat="44.90371643" lon="-73.25565647">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178897"/>
+  </node>
+  <node id="-143" visible="true" lat="44.90354965" lon="-73.25592573">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178898"/>
+  </node>
+  <node id="-144" visible="true" lat="44.90357971" lon="-73.23317718">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="235"/>
+    <tag k="addr:street" v="Scandore Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178900"/>
+  </node>
+  <node id="-145" visible="true" lat="44.90334584" lon="-73.25606261">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178901"/>
+  </node>
+  <node id="-146" visible="true" lat="44.9031452" lon="-73.25610829">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="149"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178902"/>
+  </node>
+  <node id="-147" visible="true" lat="44.90285394" lon="-73.25618947">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178903"/>
+  </node>
+  <node id="-148" visible="true" lat="44.90283584" lon="-73.23274993">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="182"/>
+    <tag k="addr:street" v="Scandore Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178904"/>
+  </node>
+  <node id="-149" visible="true" lat="44.90259825" lon="-73.2562375">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178905"/>
+  </node>
+  <node id="-150" visible="true" lat="44.9023192" lon="-73.25636283">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178907"/>
+  </node>
+  <node id="-151" visible="true" lat="44.90178102" lon="-73.25656541">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178908"/>
+  </node>
+  <node id="-152" visible="true" lat="44.90189361" lon="-73.23252868">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="Baker Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178909"/>
+  </node>
+  <node id="-153" visible="true" lat="44.90156936" lon="-73.23273467">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:street" v="Baker Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178910"/>
+  </node>
+  <node id="-154" visible="true" lat="44.90122604" lon="-73.23254394">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:street" v="Baker Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178911"/>
+  </node>
+  <node id="-155" visible="true" lat="44.90064233" lon="-73.25444322">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="913"/>
+    <tag k="addr:street" v="North End Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178912"/>
+  </node>
+  <node id="-156" visible="true" lat="44.90044772" lon="-73.25100689">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="734"/>
+    <tag k="addr:street" v="North End Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178914"/>
+  </node>
+  <node id="-157" visible="true" lat="44.90027236" lon="-73.23329925">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="274"/>
+    <tag k="addr:street" v="Baker Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178915"/>
+  </node>
+  <node id="-158" visible="true" lat="44.89992552" lon="-73.25675474">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1058"/>
+    <tag k="addr:street" v="North End Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178916"/>
+  </node>
+  <node id="-159" visible="true" lat="44.89892029" lon="-73.25515311">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1067"/>
+    <tag k="addr:street" v="North End Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178917"/>
+  </node>
+  <node id="-160" visible="true" lat="44.89958572" lon="-73.25496673">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1047"/>
+    <tag k="addr:street" v="North End Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178918"/>
+  </node>
+  <node id="-161" visible="true" lat="44.89821624" lon="-73.25792694">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1194"/>
+    <tag k="addr:street" v="North End Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178919"/>
+  </node>
+  <node id="-162" visible="true" lat="44.89568527" lon="-73.2671732">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="395"/>
+    <tag k="addr:street" v="Fee Fee Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178920"/>
+  </node>
+  <node id="-163" visible="true" lat="44.89582443" lon="-73.24287414">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="171"/>
+    <tag k="addr:street" v="North End Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178921"/>
+  </node>
+  <node id="-164" visible="true" lat="44.89563369" lon="-73.23932647">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2893"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178922"/>
+  </node>
+  <node id="-165" visible="true" lat="44.8956604" lon="-73.23348236">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="265"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178924"/>
+  </node>
+  <node id="-166" visible="true" lat="44.89503478" lon="-73.26747894">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="341"/>
+    <tag k="addr:street" v="Fee Fee Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178926"/>
+  </node>
+  <node id="-167" visible="true" lat="44.89508056" lon="-73.23878479">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2848"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178927"/>
+  </node>
+  <node id="-168" visible="true" lat="44.89458642" lon="-73.23324448">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="283"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178928"/>
+  </node>
+  <node id="-169" visible="true" lat="44.89427474" lon="-73.23518393">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="206"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178929"/>
+  </node>
+  <node id="-170" visible="true" lat="44.89416122" lon="-73.26737213">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="297"/>
+    <tag k="addr:street" v="Fee Fee Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178930"/>
+  </node>
+  <node id="-171" visible="true" lat="44.8942267" lon="-73.23441844">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="244"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178931"/>
+  </node>
+  <node id="-172" visible="true" lat="44.89400482" lon="-73.23318481">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="303"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178932"/>
+  </node>
+  <node id="-173" visible="true" lat="44.89363479" lon="-73.24190521">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2773"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178933"/>
+  </node>
+  <node id="-174" visible="true" lat="44.89364624" lon="-73.23356628">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="326"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178934"/>
+  </node>
+  <node id="-175" visible="true" lat="44.89340972" lon="-73.23315429">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="343"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178935"/>
+  </node>
+  <node id="-176" visible="true" lat="44.89313888" lon="-73.2332077">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="361"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178936"/>
+  </node>
+  <node id="-177" visible="true" lat="44.89282769" lon="-73.24082786">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2691"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178937"/>
+  </node>
+  <node id="-178" visible="true" lat="44.89289101" lon="-73.23313585">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="383"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178938"/>
+  </node>
+  <node id="-179" visible="true" lat="44.89255523" lon="-73.24226379">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2645"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178939"/>
+  </node>
+  <node id="-180" visible="true" lat="44.89261294" lon="-73.23312627">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178940"/>
+  </node>
+  <node id="-181" visible="true" lat="44.89234013" lon="-73.23311214">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="419"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178941"/>
+  </node>
+  <node id="-182" visible="true" lat="44.89191818" lon="-73.26816558">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:street" v="Fee Fee Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178942"/>
+  </node>
+  <node id="-183" visible="true" lat="44.89212799" lon="-73.23356628">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="430"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178943"/>
+  </node>
+  <node id="-184" visible="true" lat="44.89212378" lon="-73.23307039">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="437"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178944"/>
+  </node>
+  <node id="-185" visible="true" lat="44.89143753" lon="-73.24234771">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2573"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178945"/>
+  </node>
+  <node id="-186" visible="true" lat="44.8914968" lon="-73.23296248">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="471"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178946"/>
+  </node>
+  <node id="-187" visible="true" lat="44.8907795" lon="-73.2667514">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="579"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178947"/>
+  </node>
+  <node id="-188" visible="true" lat="44.89062118" lon="-73.24289703">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2517"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178948"/>
+  </node>
+  <node id="-189" visible="true" lat="44.89056396" lon="-73.23311614">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="417"/>
+    <tag k="addr:street" v="Curtis Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178949"/>
+  </node>
+  <node id="-191" visible="true" lat="44.89037991" lon="-73.24150481">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2510"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178951"/>
+  </node>
+  <node id="-192" visible="true" lat="44.89001464" lon="-73.26913452">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="516"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178952"/>
+  </node>
+  <node id="-193" visible="true" lat="44.88982536" lon="-73.26619547">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="665"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178953"/>
+  </node>
+  <node id="-194" visible="true" lat="44.88937724" lon="-73.26945437">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="434"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178955"/>
+  </node>
+  <node id="-195" visible="true" lat="44.88911139" lon="-73.26957709">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="420"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178956"/>
+  </node>
+  <node id="-196" visible="true" lat="44.88798335" lon="-73.23198864">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="494"/>
+    <tag k="addr:street" v="Curtis Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178957"/>
+  </node>
+  <node id="-197" visible="true" lat="44.8897809" lon="-73.24317446">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2467"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178958"/>
+  </node>
+  <node id="-198" visible="true" lat="44.88892364" lon="-73.26969909">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="402"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178959"/>
+  </node>
+  <node id="-199" visible="true" lat="44.88869094" lon="-73.26545715">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="706"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178960"/>
+  </node>
+  <node id="-200" visible="true" lat="44.8887129" lon="-73.26033353">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="957"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178961"/>
+  </node>
+  <node id="-201" visible="true" lat="44.88871689" lon="-73.24355145">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2387"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178962"/>
+  </node>
+  <node id="-202" visible="true" lat="44.88852691" lon="-73.26842498">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="586"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178963"/>
+  </node>
+  <node id="-203" visible="true" lat="44.88842773" lon="-73.26733398">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="652"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178964"/>
+  </node>
+  <node id="-204" visible="true" lat="44.88838322" lon="-73.26970212">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="360"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178965"/>
+  </node>
+  <node id="-205" visible="true" lat="44.88814544" lon="-73.26984405">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="350"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178966"/>
+  </node>
+  <node id="-206" visible="true" lat="44.88788986" lon="-73.26927947">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Morgan Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178968"/>
+  </node>
+  <node id="-207" visible="true" lat="44.88774301" lon="-73.26115404">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="938"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178969"/>
+  </node>
+  <node id="-208" visible="true" lat="44.88781793" lon="-73.25076767">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1445"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178970"/>
+  </node>
+  <node id="-209" visible="true" lat="44.88765172" lon="-73.25759227">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1096"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178972"/>
+  </node>
+  <node id="-210" visible="true" lat="44.88772201" lon="-73.25276947">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1346"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178973"/>
+  </node>
+  <node id="-211" visible="true" lat="44.88774108" lon="-73.24504089">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2319"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178974"/>
+  </node>
+  <node id="-212" visible="true" lat="44.88754866" lon="-73.25875426">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1028"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178975"/>
+  </node>
+  <node id="-213" visible="true" lat="44.8873819" lon="-73.27009177">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="304"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178976"/>
+  </node>
+  <node id="-214" visible="true" lat="44.88744735" lon="-73.27072143">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="291"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178977"/>
+  </node>
+  <node id="-215" visible="true" lat="44.88733673" lon="-73.26921844">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Morgan Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178978"/>
+  </node>
+  <node id="-216" visible="true" lat="44.88746643" lon="-73.24789428">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1603"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178979"/>
+  </node>
+  <node id="-217" visible="true" lat="44.88731384" lon="-73.27075195">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="283"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178980"/>
+  </node>
+  <node id="-218" visible="true" lat="44.88721546" lon="-73.2684482">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Morgan Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178982"/>
+  </node>
+  <node id="-219" visible="true" lat="44.88720321" lon="-73.25345611">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1270"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178983"/>
+  </node>
+  <node id="-220" visible="true" lat="44.88701572" lon="-73.27040339">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178984"/>
+  </node>
+  <node id="-221" visible="true" lat="44.8868558" lon="-73.23176791">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1104"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178986"/>
+  </node>
+  <node id="-222" visible="true" lat="44.88664621" lon="-73.24727147">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1622"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178987"/>
+  </node>
+  <node id="-223" visible="true" lat="44.88632181" lon="-73.26989419">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178988"/>
+  </node>
+  <node id="-224" visible="true" lat="44.88645553" lon="-73.27130889">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178989"/>
+  </node>
+  <node id="-225" visible="true" lat="44.88644592" lon="-73.24644979">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1670"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178990"/>
+  </node>
+  <node id="-226" visible="true" lat="44.8866201" lon="-73.23154844">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1084"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178991"/>
+  </node>
+  <node id="-227" visible="true" lat="44.88672342" lon="-73.25030006">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1468"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178992"/>
+  </node>
+  <node id="-228" visible="true" lat="44.88651657" lon="-73.24847412">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1576"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178993"/>
+  </node>
+  <node id="-229" visible="true" lat="44.88627242" lon="-73.27130127">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="207"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178994"/>
+  </node>
+  <node id="-230" visible="true" lat="44.88638307" lon="-73.23142737">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1076"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178995"/>
+  </node>
+  <node id="-231" visible="true" lat="44.88619675" lon="-73.23258428">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1065"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178997"/>
+  </node>
+  <node id="-232" visible="true" lat="44.88587951" lon="-73.26965332">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="206"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178998"/>
+  </node>
+  <node id="-233" visible="true" lat="44.88611464" lon="-73.23140749">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1056"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="178999"/>
+  </node>
+  <node id="-234" visible="true" lat="44.88563918" lon="-73.27027893">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="168"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179000"/>
+  </node>
+  <node id="-235" visible="true" lat="44.88568544" lon="-73.23154698">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1028"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179001"/>
+  </node>
+  <node id="-236" visible="true" lat="44.8854599" lon="-73.27068328">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179002"/>
+  </node>
+  <node id="-237" visible="true" lat="44.88543319" lon="-73.25246429">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2027"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179003"/>
+  </node>
+  <node id="-238" visible="true" lat="44.88529205" lon="-73.27075958">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179004"/>
+  </node>
+  <node id="-239" visible="true" lat="44.88531644" lon="-73.23150817">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="998"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179005"/>
+  </node>
+  <node id="-240" visible="true" lat="44.88507843" lon="-73.27131652">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179006"/>
+  </node>
+  <node id="-241" visible="true" lat="44.88505556" lon="-73.23141974">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="982"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179007"/>
+  </node>
+  <node id="-242" visible="true" lat="44.88470458" lon="-73.27069854">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179008"/>
+  </node>
+  <node id="-243" visible="true" lat="44.88475801" lon="-73.23144263">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="966"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179009"/>
+  </node>
+  <node id="-244" visible="true" lat="44.88482962" lon="-73.23224575">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="965"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179010"/>
+  </node>
+  <node id="-245" visible="true" lat="44.88454194" lon="-73.23146595">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="952"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179011"/>
+  </node>
+  <node id="-246" visible="true" lat="44.88450243" lon="-73.23217505">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="951"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179012"/>
+  </node>
+  <node id="-247" visible="true" lat="44.8842163" lon="-73.24513244">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2054"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179013"/>
+  </node>
+  <node id="-248" visible="true" lat="44.88416292" lon="-73.23112983">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="936"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179014"/>
+  </node>
+  <node id="-249" visible="true" lat="44.88410188" lon="-73.23206824">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="917"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179015"/>
+  </node>
+  <node id="-250" visible="true" lat="44.8837251" lon="-73.27145773">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Heather Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179016"/>
+  </node>
+  <node id="-251" visible="true" lat="44.88394473" lon="-73.23288942">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="927"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179017"/>
+  </node>
+  <node id="-252" visible="true" lat="44.88378569" lon="-73.23123441">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="902"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179019"/>
+  </node>
+  <node id="-253" visible="true" lat="44.88374712" lon="-73.23222846">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="889"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179021"/>
+  </node>
+  <node id="-254" visible="true" lat="44.88361324" lon="-73.23144493">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="896"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179022"/>
+  </node>
+  <node id="-256" visible="true" lat="44.88348357" lon="-73.23240949">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="867"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179024"/>
+  </node>
+  <node id="-258" visible="true" lat="44.88336766" lon="-73.23163159">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="868"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179026"/>
+  </node>
+  <node id="-259" visible="true" lat="44.88314423" lon="-73.23202444">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="866"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179027"/>
+  </node>
+  <node id="-260" visible="true" lat="44.88321304" lon="-73.23337554">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Summer Camp Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179028"/>
+  </node>
+  <node id="-262" visible="true" lat="44.88295364" lon="-73.23353576">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Summer Camp Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179032"/>
+  </node>
+  <node id="-263" visible="true" lat="44.88290786" lon="-73.23310852">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Summer Camp Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179033"/>
+  </node>
+  <node id="-264" visible="true" lat="44.88289263" lon="-73.23222846">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="844"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179034"/>
+  </node>
+  <node id="-265" visible="true" lat="44.88268405" lon="-73.23233937">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="810"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179036"/>
+  </node>
+  <node id="-266" visible="true" lat="44.88259506" lon="-73.23349761">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="785"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179037"/>
+  </node>
+  <node id="-267" visible="true" lat="44.88247455" lon="-73.23238906">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="804"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179038"/>
+  </node>
+  <node id="-268" visible="true" lat="44.88240814" lon="-73.24414825">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179039"/>
+  </node>
+  <node id="-269" visible="true" lat="44.88242721" lon="-73.23982238">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="383"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179040"/>
+  </node>
+  <node id="-270" visible="true" lat="44.88241958" lon="-73.24064636">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="341"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179041"/>
+  </node>
+  <node id="-271" visible="true" lat="44.88240432" lon="-73.24024963">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="361"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179042"/>
+  </node>
+  <node id="-272" visible="true" lat="44.88233566" lon="-73.24108886">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="321"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179043"/>
+  </node>
+  <node id="-273" visible="true" lat="44.88239604" lon="-73.24350352">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179044"/>
+  </node>
+  <node id="-274" visible="true" lat="44.88231658" lon="-73.24189758">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179045"/>
+  </node>
+  <node id="-275" visible="true" lat="44.8823204" lon="-73.24145507">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="303"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179046"/>
+  </node>
+  <node id="-276" visible="true" lat="44.88232714" lon="-73.23336002">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="773"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179047"/>
+  </node>
+  <node id="-277" visible="true" lat="44.88211753" lon="-73.23348092">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="763"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179048"/>
+  </node>
+  <node id="-278" visible="true" lat="44.88207626" lon="-73.24536132">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179049"/>
+  </node>
+  <node id="-280" visible="true" lat="44.88198852" lon="-73.2441101">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179051"/>
+  </node>
+  <node id="-281" visible="true" lat="44.882123" lon="-73.23261845">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="782"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179052"/>
+  </node>
+  <node id="-282" visible="true" lat="44.88202667" lon="-73.23564148">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="585"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179053"/>
+  </node>
+  <node id="-284" visible="true" lat="44.88189697" lon="-73.23265075">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="750"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179055"/>
+  </node>
+  <node id="-285" visible="true" lat="44.88174438" lon="-73.24629974">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179056"/>
+  </node>
+  <node id="-287" visible="true" lat="44.88180923" lon="-73.23358154">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="735"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179058"/>
+  </node>
+  <node id="-288" visible="true" lat="44.88171933" lon="-73.2442614">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179059"/>
+  </node>
+  <node id="-289" visible="true" lat="44.88177871" lon="-73.23526763">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="607"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179060"/>
+  </node>
+  <node id="-293" visible="true" lat="44.88156127" lon="-73.24561309">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179064"/>
+  </node>
+  <node id="-294" visible="true" lat="44.88162231" lon="-73.23276519">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="734"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179065"/>
+  </node>
+  <node id="-296" visible="true" lat="44.88150789" lon="-73.23505134">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="629"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179067"/>
+  </node>
+  <node id="-297" visible="true" lat="44.88147737" lon="-73.23458595">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="655"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179068"/>
+  </node>
+  <node id="-299" visible="true" lat="44.88143541" lon="-73.23385352">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="711"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179070"/>
+  </node>
+  <node id="-300" visible="true" lat="44.88132476" lon="-73.24433898">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Chamberland Bay Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179071"/>
+  </node>
+  <node id="-301" visible="true" lat="44.88136293" lon="-73.23421973">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="673"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179072"/>
+  </node>
+  <node id="-302" visible="true" lat="44.88130571" lon="-73.23289222">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="704"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179073"/>
+  </node>
+  <node id="-304" visible="true" lat="44.88085556" lon="-73.2444992">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Chamberland Bay Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179075"/>
+  </node>
+  <node id="-305" visible="true" lat="44.88053894" lon="-73.24453735">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Chamberland Bay Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179077"/>
+  </node>
+  <node id="-306" visible="true" lat="44.87944873" lon="-73.24529301">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1746"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179078"/>
+  </node>
+  <node id="-307" visible="true" lat="44.88030624" lon="-73.24484252">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Chamberland Bay Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179079"/>
+  </node>
+  <node id="-308" visible="true" lat="44.88000488" lon="-73.24507141">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:street" v="Chamberland Bay Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179080"/>
+  </node>
+  <node id="-309" visible="true" lat="44.87991447" lon="-73.24942232">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1687"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179081"/>
+  </node>
+  <node id="-310" visible="true" lat="44.87941975" lon="-73.24638288">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1690"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179082"/>
+  </node>
+  <node id="-311" visible="true" lat="44.87931823" lon="-73.24581146">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1692"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179083"/>
+  </node>
+  <node id="-315" visible="true" lat="44.878582" lon="-73.24650573">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Blue Heron Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179087"/>
+  </node>
+  <node id="-317" visible="true" lat="44.87761309" lon="-73.24598426">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="193"/>
+    <tag k="addr:street" v="Blue Heron Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179090"/>
+  </node>
+  <node id="-318" visible="true" lat="44.87719728" lon="-73.24638862">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Blue Heron Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179091"/>
+  </node>
+  <node id="-319" visible="true" lat="44.87696077" lon="-73.24686164">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="261"/>
+    <tag k="addr:street" v="Blue Heron Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179093"/>
+  </node>
+  <node id="-320" visible="true" lat="44.87684249" lon="-73.24967956">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Bayview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179094"/>
+  </node>
+  <node id="-321" visible="true" lat="44.87666511" lon="-73.24683339">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Blue Heron Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179095"/>
+  </node>
+  <node id="-323" visible="true" lat="44.87625297" lon="-73.24760605">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="206"/>
+    <tag k="addr:street" v="Bayview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179098"/>
+  </node>
+  <node id="-324" visible="true" lat="44.87587358" lon="-73.24870795">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Bayview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179099"/>
+  </node>
+  <node id="-325" visible="true" lat="44.8757744" lon="-73.24977607">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Bayview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179100"/>
+  </node>
+  <node id="-326" visible="true" lat="44.87550354" lon="-73.25083923">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Bayview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179101"/>
+  </node>
+  <node id="-332" visible="true" lat="44.87084879" lon="-73.2734048">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Poquette Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179107"/>
+  </node>
+  <node id="-333" visible="true" lat="44.870933" lon="-73.25154021">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="969"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179109"/>
+  </node>
+  <node id="-334" visible="true" lat="44.87049715" lon="-73.27319201">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:street" v="Poquette Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179110"/>
+  </node>
+  <node id="-335" visible="true" lat="44.87073135" lon="-73.25158691">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="939"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179111"/>
+  </node>
+  <node id="-336" visible="true" lat="44.87028955" lon="-73.2517253">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Parker Lodge Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179112"/>
+  </node>
+  <node id="-337" visible="true" lat="44.87019348" lon="-73.27300262">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="188"/>
+    <tag k="addr:street" v="Poquette Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179113"/>
+  </node>
+  <node id="-338" visible="true" lat="44.87019749" lon="-73.25174543">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Parker Lodge Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179114"/>
+  </node>
+  <node id="-339" visible="true" lat="44.87011454" lon="-73.25180604">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Parker Lodge Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179115"/>
+  </node>
+  <node id="-340" visible="true" lat="44.87000274" lon="-73.27018737">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Poquette Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179117"/>
+  </node>
+  <node id="-341" visible="true" lat="44.8698883" lon="-73.27299499">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:street" v="Poquette Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179118"/>
+  </node>
+  <node id="-342" visible="true" lat="44.8698883" lon="-73.25184631">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Parker Lodge Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179119"/>
+  </node>
+  <node id="-343" visible="true" lat="44.86951065" lon="-73.27248382">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:street" v="Poquette Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179120"/>
+  </node>
+  <node id="-345" visible="true" lat="44.8693695" lon="-73.27224731">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="256"/>
+    <tag k="addr:street" v="Poquette Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179122"/>
+  </node>
+  <node id="-346" visible="true" lat="44.86935529" lon="-73.25105021">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="880"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179123"/>
+  </node>
+  <node id="-347" visible="true" lat="44.86956689" lon="-73.25184109">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="867"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179124"/>
+  </node>
+  <node id="-348" visible="true" lat="44.86902236" lon="-73.27192687">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="270"/>
+    <tag k="addr:street" v="Poquette Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179125"/>
+  </node>
+  <node id="-349" visible="true" lat="44.86908528" lon="-73.25182556">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="833"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179126"/>
+  </node>
+  <node id="-350" visible="true" lat="44.86860332" lon="-73.2511458">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="826"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179127"/>
+  </node>
+  <node id="-353" visible="true" lat="44.86652376" lon="-73.2497074">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="192"/>
+    <tag k="addr:street" v="Briarcliff Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179131"/>
+  </node>
+  <node id="-354" visible="true" lat="44.86616899" lon="-73.24976844">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Briarcliff Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179132"/>
+  </node>
+  <node id="-356" visible="true" lat="44.86598148" lon="-73.24979757">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="188"/>
+    <tag k="addr:street" v="Briarcliff Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179135"/>
+  </node>
+  <node id="-357" visible="true" lat="44.86574938" lon="-73.24987525">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="186"/>
+    <tag k="addr:street" v="Briarcliff Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179136"/>
+  </node>
+  <node id="-358" visible="true" lat="44.86542922" lon="-73.25337746">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="583"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179137"/>
+  </node>
+  <node id="-360" visible="true" lat="44.86555404" lon="-73.25012691">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="158"/>
+    <tag k="addr:street" v="Briarcliff Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179139"/>
+  </node>
+  <node id="-361" visible="true" lat="44.86525696" lon="-73.25006618">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Briarcliff Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179140"/>
+  </node>
+  <node id="-362" visible="true" lat="44.86523099" lon="-73.255894">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="137"/>
+    <tag k="addr:street" v="Quintin Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179141"/>
+  </node>
+  <node id="-363" visible="true" lat="44.86521877" lon="-73.25385801">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Quintin Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179142"/>
+  </node>
+  <node id="-364" visible="true" lat="44.86507415" lon="-73.25019073">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Crescent Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179144"/>
+  </node>
+  <node id="-365" visible="true" lat="44.86492919" lon="-73.25032043">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Crescent Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179145"/>
+  </node>
+  <node id="-367" visible="true" lat="44.86473464" lon="-73.25051879">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Crescent Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179147"/>
+  </node>
+  <node id="-368" visible="true" lat="44.86470567" lon="-73.25332132">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="523"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179148"/>
+  </node>
+  <node id="-369" visible="true" lat="44.86458206" lon="-73.25073242">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Crescent Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179149"/>
+  </node>
+  <node id="-370" visible="true" lat="44.86438698" lon="-73.25102782">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Crescent Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179150"/>
+  </node>
+  <node id="-371" visible="true" lat="44.86450841" lon="-73.25340202">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="509"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179151"/>
+  </node>
+  <node id="-372" visible="true" lat="44.86425013" lon="-73.25272468">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Briarcliff Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179152"/>
+  </node>
+  <node id="-373" visible="true" lat="44.86426162" lon="-73.2517395">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Briarcliff Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179153"/>
+  </node>
+  <node id="-374" visible="true" lat="44.86382527" lon="-73.25265164">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="494"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179154"/>
+  </node>
+  <node id="-375" visible="true" lat="44.86402844" lon="-73.25201914">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Briarcliff Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179155"/>
+  </node>
+  <node id="-376" visible="true" lat="44.86376072" lon="-73.25303416">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="480"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179156"/>
+  </node>
+  <node id="-377" visible="true" lat="44.86359389" lon="-73.25326641">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="464"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179157"/>
+  </node>
+  <node id="-380" visible="true" lat="44.86337208" lon="-73.25432343">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="415"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179160"/>
+  </node>
+  <node id="-381" visible="true" lat="44.8630931" lon="-73.25428217">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="397"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179162"/>
+  </node>
+  <node id="-382" visible="true" lat="44.86312807" lon="-73.25993719">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Jerusalem Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179163"/>
+  </node>
+  <node id="-383" visible="true" lat="44.86276819" lon="-73.25518811">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="363"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179164"/>
+  </node>
+  <node id="-385" visible="true" lat="44.86244982" lon="-73.25930487">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Jerusalem Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179167"/>
+  </node>
+  <node id="-386" visible="true" lat="44.86233759" lon="-73.25519147">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="331"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179168"/>
+  </node>
+  <node id="-387" visible="true" lat="44.86205291" lon="-73.25540161">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="313"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179169"/>
+  </node>
+  <node id="-388" visible="true" lat="44.86199951" lon="-73.25862121">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Jerusalem Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179170"/>
+  </node>
+  <node id="-389" visible="true" lat="44.86179265" lon="-73.26902689">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Quarry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179171"/>
+  </node>
+  <node id="-390" visible="true" lat="44.86123275" lon="-73.25702667">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="181"/>
+    <tag k="addr:street" v="Jerusalem Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179173"/>
+  </node>
+  <node id="-391" visible="true" lat="44.8611412" lon="-73.25783538">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Jerusalem Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179174"/>
+  </node>
+  <node id="-392" visible="true" lat="44.86101531" lon="-73.25647735">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179175"/>
+  </node>
+  <node id="-393" visible="true" lat="44.8609848" lon="-73.25720214">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="182"/>
+    <tag k="addr:street" v="Jerusalem Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179176"/>
+  </node>
+  <node id="-394" visible="true" lat="44.86072158" lon="-73.25710296">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="197"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179177"/>
+  </node>
+  <node id="-395" visible="true" lat="44.86050415" lon="-73.25753784">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179178"/>
+  </node>
+  <node id="-396" visible="true" lat="44.86001205" lon="-73.2578659">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179179"/>
+  </node>
+  <node id="-397" visible="true" lat="44.85977935" lon="-73.25791931">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179180"/>
+  </node>
+  <node id="-398" visible="true" lat="44.85847473" lon="-73.28171539">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="329"/>
+    <tag k="addr:street" v="Macomb Bay Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179182"/>
   </node>
   <node id="-431" visible="true" lat="44.85072754" lon="-73.25916152">
     <tag k="addr:city" v="North Hero"/>
@@ -329,12 +2156,145 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="179740"/>
   </node>
+  <node id="-967" visible="true" lat="44.87786928" lon="-73.24516588">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:street" v="Blue Heron Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179819"/>
+  </node>
+  <node id="-968" visible="true" lat="44.87295195" lon="-73.25219427">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1088"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179820"/>
+  </node>
+  <node id="-969" visible="true" lat="44.87647363" lon="-73.24706181">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="283"/>
+    <tag k="addr:street" v="Blue Heron Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179822"/>
+  </node>
+  <node id="-971" visible="true" lat="44.90458663" lon="-73.25482193">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="265"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179824"/>
+  </node>
+  <node id="-975" visible="true" lat="44.88589569" lon="-73.24561465">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1714"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179828"/>
+  </node>
+  <node id="-976" visible="true" lat="44.88585376" lon="-73.24500737">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1752"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179829"/>
+  </node>
+  <node id="-980" visible="true" lat="44.89936741" lon="-73.25722885">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1098"/>
+    <tag k="addr:street" v="North End Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179833"/>
+  </node>
+  <node id="-985" visible="true" lat="44.90655809" lon="-73.25011384">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="460"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179838"/>
+  </node>
+  <node id="-986" visible="true" lat="44.86315899" lon="-73.26615423">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:street" v="Quarry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179840"/>
+  </node>
+  <node id="-987" visible="true" lat="44.86315754" lon="-73.26726739">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Quarry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179841"/>
+  </node>
+  <node id="-988" visible="true" lat="44.86252431" lon="-73.26772964">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Quarry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179842"/>
+  </node>
   <node id="-989" visible="true" lat="44.78604272" lon="-73.28924932">
     <tag k="addr:city" v="North Hero"/>
     <tag k="addr:housenumber" v="1434"/>
     <tag k="addr:street" v="U.S. Route 2"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="179843"/>
+  </node>
+  <node id="-992" visible="true" lat="44.88956239" lon="-73.26813134">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="580"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179846"/>
+  </node>
+  <node id="-993" visible="true" lat="44.89059584" lon="-73.26551239">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179847"/>
+  </node>
+  <node id="-994" visible="true" lat="44.8813298" lon="-73.24902835">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1803"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179848"/>
+  </node>
+  <node id="-995" visible="true" lat="44.86503785" lon="-73.25331985">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="561"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179849"/>
+  </node>
+  <node id="-996" visible="true" lat="44.8954674" lon="-73.26734494">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="367"/>
+    <tag k="addr:street" v="Fee Fee Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179850"/>
+  </node>
+  <node id="-1007" visible="true" lat="44.88495812" lon="-73.24712018">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2069"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179862"/>
+  </node>
+  <node id="-1008" visible="true" lat="44.89520642" lon="-73.24519125">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="263"/>
+    <tag k="addr:street" v="North End Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179863"/>
+  </node>
+  <node id="-1009" visible="true" lat="44.88503691" lon="-73.24532205">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2097"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179864"/>
   </node>
   <node id="-1016" visible="true" lat="44.79619986" lon="-73.29205347">
     <tag k="addr:city" v="North Hero"/>
@@ -350,12 +2310,96 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="179874"/>
   </node>
+  <node id="-1020" visible="true" lat="44.88260323" lon="-73.2515957">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Island Meadows"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179875"/>
+  </node>
+  <node id="-1021" visible="true" lat="44.8831697" lon="-73.25040415">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Island Meadows"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179876"/>
+  </node>
+  <node id="-1022" visible="true" lat="44.89098917" lon="-73.23297215">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="379"/>
+    <tag k="addr:street" v="Curtis Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179877"/>
+  </node>
+  <node id="-1023" visible="true" lat="44.89372083" lon="-73.23959901">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2760"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179878"/>
+  </node>
+  <node id="-1025" visible="true" lat="44.85710799" lon="-73.28131638">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="257"/>
+    <tag k="addr:street" v="Macomb Bay Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179880"/>
+  </node>
   <node id="-1026" visible="true" lat="44.77844207" lon="-73.29041753">
     <tag k="addr:city" v="North Hero"/>
     <tag k="addr:housenumber" v="134"/>
     <tag k="addr:street" v="East View Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="179881"/>
+  </node>
+  <node id="-1028" visible="true" lat="44.88391827" lon="-73.25035153">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:street" v="Island Meadows"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179883"/>
+  </node>
+  <node id="-1029" visible="true" lat="44.88745351" lon="-73.24671267">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1651"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179884"/>
+  </node>
+  <node id="-1030" visible="true" lat="44.88193427" lon="-73.25265179">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1733"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179886"/>
+  </node>
+  <node id="-1031" visible="true" lat="44.88105643" lon="-73.25266198">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1729"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179888"/>
+  </node>
+  <node id="-1032" visible="true" lat="44.90356897" lon="-73.23682524">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3439"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179889"/>
+  </node>
+  <node id="-1033" visible="true" lat="44.90128602" lon="-73.23699467">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3337"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179890"/>
+  </node>
+  <node id="-1034" visible="true" lat="44.90424972" lon="-73.23322918">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:street" v="Scandore Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179891"/>
   </node>
   <node id="-1036" visible="true" lat="44.7834057" lon="-73.28849407">
     <tag k="addr:city" v="North Hero"/>
@@ -364,6 +2408,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="179893"/>
   </node>
+  <node id="-1038" visible="true" lat="44.86162382" lon="-73.25605917">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="197"/>
+    <tag k="addr:street" v="Jerusalem Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179895"/>
+  </node>
   <node id="-1040" visible="true" lat="44.79618385" lon="-73.29167722">
     <tag k="addr:city" v="North Hero"/>
     <tag k="addr:housenumber" v="32"/>
@@ -371,12 +2422,194 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="317674"/>
   </node>
+  <node id="-1043" visible="true" lat="44.88695765" lon="-73.26030315">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="984"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317677"/>
+  </node>
+  <node id="-1044" visible="true" lat="44.90977313" lon="-73.23322973">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Jigger House Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317678"/>
+  </node>
+  <node id="-1045" visible="true" lat="44.90206612" lon="-73.25644331">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317679"/>
+  </node>
+  <node id="-1047" visible="true" lat="44.86186764" lon="-73.26937565">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="280"/>
+    <tag k="addr:street" v="Quarry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317683"/>
+  </node>
+  <node id="-1048" visible="true" lat="44.90782983" lon="-73.23474499">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3770"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317684"/>
+  </node>
+  <node id="-1049" visible="true" lat="44.90745521" lon="-73.23579374">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3733"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317685"/>
+  </node>
+  <node id="-1050" visible="true" lat="44.90668051" lon="-73.23594298">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3671"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317686"/>
+  </node>
+  <node id="-1051" visible="true" lat="44.9049708" lon="-73.23640803">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3547"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317687"/>
+  </node>
+  <node id="-1052" visible="true" lat="44.90211114" lon="-73.23702754">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3339"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317690"/>
+  </node>
+  <node id="-1053" visible="true" lat="44.90597666" lon="-73.23617689">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3669"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317691"/>
+  </node>
+  <node id="-1055" visible="true" lat="44.88871556" lon="-73.2529732">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1329"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317694"/>
+  </node>
+  <node id="-1056" visible="true" lat="44.85917148" lon="-73.28158314">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="417"/>
+    <tag k="addr:street" v="Macomb Bay Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317695"/>
+  </node>
+  <node id="-1058" visible="true" lat="44.89463683" lon="-73.26731971">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="323"/>
+    <tag k="addr:street" v="Fee Fee Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326186"/>
+  </node>
+  <node id="-1061" visible="true" lat="44.88299509" lon="-73.24888577">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Island Meadows"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326190"/>
+  </node>
+  <node id="-1062" visible="true" lat="44.85908784" lon="-73.26924892">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:street" v="Quarry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326191"/>
+  </node>
+  <node id="-1063" visible="true" lat="44.86415408" lon="-73.26761085">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:street" v="Quarry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326192"/>
+  </node>
   <node id="-1065" visible="true" lat="44.7999461" lon="-73.2886897">
     <tag k="addr:city" v="North Hero"/>
     <tag k="addr:housenumber" v="43"/>
     <tag k="addr:street" v="Four Winds Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="326194"/>
+  </node>
+  <node id="-1066" visible="true" lat="44.87888185" lon="-73.25175259">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1591"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="327139"/>
+  </node>
+  <node id="-1067" visible="true" lat="44.88002708" lon="-73.2536798">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1595"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="327140"/>
+  </node>
+  <node id="-1079" visible="true" lat="44.90793146" lon="-73.25288688">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="525"/>
+    <tag k="addr:street" v="Oakridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337720"/>
+  </node>
+  <node id="-1080" visible="true" lat="44.88207835" lon="-73.2689195">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:street" v="Heather Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337721"/>
+  </node>
+  <node id="-1086" visible="true" lat="44.8959999" lon="-73.26661682">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="427"/>
+    <tag k="addr:street" v="Fee Fee Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337727"/>
+  </node>
+  <node id="-1087" visible="true" lat="44.89192873" lon="-73.23370111">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="470"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337728"/>
+  </node>
+  <node id="-1088" visible="true" lat="44.87741608" lon="-73.25207913">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1543"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337755"/>
+  </node>
+  <node id="-1102" visible="true" lat="44.89292814" lon="-73.26787827">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="189"/>
+    <tag k="addr:street" v="Fee Fee Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341269"/>
+  </node>
+  <node id="-1103" visible="true" lat="44.90429199" lon="-73.23654821">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="3545"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341277"/>
+  </node>
+  <node id="-1104" visible="true" lat="44.89119228" lon="-73.23301772">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="361"/>
+    <tag k="addr:street" v="Curtis Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342267"/>
   </node>
   <node id="-1108" visible="true" lat="44.78240078" lon="-73.28939102">
     <tag k="addr:city" v="North Hero"/>
@@ -392,12 +2625,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342276"/>
   </node>
+  <node id="-1114" visible="true" lat="44.88328621" lon="-73.23263">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="845"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345254"/>
+  </node>
   <node id="-1126" visible="true" lat="44.77824069" lon="-73.29074945">
     <tag k="addr:city" v="North Hero"/>
     <tag k="addr:housenumber" v="122"/>
     <tag k="addr:street" v="East View Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="448183"/>
+  </node>
+  <node id="-1128" visible="true" lat="44.86467104" lon="-73.26464066">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Pine Grove Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450166"/>
+  </node>
+  <node id="-1129" visible="true" lat="44.88726431" lon="-73.23204947">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1144"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451260"/>
   </node>
   <node id="-1132" visible="true" lat="44.82282967" lon="-73.2349968">
     <tag k="addr:city" v="North Hero"/>
@@ -476,6 +2730,125 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451918"/>
   </node>
+  <node id="-1198" visible="true" lat="44.86721481" lon="-73.25359798">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="673"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452393"/>
+  </node>
+  <node id="-1236" visible="true" lat="44.88397487" lon="-73.2712359">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Heather Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="453049"/>
+  </node>
+  <node id="-1237" visible="true" lat="44.85919303" lon="-73.28096199">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="418"/>
+    <tag k="addr:street" v="Macomb Bay Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454244"/>
+  </node>
+  <node id="-1241" visible="true" lat="44.88312083" lon="-73.23298132">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="843"/>
+    <tag k="addr:street" v="Holiday Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455229"/>
+  </node>
+  <node id="-1242" visible="true" lat="44.86468099" lon="-73.26322898">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Pine Grove Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611097"/>
+  </node>
+  <node id="-1243" visible="true" lat="44.86553427" lon="-73.26318317">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Pine Grove Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611098"/>
+  </node>
+  <node id="-1244" visible="true" lat="44.8661719" lon="-73.26316398">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="Pine Grove Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611099"/>
+  </node>
+  <node id="-1245" visible="true" lat="44.86611373" lon="-73.2642965">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Pine Grove Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611100"/>
+  </node>
+  <node id="-1246" visible="true" lat="44.86544257" lon="-73.26461238">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="146"/>
+    <tag k="addr:street" v="Pine Grove Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611101"/>
+  </node>
+  <node id="-1249" visible="true" lat="44.89830916" lon="-73.24543178">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:street" v="North End Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613098"/>
+  </node>
+  <node id="-1253" visible="true" lat="44.89052903" lon="-73.26636979">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="597"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617766"/>
+  </node>
+  <node id="-1267" visible="true" lat="44.89478727" lon="-73.23273838">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="269"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751794"/>
+  </node>
+  <node id="-1272" visible="true" lat="44.89372325" lon="-73.26725637">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="259"/>
+    <tag k="addr:street" v="Fee Fee Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753201"/>
+  </node>
+  <node id="-1274" visible="true" lat="44.88661266" lon="-73.2518504">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1448"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753203"/>
+  </node>
+  <node id="-1275" visible="true" lat="44.90214353" lon="-73.23562046">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Baker Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753222"/>
+  </node>
+  <node id="-1276" visible="true" lat="44.90047935" lon="-73.23275494">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="265"/>
+    <tag k="addr:street" v="Baker Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753223"/>
+  </node>
+  <node id="-1277" visible="true" lat="44.89504154" lon="-73.23790784">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="North End Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753225"/>
+  </node>
   <node id="-1278" visible="true" lat="44.86706413" lon="-73.25266479">
     <tag k="addr:city" v="North Hero"/>
     <tag k="addr:housenumber" v="699"/>
@@ -489,5 +2862,40 @@
     <tag k="addr:street" v="West Shore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753228"/>
+  </node>
+  <node id="-1284" visible="true" lat="44.88549032" lon="-73.27241">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753531"/>
+  </node>
+  <node id="-1285" visible="true" lat="44.88503764" lon="-73.27238881">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753532"/>
+  </node>
+  <node id="-1288" visible="true" lat="44.87783747" lon="-73.2511549">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="1565"/>
+    <tag k="addr:street" v="Lakeview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754471"/>
+  </node>
+  <node id="-1296" visible="true" lat="44.9008197" lon="-73.23259391">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="249"/>
+    <tag k="addr:street" v="Baker Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761861"/>
+  </node>
+  <node id="-1297" visible="true" lat="44.88369431" lon="-73.27052568">
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Heather Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763419"/>
   </node>
 </osm>

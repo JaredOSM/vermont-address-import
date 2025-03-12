@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="43.31260672" lon="-72.67557571">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="596"/>
     <tag k="addr:street" v="Steinle Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3610"/>
-  </node>
-  <node id="-103" visible="true" lat="43.34944152" lon="-72.63711547">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="240"/>
-    <tag k="addr:street" v="Suursoo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65811"/>
-  </node>
-  <node id="-104" visible="true" lat="43.34819219" lon="-72.64381666">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="465"/>
-    <tag k="addr:street" v="Pennell Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65812"/>
   </node>
   <node id="-105" visible="true" lat="43.34817886" lon="-72.6109085">
     <tag k="addr:city" v="Chester"/>
@@ -70,20 +56,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65819"/>
   </node>
-  <node id="-112" visible="true" lat="43.34638214" lon="-72.63960266">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="882"/>
-    <tag k="addr:street" v="Smokeshire Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65820"/>
-  </node>
-  <node id="-113" visible="true" lat="43.34635925" lon="-72.62338256">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="5238"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65821"/>
-  </node>
   <node id="-114" visible="true" lat="43.34622573" lon="-72.62319946">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="5226"/>
@@ -98,40 +70,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65823"/>
   </node>
-  <node id="-116" visible="true" lat="43.34599685" lon="-72.62393951">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="5227"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65824"/>
-  </node>
-  <node id="-117" visible="true" lat="43.34597778" lon="-72.6231079">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="5210"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65825"/>
-  </node>
   <node id="-118" visible="true" lat="43.34596517" lon="-72.61151085">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="945"/>
     <tag k="addr:street" v="Cavendish Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65826"/>
-  </node>
-  <node id="-119" visible="true" lat="43.34572601" lon="-72.62310028">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="5194"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65827"/>
-  </node>
-  <node id="-120" visible="true" lat="43.34556198" lon="-72.62296295">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="5180"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65828"/>
   </node>
   <node id="-121" visible="true" lat="43.34549713" lon="-72.5553894">
     <tag k="addr:city" v="Chester"/>
@@ -146,13 +90,6 @@
     <tag k="addr:street" v="Dean Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65830"/>
-  </node>
-  <node id="-123" visible="true" lat="43.34537111" lon="-72.63096873">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="394"/>
-    <tag k="addr:street" v="Smokeshire Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65831"/>
   </node>
   <node id="-124" visible="true" lat="43.34532928" lon="-72.61174011">
     <tag k="addr:city" v="Chester"/>
@@ -175,13 +112,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65834"/>
   </node>
-  <node id="-127" visible="true" lat="43.34457397" lon="-72.64076995">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="979"/>
-    <tag k="addr:street" v="Smokeshire Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65835"/>
-  </node>
   <node id="-128" visible="true" lat="43.34514371" lon="-72.58154001">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="1539"/>
@@ -196,27 +126,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65837"/>
   </node>
-  <node id="-130" visible="true" lat="43.34405517" lon="-72.62174987">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="5056"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65838"/>
-  </node>
-  <node id="-131" visible="true" lat="43.34377288" lon="-72.62149047">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="5032"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65839"/>
-  </node>
-  <node id="-132" visible="true" lat="43.34368133" lon="-72.62239837">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="5051"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65840"/>
-  </node>
   <node id="-133" visible="true" lat="43.34357833" lon="-72.55558776">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="607"/>
@@ -224,26 +133,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65841"/>
   </node>
-  <node id="-134" visible="true" lat="43.3433876" lon="-72.62037658">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="4978"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65842"/>
-  </node>
   <node id="-135" visible="true" lat="43.34335327" lon="-72.55462646">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="590"/>
     <tag k="addr:street" v="Gould Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65843"/>
-  </node>
-  <node id="-136" visible="true" lat="43.34298706" lon="-72.62178802">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="4993"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65844"/>
   </node>
   <node id="-137" visible="true" lat="43.34287643" lon="-72.55608368">
     <tag k="addr:city" v="Chester"/>
@@ -273,26 +168,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65849"/>
   </node>
-  <node id="-141" visible="true" lat="43.34187698" lon="-72.62127685">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="4965"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65850"/>
-  </node>
   <node id="-142" visible="true" lat="43.34156799" lon="-72.67525482">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="3290"/>
     <tag k="addr:street" v="Smokeshire Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65851"/>
-  </node>
-  <node id="-143" visible="true" lat="43.34151077" lon="-72.62060546">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="4877"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65852"/>
   </node>
   <node id="-144" visible="true" lat="43.34129714" lon="-72.64194488">
     <tag k="addr:city" v="Chester"/>
@@ -336,13 +217,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65858"/>
   </node>
-  <node id="-150" visible="true" lat="43.34041214" lon="-72.62060546">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Whitmore Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65859"/>
-  </node>
   <node id="-151" visible="true" lat="43.34034347" lon="-72.63028717">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="466"/>
@@ -385,13 +259,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65865"/>
   </node>
-  <node id="-157" visible="true" lat="43.33948898" lon="-72.67396545">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="3335"/>
-    <tag k="addr:street" v="Smokeshire Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65866"/>
-  </node>
   <node id="-158" visible="true" lat="43.33929824" lon="-72.61791229">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="4678"/>
@@ -405,13 +272,6 @@
     <tag k="addr:street" v="Gould Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65868"/>
-  </node>
-  <node id="-160" visible="true" lat="43.33897781" lon="-72.62215423">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="260"/>
-    <tag k="addr:street" v="Whitmore Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65869"/>
   </node>
   <node id="-161" visible="true" lat="43.33884048" lon="-72.61766052">
     <tag k="addr:city" v="Chester"/>
@@ -455,13 +315,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65875"/>
   </node>
-  <node id="-167" visible="true" lat="43.33625793" lon="-72.65723419">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="248"/>
-    <tag k="addr:street" v="Miner Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65876"/>
-  </node>
   <node id="-168" visible="true" lat="43.33615493" lon="-72.61417389">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="244"/>
@@ -497,13 +350,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65881"/>
   </node>
-  <node id="-173" visible="true" lat="43.33537292" lon="-72.65177917">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="2098"/>
-    <tag k="addr:street" v="Smokeshire Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65882"/>
-  </node>
   <node id="-174" visible="true" lat="43.33545303" lon="-72.55667877">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="32"/>
@@ -517,13 +363,6 @@
     <tag k="addr:street" v="Cavendish Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65884"/>
-  </node>
-  <node id="-176" visible="true" lat="43.33524322" lon="-72.65104675">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="2044"/>
-    <tag k="addr:street" v="Smokeshire Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65885"/>
   </node>
   <node id="-177" visible="true" lat="43.33506356" lon="-72.54900409">
     <tag k="addr:city" v="Chester"/>
@@ -559,13 +398,6 @@
     <tag k="addr:street" v="Roland Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65890"/>
-  </node>
-  <node id="-182" visible="true" lat="43.33518771" lon="-72.62284883">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="528"/>
-    <tag k="addr:street" v="Whitmore Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65891"/>
   </node>
   <node id="-183" visible="true" lat="43.33512423" lon="-72.56584874">
     <tag k="addr:city" v="Chester"/>
@@ -622,13 +454,6 @@
     <tag k="addr:street" v="Vermont Route 10"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65899"/>
-  </node>
-  <node id="-191" visible="true" lat="43.33439636" lon="-72.65209198">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Chase Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65900"/>
   </node>
   <node id="-192" visible="true" lat="43.33444976" lon="-72.56243133">
     <tag k="addr:city" v="Chester"/>
@@ -714,13 +539,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65912"/>
   </node>
-  <node id="-204" visible="true" lat="43.33294677" lon="-72.65253448">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="171"/>
-    <tag k="addr:street" v="Chase Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65913"/>
-  </node>
   <node id="-205" visible="true" lat="43.33299304" lon="-72.60270477">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="650"/>
@@ -741,13 +559,6 @@
     <tag k="addr:street" v="Vermont Route 10"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65916"/>
-  </node>
-  <node id="-208" visible="true" lat="43.33272933" lon="-72.65272522">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="187"/>
-    <tag k="addr:street" v="Chase Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65917"/>
   </node>
   <node id="-209" visible="true" lat="43.33284373" lon="-72.55927261">
     <tag k="addr:city" v="Chester"/>
@@ -811,13 +622,6 @@
     <tag k="addr:street" v="Davidson Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65926"/>
-  </node>
-  <node id="-218" visible="true" lat="43.33203506" lon="-72.65449523">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="306"/>
-    <tag k="addr:street" v="Chase Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65927"/>
   </node>
   <node id="-219" visible="true" lat="43.33203506" lon="-72.56696319">
     <tag k="addr:city" v="Chester"/>
@@ -1021,13 +825,6 @@
     <tag k="addr:street" v="Chandler Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65956"/>
-  </node>
-  <node id="-248" visible="true" lat="43.32883276" lon="-72.65912684">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="270"/>
-    <tag k="addr:street" v="Pleines Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65957"/>
   </node>
   <node id="-249" visible="true" lat="43.32891464" lon="-72.59533691">
     <tag k="addr:city" v="Chester"/>
@@ -1470,13 +1267,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66020"/>
   </node>
-  <node id="-312" visible="true" lat="43.32471978" lon="-72.6605635">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="982"/>
-    <tag k="addr:street" v="Chase Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66021"/>
-  </node>
   <node id="-313" visible="true" lat="43.324768" lon="-72.58466328">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="152"/>
@@ -1554,13 +1344,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66032"/>
   </node>
-  <node id="-324" visible="true" lat="43.3229518" lon="-72.65827969">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="897"/>
-    <tag k="addr:street" v="Chase Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66033"/>
-  </node>
   <node id="-325" visible="true" lat="43.32372283" lon="-72.58208465">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="287"/>
@@ -1609,13 +1392,6 @@
     <tag k="addr:street" v="Mattson Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66040"/>
-  </node>
-  <node id="-332" visible="true" lat="43.32274246" lon="-72.65825652">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="807"/>
-    <tag k="addr:street" v="Chase Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66041"/>
   </node>
   <node id="-333" visible="true" lat="43.3226902" lon="-72.5718191">
     <tag k="addr:city" v="Chester"/>
@@ -3108,13 +2884,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66255"/>
   </node>
-  <node id="-546" visible="true" lat="43.2828598" lon="-72.59902191">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Trebo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66256"/>
-  </node>
   <node id="-547" visible="true" lat="43.28264323" lon="-72.55471158">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="13"/>
@@ -3128,13 +2897,6 @@
     <tag k="addr:street" v="Vermont Route 11 East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66258"/>
-  </node>
-  <node id="-549" visible="true" lat="43.28261184" lon="-72.60015106">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Trebo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66259"/>
   </node>
   <node id="-550" visible="true" lat="43.28266325" lon="-72.55281854">
     <tag k="addr:city" v="Chester"/>
@@ -3198,13 +2960,6 @@
     <tag k="addr:street" v="Potash Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66269"/>
-  </node>
-  <node id="-560" visible="true" lat="43.28108596" lon="-72.60194396">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="391"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66270"/>
   </node>
   <node id="-561" visible="true" lat="43.28096771" lon="-72.67049408">
     <tag k="addr:city" v="Chester"/>
@@ -3275,13 +3030,6 @@
     <tag k="addr:street" v="Flamstead Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66281"/>
-  </node>
-  <node id="-572" visible="true" lat="43.27944564" lon="-72.59959411">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="157"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66282"/>
   </node>
   <node id="-573" visible="true" lat="43.2792282" lon="-72.61315155">
     <tag k="addr:city" v="Chester"/>
@@ -3388,13 +3136,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66297"/>
   </node>
-  <node id="-589" visible="true" lat="43.2775917" lon="-72.59837341">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66299"/>
-  </node>
   <node id="-590" visible="true" lat="43.27754384" lon="-72.60626528">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="435"/>
@@ -3451,13 +3192,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66312"/>
   </node>
-  <node id="-602" visible="true" lat="43.27682495" lon="-72.59951782">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="803"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66313"/>
-  </node>
   <node id="-603" visible="true" lat="43.27687727" lon="-72.56965206">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="1687"/>
@@ -3493,20 +3227,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66320"/>
   </node>
-  <node id="-610" visible="true" lat="43.27647473" lon="-72.5993323">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="805"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66321"/>
-  </node>
-  <node id="-612" visible="true" lat="43.27633666" lon="-72.59536743">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="412"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66324"/>
-  </node>
   <node id="-613" visible="true" lat="43.27634429" lon="-72.58535766">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="475"/>
@@ -3528,20 +3248,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66327"/>
   </node>
-  <node id="-616" visible="true" lat="43.27610035" lon="-72.59726808">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="852"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66328"/>
-  </node>
-  <node id="-617" visible="true" lat="43.27624442" lon="-72.59640906">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="449"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66329"/>
-  </node>
   <node id="-618" visible="true" lat="43.27610397" lon="-72.56697845">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="1638"/>
@@ -3555,13 +3261,6 @@
     <tag k="addr:street" v="Lovers Lane Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66331"/>
-  </node>
-  <node id="-621" visible="true" lat="43.27600533" lon="-72.59468862">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="374"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66333"/>
   </node>
   <node id="-623" visible="true" lat="43.27588272" lon="-72.56163787">
     <tag k="addr:city" v="Chester"/>
@@ -3577,61 +3276,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66336"/>
   </node>
-  <node id="-625" visible="true" lat="43.27582168" lon="-72.59555816">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="401"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66337"/>
-  </node>
-  <node id="-626" visible="true" lat="43.27578353" lon="-72.59417724">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="340"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66338"/>
-  </node>
-  <node id="-627" visible="true" lat="43.2756195" lon="-72.59369659">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="312"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66339"/>
-  </node>
-  <node id="-628" visible="true" lat="43.27553176" lon="-72.59337615">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="296"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66340"/>
-  </node>
-  <node id="-629" visible="true" lat="43.27552413" lon="-72.59355163">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="302"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66341"/>
-  </node>
-  <node id="-630" visible="true" lat="43.27550506" lon="-72.59461975">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="349"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66342"/>
-  </node>
   <node id="-631" visible="true" lat="43.27541351" lon="-72.67264556">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="151"/>
     <tag k="addr:street" v="Eddy Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66343"/>
-  </node>
-  <node id="-632" visible="true" lat="43.27539351" lon="-72.59435422">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="335"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66345"/>
   </node>
   <node id="-633" visible="true" lat="43.27544514" lon="-72.55150942">
     <tag k="addr:city" v="Chester"/>
@@ -3654,20 +3304,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66348"/>
   </node>
-  <node id="-637" visible="true" lat="43.27531051" lon="-72.59294891">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="270"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66351"/>
-  </node>
-  <node id="-638" visible="true" lat="43.27529144" lon="-72.60482025">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="270"/>
-    <tag k="addr:street" v="Marcs Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66352"/>
-  </node>
   <node id="-639" visible="true" lat="43.27523422" lon="-72.58432006">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="402"/>
@@ -3682,40 +3318,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66354"/>
   </node>
-  <node id="-641" visible="true" lat="43.27515792" lon="-72.59262084">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="250"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66355"/>
-  </node>
-  <node id="-642" visible="true" lat="43.2751503" lon="-72.59394073">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="311"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66356"/>
-  </node>
   <node id="-643" visible="true" lat="43.27505689" lon="-72.60630575">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:street" v="Dian Circle"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66357"/>
-  </node>
-  <node id="-644" visible="true" lat="43.27508163" lon="-72.59211731">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="228"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66358"/>
-  </node>
-  <node id="-645" visible="true" lat="43.27465654" lon="-72.59324888">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="267"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66359"/>
   </node>
   <node id="-646" visible="true" lat="43.27485679" lon="-72.55093763">
     <tag k="addr:city" v="Chester"/>
@@ -3724,33 +3332,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66360"/>
   </node>
-  <node id="-647" visible="true" lat="43.2749006" lon="-72.60275565">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="110"/>
-    <tag k="addr:street" v="Marcs Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66361"/>
-  </node>
   <node id="-648" visible="true" lat="43.27478137" lon="-72.60695796">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="84"/>
     <tag k="addr:street" v="Dian Circle"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66362"/>
-  </node>
-  <node id="-649" visible="true" lat="43.27480697" lon="-72.59158325">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="196"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66363"/>
-  </node>
-  <node id="-650" visible="true" lat="43.27483204" lon="-72.60481045">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="230"/>
-    <tag k="addr:street" v="Marcs Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66364"/>
   </node>
   <node id="-651" visible="true" lat="43.27461242" lon="-72.67511749">
     <tag k="addr:city" v="Chester"/>
@@ -3773,26 +3360,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66368"/>
   </node>
-  <node id="-654" visible="true" lat="43.27455901" lon="-72.59113311">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="166"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66369"/>
-  </node>
   <node id="-656" visible="true" lat="43.27455901" lon="-72.57333374">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="Howard Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66372"/>
-  </node>
-  <node id="-657" visible="true" lat="43.27454376" lon="-72.59159851">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="186"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66373"/>
   </node>
   <node id="-658" visible="true" lat="43.2744255" lon="-72.66983032">
     <tag k="addr:city" v="Chester"/>
@@ -3808,40 +3381,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66375"/>
   </node>
-  <node id="-660" visible="true" lat="43.27438354" lon="-72.59187316">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="189"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66377"/>
-  </node>
-  <node id="-661" visible="true" lat="43.2742691" lon="-72.59087371">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="146"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66378"/>
-  </node>
   <node id="-662" visible="true" lat="43.27417767" lon="-72.60494802">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="203"/>
     <tag k="addr:street" v="Marcs Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66379"/>
-  </node>
-  <node id="-663" visible="true" lat="43.27417373" lon="-72.59160614">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="171"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66380"/>
-  </node>
-  <node id="-664" visible="true" lat="43.27414321" lon="-72.59068298">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="134"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66381"/>
   </node>
   <node id="-666" visible="true" lat="43.27401351" lon="-72.60379028">
     <tag k="addr:city" v="Chester"/>
@@ -3857,13 +3402,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66384"/>
   </node>
-  <node id="-669" visible="true" lat="43.27393722" lon="-72.59024047">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66386"/>
-  </node>
   <node id="-671" visible="true" lat="43.273777" lon="-72.58728027">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="261"/>
@@ -3871,33 +3409,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66388"/>
   </node>
-  <node id="-672" visible="true" lat="43.27370071" lon="-72.60202789">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:street" v="Marcs Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66389"/>
-  </node>
-  <node id="-673" visible="true" lat="43.27363205" lon="-72.59082031">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="113"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66391"/>
-  </node>
   <node id="-674" visible="true" lat="43.27356983" lon="-72.58508878">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="284"/>
     <tag k="addr:street" v="Flamstead Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66392"/>
-  </node>
-  <node id="-675" visible="true" lat="43.27333831" lon="-72.59044647">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66393"/>
   </node>
   <node id="-677" visible="true" lat="43.27308654" lon="-72.66979217">
     <tag k="addr:city" v="Chester"/>
@@ -3941,13 +3458,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66401"/>
   </node>
-  <node id="-683" visible="true" lat="43.27283096" lon="-72.58982086">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66402"/>
-  </node>
   <node id="-685" visible="true" lat="43.27269406" lon="-72.58342293">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="165"/>
@@ -3962,26 +3472,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66406"/>
   </node>
-  <node id="-687" visible="true" lat="43.27256774" lon="-72.58844757">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="3314"/>
-    <tag k="addr:street" v="Green Mountain Turnpike"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66407"/>
-  </node>
   <node id="-688" visible="true" lat="43.27281541" lon="-72.57016495">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="1369"/>
     <tag k="addr:street" v="Vermont Route 11 East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66408"/>
-  </node>
-  <node id="-689" visible="true" lat="43.2724533" lon="-72.58834075">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="3306"/>
-    <tag k="addr:street" v="Green Mountain Turnpike"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66409"/>
   </node>
   <node id="-690" visible="true" lat="43.27231216" lon="-72.58172607">
     <tag k="addr:city" v="Chester"/>
@@ -3997,13 +3493,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66411"/>
   </node>
-  <node id="-692" visible="true" lat="43.27222442" lon="-72.58852386">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="3301"/>
-    <tag k="addr:street" v="Green Mountain Turnpike"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66412"/>
-  </node>
   <node id="-693" visible="true" lat="43.27220916" lon="-72.56907653">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="1338"/>
@@ -4017,13 +3506,6 @@
     <tag k="addr:street" v="Cummings Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66414"/>
-  </node>
-  <node id="-695" visible="true" lat="43.27212524" lon="-72.5879364">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="3276"/>
-    <tag k="addr:street" v="Green Mountain Turnpike"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66415"/>
   </node>
   <node id="-696" visible="true" lat="43.27201474" lon="-72.58440561">
     <tag k="addr:city" v="Chester"/>
@@ -4039,20 +3521,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66417"/>
   </node>
-  <node id="-698" visible="true" lat="43.27199172" lon="-72.58675384">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="135"/>
-    <tag k="addr:street" v="Flamstead Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66418"/>
-  </node>
-  <node id="-699" visible="true" lat="43.27198791" lon="-72.58782958">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="3268"/>
-    <tag k="addr:street" v="Green Mountain Turnpike"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66419"/>
-  </node>
   <node id="-700" visible="true" lat="43.27195362" lon="-72.56828193">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="106"/>
@@ -4060,26 +3528,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66420"/>
   </node>
-  <node id="-701" visible="true" lat="43.27192548" lon="-72.58597272">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Cummings Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66421"/>
-  </node>
   <node id="-702" visible="true" lat="43.27179718" lon="-72.67504882">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="1020"/>
     <tag k="addr:street" v="Andover Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66422"/>
-  </node>
-  <node id="-703" visible="true" lat="43.27177234" lon="-72.58758994">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="3254"/>
-    <tag k="addr:street" v="Green Mountain Turnpike"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66423"/>
   </node>
   <node id="-704" visible="true" lat="43.27183479" lon="-72.67232259">
     <tag k="addr:city" v="Chester"/>
@@ -4143,13 +3597,6 @@
     <tag k="addr:street" v="First Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66434"/>
-  </node>
-  <node id="-714" visible="true" lat="43.2712059" lon="-72.5872116">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="3208"/>
-    <tag k="addr:street" v="Green Mountain Turnpike"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66435"/>
   </node>
   <node id="-715" visible="true" lat="43.27112537" lon="-72.67798277">
     <tag k="addr:city" v="Chester"/>
@@ -4599,13 +4046,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66530"/>
   </node>
-  <node id="-799" visible="true" lat="43.26791763" lon="-72.58991241">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="563"/>
-    <tag k="addr:street" v="Depot Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66531"/>
-  </node>
   <node id="-800" visible="true" lat="43.26786804" lon="-72.58834838">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="492"/>
@@ -4724,13 +4164,6 @@
     <tag k="addr:street" v="Elm Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66554"/>
-  </node>
-  <node id="-820" visible="true" lat="43.26726531" lon="-72.59005737">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="517"/>
-    <tag k="addr:street" v="Depot Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66555"/>
   </node>
   <node id="-821" visible="true" lat="43.26725006" lon="-72.58836364">
     <tag k="addr:city" v="Chester"/>
@@ -5165,13 +4598,6 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="66630"/>
-  </node>
-  <node id="-887" visible="true" lat="43.26595075" lon="-72.60223122">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="418"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66631"/>
   </node>
   <node id="-888" visible="true" lat="43.26580047" lon="-72.60358428">
     <tag k="addr:city" v="Chester"/>
@@ -8204,13 +7630,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67146"/>
   </node>
-  <node id="-1358" visible="true" lat="43.24111544" lon="-72.56132296">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Peck Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67147"/>
-  </node>
   <node id="-1359" visible="true" lat="43.24081802" lon="-72.55475616">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="355"/>
@@ -8602,20 +8021,6 @@
     <tag k="addr:street" v="Smokeshire Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67203"/>
-  </node>
-  <node id="-1415" visible="true" lat="43.33403015" lon="-72.65554046">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="354"/>
-    <tag k="addr:street" v="Miner Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67204"/>
-  </node>
-  <node id="-1416" visible="true" lat="43.34713363" lon="-72.63597869">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="692"/>
-    <tag k="addr:street" v="Smokeshire Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67205"/>
   </node>
   <node id="-1417" visible="true" lat="43.34637463" lon="-72.61070005">
     <tag k="addr:city" v="Chester"/>
@@ -9233,20 +8638,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67302"/>
   </node>
-  <node id="-1508" visible="true" lat="43.33429718" lon="-72.65597534">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="334"/>
-    <tag k="addr:street" v="Miner Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67303"/>
-  </node>
-  <node id="-1509" visible="true" lat="43.34505081" lon="-72.62386322">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="5211"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67304"/>
-  </node>
   <node id="-1510" visible="true" lat="43.33451095" lon="-72.55649984">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="3074"/>
@@ -9681,13 +9072,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67370"/>
   </node>
-  <node id="-1574" visible="true" lat="43.27569824" lon="-72.59745251">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="828"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67372"/>
-  </node>
   <node id="-1575" visible="true" lat="43.33548736" lon="-72.55762481">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="2940"/>
@@ -9778,20 +9162,6 @@
     <tag k="addr:street" v="Cavendish Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67386"/>
-  </node>
-  <node id="-1588" visible="true" lat="43.33273696" lon="-72.64630893">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Chase Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67387"/>
-  </node>
-  <node id="-1589" visible="true" lat="43.33925023" lon="-72.6232803">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Sugarbush Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67388"/>
   </node>
   <node id="-1590" visible="true" lat="43.33495107" lon="-72.56674219">
     <tag k="addr:city" v="Chester"/>
@@ -10073,13 +9443,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67430"/>
   </node>
-  <node id="-1630" visible="true" lat="43.27139134" lon="-72.5862627">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Cummings Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67431"/>
-  </node>
   <node id="-1631" visible="true" lat="43.26766659" lon="-72.59003303">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="22"/>
@@ -10115,26 +9478,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67436"/>
   </node>
-  <node id="-1636" visible="true" lat="43.34194509" lon="-72.61977261">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="4878"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67437"/>
-  </node>
   <node id="-1637" visible="true" lat="43.33391903" lon="-72.5879392">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="1591"/>
     <tag k="addr:street" v="Dean Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67438"/>
-  </node>
-  <node id="-1639" visible="true" lat="43.32773804" lon="-72.65537605">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="723"/>
-    <tag k="addr:street" v="Chase Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67440"/>
   </node>
   <node id="-1640" visible="true" lat="43.32935964" lon="-72.60637939">
     <tag k="addr:city" v="Chester"/>
@@ -10472,13 +9821,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67494"/>
   </node>
-  <node id="-1691" visible="true" lat="43.23960104" lon="-72.68262273">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="674"/>
-    <tag k="addr:street" v="Williams Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67495"/>
-  </node>
   <node id="-1692" visible="true" lat="43.27597984" lon="-72.63465593">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="733"/>
@@ -10492,13 +9834,6 @@
     <tag k="addr:street" v="Reservoir Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67497"/>
-  </node>
-  <node id="-1694" visible="true" lat="43.28040074" lon="-72.60016388">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="259"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67498"/>
   </node>
   <node id="-1695" visible="true" lat="43.25576556" lon="-72.60391863">
     <tag k="addr:city" v="Chester"/>
@@ -10598,13 +9933,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67512"/>
   </node>
-  <node id="-1709" visible="true" lat="43.34540962" lon="-72.63930947">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="955"/>
-    <tag k="addr:street" v="Smokeshire Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67513"/>
-  </node>
   <node id="-1710" visible="true" lat="43.33234909" lon="-72.54807116">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="817"/>
@@ -10646,13 +9974,6 @@
     <tag k="addr:street" v="Trebo Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67519"/>
-  </node>
-  <node id="-1716" visible="true" lat="43.28241147" lon="-72.59951919">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Trebo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67521"/>
   </node>
   <node id="-1717" visible="true" lat="43.27922009" lon="-72.60621402">
     <tag k="addr:city" v="Chester"/>
@@ -10723,13 +10044,6 @@
     <tag k="addr:street" v="Dodge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67531"/>
-  </node>
-  <node id="-1727" visible="true" lat="43.33724441" lon="-72.62156237">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="341"/>
-    <tag k="addr:street" v="Whitmore Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67532"/>
   </node>
   <node id="-1728" visible="true" lat="43.33365828" lon="-72.58971081">
     <tag k="addr:city" v="Chester"/>
@@ -11102,13 +10416,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316865"/>
   </node>
-  <node id="-1782" visible="true" lat="43.3462738" lon="-72.63046142">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="230"/>
-    <tag k="addr:street" v="Smokeshire Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="327120"/>
-  </node>
   <node id="-1783" visible="true" lat="43.2773153" lon="-72.57389567">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="67"/>
@@ -11473,33 +10780,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343563"/>
   </node>
-  <node id="-1837" visible="true" lat="43.34565597" lon="-72.64008608">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="957"/>
-    <tag k="addr:street" v="Smokeshire Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="343564"/>
-  </node>
-  <node id="-1838" visible="true" lat="43.33613299" lon="-72.65713877">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="246"/>
-    <tag k="addr:street" v="Miner Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="343565"/>
-  </node>
   <node id="-1839" visible="true" lat="43.25549262" lon="-72.61729371">
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="994"/>
     <tag k="addr:street" v="Dodge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="344293"/>
-  </node>
-  <node id="-1841" visible="true" lat="43.32920559" lon="-72.65902899">
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="271"/>
-    <tag k="addr:street" v="Pleines Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="345202"/>
   </node>
   <node id="-1842" visible="true" lat="43.30642054" lon="-72.61750265">
     <tag k="addr:city" v="Chester"/>

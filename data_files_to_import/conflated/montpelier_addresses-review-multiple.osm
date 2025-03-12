@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-240" visible="true" lat="44.27329642" lon="-72.55694261">
     <!-- multiple: "1996 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Montpelier"/>
@@ -72,6 +72,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="164947"/>
   </node>
+  <node id="-942" visible="true" lat="44.2620614" lon="-72.57337034">
+    <!-- multiple: "144 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165065"/>
+  </node>
   <node id="-969" visible="true" lat="44.26189622" lon="-72.58203088">
     <!-- multiple: "133 State Street, Montpelier, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Montpelier"/>
@@ -79,6 +87,14 @@
     <tag k="addr:street" v="State Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165097"/>
+  </node>
+  <node id="-1031" visible="true" lat="44.26136542" lon="-72.57564448">
+    <!-- multiple: "41 Elm Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165165"/>
   </node>
   <node id="-1036" visible="true" lat="44.26125983" lon="-72.58174372">
     <!-- multiple: "126 State Street, Montpelier, VT" Multiple exact matches in OSM. -->
@@ -95,14 +111,6 @@
     <tag k="addr:street" v="State Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165229"/>
-  </node>
-  <node id="-1106" visible="true" lat="44.26080168" lon="-72.57963421">
-    <!-- multiple: "110 State Street, Montpelier, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="110"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165249"/>
   </node>
   <node id="-1109" visible="true" lat="44.26107573" lon="-72.57833377">
     <!-- multiple: "93 State Street, Montpelier, VT" Multiple exact matches in OSM. -->
@@ -136,6 +144,150 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165336"/>
   </node>
+  <node id="-1186" visible="true" lat="44.26030893" lon="-72.57547417">
+    <!-- multiple: "90 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165338"/>
+  </node>
+  <node id="-1189" visible="true" lat="44.26031944" lon="-72.57565881">
+    <!-- multiple: "5 State Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="State Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165342"/>
+  </node>
+  <node id="-1193" visible="true" lat="44.26035064" lon="-72.57578597">
+    <!-- multiple: "15 State Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="State Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165347"/>
+  </node>
+  <node id="-1214" visible="true" lat="44.26011833" lon="-72.5761591">
+    <!-- multiple: "18 State Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="State Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165371"/>
+  </node>
+  <node id="-1226" visible="true" lat="44.26005698" lon="-72.57590511">
+    <!-- multiple: "6 State Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="State Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165384"/>
+  </node>
+  <node id="-1262" visible="true" lat="44.25963557" lon="-72.57600427">
+    <!-- multiple: "64 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165423"/>
+  </node>
+  <node id="-1272" visible="true" lat="44.25967181" lon="-72.56688611">
+    <!-- multiple: "4 Fuller Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Fuller Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165434"/>
+  </node>
+  <node id="-1282" visible="true" lat="44.25958909" lon="-72.56675367">
+    <!-- multiple: "8 Fuller Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Fuller Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165444"/>
+  </node>
+  <node id="-1283" visible="true" lat="44.25950522" lon="-72.56646058">
+    <!-- multiple: "14 Fuller Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Fuller Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165445"/>
+  </node>
+  <node id="-1286" visible="true" lat="44.25954146" lon="-72.5665822">
+    <!-- multiple: "12 Fuller Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Fuller Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165448"/>
+  </node>
+  <node id="-1294" visible="true" lat="44.25949048" lon="-72.57612648">
+    <!-- multiple: "54 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165457"/>
+  </node>
+  <node id="-1297" visible="true" lat="44.25945284" lon="-72.56624423">
+    <!-- multiple: "16 Fuller Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Fuller Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165460"/>
+  </node>
+  <node id="-1315" visible="true" lat="44.25923576" lon="-72.57557034">
+    <!-- multiple: "39 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165479"/>
+  </node>
+  <node id="-1318" visible="true" lat="44.2593589" lon="-72.56603237">
+    <!-- multiple: "18 Fuller Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Fuller Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165482"/>
+  </node>
+  <node id="-1327" visible="true" lat="44.25927257" lon="-72.56577141">
+    <!-- multiple: "20 Fuller Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Fuller Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165494"/>
+  </node>
+  <node id="-1330" visible="true" lat="44.25927251" lon="-72.56700908">
+    <!-- multiple: "1 Fuller Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Fuller Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165497"/>
+  </node>
+  <node id="-1332" visible="true" lat="44.25931927" lon="-72.56417444">
+    <!-- multiple: "9 Heaton Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Heaton Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165499"/>
+  </node>
+  <node id="-1351" visible="true" lat="44.25905864" lon="-72.57647627">
+    <!-- multiple: "28 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165518"/>
+  </node>
   <node id="-1436" visible="true" lat="44.25822761" lon="-72.57680387">
     <!-- multiple: "7 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Montpelier"/>
@@ -144,6 +296,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165608"/>
   </node>
+  <node id="-1465" visible="true" lat="44.25799359" lon="-72.57239968">
+    <!-- multiple: "20 Hubbard Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Hubbard Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165638"/>
+  </node>
   <node id="-1482" visible="true" lat="44.25784173" lon="-72.57348467">
     <!-- multiple: "6 Wilder Street, Montpelier, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Montpelier"/>
@@ -151,14 +311,6 @@
     <tag k="addr:street" v="Wilder Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165655"/>
-  </node>
-  <node id="-1487" visible="true" lat="44.2578716" lon="-72.57481679">
-    <!-- multiple: "2 Monsignor Crosby Avenue, Montpelier, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Monsignor Crosby Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165660"/>
   </node>
   <node id="-1506" visible="true" lat="44.25767645" lon="-72.57456544">
     <!-- multiple: "46 Barre Street, Montpelier, VT" Multiple exact matches in OSM. -->
@@ -200,6 +352,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165864"/>
   </node>
+  <node id="-1722" visible="true" lat="44.25539618" lon="-72.57593288">
+    <!-- multiple: "46 Prospect Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Prospect Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="165919"/>
+  </node>
   <node id="-1754" visible="true" lat="44.25521919" lon="-72.56751421">
     <!-- multiple: "36 College Street, Montpelier, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Montpelier"/>
@@ -216,6 +376,46 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166006"/>
   </node>
+  <node id="-1917" visible="true" lat="44.25280035" lon="-72.57119488">
+    <!-- multiple: "707 Stone Cutters Way, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="707"/>
+    <tag k="addr:street" v="Stone Cutters Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="166134"/>
+  </node>
+  <node id="-1924" visible="true" lat="44.25264877" lon="-72.57067301">
+    <!-- multiple: "707 Stone Cutters Way, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="707"/>
+    <tag k="addr:street" v="Stone Cutters Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="166141"/>
+  </node>
+  <node id="-1934" visible="true" lat="44.25240092" lon="-72.57111803">
+    <!-- multiple: "707 Stone Cutters Way, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="707"/>
+    <tag k="addr:street" v="Stone Cutters Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="166152"/>
+  </node>
+  <node id="-1936" visible="true" lat="44.25242403" lon="-72.56758293">
+    <!-- multiple: "28 Sibley Avenue, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Sibley Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="166154"/>
+  </node>
+  <node id="-1938" visible="true" lat="44.25227993" lon="-72.57069291">
+    <!-- multiple: "707 Stone Cutters Way, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="707"/>
+    <tag k="addr:street" v="Stone Cutters Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="166156"/>
+  </node>
   <node id="-2052" visible="true" lat="44.24933705" lon="-72.56519095">
     <!-- multiple: "62 River Street, Montpelier, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Montpelier"/>
@@ -223,6 +423,14 @@
     <tag k="addr:street" v="River Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166290"/>
+  </node>
+  <node id="-2335" visible="true" lat="44.24317364" lon="-72.54396995">
+    <!-- multiple: "46 Gallison Hill Road, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Gallison Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="166609"/>
   </node>
   <node id="-2421" visible="true" lat="44.2382431" lon="-72.55273437">
     <!-- multiple: "364 River Street, Montpelier, VT" Multiple exact matches in OSM. -->
@@ -240,13 +448,21 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166763"/>
   </node>
-  <node id="-2470" visible="true" lat="44.28456377" lon="-72.57504012">
-    <!-- multiple: "713 Elm Street, Montpelier, VT" Multiple exact matches in OSM. -->
+  <node id="-2509" visible="true" lat="44.2611997" lon="-72.57704923">
+    <!-- multiple: "10 Elm Street, Montpelier, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="713"/>
+    <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="Elm Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166769"/>
+    <tag k="ref:vcgi:esiteid" v="166810"/>
+  </node>
+  <node id="-2520" visible="true" lat="44.25221548" lon="-72.57039682">
+    <!-- multiple: "3 Granite Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Granite Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="166821"/>
   </node>
   <node id="-2549" visible="true" lat="44.24711884" lon="-72.55035084">
     <!-- multiple: "265 River Street, Montpelier, VT" Multiple exact matches in OSM. -->
@@ -256,6 +472,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166850"/>
   </node>
+  <node id="-2716" visible="true" lat="44.26078571" lon="-72.58064208">
+    <!-- multiple: "118 State Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="State Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="167025"/>
+  </node>
   <node id="-2811" visible="true" lat="44.26253469" lon="-72.58207651">
     <!-- multiple: "4 Governor Aiken Avenue, Montpelier, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Montpelier"/>
@@ -263,6 +487,46 @@
     <tag k="addr:street" v="Governor Aiken Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307574"/>
+  </node>
+  <node id="-2851" visible="true" lat="44.25961917" lon="-72.57553408">
+    <!-- multiple: "65 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338707"/>
+  </node>
+  <node id="-2853" visible="true" lat="44.25973274" lon="-72.57542448">
+    <!-- multiple: "71 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338709"/>
+  </node>
+  <node id="-2854" visible="true" lat="44.25995178" lon="-72.57519741">
+    <!-- multiple: "79 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338710"/>
+  </node>
+  <node id="-2856" visible="true" lat="44.25983091" lon="-72.57533092">
+    <!-- multiple: "75 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338712"/>
+  </node>
+  <node id="-2857" visible="true" lat="44.25987325" lon="-72.57530421">
+    <!-- multiple: "77 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338713"/>
   </node>
   <node id="-2888" visible="true" lat="44.26801353" lon="-72.56258748">
     <!-- multiple: "404 Cityside Drive, Montpelier, VT" Multiple exact matches in OSM. -->
@@ -279,5 +543,69 @@
     <tag k="addr:street" v="Cityside Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341888"/>
+  </node>
+  <node id="-2971" visible="true" lat="44.26028154" lon="-72.56834065">
+    <!-- multiple: "32 Liberty Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Liberty Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="615063"/>
+  </node>
+  <node id="-2987" visible="true" lat="44.25808666" lon="-72.57258602">
+    <!-- multiple: "20 Hubbard Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Hubbard Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751216"/>
+  </node>
+  <node id="-2996" visible="true" lat="44.26070102" lon="-72.57510314">
+    <!-- multiple: "110 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754912"/>
+  </node>
+  <node id="-3041" visible="true" lat="44.25931588" lon="-72.57629976">
+    <!-- multiple: "40 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1051095"/>
+  </node>
+  <node id="-3044" visible="true" lat="44.26005892" lon="-72.57603469">
+    <!-- multiple: "10 State Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="State Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1051098"/>
+  </node>
+  <node id="-3046" visible="true" lat="44.26001031" lon="-72.57608234">
+    <!-- multiple: "14 State Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="State Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1051100"/>
+  </node>
+  <node id="-3060" visible="true" lat="44.26059901" lon="-72.57517901">
+    <!-- multiple: "104 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1051133"/>
+  </node>
+  <node id="-3062" visible="true" lat="44.26067287" lon="-72.57510621">
+    <!-- multiple: "108 Main Street, Montpelier, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1051136"/>
   </node>
 </osm>

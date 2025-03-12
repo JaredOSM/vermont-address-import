@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="44.54430974" lon="-72.26791282">
     <tag k="addr:housenumber" v="245"/>
     <tag k="addr:street" v="Canyon Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="115546"/>
+  </node>
+  <node id="-108" visible="true" lat="44.56164391" lon="-72.36441596">
+    <!-- match: "218 Town Farm Road, , VT"  ignoring missing state when matching to "218 Town Farm Road, , " -->
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="Town Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="118632"/>
   </node>
   <node id="-109" visible="true" lat="44.56035902" lon="-72.31318728">
     <tag k="addr:housenumber" v="4349"/>
@@ -42,11 +49,191 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="118674"/>
   </node>
+  <node id="-447" visible="true" lat="44.51842946" lon="-72.30245908">
+    <tag k="addr:housenumber" v="1816"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="118980"/>
+  </node>
+  <node id="-463" visible="true" lat="44.51755212" lon="-72.30537293">
+    <tag k="addr:housenumber" v="1665"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="118997"/>
+  </node>
+  <node id="-465" visible="true" lat="44.51732707" lon="-72.30611634">
+    <tag k="addr:housenumber" v="1619"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="118999"/>
+  </node>
+  <node id="-467" visible="true" lat="44.51716422" lon="-72.30515848">
+    <tag k="addr:housenumber" v="3024"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119001"/>
+  </node>
+  <node id="-469" visible="true" lat="44.51721565" lon="-72.30461731">
+    <tag k="addr:housenumber" v="3033"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119003"/>
+  </node>
+  <node id="-473" visible="true" lat="44.51671863" lon="-72.30867309">
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Cedar Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119008"/>
+  </node>
+  <node id="-475" visible="true" lat="44.51663014" lon="-72.30296378">
+    <tag k="addr:housenumber" v="3055"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119010"/>
+  </node>
+  <node id="-477" visible="true" lat="44.51649853" lon="-72.30953253">
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Cedar Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119012"/>
+  </node>
+  <node id="-478" visible="true" lat="44.5163618" lon="-72.30741592">
+    <tag k="addr:housenumber" v="1590"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119013"/>
+  </node>
+  <node id="-480" visible="true" lat="44.5162614" lon="-72.30991913">
+    <tag k="addr:housenumber" v="1433"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119015"/>
+  </node>
+  <node id="-493" visible="true" lat="44.51542309" lon="-72.3043756">
+    <tag k="addr:housenumber" v="3144"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119028"/>
+  </node>
+  <node id="-500" visible="true" lat="44.51522622" lon="-72.30983867">
+    <tag k="addr:housenumber" v="1428"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119035"/>
+  </node>
+  <node id="-502" visible="true" lat="44.51503252" lon="-72.30364408">
+    <tag k="addr:housenumber" v="3180"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119038"/>
+  </node>
+  <node id="-505" visible="true" lat="44.51498578" lon="-72.30048282">
+    <tag k="addr:housenumber" v="3277"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119041"/>
+  </node>
+  <node id="-507" visible="true" lat="44.5146362" lon="-72.30261534">
+    <tag k="addr:housenumber" v="3218"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119044"/>
+  </node>
+  <node id="-509" visible="true" lat="44.514714" lon="-72.31039607">
+    <tag k="addr:housenumber" v="1426"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119046"/>
+  </node>
+  <node id="-511" visible="true" lat="44.51424397" lon="-72.30979026">
+    <tag k="addr:housenumber" v="263"/>
+    <tag k="addr:street" v="Hillary Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119048"/>
+  </node>
+  <node id="-513" visible="true" lat="44.51447883" lon="-72.30513126">
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119050"/>
+  </node>
+  <node id="-519" visible="true" lat="44.51393433" lon="-72.3107341">
+    <tag k="addr:housenumber" v="265"/>
+    <tag k="addr:street" v="Hillary Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119057"/>
+  </node>
+  <node id="-521" visible="true" lat="44.51342689" lon="-72.30175329">
+    <tag k="addr:housenumber" v="3338"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119059"/>
+  </node>
+  <node id="-522" visible="true" lat="44.51337035" lon="-72.29886685">
+    <tag k="addr:housenumber" v="3435"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119060"/>
+  </node>
+  <node id="-525" visible="true" lat="44.5130681" lon="-72.30451387">
+    <tag k="addr:housenumber" v="257"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119063"/>
+  </node>
+  <node id="-526" visible="true" lat="44.51291455" lon="-72.29967652">
+    <tag k="addr:housenumber" v="3434"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119064"/>
+  </node>
+  <node id="-528" visible="true" lat="44.51303817" lon="-72.31016406">
+    <tag k="addr:housenumber" v="252"/>
+    <tag k="addr:street" v="Hillary Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119066"/>
+  </node>
+  <node id="-531" visible="true" lat="44.51272742" lon="-72.30583153">
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119069"/>
+  </node>
+  <node id="-532" visible="true" lat="44.51262263" lon="-72.30086869">
+    <tag k="addr:housenumber" v="3394"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119070"/>
+  </node>
+  <node id="-536" visible="true" lat="44.51214298" lon="-72.30609071">
+    <tag k="addr:housenumber" v="357"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119076"/>
+  </node>
   <node id="-538" visible="true" lat="44.51223464" lon="-72.42696219">
     <tag k="addr:housenumber" v="272"/>
     <tag k="addr:street" v="Gates Trail"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119079"/>
+  </node>
+  <node id="-546" visible="true" lat="44.51112317" lon="-72.30677238">
+    <tag k="addr:housenumber" v="423"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119089"/>
+  </node>
+  <node id="-573" visible="true" lat="44.51011898" lon="-72.30768837">
+    <tag k="addr:housenumber" v="502"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119118"/>
+  </node>
+  <node id="-574" visible="true" lat="44.50992695" lon="-72.29586732">
+    <tag k="addr:housenumber" v="3717"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119119"/>
   </node>
   <node id="-603" visible="true" lat="44.50913614" lon="-72.3728657">
     <tag k="addr:housenumber" v="439"/>
@@ -54,11 +241,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119150"/>
   </node>
+  <node id="-616" visible="true" lat="44.50854955" lon="-72.29312757">
+    <tag k="addr:housenumber" v="3883"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119164"/>
+  </node>
   <node id="-618" visible="true" lat="44.50892113" lon="-72.36469996">
     <tag k="addr:housenumber" v="126"/>
     <tag k="addr:street" v="Hazen Union Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119166"/>
+  </node>
+  <node id="-621" visible="true" lat="44.50856136" lon="-72.29449599">
+    <tag k="addr:housenumber" v="3842"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119169"/>
+  </node>
+  <node id="-626" visible="true" lat="44.50852149" lon="-72.29340933">
+    <tag k="addr:housenumber" v="3881"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119174"/>
+  </node>
+  <node id="-631" visible="true" lat="44.5081497" lon="-72.30813216">
+    <tag k="addr:housenumber" v="598"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119182"/>
+  </node>
+  <node id="-678" visible="true" lat="44.50706277" lon="-72.30589489">
+    <tag k="addr:housenumber" v="733"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119232"/>
+  </node>
+  <node id="-714" visible="true" lat="44.50635515" lon="-72.30627609">
+    <tag k="addr:housenumber" v="744"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119272"/>
   </node>
   <node id="-721" visible="true" lat="44.50652655" lon="-72.36312507">
     <tag k="addr:housenumber" v="56"/>
@@ -114,6 +337,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119535"/>
   </node>
+  <node id="-1009" visible="true" lat="44.50156593" lon="-72.30622812">
+    <tag k="addr:housenumber" v="1118"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119598"/>
+  </node>
+  <node id="-1046" visible="true" lat="44.50035806" lon="-72.30926376">
+    <tag k="addr:housenumber" v="546"/>
+    <tag k="addr:street" v="Catamount Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119641"/>
+  </node>
+  <node id="-1085" visible="true" lat="44.49948752" lon="-72.30489197">
+    <tag k="addr:housenumber" v="1325"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119680"/>
+  </node>
   <node id="-1118" visible="true" lat="44.49821896" lon="-72.29634655">
     <tag k="addr:housenumber" v="177"/>
     <tag k="addr:street" v="Daley Lane"/>
@@ -132,10 +373,95 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119889"/>
   </node>
+  <node id="-1314" visible="true" lat="44.50400562" lon="-72.36698512">
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119917"/>
+  </node>
+  <node id="-1378" visible="true" lat="44.50084468" lon="-72.30823459">
+    <tag k="addr:housenumber" v="587"/>
+    <tag k="addr:street" v="Catamount Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119983"/>
+  </node>
+  <node id="-1414" visible="true" lat="44.51702638" lon="-72.30387114">
+    <tag k="addr:housenumber" v="3051"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120021"/>
+  </node>
+  <node id="-1432" visible="true" lat="44.51353761" lon="-72.30972833">
+    <tag k="addr:housenumber" v="258"/>
+    <tag k="addr:street" v="Hillary Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120040"/>
+  </node>
+  <node id="-1434" visible="true" lat="44.51698168" lon="-72.30588049">
+    <tag k="addr:housenumber" v="1664"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120043"/>
+  </node>
+  <node id="-1439" visible="true" lat="44.51421136" lon="-72.30703672">
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120048"/>
+  </node>
+  <node id="-1455" visible="true" lat="44.51265171" lon="-72.30731181">
+    <tag k="addr:housenumber" v="338"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120065"/>
+  </node>
+  <node id="-1459" visible="true" lat="44.51884451" lon="-72.30190369">
+    <tag k="addr:housenumber" v="1868"/>
+    <tag k="addr:street" v="Vermont Route 16"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120069"/>
+  </node>
+  <node id="-1465" visible="true" lat="44.50995399" lon="-72.29746223">
+    <tag k="addr:housenumber" v="3648"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306248"/>
+  </node>
+  <node id="-1497" visible="true" lat="44.50272603" lon="-72.30682934">
+    <tag k="addr:housenumber" v="932"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341781"/>
+  </node>
+  <node id="-1509" visible="true" lat="44.47641103" lon="-72.3492505">
+    <!-- match: "1002 Nichols Pond Road, , VT"  ignoring missing state when matching to "1002 Nichols Pond Road, Hardwick, " -->
+    <tag k="addr:housenumber" v="1002"/>
+    <tag k="addr:street" v="Nichols Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="446960"/>
+  </node>
+  <node id="-1557" visible="true" lat="44.50942058" lon="-72.29698167">
+    <tag k="addr:housenumber" v="3614"/>
+    <tag k="addr:street" v="Ward Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612216"/>
+  </node>
+  <node id="-1558" visible="true" lat="44.51132743" lon="-72.3061745">
+    <tag k="addr:housenumber" v="389"/>
+    <tag k="addr:street" v="Mountainview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612265"/>
+  </node>
   <node id="-1639" visible="true" lat="44.49341053" lon="-72.37280567">
     <tag k="addr:housenumber" v="227"/>
     <tag k="addr:street" v="Vermont Route 14 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758239"/>
+  </node>
+  <node id="-1642" visible="true" lat="44.52326623" lon="-72.36987618">
+    <tag k="addr:housenumber" v="821"/>
+    <tag k="addr:street" v="Billings Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758738"/>
   </node>
 </osm>

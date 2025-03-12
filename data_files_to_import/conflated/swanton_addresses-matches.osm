@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="44.97328397" lon="-73.19825325">
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:street" v="Church Road"/>
@@ -257,6 +257,18 @@
     <tag k="addr:street" v="Lakewood Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="254968"/>
+  </node>
+  <node id="-283" visible="true" lat="44.97031174" lon="-73.1969773">
+    <tag k="addr:housenumber" v="752"/>
+    <tag k="addr:street" v="North River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="254976"/>
+  </node>
+  <node id="-284" visible="true" lat="44.97055371" lon="-73.19731563">
+    <tag k="addr:housenumber" v="752"/>
+    <tag k="addr:street" v="North River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="254977"/>
   </node>
   <node id="-286" visible="true" lat="44.97106682" lon="-73.19124255">
     <tag k="addr:housenumber" v="690"/>
@@ -1374,6 +1386,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="255574"/>
   </node>
+  <node id="-907" visible="true" lat="44.92479947" lon="-73.12727065">
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Brooklyn Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="255609"/>
+  </node>
+  <node id="-1356" visible="true" lat="44.92158389" lon="-73.11225506">
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:street" v="First Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="256060"/>
+  </node>
   <node id="-1419" visible="true" lat="44.92067689" lon="-73.12057364">
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Canada Street"/>
@@ -2346,6 +2370,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="256466"/>
   </node>
+  <node id="-1757" visible="true" lat="44.9226452" lon="-73.11139939">
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:street" v="First Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="256469"/>
+  </node>
+  <node id="-1758" visible="true" lat="44.92194953" lon="-73.11090508">
+    <!-- match: "153 First Street, , VT"  ignoring missing state when matching to "153 First Street, Swanton, " -->
+    <tag k="addr:housenumber" v="153"/>
+    <tag k="addr:street" v="First Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="256470"/>
+  </node>
   <node id="-1761" visible="true" lat="44.91531191" lon="-73.11812901">
     <tag k="addr:housenumber" v="81"/>
     <tag k="addr:street" v="Grand Avenue"/>
@@ -2430,11 +2467,54 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="256518"/>
   </node>
+  <node id="-2426" visible="true" lat="44.85718415" lon="-73.0112235">
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="257152"/>
+  </node>
+  <node id="-2427" visible="true" lat="44.85716789" lon="-73.01219413">
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="257153"/>
+  </node>
+  <node id="-2428" visible="true" lat="44.85800401" lon="-73.01024323">
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="257154"/>
+  </node>
+  <node id="-2430" visible="true" lat="44.8558442" lon="-73.01004005">
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="257156"/>
+  </node>
+  <node id="-2436" visible="true" lat="44.85683748" lon="-73.024663">
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="257162"/>
+  </node>
+  <node id="-2437" visible="true" lat="44.85662311" lon="-73.03137688">
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="257163"/>
+  </node>
   <node id="-2890" visible="true" lat="44.86018754" lon="-73.09233245">
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Sugar Maple Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="257624"/>
+  </node>
+  <node id="-2976" visible="true" lat="44.85442826" lon="-73.09138995">
+    <!-- match: "581 Saint Albans Road, , VT"  ignoring missing state when matching to "581 Saint Albans Road, Swanton, " -->
+    <tag k="addr:housenumber" v="581"/>
+    <tag k="addr:street" v="Saint Albans Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="257710"/>
   </node>
   <node id="-3015" visible="true" lat="44.97415152" lon="-73.20794144">
     <tag k="addr:housenumber" v="9"/>
@@ -3065,6 +3145,12 @@
     <tag k="addr:street" v="Sandy Point Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="327144"/>
+  </node>
+  <node id="-3674" visible="true" lat="44.85673632" lon="-73.02246658">
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="334898"/>
   </node>
   <node id="-3684" visible="true" lat="44.97497097" lon="-73.18134484">
     <tag k="addr:housenumber" v="36"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-124" visible="true" lat="44.61384964" lon="-72.9064331">
     <!-- conflict: "23 Downes Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "23 Downs Road, Underhill, VT" -->
     <tag k="addr:city" v="Underhill"/>
@@ -776,14 +776,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="264068"/>
   </node>
-  <node id="-837" visible="true" lat="44.52265083" lon="-72.94169939">
-    <!-- conflict: "2 Harvest Run, Underhill, VT" Fuzzy match to "2 Harvest Run, Underhill, " -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Harvest Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264069"/>
-  </node>
   <node id="-839" visible="true" lat="44.52267074" lon="-72.93356323">
     <!-- conflict: "14 Maple Ridge, Underhill, VT" Fuzzy match to "14 Maple Ridge Road, Underhill, VT" -->
     <tag k="addr:city" v="Underhill"/>
@@ -839,14 +831,6 @@
     <tag k="addr:street" v="South Hill Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="264210"/>
-  </node>
-  <node id="-983" visible="true" lat="44.50885026" lon="-72.89352259">
-    <!-- conflict: "10 Stevensville Road, Underhill, VT" Fuzzy match to "10 Stevensville Road, Underhill, " -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Stevensville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264217"/>
   </node>
   <node id="-985" visible="true" lat="44.50892693" lon="-72.86769735">
     <!-- conflict: "31 Maple Leaf Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Maple Leaf Road, Underhill, VT" -->

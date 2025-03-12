@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-177" visible="true" lat="44.91732788" lon="-72.77874755">
     <tag k="addr:housenumber" v="959"/>
     <tag k="addr:street" v="Sampsonville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="93213"/>
+  </node>
+  <node id="-297" visible="true" lat="44.90987396" lon="-72.79830169">
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="East Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="93349"/>
   </node>
   <node id="-379" visible="true" lat="44.90850351" lon="-72.80331214">
     <tag k="addr:housenumber" v="57"/>
@@ -48,6 +54,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="93628"/>
   </node>
+  <node id="-561" visible="true" lat="44.9057884" lon="-72.8066084">
+    <!-- match: "221 Main Street, , VT"  ignoring missing state when matching to "221 Main Street, , " -->
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="93647"/>
+  </node>
   <node id="-582" visible="true" lat="44.90534049" lon="-72.80903472">
     <tag k="addr:housenumber" v="134"/>
     <tag k="addr:street" v="Pearl Street"/>
@@ -90,11 +103,43 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="93732"/>
   </node>
+  <node id="-870" visible="true" lat="44.87213134" lon="-72.79747772">
+    <!-- match: "2394 West Enosburg Road, , VT"  ignoring missing state when matching to "2394 West Enosburg Road, , " -->
+    <tag k="addr:housenumber" v="2394"/>
+    <tag k="addr:street" v="West Enosburg Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="93977"/>
+  </node>
+  <node id="-975" visible="true" lat="44.85979461" lon="-72.76246643">
+    <tag k="addr:housenumber" v="4280"/>
+    <tag k="addr:street" v="Boston Post Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94083"/>
+  </node>
+  <node id="-979" visible="true" lat="44.85914993" lon="-72.76618194">
+    <tag k="addr:housenumber" v="4276"/>
+    <tag k="addr:street" v="Boston Post Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94087"/>
+  </node>
   <node id="-1110" visible="true" lat="44.91399329" lon="-72.79671738">
     <tag k="addr:housenumber" v="49"/>
     <tag k="addr:street" v="Sampsonville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="94220"/>
+  </node>
+  <node id="-1192" visible="true" lat="44.91230626" lon="-72.79559275">
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Jay View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94306"/>
+  </node>
+  <node id="-1292" visible="true" lat="44.90763954" lon="-72.80516593">
+    <!-- match: "355 Main Street, , VT"  ignoring missing state when matching to "355 Main Street, Enosburg Falls, " -->
+    <tag k="addr:housenumber" v="355"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326401"/>
   </node>
   <node id="-1328" visible="true" lat="44.91248262" lon="-72.81409792">
     <tag k="addr:housenumber" v="226"/>

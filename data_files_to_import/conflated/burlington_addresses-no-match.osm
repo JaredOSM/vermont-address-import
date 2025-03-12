@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.49125973" lon="-73.22840314">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="375"/>
@@ -3276,6 +3276,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="45858"/>
   </node>
+  <node id="-3222" visible="true" lat="44.50502732" lon="-73.24124759">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="1024"/>
+    <tag k="addr:street" v="North Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="45886"/>
+  </node>
   <node id="-3223" visible="true" lat="44.50492716" lon="-73.24181347">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1038"/>
@@ -5866,6 +5873,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="48873"/>
   </node>
+  <node id="-6189" visible="true" lat="44.48138603" lon="-73.18055453">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="48882"/>
+  </node>
   <node id="-6233" visible="true" lat="44.47876369" lon="-73.19010991">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="38"/>
@@ -5964,13 +5978,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49129"/>
   </node>
-  <node id="-6432" visible="true" lat="44.47647238" lon="-73.20866945">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="266"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="49136"/>
-  </node>
   <node id="-6448" visible="true" lat="44.47635945" lon="-73.20935491">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="250"/>
@@ -6027,13 +6034,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49164"/>
   </node>
-  <node id="-6462" visible="true" lat="44.47693301" lon="-73.21234336">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="120"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="49167"/>
-  </node>
   <node id="-6471" visible="true" lat="44.4763026" lon="-73.21282129">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="149"/>
@@ -6082,13 +6082,6 @@
     <tag k="addr:street" v="College Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49188"/>
-  </node>
-  <node id="-6488" visible="true" lat="44.47802623" lon="-73.21353327">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="155"/>
-    <tag k="addr:street" v="Bank Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="49193"/>
   </node>
   <node id="-6490" visible="true" lat="44.47732417" lon="-73.21231608">
     <tag k="addr:city" v="Burlington"/>
@@ -6467,13 +6460,6 @@
     <tag k="addr:street" v="King Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49450"/>
-  </node>
-  <node id="-6745" visible="true" lat="44.4755309" lon="-73.21528772">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="101"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="49459"/>
   </node>
   <node id="-6746" visible="true" lat="44.4756521" lon="-73.21456489">
     <tag k="addr:city" v="Burlington"/>
@@ -6880,20 +6866,6 @@
     <tag k="addr:street" v="Centennial Court"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49989"/>
-  </node>
-  <node id="-7254" visible="true" lat="44.47458401" lon="-73.18977827">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Centennial Woods Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="49992"/>
-  </node>
-  <node id="-7255" visible="true" lat="44.47018839" lon="-73.19468985">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="131"/>
-    <tag k="addr:street" v="Catamount Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="49993"/>
   </node>
   <node id="-7285" visible="true" lat="44.46994007" lon="-73.20154083">
     <tag k="addr:city" v="Burlington"/>
@@ -7378,27 +7350,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50919"/>
   </node>
-  <node id="-8240" visible="true" lat="44.46222572" lon="-73.20671674">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Adams Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="50990"/>
-  </node>
-  <node id="-8256" visible="true" lat="44.46114961" lon="-73.20766778">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Shelburne Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="51006"/>
-  </node>
-  <node id="-8277" visible="true" lat="44.45899565" lon="-73.20507397">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Crescent Terrace"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="51027"/>
-  </node>
   <node id="-8342" visible="true" lat="44.46315346" lon="-73.20815211">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="75"/>
@@ -7798,47 +7749,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51457"/>
   </node>
-  <node id="-8708" visible="true" lat="44.45845984" lon="-73.20536629">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="Crescent Terrace"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="51471"/>
-  </node>
-  <node id="-8709" visible="true" lat="44.45815452" lon="-73.20545304">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Crescent Terrace"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="51472"/>
-  </node>
-  <node id="-8710" visible="true" lat="44.45791123" lon="-73.20557157">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Crescent Terrace"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="51473"/>
-  </node>
-  <node id="-8711" visible="true" lat="44.45766596" lon="-73.20534643">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Crescent Terrace"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="51474"/>
-  </node>
   <node id="-8719" visible="true" lat="44.45829386" lon="-73.20764143">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Clymer Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51482"/>
-  </node>
-  <node id="-8735" visible="true" lat="44.45830259" lon="-73.20306204">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="Crescent Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="51498"/>
   </node>
   <node id="-8754" visible="true" lat="44.45579855" lon="-73.20565154">
     <tag k="addr:city" v="Burlington"/>
@@ -7895,13 +7811,6 @@
     <tag k="addr:street" v="Fairmount Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51582"/>
-  </node>
-  <node id="-8828" visible="true" lat="44.45553419" lon="-73.20047784">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="73"/>
-    <tag k="addr:street" v="Fairmount Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="51591"/>
   </node>
   <node id="-8874" visible="true" lat="44.45348863" lon="-73.21578652">
     <tag k="addr:city" v="Burlington"/>
@@ -8119,13 +8028,6 @@
     <tag k="addr:street" v="South Meadow Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51903"/>
-  </node>
-  <node id="-9139" visible="true" lat="44.44958251" lon="-73.21085757">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="595"/>
-    <tag k="addr:street" v="Shelburne Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="51904"/>
   </node>
   <node id="-9142" visible="true" lat="44.45308384" lon="-73.21829455">
     <tag k="addr:city" v="Burlington"/>
@@ -9884,13 +9786,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52657"/>
   </node>
-  <node id="-9689" visible="true" lat="44.46932816" lon="-73.19440448">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Davis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="52665"/>
-  </node>
   <node id="-9691" visible="true" lat="44.47000751" lon="-73.20167379">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="222"/>
@@ -10128,6 +10023,90 @@
     <tag k="addr:street" v="Colchester Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52808"/>
+  </node>
+  <node id="-9777" visible="true" lat="44.48176215" lon="-73.18119333">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52815"/>
+  </node>
+  <node id="-9778" visible="true" lat="44.48186249" lon="-73.18098328">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52816"/>
+  </node>
+  <node id="-9779" visible="true" lat="44.48190651" lon="-73.18075689">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52817"/>
+  </node>
+  <node id="-9780" visible="true" lat="44.48155816" lon="-73.18089387">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52818"/>
+  </node>
+  <node id="-9781" visible="true" lat="44.48163241" lon="-73.18062051">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52819"/>
+  </node>
+  <node id="-9782" visible="true" lat="44.48196133" lon="-73.18045996">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52820"/>
+  </node>
+  <node id="-9783" visible="true" lat="44.48180623" lon="-73.17996693">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52822"/>
+  </node>
+  <node id="-9784" visible="true" lat="44.48169453" lon="-73.17979629">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52823"/>
+  </node>
+  <node id="-9785" visible="true" lat="44.4815246" lon="-73.17991209">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52824"/>
+  </node>
+  <node id="-9786" visible="true" lat="44.4816794" lon="-73.1804728">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52825"/>
+  </node>
+  <node id="-9787" visible="true" lat="44.48131618" lon="-73.18001065">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52826"/>
+  </node>
+  <node id="-9788" visible="true" lat="44.48112542" lon="-73.18015706">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52827"/>
   </node>
   <node id="-9789" visible="true" lat="44.48825255" lon="-73.18598131">
     <tag k="addr:city" v="Burlington"/>
@@ -12439,20 +12418,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53691"/>
   </node>
-  <node id="-10431" visible="true" lat="44.47807053" lon="-73.21221273">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="179"/>
-    <tag k="addr:street" v="Bank Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="53698"/>
-  </node>
-  <node id="-10440" visible="true" lat="44.47694844" lon="-73.21294884">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="173"/>
-    <tag k="addr:street" v="College Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="53709"/>
-  </node>
   <node id="-10442" visible="true" lat="44.47653284" lon="-73.21427975">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="117"/>
@@ -12704,6 +12669,13 @@
     <tag k="addr:street" v="North Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53837"/>
+  </node>
+  <node id="-10514" visible="true" lat="44.50031527" lon="-73.2355386">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="762"/>
+    <tag k="addr:street" v="North Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="53840"/>
   </node>
   <node id="-10521" visible="true" lat="44.50691849" lon="-73.23590366">
     <tag k="addr:city" v="Burlington"/>
@@ -18116,13 +18088,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55300"/>
   </node>
-  <node id="-11592" visible="true" lat="44.46888809" lon="-73.21477224">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Marble Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="55305"/>
-  </node>
   <node id="-11593" visible="true" lat="44.48239469" lon="-73.21685704">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="15"/>
@@ -20356,13 +20321,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="333083"/>
   </node>
-  <node id="-11947" visible="true" lat="44.47896219" lon="-73.21824437">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Cherry Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333084"/>
-  </node>
   <node id="-11948" visible="true" lat="44.47869971" lon="-73.21850052">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="35"/>
@@ -22337,13 +22295,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="615804"/>
   </node>
-  <node id="-12350" visible="true" lat="44.45855672" lon="-73.20712019">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Clymer Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="615805"/>
-  </node>
   <node id="-12352" visible="true" lat="44.48355772" lon="-73.19063226">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="266"/>
@@ -23016,13 +22967,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617987"/>
   </node>
-  <node id="-12465" visible="true" lat="44.47897974" lon="-73.2175284">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Cherry Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="618462"/>
-  </node>
   <node id="-12466" visible="true" lat="44.51036146" lon="-73.24903965">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1294"/>
@@ -23134,13 +23078,6 @@
     <tag k="addr:street" v="Catherine Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="655975"/>
-  </node>
-  <node id="-12484" visible="true" lat="44.45861537" lon="-73.20458873">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Crescent Terrace"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750401"/>
   </node>
   <node id="-12485" visible="true" lat="44.47459686" lon="-73.21106115">
     <tag k="addr:city" v="Burlington"/>
@@ -23961,13 +23898,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757514"/>
   </node>
-  <node id="-12630" visible="true" lat="44.4804987" lon="-73.21584385">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="Pearl Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="757515"/>
-  </node>
   <node id="-12631" visible="true" lat="44.4848158" lon="-73.22094282">
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="10"/>
@@ -24100,13 +24030,6 @@
     <tag k="addr:street" v="East Redrock Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758515"/>
-  </node>
-  <node id="-12655" visible="true" lat="44.44689824" lon="-73.22438702">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="178"/>
-    <tag k="addr:street" v="East Redrock Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="758516"/>
   </node>
   <node id="-12656" visible="true" lat="44.44688261" lon="-73.22432533">
     <tag k="addr:city" v="Burlington"/>
@@ -25192,34 +25115,6 @@
     <tag k="addr:street" v="Appletree Point Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768419"/>
-  </node>
-  <node id="-12839" visible="true" lat="44.46830491" lon="-73.19287628">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Davis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768597"/>
-  </node>
-  <node id="-12840" visible="true" lat="44.46812442" lon="-73.19436548">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="83"/>
-    <tag k="addr:street" v="Davis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768598"/>
-  </node>
-  <node id="-12841" visible="true" lat="44.46722459" lon="-73.19315279">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:street" v="Davis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768599"/>
-  </node>
-  <node id="-12842" visible="true" lat="44.46901642" lon="-73.19451738">
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="130"/>
-    <tag k="addr:street" v="Davis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768600"/>
   </node>
   <node id="-12844" visible="true" lat="44.46992" lon="-73.19395688">
     <tag k="addr:city" v="Burlington"/>

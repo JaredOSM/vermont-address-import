@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-214" visible="true" lat="44.1450208" lon="-72.84153421">
     <!-- conflict: "114 Vermont Route 100, Warren, VT" No match in OSM, but a different address exists <5m away: "114 VT Route 100, Warren, VT" -->
     <tag k="addr:city" v="Warren"/>
@@ -39,22 +39,6 @@
     <tag k="addr:street" v="Sports Ctr Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="271493"/>
-  </node>
-  <node id="-502" visible="true" lat="44.13390909" lon="-72.84888462">
-    <!-- conflict: "91 Huckleberry Lane, Warren, VT" No match in OSM, but a different address exists <5m away: "203 Powderhound Road, Warren, " -->
-    <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="91"/>
-    <tag k="addr:street" v="Huckleberry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="271571"/>
-  </node>
-  <node id="-580" visible="true" lat="44.13047546" lon="-72.87263422">
-    <!-- conflict: "1225 Golf Course Road, Warren, VT" Fuzzy match to "1225 Golf Course Road, Warren, " -->
-    <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="1225"/>
-    <tag k="addr:street" v="Golf Course Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="271655"/>
   </node>
   <node id="-759" visible="true" lat="44.11610015" lon="-72.8248102">
     <!-- conflict: "438 Woods Road South, Warren, VT" No match in OSM, but a different address exists <5m away: "354 Woods Road South, Warren, VT" -->

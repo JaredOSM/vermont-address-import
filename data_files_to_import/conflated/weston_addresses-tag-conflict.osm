@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-115" visible="true" lat="43.35120113" lon="-72.82240996">
     <!-- conflict: "698 Greendale Road, Weston, VT" Fuzzy match to "698 Greendale Rd, , VT" -->
     <tag k="addr:city" v="Weston"/>
@@ -72,14 +72,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284603"/>
   </node>
-  <node id="-131" visible="true" lat="43.34453768" lon="-72.77919466">
-    <!-- conflict: "1520 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "1520 Vt Route 100, Weston, VT" -->
-    <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="1520"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284604"/>
-  </node>
   <node id="-132" visible="true" lat="43.34422308" lon="-72.78014055">
     <!-- conflict: "1510 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "1510 Vt Route 100, Weston, VT" -->
     <tag k="addr:city" v="Weston"/>
@@ -103,14 +95,6 @@
     <tag k="addr:street" v="Vermont Route 100"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284608"/>
-  </node>
-  <node id="-138" visible="true" lat="43.3424415" lon="-72.78789299">
-    <!-- conflict: "79 Vermont Route 155, Weston, VT" No match in OSM, but a different address exists <5m away: "79 Vt Route 155, Weston, VT" -->
-    <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Vermont Route 155"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284611"/>
   </node>
   <node id="-142" visible="true" lat="43.33905117" lon="-72.78423705">
     <!-- conflict: "1422 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "1422 Vt Route 100, Weston, VT" -->
@@ -175,22 +159,6 @@
     <tag k="addr:street" v="Vermont Route 100"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284650"/>
-  </node>
-  <node id="-179" visible="true" lat="43.32288973" lon="-72.78310487">
-    <!-- conflict: "1166 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "1166 Vt Route 100, Weston, VT" -->
-    <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="1166"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284654"/>
-  </node>
-  <node id="-183" visible="true" lat="43.32148316" lon="-72.78440875">
-    <!-- conflict: "1138 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "1138 Vt Route 100, Weston, VT" -->
-    <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="1138"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284658"/>
   </node>
   <node id="-184" visible="true" lat="43.32145287" lon="-72.78280324">
     <!-- conflict: "1143 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "1143 Vt Route 100, Weston, VT" -->
@@ -271,14 +239,6 @@
     <tag k="addr:street" v="Vermont Route 100"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284716"/>
-  </node>
-  <node id="-241" visible="true" lat="43.31108872" lon="-72.78754676">
-    <!-- conflict: "982 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "982 Vt Route 100, Weston, VT" -->
-    <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="982"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284718"/>
   </node>
   <node id="-244" visible="true" lat="43.31038078" lon="-72.78723645">
     <!-- conflict: "970 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "970 Vt Route 100, Weston, VT" -->
@@ -408,14 +368,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284966"/>
   </node>
-  <node id="-485" visible="true" lat="43.27638729" lon="-72.78964546">
-    <!-- conflict: "440 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "440 Vt Route 100, Weston, VT" -->
-    <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="440"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284976"/>
-  </node>
   <node id="-499" visible="true" lat="43.27322184" lon="-72.7892353">
     <!-- conflict: "392 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "392 Vt Route 100, Weston, VT" -->
     <tag k="addr:city" v="Weston"/>
@@ -456,14 +408,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285025"/>
   </node>
-  <node id="-539" visible="true" lat="43.26657147" lon="-72.78758592">
-    <!-- conflict: "287 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "287 Vt Route 100, Weston, VT" -->
-    <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="287"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="285034"/>
-  </node>
   <node id="-540" visible="true" lat="43.26635536" lon="-72.78832387">
     <!-- conflict: "288 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "288 Vt Route 100, Weston, VT" -->
     <tag k="addr:city" v="Weston"/>
@@ -480,14 +424,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285041"/>
   </node>
-  <node id="-592" visible="true" lat="43.25866705" lon="-72.78923377">
-    <!-- conflict: "168 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "168 Vt Route 100, Weston, VT" -->
-    <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="168"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="285087"/>
-  </node>
   <node id="-595" visible="true" lat="43.25848884" lon="-72.78769896">
     <!-- conflict: "171 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "171 Vt Route 100, Weston, VT" -->
     <tag k="addr:city" v="Weston"/>
@@ -503,14 +439,6 @@
     <tag k="addr:street" v="Vermont Route 100"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285123"/>
-  </node>
-  <node id="-629" visible="true" lat="43.25554666" lon="-72.79275919">
-    <!-- conflict: "106 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "106 Vt Route 100, Weston, VT" -->
-    <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="285124"/>
   </node>
   <node id="-630" visible="true" lat="43.2554705" lon="-72.7929947">
     <!-- conflict: "104 Vermont Route 100, Weston, VT" No match in OSM, but a different address exists <5m away: "104 Vt Route 100, Weston, VT" -->

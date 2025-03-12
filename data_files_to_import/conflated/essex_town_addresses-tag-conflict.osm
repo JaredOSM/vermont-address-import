@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-689" visible="true" lat="44.51819864" lon="-73.06003129">
     <!-- conflict: "12 Cardinal Lane, , VT" No match in OSM, but a different address exists <5m away: " Cardinal Lane, Essex Junction, VT" -->
     <tag k="addr:housenumber" v="12"/>
@@ -245,13 +245,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="95341"/>
   </node>
-  <node id="-1386" visible="true" lat="44.508685" lon="-73.08499818">
-    <!-- conflict: "4 Carmichael Street, , VT" Fuzzy match to "4 Carmichael Street, , " -->
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Carmichael Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="95846"/>
-  </node>
   <node id="-1538" visible="true" lat="44.50630835" lon="-73.14220787">
     <!-- conflict: "350 Payne Street, , VT" No match in OSM, but a different address exists <5m away: "350 Ethan Allen Avenue, Essex, VT" -->
     <tag k="addr:housenumber" v="350"/>
@@ -265,20 +258,6 @@
     <tag k="addr:street" v="Ryan Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="96070"/>
-  </node>
-  <node id="-1622" visible="true" lat="44.50590515" lon="-73.089859">
-    <!-- conflict: "55 Upper Main Street, , VT" No match in OSM, but a different address exists <5m away: "45 Upper Main Street, , " -->
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Upper Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="96131"/>
-  </node>
-  <node id="-1740" visible="true" lat="44.50509595" lon="-73.08998761">
-    <!-- conflict: "45 Upper Main Street, , VT" Fuzzy match to "45 Upper Main Street, , " -->
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Upper Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="96267"/>
   </node>
   <node id="-1969" visible="true" lat="44.50304461" lon="-73.03111577">
     <!-- conflict: "136 Jericho Road, , VT" No match in OSM, but a different address exists <5m away: " Jericho Road, Essex, VT" -->
@@ -399,13 +378,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307896"/>
   </node>
-  <node id="-3443" visible="true" lat="44.5080598" lon="-73.08562244">
-    <!-- conflict: "2 Carmichael Street, , VT" Fuzzy match to "2 Carmichael Street, , " -->
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Carmichael Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="308360"/>
-  </node>
   <node id="-3566" visible="true" lat="44.48371691" lon="-73.06832307">
     <!-- conflict: "1 Raymond Drive, , VT" No match in OSM, but a different address exists <5m away: " Raymond Drive, Essex, VT" -->
     <tag k="addr:housenumber" v="1"/>
@@ -461,33 +433,5 @@
     <tag k="addr:street" v="Steeplebush Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="308959"/>
-  </node>
-  <node id="-3945" visible="true" lat="44.50924689" lon="-73.07989364">
-    <!-- conflict: "22 Carmichael Street, , VT" Fuzzy match to "22 Carmichael Street, , " -->
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Carmichael Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="330043"/>
-  </node>
-  <node id="-3992" visible="true" lat="44.50874713" lon="-73.08142256">
-    <!-- conflict: "17 Carmichael Street, , VT" Fuzzy match to "17 Carmichael Street, , " -->
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Carmichael Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338997"/>
-  </node>
-  <node id="-4048" visible="true" lat="44.5097495" lon="-73.07956873">
-    <!-- conflict: "20 Carmichael Street, , VT" Fuzzy match to "20 Carmichael Street, , " -->
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Carmichael Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="449332"/>
-  </node>
-  <node id="-4049" visible="true" lat="44.5095918" lon="-73.08131578">
-    <!-- conflict: "18 Carmichael Street, , VT" Fuzzy match to "18 Carmichael Street, , " -->
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Carmichael Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="449333"/>
   </node>
 </osm>

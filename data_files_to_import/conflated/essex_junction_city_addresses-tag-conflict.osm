@@ -1,61 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-108" visible="true" lat="44.50395148" lon="-73.10658051">
-    <!-- conflict: "382 Autumn Pond Way, Essex Junction, VT" Fuzzy match to "382 Autumn Pond Way, , " -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="382"/>
-    <tag k="addr:street" v="Autumn Pond Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="96391"/>
-  </node>
-  <node id="-110" visible="true" lat="44.5036258" lon="-73.10576731">
-    <!-- conflict: "379 Autumn Pond Way, Essex Junction, VT" Fuzzy match to "379 Autumn Pond Way, , " -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="379"/>
-    <tag k="addr:street" v="Autumn Pond Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="96416"/>
-  </node>
-  <node id="-115" visible="true" lat="44.50290076" lon="-73.10545718">
-    <!-- conflict: "341 Autumn Pond Way, Essex Junction, VT" Fuzzy match to "341 Autumn Pond Way, , " -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="341"/>
-    <tag k="addr:street" v="Autumn Pond Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="96475"/>
-  </node>
-  <node id="-117" visible="true" lat="44.50210696" lon="-73.10747178">
-    <!-- conflict: "301 Autumn Pond Way, Essex Junction, VT" Fuzzy match to "301 Autumn Pond Way, , " -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="301"/>
-    <tag k="addr:street" v="Autumn Pond Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="96506"/>
-  </node>
-  <node id="-128" visible="true" lat="44.50256644" lon="-73.10693085">
-    <!-- conflict: "369 Autumn Pond Way, Essex Junction, VT" Fuzzy match to "369 Autumn Pond Way, , " -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="369"/>
-    <tag k="addr:street" v="Autumn Pond Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="96560"/>
-  </node>
-  <node id="-132" visible="true" lat="44.50306893" lon="-73.10699247">
-    <!-- conflict: "361 Autumn Pond Way, Essex Junction, VT" Fuzzy match to "361 Autumn Pond Way, , " -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="361"/>
-    <tag k="addr:street" v="Autumn Pond Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="96567"/>
-  </node>
-  <node id="-139" visible="true" lat="44.50224408" lon="-73.1053293">
-    <!-- conflict: "331 Autumn Pond Way, Essex Junction, VT" Fuzzy match to "331 Autumn Pond Way, , " -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="331"/>
-    <tag k="addr:street" v="Autumn Pond Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="96587"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-161" visible="true" lat="44.50186504" lon="-73.1335025">
     <!-- conflict: "217 Pearl Street, Essex Junction, VT" Fuzzy match to "217 Pearl Street, , VT" -->
     <tag k="addr:city" v="Essex Junction"/>
@@ -64,21 +8,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="96648"/>
   </node>
-  <node id="-163" visible="true" lat="44.50197512" lon="-73.1060935">
-    <!-- conflict: "323 Autumn Pond Way, Essex Junction, VT" Fuzzy match to "323 Autumn Pond Way, , " -->
+  <node id="-458" visible="true" lat="44.49815097" lon="-73.11514048">
+    <!-- conflict: "1 Saint James Place, Essex Junction, VT" No match in OSM, but a different address exists <5m away: "1 St James Place, Essex Junction, VT" -->
     <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="323"/>
-    <tag k="addr:street" v="Autumn Pond Way"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Saint James Place"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="96650"/>
-  </node>
-  <node id="-177" visible="true" lat="44.50208128" lon="-73.10692563">
-    <!-- conflict: "309 Autumn Pond Way, Essex Junction, VT" Fuzzy match to "309 Autumn Pond Way, , " -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="309"/>
-    <tag k="addr:street" v="Autumn Pond Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="96683"/>
+    <tag k="ref:vcgi:esiteid" v="97137"/>
   </node>
   <node id="-464" visible="true" lat="44.49799204" lon="-73.12710807">
     <!-- conflict: "157 Pearl Street, Essex Junction, VT" Fuzzy match to "157 Pearl Street, , VT" -->
@@ -96,21 +32,21 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="97192"/>
   </node>
-  <node id="-690" visible="true" lat="44.49605352" lon="-73.12451201">
-    <!-- conflict: "126 Pearl Street, Essex Junction, VT" Fuzzy match to "126 Pearl Street, , VT" -->
+  <node id="-540" visible="true" lat="44.49735741" lon="-73.11447151">
+    <!-- conflict: "2 Saint James Place, Essex Junction, VT" No match in OSM, but a different address exists <5m away: "2 St James Place, Essex Junction, VT" -->
     <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="126"/>
-    <tag k="addr:street" v="Pearl Street"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Saint James Place"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="97467"/>
+    <tag k="ref:vcgi:esiteid" v="97257"/>
   </node>
-  <node id="-724" visible="true" lat="44.49580384" lon="-73.12384074">
-    <!-- conflict: "120 Pearl Street, Essex Junction, VT" Fuzzy match to "120 Pearl Street, , VT" -->
+  <node id="-743" visible="true" lat="44.4957172" lon="-73.10956948">
+    <!-- conflict: "33A North Street, Essex Junction, VT" Fuzzy match to "33 A North Street, Essex Junction, VT" -->
     <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="120"/>
-    <tag k="addr:street" v="Pearl Street"/>
+    <tag k="addr:housenumber" v="33A"/>
+    <tag k="addr:street" v="North Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="97513"/>
+    <tag k="ref:vcgi:esiteid" v="97544"/>
   </node>
   <node id="-765" visible="true" lat="44.4954878" lon="-73.12328468">
     <!-- conflict: "114 Pearl Street, Essex Junction, VT" Fuzzy match to "114 Pearl Street, , VT" -->
@@ -120,6 +56,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="97575"/>
   </node>
+  <node id="-787" visible="true" lat="44.49544143" lon="-73.10887908">
+    <!-- conflict: "25A North Street, Essex Junction, VT" Fuzzy match to "25 A North Street, Essex Junction, VT" -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="25A"/>
+    <tag k="addr:street" v="North Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="97605"/>
+  </node>
+  <node id="-856" visible="true" lat="44.49489376" lon="-73.11224561">
+    <!-- conflict: "52 1/2 Lincoln Street, Essex Junction, VT" No match in OSM, but a different address exists <5m away: "52 Lincoln Street, Essex Junction, VT" -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="52 1/2"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="97695"/>
+  </node>
   <node id="-879" visible="true" lat="44.494645" lon="-73.12170013">
     <!-- conflict: "100 Pearl Street, Essex Junction, VT" Fuzzy match to "100 Pearl Street, , VT" -->
     <tag k="addr:city" v="Essex Junction"/>
@@ -128,13 +80,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="97724"/>
   </node>
-  <node id="-903" visible="true" lat="44.49454534" lon="-73.11121458">
-    <!-- conflict: "45 Lincoln Street, Essex Junction, VT" Fuzzy match to "45 Lincoln Street, , VT" -->
+  <node id="-935" visible="true" lat="44.49436706" lon="-73.10934369">
+    <!-- conflict: "29A Grove Street, Essex Junction, VT" Fuzzy match to "29 A Grove Street, Essex Junction, VT" -->
     <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Lincoln Street"/>
+    <tag k="addr:housenumber" v="29A"/>
+    <tag k="addr:street" v="Grove Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="97756"/>
+    <tag k="ref:vcgi:esiteid" v="97800"/>
   </node>
   <node id="-977" visible="true" lat="44.49406874" lon="-73.1199955">
     <!-- conflict: "84 Pearl Street, Essex Junction, VT" Fuzzy match to "84 Pearl Street, , VT" -->
@@ -192,46 +144,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="98213"/>
   </node>
-  <node id="-1338" visible="true" lat="44.49175133" lon="-73.11015562">
-    <!-- conflict: "12 Railroad Avenue, Essex Junction, VT" No match in OSM, but a different address exists <5m away: "35 Main Street, , VT" -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Railroad Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="98334"/>
-  </node>
-  <node id="-1359" visible="true" lat="44.49171071" lon="-73.11012791">
-    <!-- conflict: "10 Railroad Avenue, Essex Junction, VT" No match in OSM, but a different address exists <5m away: "35 Main Street, , VT" -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Railroad Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="98361"/>
-  </node>
-  <node id="-1360" visible="true" lat="44.49177984" lon="-73.11182567">
-    <!-- conflict: "10 Lincoln Street, Essex Junction, VT" Fuzzy match to "10 Lincoln Street, , VT" -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Lincoln Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="98362"/>
-  </node>
-  <node id="-1362" visible="true" lat="44.49166127" lon="-73.11136719">
-    <!-- conflict: "10 Lincoln Street, Essex Junction, VT" Fuzzy match to "10 Lincoln Street, , VT" -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Lincoln Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="98366"/>
-  </node>
-  <node id="-1405" visible="true" lat="44.49153651" lon="-73.10887323">
-    <!-- conflict: "35 Main Street, Essex Junction, VT" Fuzzy match to "35 Main Street, , VT" -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="98417"/>
-  </node>
   <node id="-1455" visible="true" lat="44.49134605" lon="-73.1012062">
     <!-- conflict: "11 Park Avenue, Essex Junction, VT" Fuzzy match to "11 Park Street, Essex Junction, VT" -->
     <tag k="addr:city" v="Essex Junction"/>
@@ -239,6 +151,14 @@
     <tag k="addr:street" v="Park Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="98475"/>
+  </node>
+  <node id="-1487" visible="true" lat="44.49113874" lon="-73.10913746">
+    <!-- conflict: "8 Railroad Street, Essex Junction, VT" Fuzzy match to "8 Railroad Avenue, Essex Junction, VT" -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98509"/>
   </node>
   <node id="-1505" visible="true" lat="44.4911499" lon="-73.10221099">
     <!-- conflict: "4 Park Avenue, Essex Junction, VT" Fuzzy match to "4 Park Street, , VT" -->
@@ -248,13 +168,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="98531"/>
   </node>
-  <node id="-1529" visible="true" lat="44.49109883" lon="-73.11248835">
-    <!-- conflict: "15 Pearl Street, Essex Junction, VT" Fuzzy match to "15 Pearl Street, , VT" -->
+  <node id="-1536" visible="true" lat="44.49095098" lon="-73.10923572">
+    <!-- conflict: "10 Railroad Street, Essex Junction, VT" Fuzzy match to "10 Railroad Avenue, Essex Junction, VT" -->
     <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Pearl Street"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Railroad Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="98559"/>
+    <tag k="ref:vcgi:esiteid" v="98567"/>
   </node>
   <node id="-1550" visible="true" lat="44.4909534" lon="-73.10250664">
     <!-- conflict: "2 Park Avenue, Essex Junction, VT" Fuzzy match to "2 Park Street, Essex Junction, VT" -->
@@ -272,6 +192,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="98585"/>
   </node>
+  <node id="-1560" visible="true" lat="44.49084277" lon="-73.10920115">
+    <!-- conflict: "12 Railroad Street, Essex Junction, VT" Fuzzy match to "12 Railroad Avenue, Essex Junction, VT" -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98597"/>
+  </node>
+  <node id="-1647" visible="true" lat="44.49047432" lon="-73.10926864">
+    <!-- conflict: "18 Railroad Street, Essex Junction, VT" Fuzzy match to "18 Railroad Avenue, Essex Junction, VT" -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98704"/>
+  </node>
   <node id="-1648" visible="true" lat="44.49048818" lon="-73.11047196">
     <!-- conflict: "1 Main Street, Essex Junction, VT" Fuzzy match to "1 Main Street, , VT" -->
     <tag k="addr:city" v="Essex Junction"/>
@@ -280,6 +216,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="98705"/>
   </node>
+  <node id="-1660" visible="true" lat="44.49046547" lon="-73.1083189">
+    <!-- conflict: "20 Maple Street, Essex Junction, VT" Fuzzy match to "20 Maple Street, , " -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98721"/>
+  </node>
   <node id="-1699" visible="true" lat="44.49027224" lon="-73.1092915">
     <!-- conflict: "16 Maple Street, Essex Junction, VT" Fuzzy match to "16 Maple Street, , VT" -->
     <tag k="addr:city" v="Essex Junction"/>
@@ -287,6 +231,22 @@
     <tag k="addr:street" v="Maple Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="98769"/>
+  </node>
+  <node id="-1727" visible="true" lat="44.49015492" lon="-73.10735502">
+    <!-- conflict: "2 East Street, Essex Junction, VT" Fuzzy match to "2 East Street, , " -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="East Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98800"/>
+  </node>
+  <node id="-1742" visible="true" lat="44.49003928" lon="-73.10857756">
+    <!-- conflict: "20 Maple Street, Essex Junction, VT" Fuzzy match to "20 Maple Street, , " -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98817"/>
   </node>
   <node id="-1752" visible="true" lat="44.49007984" lon="-73.11278856">
     <!-- conflict: "4 Park Terrace, Essex Junction, VT" Fuzzy match to "4 Park Street, , VT" -->
@@ -304,6 +264,46 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="98839"/>
   </node>
+  <node id="-1771" visible="true" lat="44.48994117" lon="-73.10833693">
+    <!-- conflict: "22 Maple Street, Essex Junction, VT" Fuzzy match to "22 Maple Street, , " -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98855"/>
+  </node>
+  <node id="-1867" visible="true" lat="44.48954932" lon="-73.10836055">
+    <!-- conflict: "23 Maple Street, Essex Junction, VT" Fuzzy match to "23 Maple Street, , " -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98981"/>
+  </node>
+  <node id="-1941" visible="true" lat="44.48904351" lon="-73.10857482">
+    <!-- conflict: "2 Elm Street, Essex Junction, VT" Fuzzy match to "2 Elm Street, , " -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99076"/>
+  </node>
+  <node id="-1967" visible="true" lat="44.48890788" lon="-73.10872595">
+    <!-- conflict: "4 Elm Street, Essex Junction, VT" Fuzzy match to "4 Elm Street, , " -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99112"/>
+  </node>
+  <node id="-1993" visible="true" lat="44.48875006" lon="-73.10880576">
+    <!-- conflict: "6 Elm Street, Essex Junction, VT" No match in OSM, but a different address exists <5m away: "8 Elm Street, , " -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99145"/>
+  </node>
   <node id="-2012" visible="true" lat="44.48862426" lon="-73.13909975">
     <!-- conflict: "315 South Street, Essex Junction, VT" Fuzzy match to "315 South Street, Essex Junction Village, VT" -->
     <tag k="addr:city" v="Essex Junction"/>
@@ -311,6 +311,30 @@
     <tag k="addr:street" v="South Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="99172"/>
+  </node>
+  <node id="-2026" visible="true" lat="44.48853061" lon="-73.10892699">
+    <!-- conflict: "10 Elm Street, Essex Junction, VT" Fuzzy match to "10 Elm Street, , " -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99196"/>
+  </node>
+  <node id="-2043" visible="true" lat="44.48840853" lon="-73.10901091">
+    <!-- conflict: "12 Elm Street, Essex Junction, VT" Fuzzy match to "12 Elm Street, , " -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99221"/>
+  </node>
+  <node id="-2058" visible="true" lat="44.48826154" lon="-73.10987443">
+    <!-- conflict: "2 Jackson Street, Essex Junction, VT" Fuzzy match to "2 Jackson Street, , " -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Jackson Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99248"/>
   </node>
   <node id="-2064" visible="true" lat="44.4880826" lon="-73.1394126">
     <!-- conflict: "316 South Street, Essex Junction, VT" No match in OSM, but a different address exists <5m away: "314 South Street, Essex Junction Village, VT" -->
@@ -328,6 +352,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="99267"/>
   </node>
+  <node id="-2090" visible="true" lat="44.48818211" lon="-73.10872603">
+    <!-- conflict: "12 Jackson Street, Essex Junction, VT" Fuzzy match to "12 Jackson Street, , " -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Jackson Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99296"/>
+  </node>
   <node id="-2121" visible="true" lat="44.4878585" lon="-73.11306288">
     <!-- conflict: "39 Park Street, Essex Junction, VT" Fuzzy match to "39 Park Street, , VT" -->
     <tag k="addr:city" v="Essex Junction"/>
@@ -335,6 +367,14 @@
     <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="99345"/>
+  </node>
+  <node id="-2137" visible="true" lat="44.48780802" lon="-73.10878212">
+    <!-- conflict: "13 Jackson Street, Essex Junction, VT" Fuzzy match to "13 Jackson Street, , " -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Jackson Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99369"/>
   </node>
   <node id="-2531" visible="true" lat="44.48377212" lon="-73.09658928">
     <!-- conflict: "145 Maple Street, Essex Junction, VT" Fuzzy match to "145 Maple Street, , " -->
@@ -352,22 +392,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="100309"/>
   </node>
-  <node id="-2713" visible="true" lat="44.49349254" lon="-73.11949185">
-    <!-- conflict: "76 Pearl Street, Essex Junction, VT" Fuzzy match to "76 Pearl Street, , VT" -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:street" v="Pearl Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="100919"/>
-  </node>
-  <node id="-2789" visible="true" lat="44.49258203" lon="-73.11788554">
-    <!-- conflict: "58 Pearl Street, Essex Junction, VT" Fuzzy match to "58 Pearl Street, , VT" -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:street" v="Pearl Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="101030"/>
-  </node>
   <node id="-2792" visible="true" lat="44.49334736" lon="-73.11938075">
     <!-- conflict: "74 Pearl Street, Essex Junction, VT" Fuzzy match to "74 Pearl Street, , VT" -->
     <tag k="addr:city" v="Essex Junction"/>
@@ -383,14 +407,6 @@
     <tag k="addr:street" v="Pearl Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="101034"/>
-  </node>
-  <node id="-2797" visible="true" lat="44.49298094" lon="-73.1187735">
-    <!-- conflict: "70 Pearl Street, Essex Junction, VT" Fuzzy match to "70 Pearl Street, , VT" -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Pearl Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="101038"/>
   </node>
   <node id="-2806" visible="true" lat="44.48726862" lon="-73.13334099">
     <!-- conflict: "168 South Street, Essex Junction, VT" Fuzzy match to "168 South Street, Essex Junction Village, VT" -->
@@ -776,13 +792,45 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="101203"/>
   </node>
-  <node id="-2981" visible="true" lat="44.49187395" lon="-73.11033771">
-    <!-- conflict: "20 Railroad Avenue, Essex Junction, VT" No match in OSM, but a different address exists <5m away: "4 Lincoln Place, , VT" -->
+  <node id="-2963" visible="true" lat="44.50290682" lon="-73.10262658">
+    <!-- conflict: "25A Athens Drive, Essex Junction, VT" Fuzzy match to "25 A Athens Drive, Essex Junction, VT" -->
     <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Railroad Avenue"/>
+    <tag k="addr:housenumber" v="25A"/>
+    <tag k="addr:street" v="Athens Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="101249"/>
+    <tag k="ref:vcgi:esiteid" v="101229"/>
+  </node>
+  <node id="-2977" visible="true" lat="44.49133588" lon="-73.10910554">
+    <!-- conflict: "4 Railroad Street, Essex Junction, VT" Fuzzy match to "4 Railroad Avenue, Essex Junction, VT" -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="101245"/>
+  </node>
+  <node id="-3174" visible="true" lat="44.49365365" lon="-73.10961961">
+    <!-- conflict: "24C Central Street, Essex Junction, VT" Fuzzy match to "24 C Central Street, Essex Junction, VT" -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="24C"/>
+    <tag k="addr:street" v="Central Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308464"/>
+  </node>
+  <node id="-3175" visible="true" lat="44.49360224" lon="-73.10954671">
+    <!-- conflict: "24B Central Street, Essex Junction, VT" Fuzzy match to "24 B Central Street, Essex Junction, VT" -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="24B"/>
+    <tag k="addr:street" v="Central Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308465"/>
+  </node>
+  <node id="-3176" visible="true" lat="44.4935429" lon="-73.10946816">
+    <!-- conflict: "24A Central Street, Essex Junction, VT" Fuzzy match to "24 A Central Street, Essex Junction, VT" -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="24A"/>
+    <tag k="addr:street" v="Central Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308466"/>
   </node>
   <node id="-3233" visible="true" lat="44.48953879" lon="-73.11158018">
     <!-- conflict: "14 Park Street, Essex Junction, VT" No match in OSM, but a different address exists <5m away: "5 Park Street, , VT" -->
@@ -792,13 +840,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="308757"/>
   </node>
-  <node id="-3235" visible="true" lat="44.49186209" lon="-73.11040097">
-    <!-- conflict: "4 Lincoln Place, Essex Junction, VT" Fuzzy match to "4 Lincoln Place, , VT" -->
+  <node id="-3243" visible="true" lat="44.50238388" lon="-73.10294081">
+    <!-- conflict: "27A Athens Drive, Essex Junction, VT" Fuzzy match to "27 A Athens Drive, Essex Junction, VT" -->
     <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Lincoln Place"/>
+    <tag k="addr:housenumber" v="27A"/>
+    <tag k="addr:street" v="Athens Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="308759"/>
+    <tag k="ref:vcgi:esiteid" v="308768"/>
   </node>
   <node id="-3255" visible="true" lat="44.49094457" lon="-73.10998476">
     <!-- conflict: "9 Main Street, Essex Junction, VT" Fuzzy match to "9 Main Street, , VT" -->
@@ -816,13 +864,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="334983"/>
   </node>
-  <node id="-3344" visible="true" lat="44.49186815" lon="-73.11045965">
-    <!-- conflict: "6 Lincoln Place, Essex Junction, VT" Fuzzy match to "6 Lincoln Street, Essex Junction, VT" -->
+  <node id="-3348" visible="true" lat="44.48872254" lon="-73.10882679">
+    <!-- conflict: "8 Elm Street, Essex Junction, VT" Fuzzy match to "8 Elm Street, , " -->
     <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Lincoln Place"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Elm Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341746"/>
+    <tag k="ref:vcgi:esiteid" v="446879"/>
   </node>
   <node id="-3414" visible="true" lat="44.48508919" lon="-73.13656555">
     <!-- conflict: "178 South Street, Essex Junction, VT" Fuzzy match to "178 South Street, Essex Junction Village, VT" -->
@@ -832,14 +880,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="449978"/>
   </node>
-  <node id="-3423" visible="true" lat="44.49268701" lon="-73.11771828">
-    <!-- conflict: "58A Pearl Street, Essex Junction, VT" No match in OSM, but a different address exists <5m away: "58 Pearl Street, , VT" -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="58A"/>
-    <tag k="addr:street" v="Pearl Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="451320"/>
-  </node>
   <node id="-3464" visible="true" lat="44.48775597" lon="-73.13925263">
     <!-- conflict: "314 South Street, Essex Junction, VT" Fuzzy match to "314 South Street, Essex Junction Village, VT" -->
     <tag k="addr:city" v="Essex Junction"/>
@@ -847,13 +887,5 @@
     <tag k="addr:street" v="South Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754518"/>
-  </node>
-  <node id="-3498" visible="true" lat="44.50144491" lon="-73.10862647">
-    <!-- conflict: "169 Autumn Pond Way, Essex Junction, VT" Fuzzy match to "169 Autumn Pond Way, , " -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="169"/>
-    <tag k="addr:street" v="Autumn Pond Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="769466"/>
   </node>
 </osm>

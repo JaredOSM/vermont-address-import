@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-222" visible="true" lat="43.61745855" lon="-72.61276267">
     <!-- offset: "2463 North Bridgewater Road, , VT" Significant offset - 229.8m -->
     <tag k="addr:housenumber" v="2463"/>
@@ -55,5 +55,12 @@
     <tag k="addr:street" v="Atwood Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342598"/>
+  </node>
+  <node id="-825" visible="true" lat="43.67018048" lon="-72.6285083">
+    <!-- offset: "1485 Green Gate Road, , VT" Significant offset - 1250.8m -->
+    <tag k="addr:housenumber" v="1485"/>
+    <tag k="addr:street" v="Green Gate Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050954"/>
   </node>
 </osm>

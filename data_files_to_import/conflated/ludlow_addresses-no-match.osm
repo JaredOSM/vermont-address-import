@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.46401611" lon="-72.70625901">
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="1787"/>
@@ -812,13 +812,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="142710"/>
   </node>
-  <node id="-233" visible="true" lat="43.44453756" lon="-72.67876034">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="779"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142711"/>
-  </node>
   <node id="-234" visible="true" lat="43.44573866" lon="-72.67524422">
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="35"/>
@@ -846,27 +839,6 @@
     <tag k="addr:street" v="Chapman Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="142715"/>
-  </node>
-  <node id="-238" visible="true" lat="43.44337473" lon="-72.67854762">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="721"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142716"/>
-  </node>
-  <node id="-239" visible="true" lat="43.4413771" lon="-72.67860007">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="659"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142717"/>
-  </node>
-  <node id="-240" visible="true" lat="43.44179537" lon="-72.67951268">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="681"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142718"/>
   </node>
   <node id="-241" visible="true" lat="43.44168188" lon="-72.68004021">
     <tag k="addr:city" v="Ludlow"/>
@@ -1063,41 +1035,6 @@
     <tag k="addr:street" v="Nelson Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="142748"/>
-  </node>
-  <node id="-269" visible="true" lat="43.4365034" lon="-72.6809659">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="489"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142749"/>
-  </node>
-  <node id="-270" visible="true" lat="43.4338219" lon="-72.67899338">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Merrill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142750"/>
-  </node>
-  <node id="-271" visible="true" lat="43.43263206" lon="-72.67886595">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="333"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142751"/>
-  </node>
-  <node id="-272" visible="true" lat="43.43310692" lon="-72.67756244">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="370"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142752"/>
-  </node>
-  <node id="-273" visible="true" lat="43.43454484" lon="-72.67872578">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="409"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142753"/>
   </node>
   <node id="-274" visible="true" lat="43.43559966" lon="-72.68359152">
     <tag k="addr:city" v="Ludlow"/>
@@ -1344,20 +1281,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="142795"/>
   </node>
-  <node id="-315" visible="true" lat="43.43072321" lon="-72.67989547">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="255"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142796"/>
-  </node>
-  <node id="-317" visible="true" lat="43.43058341" lon="-72.67771883">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="264"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142798"/>
-  </node>
   <node id="-319" visible="true" lat="43.43333422" lon="-72.6677653">
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="278"/>
@@ -1378,48 +1301,6 @@
     <tag k="addr:street" v="Nelson Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="142803"/>
-  </node>
-  <node id="-323" visible="true" lat="43.42965371" lon="-72.67688625">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="234"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142804"/>
-  </node>
-  <node id="-325" visible="true" lat="43.42973592" lon="-72.675927">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="228"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142806"/>
-  </node>
-  <node id="-326" visible="true" lat="43.42897395" lon="-72.67738998">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="210"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142807"/>
-  </node>
-  <node id="-327" visible="true" lat="43.42763648" lon="-72.67653323">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="130"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142808"/>
-  </node>
-  <node id="-329" visible="true" lat="43.42613336" lon="-72.67630289">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142810"/>
-  </node>
-  <node id="-330" visible="true" lat="43.42798373" lon="-72.67528046">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="128"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142811"/>
   </node>
   <node id="-331" visible="true" lat="43.430537" lon="-72.69620925">
     <tag k="addr:city" v="Ludlow"/>
@@ -1637,20 +1518,6 @@
     <tag k="addr:street" v="Vermont Route 100 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="142859"/>
-  </node>
-  <node id="-384" visible="true" lat="43.42031542" lon="-72.67320299">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="1201"/>
-    <tag k="addr:street" v="Bixby Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142866"/>
-  </node>
-  <node id="-385" visible="true" lat="43.42066547" lon="-72.67359028">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="1219"/>
-    <tag k="addr:street" v="Bixby Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142867"/>
   </node>
   <node id="-388" visible="true" lat="43.4217378" lon="-72.68097673">
     <tag k="addr:city" v="Ludlow"/>
@@ -1897,68 +1764,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="142910"/>
   </node>
-  <node id="-430" visible="true" lat="43.41919201" lon="-72.67480322">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="1181"/>
-    <tag k="addr:street" v="Bixby Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142912"/>
-  </node>
-  <node id="-431" visible="true" lat="43.41866351" lon="-72.67298692">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="1147"/>
-    <tag k="addr:street" v="Bixby Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142913"/>
-  </node>
-  <node id="-433" visible="true" lat="43.41961686" lon="-72.67140077">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="1136"/>
-    <tag k="addr:street" v="Bixby Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142915"/>
-  </node>
-  <node id="-434" visible="true" lat="43.41788292" lon="-72.66918756">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="1072"/>
-    <tag k="addr:street" v="Bixby Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142916"/>
-  </node>
-  <node id="-435" visible="true" lat="43.41710063" lon="-72.67008181">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="1051"/>
-    <tag k="addr:street" v="Bixby Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142917"/>
-  </node>
   <node id="-436" visible="true" lat="43.41271739" lon="-72.66666626">
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="876"/>
     <tag k="addr:street" v="Bixby Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="142918"/>
-  </node>
-  <node id="-437" visible="true" lat="43.41421425" lon="-72.66756675">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="922"/>
-    <tag k="addr:street" v="Bixby Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142919"/>
-  </node>
-  <node id="-438" visible="true" lat="43.41385024" lon="-72.66580942">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Christmas Tree Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142920"/>
-  </node>
-  <node id="-439" visible="true" lat="43.41356542" lon="-72.66438026">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Christmas Tree Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142921"/>
   </node>
   <node id="-440" visible="true" lat="43.41284831" lon="-72.66430544">
     <tag k="addr:city" v="Ludlow"/>
@@ -1973,20 +1784,6 @@
     <tag k="addr:street" v="Christmas Tree Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="142923"/>
-  </node>
-  <node id="-442" visible="true" lat="43.41576529" lon="-72.67132431">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="1007"/>
-    <tag k="addr:street" v="Bixby Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142924"/>
-  </node>
-  <node id="-444" visible="true" lat="43.4146353" lon="-72.66876659">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="975"/>
-    <tag k="addr:street" v="Bixby Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142926"/>
   </node>
   <node id="-446" visible="true" lat="43.41223727" lon="-72.67159858">
     <tag k="addr:city" v="Ludlow"/>
@@ -4816,13 +4613,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143415"/>
   </node>
-  <node id="-912" visible="true" lat="43.39676797" lon="-72.69706057">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="143417"/>
-  </node>
   <node id="-913" visible="true" lat="43.39664913" lon="-72.69637041">
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="101"/>
@@ -5158,13 +4948,6 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143475"/>
-  </node>
-  <node id="-969" visible="true" lat="43.39605453" lon="-72.68621786">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="143476"/>
   </node>
   <node id="-970" visible="true" lat="43.39569885" lon="-72.68526181">
     <tag k="addr:city" v="Ludlow"/>
@@ -7258,13 +7041,6 @@
     <tag k="addr:street" v="Depot Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143831"/>
-  </node>
-  <node id="-1311" visible="true" lat="43.3954768" lon="-72.70072912">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Depot Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="143832"/>
   </node>
   <node id="-1312" visible="true" lat="43.39594667" lon="-72.70078569">
     <tag k="addr:city" v="Ludlow"/>
@@ -11851,13 +11627,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="144668"/>
   </node>
-  <node id="-2040" visible="true" lat="43.42332354" lon="-72.67373941">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="72"/>
-    <tag k="addr:street" v="Barker Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="144669"/>
-  </node>
   <node id="-2041" visible="true" lat="43.39655152" lon="-72.68265745">
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="95"/>
@@ -12109,34 +11878,6 @@
     <tag k="addr:street" v="Merrill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="144705"/>
-  </node>
-  <node id="-2077" visible="true" lat="43.4451407" lon="-72.67795788">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="800"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="144706"/>
-  </node>
-  <node id="-2078" visible="true" lat="43.44338785" lon="-72.67729815">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="726"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="144707"/>
-  </node>
-  <node id="-2079" visible="true" lat="43.43166212" lon="-72.67768935">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="308"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="144708"/>
-  </node>
-  <node id="-2080" visible="true" lat="43.4313257" lon="-72.67771634">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="296"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="144709"/>
   </node>
   <node id="-2081" visible="true" lat="43.43021305" lon="-72.67772241">
     <tag k="addr:city" v="Ludlow"/>
@@ -14525,13 +14266,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306178"/>
   </node>
-  <node id="-2442" visible="true" lat="43.42261149" lon="-72.67020991">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="164"/>
-    <tag k="addr:street" v="Barker Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306201"/>
-  </node>
   <node id="-2443" visible="true" lat="43.39693528" lon="-72.7055405">
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="22"/>
@@ -14756,20 +14490,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306595"/>
   </node>
-  <node id="-2476" visible="true" lat="43.44502904" lon="-72.67942719">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="797"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306596"/>
-  </node>
-  <node id="-2477" visible="true" lat="43.43237712" lon="-72.67717777">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="342"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306597"/>
-  </node>
   <node id="-2478" visible="true" lat="43.41711584" lon="-72.71837609">
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="1211"/>
@@ -14853,13 +14573,6 @@
     <tag k="addr:street" v="Fox Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306614"/>
-  </node>
-  <node id="-2490" visible="true" lat="43.42526231" lon="-72.67456154">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306616"/>
   </node>
   <node id="-2491" visible="true" lat="43.42047793" lon="-72.68732549">
     <tag k="addr:city" v="Ludlow"/>
@@ -15540,13 +15253,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="329490"/>
   </node>
-  <node id="-2591" visible="true" lat="43.44537696" lon="-72.6789567">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="799"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="329501"/>
-  </node>
   <node id="-2592" visible="true" lat="43.39462744" lon="-72.72970156">
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="59"/>
@@ -16086,13 +15792,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="446813"/>
   </node>
-  <node id="-2669" visible="true" lat="43.42512198" lon="-72.67066904">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="161"/>
-    <tag k="addr:street" v="Barker Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="446814"/>
-  </node>
   <node id="-2670" visible="true" lat="43.35294256" lon="-72.68533337">
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="234"/>
@@ -16134,13 +15833,6 @@
     <tag k="addr:street" v="Highland Views South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451306"/>
-  </node>
-  <node id="-2676" visible="true" lat="43.41735901" lon="-72.66851761">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="1054"/>
-    <tag k="addr:street" v="Bixby Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="451307"/>
   </node>
   <node id="-2677" visible="true" lat="43.38980948" lon="-72.71302519">
     <tag k="addr:city" v="Ludlow"/>
@@ -16373,13 +16065,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611333"/>
   </node>
-  <node id="-2715" visible="true" lat="43.41529456" lon="-72.66810394">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="980"/>
-    <tag k="addr:street" v="Bixby Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="612560"/>
-  </node>
   <node id="-2716" visible="true" lat="43.34777512" lon="-72.71137138">
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="1456"/>
@@ -16569,13 +16254,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753367"/>
   </node>
-  <node id="-2755" visible="true" lat="43.43998001" lon="-72.67870381">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="545"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="753380"/>
-  </node>
   <node id="-2756" visible="true" lat="43.38942168" lon="-72.73144471">
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="144"/>
@@ -16673,13 +16351,6 @@
     <tag k="addr:street" v="Nelson Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755327"/>
-  </node>
-  <node id="-2772" visible="true" lat="43.435906" lon="-72.67541245">
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="460"/>
-    <tag k="addr:street" v="North Hill Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755329"/>
   </node>
   <node id="-2773" visible="true" lat="43.41012415" lon="-72.72569558">
     <tag k="addr:city" v="Ludlow"/>

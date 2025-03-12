@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1457" visible="true" lat="44.50739219" lon="-73.08246619">
+    <!-- offset: "21 Essex Way, , VT" Significant offset - 146.4m -->
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Essex Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95933"/>
+  </node>
   <node id="-1556" visible="true" lat="44.50618316" lon="-73.13371582">
     <!-- offset: "1 Market Place, , VT" Significant offset - 106.1m -->
     <tag k="addr:housenumber" v="1"/>
@@ -20,6 +27,13 @@
     <tag k="addr:street" v="Market Place"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="100662"/>
+  </node>
+  <node id="-2989" visible="true" lat="44.54333796" lon="-73.07574752">
+    <!-- offset: "234 Old Stage Road, , VT" Significant offset - 223.6m -->
+    <tag k="addr:housenumber" v="234"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100685"/>
   </node>
   <node id="-3905" visible="true" lat="44.50468083" lon="-73.13477832">
     <!-- offset: "9 Joshua Way, , VT" Significant offset - 158.2m -->

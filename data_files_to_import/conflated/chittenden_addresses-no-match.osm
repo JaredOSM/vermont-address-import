@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.79548635" lon="-73.00802816">
     <tag k="addr:city" v="Chittenden"/>
     <tag k="addr:housenumber" v="128"/>
@@ -1343,13 +1343,6 @@
     <tag k="addr:street" v="Long Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67754"/>
-  </node>
-  <node id="-292" visible="true" lat="43.72992095" lon="-72.93762155">
-    <tag k="addr:city" v="Chittenden"/>
-    <tag k="addr:housenumber" v="195"/>
-    <tag k="addr:street" v="Mountain Top Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67756"/>
   </node>
   <node id="-293" visible="true" lat="43.7298014" lon="-72.94343493">
     <tag k="addr:city" v="Chittenden"/>

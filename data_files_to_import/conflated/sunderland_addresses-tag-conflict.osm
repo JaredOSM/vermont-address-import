@@ -1,102 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-102" visible="true" lat="43.11816532" lon="-73.11406486">
     <!-- conflict: "6365 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6365 Vt Route 7A, Sunderland, VT" -->
     <tag k="addr:housenumber" v="6365"/>
     <tag k="addr:street" v="Vermont Route 7A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="253812"/>
-  </node>
-  <node id="-103" visible="true" lat="43.11776733" lon="-73.11097717">
-    <!-- conflict: "6390 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6390 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6390"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253813"/>
-  </node>
-  <node id="-104" visible="true" lat="43.11758804" lon="-73.11132049">
-    <!-- conflict: "6385 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6385 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6385"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253814"/>
-  </node>
-  <node id="-108" visible="true" lat="43.11739299" lon="-73.11250364">
-    <!-- conflict: "6377 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6377 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6377"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253818"/>
-  </node>
-  <node id="-109" visible="true" lat="43.11687477" lon="-73.11388847">
-    <!-- conflict: "6367 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6367 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6367"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253819"/>
-  </node>
-  <node id="-110" visible="true" lat="43.11678335" lon="-73.11452643">
-    <!-- conflict: "6361 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6361 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6361"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253820"/>
-  </node>
-  <node id="-111" visible="true" lat="43.11693824" lon="-73.1110138">
-    <!-- conflict: "6386 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6386 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6386"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253821"/>
-  </node>
-  <node id="-113" visible="true" lat="43.11633739" lon="-73.11706413">
-    <!-- conflict: "6344 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6344 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6344"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253824"/>
-  </node>
-  <node id="-114" visible="true" lat="43.11626815" lon="-73.11687469">
-    <!-- conflict: "6346 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6346 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6346"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253825"/>
-  </node>
-  <node id="-115" visible="true" lat="43.11638099" lon="-73.1164726">
-    <!-- conflict: "6350 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6350 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6350"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253826"/>
-  </node>
-  <node id="-116" visible="true" lat="43.11612274" lon="-73.11601706">
-    <!-- conflict: "6354 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6354 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6354"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253827"/>
-  </node>
-  <node id="-117" visible="true" lat="43.11630673" lon="-73.11564969">
-    <!-- conflict: "6356 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6356 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6356"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253828"/>
-  </node>
-  <node id="-118" visible="true" lat="43.11616897" lon="-73.11746215">
-    <!-- conflict: "6342 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6342 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6342"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253829"/>
-  </node>
-  <node id="-123" visible="true" lat="43.11517744" lon="-73.12310001">
-    <!-- conflict: "6311 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6311 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6311"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253834"/>
   </node>
   <node id="-158" visible="true" lat="43.10955769" lon="-73.09771083">
     <!-- conflict: "337 Hope Lane, , VT" No match in OSM, but a different address exists <5m away: "4148 North Road, Sunderland, VT" -->
@@ -105,13 +14,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="253869"/>
   </node>
-  <node id="-160" visible="true" lat="43.11205971" lon="-73.12666795">
-    <!-- conflict: "6265 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6265 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6265"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253871"/>
-  </node>
   <node id="-166" visible="true" lat="43.11140468" lon="-73.12737115">
     <!-- conflict: "6253 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6253 Vt Route 7A, Sunderland, VT" -->
     <tag k="addr:housenumber" v="6253"/>
@@ -119,54 +21,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="253877"/>
   </node>
-  <node id="-175" visible="true" lat="43.1112709" lon="-73.12641143">
-    <!-- conflict: "6258 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6258 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6258"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253886"/>
-  </node>
-  <node id="-182" visible="true" lat="43.11041869" lon="-73.12587498">
-    <!-- conflict: "6262 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6262 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6262"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253893"/>
-  </node>
-  <node id="-228" visible="true" lat="43.10218429" lon="-73.13415527">
-    <!-- conflict: "6180 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6180 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6180"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253941"/>
-  </node>
   <node id="-660" visible="true" lat="43.07402023" lon="-73.10904326">
     <!-- conflict: "287 Colebrook Road, , VT" No match in OSM, but a different address exists <5m away: "193 Colebrook Road, Sunderland, VT" -->
     <tag k="addr:housenumber" v="287"/>
     <tag k="addr:street" v="Colebrook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450923"/>
-  </node>
-  <node id="-665" visible="true" lat="43.11631188" lon="-73.11227448">
-    <!-- conflict: "6378 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6378 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6378"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="451180"/>
-  </node>
-  <node id="-669" visible="true" lat="43.08461562" lon="-73.12759849">
-    <!-- conflict: "98 Bear Ridge Road, , VT" Fuzzy match to "98 Bear Ridge Road, Sunderland, " -->
-    <tag k="addr:housenumber" v="98"/>
-    <tag k="addr:street" v="Bear Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="451185"/>
-  </node>
-  <node id="-684" visible="true" lat="43.10494735" lon="-73.13405066">
-    <!-- conflict: "6161 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6161 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6161"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453111"/>
   </node>
   <node id="-686" visible="true" lat="43.10601101" lon="-73.12449852">
     <!-- conflict: "950 Dunham Road, , VT" No match in OSM, but a different address exists <5m away: "856 Dunham Road, Sunderland, VT" -->

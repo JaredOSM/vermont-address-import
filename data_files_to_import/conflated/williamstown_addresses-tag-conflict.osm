@@ -1,25 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-136" visible="true" lat="44.14763641" lon="-72.50679779">
-    <!-- conflict: "14 Ducharme Ridge Road, , VT" No match in OSM, but a different address exists <5m away: "1668 McGlynn Road, Williamstown, VT" -->
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Ducharme Ridge Road"/>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-275" visible="true" lat="44.13456269" lon="-72.4815008">
+    <!-- conflict: "20 Boutin Road, , VT" No match in OSM, but a different address exists <5m away: "94 Robar Road, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Boutin Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="287138"/>
+    <tag k="ref:vcgi:esiteid" v="287280"/>
   </node>
-  <node id="-394" visible="true" lat="44.12732715" lon="-72.53755532">
-    <!-- conflict: "1940 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "1940 Vt Route 14, Williamstown, VT" -->
-    <tag k="addr:housenumber" v="1940"/>
-    <tag k="addr:street" v="Vermont Route 14"/>
+  <node id="-339" visible="true" lat="44.13036727" lon="-72.50020599">
+    <!-- conflict: "157 Felicity 1st Avenue, , VT" Fuzzy match to "157 Felicity 1St Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:street" v="Felicity 1st Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="287408"/>
+    <tag k="ref:vcgi:esiteid" v="287345"/>
   </node>
-  <node id="-403" visible="true" lat="44.12700072" lon="-72.53781263">
-    <!-- conflict: "1958 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "1958 Vt Route 14, Williamstown, VT" -->
-    <tag k="addr:housenumber" v="1958"/>
-    <tag k="addr:street" v="Vermont Route 14"/>
+  <node id="-342" visible="true" lat="44.13011932" lon="-72.49882507">
+    <!-- conflict: "183 Felicity 1st Avenue, , VT" Fuzzy match to "183 Felicity 1St Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:street" v="Felicity 1st Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="287417"/>
+    <tag k="ref:vcgi:esiteid" v="287349"/>
+  </node>
+  <node id="-349" visible="true" lat="44.12977232" lon="-72.50033483">
+    <!-- conflict: "121 Felicity 1st Avenue, , VT" Fuzzy match to "121 Felicity 1St Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Felicity 1st Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287358"/>
+  </node>
+  <node id="-351" visible="true" lat="44.12952041" lon="-72.49961852">
+    <!-- conflict: "160 Felicity 1st Avenue, , VT" Fuzzy match to "160 Felicity 1St Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Felicity 1st Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287361"/>
+  </node>
+  <node id="-355" visible="true" lat="44.12923491" lon="-72.49975549">
+    <!-- conflict: "110 Felicity 1st Avenue, , VT" Fuzzy match to "110 Felicity 1St Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Felicity 1st Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287365"/>
+  </node>
+  <node id="-357" visible="true" lat="44.12899017" lon="-72.4983139">
+    <!-- conflict: "241 Felicity 1st Avenue, , VT" Fuzzy match to "241 Felicity 1St Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="241"/>
+    <tag k="addr:street" v="Felicity 1st Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287367"/>
+  </node>
+  <node id="-362" visible="true" lat="44.12861998" lon="-72.49857165">
+    <!-- conflict: "275 Felicity 1st Avenue, , VT" Fuzzy match to "275 Felicity 1St Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Felicity 1st Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287372"/>
+  </node>
+  <node id="-365" visible="true" lat="44.12813568" lon="-72.50002288">
+    <!-- conflict: "335 Felicity 1st Avenue, , VT" Fuzzy match to "335 Felicity 1St Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="335"/>
+    <tag k="addr:street" v="Felicity 1st Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287375"/>
+  </node>
+  <node id="-369" visible="true" lat="44.12805557" lon="-72.49945068">
+    <!-- conflict: "303 Felicity 1st Avenue, , VT" Fuzzy match to "303 Felicity 1St Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="303"/>
+    <tag k="addr:street" v="Felicity 1st Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287379"/>
+  </node>
+  <node id="-402" visible="true" lat="44.12696838" lon="-72.50037384">
+    <!-- conflict: "49 Felicity 2nd Avenue, , VT" Fuzzy match to "49 Felicity 2Nd Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Felicity 2nd Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287416"/>
+  </node>
+  <node id="-406" visible="true" lat="44.12681579" lon="-72.50164794">
+    <!-- conflict: "138 Felicity 2nd Avenue, , VT" Fuzzy match to "138 Felicity 2Nd Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="Felicity 2nd Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287420"/>
+  </node>
+  <node id="-413" visible="true" lat="44.12667846" lon="-72.50033569">
+    <!-- conflict: "69 Felicity 2nd Avenue, , VT" Fuzzy match to "69 Felicity 2Nd Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Felicity 2nd Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287428"/>
+  </node>
+  <node id="-415" visible="true" lat="44.12659454" lon="-72.50125122">
+    <!-- conflict: "82 Felicity 2nd Avenue, , VT" Fuzzy match to "82 Felicity 2Nd Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Felicity 2nd Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287430"/>
+  </node>
+  <node id="-432" visible="true" lat="44.12629318" lon="-72.5004425">
+    <!-- conflict: "87 Felicity 2nd Avenue, , VT" Fuzzy match to "87 Felicity 2Nd Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Felicity 2nd Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287448"/>
+  </node>
+  <node id="-441" visible="true" lat="44.1261444" lon="-72.54333496">
+    <!-- conflict: "178 Village View Heights, , VT" No match in OSM, but a different address exists <5m away: "170 Village View Heights, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="178"/>
+    <tag k="addr:street" v="Village View Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287458"/>
+  </node>
+  <node id="-444" visible="true" lat="44.1261177" lon="-72.50134277">
+    <!-- conflict: "115 Felicity 2nd Avenue, , VT" Fuzzy match to "115 Felicity 2Nd Avenue, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Felicity 2nd Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287461"/>
   </node>
   <node id="-451" visible="true" lat="44.1259613" lon="-72.53812803">
     <!-- conflict: "2032 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "2032 Vt Route 14, Williamstown, VT" -->
@@ -49,6 +147,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="287491"/>
   </node>
+  <node id="-478" visible="true" lat="44.12534917" lon="-72.54242994">
+    <!-- conflict: "126 Village View Heights, , VT" No match in OSM, but a different address exists <5m away: "116 Village View Heights, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Village View Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287498"/>
+  </node>
   <node id="-491" visible="true" lat="44.12530512" lon="-72.53875102">
     <!-- conflict: "2092 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "2092 Vt Route 14, Williamstown, VT" -->
     <tag k="addr:housenumber" v="2092"/>
@@ -62,6 +167,13 @@
     <tag k="addr:street" v="Vermont Route 14"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="287521"/>
+  </node>
+  <node id="-506" visible="true" lat="44.12513731" lon="-72.54487898">
+    <!-- conflict: "55 Duff Lane, , VT" No match in OSM, but a different address exists <5m away: "35 Duff Lane, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Duff Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287527"/>
   </node>
   <node id="-511" visible="true" lat="44.1250047" lon="-72.53894124">
     <!-- conflict: "2120 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "2120 Vt Route 14, Williamstown, VT" -->
@@ -98,13 +210,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="287671"/>
   </node>
-  <node id="-636" visible="true" lat="44.12203561" lon="-72.54092128">
-    <!-- conflict: "2373 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "2374 Main Street, Williamstown, VT" -->
-    <tag k="addr:housenumber" v="2373"/>
-    <tag k="addr:street" v="Vermont Route 14"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="287673"/>
-  </node>
   <node id="-644" visible="true" lat="44.12182437" lon="-72.5408798">
     <!-- conflict: "2383 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "2383 Vt Route 14, Williamstown, VT" -->
     <tag k="addr:housenumber" v="2383"/>
@@ -118,13 +223,6 @@
     <tag k="addr:street" v="Vermont Route 64"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="287689"/>
-  </node>
-  <node id="-656" visible="true" lat="44.12160873" lon="-72.54080963">
-    <!-- conflict: "2401 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "Freda Hollyer 2383 Main Street, Williamstown, VT" -->
-    <tag k="addr:housenumber" v="2401"/>
-    <tag k="addr:street" v="Vermont Route 14"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="287695"/>
   </node>
   <node id="-670" visible="true" lat="44.12129581" lon="-72.54084135">
     <!-- conflict: "2431 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "2431 Vt Route 14, Williamstown, VT" -->
@@ -259,13 +357,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="287782"/>
   </node>
-  <node id="-738" visible="true" lat="44.11890411" lon="-72.55085754">
-    <!-- conflict: "381 Vermont Route 64, , VT" No match in OSM, but a different address exists <5m away: "381 Vt Route 64, Williamstown, VT" -->
-    <tag k="addr:housenumber" v="381"/>
-    <tag k="addr:street" v="Vermont Route 64"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="287785"/>
-  </node>
   <node id="-742" visible="true" lat="44.11886596" lon="-72.5408554">
     <!-- conflict: "2591 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "2591 Vt Route 14, Williamstown, VT" -->
     <tag k="addr:housenumber" v="2591"/>
@@ -273,26 +364,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="287789"/>
   </node>
-  <node id="-743" visible="true" lat="44.11875152" lon="-72.55139923">
-    <!-- conflict: "407 Vermont Route 64, , VT" No match in OSM, but a different address exists <5m away: "407 Vt Route 64, Williamstown, VT" -->
-    <tag k="addr:housenumber" v="407"/>
-    <tag k="addr:street" v="Vermont Route 64"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="287790"/>
-  </node>
   <node id="-747" visible="true" lat="44.11869049" lon="-72.54097747">
     <!-- conflict: "2605 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "2605 Vt Route 14, Williamstown, VT" -->
     <tag k="addr:housenumber" v="2605"/>
     <tag k="addr:street" v="Vermont Route 14"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="287794"/>
-  </node>
-  <node id="-748" visible="true" lat="44.11862182" lon="-72.55342102">
-    <!-- conflict: "501 Vermont Route 64, , VT" No match in OSM, but a different address exists <5m away: "501 Vt Route 64, Williamstown, VT" -->
-    <tag k="addr:housenumber" v="501"/>
-    <tag k="addr:street" v="Vermont Route 64"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="287795"/>
   </node>
   <node id="-750" visible="true" lat="44.11858749" lon="-72.54051971">
     <!-- conflict: "2613 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "2613 Vt Route 14, Williamstown, VT" -->
@@ -307,13 +384,6 @@
     <tag k="addr:street" v="Vermont Route 64"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="287806"/>
-  </node>
-  <node id="-778" visible="true" lat="44.1175307" lon="-72.48126933">
-    <!-- conflict: "805 Therriault Hill, , VT" Fuzzy match to "805 Therriault Hollow, Williamstown, VT" -->
-    <tag k="addr:housenumber" v="805"/>
-    <tag k="addr:street" v="Therriault Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="287827"/>
   </node>
   <node id="-796" visible="true" lat="44.11672592" lon="-72.56119537">
     <!-- conflict: "968 Vermont Route 64, , VT" No match in OSM, but a different address exists <5m away: "968 Vt Route 64, Williamstown, VT" -->
@@ -335,6 +405,13 @@
     <tag k="addr:street" v="Vermont Route 14"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="287894"/>
+  </node>
+  <node id="-1280" visible="true" lat="44.13949585" lon="-72.47821808">
+    <!-- conflict: "210 Cogswell Street, , VT" No match in OSM, but a different address exists <5m away: "210;200 Cogswell Street, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:street" v="Cogswell Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="288344"/>
   </node>
   <node id="-1305" visible="true" lat="44.12501425" lon="-72.5331441">
     <!-- conflict: "131 Railroad Street, , VT" No match in OSM, but a different address exists <5m away: "121 Railroad Street, Williamstown, VT" -->
@@ -363,5 +440,12 @@
     <tag k="addr:street" v="Graham Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365592"/>
+  </node>
+  <node id="-1702" visible="true" lat="44.13495545" lon="-72.48100287">
+    <!-- conflict: "61 Boutin Road, , VT" No match in OSM, but a different address exists <5m away: "96 Robar Road, Williamstown, VT" -->
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Boutin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763446"/>
   </node>
 </osm>

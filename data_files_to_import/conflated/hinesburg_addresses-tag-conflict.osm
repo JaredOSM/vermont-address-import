@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-883" visible="true" lat="44.34100802" lon="-73.11840157">
+    <!-- conflict: "17 Ballards Corner Road, Hinesburg, VT" Fuzzy match to "17 Ballards Corner, Hinesburg, VT" -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Ballards Corner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="128975"/>
+  </node>
   <node id="-1021" visible="true" lat="44.33119295" lon="-73.11216633">
     <!-- conflict: "10516 Vermont Route 116, Hinesburg, VT" Fuzzy match to "10516 Vermont Route 116, , VT" -->
     <tag k="addr:city" v="Hinesburg"/>
@@ -63,5 +71,13 @@
     <tag k="addr:street" v="Tyler Bridge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="767114"/>
+  </node>
+  <node id="-2213" visible="true" lat="44.3182363" lon="-73.05961548">
+    <!-- conflict: "832 Lincoln Hill Road, Hinesburg, VT" No match in OSM, but a different address exists <5m away: " Lincoln Hill Road, Hinesburg, VT" -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="832"/>
+    <tag k="addr:street" v="Lincoln Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768038"/>
   </node>
 </osm>

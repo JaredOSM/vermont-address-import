@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-490" visible="true" lat="44.31171035" lon="-72.59573364">
+    <!-- offset: "239 Bolduc Road, , VT" Significant offset - 132.7m -->
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:street" v="Bolduc Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157232"/>
+  </node>
 </osm>

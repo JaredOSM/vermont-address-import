@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.23258618" lon="-72.3855608">
     <tag k="addr:housenumber" v="466"/>
     <tag k="addr:street" v="Spruce Mountain Road"/>
@@ -24,11 +24,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="188854"/>
   </node>
+  <node id="-104" visible="true" lat="44.28211413" lon="-72.43791751">
+    <tag k="addr:housenumber" v="327"/>
+    <tag k="addr:street" v="Vermont Route 214"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="188855"/>
+  </node>
   <node id="-111" visible="true" lat="44.28140195" lon="-72.43828447">
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Loop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="188862"/>
+  </node>
+  <node id="-123" visible="true" lat="44.27966804" lon="-72.43543247">
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Vermont Route 214"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="188876"/>
   </node>
   <node id="-124" visible="true" lat="44.27963111" lon="-72.42613206">
     <tag k="addr:housenumber" v="103"/>
@@ -126,6 +138,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189015"/>
   </node>
+  <node id="-253" visible="true" lat="44.27499502" lon="-72.42311215">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="189026"/>
+  </node>
   <node id="-257" visible="true" lat="44.27500962" lon="-72.41486745">
     <tag k="addr:housenumber" v="173"/>
     <tag k="addr:street" v="East Hill Road"/>
@@ -185,6 +203,12 @@
     <tag k="addr:street" v="Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189052"/>
+  </node>
+  <node id="-283" visible="true" lat="44.27059555" lon="-72.42635345">
+    <tag k="addr:housenumber" v="391"/>
+    <tag k="addr:street" v="Barre Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="189057"/>
   </node>
   <node id="-284" visible="true" lat="44.27016062" lon="-72.44996812">
     <tag k="addr:housenumber" v="260"/>
@@ -365,6 +389,12 @@
     <tag k="addr:street" v="Upper Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189115"/>
+  </node>
+  <node id="-343" visible="true" lat="44.25844955" lon="-72.39220428">
+    <tag k="addr:housenumber" v="1998"/>
+    <tag k="addr:street" v="East Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="189117"/>
   </node>
   <node id="-344" visible="true" lat="44.25842653" lon="-72.41462131">
     <tag k="addr:housenumber" v="521"/>
@@ -1182,12 +1212,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189298"/>
   </node>
-  <node id="-525" visible="true" lat="44.22958626" lon="-72.40558969">
-    <tag k="addr:housenumber" v="3556"/>
-    <tag k="addr:street" v="Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="189299"/>
-  </node>
   <node id="-528" visible="true" lat="44.22932734" lon="-72.38448738">
     <tag k="addr:housenumber" v="332"/>
     <tag k="addr:street" v="Spruce Mountain Road"/>
@@ -1217,12 +1241,6 @@
     <tag k="addr:street" v="Gonyeau Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189307"/>
-  </node>
-  <node id="-535" visible="true" lat="44.228096" lon="-72.40481567">
-    <tag k="addr:housenumber" v="3704"/>
-    <tag k="addr:street" v="Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="189309"/>
   </node>
   <node id="-536" visible="true" lat="44.22765731" lon="-72.43138122">
     <tag k="addr:housenumber" v="1065"/>
@@ -1265,6 +1283,12 @@
     <tag k="addr:street" v="Gore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189333"/>
+  </node>
+  <node id="-570" visible="true" lat="44.28185377" lon="-72.43594284">
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Sugarwood Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="189345"/>
   </node>
   <node id="-574" visible="true" lat="44.25891061" lon="-72.44695599">
     <tag k="addr:housenumber" v="158"/>

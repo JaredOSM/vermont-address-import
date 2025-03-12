@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-316" visible="true" lat="44.5931633" lon="-73.18024752">
     <!-- multiple: "257 Jasper Mine Road, Colchester, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Colchester"/>
@@ -31,6 +31,14 @@
     <tag k="addr:street" v="Roosevelt Highway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="71381"/>
+  </node>
+  <node id="-2887" visible="true" lat="44.54399193" lon="-73.21385478">
+    <!-- multiple: "133 Blakely Road, Colchester, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="133"/>
+    <tag k="addr:street" v="Blakely Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="72541"/>
   </node>
   <node id="-2928" visible="true" lat="44.5437853" lon="-73.21402701">
     <!-- multiple: "131 Blakely Road, Colchester, VT" Multiple exact matches in OSM. -->
@@ -72,6 +80,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="73652"/>
   </node>
+  <node id="-4879" visible="true" lat="44.5101141" lon="-73.18550034">
+    <!-- multiple: "463 Mountain View Drive, Colchester, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="463"/>
+    <tag k="addr:street" v="Mountain View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74844"/>
+  </node>
   <node id="-5079" visible="true" lat="44.50329782" lon="-73.18164031">
     <!-- multiple: "70 Roosevelt Highway, Colchester, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Colchester"/>
@@ -79,6 +95,14 @@
     <tag k="addr:street" v="Roosevelt Highway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="75117"/>
+  </node>
+  <node id="-5369" visible="true" lat="44.4979162" lon="-73.15819306">
+    <!-- multiple: "807 College Parkway, Colchester, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="807"/>
+    <tag k="addr:street" v="College Parkway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="75455"/>
   </node>
   <node id="-5372" visible="true" lat="44.49780505" lon="-73.15855599">
     <!-- multiple: "781 College Parkway, Colchester, VT" Multiple exact matches in OSM. -->
@@ -95,6 +119,14 @@
     <tag k="addr:street" v="College Parkway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="75478"/>
+  </node>
+  <node id="-6165" visible="true" lat="44.59081655" lon="-73.19024071">
+    <!-- multiple: "274 Raymond Road, Colchester, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="274"/>
+    <tag k="addr:street" v="Raymond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333281"/>
   </node>
   <node id="-6784" visible="true" lat="44.50692611" lon="-73.18013989">
     <!-- multiple: "18 Lower Mountain View Drive, Colchester, VT" Multiple exact matches in OSM. -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.40819535" lon="-73.23738584">
     <tag k="addr:city" v="West Pawlet"/>
     <tag k="addr:housenumber" v="670"/>
@@ -13,13 +13,6 @@
     <tag k="addr:street" v="North Pawlet Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185124"/>
-  </node>
-  <node id="-114" visible="true" lat="43.40536377" lon="-73.2454997">
-    <tag k="addr:city" v="West Pawlet"/>
-    <tag k="addr:housenumber" v="1018"/>
-    <tag k="addr:street" v="Vermont Route 149"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="185137"/>
   </node>
   <node id="-119" visible="true" lat="43.40447622" lon="-73.20759437">
     <tag k="addr:city" v="West Pawlet"/>

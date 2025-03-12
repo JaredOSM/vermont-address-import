@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-120" visible="true" lat="43.8469636" lon="-73.33037484">
     <tag k="addr:housenumber" v="141"/>
     <tag k="addr:street" v="Hemenway Hill Road"/>
@@ -47,6 +47,12 @@
     <tag k="addr:street" v="Sampson Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="184079"/>
+  </node>
+  <node id="-257" visible="true" lat="43.81848288" lon="-73.38463818">
+    <tag k="addr:housenumber" v="497"/>
+    <tag k="addr:street" v="Mount Independence Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="184195"/>
   </node>
   <node id="-258" visible="true" lat="43.81886413" lon="-73.27347467">
     <tag k="addr:housenumber" v="10"/>
@@ -156,6 +162,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="184258"/>
   </node>
+  <node id="-321" visible="true" lat="43.80559124" lon="-73.30535192">
+    <!-- match: "344 Vermont Route 22A, , VT"  ignoring missing state when matching to "344 Vermont Route 22A, , " -->
+    <tag k="addr:housenumber" v="344"/>
+    <tag k="addr:street" v="Vermont Route 22A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="184260"/>
+  </node>
   <node id="-323" visible="true" lat="43.80571814" lon="-73.29703441">
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:street" v="North Orwell Road"/>
@@ -251,6 +264,13 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="184288"/>
+  </node>
+  <node id="-352" visible="true" lat="43.80386748" lon="-73.30537799">
+    <!-- match: "330 Vermont Route 22A, , VT"  ignoring missing state when matching to "330 Vermont Route 22A, , " -->
+    <tag k="addr:housenumber" v="330"/>
+    <tag k="addr:street" v="Vermont Route 22A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="184291"/>
   </node>
   <node id="-354" visible="true" lat="43.80386426" lon="-73.3015126">
     <tag k="addr:housenumber" v="436"/>
@@ -552,11 +572,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="184667"/>
   </node>
+  <node id="-718" visible="true" lat="43.84339893" lon="-73.36287473">
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Vermont Route 73"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="184669"/>
+  </node>
   <node id="-719" visible="true" lat="43.84386843" lon="-73.36411756">
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="Meadow Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="184670"/>
+  </node>
+  <node id="-720" visible="true" lat="43.84303322" lon="-73.36275651">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Vermont Route 73"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="184671"/>
   </node>
   <node id="-721" visible="true" lat="43.84354215" lon="-73.3667095">
     <tag k="addr:housenumber" v="171"/>

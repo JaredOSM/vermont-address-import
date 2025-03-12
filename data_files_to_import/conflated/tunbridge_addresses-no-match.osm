@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.92099343" lon="-72.40478485">
     <tag k="addr:housenumber" v="143"/>
     <tag k="addr:street" v="Brocklebank Road"/>
@@ -1140,12 +1140,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262905"/>
   </node>
-  <node id="-386" visible="true" lat="43.9048842" lon="-72.44749506">
-    <tag k="addr:housenumber" v="246"/>
-    <tag k="addr:street" v="Strafford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262907"/>
-  </node>
   <node id="-388" visible="true" lat="43.90429306" lon="-72.46271514">
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:street" v="1 Coutu Court"/>
@@ -1175,36 +1169,6 @@
     <tag k="addr:street" v="Spring Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262919"/>
-  </node>
-  <node id="-400" visible="true" lat="43.90252685" lon="-72.45359802">
-    <tag k="addr:housenumber" v="209"/>
-    <tag k="addr:street" v="Strafford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262921"/>
-  </node>
-  <node id="-402" visible="true" lat="43.90241622" lon="-72.45459747">
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Strafford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262923"/>
-  </node>
-  <node id="-404" visible="true" lat="43.90216445" lon="-72.45535278">
-    <tag k="addr:housenumber" v="199"/>
-    <tag k="addr:street" v="Strafford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262925"/>
-  </node>
-  <node id="-405" visible="true" lat="43.9020996" lon="-72.45723724">
-    <tag k="addr:housenumber" v="191"/>
-    <tag k="addr:street" v="Strafford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262926"/>
-  </node>
-  <node id="-407" visible="true" lat="43.90202712" lon="-72.45115661">
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Chester Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262928"/>
   </node>
   <node id="-410" visible="true" lat="43.90148925" lon="-72.49082183">
     <tag k="addr:housenumber" v="28"/>
@@ -1236,12 +1200,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262939"/>
   </node>
-  <node id="-418" visible="true" lat="43.90088653" lon="-72.47160339">
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Tuttle Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262940"/>
-  </node>
   <node id="-419" visible="true" lat="43.90074157" lon="-72.43518829">
     <tag k="addr:housenumber" v="73"/>
     <tag k="addr:street" v="Moody Road"/>
@@ -1260,29 +1218,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262945"/>
   </node>
-  <node id="-424" visible="true" lat="43.90024566" lon="-72.46874236">
-    <tag k="addr:housenumber" v="131"/>
-    <tag k="addr:street" v="Strafford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262946"/>
-  </node>
-  <node id="-426" visible="true" lat="43.90002589" lon="-72.44468609">
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Moody Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262948"/>
-  </node>
   <node id="-427" visible="true" lat="43.89996719" lon="-72.49105071">
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:street" v="Monarch Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262949"/>
-  </node>
-  <node id="-432" visible="true" lat="43.89948272" lon="-72.45074462">
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Chester Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262954"/>
   </node>
   <node id="-434" visible="true" lat="43.89964454" lon="-72.55007512">
     <tag k="addr:housenumber" v="227"/>
@@ -1308,41 +1248,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262960"/>
   </node>
-  <node id="-440" visible="true" lat="43.89862091" lon="-72.4673193">
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262962"/>
-  </node>
-  <node id="-441" visible="true" lat="43.89830432" lon="-72.46422608">
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262963"/>
-  </node>
-  <node id="-442" visible="true" lat="43.89811325" lon="-72.4697113">
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262964"/>
-  </node>
   <node id="-443" visible="true" lat="43.89809751" lon="-72.55036164">
     <tag k="addr:housenumber" v="229"/>
     <tag k="addr:street" v="Kelsey Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262965"/>
-  </node>
-  <node id="-444" visible="true" lat="43.89800959" lon="-72.46274637">
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262966"/>
-  </node>
-  <node id="-447" visible="true" lat="43.89718938" lon="-72.46099088">
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262969"/>
   </node>
   <node id="-448" visible="true" lat="43.89712524" lon="-72.44350433">
     <tag k="addr:housenumber" v="28"/>
@@ -1356,18 +1266,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262971"/>
   </node>
-  <node id="-450" visible="true" lat="43.89692692" lon="-72.46171974">
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262972"/>
-  </node>
-  <node id="-452" visible="true" lat="43.89703737" lon="-72.46063152">
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262974"/>
-  </node>
   <node id="-453" visible="true" lat="43.89696087" lon="-72.47334858">
     <tag k="addr:housenumber" v="85"/>
     <tag k="addr:street" v="Drew Road"/>
@@ -1380,29 +1278,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262976"/>
   </node>
-  <node id="-455" visible="true" lat="43.89706011" lon="-72.46003948">
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262977"/>
-  </node>
-  <node id="-458" visible="true" lat="43.89608934" lon="-72.46018411">
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262980"/>
-  </node>
   <node id="-459" visible="true" lat="43.89565921" lon="-72.55318741">
     <tag k="addr:housenumber" v="246"/>
     <tag k="addr:street" v="Kelsey Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262981"/>
-  </node>
-  <node id="-461" visible="true" lat="43.89541902" lon="-72.45965009">
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262983"/>
   </node>
   <node id="-462" visible="true" lat="43.89496994" lon="-72.48067474">
     <tag k="addr:housenumber" v="55"/>
@@ -1416,18 +1296,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262987"/>
   </node>
-  <node id="-468" visible="true" lat="43.89429865" lon="-72.45601597">
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262990"/>
-  </node>
-  <node id="-471" visible="true" lat="43.89418029" lon="-72.45020294">
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262993"/>
-  </node>
   <node id="-476" visible="true" lat="43.89361178" lon="-72.43944663">
     <tag k="addr:housenumber" v="59"/>
     <tag k="addr:street" v="Morrill Road"/>
@@ -1439,12 +1307,6 @@
     <tag k="addr:street" v="Taylor Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263002"/>
-  </node>
-  <node id="-481" visible="true" lat="43.8925253" lon="-72.45665295">
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263003"/>
   </node>
   <node id="-482" visible="true" lat="43.89261197" lon="-72.5536728">
     <tag k="addr:housenumber" v="270"/>
@@ -2472,12 +2334,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263305"/>
   </node>
-  <node id="-768" visible="true" lat="43.89945811" lon="-72.47032934">
-    <tag k="addr:housenumber" v="126"/>
-    <tag k="addr:street" v="Strafford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263306"/>
-  </node>
   <node id="-772" visible="true" lat="43.84760519" lon="-72.46949751">
     <tag k="addr:housenumber" v="3665"/>
     <tag k="addr:street" v="Dairy Hill Road"/>
@@ -2646,35 +2502,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="326592"/>
   </node>
-  <node id="-807" visible="true" lat="43.8939514" lon="-72.45476978">
-    <tag k="addr:housenumber" v="89"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326594"/>
-  </node>
-  <node id="-808" visible="true" lat="43.89695216" lon="-72.46229666">
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326595"/>
-  </node>
   <node id="-809" visible="true" lat="43.88909443" lon="-72.43972361">
     <tag k="addr:housenumber" v="96"/>
     <tag k="addr:street" v="Morrill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="326596"/>
-  </node>
-  <node id="-810" visible="true" lat="43.90168709" lon="-72.44494704">
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Moody Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326597"/>
-  </node>
-  <node id="-811" visible="true" lat="43.90106523" lon="-72.44548098">
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Moody Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326598"/>
   </node>
   <node id="-812" visible="true" lat="43.91684228" lon="-72.50462033">
     <tag k="addr:housenumber" v="168"/>
@@ -3215,18 +3047,6 @@
     <tag k="addr:street" v="Russell Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755091"/>
-  </node>
-  <node id="-916" visible="true" lat="43.89568796" lon="-72.45895194">
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Hoyt Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755092"/>
-  </node>
-  <node id="-917" visible="true" lat="43.9054536" lon="-72.44924873">
-    <tag k="addr:housenumber" v="241"/>
-    <tag k="addr:street" v="Strafford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755093"/>
   </node>
   <node id="-918" visible="true" lat="43.91526556" lon="-72.45589167">
     <tag k="addr:housenumber" v="112"/>

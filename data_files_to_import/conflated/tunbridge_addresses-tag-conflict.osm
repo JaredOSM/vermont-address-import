@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-166" visible="true" lat="43.94004804" lon="-72.46554139">
     <!-- conflict: "704 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "704 Vt Route 110, Tunbridge, VT" -->
     <tag k="addr:housenumber" v="704"/>
@@ -48,13 +48,6 @@
     <tag k="addr:street" v="Vermont Route 110"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="262759"/>
-  </node>
-  <node id="-356" visible="true" lat="43.91173553" lon="-72.48237609">
-    <!-- conflict: "469 Vermont Route 110, , VT" Fuzzy match to "469 Vermont Route 110, Tunbridge, " -->
-    <tag k="addr:housenumber" v="469"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262877"/>
   </node>
   <node id="-479" visible="true" lat="43.89279232" lon="-72.48711847">
     <!-- conflict: "329 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "329 Vt Route 110, Tunbridge, VT" -->

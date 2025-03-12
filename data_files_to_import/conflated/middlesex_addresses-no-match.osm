@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.37514065" lon="-72.61257068">
     <tag k="addr:housenumber" v="94"/>
     <tag k="addr:street" v="Guilmette Road"/>
@@ -1152,12 +1152,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157057"/>
   </node>
-  <node id="-316" visible="true" lat="44.3367424" lon="-72.58118438">
-    <tag k="addr:housenumber" v="104"/>
-    <tag k="addr:street" v="Shady Rill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="157058"/>
-  </node>
   <node id="-317" visible="true" lat="44.33664847" lon="-72.6344478">
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="South Bear Swamp Road"/>
@@ -1265,12 +1259,6 @@
     <tag k="addr:street" v="Leland Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157080"/>
-  </node>
-  <node id="-340" visible="true" lat="44.32981008" lon="-72.57494168">
-    <tag k="addr:housenumber" v="369"/>
-    <tag k="addr:street" v="Vermont Route 12"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="157082"/>
   </node>
   <node id="-341" visible="true" lat="44.33108183" lon="-72.63492341">
     <tag k="addr:housenumber" v="872"/>
@@ -1541,12 +1529,6 @@
     <tag k="addr:street" v="Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157133"/>
-  </node>
-  <node id="-392" visible="true" lat="44.32319111" lon="-72.57737959">
-    <tag k="addr:housenumber" v="509"/>
-    <tag k="addr:street" v="Vermont Route 12"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="157134"/>
   </node>
   <node id="-395" visible="true" lat="44.32242088" lon="-72.58808143">
     <tag k="addr:housenumber" v="208"/>
@@ -2046,12 +2028,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157231"/>
   </node>
-  <node id="-490" visible="true" lat="44.31171035" lon="-72.59573364">
-    <tag k="addr:housenumber" v="239"/>
-    <tag k="addr:street" v="Bolduc Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="157232"/>
-  </node>
   <node id="-491" visible="true" lat="44.31156158" lon="-72.59655761">
     <tag k="addr:housenumber" v="244"/>
     <tag k="addr:street" v="Bolduc Road"/>
@@ -2321,12 +2297,6 @@
     <tag k="addr:street" v="Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157291"/>
-  </node>
-  <node id="-550" visible="true" lat="44.30603408" lon="-72.57950592">
-    <tag k="addr:housenumber" v="759"/>
-    <tag k="addr:street" v="Vermont Route 12"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="157292"/>
   </node>
   <node id="-551" visible="true" lat="44.3061178" lon="-72.69482035">
     <tag k="addr:housenumber" v="1170"/>
@@ -2664,6 +2634,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157438"/>
   </node>
+  <node id="-682" visible="true" lat="44.28844962" lon="-72.59515932">
+    <tag k="addr:housenumber" v="293"/>
+    <tag k="addr:street" v="Portal Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157440"/>
+  </node>
+  <node id="-684" visible="true" lat="44.28720888" lon="-72.59580152">
+    <tag k="addr:housenumber" v="311"/>
+    <tag k="addr:street" v="Portal Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157442"/>
+  </node>
+  <node id="-685" visible="true" lat="44.28710556" lon="-72.59745788">
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:street" v="Portal Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157443"/>
+  </node>
   <node id="-687" visible="true" lat="44.2866249" lon="-72.60861969">
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Upper Sunnybrook Road"/>
@@ -2867,6 +2855,12 @@
     <tag k="addr:street" v="Tangletown Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157537"/>
+  </node>
+  <node id="-778" visible="true" lat="44.28668688" lon="-72.5966646">
+    <tag k="addr:housenumber" v="325"/>
+    <tag k="addr:street" v="Portal Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157538"/>
   </node>
   <node id="-779" visible="true" lat="44.28269996" lon="-72.59636779">
     <tag k="addr:housenumber" v="81"/>

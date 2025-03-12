@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-103" visible="true" lat="44.59472087" lon="-72.63805755">
     <tag k="addr:city" v="Morrisville"/>
     <tag k="addr:housenumber" v="440"/>
@@ -447,13 +447,6 @@
     <tag k="addr:street" v="Stafford Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168872"/>
-  </node>
-  <node id="-352" visible="true" lat="44.5735842" lon="-72.59220118">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="66"/>
-    <tag k="addr:street" v="Morrisville Plaza"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168873"/>
   </node>
   <node id="-353" visible="true" lat="44.57387457" lon="-72.59559665">
     <tag k="addr:city" v="Morrisville"/>
@@ -1652,13 +1645,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="169434"/>
   </node>
-  <node id="-818" visible="true" lat="44.5612428" lon="-72.60001771">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:street" v="Lower Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="169440"/>
-  </node>
   <node id="-820" visible="true" lat="44.56111285" lon="-72.63296492">
     <tag k="addr:city" v="Morrisville"/>
     <tag k="addr:housenumber" v="235"/>
@@ -2316,13 +2302,6 @@
     <tag k="addr:street" v="Mac Miller Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="169808"/>
-  </node>
-  <node id="-1151" visible="true" lat="44.55699035" lon="-72.58832121">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="199"/>
-    <tag k="addr:street" v="Doctor Tinker Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="169809"/>
   </node>
   <node id="-1153" visible="true" lat="44.55678434" lon="-72.65705971">
     <tag k="addr:city" v="Morrisville"/>
@@ -4039,13 +4018,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="170257"/>
   </node>
-  <node id="-1563" visible="true" lat="44.53395708" lon="-72.69710589">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="656"/>
-    <tag k="addr:street" v="Ron Terrill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="170258"/>
-  </node>
   <node id="-1566" visible="true" lat="44.53388299" lon="-72.56838652">
     <tag k="addr:city" v="Morrisville"/>
     <tag k="addr:housenumber" v="247"/>
@@ -4122,13 +4094,6 @@
     <tag k="addr:street" v="Cochran Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="170283"/>
-  </node>
-  <node id="-1589" visible="true" lat="44.53149509" lon="-72.69303572">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="436"/>
-    <tag k="addr:street" v="Ron Terrill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="170284"/>
   </node>
   <node id="-1590" visible="true" lat="44.53189691" lon="-72.57041581">
     <tag k="addr:city" v="Morrisville"/>
@@ -4381,13 +4346,6 @@
     <tag k="addr:street" v="Third Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="170328"/>
-  </node>
-  <node id="-1633" visible="true" lat="44.52953339" lon="-72.70156106">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="3087"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="170329"/>
   </node>
   <node id="-1634" visible="true" lat="44.52954397" lon="-72.63061966">
     <tag k="addr:city" v="Morrisville"/>
@@ -4753,13 +4711,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="170387"/>
   </node>
-  <node id="-1692" visible="true" lat="44.52714201" lon="-72.697307">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="2832"/>
-    <tag k="addr:street" v="Sterling Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="170388"/>
-  </node>
   <node id="-1693" visible="true" lat="44.52690024" lon="-72.62775572">
     <tag k="addr:city" v="Morrisville"/>
     <tag k="addr:housenumber" v="1099"/>
@@ -4864,13 +4815,6 @@
     <tag k="addr:street" v="Randolph Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="170406"/>
-  </node>
-  <node id="-1710" visible="true" lat="44.52375055" lon="-72.61753947">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:street" v="Goeltz Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="170407"/>
   </node>
   <node id="-1712" visible="true" lat="44.52395756" lon="-72.61431163">
     <tag k="addr:city" v="Morrisville"/>
@@ -5256,13 +5200,6 @@
     <tag k="addr:street" v="Moren Loop"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="170474"/>
-  </node>
-  <node id="-1775" visible="true" lat="44.51687236" lon="-72.62538386">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="3780"/>
-    <tag k="addr:street" v="Laporte Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="170475"/>
   </node>
   <node id="-1776" visible="true" lat="44.51679983" lon="-72.59362878">
     <tag k="addr:city" v="Morrisville"/>
@@ -6832,13 +6769,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="170736"/>
   </node>
-  <node id="-2025" visible="true" lat="44.53376727" lon="-72.69219521">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="437"/>
-    <tag k="addr:street" v="Ron Terrill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="170737"/>
-  </node>
   <node id="-2026" visible="true" lat="44.54452107" lon="-72.63355157">
     <tag k="addr:city" v="Morrisville"/>
     <tag k="addr:housenumber" v="154"/>
@@ -7028,13 +6958,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="170783"/>
   </node>
-  <node id="-2070" visible="true" lat="44.53190336" lon="-72.69378418">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="455"/>
-    <tag k="addr:street" v="Ron Terrill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="170784"/>
-  </node>
   <node id="-2071" visible="true" lat="44.54620422" lon="-72.62852145">
     <tag k="addr:city" v="Morrisville"/>
     <tag k="addr:housenumber" v="2103"/>
@@ -7139,13 +7062,6 @@
     <tag k="addr:street" v="Vermont Route 15 East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="170812"/>
-  </node>
-  <node id="-2099" visible="true" lat="44.55711487" lon="-72.54384034">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="282"/>
-    <tag k="addr:street" v="Lazy Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="170813"/>
   </node>
   <node id="-2100" visible="true" lat="44.54239811" lon="-72.62940097">
     <tag k="addr:city" v="Morrisville"/>
@@ -7300,13 +7216,6 @@
     <tag k="addr:street" v="Ferland Pit Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="170861"/>
-  </node>
-  <node id="-2148" visible="true" lat="44.5302156" lon="-72.69470224">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="301"/>
-    <tag k="addr:street" v="Ron Terrill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="170862"/>
   </node>
   <node id="-2149" visible="true" lat="44.54330448" lon="-72.64131085">
     <tag k="addr:city" v="Morrisville"/>
@@ -7832,13 +7741,6 @@
     <tag k="addr:street" v="Garfield Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307376"/>
-  </node>
-  <node id="-2262" visible="true" lat="44.55504977" lon="-72.5892002">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Doctor Tinker Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="307378"/>
   </node>
   <node id="-2265" visible="true" lat="44.55043412" lon="-72.65853784">
     <tag k="addr:city" v="Morrisville"/>
@@ -8792,13 +8694,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450002"/>
   </node>
-  <node id="-2472" visible="true" lat="44.54158455" lon="-72.61741018">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="1905"/>
-    <tag k="addr:street" v="Laporte Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450005"/>
-  </node>
   <node id="-2474" visible="true" lat="44.54733581" lon="-72.62938156">
     <tag k="addr:city" v="Morrisville"/>
     <tag k="addr:housenumber" v="2040"/>
@@ -9639,13 +9534,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754960"/>
   </node>
-  <node id="-2662" visible="true" lat="44.52373125" lon="-72.61870619">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Goeltz Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755307"/>
-  </node>
   <node id="-2663" visible="true" lat="44.52341983" lon="-72.61706138">
     <tag k="addr:city" v="Morrisville"/>
     <tag k="addr:housenumber" v="110"/>
@@ -10107,13 +9995,6 @@
     <tag k="addr:street" v="Harrel Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759703"/>
-  </node>
-  <node id="-2734" visible="true" lat="44.51652298" lon="-72.62318985">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="3778"/>
-    <tag k="addr:street" v="Laporte Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="759816"/>
   </node>
   <node id="-2735" visible="true" lat="44.52240019" lon="-72.60695938">
     <tag k="addr:city" v="Morrisville"/>

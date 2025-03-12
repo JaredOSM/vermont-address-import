@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-147" visible="true" lat="44.89792447" lon="-72.05782491">
-    <!-- conflict: "1165 Vermont Route 105, , VT" No match in OSM, but a different address exists <5m away: "1155 State Route 105, , " -->
-    <tag k="addr:housenumber" v="1165"/>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-364" visible="true" lat="44.8600431" lon="-72.03367862">
+    <!-- conflict: "44 Willis Road, , VT" No match in OSM, but a different address exists <5m away: "44 McDonald, , " -->
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Willis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62697"/>
+  </node>
+  <node id="-406" visible="true" lat="44.85513343" lon="-72.03400865">
+    <!-- conflict: "4520 Vermont Route 105, , VT" No match in OSM, but a different address exists <5m away: "4520 , , " -->
+    <tag k="addr:housenumber" v="4520"/>
     <tag k="addr:street" v="Vermont Route 105"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="62477"/>
+    <tag k="ref:vcgi:esiteid" v="62739"/>
   </node>
   <node id="-529" visible="true" lat="44.83773305" lon="-71.98981337">
     <!-- conflict: "7066 Vermont Route 105, , VT" No match in OSM, but a different address exists <5m away: " Vermont Route 105, Charleston, VT" -->

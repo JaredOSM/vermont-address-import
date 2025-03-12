@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-911" visible="true" lat="43.39702184" lon="-72.69788283">
     <!-- offset: "14 High Street, Ludlow, VT" Significant offset - 127.4m -->
     <tag k="addr:city" v="Ludlow"/>
@@ -9,19 +9,11 @@
     <tag k="ref:vcgi:esiteid" v="143416"/>
   </node>
   <node id="-2726" visible="true" lat="43.42425447" lon="-72.66429029">
-    <!-- offset: "300 Barker Road, Ludlow, VT" Significant offset - 204.1m -->
+    <!-- offset: "300 Barker Road, Ludlow, VT" Significant offset - 203.1m -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:street" v="Barker Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="618320"/>
-  </node>
-  <node id="-2727" visible="true" lat="43.42655614" lon="-72.66186215">
-    <!-- offset: "402 Barker Road, Ludlow, VT" Significant offset - 358.9m -->
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="402"/>
-    <tag k="addr:street" v="Barker Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="618321"/>
   </node>
 </osm>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="43.6723191" lon="-72.69594945">
     <tag k="addr:housenumber" v="879"/>
     <tag k="addr:street" v="Barnard Chateauguay Road"/>
@@ -402,6 +402,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="37037"/>
   </node>
+  <node id="-663" visible="true" lat="43.61836172" lon="-72.65752278">
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:street" v="Wemple Knoll Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="37040"/>
+  </node>
   <node id="-676" visible="true" lat="43.59140285" lon="-72.66021858">
     <tag k="addr:housenumber" v="146"/>
     <tag k="addr:street" v="Bridgewater Center Road"/>
@@ -431,12 +437,6 @@
     <tag k="addr:street" v="Kinderwoods Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="37073"/>
-  </node>
-  <node id="-708" visible="true" lat="43.60120225" lon="-72.67898413">
-    <tag k="addr:housenumber" v="4269"/>
-    <tag k="addr:street" v="U.S. Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306981"/>
   </node>
   <node id="-709" visible="true" lat="43.66202826" lon="-72.69514928">
     <tag k="addr:housenumber" v="249"/>
@@ -839,12 +839,6 @@
     <tag k="addr:street" v="U.S. Route 4"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050390"/>
-  </node>
-  <node id="-825" visible="true" lat="43.67018048" lon="-72.6285083">
-    <tag k="addr:housenumber" v="1485"/>
-    <tag k="addr:street" v="Green Gate Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1050954"/>
   </node>
   <node id="-826" visible="true" lat="43.64534934" lon="-72.60284144">
     <tag k="addr:housenumber" v="4287"/>

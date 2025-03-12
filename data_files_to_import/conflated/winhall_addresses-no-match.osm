@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-111" visible="true" lat="43.20864486" lon="-72.98529052">
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:street" v="Bromley Forest Road"/>
@@ -785,12 +785,6 @@
     <tag k="addr:street" v="French Hollow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297162"/>
-  </node>
-  <node id="-336" visible="true" lat="43.1881624" lon="-72.86684865">
-    <tag k="addr:housenumber" v="474"/>
-    <tag k="addr:street" v="Winhall Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297163"/>
   </node>
   <node id="-337" visible="true" lat="43.18769976" lon="-72.92044413">
     <tag k="addr:housenumber" v="135"/>
@@ -2832,23 +2826,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297573"/>
   </node>
-  <node id="-744" visible="true" lat="43.14802169" lon="-72.88037872">
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Winhall Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297575"/>
-  </node>
   <node id="-745" visible="true" lat="43.14768981" lon="-72.89174652">
     <tag k="addr:housenumber" v="138"/>
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297577"/>
-  </node>
-  <node id="-746" visible="true" lat="43.14765406" lon="-72.8796291">
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Winhall Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297578"/>
   </node>
   <node id="-747" visible="true" lat="43.14757156" lon="-72.90091705">
     <tag k="addr:housenumber" v="182"/>
@@ -2856,65 +2838,17 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297579"/>
   </node>
-  <node id="-748" visible="true" lat="43.1468584" lon="-72.88285453">
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Ravenwood Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297580"/>
-  </node>
-  <node id="-749" visible="true" lat="43.14745937" lon="-72.87738912">
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297581"/>
-  </node>
-  <node id="-750" visible="true" lat="43.14745803" lon="-72.87793412">
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297582"/>
-  </node>
   <node id="-751" visible="true" lat="43.14739227" lon="-72.89911651">
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Stratton View Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297583"/>
   </node>
-  <node id="-752" visible="true" lat="43.14741463" lon="-72.87778399">
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297584"/>
-  </node>
-  <node id="-753" visible="true" lat="43.14736908" lon="-72.87803341">
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297585"/>
-  </node>
-  <node id="-754" visible="true" lat="43.14736492" lon="-72.877277">
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297586"/>
-  </node>
   <node id="-755" visible="true" lat="43.14730453" lon="-72.8979721">
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Stratton View Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297587"/>
-  </node>
-  <node id="-756" visible="true" lat="43.14724701" lon="-72.87810208">
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297588"/>
-  </node>
-  <node id="-757" visible="true" lat="43.14728818" lon="-72.87717346">
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297589"/>
   </node>
   <node id="-758" visible="true" lat="43.14718246" lon="-72.8984375">
     <tag k="addr:housenumber" v="2"/>
@@ -2928,59 +2862,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297591"/>
   </node>
-  <node id="-760" visible="true" lat="43.14716753" lon="-72.87819832">
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297592"/>
-  </node>
-  <node id="-761" visible="true" lat="43.1470713" lon="-72.87698485">
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297593"/>
-  </node>
-  <node id="-762" visible="true" lat="43.14686612" lon="-72.87782095">
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Byington Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297594"/>
-  </node>
-  <node id="-763" visible="true" lat="43.14693516" lon="-72.87691848">
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297595"/>
-  </node>
   <node id="-764" visible="true" lat="43.14686202" lon="-72.8960266">
     <tag k="addr:housenumber" v="152"/>
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297596"/>
-  </node>
-  <node id="-765" visible="true" lat="43.14683479" lon="-72.87687804">
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297597"/>
-  </node>
-  <node id="-766" visible="true" lat="43.14675107" lon="-72.87776619">
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Byington Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297598"/>
-  </node>
-  <node id="-767" visible="true" lat="43.14664044" lon="-72.87766701">
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Byington Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297599"/>
-  </node>
-  <node id="-768" visible="true" lat="43.14669746" lon="-72.8768399">
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297600"/>
   </node>
   <node id="-769" visible="true" lat="43.14655304" lon="-72.89408874">
     <tag k="addr:housenumber" v="146"/>
@@ -2988,59 +2874,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297601"/>
   </node>
-  <node id="-770" visible="true" lat="43.14654314" lon="-72.87825449">
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Byington Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297602"/>
-  </node>
-  <node id="-771" visible="true" lat="43.14654889" lon="-72.87758309">
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Byington Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297603"/>
-  </node>
-  <node id="-773" visible="true" lat="43.1465175" lon="-72.87688624">
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297606"/>
-  </node>
-  <node id="-774" visible="true" lat="43.1464287" lon="-72.87819345">
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Byington Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297607"/>
-  </node>
   <node id="-775" visible="true" lat="43.14640426" lon="-72.89272308">
     <tag k="addr:housenumber" v="140"/>
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297608"/>
-  </node>
-  <node id="-776" visible="true" lat="43.14643616" lon="-72.87752129">
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Byington Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297609"/>
-  </node>
-  <node id="-777" visible="true" lat="43.14634859" lon="-72.87811716">
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Byington Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297610"/>
-  </node>
-  <node id="-778" visible="true" lat="43.14640307" lon="-72.87696253">
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297611"/>
-  </node>
-  <node id="-779" visible="true" lat="43.14643013" lon="-72.87991648">
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Winhall Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297612"/>
   </node>
   <node id="-780" visible="true" lat="43.14628601" lon="-72.89766693">
     <tag k="addr:housenumber" v="163"/>
@@ -3054,59 +2892,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297614"/>
   </node>
-  <node id="-782" visible="true" lat="43.14633059" lon="-72.87703883">
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297615"/>
-  </node>
-  <node id="-784" visible="true" lat="43.1462278" lon="-72.87802783">
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Byington Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297617"/>
-  </node>
   <node id="-785" visible="true" lat="43.14615631" lon="-72.89118957">
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Short Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297618"/>
-  </node>
-  <node id="-787" visible="true" lat="43.14621615" lon="-72.87713801">
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297620"/>
-  </node>
-  <node id="-788" visible="true" lat="43.14611313" lon="-72.87795795">
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Byington Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297621"/>
-  </node>
-  <node id="-790" visible="true" lat="43.14603379" lon="-72.8780724">
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297623"/>
-  </node>
-  <node id="-791" visible="true" lat="43.14590548" lon="-72.87959938">
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Winhall Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297624"/>
-  </node>
-  <node id="-792" visible="true" lat="43.14609789" lon="-72.87726008">
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297625"/>
-  </node>
-  <node id="-793" visible="true" lat="43.1459459" lon="-72.87817075">
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297626"/>
   </node>
   <node id="-794" visible="true" lat="43.14583245" lon="-72.89826714">
     <tag k="addr:housenumber" v="8"/>
@@ -3120,12 +2910,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297628"/>
   </node>
-  <node id="-796" visible="true" lat="43.14585921" lon="-72.87829452">
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297629"/>
-  </node>
   <node id="-797" visible="true" lat="43.14578624" lon="-72.87685993">
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Avison Road"/>
@@ -3138,35 +2922,17 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297632"/>
   </node>
-  <node id="-800" visible="true" lat="43.1457138" lon="-72.87767028">
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297634"/>
-  </node>
   <node id="-801" visible="true" lat="43.14570554" lon="-72.87707435">
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Avison Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297635"/>
   </node>
-  <node id="-802" visible="true" lat="43.14564514" lon="-72.87780761">
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Winhall Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297636"/>
-  </node>
   <node id="-803" visible="true" lat="43.14564206" lon="-72.89620245">
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Lower Taylor Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297637"/>
-  </node>
-  <node id="-804" visible="true" lat="43.14557089" lon="-72.88000924">
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Winhall Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297638"/>
   </node>
   <node id="-805" visible="true" lat="43.14577433" lon="-72.87481471">
     <tag k="addr:housenumber" v="13"/>
@@ -3192,18 +2958,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297643"/>
   </node>
-  <node id="-810" visible="true" lat="43.1453701" lon="-72.87992169">
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Winhall Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297644"/>
-  </node>
-  <node id="-811" visible="true" lat="43.14512143" lon="-72.88420083">
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Vermont Route 30"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297645"/>
-  </node>
   <node id="-812" visible="true" lat="43.1451683" lon="-72.89052581">
     <tag k="addr:housenumber" v="126"/>
     <tag k="addr:street" v="Vermont Route 30"/>
@@ -3222,18 +2976,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297648"/>
   </node>
-  <node id="-816" visible="true" lat="43.14499664" lon="-72.88495636">
-    <tag k="addr:housenumber" v="94"/>
-    <tag k="addr:street" v="Vermont Route 30"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297650"/>
-  </node>
-  <node id="-818" visible="true" lat="43.14484495" lon="-72.88711699">
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Park Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297653"/>
-  </node>
   <node id="-819" visible="true" lat="43.1448875" lon="-72.87346508">
     <tag k="addr:housenumber" v="32"/>
     <tag k="addr:street" v="Vermont Route 30"/>
@@ -3245,12 +2987,6 @@
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297655"/>
-  </node>
-  <node id="-821" visible="true" lat="43.14472198" lon="-72.88575744">
-    <tag k="addr:housenumber" v="98"/>
-    <tag k="addr:street" v="Vermont Route 30"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297656"/>
   </node>
   <node id="-822" visible="true" lat="43.14476897" lon="-72.87622295">
     <tag k="addr:housenumber" v="3"/>
@@ -3299,12 +3035,6 @@
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297666"/>
-  </node>
-  <node id="-834" visible="true" lat="43.14445403" lon="-72.88730487">
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Park Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="297670"/>
   </node>
   <node id="-835" visible="true" lat="43.14443588" lon="-72.89037323">
     <tag k="addr:housenumber" v="121"/>
@@ -6276,12 +6006,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298405"/>
   </node>
-  <node id="-1515" visible="true" lat="43.14490385" lon="-72.88599057">
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Park Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298406"/>
-  </node>
   <node id="-1516" visible="true" lat="43.14414664" lon="-72.87733057">
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:street" v="Vermont Route 30"/>
@@ -6971,12 +6695,6 @@
     <tag k="addr:street" v="Rogues Ridge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298568"/>
-  </node>
-  <node id="-1665" visible="true" lat="43.12739188" lon="-72.91337576">
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Mountain View Road Extension"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298569"/>
   </node>
   <node id="-1666" visible="true" lat="43.12973432" lon="-72.88171905">
     <tag k="addr:housenumber" v="21"/>
@@ -7728,12 +7446,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="327262"/>
   </node>
-  <node id="-1804" visible="true" lat="43.1449373" lon="-72.87790302">
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Winhall Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="327265"/>
-  </node>
   <node id="-1807" visible="true" lat="43.19232154" lon="-72.95571292">
     <tag k="addr:housenumber" v="91"/>
     <tag k="addr:street" v="Sylvan Ridge Road"/>
@@ -7757,18 +7469,6 @@
     <tag k="addr:street" v="Ravenwood Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="331139"/>
-  </node>
-  <node id="-1812" visible="true" lat="43.14582867" lon="-72.88266465">
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Ravenwood Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="331140"/>
-  </node>
-  <node id="-1813" visible="true" lat="43.14651796" lon="-72.88122473">
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Whispering Pines Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="331141"/>
   </node>
   <node id="-1814" visible="true" lat="43.17974001" lon="-72.90118225">
     <tag k="addr:housenumber" v="262"/>
@@ -8003,12 +7703,6 @@
     <tag k="addr:street" v="Sylvan Ridge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620672"/>
-  </node>
-  <node id="-1861" visible="true" lat="43.14567132" lon="-72.88102717">
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Whispering Pines Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620673"/>
   </node>
   <node id="-1862" visible="true" lat="43.12860675" lon="-72.8847242">
     <tag k="addr:housenumber" v="64"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="42.76665778" lon="-72.64543425">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="276"/>
@@ -13,13 +13,6 @@
     <tag k="addr:street" v="Lee Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="41"/>
-  </node>
-  <node id="-104" visible="true" lat="42.79188586" lon="-72.59707657">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Carriage Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326"/>
   </node>
   <node id="-107" visible="true" lat="42.74512128" lon="-72.56896944">
     <tag k="addr:city" v="Guilford"/>
@@ -2030,20 +2023,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117123"/>
   </node>
-  <node id="-444" visible="true" lat="42.80257685" lon="-72.60039931">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="117"/>
-    <tag k="addr:street" v="Tinker Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117124"/>
-  </node>
-  <node id="-445" visible="true" lat="42.80249763" lon="-72.60017848">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="101"/>
-    <tag k="addr:street" v="Tinker Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117125"/>
-  </node>
   <node id="-446" visible="true" lat="42.80248243" lon="-72.65264911">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="1680"/>
@@ -2078,13 +2057,6 @@
     <tag k="addr:street" v="Guilford Center Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117130"/>
-  </node>
-  <node id="-452" visible="true" lat="42.80181087" lon="-72.59956083">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Tinker Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117133"/>
   </node>
   <node id="-453" visible="true" lat="42.80182224" lon="-72.60902629">
     <tag k="addr:city" v="Guilford"/>
@@ -2142,13 +2114,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117141"/>
   </node>
-  <node id="-461" visible="true" lat="42.801217" lon="-72.5992657">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Bullock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117142"/>
-  </node>
   <node id="-462" visible="true" lat="42.80113365" lon="-72.60422721">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="270"/>
@@ -2156,26 +2121,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117143"/>
   </node>
-  <node id="-463" visible="true" lat="42.80094141" lon="-72.59859447">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117144"/>
-  </node>
   <node id="-464" visible="true" lat="42.80086208" lon="-72.57220779">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="62"/>
     <tag k="addr:street" v="Butternut Hill Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117145"/>
-  </node>
-  <node id="-465" visible="true" lat="42.80070815" lon="-72.62235285">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="374"/>
-    <tag k="addr:street" v="School Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117146"/>
   </node>
   <node id="-466" visible="true" lat="42.80041584" lon="-72.6085866">
     <tag k="addr:city" v="Guilford"/>
@@ -2218,13 +2169,6 @@
     <tag k="addr:street" v="Hinesburg Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117152"/>
-  </node>
-  <node id="-472" visible="true" lat="42.79972568" lon="-72.59829769">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117153"/>
   </node>
   <node id="-473" visible="true" lat="42.7997325" lon="-72.60447241">
     <tag k="addr:city" v="Guilford"/>
@@ -2380,13 +2324,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117175"/>
   </node>
-  <node id="-495" visible="true" lat="42.79744864" lon="-72.59819838">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="271"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117176"/>
-  </node>
   <node id="-496" visible="true" lat="42.79774599" lon="-72.66529189">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="72"/>
@@ -2407,13 +2344,6 @@
     <tag k="addr:street" v="Cemetery Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117179"/>
-  </node>
-  <node id="-499" visible="true" lat="42.79739539" lon="-72.60063831">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117180"/>
   </node>
   <node id="-500" visible="true" lat="42.79696639" lon="-72.67657989">
     <tag k="addr:city" v="Guilford"/>
@@ -2457,20 +2387,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117187"/>
   </node>
-  <node id="-506" visible="true" lat="42.79601056" lon="-72.59825052">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="377"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117188"/>
-  </node>
-  <node id="-507" visible="true" lat="42.79621275" lon="-72.5988997">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="372"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117189"/>
-  </node>
   <node id="-508" visible="true" lat="42.79558788" lon="-72.66453439">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="202"/>
@@ -2505,13 +2421,6 @@
     <tag k="addr:street" v="Harris Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117194"/>
-  </node>
-  <node id="-513" visible="true" lat="42.7951744" lon="-72.59805175">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="435"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117195"/>
   </node>
   <node id="-514" visible="true" lat="42.79497946" lon="-72.66510583">
     <tag k="addr:city" v="Guilford"/>
@@ -2583,13 +2492,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117205"/>
   </node>
-  <node id="-524" visible="true" lat="42.79397326" lon="-72.59867444">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="522"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117206"/>
-  </node>
   <node id="-525" visible="true" lat="42.79371611" lon="-72.66761269">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="410"/>
@@ -2603,13 +2505,6 @@
     <tag k="addr:street" v="Guilford Center Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117208"/>
-  </node>
-  <node id="-527" visible="true" lat="42.79338422" lon="-72.5986712">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="564"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117209"/>
   </node>
   <node id="-528" visible="true" lat="42.79330713" lon="-72.62779768">
     <tag k="addr:city" v="Guilford"/>
@@ -2625,33 +2520,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117211"/>
   </node>
-  <node id="-530" visible="true" lat="42.79300109" lon="-72.59814284">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="585"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117212"/>
-  </node>
-  <node id="-531" visible="true" lat="42.79301035" lon="-72.59411863">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Oles Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117213"/>
-  </node>
   <node id="-532" visible="true" lat="42.79277229" lon="-72.62397026">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="3995"/>
     <tag k="addr:street" v="Guilford Center Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117214"/>
-  </node>
-  <node id="-533" visible="true" lat="42.79282472" lon="-72.5986203">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="600"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117215"/>
   </node>
   <node id="-534" visible="true" lat="42.79285406" lon="-72.61734465">
     <tag k="addr:city" v="Guilford"/>
@@ -2674,27 +2548,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117218"/>
   </node>
-  <node id="-537" visible="true" lat="42.79252348" lon="-72.59229295">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="89"/>
-    <tag k="addr:street" v="Oles Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117219"/>
-  </node>
-  <node id="-538" visible="true" lat="42.79255549" lon="-72.59656148">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="Carriage Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117220"/>
-  </node>
-  <node id="-539" visible="true" lat="42.79251923" lon="-72.59804153">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="619"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117221"/>
-  </node>
   <node id="-540" visible="true" lat="42.7923878" lon="-72.62445779">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="4024"/>
@@ -2708,20 +2561,6 @@
     <tag k="addr:street" v="Cemetery Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117223"/>
-  </node>
-  <node id="-542" visible="true" lat="42.79218973" lon="-72.59871737">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="646"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117224"/>
-  </node>
-  <node id="-543" visible="true" lat="42.79211293" lon="-72.59805805">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="643"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117225"/>
   </node>
   <node id="-544" visible="true" lat="42.79213299" lon="-72.62451498">
     <tag k="addr:city" v="Guilford"/>
@@ -2744,27 +2583,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117228"/>
   </node>
-  <node id="-547" visible="true" lat="42.79207026" lon="-72.59780926">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Carriage Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117230"/>
-  </node>
-  <node id="-548" visible="true" lat="42.79194444" lon="-72.59409449">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="74"/>
-    <tag k="addr:street" v="Oles Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117231"/>
-  </node>
-  <node id="-549" visible="true" lat="42.79194531" lon="-72.59593691">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="137"/>
-    <tag k="addr:street" v="Carriage Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117232"/>
-  </node>
   <node id="-550" visible="true" lat="42.79178698" lon="-72.62663769">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="49"/>
@@ -2779,13 +2597,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117234"/>
   </node>
-  <node id="-552" visible="true" lat="42.79165169" lon="-72.59825446">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="679"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117235"/>
-  </node>
   <node id="-553" visible="true" lat="42.79157748" lon="-72.624027">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="4075"/>
@@ -2793,40 +2604,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117236"/>
   </node>
-  <node id="-554" visible="true" lat="42.79146543" lon="-72.59687699">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Carriage Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117237"/>
-  </node>
-  <node id="-555" visible="true" lat="42.7911884" lon="-72.59573734">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="140"/>
-    <tag k="addr:street" v="Carriage Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117238"/>
-  </node>
   <node id="-556" visible="true" lat="42.79122028" lon="-72.62421785">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="4099"/>
     <tag k="addr:street" v="Guilford Center Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117239"/>
-  </node>
-  <node id="-557" visible="true" lat="42.79111504" lon="-72.59642673">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:street" v="Carriage Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117240"/>
-  </node>
-  <node id="-558" visible="true" lat="42.79116657" lon="-72.59403798">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="Nasuta Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117241"/>
   </node>
   <node id="-559" visible="true" lat="42.79065683" lon="-72.62133532">
     <tag k="addr:city" v="Guilford"/>
@@ -2842,33 +2625,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117243"/>
   </node>
-  <node id="-561" visible="true" lat="42.79038769" lon="-72.59538949">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Nasuta Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117244"/>
-  </node>
   <node id="-562" visible="true" lat="42.79020461" lon="-72.62401052">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="109"/>
     <tag k="addr:street" v="Cemetery Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117245"/>
-  </node>
-  <node id="-563" visible="true" lat="42.78895224" lon="-72.59930838">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="866"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117246"/>
-  </node>
-  <node id="-564" visible="true" lat="42.78871624" lon="-72.59946947">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="868"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117247"/>
   </node>
   <node id="-565" visible="true" lat="42.78859973" lon="-72.6462295">
     <tag k="addr:city" v="Guilford"/>
@@ -2884,26 +2646,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117249"/>
   </node>
-  <node id="-567" visible="true" lat="42.78802662" lon="-72.59903143">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="937"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117250"/>
-  </node>
   <node id="-568" visible="true" lat="42.78769809" lon="-72.56718321">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="2857"/>
     <tag k="addr:street" v="Coolidge Highway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117251"/>
-  </node>
-  <node id="-569" visible="true" lat="42.78751024" lon="-72.59937935">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="969"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117252"/>
   </node>
   <node id="-570" visible="true" lat="42.78743345" lon="-72.64070008">
     <tag k="addr:city" v="Guilford"/>
@@ -2932,13 +2680,6 @@
     <tag k="addr:street" v="Sunrise Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117256"/>
-  </node>
-  <node id="-574" visible="true" lat="42.78734267" lon="-72.6007424">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="1054"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117257"/>
   </node>
   <node id="-575" visible="true" lat="42.78734566" lon="-72.57625849">
     <tag k="addr:city" v="Guilford"/>
@@ -3023,13 +2764,6 @@
     <tag k="addr:street" v="Stage Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117269"/>
-  </node>
-  <node id="-587" visible="true" lat="42.78555388" lon="-72.59902758">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="1145"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117270"/>
   </node>
   <node id="-588" visible="true" lat="42.78534701" lon="-72.60526258">
     <tag k="addr:city" v="Guilford"/>
@@ -3905,13 +3639,6 @@
     <tag k="addr:street" v="Great Blue Heron Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117450"/>
-  </node>
-  <node id="-758" visible="true" lat="42.76128355" lon="-72.60468726">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="Great Blue Heron Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117452"/>
   </node>
   <node id="-760" visible="true" lat="42.76117722" lon="-72.57106981">
     <tag k="addr:city" v="Guilford"/>
@@ -5306,13 +5033,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117701"/>
   </node>
-  <node id="-997" visible="true" lat="42.78849495" lon="-72.59655872">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="933"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117702"/>
-  </node>
   <node id="-998" visible="true" lat="42.77767321" lon="-72.56407076">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="285"/>
@@ -5417,20 +5137,6 @@
     <tag k="addr:street" v="Stable Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117722"/>
-  </node>
-  <node id="-1017" visible="true" lat="42.78981707" lon="-72.59843036">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="811"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117723"/>
-  </node>
-  <node id="-1018" visible="true" lat="42.78885531" lon="-72.59881864">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="881"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117725"/>
   </node>
   <node id="-1019" visible="true" lat="42.75669452" lon="-72.58087372">
     <tag k="addr:city" v="Guilford"/>
@@ -5628,13 +5334,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117755"/>
   </node>
-  <node id="-1048" visible="true" lat="42.79448094" lon="-72.5980087">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="495"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117756"/>
-  </node>
   <node id="-1049" visible="true" lat="42.8126994" lon="-72.5775663">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="234"/>
@@ -5648,13 +5347,6 @@
     <tag k="addr:street" v="Coolidge Highway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117759"/>
-  </node>
-  <node id="-1052" visible="true" lat="42.78669886" lon="-72.59837605">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="1065"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117760"/>
   </node>
   <node id="-1053" visible="true" lat="42.75477969" lon="-72.60691691">
     <tag k="addr:city" v="Guilford"/>
@@ -5676,13 +5368,6 @@
     <tag k="addr:street" v="Barney Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="117763"/>
-  </node>
-  <node id="-1056" visible="true" lat="42.78914012" lon="-72.60114933">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="1052"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="117766"/>
   </node>
   <node id="-1057" visible="true" lat="42.81996169" lon="-72.5735996">
     <tag k="addr:city" v="Guilford"/>
@@ -6062,13 +5747,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306193"/>
   </node>
-  <node id="-1116" visible="true" lat="42.80121373" lon="-72.59856103">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="1705"/>
-    <tag k="addr:street" v="Guilford Center Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306806"/>
-  </node>
   <node id="-1117" visible="true" lat="42.81943246" lon="-72.59035855">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="2353"/>
@@ -6223,13 +5901,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="326414"/>
   </node>
-  <node id="-1142" visible="true" lat="42.7891272" lon="-72.59735983">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="761"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326478"/>
-  </node>
   <node id="-1143" visible="true" lat="42.81763003" lon="-72.57570431">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="16"/>
@@ -6285,13 +5956,6 @@
     <tag k="addr:street" v="Timme Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="335133"/>
-  </node>
-  <node id="-1152" visible="true" lat="42.78962147" lon="-72.5987757">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="815"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="335134"/>
   </node>
   <node id="-1153" visible="true" lat="42.78914841" lon="-72.56388327">
     <tag k="addr:city" v="Guilford"/>
@@ -6412,13 +6076,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339939"/>
   </node>
-  <node id="-1171" visible="true" lat="42.79344513" lon="-72.59810679">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="561"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341609"/>
-  </node>
   <node id="-1172" visible="true" lat="42.80714965" lon="-72.57386847">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="679"/>
@@ -6516,13 +6173,6 @@
     <tag k="addr:street" v="Fairground Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="447249"/>
-  </node>
-  <node id="-1291" visible="true" lat="42.79176373" lon="-72.5937366">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:street" v="Oles Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="447274"/>
   </node>
   <node id="-1313" visible="true" lat="42.80942923" lon="-72.63276848">
     <tag k="addr:city" v="Guilford"/>
@@ -6727,13 +6377,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454474"/>
   </node>
-  <node id="-1768" visible="true" lat="42.79246835" lon="-72.60163598">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="696"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454476"/>
-  </node>
   <node id="-1771" visible="true" lat="42.74790752" lon="-72.57676907">
     <tag k="addr:city" v="Guilford"/>
     <tag k="addr:housenumber" v="495"/>
@@ -6796,13 +6439,6 @@
     <tag k="addr:street" v="Marynuk Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611862"/>
-  </node>
-  <node id="-1785" visible="true" lat="42.79228279" lon="-72.60205213">
-    <tag k="addr:city" v="Guilford"/>
-    <tag k="addr:housenumber" v="698"/>
-    <tag k="addr:street" v="Weatherhead Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="611863"/>
   </node>
   <node id="-1786" visible="true" lat="42.76150591" lon="-72.58807009">
     <tag k="addr:city" v="Guilford"/>

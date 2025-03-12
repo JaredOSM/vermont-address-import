@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-391" visible="true" lat="44.29452508" lon="-72.4561332">
     <!-- conflict: "2290 Vermont Route 14 North, , VT" No match in OSM, but a different address exists <5m away: "2290 Vt Route 14 North, East Montpelier, VT" -->
     <tag k="addr:housenumber" v="2290"/>
@@ -91,13 +91,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91386"/>
   </node>
-  <node id="-717" visible="true" lat="44.26943401" lon="-72.46306104">
-    <!-- conflict: "4173 U.S. Route 2, , VT" Fuzzy match to "4173 US Route 2, East Montpelier, " -->
-    <tag k="addr:housenumber" v="4173"/>
-    <tag k="addr:street" v="U.S. Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="91391"/>
-  </node>
   <node id="-718" visible="true" lat="44.26932144" lon="-72.4623413">
     <!-- conflict: "4213 U.S. Route 2, , VT" Fuzzy match to "4213 US Route 2, East Montpelier, " -->
     <tag k="addr:housenumber" v="4213"/>
@@ -147,34 +140,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91405"/>
   </node>
-  <node id="-842" visible="true" lat="44.25983318" lon="-72.53683188">
-    <!-- conflict: "268 Bliss Road, , VT" Fuzzy match to "268 Bliss Road, East Montpelier, " -->
-    <tag k="addr:housenumber" v="268"/>
-    <tag k="addr:street" v="Bliss Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="91522"/>
-  </node>
-  <node id="-845" visible="true" lat="44.25904222" lon="-72.53720234">
-    <!-- conflict: "254 Bliss Road, , VT" Fuzzy match to "254 Bliss Road, East Montpelier, " -->
-    <tag k="addr:housenumber" v="254"/>
-    <tag k="addr:street" v="Bliss Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="91525"/>
-  </node>
-  <node id="-850" visible="true" lat="44.25808047" lon="-72.5369415">
-    <!-- conflict: "204 Bliss Road, , VT" Fuzzy match to "204 Bliss Road, East Montpelier, " -->
-    <tag k="addr:housenumber" v="204"/>
-    <tag k="addr:street" v="Bliss Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="91530"/>
-  </node>
-  <node id="-858" visible="true" lat="44.25714493" lon="-72.53762155">
-    <!-- conflict: "128 Bliss Road, , VT" Fuzzy match to "128 Bliss Road, East Montpelier, " -->
-    <tag k="addr:housenumber" v="128"/>
-    <tag k="addr:street" v="Bliss Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="91538"/>
-  </node>
   <node id="-1005" visible="true" lat="44.2788485" lon="-72.55953252">
     <!-- conflict: "209 Gidney Place, , VT" Fuzzy match to "209 Gidney Road, East Montpelier, " -->
     <tag k="addr:housenumber" v="209"/>
@@ -203,27 +168,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91745"/>
   </node>
-  <node id="-1122" visible="true" lat="44.26924633" lon="-72.45547034">
-    <!-- conflict: "90 Cookson Drive, , VT" Fuzzy match to "90 Cookson Drive, East Montpelier, " -->
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Cookson Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="91804"/>
-  </node>
-  <node id="-1179" visible="true" lat="44.2702333" lon="-72.45511766">
-    <!-- conflict: "45 Cookson Drive, , VT" Fuzzy match to "45 Cookson Drive, East Montpelier, " -->
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Cookson Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="91862"/>
-  </node>
-  <node id="-1196" visible="true" lat="44.26872338" lon="-72.45467723">
-    <!-- conflict: "124 Cookson Drive, , VT" Fuzzy match to "124 Cookson Drive, East Montpelier, " -->
-    <tag k="addr:housenumber" v="124"/>
-    <tag k="addr:street" v="Cookson Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310613"/>
-  </node>
   <node id="-1208" visible="true" lat="44.26986003" lon="-72.46068989">
     <!-- conflict: "4239 U.S. Route 2, , VT" Fuzzy match to "4239 US Route 2, East Montpelier, " -->
     <tag k="addr:housenumber" v="4239"/>
@@ -237,13 +181,6 @@
     <tag k="addr:street" v="U.S. Route 2"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338353"/>
-  </node>
-  <node id="-1251" visible="true" lat="44.25372635" lon="-72.53456047">
-    <!-- conflict: "1332 Towne Hill Road, , VT" Fuzzy match to "1332 Towne Hill Road, East Montpelier, " -->
-    <tag k="addr:housenumber" v="1332"/>
-    <tag k="addr:street" v="Towne Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="340248"/>
   </node>
   <node id="-1292" visible="true" lat="44.26769995" lon="-72.49261552">
     <!-- conflict: "2541 U.S. Route 2, , VT" Fuzzy match to "2541 US Route 2, East Montpelier, VT" -->

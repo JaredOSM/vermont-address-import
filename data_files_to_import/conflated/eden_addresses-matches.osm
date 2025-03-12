@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-531" visible="true" lat="44.70171451" lon="-72.56230891">
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Nancy Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="92313"/>
+  </node>
   <node id="-617" visible="true" lat="44.68604725" lon="-72.59007836">
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Ober Hill Road"/>

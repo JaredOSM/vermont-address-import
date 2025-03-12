@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-102" visible="true" lat="43.62841529" lon="-72.45710776">
     <tag k="addr:housenumber" v="115"/>
     <tag k="addr:street" v="Town Line Road"/>
@@ -90,6 +90,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="124959"/>
   </node>
+  <node id="-135" visible="true" lat="43.61621735" lon="-72.40462799">
+    <tag k="addr:housenumber" v="361"/>
+    <tag k="addr:street" v="Clay Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124960"/>
+  </node>
   <node id="-136" visible="true" lat="43.61618756" lon="-72.45580291">
     <tag k="addr:housenumber" v="694"/>
     <tag k="addr:street" v="Vermont Route 12"/>
@@ -101,6 +107,12 @@
     <tag k="addr:street" v="Vermont Route 12"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="124963"/>
+  </node>
+  <node id="-143" visible="true" lat="43.61444443" lon="-72.40786599">
+    <tag k="addr:housenumber" v="525"/>
+    <tag k="addr:street" v="Quechee Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124968"/>
   </node>
   <node id="-146" visible="true" lat="43.61417627" lon="-72.45723326">
     <tag k="addr:housenumber" v="10"/>
@@ -258,12 +270,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125174"/>
   </node>
-  <node id="-349" visible="true" lat="43.59842588" lon="-72.46470165">
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Old Birch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="125175"/>
-  </node>
   <node id="-352" visible="true" lat="43.60072099" lon="-72.45091299">
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Babcock Brook Lane"/>
@@ -348,6 +354,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125216"/>
   </node>
+  <node id="-391" visible="true" lat="43.597704" lon="-72.47742766">
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Crystal Path"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125218"/>
+  </node>
   <node id="-392" visible="true" lat="43.59761398" lon="-72.45535708">
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Lord Road"/>
@@ -426,6 +438,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125266"/>
   </node>
+  <node id="-444" visible="true" lat="43.59539544" lon="-72.48212168">
+    <tag k="addr:housenumber" v="198"/>
+    <tag k="addr:street" v="Garvin Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125272"/>
+  </node>
   <node id="-449" visible="true" lat="43.59515615" lon="-72.45062128">
     <tag k="addr:housenumber" v="538"/>
     <tag k="addr:street" v="Vermont Route 12"/>
@@ -461,6 +479,12 @@
     <tag k="addr:street" v="Vermont Route 12"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125305"/>
+  </node>
+  <node id="-478" visible="true" lat="43.59259033" lon="-72.47993469">
+    <tag k="addr:housenumber" v="186"/>
+    <tag k="addr:street" v="Garvin Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125307"/>
   </node>
   <node id="-481" visible="true" lat="43.59236059" lon="-72.44949997">
     <tag k="addr:housenumber" v="519"/>
@@ -498,6 +522,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125374"/>
   </node>
+  <node id="-555" visible="true" lat="43.58879571" lon="-72.47930898">
+    <tag k="addr:housenumber" v="153"/>
+    <tag k="addr:street" v="Garvin Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125387"/>
+  </node>
+  <node id="-564" visible="true" lat="43.58803744" lon="-72.4775868">
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Garvin Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125396"/>
+  </node>
   <node id="-569" visible="true" lat="43.58475807" lon="-72.44454734">
     <tag k="addr:housenumber" v="484"/>
     <tag k="addr:street" v="Vermont Route 12"/>
@@ -527,6 +563,12 @@
     <tag k="addr:street" v="Hartland Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125452"/>
+  </node>
+  <node id="-621" visible="true" lat="43.58317947" lon="-72.4708023">
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Garvin Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125453"/>
   </node>
   <node id="-622" visible="true" lat="43.58304848" lon="-72.45032642">
     <tag k="addr:housenumber" v="5"/>
@@ -576,6 +618,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125474"/>
   </node>
+  <node id="-645" visible="true" lat="43.58063507" lon="-72.4713211">
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Garvin Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125477"/>
+  </node>
   <node id="-650" visible="true" lat="43.57971954" lon="-72.44412994">
     <tag k="addr:housenumber" v="422"/>
     <tag k="addr:street" v="Vermont Route 12"/>
@@ -600,11 +648,35 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125492"/>
   </node>
+  <node id="-662" visible="true" lat="43.57759097" lon="-72.49751646">
+    <tag k="addr:housenumber" v="310"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125495"/>
+  </node>
   <node id="-666" visible="true" lat="43.5764923" lon="-72.44458007">
     <tag k="addr:housenumber" v="405"/>
     <tag k="addr:street" v="Vermont Route 12"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125499"/>
+  </node>
+  <node id="-668" visible="true" lat="43.57637786" lon="-72.46690368">
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Garvin Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125501"/>
+  </node>
+  <node id="-690" visible="true" lat="43.57441592" lon="-72.47900564">
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125523"/>
+  </node>
+  <node id="-702" visible="true" lat="43.57342147" lon="-72.49580383">
+    <tag k="addr:housenumber" v="290"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125535"/>
   </node>
   <node id="-709" visible="true" lat="43.57246398" lon="-72.44303131">
     <tag k="addr:housenumber" v="371"/>
@@ -612,11 +684,41 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125542"/>
   </node>
+  <node id="-710" visible="true" lat="43.57250948" lon="-72.49455439">
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125543"/>
+  </node>
+  <node id="-711" visible="true" lat="43.57241821" lon="-72.48413848">
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125544"/>
+  </node>
   <node id="-721" visible="true" lat="43.5716771" lon="-72.4648158">
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Garvin Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125554"/>
+  </node>
+  <node id="-722" visible="true" lat="43.57165145" lon="-72.49820709">
+    <tag k="addr:housenumber" v="268"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125555"/>
+  </node>
+  <node id="-723" visible="true" lat="43.5719849" lon="-72.48264691">
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125556"/>
+  </node>
+  <node id="-725" visible="true" lat="43.57144046" lon="-72.48645056">
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125558"/>
   </node>
   <node id="-728" visible="true" lat="43.57136154" lon="-72.46956634">
     <tag k="addr:housenumber" v="7"/>
@@ -624,11 +726,41 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125561"/>
   </node>
+  <node id="-729" visible="true" lat="43.56875469" lon="-72.48268406">
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125563"/>
+  </node>
   <node id="-735" visible="true" lat="43.57051468" lon="-72.44422912">
     <tag k="addr:housenumber" v="359"/>
     <tag k="addr:street" v="Vermont Route 12"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125569"/>
+  </node>
+  <node id="-742" visible="true" lat="43.56996917" lon="-72.49737548">
+    <tag k="addr:housenumber" v="258"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125576"/>
+  </node>
+  <node id="-744" visible="true" lat="43.56984329" lon="-72.46678924">
+    <tag k="addr:housenumber" v="269"/>
+    <tag k="addr:street" v="Weed Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125578"/>
+  </node>
+  <node id="-749" visible="true" lat="43.5695297" lon="-72.47573422">
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125584"/>
+  </node>
+  <node id="-750" visible="true" lat="43.56946134" lon="-72.49973297">
+    <tag k="addr:housenumber" v="249"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125585"/>
   </node>
   <node id="-756" visible="true" lat="43.5692482" lon="-72.44646453">
     <tag k="addr:housenumber" v="35"/>
@@ -636,11 +768,41 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125591"/>
   </node>
+  <node id="-760" visible="true" lat="43.56894088" lon="-72.48842565">
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125595"/>
+  </node>
   <node id="-762" visible="true" lat="43.5686531" lon="-72.46783447">
     <tag k="addr:housenumber" v="257"/>
     <tag k="addr:street" v="Weed Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125597"/>
+  </node>
+  <node id="-763" visible="true" lat="43.56853746" lon="-72.49280668">
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125598"/>
+  </node>
+  <node id="-768" visible="true" lat="43.56807232" lon="-72.4935199">
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125603"/>
+  </node>
+  <node id="-769" visible="true" lat="43.5682962" lon="-72.47333471">
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125604"/>
+  </node>
+  <node id="-771" visible="true" lat="43.56812302" lon="-72.48976081">
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125606"/>
   </node>
   <node id="-773" visible="true" lat="43.56822204" lon="-72.44582367">
     <tag k="addr:housenumber" v="29"/>
@@ -660,11 +822,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125619"/>
   </node>
+  <node id="-787" visible="true" lat="43.567348" lon="-72.49927521">
+    <tag k="addr:housenumber" v="243"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125622"/>
+  </node>
   <node id="-789" visible="true" lat="43.56723022" lon="-72.44608306">
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:street" v="Beaver Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125624"/>
+  </node>
+  <node id="-791" visible="true" lat="43.56706237" lon="-72.49676513">
+    <tag k="addr:housenumber" v="234"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125626"/>
+  </node>
+  <node id="-802" visible="true" lat="43.56622863" lon="-72.49613897">
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125638"/>
   </node>
   <node id="-808" visible="true" lat="43.565876" lon="-72.44571685">
     <tag k="addr:housenumber" v="15"/>
@@ -672,11 +852,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125644"/>
   </node>
+  <node id="-814" visible="true" lat="43.56524446" lon="-72.49661237">
+    <tag k="addr:housenumber" v="223"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125650"/>
+  </node>
   <node id="-824" visible="true" lat="43.56438827" lon="-72.44174957">
     <tag k="addr:housenumber" v="93"/>
     <tag k="addr:street" v="Cobb Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125660"/>
+  </node>
+  <node id="-827" visible="true" lat="43.56409184" lon="-72.49633808">
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125663"/>
   </node>
   <node id="-831" visible="true" lat="43.56385803" lon="-72.44383239">
     <tag k="addr:housenumber" v="311"/>
@@ -714,11 +906,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125685"/>
   </node>
+  <node id="-850" visible="true" lat="43.56239318" lon="-72.49695587">
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125686"/>
+  </node>
   <node id="-851" visible="true" lat="43.56224822" lon="-72.44291686">
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:street" v="Vermont Route 12"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125687"/>
+  </node>
+  <node id="-852" visible="true" lat="43.56207141" lon="-72.48971816">
+    <tag k="addr:housenumber" v="174"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125688"/>
   </node>
   <node id="-862" visible="true" lat="43.56089401" lon="-72.44344329">
     <tag k="addr:housenumber" v="291"/>
@@ -792,6 +996,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125749"/>
   </node>
+  <node id="-915" visible="true" lat="43.55329659" lon="-72.48913111">
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125751"/>
+  </node>
   <node id="-918" visible="true" lat="43.55299163" lon="-72.47859136">
     <tag k="addr:housenumber" v="77"/>
     <tag k="addr:street" v="Densmore Hill Road"/>
@@ -804,11 +1014,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125756"/>
   </node>
+  <node id="-956" visible="true" lat="43.55056653" lon="-72.50659838">
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Morley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125792"/>
+  </node>
   <node id="-959" visible="true" lat="43.55038055" lon="-72.41432616">
     <tag k="addr:housenumber" v="28"/>
     <tag k="addr:street" v="Bowers Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125795"/>
+  </node>
+  <node id="-962" visible="true" lat="43.54988515" lon="-72.51357452">
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Peabody Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125798"/>
   </node>
   <node id="-968" visible="true" lat="43.5494194" lon="-72.40979003">
     <tag k="addr:housenumber" v="29"/>
@@ -1548,6 +1770,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126193"/>
   </node>
+  <node id="-1349" visible="true" lat="43.57083748" lon="-72.38331226">
+    <tag k="addr:housenumber" v="415"/>
+    <tag k="addr:street" v="U.S. Route 5"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126195"/>
+  </node>
   <node id="-1351" visible="true" lat="43.55280456" lon="-72.40862404">
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Ramona Lane"/>
@@ -1571,6 +1799,12 @@
     <tag k="addr:street" v="42nd Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126211"/>
+  </node>
+  <node id="-1366" visible="true" lat="43.54720325" lon="-72.49095319">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Dodge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126212"/>
   </node>
   <node id="-1419" visible="true" lat="43.54451914" lon="-72.39932817">
     <tag k="addr:housenumber" v="16"/>
@@ -1902,6 +2136,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126433"/>
   </node>
+  <node id="-1587" visible="true" lat="43.56956559" lon="-72.49319365">
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126439"/>
+  </node>
+  <node id="-1588" visible="true" lat="43.56059944" lon="-72.49093257">
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126440"/>
+  </node>
   <node id="-1596" visible="true" lat="43.54310695" lon="-72.38992737">
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Fox Den Road"/>
@@ -1919,6 +2165,12 @@
     <tag k="addr:street" v="Fox Den Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126450"/>
+  </node>
+  <node id="-1605" visible="true" lat="43.57296491" lon="-72.48763112">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126460"/>
   </node>
   <node id="-1606" visible="true" lat="43.59026646" lon="-72.4491997">
     <tag k="addr:housenumber" v="6"/>
@@ -1992,6 +2244,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="331893"/>
   </node>
+  <node id="-1669" visible="true" lat="43.57107897" lon="-72.49368798">
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="334229"/>
+  </node>
+  <node id="-1672" visible="true" lat="43.57646003" lon="-72.4934512">
+    <tag k="addr:housenumber" v="306"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336210"/>
+  </node>
   <node id="-1678" visible="true" lat="43.55157384" lon="-72.40826154">
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="Merritt Road"/>
@@ -2034,6 +2298,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342592"/>
   </node>
+  <node id="-1706" visible="true" lat="43.56469741" lon="-72.49910137">
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342805"/>
+  </node>
   <node id="-1713" visible="true" lat="43.5371714" lon="-72.49311282">
     <tag k="addr:housenumber" v="39"/>
     <tag k="addr:street" v="Jenne Road"/>
@@ -2064,11 +2334,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452925"/>
   </node>
+  <node id="-1730" visible="true" lat="43.59660144" lon="-72.47612755">
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Crystal Path"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="453179"/>
+  </node>
+  <node id="-1731" visible="true" lat="43.57432387" lon="-72.49854252">
+    <tag k="addr:housenumber" v="288"/>
+    <tag k="addr:street" v="Densmore Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="453615"/>
+  </node>
   <node id="-1740" visible="true" lat="43.54360281" lon="-72.50132967">
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Jenne Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611774"/>
+  </node>
+  <node id="-1806" visible="true" lat="43.59567971" lon="-72.4744319">
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Crystal Path"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753585"/>
+  </node>
+  <node id="-1816" visible="true" lat="43.56844009" lon="-72.49166831">
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Cream Pot Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756220"/>
+  </node>
+  <node id="-1865" visible="true" lat="43.61499854" lon="-72.40762156">
+    <tag k="addr:housenumber" v="531"/>
+    <tag k="addr:street" v="Quechee Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764408"/>
+  </node>
+  <node id="-1866" visible="true" lat="43.61602153" lon="-72.40803483">
+    <tag k="addr:housenumber" v="535"/>
+    <tag k="addr:street" v="Quechee Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764409"/>
   </node>
   <node id="-1871" visible="true" lat="43.54268785" lon="-72.40082556">
     <tag k="addr:housenumber" v="18"/>

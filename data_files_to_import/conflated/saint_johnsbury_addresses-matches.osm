@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-152" visible="true" lat="44.49198477" lon="-72.00663225">
+    <!-- match: "4357 Memorial Drive, , VT"  ignoring missing state when matching to "4357 Memorial Drive, Saint Johnsbury, " -->
+    <tag k="addr:housenumber" v="4357"/>
+    <tag k="addr:street" v="Memorial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="244276"/>
+  </node>
   <node id="-189" visible="true" lat="44.48604047" lon="-72.00919488">
     <tag k="addr:housenumber" v="509"/>
     <tag k="addr:street" v="Pierce Road"/>
@@ -570,6 +577,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244843"/>
   </node>
+  <node id="-673" visible="true" lat="44.44700225" lon="-72.01617916">
+    <tag k="addr:housenumber" v="1009"/>
+    <tag k="addr:street" v="Memorial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="244844"/>
+  </node>
   <node id="-676" visible="true" lat="44.44663166" lon="-72.0138653">
     <tag k="addr:housenumber" v="196"/>
     <tag k="addr:street" v="Mountain View Drive"/>
@@ -642,6 +655,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244869"/>
   </node>
+  <node id="-698" visible="true" lat="44.44576542" lon="-72.00957524">
+    <!-- match: "1315 Hospital Drive, , VT"  ignoring missing state when matching to "1315 Hospital Drive, Saint Johnsbury, " -->
+    <tag k="addr:housenumber" v="1315"/>
+    <tag k="addr:street" v="Hospital Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="244871"/>
+  </node>
   <node id="-704" visible="true" lat="44.44511777" lon="-72.00662161">
     <tag k="addr:housenumber" v="1453"/>
     <tag k="addr:street" v="Hospital Drive"/>
@@ -665,12 +685,6 @@
     <tag k="addr:street" v="Hospital Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244891"/>
-  </node>
-  <node id="-739" visible="true" lat="44.44205905" lon="-72.01405702">
-    <tag k="addr:housenumber" v="664"/>
-    <tag k="addr:street" v="Memorial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244920"/>
   </node>
   <node id="-740" visible="true" lat="44.44190393" lon="-72.01906654">
     <tag k="addr:housenumber" v="818"/>
@@ -696,6 +710,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244947"/>
   </node>
+  <node id="-767" visible="true" lat="44.43994704" lon="-72.01322176">
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:street" v="Memorial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="244950"/>
+  </node>
   <node id="-779" visible="true" lat="44.43872451" lon="-72.01886749">
     <tag k="addr:housenumber" v="594"/>
     <tag k="addr:street" v="Old Center Road"/>
@@ -713,6 +733,12 @@
     <tag k="addr:street" v="U.S. Route 2 East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244965"/>
+  </node>
+  <node id="-785" visible="true" lat="44.43847057" lon="-72.01628942">
+    <tag k="addr:housenumber" v="371"/>
+    <tag k="addr:street" v="Memorial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="244968"/>
   </node>
   <node id="-793" visible="true" lat="44.43815231" lon="-72.01899719">
     <tag k="addr:housenumber" v="557"/>
@@ -810,6 +836,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245107"/>
   </node>
+  <node id="-915" visible="true" lat="44.4332653" lon="-72.01677441">
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Memorial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="245112"/>
+  </node>
   <node id="-918" visible="true" lat="44.43308746" lon="-72.01010675">
     <tag k="addr:housenumber" v="543"/>
     <tag k="addr:street" v="Pleasant Street"/>
@@ -858,11 +890,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245150"/>
   </node>
-  <node id="-947" visible="true" lat="44.43213611" lon="-72.01686599">
-    <tag k="addr:housenumber" v="22"/>
+  <node id="-948" visible="true" lat="44.43221863" lon="-72.01773952">
+    <!-- match: "21 Memorial Drive, , VT"  ignoring missing state when matching to "21 Memorial Drive, St. Johnsbury, " -->
+    <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="Memorial Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="245152"/>
+    <tag k="ref:vcgi:esiteid" v="245153"/>
   </node>
   <node id="-949" visible="true" lat="44.43211355" lon="-72.01235733">
     <tag k="addr:housenumber" v="258"/>
@@ -1320,6 +1353,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245265"/>
   </node>
+  <node id="-1052" visible="true" lat="44.42909626" lon="-71.96554006">
+    <!-- match: "2870 Portland Street, , VT"  ignoring missing state when matching to "2870 Portland Street, , " -->
+    <tag k="addr:housenumber" v="2870"/>
+    <tag k="addr:street" v="Portland Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="245266"/>
+  </node>
   <node id="-1054" visible="true" lat="44.43030316" lon="-72.01293245">
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Emerson Street"/>
@@ -1343,6 +1383,12 @@
     <tag k="addr:street" v="Waterman Circle"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245275"/>
+  </node>
+  <node id="-1061" visible="true" lat="44.43010499" lon="-72.01738185">
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Memorial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="245277"/>
   </node>
   <node id="-1062" visible="true" lat="44.42995834" lon="-72.00813293">
     <tag k="addr:housenumber" v="257"/>
@@ -1830,6 +1876,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245658"/>
   </node>
+  <node id="-1404" visible="true" lat="44.42428342" lon="-72.01500732">
+    <!-- match: "815 Railroad Street, , VT"  ignoring missing state when matching to "815 Railroad Street, St. Johnsbury, " -->
+    <tag k="addr:housenumber" v="815"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="245660"/>
+  </node>
   <node id="-1406" visible="true" lat="44.42422847" lon="-72.02249482">
     <tag k="addr:housenumber" v="370"/>
     <tag k="addr:street" v="Cliff Street"/>
@@ -1889,6 +1942,13 @@
     <tag k="addr:street" v="Summer Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245698"/>
+  </node>
+  <node id="-1437" visible="true" lat="44.42385444" lon="-72.01436149">
+    <!-- match: "784 Railroad Street, , VT"  ignoring missing state when matching to "784 Railroad Street, St. Johnsbury, " -->
+    <tag k="addr:housenumber" v="784"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="245699"/>
   </node>
   <node id="-1443" visible="true" lat="44.42380078" lon="-72.02204987">
     <tag k="addr:housenumber" v="339"/>
@@ -1986,6 +2046,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245788"/>
   </node>
+  <node id="-1523" visible="true" lat="44.42291908" lon="-72.01446907">
+    <!-- match: "716 Railroad Street, , VT"  ignoring missing state when matching to "716 Railroad Street, St. Johnsbury, " -->
+    <tag k="addr:housenumber" v="716"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="245793"/>
+  </node>
   <node id="-1534" visible="true" lat="44.42278636" lon="-72.02060619">
     <tag k="addr:housenumber" v="522"/>
     <tag k="addr:street" v="Summer Street"/>
@@ -2058,6 +2125,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245992"/>
   </node>
+  <node id="-1708" visible="true" lat="44.42162308" lon="-72.02196816">
+    <tag k="addr:housenumber" v="421"/>
+    <tag k="addr:street" v="Summer Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="245997"/>
+  </node>
   <node id="-1717" visible="true" lat="44.42142463" lon="-71.99879666">
     <tag k="addr:housenumber" v="852"/>
     <tag k="addr:street" v="Portland Street"/>
@@ -2094,6 +2167,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246047"/>
   </node>
+  <node id="-1758" visible="true" lat="44.42124962" lon="-72.00675789">
+    <!-- match: "459 Portland Street, , VT"  ignoring missing state when matching to "459 Portland Street, , " -->
+    <tag k="addr:housenumber" v="459"/>
+    <tag k="addr:street" v="Portland Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="246051"/>
+  </node>
   <node id="-1764" visible="true" lat="44.42106628" lon="-72.00718688">
     <tag k="addr:housenumber" v="425"/>
     <tag k="addr:street" v="Portland Street"/>
@@ -2111,6 +2191,13 @@
     <tag k="addr:street" v="Portland Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246065"/>
+  </node>
+  <node id="-1796" visible="true" lat="44.4208075" lon="-72.0039549">
+    <!-- match: "580 Portland Street, , VT"  ignoring missing state when matching to "580 Portland Street, St. Johnsbury, " -->
+    <tag k="addr:housenumber" v="580"/>
+    <tag k="addr:street" v="Portland Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="246092"/>
   </node>
   <node id="-1826" visible="true" lat="44.42073289" lon="-72.00931493">
     <tag k="addr:housenumber" v="325"/>
@@ -2135,6 +2222,13 @@
     <tag k="addr:street" v="Maple Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246139"/>
+  </node>
+  <node id="-1844" visible="true" lat="44.42064739" lon="-72.01004399">
+    <!-- match: "287 Portland Street, , VT"  ignoring missing state when matching to "287 Portland Street, St. Johnsbury, " -->
+    <tag k="addr:housenumber" v="287"/>
+    <tag k="addr:street" v="Portland Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="246147"/>
   </node>
   <node id="-1861" visible="true" lat="44.42043861" lon="-72.01138572">
     <tag k="addr:housenumber" v="229"/>
@@ -2196,11 +2290,31 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246258"/>
   </node>
+  <node id="-1942" visible="true" lat="44.41978561" lon="-72.02396121">
+    <tag k="addr:housenumber" v="159"/>
+    <tag k="addr:street" v="Central Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="246259"/>
+  </node>
   <node id="-1952" visible="true" lat="44.41978444" lon="-72.01502006">
     <tag k="addr:housenumber" v="502"/>
     <tag k="addr:street" v="Railroad Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246270"/>
+  </node>
+  <node id="-1953" visible="true" lat="44.41983317" lon="-72.02075522">
+    <!-- match: "1265 Main Street, , VT"  ignoring missing state when matching to "1265 Main Street, , " -->
+    <tag k="addr:housenumber" v="1265"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="246271"/>
+  </node>
+  <node id="-1958" visible="true" lat="44.41976176" lon="-72.01570233">
+    <!-- match: "497 Railroad Street, , VT"  ignoring missing state when matching to "497 Railroad Street, St. Johnsbury, " -->
+    <tag k="addr:housenumber" v="497"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="246276"/>
   </node>
   <node id="-1969" visible="true" lat="44.41977673" lon="-72.0190782">
     <tag k="addr:housenumber" v="73"/>
@@ -2226,11 +2340,31 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246348"/>
   </node>
+  <node id="-2031" visible="true" lat="44.41924031" lon="-72.01583948">
+    <!-- match: "457 Railroad Street, , VT"  ignoring missing state when matching to "457 Railroad Street, , " -->
+    <tag k="addr:housenumber" v="457"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="246363"/>
+  </node>
+  <node id="-2053" visible="true" lat="44.41885684" lon="-72.01798919">
+    <!-- match: "47 Cherry Street, , VT"  ignoring missing state when matching to "47 Cherry Street, Saint Johnsbury, " -->
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Cherry Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="246389"/>
+  </node>
   <node id="-2061" visible="true" lat="44.41898173" lon="-72.01909802">
     <tag k="addr:housenumber" v="178"/>
     <tag k="addr:street" v="Eastern Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246397"/>
+  </node>
+  <node id="-2062" visible="true" lat="44.41892717" lon="-72.02014295">
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="Eastern Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="246398"/>
   </node>
   <node id="-2066" visible="true" lat="44.41889224" lon="-72.01890494">
     <tag k="addr:housenumber" v="166"/>
@@ -2297,6 +2431,13 @@
     <tag k="addr:street" v="Railroad Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246482"/>
+  </node>
+  <node id="-2139" visible="true" lat="44.418361" lon="-72.01724356">
+    <!-- match: "74 Eastern Avenue, , VT"  ignoring missing state when matching to "74 Eastern Avenue, St. Johnsbury, " -->
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Eastern Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="246486"/>
   </node>
   <node id="-2140" visible="true" lat="44.41817079" lon="-72.0139855">
     <tag k="addr:housenumber" v="195"/>
@@ -2436,12 +2577,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246682"/>
   </node>
-  <node id="-2307" visible="true" lat="44.41617196" lon="-72.01582991">
-    <tag k="addr:housenumber" v="250"/>
-    <tag k="addr:street" v="Railroad Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="246686"/>
-  </node>
   <node id="-2308" visible="true" lat="44.41612872" lon="-72.01683141">
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="Federal Street"/>
@@ -2519,12 +2654,6 @@
     <tag k="addr:street" v="Pearl Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246734"/>
-  </node>
-  <node id="-2354" visible="true" lat="44.41537427" lon="-72.01609391">
-    <tag k="addr:housenumber" v="192"/>
-    <tag k="addr:street" v="Railroad Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="246740"/>
   </node>
   <node id="-2362" visible="true" lat="44.41523962" lon="-72.01740847">
     <tag k="addr:housenumber" v="126"/>
@@ -2940,6 +3069,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="247156"/>
   </node>
+  <node id="-2778" visible="true" lat="44.46037324" lon="-72.01578799">
+    <tag k="addr:housenumber" v="1951"/>
+    <tag k="addr:street" v="Memorial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="247208"/>
+  </node>
   <node id="-2787" visible="true" lat="44.44630362" lon="-72.01627682">
     <tag k="addr:housenumber" v="985"/>
     <tag k="addr:street" v="Memorial Drive"/>
@@ -2988,11 +3123,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="247334"/>
   </node>
+  <node id="-2890" visible="true" lat="44.44088987" lon="-72.01348813">
+    <tag k="addr:housenumber" v="590"/>
+    <tag k="addr:street" v="Memorial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="309239"/>
+  </node>
   <node id="-2893" visible="true" lat="44.4482077" lon="-72.01275945">
     <tag k="addr:housenumber" v="185"/>
     <tag k="addr:street" v="Sherman Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310787"/>
+  </node>
+  <node id="-2895" visible="true" lat="44.45886938" lon="-72.01238901">
+    <tag k="addr:housenumber" v="1900"/>
+    <tag k="addr:street" v="Memorial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313464"/>
   </node>
   <node id="-2954" visible="true" lat="44.4509427" lon="-72.01436601">
     <tag k="addr:housenumber" v="1246"/>
@@ -3059,6 +3206,27 @@
     <tag k="addr:street" v="Railroad Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761461"/>
+  </node>
+  <node id="-3153" visible="true" lat="44.41794522" lon="-72.01717733">
+    <!-- match: "63 Eastern Avenue, , VT"  ignoring missing state when matching to "63 Eastern Avenue, , " -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Eastern Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763405"/>
+  </node>
+  <node id="-3154" visible="true" lat="44.41799522" lon="-72.01728788">
+    <!-- match: "71 Eastern Avenue, , VT"  ignoring missing state when matching to "71 Eastern Avenue, , " -->
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Eastern Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763406"/>
+  </node>
+  <node id="-3155" visible="true" lat="44.41800781" lon="-72.01733629">
+    <!-- match: "73 Eastern Avenue, , VT"  ignoring missing state when matching to "73 Eastern Avenue, , " -->
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Eastern Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763407"/>
   </node>
   <node id="-3159" visible="true" lat="44.41797649" lon="-72.01721856">
     <tag k="addr:housenumber" v="67"/>

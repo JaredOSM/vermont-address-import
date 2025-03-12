@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-136" visible="true" lat="43.04993057" lon="-72.78580474">
     <!-- conflict: "122 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "122 Vt Route 100, Wardsboro, VT" -->
     <tag k="addr:housenumber" v="122"/>
@@ -392,26 +392,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="270726"/>
   </node>
-  <node id="-525" visible="true" lat="43.02995552" lon="-72.85151706">
-    <!-- conflict: "5078 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "5078 Vt Route 100, Wardsboro, VT" -->
-    <tag k="addr:housenumber" v="5078"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="270727"/>
-  </node>
   <node id="-526" visible="true" lat="43.02999114" lon="-72.81884002">
     <!-- conflict: "2827 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "2827 Vt Route 100, Wardsboro, VT" -->
     <tag k="addr:housenumber" v="2827"/>
     <tag k="addr:street" v="Vermont Route 100"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="270728"/>
-  </node>
-  <node id="-535" visible="true" lat="43.02952975" lon="-72.85157787">
-    <!-- conflict: "5100 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "5100 Vt Route 100, Wardsboro, VT" -->
-    <tag k="addr:housenumber" v="5100"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="270737"/>
   </node>
   <node id="-537" visible="true" lat="43.02964083" lon="-72.81884997">
     <!-- conflict: "2853 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "2853 Vt Route 100, Wardsboro, VT" -->
@@ -434,19 +420,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="270754"/>
   </node>
-  <node id="-559" visible="true" lat="43.02870941" lon="-72.85235595">
-    <!-- conflict: "5158 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "5158 Vt Route 100, Wardsboro, VT" -->
-    <tag k="addr:housenumber" v="5158"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="270762"/>
-  </node>
   <node id="-561" visible="true" lat="43.02874374" lon="-72.81898498">
     <!-- conflict: "2941 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "2941 Vt Route 100, Wardsboro, VT" -->
     <tag k="addr:housenumber" v="2941"/>
     <tag k="addr:street" v="Vermont Route 100"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="270764"/>
+  </node>
+  <node id="-576" visible="true" lat="43.02786993" lon="-72.86574026">
+    <!-- conflict: "18 Sandeen Lane, , VT" No match in OSM, but a different address exists <5m away: "94 Scandia Village Road, Wardsboro, VT" -->
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Sandeen Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="270779"/>
+  </node>
+  <node id="-584" visible="true" lat="43.02739734" lon="-72.86675905">
+    <!-- conflict: "72 Sandeen Lane, , VT" No match in OSM, but a different address exists <5m away: "112 Scandia Village Road, Wardsboro, VT" -->
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Sandeen Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="270787"/>
   </node>
   <node id="-588" visible="true" lat="43.02733033" lon="-72.82869756">
     <!-- conflict: "3730 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "3730 Vt Route 100, Wardsboro, VT" -->
@@ -545,13 +538,6 @@
     <tag k="addr:street" v="Vermont Route 100"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="270856"/>
-  </node>
-  <node id="-671" visible="true" lat="43.01691368" lon="-72.85874075">
-    <!-- conflict: "6115 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "6115 Vt Route 100, Wardsboro, VT" -->
-    <tag k="addr:housenumber" v="6115"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="270875"/>
   </node>
   <node id="-688" visible="true" lat="43.01329713" lon="-72.86159198">
     <!-- conflict: "6397 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "6397 Vt Route 100, Wardsboro, VT" -->
@@ -657,5 +643,12 @@
     <tag k="addr:street" v="Vermont Route 100"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="311771"/>
+  </node>
+  <node id="-974" visible="true" lat="43.02022033" lon="-72.85859684">
+    <!-- conflict: "190 Aspen Lane, , VT" No match in OSM, but a different address exists <5m away: "83 Pike Farm Road, Wardsboro, VT" -->
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Aspen Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618407"/>
   </node>
 </osm>

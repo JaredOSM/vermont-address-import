@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-105" visible="true" lat="43.52002319" lon="-72.40120572">
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="U.S. Route 5 North"/>
@@ -137,6 +137,13 @@
     <tag k="addr:street" v="County Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295394"/>
+  </node>
+  <node id="-130" visible="true" lat="43.51192474" lon="-72.4013977">
+    <!-- match: "272 Ruth Carney Drive, , VT"  ignoring missing state when matching to "272 Ruth Carney Drive, , " -->
+    <tag k="addr:housenumber" v="272"/>
+    <tag k="addr:street" v="Ruth Carney Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="295395"/>
   </node>
   <node id="-132" visible="true" lat="43.51124852" lon="-72.4467119">
     <tag k="addr:housenumber" v="788"/>
@@ -546,6 +553,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295628"/>
   </node>
+  <node id="-352" visible="true" lat="43.48745618" lon="-72.40300916">
+    <!-- match: "289 County Road, , VT"  ignoring missing state when matching to "289 County Road, Windsor, " -->
+    <tag k="addr:housenumber" v="289"/>
+    <tag k="addr:street" v="County Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="295632"/>
+  </node>
   <node id="-362" visible="true" lat="43.48605028" lon="-72.43013884">
     <tag k="addr:housenumber" v="1672"/>
     <tag k="addr:street" v="Hunt Road"/>
@@ -744,6 +758,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295835"/>
   </node>
+  <node id="-530" visible="true" lat="43.48085021" lon="-72.38639068">
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="295837"/>
+  </node>
   <node id="-538" visible="true" lat="43.48068237" lon="-72.38574218">
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="Main Street"/>
@@ -846,6 +866,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295922"/>
   </node>
+  <node id="-605" visible="true" lat="43.47973986" lon="-72.383779">
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="295924"/>
+  </node>
   <node id="-606" visible="true" lat="43.47929" lon="-72.38599395">
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="River Street"/>
@@ -857,6 +883,30 @@
     <tag k="addr:street" v="River Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295926"/>
+  </node>
+  <node id="-611" visible="true" lat="43.47902144" lon="-72.38367371">
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="295930"/>
+  </node>
+  <node id="-613" visible="true" lat="43.47909927" lon="-72.38398742">
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="295932"/>
+  </node>
+  <node id="-615" visible="true" lat="43.47907638" lon="-72.38437652">
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="295934"/>
+  </node>
+  <node id="-616" visible="true" lat="43.47906494" lon="-72.38417053">
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="295935"/>
   </node>
   <node id="-618" visible="true" lat="43.47904205" lon="-72.38320159">
     <tag k="addr:housenumber" v="43"/>
@@ -899,6 +949,12 @@
     <tag k="addr:street" v="River Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295965"/>
+  </node>
+  <node id="-641" visible="true" lat="43.47863769" lon="-72.38705444">
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="295966"/>
   </node>
   <node id="-645" visible="true" lat="43.47859698" lon="-72.38245609">
     <tag k="addr:housenumber" v="48"/>
@@ -1121,6 +1177,12 @@
     <tag k="addr:street" v="Clough Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="296261"/>
+  </node>
+  <node id="-953" visible="true" lat="43.47476432" lon="-72.38939348">
+    <tag k="addr:housenumber" v="196"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="296326"/>
   </node>
   <node id="-965" visible="true" lat="43.47444169" lon="-72.38507019">
     <tag k="addr:housenumber" v="39"/>
@@ -2147,6 +2209,12 @@
     <tag k="addr:street" v="Weston Heights"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="296756"/>
+  </node>
+  <node id="-1355" visible="true" lat="43.43749458" lon="-72.40581843">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Mount Ascutney State Park Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="296757"/>
   </node>
   <node id="-1361" visible="true" lat="43.43381299" lon="-72.39724791">
     <tag k="addr:housenumber" v="2858"/>

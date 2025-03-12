@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-527" visible="true" lat="44.15146689" lon="-72.40081115">
+    <!-- offset: "6 Morris Drive, , VT" Significant offset - 8884.8m -->
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Morris Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="183973"/>
+  </node>
 </osm>

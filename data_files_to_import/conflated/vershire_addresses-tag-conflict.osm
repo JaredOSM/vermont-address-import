@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-124" visible="true" lat="43.99204128" lon="-72.38324528">
     <!-- conflict: "10368 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "10368 Vt Route 113, Vershire, VT" -->
     <tag k="addr:city" v="Vershire"/>
@@ -71,14 +71,6 @@
     <tag k="addr:street" v="Private Rd 1"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266922"/>
-  </node>
-  <node id="-143" visible="true" lat="43.98755645" lon="-72.36962127">
-    <!-- conflict: "9615 Vermont Route 113, Vershire, VT" No match in OSM, but a different address exists <5m away: "9615 Vt Route 113, Vershire, VT" -->
-    <tag k="addr:city" v="Vershire"/>
-    <tag k="addr:housenumber" v="9615"/>
-    <tag k="addr:street" v="Vermont Route 113"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266924"/>
   </node>
   <node id="-145" visible="true" lat="43.98730037" lon="-72.36127561">
     <!-- conflict: "423 Private Rd 1, Vershire, VT" No match in OSM, but a different address exists <5m away: "423 Private Road 1, Vershire, VT" -->

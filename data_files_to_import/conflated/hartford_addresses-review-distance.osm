@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-392" visible="true" lat="43.69202776" lon="-72.43609135">
     <!-- offset: "3089 Quechee West Hartford Road, , VT" Significant offset - 168m -->
     <tag k="addr:housenumber" v="3089"/>
@@ -84,15 +84,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123222"/>
   </node>
-  <node id="-3292" visible="true" lat="43.64534862" lon="-72.42024121">
-    <!-- offset: "61 River Street, , VT" Significant offset - 8963.8m -->
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="River Street"/>
+  <node id="-3018" visible="true" lat="43.64817017" lon="-72.42164492">
+    <!-- offset: "1952 Quechee Main Street, , VT" Significant offset - 609.3m -->
+    <tag k="addr:housenumber" v="1952"/>
+    <tag k="addr:street" v="Quechee Main Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123551"/>
+    <tag k="ref:vcgi:esiteid" v="123231"/>
+  </node>
+  <node id="-3443" visible="true" lat="43.64386093" lon="-72.42767373">
+    <!-- offset: "399 West Gilson Avenue, , VT" Significant offset - 120.9m -->
+    <tag k="addr:housenumber" v="399"/>
+    <tag k="addr:street" v="West Gilson Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="123720"/>
   </node>
   <node id="-4499" visible="true" lat="43.64924252" lon="-72.32114633">
-    <!-- offset: "22 Church Street, , VT" Significant offset - 7188.1m -->
+    <!-- offset: "22 Church Street, , VT" Significant offset - 7193.9m -->
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="Church Street"/>
     <tag k="addr:state" v="VT"/>
@@ -113,7 +120,7 @@
     <tag k="ref:vcgi:esiteid" v="341216"/>
   </node>
   <node id="-4891" visible="true" lat="43.67233367" lon="-72.44798669">
-    <!-- offset: "332 Cushing Road, , VT" Significant offset - 803m -->
+    <!-- offset: "332 Cushing Road, , VT" Significant offset - 807m -->
     <tag k="addr:housenumber" v="332"/>
     <tag k="addr:street" v="Cushing Road"/>
     <tag k="addr:state" v="VT"/>

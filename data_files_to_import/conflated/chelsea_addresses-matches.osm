@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-101" visible="true" lat="44.05470488" lon="-72.53561094">
+    <tag k="addr:city" v="Chelsea"/>
+    <tag k="addr:housenumber" v="2541"/>
+    <tag k="addr:street" v="Cemetery Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="65103"/>
+  </node>
+  <node id="-298" visible="true" lat="43.99901133" lon="-72.45102265">
+    <tag k="addr:city" v="Chelsea"/>
+    <tag k="addr:housenumber" v="375"/>
+    <tag k="addr:street" v="Vermont Route 110"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="65306"/>
+  </node>
+  <node id="-449" visible="true" lat="43.98923192" lon="-72.44733587">
+    <tag k="addr:city" v="Chelsea"/>
+    <tag k="addr:housenumber" v="296"/>
+    <tag k="addr:street" v="Vermont Route 110"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="65470"/>
+  </node>
   <node id="-455" visible="true" lat="43.98893052" lon="-72.44838153">
     <tag k="addr:city" v="Chelsea"/>
     <tag k="addr:housenumber" v="1"/>
@@ -245,6 +266,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65536"/>
   </node>
+  <node id="-659" visible="true" lat="43.9607315" lon="-72.471138">
+    <tag k="addr:city" v="Chelsea"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="East Randolph Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="65694"/>
+  </node>
   <node id="-672" visible="true" lat="43.9560008" lon="-72.43693542">
     <tag k="addr:city" v="Chelsea"/>
     <tag k="addr:housenumber" v="68"/>
@@ -349,6 +377,13 @@
     <tag k="addr:street" v="Holt Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="332245"/>
+  </node>
+  <node id="-834" visible="true" lat="44.05525749" lon="-72.53412362">
+    <tag k="addr:city" v="Chelsea"/>
+    <tag k="addr:housenumber" v="2566"/>
+    <tag k="addr:street" v="Cemetery Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454901"/>
   </node>
   <node id="-838" visible="true" lat="43.95706473" lon="-72.43409097">
     <tag k="addr:city" v="Chelsea"/>

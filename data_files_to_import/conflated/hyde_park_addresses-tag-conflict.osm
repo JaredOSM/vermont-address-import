@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-214" visible="true" lat="44.66430045" lon="-72.57544149">
     <!-- conflict: "13 Stonehill Drive, Hyde Park, VT" No match in OSM, but a different address exists <5m away: "496 Thompson Hill Road, Hyde Park, VT" -->
     <tag k="addr:city" v="Hyde Park"/>
@@ -64,22 +64,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="132823"/>
   </node>
-  <node id="-945" visible="true" lat="44.59608296" lon="-72.62032976">
-    <!-- conflict: "112 Johnson Street Extension, Hyde Park, VT" Fuzzy match to "112 Johnson St Extension, Hyde Park, VT" -->
-    <tag k="addr:city" v="Hyde Park"/>
-    <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:street" v="Johnson Street Extension"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="132835"/>
-  </node>
-  <node id="-955" visible="true" lat="44.5954152" lon="-72.62048389">
-    <!-- conflict: "77 Johnson Street Extension, Hyde Park, VT" Fuzzy match to "77 Johnson St Extension, Hyde Park, VT" -->
-    <tag k="addr:city" v="Hyde Park"/>
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="Johnson Street Extension"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="132845"/>
-  </node>
   <node id="-1073" visible="true" lat="44.59278107" lon="-72.61307534">
     <!-- conflict: "77 East Main Street, Hyde Park, VT" Fuzzy match to "77 West Main Street, Hyde Park, VT" -->
     <tag k="addr:city" v="Hyde Park"/>
@@ -96,14 +80,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="133035"/>
   </node>
-  <node id="-1145" visible="true" lat="44.58848776" lon="-72.60572007">
-    <!-- conflict: "590 East Main Street, Hyde Park, VT" Fuzzy match to "590 East Main Street, Hyde Park, " -->
-    <tag k="addr:city" v="Hyde Park"/>
-    <tag k="addr:housenumber" v="590"/>
-    <tag k="addr:street" v="East Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="133055"/>
-  </node>
   <node id="-1200" visible="true" lat="44.5817621" lon="-72.54694822">
     <!-- conflict: "140 Garfield Road, Hyde Park, VT" No match in OSM, but a different address exists <5m away: "139 Garfield Road, Hyde Park, VT" -->
     <tag k="addr:city" v="Hyde Park"/>
@@ -111,14 +87,6 @@
     <tag k="addr:street" v="Garfield Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="133110"/>
-  </node>
-  <node id="-1238" visible="true" lat="44.60124274" lon="-72.58286543">
-    <!-- conflict: "51 Serenity Lane, Hyde Park, VT" No match in OSM, but a different address exists <5m away: "302 Brook Road, Hyde Park, VT" -->
-    <tag k="addr:city" v="Hyde Park"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Serenity Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="133148"/>
   </node>
   <node id="-1319" visible="true" lat="44.59707429" lon="-72.62094455">
     <!-- conflict: "160 Johnson Street Extension, Hyde Park, VT" Fuzzy match to "160 Johnson St Extension, Hyde Park, VT" -->

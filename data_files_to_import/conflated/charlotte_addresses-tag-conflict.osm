@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-403" visible="true" lat="44.32899475" lon="-73.25515747">
+    <!-- conflict: "1543 Greenbush Road, Charlotte, VT" Fuzzy match to "1543 Greenbush Road, , " -->
+    <tag k="addr:city" v="Charlotte"/>
+    <tag k="addr:housenumber" v="1543"/>
+    <tag k="addr:street" v="Greenbush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63428"/>
+  </node>
+  <node id="-429" visible="true" lat="44.32656097" lon="-73.25518798">
+    <!-- conflict: "1711 Greenbush Road, Charlotte, VT" Fuzzy match to "1711 Greenbush Road, , " -->
+    <tag k="addr:city" v="Charlotte"/>
+    <tag k="addr:housenumber" v="1711"/>
+    <tag k="addr:street" v="Greenbush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="63455"/>
+  </node>
+  <node id="-2307" visible="true" lat="44.33124561" lon="-73.19122426">
+    <!-- conflict: "1969 Spear Street, Charlotte, VT" No match in OSM, but a different address exists <5m away: "1941 Spear Street, Charlotte, VT" -->
+    <tag k="addr:city" v="Charlotte"/>
+    <tag k="addr:housenumber" v="1969"/>
+    <tag k="addr:street" v="Spear Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768905"/>
+  </node>
 </osm>

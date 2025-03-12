@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-318" visible="true" lat="43.96404372" lon="-73.20650849">
+    <!-- multiple: "112 School Road, Cornwall, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Cornwall"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="School Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="78155"/>
+  </node>
 </osm>

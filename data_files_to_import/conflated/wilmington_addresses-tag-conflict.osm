@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-520" visible="true" lat="42.89916993" lon="-72.88848124">
     <!-- conflict: "70 Spyglass Road, Wilmington, VT" Fuzzy match to "70 Spyglass Drive, West Dover, " -->
     <tag k="addr:city" v="Wilmington"/>
@@ -8,6 +8,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="293100"/>
   </node>
+  <node id="-856" visible="true" lat="42.89114333" lon="-72.9099469">
+    <!-- conflict: "3 Little Bend, Wilmington, VT" No match in OSM, but a different address exists <5m away: "7 Little Bound, Wilmington, VT" -->
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Little Bend"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293440"/>
+  </node>
+  <node id="-875" visible="true" lat="42.89089764" lon="-72.91008878">
+    <!-- conflict: "9 Little Bend, Wilmington, VT" No match in OSM, but a different address exists <5m away: "9 Little Bound, Wilmington, VT" -->
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Little Bend"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293459"/>
+  </node>
   <node id="-1225" visible="true" lat="42.88011188" lon="-72.80810785">
     <!-- conflict: "17 Old Stage Road Extension, Wilmington, VT" Fuzzy match to "17 Old Stage Rd, Wilmington, VT" -->
     <tag k="addr:city" v="Wilmington"/>
@@ -15,30 +31,6 @@
     <tag k="addr:street" v="Old Stage Road Extension"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="293811"/>
-  </node>
-  <node id="-1403" visible="true" lat="42.87287521" lon="-72.90550994">
-    <!-- conflict: "393 Vermont Route 9 West, Wilmington, VT" No match in OSM, but a different address exists <5m away: "393 Vt Route 9 West, Wilmington, VT" -->
-    <tag k="addr:city" v="Wilmington"/>
-    <tag k="addr:housenumber" v="393"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="293991"/>
-  </node>
-  <node id="-1421" visible="true" lat="42.87198638" lon="-72.90189361">
-    <!-- conflict: "361 Vermont Route 9 West, Wilmington, VT" No match in OSM, but a different address exists <5m away: "361 Vt Route 9 West, Wilmington, VT" -->
-    <tag k="addr:city" v="Wilmington"/>
-    <tag k="addr:housenumber" v="361"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="294010"/>
-  </node>
-  <node id="-1426" visible="true" lat="42.87166976" lon="-72.91822815">
-    <!-- conflict: "567 Vermont Route 9 West, Wilmington, VT" No match in OSM, but a different address exists <5m away: "567 Vt Route 9 West, Wilmington, VT" -->
-    <tag k="addr:city" v="Wilmington"/>
-    <tag k="addr:housenumber" v="567"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="294017"/>
   </node>
   <node id="-1432" visible="true" lat="42.87153244" lon="-72.88425445">
     <!-- conflict: "153 Vermont Route 9 West, Wilmington, VT" No match in OSM, but a different address exists <5m away: "153 Vt Route 9 West, Wilmington, VT" -->
@@ -63,22 +55,6 @@
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294032"/>
-  </node>
-  <node id="-1448" visible="true" lat="42.87104797" lon="-72.90369415">
-    <!-- conflict: "389 Vermont Route 9 West, Wilmington, VT" No match in OSM, but a different address exists <5m away: "389 Vt Route 9 West, Wilmington, VT" -->
-    <tag k="addr:city" v="Wilmington"/>
-    <tag k="addr:housenumber" v="389"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="294039"/>
-  </node>
-  <node id="-1453" visible="true" lat="42.87123207" lon="-72.90415919">
-    <!-- conflict: "391 Vermont Route 9 West, Wilmington, VT" No match in OSM, but a different address exists <5m away: "389 Vt Route 9 West, Wilmington, VT" -->
-    <tag k="addr:city" v="Wilmington"/>
-    <tag k="addr:housenumber" v="391"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="294044"/>
   </node>
   <node id="-1457" visible="true" lat="42.87100255" lon="-72.86646768">
     <!-- conflict: "65 North Main Street, Wilmington, VT" Fuzzy match to "65 East Main Street, Wilmington, VT" -->
@@ -137,7 +113,7 @@
     <tag k="ref:vcgi:esiteid" v="294100"/>
   </node>
   <node id="-1505" visible="true" lat="42.87002927" lon="-72.90467235">
-    <!-- conflict: "5 Oxbow Loop, Wilmington, VT" No match in OSM, but a different address exists <5m away: "403 Vt Route 9 West, Wilmington, VT" -->
+    <!-- conflict: "5 Oxbow Loop, Wilmington, VT" No match in OSM, but a different address exists <5m away: "403 Vermont Route 9 West, Wilmington, VT" -->
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Oxbow Loop"/>

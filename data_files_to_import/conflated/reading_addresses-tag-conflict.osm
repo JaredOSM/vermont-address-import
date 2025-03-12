@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-110" visible="true" lat="43.53087234" lon="-72.5576477">
     <!-- conflict: "6867 Vermont Route 106, , VT" No match in OSM, but a different address exists <5m away: "6867 Vt Route 106, Reading, VT" -->
     <tag k="addr:housenumber" v="6867"/>
@@ -266,12 +266,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="198475"/>
   </node>
-  <node id="-467" visible="true" lat="43.45607757" lon="-72.53726959">
-    <!-- conflict: "833 Vermont Route 106, , VT" No match in OSM, but a different address exists <5m away: "833 Vt Route 106, Reading, VT" -->
-    <tag k="addr:housenumber" v="833"/>
+  <node id="-474" visible="true" lat="43.45589828" lon="-72.53742218">
+    <!-- conflict: "821 Vermont Route 106, , VT" No match in OSM, but a different address exists <5m away: "821 State Route 106, Reading, VT" -->
+    <tag k="addr:housenumber" v="821"/>
     <tag k="addr:street" v="Vermont Route 106"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="198477"/>
+    <tag k="ref:vcgi:esiteid" v="198484"/>
   </node>
   <node id="-478" visible="true" lat="43.45574951" lon="-72.5368576">
     <!-- conflict: "812 Vermont Route 106, , VT" No match in OSM, but a different address exists <5m away: "812 Vt Route 106, Reading, VT" -->
@@ -279,13 +279,6 @@
     <tag k="addr:street" v="Vermont Route 106"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="198489"/>
-  </node>
-  <node id="-481" visible="true" lat="43.45562262" lon="-72.53735135">
-    <!-- conflict: "799 Vermont Route 106, , VT" No match in OSM, but a different address exists <5m away: "799 Vt Route 106, Reading, VT" -->
-    <tag k="addr:housenumber" v="799"/>
-    <tag k="addr:street" v="Vermont Route 106"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="198493"/>
   </node>
   <node id="-482" visible="true" lat="43.45531571" lon="-72.53628644">
     <!-- conflict: "782 Vermont Route 106, , VT" No match in OSM, but a different address exists <5m away: "782 Vt Route 106, Reading, VT" -->

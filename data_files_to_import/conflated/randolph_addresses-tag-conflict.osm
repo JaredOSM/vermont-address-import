@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-490" visible="true" lat="43.94435704" lon="-72.62494857">
     <!-- conflict: "1917 Vermont Route 66, Randolph, VT" No match in OSM, but a different address exists <5m away: "1917 VT Route 66, Randolph, VT" -->
     <tag k="addr:city" v="Randolph"/>
@@ -15,6 +15,22 @@
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="196444"/>
+  </node>
+  <node id="-527" visible="true" lat="43.94166564" lon="-72.60684204">
+    <!-- conflict: "2964 Vermont Route 66, Randolph, VT" Fuzzy match to "2964 Vermont Route 66, Randolph Center, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2964"/>
+    <tag k="addr:street" v="Vermont Route 66"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="196455"/>
+  </node>
+  <node id="-529" visible="true" lat="43.94154183" lon="-72.60684291">
+    <!-- conflict: "2952 Vermont Route 66, Randolph, VT" Fuzzy match to "2952 Vermont Route 66, Randolph Center, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2952"/>
+    <tag k="addr:street" v="Vermont Route 66"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="196458"/>
   </node>
   <node id="-533" visible="true" lat="43.94123401" lon="-72.65357299">
     <!-- conflict: "456 Vermont Route 12 North, Randolph, VT" No match in OSM, but a different address exists <5m away: "456 Vt Route 12 North, Randolph, VT" -->
@@ -288,16 +304,8 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197594"/>
   </node>
-  <node id="-1582" visible="true" lat="43.90633167" lon="-72.65727905">
-    <!-- conflict: "85 Dylan Drive, Randolph, VT" No match in OSM, but a different address exists <5m away: "85 , , " -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:street" v="Dylan Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="197636"/>
-  </node>
   <node id="-1585" visible="true" lat="43.90612792" lon="-72.65918731">
-    <!-- conflict: "86 Dylan Drive, Randolph, VT" No match in OSM, but a different address exists <5m away: " Dylan Road, , " -->
+    <!-- conflict: "86 Dylan Drive, Randolph, VT" No match in OSM, but a different address exists <5m away: " Dylan Drive, , " -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="86"/>
     <tag k="addr:street" v="Dylan Drive"/>
@@ -305,7 +313,7 @@
     <tag k="ref:vcgi:esiteid" v="197639"/>
   </node>
   <node id="-1780" visible="true" lat="43.90570599" lon="-72.65801626">
-    <!-- conflict: "155 Dylan Drive, Randolph, VT" Fuzzy match to "155 Dylan Road, , " -->
+    <!-- conflict: "155 Dylan Drive, Randolph, VT" Fuzzy match to "155 Dylan Drive, , " -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="155"/>
     <tag k="addr:street" v="Dylan Drive"/>
@@ -313,7 +321,7 @@
     <tag k="ref:vcgi:esiteid" v="197851"/>
   </node>
   <node id="-1782" visible="true" lat="43.90603537" lon="-72.65826254">
-    <!-- conflict: "125 Dylan Drive, Randolph, VT" Fuzzy match to "125 Dylan Road, , " -->
+    <!-- conflict: "125 Dylan Drive, Randolph, VT" Fuzzy match to "125 Dylan Drive, , " -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="125"/>
     <tag k="addr:street" v="Dylan Drive"/>

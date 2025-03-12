@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="42.96755639" lon="-72.56953076">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="62"/>
@@ -3094,13 +3094,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195437"/>
   </node>
-  <node id="-621" visible="true" lat="42.98180389" lon="-72.47587585">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="563"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195441"/>
-  </node>
   <node id="-622" visible="true" lat="42.98191307" lon="-72.46632371">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="57"/>
@@ -3122,26 +3115,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195449"/>
   </node>
-  <node id="-631" visible="true" lat="42.98090744" lon="-72.47612762">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="561"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195451"/>
-  </node>
   <node id="-633" visible="true" lat="42.98066708" lon="-72.51945738">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="37"/>
     <tag k="addr:street" v="Sand Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195453"/>
-  </node>
-  <node id="-637" visible="true" lat="42.98044586" lon="-72.47220611">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="601"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195457"/>
   </node>
   <node id="-640" visible="true" lat="42.98028182" lon="-72.57372284">
     <tag k="addr:city" v="Putney"/>
@@ -3157,20 +3136,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195461"/>
   </node>
-  <node id="-642" visible="true" lat="42.98012161" lon="-72.47306823">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="592"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195462"/>
-  </node>
-  <node id="-643" visible="true" lat="42.98010635" lon="-72.47270965">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="596"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195463"/>
-  </node>
   <node id="-644" visible="true" lat="42.98012537" lon="-72.56982543">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="71"/>
@@ -3178,33 +3143,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195464"/>
   </node>
-  <node id="-647" visible="true" lat="42.97998428" lon="-72.47711181">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="553"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195467"/>
-  </node>
-  <node id="-652" visible="true" lat="42.97980499" lon="-72.47650146">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="556"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195472"/>
-  </node>
   <node id="-654" visible="true" lat="42.97960281" lon="-72.48093414">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:street" v="Priest Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195474"/>
-  </node>
-  <node id="-655" visible="true" lat="42.97973045" lon="-72.47763675">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="547"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195475"/>
   </node>
   <node id="-657" visible="true" lat="42.97944259" lon="-72.53173065">
     <tag k="addr:city" v="Putney"/>
@@ -3219,13 +3163,6 @@
     <tag k="addr:street" v="Parkman Wood Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195478"/>
-  </node>
-  <node id="-661" visible="true" lat="42.97931315" lon="-72.47825994">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Priest Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195481"/>
   </node>
   <node id="-662" visible="true" lat="42.97919492" lon="-72.53320135">
     <tag k="addr:city" v="Putney"/>
@@ -3262,20 +3199,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195487"/>
   </node>
-  <node id="-668" visible="true" lat="42.97863006" lon="-72.47792053">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="533"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195488"/>
-  </node>
-  <node id="-671" visible="true" lat="42.97866951" lon="-72.51298125">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:street" v="Perseverance Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195491"/>
-  </node>
   <node id="-672" visible="true" lat="42.97847747" lon="-72.47909545">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="19"/>
@@ -3304,33 +3227,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195498"/>
   </node>
-  <node id="-680" visible="true" lat="42.97803341" lon="-72.51162076">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Perseverance Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195500"/>
-  </node>
   <node id="-681" visible="true" lat="42.97815312" lon="-72.48040192">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="Priest Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195501"/>
-  </node>
-  <node id="-682" visible="true" lat="42.97793579" lon="-72.47800445">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="525"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195502"/>
-  </node>
-  <node id="-687" visible="true" lat="42.97750091" lon="-72.47814178">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="505"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195507"/>
   </node>
   <node id="-691" visible="true" lat="42.97731399" lon="-72.51596069">
     <tag k="addr:city" v="Putney"/>
@@ -3374,26 +3276,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195525"/>
   </node>
-  <node id="-706" visible="true" lat="42.97678133" lon="-72.5117569">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Robert Rhodes Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195528"/>
-  </node>
   <node id="-712" visible="true" lat="42.97642135" lon="-72.55015612">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="Watt Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195534"/>
-  </node>
-  <node id="-719" visible="true" lat="42.97634999" lon="-72.47828816">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="502"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195541"/>
   </node>
   <node id="-720" visible="true" lat="42.97626876" lon="-72.51550292">
     <tag k="addr:city" v="Putney"/>
@@ -3437,20 +3325,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195553"/>
   </node>
-  <node id="-738" visible="true" lat="42.97560673" lon="-72.51785772">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Mill Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195561"/>
-  </node>
-  <node id="-740" visible="true" lat="42.97549438" lon="-72.51889038">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Mill Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195564"/>
-  </node>
   <node id="-741" visible="true" lat="42.97546005" lon="-72.57842254">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="199"/>
@@ -3479,27 +3353,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195572"/>
   </node>
-  <node id="-750" visible="true" lat="42.97530092" lon="-72.48095317">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="471"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195575"/>
-  </node>
-  <node id="-751" visible="true" lat="42.97534412" lon="-72.51768722">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Mill Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195576"/>
-  </node>
-  <node id="-753" visible="true" lat="42.97523193" lon="-72.48145919">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="467"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195578"/>
-  </node>
   <node id="-754" visible="true" lat="42.97517013" lon="-72.55104113">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="44"/>
@@ -3520,13 +3373,6 @@
     <tag k="addr:street" v="Parkman Wood Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195581"/>
-  </node>
-  <node id="-759" visible="true" lat="42.97507708" lon="-72.48198123">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="459"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195585"/>
   </node>
   <node id="-761" visible="true" lat="42.97491073" lon="-72.52588653">
     <tag k="addr:city" v="Putney"/>
@@ -3584,13 +3430,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195621"/>
   </node>
-  <node id="-796" visible="true" lat="42.97296905" lon="-72.52216339">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195622"/>
-  </node>
   <node id="-797" visible="true" lat="42.97279319" lon="-72.57733131">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="38"/>
@@ -3618,13 +3457,6 @@
     <tag k="addr:street" v="Holland Hill"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195639"/>
-  </node>
-  <node id="-814" visible="true" lat="42.97137705" lon="-72.49722344">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="275"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195640"/>
   </node>
   <node id="-816" visible="true" lat="42.97126007" lon="-72.56444549">
     <tag k="addr:city" v="Putney"/>
@@ -3689,20 +3521,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195681"/>
   </node>
-  <node id="-861" visible="true" lat="42.96867272" lon="-72.52036803">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Old Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195687"/>
-  </node>
-  <node id="-863" visible="true" lat="42.96845351" lon="-72.52079279">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Old Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195689"/>
-  </node>
   <node id="-864" visible="true" lat="42.96845626" lon="-72.56712341">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="720"/>
@@ -3731,13 +3549,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195703"/>
   </node>
-  <node id="-876" visible="true" lat="42.96797578" lon="-72.51980164">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Old Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195705"/>
-  </node>
   <node id="-878" visible="true" lat="42.9677124" lon="-72.5256958">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="28"/>
@@ -3745,26 +3556,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195707"/>
   </node>
-  <node id="-880" visible="true" lat="42.96757711" lon="-72.5202559">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="Old Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195709"/>
-  </node>
   <node id="-882" visible="true" lat="42.96756179" lon="-72.52172564">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Putney Landing Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195711"/>
-  </node>
-  <node id="-885" visible="true" lat="42.96685898" lon="-72.51906894">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="Old Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195714"/>
   </node>
   <node id="-886" visible="true" lat="42.96712493" lon="-72.53631591">
     <tag k="addr:city" v="Putney"/>
@@ -4137,13 +3934,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195805"/>
   </node>
-  <node id="-973" visible="true" lat="42.9673534" lon="-72.52085649">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Neumann Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195807"/>
-  </node>
   <node id="-979" visible="true" lat="43.00987243" lon="-72.56412506">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="6"/>
@@ -4389,13 +4179,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195863"/>
   </node>
-  <node id="-1027" visible="true" lat="42.96909571" lon="-72.52065064">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Old Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195868"/>
-  </node>
   <node id="-1033" visible="true" lat="42.97272308" lon="-72.51512561">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="14"/>
@@ -4409,34 +4192,6 @@
     <tag k="addr:street" v="Locust Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195887"/>
-  </node>
-  <node id="-1049" visible="true" lat="42.97436971" lon="-72.51551071">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:street" v="Determination Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195890"/>
-  </node>
-  <node id="-1053" visible="true" lat="42.9747076" lon="-72.51646501">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Hi Lo Biddy Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195894"/>
-  </node>
-  <node id="-1054" visible="true" lat="42.97443967" lon="-72.5170947">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="Hi Lo Biddy Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195895"/>
-  </node>
-  <node id="-1055" visible="true" lat="42.97452545" lon="-72.51743316">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Hi Lo Biddy Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195896"/>
   </node>
   <node id="-1058" visible="true" lat="43.02023132" lon="-72.47678193">
     <tag k="addr:city" v="Putney"/>
@@ -4613,13 +4368,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195940"/>
   </node>
-  <node id="-1094" visible="true" lat="42.97515459" lon="-72.51482151">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195941"/>
-  </node>
   <node id="-1095" visible="true" lat="42.97030376" lon="-72.55393551">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="156"/>
@@ -4738,20 +4486,6 @@
     <tag k="addr:street" v="Fort Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="195965"/>
-  </node>
-  <node id="-1118" visible="true" lat="42.97456091" lon="-72.60255373">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="452"/>
-    <tag k="addr:street" v="Holland Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195966"/>
-  </node>
-  <node id="-1122" visible="true" lat="42.96715382" lon="-72.51922007">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Old Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195970"/>
   </node>
   <node id="-1123" visible="true" lat="43.00682385" lon="-72.47262798">
     <tag k="addr:city" v="Putney"/>
@@ -5502,13 +5236,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="445957"/>
   </node>
-  <node id="-1276" visible="true" lat="42.97558182" lon="-72.52078801">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Water Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="448080"/>
-  </node>
   <node id="-1277" visible="true" lat="42.97591787" lon="-72.51954743">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="15"/>
@@ -5621,13 +5348,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450986"/>
   </node>
-  <node id="-1301" visible="true" lat="42.97820979" lon="-72.50688015">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Perseverance Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450988"/>
-  </node>
   <node id="-1302" visible="true" lat="42.97566747" lon="-72.55172319">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="9"/>
@@ -5662,13 +5382,6 @@
     <tag k="addr:street" v="Adams Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450995"/>
-  </node>
-  <node id="-1309" visible="true" lat="42.97323576" lon="-72.51366792">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="84"/>
-    <tag k="addr:street" v="River Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450997"/>
   </node>
   <node id="-1311" visible="true" lat="43.01694203" lon="-72.58810514">
     <tag k="addr:city" v="Putney"/>
@@ -5732,13 +5445,6 @@
     <tag k="addr:street" v="Putney Landing Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454524"/>
-  </node>
-  <node id="-1325" visible="true" lat="42.97434046" lon="-72.5169901">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="Hi Lo Biddy Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454525"/>
   </node>
   <node id="-1326" visible="true" lat="42.99001334" lon="-72.50282564">
     <tag k="addr:city" v="Putney"/>
@@ -5831,13 +5537,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612012"/>
   </node>
-  <node id="-1346" visible="true" lat="42.97451802" lon="-72.51461139">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Determination Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="614599"/>
-  </node>
   <node id="-1347" visible="true" lat="43.00440404" lon="-72.48181764">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="111"/>
@@ -5859,20 +5558,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617631"/>
   </node>
-  <node id="-1350" visible="true" lat="42.9746604" lon="-72.51235076">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Charles Drake Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617632"/>
-  </node>
-  <node id="-1351" visible="true" lat="42.97441479" lon="-72.51428256">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Determination Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617633"/>
-  </node>
   <node id="-1352" visible="true" lat="42.99261546" lon="-72.48319434">
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="16"/>
@@ -5886,20 +5571,6 @@
     <tag k="addr:street" v="Westminster Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617635"/>
-  </node>
-  <node id="-1354" visible="true" lat="42.9674378" lon="-72.52134594">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Neumann Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617636"/>
-  </node>
-  <node id="-1355" visible="true" lat="42.96713334" lon="-72.52158957">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Neumann Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617637"/>
   </node>
   <node id="-1357" visible="true" lat="42.97351188" lon="-72.53191749">
     <tag k="addr:city" v="Putney"/>
@@ -6096,13 +5767,6 @@
     <tag k="addr:street" v="Sun Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760151"/>
-  </node>
-  <node id="-1385" visible="true" lat="42.97266621" lon="-72.52088791">
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Putney Commons Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="760235"/>
   </node>
   <node id="-1386" visible="true" lat="42.97297355" lon="-72.55393529">
     <tag k="addr:city" v="Putney"/>

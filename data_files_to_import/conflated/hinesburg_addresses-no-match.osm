@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.28846517" lon="-73.14788633">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="205"/>
@@ -77,34 +77,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128198"/>
   </node>
-  <node id="-111" visible="true" lat="44.37004324" lon="-73.07932007">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="183"/>
-    <tag k="addr:street" v="Dimick Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128199"/>
-  </node>
-  <node id="-112" visible="true" lat="44.37021838" lon="-73.07947886">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="193"/>
-    <tag k="addr:street" v="Dimick Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128200"/>
-  </node>
-  <node id="-113" visible="true" lat="44.36989211" lon="-73.06705474">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="3225"/>
-    <tag k="addr:street" v="Richmond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128201"/>
-  </node>
-  <node id="-114" visible="true" lat="44.36978912" lon="-73.07746887">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="Dimick Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128202"/>
-  </node>
   <node id="-115" visible="true" lat="44.36973554" lon="-73.05276436">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="37"/>
@@ -140,68 +112,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128215"/>
   </node>
-  <node id="-129" visible="true" lat="44.36907681" lon="-73.07784728">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="Dimick Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128218"/>
-  </node>
-  <node id="-135" visible="true" lat="44.36880836" lon="-73.07825383">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Dimick Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128224"/>
-  </node>
-  <node id="-136" visible="true" lat="44.3687015" lon="-73.07759433">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="480"/>
-    <tag k="addr:street" v="East Shore Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128225"/>
-  </node>
-  <node id="-137" visible="true" lat="44.36888664" lon="-73.07699014">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="456"/>
-    <tag k="addr:street" v="East Shore Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128226"/>
-  </node>
   <node id="-138" visible="true" lat="44.36868352" lon="-73.05662707">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="1057"/>
     <tag k="addr:street" v="Magee Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128227"/>
-  </node>
-  <node id="-139" visible="true" lat="44.36849368" lon="-73.07823815">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Dimick Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128228"/>
-  </node>
-  <node id="-140" visible="true" lat="44.3685164" lon="-73.0688947">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="3121"/>
-    <tag k="addr:street" v="Richmond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128229"/>
-  </node>
-  <node id="-141" visible="true" lat="44.36828165" lon="-73.0783565">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="522"/>
-    <tag k="addr:street" v="East Shore Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128230"/>
-  </node>
-  <node id="-142" visible="true" lat="44.36836242" lon="-73.08055877">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="546"/>
-    <tag k="addr:street" v="East Shore Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128231"/>
   </node>
   <node id="-143" visible="true" lat="44.36862857" lon="-73.05119152">
     <tag k="addr:city" v="Hinesburg"/>
@@ -216,20 +132,6 @@
     <tag k="addr:street" v="Pine Shore Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128233"/>
-  </node>
-  <node id="-145" visible="true" lat="44.36806186" lon="-73.07813709">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="524"/>
-    <tag k="addr:street" v="East Shore Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128234"/>
-  </node>
-  <node id="-146" visible="true" lat="44.36808886" lon="-73.06669492">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="3192"/>
-    <tag k="addr:street" v="Richmond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128235"/>
   </node>
   <node id="-147" visible="true" lat="44.36810675" lon="-73.08816388">
     <tag k="addr:city" v="Hinesburg"/>
@@ -258,13 +160,6 @@
     <tag k="addr:street" v="Pine Shore Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128239"/>
-  </node>
-  <node id="-151" visible="true" lat="44.36774444" lon="-73.07785797">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="551"/>
-    <tag k="addr:street" v="East Shore Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128240"/>
   </node>
   <node id="-152" visible="true" lat="44.36776103" lon="-73.0515802">
     <tag k="addr:city" v="Hinesburg"/>
@@ -308,13 +203,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128246"/>
   </node>
-  <node id="-158" visible="true" lat="44.36741155" lon="-73.06968979">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="3031"/>
-    <tag k="addr:street" v="Richmond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128247"/>
-  </node>
   <node id="-159" visible="true" lat="44.36747725" lon="-73.06037819">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="858"/>
@@ -328,13 +216,6 @@
     <tag k="addr:street" v="Pine Shore Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128249"/>
-  </node>
-  <node id="-161" visible="true" lat="44.36729427" lon="-73.07799723">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="579"/>
-    <tag k="addr:street" v="East Shore Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128250"/>
   </node>
   <node id="-162" visible="true" lat="44.3673973" lon="-73.04238891">
     <tag k="addr:city" v="Hinesburg"/>
@@ -356,13 +237,6 @@
     <tag k="addr:street" v="Sherman Hollow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128253"/>
-  </node>
-  <node id="-165" visible="true" lat="44.36710739" lon="-73.07801818">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="595"/>
-    <tag k="addr:street" v="East Shore Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128254"/>
   </node>
   <node id="-166" visible="true" lat="44.36709298" lon="-73.06530213">
     <tag k="addr:city" v="Hinesburg"/>
@@ -441,26 +315,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128265"/>
   </node>
-  <node id="-177" visible="true" lat="44.36640638" lon="-73.07809525">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="649"/>
-    <tag k="addr:street" v="East Shore Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128266"/>
-  </node>
   <node id="-178" visible="true" lat="44.36623228" lon="-73.08739739">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="424"/>
     <tag k="addr:street" v="Pine Shore Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128267"/>
-  </node>
-  <node id="-179" visible="true" lat="44.36604109" lon="-73.078123">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="655"/>
-    <tag k="addr:street" v="East Shore Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128268"/>
   </node>
   <node id="-180" visible="true" lat="44.36612592" lon="-73.09109791">
     <tag k="addr:city" v="Hinesburg"/>
@@ -483,13 +343,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128271"/>
   </node>
-  <node id="-183" visible="true" lat="44.36581399" lon="-73.07816335">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="685"/>
-    <tag k="addr:street" v="East Shore Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128272"/>
-  </node>
   <node id="-184" visible="true" lat="44.36568854" lon="-73.08747109">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="400"/>
@@ -510,13 +363,6 @@
     <tag k="addr:street" v="Sherman Hollow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128275"/>
-  </node>
-  <node id="-187" visible="true" lat="44.36553484" lon="-73.07816255">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="699"/>
-    <tag k="addr:street" v="East Shore Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128276"/>
   </node>
   <node id="-188" visible="true" lat="44.36542892" lon="-73.09268188">
     <tag k="addr:city" v="Hinesburg"/>
@@ -552,13 +398,6 @@
     <tag k="addr:street" v="Pine Shore Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128281"/>
-  </node>
-  <node id="-193" visible="true" lat="44.36519622" lon="-73.07057189">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="2882"/>
-    <tag k="addr:street" v="Richmond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128282"/>
   </node>
   <node id="-194" visible="true" lat="44.36521782" lon="-73.0675238">
     <tag k="addr:city" v="Hinesburg"/>
@@ -756,54 +595,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128310"/>
   </node>
-  <node id="-222" visible="true" lat="44.36298525" lon="-73.08068381">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="268"/>
-    <tag k="addr:street" v="Upper Access Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128311"/>
-  </node>
   <node id="-223" visible="true" lat="44.36265043" lon="-73.149615">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="457"/>
     <tag k="addr:street" v="Weed Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128312"/>
-  </node>
-  <node id="-224" visible="true" lat="44.36283934" lon="-73.08070319">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="282"/>
-    <tag k="addr:street" v="Upper Access Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128313"/>
-  </node>
-  <node id="-225" visible="true" lat="44.3627844" lon="-73.08519651">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="Old Pump Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128314"/>
-  </node>
-  <node id="-226" visible="true" lat="44.36268685" lon="-73.08079877">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="281"/>
-    <tag k="addr:street" v="Upper Access Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128315"/>
-  </node>
-  <node id="-227" visible="true" lat="44.36255514" lon="-73.08087344">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="277"/>
-    <tag k="addr:street" v="Upper Access Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128316"/>
-  </node>
-  <node id="-228" visible="true" lat="44.36260986" lon="-73.08553314">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Old Pump Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128317"/>
   </node>
   <node id="-229" visible="true" lat="44.36255987" lon="-73.0915349">
     <tag k="addr:city" v="Hinesburg"/>
@@ -812,47 +609,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128318"/>
   </node>
-  <node id="-230" visible="true" lat="44.36267123" lon="-73.08497524">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="399"/>
-    <tag k="addr:street" v="Southwest Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128319"/>
-  </node>
-  <node id="-231" visible="true" lat="44.36263902" lon="-73.08479203">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="403"/>
-    <tag k="addr:street" v="Southwest Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128320"/>
-  </node>
-  <node id="-232" visible="true" lat="44.36252522" lon="-73.08415436">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="433"/>
-    <tag k="addr:street" v="Southwest Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128321"/>
-  </node>
-  <node id="-233" visible="true" lat="44.36257371" lon="-73.08437055">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="423"/>
-    <tag k="addr:street" v="Southwest Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128322"/>
-  </node>
   <node id="-234" visible="true" lat="44.36239718" lon="-73.07511997">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="1079"/>
     <tag k="addr:street" v="Pond Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128323"/>
-  </node>
-  <node id="-235" visible="true" lat="44.3625313" lon="-73.08392111">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="451"/>
-    <tag k="addr:street" v="Southwest Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128324"/>
   </node>
   <node id="-236" visible="true" lat="44.36210146" lon="-73.12511505">
     <tag k="addr:city" v="Hinesburg"/>
@@ -861,27 +623,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128325"/>
   </node>
-  <node id="-237" visible="true" lat="44.36256783" lon="-73.08458895">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="421"/>
-    <tag k="addr:street" v="Southwest Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128326"/>
-  </node>
-  <node id="-238" visible="true" lat="44.36242397" lon="-73.08381919">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="449"/>
-    <tag k="addr:street" v="Southwest Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128327"/>
-  </node>
-  <node id="-239" visible="true" lat="44.36231198" lon="-73.08064501">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Wheatley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128328"/>
-  </node>
   <node id="-240" visible="true" lat="44.36238298" lon="-73.08091186">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="250"/>
@@ -889,26 +630,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128329"/>
   </node>
-  <node id="-241" visible="true" lat="44.36239087" lon="-73.08034396">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Wheatley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128330"/>
-  </node>
   <node id="-242" visible="true" lat="44.36189269" lon="-73.15253448">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="225"/>
     <tag k="addr:street" v="Weed Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128331"/>
-  </node>
-  <node id="-243" visible="true" lat="44.36221666" lon="-73.08166966">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="177"/>
-    <tag k="addr:street" v="Wood Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128332"/>
   </node>
   <node id="-244" visible="true" lat="44.36182403" lon="-73.14825439">
     <tag k="addr:city" v="Hinesburg"/>
@@ -924,68 +651,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128334"/>
   </node>
-  <node id="-246" visible="true" lat="44.36208347" lon="-73.08398537">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="453"/>
-    <tag k="addr:street" v="Southwest Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128335"/>
-  </node>
-  <node id="-247" visible="true" lat="44.36208347" lon="-73.08163551">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="169"/>
-    <tag k="addr:street" v="Wood Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128336"/>
-  </node>
-  <node id="-248" visible="true" lat="44.36205382" lon="-73.08482783">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="422"/>
-    <tag k="addr:street" v="Southwest Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128337"/>
-  </node>
-  <node id="-249" visible="true" lat="44.36205473" lon="-73.07845177">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="Upper Access Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128338"/>
-  </node>
-  <node id="-250" visible="true" lat="44.36188665" lon="-73.07862365">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:street" v="Upper Access Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128339"/>
-  </node>
-  <node id="-251" visible="true" lat="44.36189354" lon="-73.08410546">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="450"/>
-    <tag k="addr:street" v="Southwest Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128340"/>
-  </node>
   <node id="-252" visible="true" lat="44.36139879" lon="-73.15887551">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="2804"/>
     <tag k="addr:street" v="Shelburne Falls Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128341"/>
-  </node>
-  <node id="-253" visible="true" lat="44.3616942" lon="-73.08417622">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="452"/>
-    <tag k="addr:street" v="Southwest Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128342"/>
-  </node>
-  <node id="-254" visible="true" lat="44.36174011" lon="-73.08126068">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="213"/>
-    <tag k="addr:street" v="Wood Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128343"/>
   </node>
   <node id="-255" visible="true" lat="44.36155458" lon="-73.07225085">
     <tag k="addr:city" v="Hinesburg"/>
@@ -994,33 +665,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128344"/>
   </node>
-  <node id="-256" visible="true" lat="44.36178397" lon="-73.08201575">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="167"/>
-    <tag k="addr:street" v="Wood Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128345"/>
-  </node>
-  <node id="-257" visible="true" lat="44.36163333" lon="-73.08222298">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="145"/>
-    <tag k="addr:street" v="Wood Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128346"/>
-  </node>
   <node id="-258" visible="true" lat="44.36124806" lon="-73.12511169">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="8260"/>
     <tag k="addr:street" v="Vermont Route 116"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128347"/>
-  </node>
-  <node id="-259" visible="true" lat="44.36159896" lon="-73.08102417">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="204"/>
-    <tag k="addr:street" v="Wood Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128348"/>
   </node>
   <node id="-260" visible="true" lat="44.36144284" lon="-73.1233499">
     <tag k="addr:city" v="Hinesburg"/>
@@ -1029,20 +679,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128349"/>
   </node>
-  <node id="-261" visible="true" lat="44.3614905" lon="-73.08130815">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="190"/>
-    <tag k="addr:street" v="Wood Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128350"/>
-  </node>
-  <node id="-262" visible="true" lat="44.36158498" lon="-73.0831235">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="129"/>
-    <tag k="addr:street" v="Wood Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128351"/>
-  </node>
   <node id="-263" visible="true" lat="44.36131271" lon="-73.09161018">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="1544"/>
@@ -1050,68 +686,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128352"/>
   </node>
-  <node id="-264" visible="true" lat="44.36146926" lon="-73.08170318">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="162"/>
-    <tag k="addr:street" v="Wood Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128353"/>
-  </node>
   <node id="-265" visible="true" lat="44.36169833" lon="-73.03854418">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="942"/>
     <tag k="addr:street" v="Sherman Hollow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128354"/>
-  </node>
-  <node id="-266" visible="true" lat="44.36139759" lon="-73.08442413">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="Cove Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128355"/>
-  </node>
-  <node id="-267" visible="true" lat="44.36132435" lon="-73.08093406">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="202"/>
-    <tag k="addr:street" v="Wood Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128356"/>
-  </node>
-  <node id="-268" visible="true" lat="44.36148346" lon="-73.07828018">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="875"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128357"/>
-  </node>
-  <node id="-269" visible="true" lat="44.36129379" lon="-73.08219146">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="147"/>
-    <tag k="addr:street" v="Wood Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128358"/>
-  </node>
-  <node id="-270" visible="true" lat="44.36134597" lon="-73.07651814">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="993"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128359"/>
-  </node>
-  <node id="-271" visible="true" lat="44.36121749" lon="-73.07572174">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="1015"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128360"/>
-  </node>
-  <node id="-272" visible="true" lat="44.36122842" lon="-73.08448232">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Cove Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128361"/>
   </node>
   <node id="-273" visible="true" lat="44.36076736" lon="-73.1478424">
     <tag k="addr:city" v="Hinesburg"/>
@@ -1141,27 +721,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128365"/>
   </node>
-  <node id="-277" visible="true" lat="44.36096617" lon="-73.08379281">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Pikes Point Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128366"/>
-  </node>
-  <node id="-278" visible="true" lat="44.36077674" lon="-73.07625384">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="980"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128367"/>
-  </node>
-  <node id="-279" visible="true" lat="44.36066942" lon="-73.07731888">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="934"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128368"/>
-  </node>
   <node id="-280" visible="true" lat="44.36078096" lon="-73.07310582">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="46"/>
@@ -1176,27 +735,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128370"/>
   </node>
-  <node id="-282" visible="true" lat="44.36080321" lon="-73.08115587">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Wood Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128371"/>
-  </node>
-  <node id="-283" visible="true" lat="44.36085236" lon="-73.07907861">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="847"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128372"/>
-  </node>
-  <node id="-284" visible="true" lat="44.36071016" lon="-73.0846793">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Pikes Point Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128373"/>
-  </node>
   <node id="-285" visible="true" lat="44.36046549" lon="-73.12315002">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="8377"/>
@@ -1210,20 +748,6 @@
     <tag k="addr:street" v="Shelburne Falls Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128375"/>
-  </node>
-  <node id="-287" visible="true" lat="44.36054115" lon="-73.0794539">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="817"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128376"/>
-  </node>
-  <node id="-288" visible="true" lat="44.36033196" lon="-73.08008803">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="787"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128377"/>
   </node>
   <node id="-289" visible="true" lat="44.36022399" lon="-73.09193253">
     <tag k="addr:city" v="Hinesburg"/>
@@ -1259,20 +783,6 @@
     <tag k="addr:street" v="Shelburne Falls Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128382"/>
-  </node>
-  <node id="-294" visible="true" lat="44.35982508" lon="-73.08123049">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="711"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128383"/>
-  </node>
-  <node id="-295" visible="true" lat="44.35958115" lon="-73.0804096">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="742"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128384"/>
   </node>
   <node id="-296" visible="true" lat="44.35911155" lon="-73.1468756">
     <tag k="addr:city" v="Hinesburg"/>
@@ -1337,47 +847,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128393"/>
   </node>
-  <node id="-305" visible="true" lat="44.35834368" lon="-73.09349008">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="1325"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128394"/>
-  </node>
   <node id="-306" visible="true" lat="44.3579197" lon="-73.12524929">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="8472"/>
     <tag k="addr:street" v="Vermont Route 116"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128395"/>
-  </node>
-  <node id="-307" visible="true" lat="44.35824635" lon="-73.08395725">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="535"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128396"/>
-  </node>
-  <node id="-308" visible="true" lat="44.35755069" lon="-73.09388148">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="1285"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128397"/>
-  </node>
-  <node id="-309" visible="true" lat="44.357806" lon="-73.08506548">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="475"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128398"/>
-  </node>
-  <node id="-310" visible="true" lat="44.35758222" lon="-73.09276276">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="1266"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128399"/>
   </node>
   <node id="-311" visible="true" lat="44.35754519" lon="-73.06840693">
     <tag k="addr:city" v="Hinesburg"/>
@@ -1393,20 +868,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128401"/>
   </node>
-  <node id="-313" visible="true" lat="44.3572998" lon="-73.09088134">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="157"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128402"/>
-  </node>
-  <node id="-314" visible="true" lat="44.35728364" lon="-73.08512835">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="464"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128403"/>
-  </node>
   <node id="-315" visible="true" lat="44.3570404" lon="-73.12238311">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="8582"/>
@@ -1421,41 +882,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128406"/>
   </node>
-  <node id="-317" visible="true" lat="44.35707473" lon="-73.08982086">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="217"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128407"/>
-  </node>
-  <node id="-318" visible="true" lat="44.35699229" lon="-73.09616433">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="Craigy Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128408"/>
-  </node>
-  <node id="-319" visible="true" lat="44.35698441" lon="-73.09284454">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="1238"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128409"/>
-  </node>
-  <node id="-320" visible="true" lat="44.35668099" lon="-73.08862026">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="280"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128410"/>
-  </node>
-  <node id="-321" visible="true" lat="44.35657095" lon="-73.09416393">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="1177"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128411"/>
-  </node>
   <node id="-322" visible="true" lat="44.35644912" lon="-73.07723999">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="146"/>
@@ -1463,33 +889,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128412"/>
   </node>
-  <node id="-323" visible="true" lat="44.35616855" lon="-73.09782278">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Craigy Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128413"/>
-  </node>
-  <node id="-324" visible="true" lat="44.35655072" lon="-73.09243193">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="97"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128414"/>
-  </node>
   <node id="-325" visible="true" lat="44.35580497" lon="-73.07582652">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="2159"/>
     <tag k="addr:street" v="Richmond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128415"/>
-  </node>
-  <node id="-326" visible="true" lat="44.35623935" lon="-73.09066872">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="178"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128416"/>
   </node>
   <node id="-327" visible="true" lat="44.35576296" lon="-73.15605688">
     <tag k="addr:city" v="Hinesburg"/>
@@ -1505,26 +910,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128418"/>
   </node>
-  <node id="-329" visible="true" lat="44.35605658" lon="-73.0934076">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="1166"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128419"/>
-  </node>
   <node id="-330" visible="true" lat="44.35599995" lon="-73.12230624">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:street" v="Hickory Place"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128420"/>
-  </node>
-  <node id="-331" visible="true" lat="44.35595697" lon="-73.08411522">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="196"/>
-    <tag k="addr:street" v="Trillium Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128421"/>
   </node>
   <node id="-332" visible="true" lat="44.35573293" lon="-73.07767402">
     <tag k="addr:city" v="Hinesburg"/>
@@ -1602,13 +993,6 @@
     <tag k="addr:street" v="Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128432"/>
-  </node>
-  <node id="-343" visible="true" lat="44.35487607" lon="-73.08492485">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="177"/>
-    <tag k="addr:street" v="Trillium Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128433"/>
   </node>
   <node id="-344" visible="true" lat="44.35450759" lon="-73.12122856">
     <tag k="addr:city" v="Hinesburg"/>
@@ -5376,13 +4760,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128974"/>
   </node>
-  <node id="-883" visible="true" lat="44.34100802" lon="-73.11840157">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Ballards Corner Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128975"/>
-  </node>
   <node id="-884" visible="true" lat="44.34103563" lon="-73.09551855">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="175"/>
@@ -7924,13 +7301,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129351"/>
   </node>
-  <node id="-1257" visible="true" lat="44.32237482" lon="-73.06544862">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="467"/>
-    <tag k="addr:street" v="Lincoln Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129352"/>
-  </node>
   <node id="-1258" visible="true" lat="44.3221817" lon="-73.09864807">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="11532"/>
@@ -7980,13 +7350,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129359"/>
   </node>
-  <node id="-1265" visible="true" lat="44.32217439" lon="-73.06492065">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="465"/>
-    <tag k="addr:street" v="Lincoln Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129360"/>
-  </node>
   <node id="-1266" visible="true" lat="44.32191989" lon="-73.09191428">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="419"/>
@@ -8001,26 +7364,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129362"/>
   </node>
-  <node id="-1268" visible="true" lat="44.32170232" lon="-73.06645244">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="411"/>
-    <tag k="addr:street" v="Lincoln Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129363"/>
-  </node>
   <node id="-1269" visible="true" lat="44.32173585" lon="-73.07953955">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="152"/>
     <tag k="addr:street" v="Forests Edge"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129364"/>
-  </node>
-  <node id="-1270" visible="true" lat="44.32129381" lon="-73.06539341">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="406"/>
-    <tag k="addr:street" v="Lincoln Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129365"/>
   </node>
   <node id="-1271" visible="true" lat="44.32104873" lon="-73.13444519">
     <tag k="addr:city" v="Hinesburg"/>
@@ -8029,26 +7378,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129366"/>
   </node>
-  <node id="-1272" visible="true" lat="44.32138715" lon="-73.06866376">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="269"/>
-    <tag k="addr:street" v="Lincoln Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129367"/>
-  </node>
   <node id="-1273" visible="true" lat="44.32092582" lon="-73.11131484">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="378"/>
     <tag k="addr:street" v="Silver Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129368"/>
-  </node>
-  <node id="-1274" visible="true" lat="44.32133177" lon="-73.06888764">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="267"/>
-    <tag k="addr:street" v="Lincoln Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129369"/>
   </node>
   <node id="-1275" visible="true" lat="44.32111805" lon="-73.11433864">
     <tag k="addr:city" v="Hinesburg"/>
@@ -8057,33 +7392,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129370"/>
   </node>
-  <node id="-1276" visible="true" lat="44.32119737" lon="-73.06132847">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="657"/>
-    <tag k="addr:street" v="Lincoln Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129371"/>
-  </node>
-  <node id="-1277" visible="true" lat="44.32105636" lon="-73.06458282">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Cb Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129372"/>
-  </node>
   <node id="-1278" visible="true" lat="44.3205719" lon="-73.14625549">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="2139"/>
     <tag k="addr:street" v="Charlotte Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129373"/>
-  </node>
-  <node id="-1279" visible="true" lat="44.32110057" lon="-73.05867871">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="725"/>
-    <tag k="addr:street" v="Lincoln Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129374"/>
   </node>
   <node id="-1280" visible="true" lat="44.32054519" lon="-73.13598632">
     <tag k="addr:city" v="Hinesburg"/>
@@ -8106,13 +7420,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129377"/>
   </node>
-  <node id="-1283" visible="true" lat="44.32059464" lon="-73.06843709">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="296"/>
-    <tag k="addr:street" v="Lincoln Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129378"/>
-  </node>
   <node id="-1284" visible="true" lat="44.32068188" lon="-73.07908779">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="56"/>
@@ -8120,26 +7427,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129379"/>
   </node>
-  <node id="-1285" visible="true" lat="44.32055303" lon="-73.0645759">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Cb Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129380"/>
-  </node>
   <node id="-1286" visible="true" lat="44.32001876" lon="-73.13799285">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="268"/>
     <tag k="addr:street" v="Fletcher Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129381"/>
-  </node>
-  <node id="-1287" visible="true" lat="44.32025579" lon="-73.0654789">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Cb Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129382"/>
   </node>
   <node id="-1288" visible="true" lat="44.31970596" lon="-73.14305114">
     <tag k="addr:city" v="Hinesburg"/>
@@ -8274,13 +7567,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129401"/>
   </node>
-  <node id="-1307" visible="true" lat="44.31917449" lon="-73.06541436">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="189"/>
-    <tag k="addr:street" v="Cb Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129402"/>
-  </node>
   <node id="-1308" visible="true" lat="44.31884002" lon="-73.11100769">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="590"/>
@@ -8323,13 +7609,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129408"/>
   </node>
-  <node id="-1314" visible="true" lat="44.31834552" lon="-73.06560195">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="245"/>
-    <tag k="addr:street" v="Cb Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129409"/>
-  </node>
   <node id="-1315" visible="true" lat="44.31815413" lon="-73.06627449">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="240"/>
@@ -8364,13 +7643,6 @@
     <tag k="addr:street" v="Silver Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129414"/>
-  </node>
-  <node id="-1320" visible="true" lat="44.31768591" lon="-73.06665724">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="204"/>
-    <tag k="addr:street" v="Cb Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129415"/>
   </node>
   <node id="-1321" visible="true" lat="44.31740117" lon="-73.07841982">
     <tag k="addr:city" v="Hinesburg"/>
@@ -10787,13 +10059,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129794"/>
   </node>
-  <node id="-1696" visible="true" lat="44.35896978" lon="-73.09117525">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="1290"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129795"/>
-  </node>
   <node id="-1697" visible="true" lat="44.36801416" lon="-73.0985899">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="449"/>
@@ -10968,13 +10233,6 @@
     <tag k="addr:street" v="Texas Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129821"/>
-  </node>
-  <node id="-1723" visible="true" lat="44.36050818" lon="-73.07873815">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="848"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129822"/>
   </node>
   <node id="-1724" visible="true" lat="44.34152743" lon="-73.11144419">
     <tag k="addr:city" v="Hinesburg"/>
@@ -11641,13 +10899,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307354"/>
   </node>
-  <node id="-1825" visible="true" lat="44.31793495" lon="-73.06556348">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="247"/>
-    <tag k="addr:street" v="Cb Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310090"/>
-  </node>
   <node id="-1826" visible="true" lat="44.35028085" lon="-73.07881348">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="151"/>
@@ -11661,13 +10912,6 @@
     <tag k="addr:street" v="Oneil Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310092"/>
-  </node>
-  <node id="-1828" visible="true" lat="44.35886057" lon="-73.08985659">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="1294"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310094"/>
   </node>
   <node id="-1829" visible="true" lat="44.3116463" lon="-73.07871598">
     <tag k="addr:city" v="Hinesburg"/>
@@ -11787,13 +11031,6 @@
     <tag k="addr:street" v="Taproot Farm Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="317513"/>
-  </node>
-  <node id="-1847" visible="true" lat="44.36165277" lon="-73.07431595">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="1121"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="317581"/>
   </node>
   <node id="-1848" visible="true" lat="44.32679913" lon="-73.10183064">
     <tag k="addr:city" v="Hinesburg"/>
@@ -12481,13 +11718,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="446596"/>
   </node>
-  <node id="-1951" visible="true" lat="44.36250288" lon="-73.0793865">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Wheatley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="446770"/>
-  </node>
   <node id="-1952" visible="true" lat="44.34179354" lon="-73.08434492">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="252"/>
@@ -13146,13 +12376,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751777"/>
   </node>
-  <node id="-2057" visible="true" lat="44.35737807" lon="-73.08893295">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="273"/>
-    <tag k="addr:street" v="Pond Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751830"/>
-  </node>
   <node id="-2061" visible="true" lat="44.34709954" lon="-73.1117956">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="328"/>
@@ -13769,13 +12992,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768033"/>
   </node>
-  <node id="-2213" visible="true" lat="44.3182363" lon="-73.05961548">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="832"/>
-    <tag k="addr:street" v="Lincoln Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768038"/>
-  </node>
   <node id="-2214" visible="true" lat="44.30849424" lon="-73.03620694">
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="2317"/>
@@ -13908,13 +13124,6 @@
     <tag k="addr:street" v="Lagoon Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="900045"/>
-  </node>
-  <node id="-2234" visible="true" lat="44.35755108" lon="-73.09470332">
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Craigy Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="900330"/>
   </node>
   <node id="-2235" visible="true" lat="44.31177453" lon="-73.07915397">
     <tag k="addr:city" v="Hinesburg"/>

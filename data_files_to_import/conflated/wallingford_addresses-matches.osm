@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-219" visible="true" lat="43.47616195" lon="-72.97682952">
+    <!-- match: "309 North Main Street, , VT"  ignoring missing state when matching to "309 North Main Street, , " -->
+    <tag k="addr:housenumber" v="309"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="269100"/>
+  </node>
   <node id="-225" visible="true" lat="43.47592926" lon="-72.97585296">
     <tag k="addr:housenumber" v="36"/>
     <tag k="addr:street" v="Nash Drive"/>

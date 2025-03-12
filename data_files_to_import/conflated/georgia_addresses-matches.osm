@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-284" visible="true" lat="44.76783951" lon="-73.16162143">
+    <tag k="addr:housenumber" v="4815"/>
+    <tag k="addr:street" v="Georgia Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110065"/>
+  </node>
+  <node id="-580" visible="true" lat="44.73531921" lon="-73.11417274">
+    <!-- match: "4416 Ethan Allen Highway, , VT"  ignoring missing state when matching to "4416 Ethan Allen Highway, Georgia, " -->
+    <tag k="addr:housenumber" v="4416"/>
+    <tag k="addr:street" v="Ethan Allen Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110362"/>
+  </node>
+  <node id="-799" visible="true" lat="44.71824073" lon="-73.11349152">
+    <!-- match: "3157 Ethan Allen Highway, , VT"  ignoring missing state when matching to "3157 Ethan Allen Highway, , " -->
+    <tag k="addr:housenumber" v="3157"/>
+    <tag k="addr:street" v="Ethan Allen Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110584"/>
+  </node>
+  <node id="-937" visible="true" lat="44.70693257" lon="-73.10400582">
+    <!-- match: "1959 Ethan Allen Highway, , VT"  ignoring missing state when matching to "1959 Ethan Allen Highway, Georgia, " -->
+    <tag k="addr:housenumber" v="1959"/>
+    <tag k="addr:street" v="Ethan Allen Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110725"/>
+  </node>
+  <node id="-968" visible="true" lat="44.70478966" lon="-73.17730438">
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Rhodeside Acres"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110756"/>
+  </node>
+  <node id="-973" visible="true" lat="44.70450826" lon="-73.17731024">
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Rhodeside Acres"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110761"/>
+  </node>
+  <node id="-975" visible="true" lat="44.70436655" lon="-73.17677329">
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Rhodeside Acres"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110763"/>
+  </node>
   <node id="-989" visible="true" lat="44.70300333" lon="-73.10544184">
     <tag k="addr:housenumber" v="1697"/>
     <tag k="addr:street" v="Ethan Allen Highway"/>
@@ -12,16 +57,154 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="110863"/>
   </node>
+  <node id="-1152" visible="true" lat="44.69609875" lon="-73.10706098">
+    <!-- match: "1193 Ethan Allen Highway, , VT"  ignoring missing state when matching to "1193 Ethan Allen Highway, , " -->
+    <tag k="addr:housenumber" v="1193"/>
+    <tag k="addr:street" v="Ethan Allen Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110943"/>
+  </node>
+  <node id="-1173" visible="true" lat="44.69565963" lon="-73.10922241">
+    <!-- match: "1149 Ethan Allen Highway, , VT"  ignoring missing state when matching to "1149 Ethan Allen Highway, , " -->
+    <tag k="addr:housenumber" v="1149"/>
+    <tag k="addr:street" v="Ethan Allen Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110966"/>
+  </node>
+  <node id="-1176" visible="true" lat="44.69560345" lon="-73.10727453">
+    <!-- match: "1161 Ethan Allen Highway, , VT"  ignoring missing state when matching to "1161 Ethan Allen Highway, , " -->
+    <tag k="addr:housenumber" v="1161"/>
+    <tag k="addr:street" v="Ethan Allen Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110969"/>
+  </node>
+  <node id="-1186" visible="true" lat="44.69544667" lon="-73.10723932">
+    <!-- match: "1151 Ethan Allen Highway, , VT"  ignoring missing state when matching to "1151 Ethan Allen Highway, , " -->
+    <tag k="addr:housenumber" v="1151"/>
+    <tag k="addr:street" v="Ethan Allen Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110979"/>
+  </node>
+  <node id="-1194" visible="true" lat="44.69535721" lon="-73.1082902">
+    <!-- match: "1127 Ethan Allen Highway, , VT"  ignoring missing state when matching to "1127 Ethan Allen Highway, , " -->
+    <tag k="addr:housenumber" v="1127"/>
+    <tag k="addr:street" v="Ethan Allen Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110988"/>
+  </node>
+  <node id="-1202" visible="true" lat="44.69519179" lon="-73.10696044">
+    <!-- match: "4504 Highbridge Road, , VT"  ignoring missing state when matching to "4504 Highbridge Road, , " -->
+    <tag k="addr:housenumber" v="4504"/>
+    <tag k="addr:street" v="Highbridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110997"/>
+  </node>
+  <node id="-1239" visible="true" lat="44.69394341" lon="-73.10744861">
+    <!-- match: "1050 Ethan Allen Highway, , VT"  ignoring missing state when matching to "1050 Ethan Allen Highway, , " -->
+    <tag k="addr:housenumber" v="1050"/>
+    <tag k="addr:street" v="Ethan Allen Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111038"/>
+  </node>
   <node id="-1302" visible="true" lat="44.69304759" lon="-73.10777638">
     <tag k="addr:housenumber" v="962"/>
     <tag k="addr:street" v="Ethan Allen Highway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111102"/>
   </node>
+  <node id="-1361" visible="true" lat="44.69132614" lon="-73.10909271">
+    <!-- match: "863 Ethan Allen Highway, , VT"  ignoring missing state when matching to "863 Ethan Allen Highway, , " -->
+    <tag k="addr:housenumber" v="863"/>
+    <tag k="addr:street" v="Ethan Allen Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111163"/>
+  </node>
+  <node id="-1367" visible="true" lat="44.69127273" lon="-73.10930633">
+    <!-- match: "24 Ballard Road, , VT"  ignoring missing state when matching to "24 Ballard Road, , " -->
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Ballard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111171"/>
+  </node>
+  <node id="-1535" visible="true" lat="44.68520994" lon="-73.12633077">
+    <tag k="addr:housenumber" v="650"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111347"/>
+  </node>
+  <node id="-1569" visible="true" lat="44.68387867" lon="-73.11179255">
+    <!-- match: "35 Heritage Drive, , VT"  ignoring missing state when matching to "35 Heritage Drive, , " -->
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Heritage Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111381"/>
+  </node>
+  <node id="-1650" visible="true" lat="44.6736412" lon="-73.08531189">
+    <!-- match: "494 Arrow Head Lake Road, , VT"  ignoring missing state when matching to "494 Arrow Head Lake Road, , " -->
+    <tag k="addr:housenumber" v="494"/>
+    <tag k="addr:street" v="Arrow Head Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111462"/>
+  </node>
+  <node id="-1654" visible="true" lat="44.67247037" lon="-73.08879104">
+    <!-- match: "166 Falco Road, , VT"  ignoring missing state when matching to "166 Falco Road, , " -->
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:street" v="Falco Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111466"/>
+  </node>
+  <node id="-1655" visible="true" lat="44.67218913" lon="-73.08750776">
+    <!-- match: "82 Falco Road, , VT"  ignoring missing state when matching to "82 Falco Road, , " -->
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Falco Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111467"/>
+  </node>
+  <node id="-1656" visible="true" lat="44.67201614" lon="-73.09034729">
+    <!-- match: "370 Falco Road, , VT"  ignoring missing state when matching to "370 Falco Road, , " -->
+    <tag k="addr:housenumber" v="370"/>
+    <tag k="addr:street" v="Falco Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111468"/>
+  </node>
+  <node id="-1776" visible="true" lat="44.69211971" lon="-73.10952301">
+    <!-- match: "927 Ethan Allen Highway, , VT"  ignoring missing state when matching to "927 Ethan Allen Highway, , " -->
+    <tag k="addr:housenumber" v="927"/>
+    <tag k="addr:street" v="Ethan Allen Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111591"/>
+  </node>
+  <node id="-1817" visible="true" lat="44.69967548" lon="-73.10129952">
+    <!-- match: "27 Morse Drive, , VT"  ignoring missing state when matching to "27 Morse Drive, , " -->
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Morse Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111635"/>
+  </node>
+  <node id="-1953" visible="true" lat="44.69744972" lon="-73.10333303">
+    <!-- match: "158 Morse Drive, , VT"  ignoring missing state when matching to "158 Morse Drive, , " -->
+    <tag k="addr:housenumber" v="158"/>
+    <tag k="addr:street" v="Morse Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="332516"/>
+  </node>
+  <node id="-1975" visible="true" lat="44.69193159" lon="-73.11250886">
+    <!-- match: "164 Ballard Road, , VT"  ignoring missing state when matching to "164 Ballard Road, , " -->
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:street" v="Ballard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337956"/>
+  </node>
   <node id="-2222" visible="true" lat="44.69282307" lon="-73.10402809">
     <tag k="addr:housenumber" v="4282"/>
     <tag k="addr:street" v="Highbridge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760137"/>
+  </node>
+  <node id="-2290" visible="true" lat="44.69385164" lon="-73.10690589">
+    <tag k="addr:housenumber" v="4451"/>
+    <tag k="addr:street" v="Highbridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768718"/>
   </node>
 </osm>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-125" visible="true" lat="44.36225891" lon="-72.3375473">
     <tag k="addr:housenumber" v="989"/>
     <tag k="addr:street" v="Cabot Road"/>
@@ -324,23 +324,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152644"/>
   </node>
-  <node id="-231" visible="true" lat="44.35142873" lon="-72.35427475">
-    <tag k="addr:housenumber" v="1720"/>
-    <tag k="addr:street" v="U.S. Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="152645"/>
-  </node>
   <node id="-232" visible="true" lat="44.35145941" lon="-72.3520058">
     <tag k="addr:housenumber" v="1616"/>
     <tag k="addr:street" v="U.S. Route 2"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152646"/>
-  </node>
-  <node id="-233" visible="true" lat="44.35143534" lon="-72.35275132">
-    <tag k="addr:housenumber" v="1648"/>
-    <tag k="addr:street" v="U.S. Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="152647"/>
   </node>
   <node id="-234" visible="true" lat="44.35137562" lon="-72.35555667">
     <tag k="addr:housenumber" v="8"/>
@@ -353,12 +341,6 @@
     <tag k="addr:street" v="U.S. Route 2"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152649"/>
-  </node>
-  <node id="-236" visible="true" lat="44.35143816" lon="-72.35369369">
-    <tag k="addr:housenumber" v="1696"/>
-    <tag k="addr:street" v="U.S. Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="152650"/>
   </node>
   <node id="-237" visible="true" lat="44.35131454" lon="-72.34984588">
     <tag k="addr:housenumber" v="20"/>
@@ -390,12 +372,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152656"/>
   </node>
-  <node id="-243" visible="true" lat="44.35102487" lon="-72.35266289">
-    <tag k="addr:housenumber" v="1651"/>
-    <tag k="addr:street" v="U.S. Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="152657"/>
-  </node>
   <node id="-244" visible="true" lat="44.35113027" lon="-72.35167987">
     <tag k="addr:housenumber" v="1611"/>
     <tag k="addr:street" v="U.S. Route 2"/>
@@ -413,12 +389,6 @@
     <tag k="addr:street" v="U.S. Route 2"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152661"/>
-  </node>
-  <node id="-248" visible="true" lat="44.3510949" lon="-72.35391916">
-    <tag k="addr:housenumber" v="1709"/>
-    <tag k="addr:street" v="U.S. Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="152662"/>
   </node>
   <node id="-249" visible="true" lat="44.35100305" lon="-72.35321386">
     <tag k="addr:housenumber" v="1669"/>
@@ -438,23 +408,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152665"/>
   </node>
-  <node id="-252" visible="true" lat="44.35084877" lon="-72.35224807">
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Grist Mill Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="152666"/>
-  </node>
   <node id="-256" visible="true" lat="44.35070548" lon="-72.35352916">
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:street" v="School Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152670"/>
-  </node>
-  <node id="-258" visible="true" lat="44.35063743" lon="-72.35216627">
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:street" v="Grist Mill Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="152672"/>
   </node>
   <node id="-265" visible="true" lat="44.35047149" lon="-72.33763885">
     <tag k="addr:housenumber" v="363"/>
@@ -480,6 +438,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152745"/>
   </node>
+  <node id="-370" visible="true" lat="44.33782195" lon="-72.28922312">
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Pleasant Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152785"/>
+  </node>
+  <node id="-373" visible="true" lat="44.33732342" lon="-72.28833134">
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Pleasant Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152788"/>
+  </node>
+  <node id="-390" visible="true" lat="44.33588669" lon="-72.29013573">
+    <tag k="addr:housenumber" v="216"/>
+    <tag k="addr:street" v="Pleasant Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152806"/>
+  </node>
   <node id="-504" visible="true" lat="44.30716159" lon="-72.31231826">
     <tag k="addr:housenumber" v="338"/>
     <tag k="addr:street" v="Lanesboro Road"/>
@@ -491,6 +467,12 @@
     <tag k="addr:street" v="Lanesboro Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152926"/>
+  </node>
+  <node id="-517" visible="true" lat="44.30329513" lon="-72.40870666">
+    <tag k="addr:housenumber" v="589"/>
+    <tag k="addr:street" v="Eaton Cemetery Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152936"/>
   </node>
   <node id="-632" visible="true" lat="44.28194786" lon="-72.41987069">
     <tag k="addr:housenumber" v="82"/>
@@ -587,6 +569,12 @@
     <tag k="addr:street" v="Folsom Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153203"/>
+  </node>
+  <node id="-778" visible="true" lat="44.33697977" lon="-72.28937026">
+    <tag k="addr:housenumber" v="172"/>
+    <tag k="addr:street" v="Pleasant Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153207"/>
   </node>
   <node id="-782" visible="true" lat="44.35251472" lon="-72.35379537">
     <tag k="addr:housenumber" v="54"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-189" visible="true" lat="42.9285882" lon="-72.89064595">
     <!-- conflict: "25 Hermitage Drive, , VT" Fuzzy match to "25 Hermitage Road, Dover, VT" -->
     <tag k="addr:housenumber" v="25"/>
@@ -13,6 +13,13 @@
     <tag k="addr:street" v="Country Club Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="85849"/>
+  </node>
+  <node id="-551" visible="true" lat="42.94985176" lon="-72.87022958">
+    <!-- conflict: "1A Forest Lane, , VT" No match in OSM, but a different address exists <5m away: "1 Forest Lane, Dover, VT" -->
+    <tag k="addr:housenumber" v="1A"/>
+    <tag k="addr:street" v="Forest Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="86138"/>
   </node>
   <node id="-686" visible="true" lat="42.95932034" lon="-72.88935425">
     <!-- conflict: "4 Carinthia Road, , VT" Fuzzy match to "4 Carinthia Lane, Dover, VT" -->
@@ -41,13 +48,6 @@
     <tag k="addr:street" v="Sports Center Village Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="86400"/>
-  </node>
-  <node id="-835" visible="true" lat="42.96549806" lon="-72.89210766">
-    <!-- conflict: "13 Grand Summit Way, , VT" Fuzzy match to "13 Grand Summit Way, West Dover, " -->
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Grand Summit Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="86472"/>
   </node>
   <node id="-880" visible="true" lat="42.97779474" lon="-72.8951128">
     <!-- conflict: "9 Bartlett Lane Extension, , VT" Fuzzy match to "9 Bartlett Ln Extension, Dover, VT" -->

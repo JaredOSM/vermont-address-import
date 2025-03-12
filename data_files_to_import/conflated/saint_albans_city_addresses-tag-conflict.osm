@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-108" visible="true" lat="44.82308789" lon="-73.08152166">
+    <!-- conflict: "264 North Main Street, Saint Albans, VT" No match in OSM, but a different address exists <5m away: "266 North Main Street, Saint Albans, VT" -->
+    <tag k="addr:city" v="Saint Albans"/>
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="238249"/>
+  </node>
   <node id="-127" visible="true" lat="44.82407072" lon="-73.08038001">
     <!-- conflict: "277 North Main Street, Saint Albans, VT" Fuzzy match to "277 North Main Street, Saint Albans City, VT" -->
     <tag k="addr:city" v="Saint Albans"/>
@@ -15,6 +23,14 @@
     <tag k="addr:street" v="Lake Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="239344"/>
+  </node>
+  <node id="-1201" visible="true" lat="44.80945625" lon="-73.08156958">
+    <!-- conflict: "36 Fairfield Street, Saint Albans, VT" No match in OSM, but a different address exists <5m away: "44 Fairfield Street, Saint Albans, VT" -->
+    <tag k="addr:city" v="Saint Albans"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Fairfield Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="239379"/>
   </node>
   <node id="-1268" visible="true" lat="44.81474005" lon="-73.08314051">
     <!-- conflict: "142 North Main Street, Saint Albans, VT" Fuzzy match to "142 Main Street, Saint Albans, Vermont, " -->
@@ -376,21 +392,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="239809"/>
   </node>
-  <node id="-1619" visible="true" lat="44.80765154" lon="-73.07232833">
-    <!-- conflict: "133 Fairfield Street, Saint Albans, VT" Fuzzy match to "133 Fairfield Street, Saint Albans, " -->
+  <node id="-1905" visible="true" lat="44.80599389" lon="-73.08482144">
+    <!-- conflict: "109 South Main Street, Saint Albans, VT" Fuzzy match to "109 North Main Street, Saint Albans, VT" -->
     <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Fairfield Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="239810"/>
-  </node>
-  <node id="-1874" visible="true" lat="44.8083395" lon="-73.0828902">
-    <!-- conflict: "71 South Main Street, Saint Albans, VT" Fuzzy match to "71 South Main Street, Saint Albans, " -->
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:housenumber" v="109"/>
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="240067"/>
+    <tag k="ref:vcgi:esiteid" v="240100"/>
   </node>
   <node id="-2054" visible="true" lat="44.80122813" lon="-73.0895753">
     <!-- conflict: "190 South Main Street, Saint Albans, VT" Fuzzy match to "190 South Main Street, Saint Albans City, VT" -->
@@ -399,14 +407,6 @@
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="240258"/>
-  </node>
-  <node id="-2083" visible="true" lat="44.80435601" lon="-73.08831383">
-    <!-- conflict: "142 South Main Street, Saint Albans, VT" Fuzzy match to "142 South Main Street, Saint Albans, " -->
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="240289"/>
   </node>
   <node id="-2093" visible="true" lat="44.80221266" lon="-73.08775463">
     <!-- conflict: "171 South Main Street, Saint Albans, VT" Fuzzy match to "171 South Main Street, Saint Albans City, VT" -->

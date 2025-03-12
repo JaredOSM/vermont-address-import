@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-106" visible="true" lat="44.37153898" lon="-72.60234484">
     <!-- conflict: "500 West Hill Road, , VT" No match in OSM, but a different address exists <5m away: "480 West Hill Road, Middlesex, VT" -->
     <tag k="addr:housenumber" v="500"/>
@@ -27,27 +27,6 @@
     <tag k="addr:street" v="Black Bear Hill"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157084"/>
-  </node>
-  <node id="-515" visible="true" lat="44.30918256" lon="-72.57760838">
-    <!-- conflict: "90 Corry Road, , VT" Fuzzy match to "90 Corry Road, Middlesex, " -->
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Corry Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="157257"/>
-  </node>
-  <node id="-536" visible="true" lat="44.30715253" lon="-72.58068374">
-    <!-- conflict: "736 Vermont Route 12, , VT" No match in OSM, but a different address exists <5m away: "736 Vt Route 12, Middlesex, VT" -->
-    <tag k="addr:housenumber" v="736"/>
-    <tag k="addr:street" v="Vermont Route 12"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="157278"/>
-  </node>
-  <node id="-542" visible="true" lat="44.30676829" lon="-72.57958701">
-    <!-- conflict: "751 Vermont Route 12, , VT" No match in OSM, but a different address exists <5m away: "751 Vt Route 12, Middlesex, VT" -->
-    <tag k="addr:housenumber" v="751"/>
-    <tag k="addr:street" v="Vermont Route 12"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="157284"/>
   </node>
   <node id="-562" visible="true" lat="44.30459806" lon="-72.61241139">
     <!-- conflict: "45 Wrenwood Lane, , VT" No match in OSM, but a different address exists <5m away: "45 Pr 8, Middlesex, VT" -->
@@ -307,13 +286,6 @@
     <tag k="addr:street" v="High Meadow Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157627"/>
-  </node>
-  <node id="-872" visible="true" lat="44.30935466" lon="-72.57693992">
-    <!-- conflict: "73 Corry Road, , VT" Fuzzy match to "73 Corry Road, Middlesex, " -->
-    <tag k="addr:housenumber" v="73"/>
-    <tag k="addr:street" v="Corry Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="164147"/>
   </node>
   <node id="-878" visible="true" lat="44.27946863" lon="-72.61608881">
     <!-- conflict: "190 Lower Sunnybrook Road, , VT" No match in OSM, but a different address exists <5m away: "190 Lower Sunny Brook Road, Middlesex, VT" -->

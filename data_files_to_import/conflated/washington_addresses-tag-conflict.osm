@@ -1,53 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-144" visible="true" lat="44.11823021" lon="-72.43272035">
-    <!-- conflict: "2225 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "2225 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="2225"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272719"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-146" visible="true" lat="44.1179035" lon="-72.43353737">
     <!-- conflict: "2268 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "2268 Vt Route 110, Washington, VT" -->
     <tag k="addr:housenumber" v="2268"/>
     <tag k="addr:street" v="Vermont Route 110"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272721"/>
-  </node>
-  <node id="-147" visible="true" lat="44.117733" lon="-72.43309021">
-    <!-- conflict: "2261 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "2261 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="2261"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272722"/>
-  </node>
-  <node id="-163" visible="true" lat="44.1156582" lon="-72.43302966">
-    <!-- conflict: "2409 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "2409 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="2409"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272738"/>
-  </node>
-  <node id="-230" visible="true" lat="44.10812245" lon="-72.43381164">
-    <!-- conflict: "2930 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "2930 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="2930"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272806"/>
-  </node>
-  <node id="-231" visible="true" lat="44.10803852" lon="-72.43370483">
-    <!-- conflict: "2938 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "2938 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="2938"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272807"/>
-  </node>
-  <node id="-240" visible="true" lat="44.10756672" lon="-72.43295724">
-    <!-- conflict: "2973 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "2973 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="2973"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272817"/>
   </node>
   <node id="-244" visible="true" lat="44.1074028" lon="-72.43351745">
     <!-- conflict: "2980 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "2980 Vt Route 110, Washington, VT" -->
@@ -63,27 +21,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272823"/>
   </node>
-  <node id="-247" visible="true" lat="44.10717773" lon="-72.43336486">
-    <!-- conflict: "2996 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "2996 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="2996"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272826"/>
-  </node>
-  <node id="-254" visible="true" lat="44.10699833" lon="-72.43335779">
-    <!-- conflict: "3008 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3008 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="3008"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272833"/>
-  </node>
-  <node id="-256" visible="true" lat="44.106884" lon="-72.43330383">
-    <!-- conflict: "3018 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3018 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="3018"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272835"/>
-  </node>
   <node id="-257" visible="true" lat="44.10684096" lon="-72.43277631">
     <!-- conflict: "3029 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3029 Vt Route 110, Washington, VT" -->
     <tag k="addr:housenumber" v="3029"/>
@@ -98,12 +35,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272847"/>
   </node>
-  <node id="-274" visible="true" lat="44.10630752" lon="-72.43313538">
-    <!-- conflict: "3056 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3056 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="3056"/>
+  <node id="-272" visible="true" lat="44.10651187" lon="-72.4331943">
+    <!-- conflict: "3052 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3052 Vt Route 110, Washington, VT" -->
+    <tag k="addr:housenumber" v="3052"/>
     <tag k="addr:street" v="Vermont Route 110"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272854"/>
+    <tag k="ref:vcgi:esiteid" v="272851"/>
   </node>
   <node id="-285" visible="true" lat="44.10608291" lon="-72.43250274">
     <!-- conflict: "3081 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3081 Vt Route 110, Washington, VT" -->
@@ -111,13 +48,6 @@
     <tag k="addr:street" v="Vermont Route 110"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272865"/>
-  </node>
-  <node id="-300" visible="true" lat="44.10557831" lon="-72.4329582">
-    <!-- conflict: "3106 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3106 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="3106"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272882"/>
   </node>
   <node id="-306" visible="true" lat="44.10525131" lon="-72.43238067">
     <!-- conflict: "3139 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3139 Vt Route 110, Washington, VT" -->
@@ -133,41 +63,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272911"/>
   </node>
-  <node id="-331" visible="true" lat="44.1032148" lon="-72.43455203">
-    <!-- conflict: "3317 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3317 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="3317"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272914"/>
-  </node>
-  <node id="-335" visible="true" lat="44.10284222" lon="-72.43512939">
-    <!-- conflict: "3353 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3353 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="3353"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272918"/>
-  </node>
-  <node id="-336" visible="true" lat="44.10301759" lon="-72.43609442">
-    <!-- conflict: "3382 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3382 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="3382"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272919"/>
-  </node>
-  <node id="-340" visible="true" lat="44.10258976" lon="-72.44113707">
-    <!-- conflict: "3576 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3576 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="3576"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272923"/>
-  </node>
-  <node id="-347" visible="true" lat="44.10182067" lon="-72.43701294">
-    <!-- conflict: "3463 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3463 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="3463"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272930"/>
-  </node>
   <node id="-372" visible="true" lat="44.09770965" lon="-72.44884491">
     <!-- conflict: "4168 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "4168 Vt Route 110, Washington, VT" -->
     <tag k="addr:housenumber" v="4168"/>
@@ -175,12 +70,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272955"/>
   </node>
-  <node id="-375" visible="true" lat="44.09752644" lon="-72.44774715">
-    <!-- conflict: "4133 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "4133 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="4133"/>
+  <node id="-393" visible="true" lat="44.09388351" lon="-72.45728301">
+    <!-- conflict: "4670 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "4670 Vt Route 110, Washington, VT" -->
+    <tag k="addr:housenumber" v="4670"/>
     <tag k="addr:street" v="Vermont Route 110"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272958"/>
+    <tag k="ref:vcgi:esiteid" v="272977"/>
   </node>
   <node id="-438" visible="true" lat="44.07862658" lon="-72.46343613">
     <!-- conflict: "5770 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "5770 Vt Route 110, Washington, VT" -->
@@ -266,13 +161,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310036"/>
   </node>
-  <node id="-664" visible="true" lat="44.09722648" lon="-72.45326031">
-    <!-- conflict: "4360 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "4360 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="4360"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="324337"/>
-  </node>
   <node id="-668" visible="true" lat="44.06283634" lon="-72.46385333">
     <!-- conflict: "7017 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "7017 Vt Route 110, Washington, VT" -->
     <tag k="addr:housenumber" v="7017"/>
@@ -280,25 +168,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365169"/>
   </node>
-  <node id="-684" visible="true" lat="44.09646906" lon="-72.45008558">
-    <!-- conflict: "4247 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "4247 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="4247"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="447083"/>
-  </node>
   <node id="-685" visible="true" lat="44.0930774" lon="-72.35266484">
     <!-- conflict: "31 Hutchinson Way, , VT" No match in OSM, but a different address exists <5m away: "3763 East Orange Road, Washington, VT" -->
     <tag k="addr:housenumber" v="31"/>
     <tag k="addr:street" v="Hutchinson Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="447085"/>
-  </node>
-  <node id="-710" visible="true" lat="44.10183461" lon="-72.43816438">
-    <!-- conflict: "3593 Vermont Route 110, , VT" No match in OSM, but a different address exists <5m away: "3593 Vt Route 110, Washington, VT" -->
-    <tag k="addr:housenumber" v="3593"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453521"/>
   </node>
 </osm>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.48192942" lon="-72.3864865">
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="Maxwell Perkins Lane"/>
@@ -1794,12 +1794,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295834"/>
   </node>
-  <node id="-530" visible="true" lat="43.48085021" lon="-72.38639068">
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="295837"/>
-  </node>
   <node id="-531" visible="true" lat="43.48084259" lon="-72.38891601">
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:street" v="State Street"/>
@@ -2142,12 +2136,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295923"/>
   </node>
-  <node id="-605" visible="true" lat="43.47973986" lon="-72.383779">
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="River Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="295924"/>
-  </node>
   <node id="-608" visible="true" lat="43.47918073" lon="-72.38366329">
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="River Street"/>
@@ -2166,41 +2154,17 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295929"/>
   </node>
-  <node id="-611" visible="true" lat="43.47902144" lon="-72.38367371">
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="River Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="295930"/>
-  </node>
   <node id="-612" visible="true" lat="43.47914764" lon="-72.39643704">
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Ascutney Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295931"/>
   </node>
-  <node id="-613" visible="true" lat="43.47909927" lon="-72.38398742">
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="River Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="295932"/>
-  </node>
   <node id="-614" visible="true" lat="43.47925494" lon="-72.38755658">
     <tag k="addr:housenumber" v="106"/>
     <tag k="addr:street" v="Apothecary Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295933"/>
-  </node>
-  <node id="-615" visible="true" lat="43.47907638" lon="-72.38437652">
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="River Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="295934"/>
-  </node>
-  <node id="-616" visible="true" lat="43.47906494" lon="-72.38417053">
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="River Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="295935"/>
   </node>
   <node id="-617" visible="true" lat="43.47906875" lon="-72.39481353">
     <tag k="addr:housenumber" v="9"/>
@@ -2303,12 +2267,6 @@
     <tag k="addr:street" v="Ascutney Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295962"/>
-  </node>
-  <node id="-641" visible="true" lat="43.47863769" lon="-72.38705444">
-    <tag k="addr:housenumber" v="135"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="295966"/>
   </node>
   <node id="-642" visible="true" lat="43.47864915" lon="-72.39473397">
     <tag k="addr:housenumber" v="3"/>
@@ -3930,12 +3888,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="296325"/>
   </node>
-  <node id="-953" visible="true" lat="43.47476432" lon="-72.38939348">
-    <tag k="addr:housenumber" v="196"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="296326"/>
-  </node>
   <node id="-954" visible="true" lat="43.4747667" lon="-72.40364065">
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Dorrance Street"/>
@@ -4980,12 +4932,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="296640"/>
   </node>
-  <node id="-1249" visible="true" lat="43.4567604" lon="-72.41430664">
-    <tag k="addr:housenumber" v="1726"/>
-    <tag k="addr:street" v="Vermont Route 44"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="296645"/>
-  </node>
   <node id="-1250" visible="true" lat="43.45674133" lon="-72.41711425">
     <tag k="addr:housenumber" v="1863"/>
     <tag k="addr:street" v="Vermont Route 44"/>
@@ -5172,11 +5118,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="296707"/>
   </node>
-  <node id="-1355" visible="true" lat="43.43749458" lon="-72.40581843">
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Mount Ascutney State Park Road"/>
+  <node id="-1356" visible="true" lat="43.43729296" lon="-72.4004309">
+    <tag k="addr:housenumber" v="333"/>
+    <tag k="addr:street" v="Cabot Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="296757"/>
+    <tag k="ref:vcgi:esiteid" v="296758"/>
   </node>
   <node id="-1357" visible="true" lat="43.43658661" lon="-72.40123557">
     <tag k="addr:housenumber" v="303"/>

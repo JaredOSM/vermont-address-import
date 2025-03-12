@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-271" visible="true" lat="43.70647586" lon="-73.31021734">
     <tag k="addr:city" v="Benson"/>
     <tag k="addr:housenumber" v="745"/>
@@ -41,13 +41,6 @@
     <tag k="addr:street" v="Stage Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="21720"/>
-  </node>
-  <node id="-374" visible="true" lat="43.70896101" lon="-73.30966289">
-    <tag k="addr:city" v="Benson"/>
-    <tag k="addr:housenumber" v="2760"/>
-    <tag k="addr:street" v="Stage Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="21721"/>
   </node>
   <node id="-375" visible="true" lat="43.70889819" lon="-73.31078753">
     <tag k="addr:city" v="Benson"/>
@@ -531,5 +524,12 @@
     <tag k="addr:street" v="Stage Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620555"/>
+  </node>
+  <node id="-799" visible="true" lat="43.71955227" lon="-73.31166711">
+    <tag k="addr:city" v="Benson"/>
+    <tag k="addr:housenumber" v="3471"/>
+    <tag k="addr:street" v="Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757344"/>
   </node>
 </osm>

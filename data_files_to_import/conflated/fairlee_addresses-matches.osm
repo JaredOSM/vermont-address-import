@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-129" visible="true" lat="43.9324271" lon="-72.13071301">
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="584"/>
@@ -231,12 +231,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105331"/>
   </node>
+  <node id="-177" visible="true" lat="43.91143162" lon="-72.1630309">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Burning Moon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105332"/>
+  </node>
   <node id="-179" visible="true" lat="43.91059106" lon="-72.15781323">
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="266"/>
     <tag k="addr:street" v="Clubhouse Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105334"/>
+  </node>
+  <node id="-180" visible="true" lat="43.91046475" lon="-72.16252295">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Burning Moon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105336"/>
   </node>
   <node id="-181" visible="true" lat="43.91024637" lon="-72.15691567">
     <tag k="addr:city" v="Fairlee"/>
@@ -245,12 +259,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105337"/>
   </node>
+  <node id="-182" visible="true" lat="43.91023129" lon="-72.16213247">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Burning Moon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105338"/>
+  </node>
   <node id="-183" visible="true" lat="43.91015854" lon="-72.15746542">
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="240"/>
     <tag k="addr:street" v="Clubhouse Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105339"/>
+  </node>
+  <node id="-187" visible="true" lat="43.90973891" lon="-72.16153378">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="287"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105345"/>
   </node>
   <node id="-188" visible="true" lat="43.90952269" lon="-72.15757148">
     <tag k="addr:city" v="Fairlee"/>
@@ -259,6 +287,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105346"/>
   </node>
+  <node id="-190" visible="true" lat="43.9096396" lon="-72.16123729">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="299"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105348"/>
+  </node>
+  <node id="-191" visible="true" lat="43.90956275" lon="-72.16097161">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="315"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105349"/>
+  </node>
   <node id="-192" visible="true" lat="43.90936903" lon="-72.15724027">
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="183"/>
@@ -266,12 +308,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105350"/>
   </node>
+  <node id="-194" visible="true" lat="43.90931678" lon="-72.16155395">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="298"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105352"/>
+  </node>
+  <node id="-196" visible="true" lat="43.90917968" lon="-72.16113281">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="314"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105355"/>
+  </node>
+  <node id="-197" visible="true" lat="43.90933673" lon="-72.16019313">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="353"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105356"/>
+  </node>
+  <node id="-200" visible="true" lat="43.90908432" lon="-72.1606369">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="340"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105359"/>
+  </node>
   <node id="-201" visible="true" lat="43.90901002" lon="-72.13942837">
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="614"/>
     <tag k="addr:street" v="U.S. Route 5 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105360"/>
+  </node>
+  <node id="-202" visible="true" lat="43.90885267" lon="-72.1616541">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="246"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105361"/>
   </node>
   <node id="-203" visible="true" lat="43.90901247" lon="-72.15728007">
     <tag k="addr:city" v="Fairlee"/>
@@ -286,6 +363,13 @@
     <tag k="addr:street" v="Wilcox Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105363"/>
+  </node>
+  <node id="-205" visible="true" lat="43.90894141" lon="-72.16305325">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="237"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105364"/>
   </node>
   <node id="-206" visible="true" lat="43.90881171" lon="-72.13977701">
     <tag k="addr:city" v="Fairlee"/>
@@ -315,6 +399,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105371"/>
   </node>
+  <node id="-213" visible="true" lat="43.90882555" lon="-72.16131617">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="188"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105375"/>
+  </node>
   <node id="-214" visible="true" lat="43.90850637" lon="-72.14299177">
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="65"/>
@@ -343,12 +434,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105381"/>
   </node>
+  <node id="-219" visible="true" lat="43.90863431" lon="-72.16019713">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105382"/>
+  </node>
+  <node id="-220" visible="true" lat="43.90846724" lon="-72.15968443">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105383"/>
+  </node>
   <node id="-221" visible="true" lat="43.90815042" lon="-72.14091493">
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="512"/>
     <tag k="addr:street" v="U.S. Route 5 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105384"/>
+  </node>
+  <node id="-222" visible="true" lat="43.90835425" lon="-72.15930139">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105385"/>
+  </node>
+  <node id="-223" visible="true" lat="43.90802208" lon="-72.16044196">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105386"/>
   </node>
   <node id="-224" visible="true" lat="43.90817892" lon="-72.14260291">
     <tag k="addr:city" v="Fairlee"/>
@@ -559,6 +678,13 @@
     <tag k="addr:street" v="U.S. Route 5 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105428"/>
+  </node>
+  <node id="-261" visible="true" lat="43.90561811" lon="-72.14908352">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Lake Morey Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105429"/>
   </node>
   <node id="-263" visible="true" lat="43.90546612" lon="-72.14764866">
     <tag k="addr:city" v="Fairlee"/>
@@ -1022,12 +1148,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105692"/>
   </node>
+  <node id="-501" visible="true" lat="43.90736859" lon="-72.15847533">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="461"/>
+    <tag k="addr:street" v="Lake Morey Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105693"/>
+  </node>
+  <node id="-502" visible="true" lat="43.90690886" lon="-72.15859688">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="459"/>
+    <tag k="addr:street" v="Lake Morey Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105694"/>
+  </node>
   <node id="-510" visible="true" lat="43.90942506" lon="-72.1583051">
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="610"/>
     <tag k="addr:street" v="Lake Morey Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105703"/>
+  </node>
+  <node id="-521" visible="true" lat="43.95277285" lon="-72.16720473">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="1351"/>
+    <tag k="addr:street" v="Mill Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105715"/>
+  </node>
+  <node id="-523" visible="true" lat="43.96743776" lon="-72.16308775">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="550"/>
+    <tag k="addr:street" v="Mill Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105717"/>
   </node>
   <node id="-524" visible="true" lat="43.96680297" lon="-72.17245835">
     <tag k="addr:city" v="Fairlee"/>
@@ -1169,6 +1323,62 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105770"/>
   </node>
+  <node id="-575" visible="true" lat="43.90791701" lon="-72.15968088">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105772"/>
+  </node>
+  <node id="-576" visible="true" lat="43.9086808" lon="-72.16078478">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105773"/>
+  </node>
+  <node id="-577" visible="true" lat="43.90774536" lon="-72.15905761">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105774"/>
+  </node>
+  <node id="-578" visible="true" lat="43.90726089" lon="-72.16004943">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Grandview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105775"/>
+  </node>
+  <node id="-579" visible="true" lat="43.9072113" lon="-72.15974426">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Grandview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105776"/>
+  </node>
+  <node id="-580" visible="true" lat="43.90811708" lon="-72.1609188">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105777"/>
+  </node>
+  <node id="-581" visible="true" lat="43.90831132" lon="-72.16150532">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105779"/>
+  </node>
+  <node id="-582" visible="true" lat="43.90716171" lon="-72.15790557">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="457"/>
+    <tag k="addr:street" v="Lake Morey Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105780"/>
+  </node>
   <node id="-583" visible="true" lat="43.91133871" lon="-72.16057856">
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="775"/>
@@ -1308,6 +1518,13 @@
     <tag k="addr:street" v="Ely Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105829"/>
+  </node>
+  <node id="-630" visible="true" lat="43.90736645" lon="-72.16059796">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Grandview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105830"/>
   </node>
   <node id="-631" visible="true" lat="43.90846121" lon="-72.1404052">
     <tag k="addr:city" v="Fairlee"/>
@@ -1463,6 +1680,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105869"/>
   </node>
+  <node id="-669" visible="true" lat="43.96817801" lon="-72.1636645">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Knobloch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105870"/>
+  </node>
   <node id="-671" visible="true" lat="43.89281547" lon="-72.1994904">
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="60"/>
@@ -1596,12 +1820,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105909"/>
   </node>
+  <node id="-710" visible="true" lat="43.96856966" lon="-72.16797622">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="310"/>
+    <tag k="addr:street" v="Knobloch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105914"/>
+  </node>
   <node id="-713" visible="true" lat="43.89381239" lon="-72.20606278">
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="31"/>
     <tag k="addr:street" v="Quinibeck Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105918"/>
+  </node>
+  <node id="-716" visible="true" lat="43.90748601" lon="-72.16099104">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Grandview Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105921"/>
   </node>
   <node id="-717" visible="true" lat="43.89435121" lon="-72.20784813">
     <tag k="addr:city" v="Fairlee"/>
@@ -1638,13 +1876,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105927"/>
   </node>
-  <node id="-724" visible="true" lat="43.92199393" lon="-72.12454755">
-    <tag k="addr:city" v="Fairlee"/>
-    <tag k="addr:housenumber" v="1776"/>
-    <tag k="addr:street" v="U.S. Route 5 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306066"/>
-  </node>
   <node id="-725" visible="true" lat="43.88660001" lon="-72.18498277">
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="500"/>
@@ -1679,6 +1910,20 @@
     <tag k="addr:street" v="Quinibeck Point"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="333816"/>
+  </node>
+  <node id="-748" visible="true" lat="43.90979537" lon="-72.16309486">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Burning Moon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345372"/>
+  </node>
+  <node id="-750" visible="true" lat="43.91110885" lon="-72.1655996">
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Burning Moon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345374"/>
   </node>
   <node id="-754" visible="true" lat="43.89031493" lon="-72.21494576">
     <tag k="addr:city" v="Fairlee"/>

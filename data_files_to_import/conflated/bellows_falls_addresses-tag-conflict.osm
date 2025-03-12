@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-113" visible="true" lat="43.12675513" lon="-72.44424316">
-    <!-- conflict: "1 Hospital Court, Bellows Falls, VT" Fuzzy match to "1 Hospital Court, Bellows Falls, " -->
-    <tag k="addr:city" v="Bellows Falls"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Hospital Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="204070"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-250" visible="true" lat="43.12872888" lon="-72.45045663">
     <!-- conflict: "19 Williams Terrace, Bellows Falls, VT" Fuzzy match to "19 Williams Street, Bellows Falls, VT" -->
     <tag k="addr:city" v="Bellows Falls"/>
@@ -71,30 +63,6 @@
     <tag k="addr:street" v="Cherry Hill Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="204627"/>
-  </node>
-  <node id="-726" visible="true" lat="43.13425097" lon="-72.45070921">
-    <!-- conflict: "82 Atkinson Street, Bellows Falls, VT" Fuzzy match to "82 Atkinson Street, Bellows Falls, " -->
-    <tag k="addr:city" v="Bellows Falls"/>
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Atkinson Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="204692"/>
-  </node>
-  <node id="-787" visible="true" lat="43.13789305" lon="-72.45303225">
-    <!-- conflict: "128 Atkinson Street, Bellows Falls, VT" No match in OSM, but a different address exists <5m away: "82 Atkinson Street, Bellows Falls, " -->
-    <tag k="addr:city" v="Bellows Falls"/>
-    <tag k="addr:housenumber" v="128"/>
-    <tag k="addr:street" v="Atkinson Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="204754"/>
-  </node>
-  <node id="-834" visible="true" lat="43.13513712" lon="-72.45109874">
-    <!-- conflict: "92 Atkinson Street, Bellows Falls, VT" Fuzzy match to "92 Atkinson Street, Bellows Falls, " -->
-    <tag k="addr:city" v="Bellows Falls"/>
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="Atkinson Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="204802"/>
   </node>
   <node id="-985" visible="true" lat="43.1332163" lon="-72.44504466">
     <!-- conflict: "12 Church Street, Bellows Falls, VT" Fuzzy match to "12 Church Street, , " -->

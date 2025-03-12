@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-252" visible="true" lat="43.87462997" lon="-72.37589263">
     <!-- multiple: "30 Old City Falls Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Old City Falls Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252282"/>
+  </node>
+  <node id="-284" visible="true" lat="43.87109829" lon="-72.37604145">
+    <!-- multiple: "266 Justin Morrill Memorial Highway, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="266"/>
+    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="252316"/>
   </node>
   <node id="-320" visible="true" lat="43.86696355" lon="-72.37903898">
     <!-- multiple: "18 Brook Road, , VT" Multiple exact matches in OSM. -->

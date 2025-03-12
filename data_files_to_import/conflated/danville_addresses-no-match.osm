@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="44.40885175" lon="-72.19607071">
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Vermont Route 15"/>
@@ -401,12 +401,6 @@
     <tag k="addr:street" v="Tampico Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="80364"/>
-  </node>
-  <node id="-169" visible="true" lat="44.48294048" lon="-72.13570952">
-    <tag k="addr:housenumber" v="770"/>
-    <tag k="addr:street" v="Pope Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="80365"/>
   </node>
   <node id="-170" visible="true" lat="44.48263931" lon="-72.07707977">
     <tag k="addr:housenumber" v="60"/>
@@ -3558,12 +3552,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="80946"/>
   </node>
-  <node id="-738" visible="true" lat="44.41183851" lon="-72.13999193">
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Hill Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="80947"/>
-  </node>
   <node id="-739" visible="true" lat="44.41177162" lon="-72.14416324">
     <tag k="addr:housenumber" v="198"/>
     <tag k="addr:street" v="U.S. Route 2 West"/>
@@ -3617,12 +3605,6 @@
     <tag k="addr:street" v="Swett Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="80959"/>
-  </node>
-  <node id="-748" visible="true" lat="44.41168437" lon="-72.1399401">
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="U.S. Route 2 East"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="80960"/>
   </node>
   <node id="-749" visible="true" lat="44.41161521" lon="-72.14043691">
     <tag k="addr:housenumber" v="12"/>
@@ -3821,12 +3803,6 @@
     <tag k="addr:street" v="U.S. Route 2 West"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="81000"/>
-  </node>
-  <node id="-784" visible="true" lat="44.41095174" lon="-72.1390093">
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Brainerd Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="81001"/>
   </node>
   <node id="-785" visible="true" lat="44.41102814" lon="-72.1714935">
     <tag k="addr:housenumber" v="1576"/>

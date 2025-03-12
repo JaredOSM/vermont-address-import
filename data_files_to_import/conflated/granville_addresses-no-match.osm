@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.02848171" lon="-72.75868357">
     <tag k="addr:city" v="Granville"/>
     <tag k="addr:housenumber" v="1312"/>
@@ -440,13 +440,6 @@
     <tag k="addr:street" v="West Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="114624"/>
-  </node>
-  <node id="-164" visible="true" lat="43.99385833" lon="-72.88547515">
-    <tag k="addr:city" v="Granville"/>
-    <tag k="addr:housenumber" v="1693"/>
-    <tag k="addr:street" v="West Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="114625"/>
   </node>
   <node id="-165" visible="true" lat="43.99358141" lon="-72.8593821">
     <tag k="addr:city" v="Granville"/>
@@ -1287,13 +1280,6 @@
     <tag k="addr:street" v="Vermont Route 100"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="114753"/>
-  </node>
-  <node id="-286" visible="true" lat="43.96518259" lon="-72.86033366">
-    <tag k="addr:city" v="Granville"/>
-    <tag k="addr:housenumber" v="1099"/>
-    <tag k="addr:street" v="Kennedy Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="114754"/>
   </node>
   <node id="-287" visible="true" lat="43.96473496" lon="-72.85077362">
     <tag k="addr:city" v="Granville"/>

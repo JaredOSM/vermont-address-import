@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.97192479" lon="-72.31830388">
     <tag k="addr:city" v="Vershire"/>
     <tag k="addr:housenumber" v="297"/>
@@ -209,6 +209,13 @@
     <tag k="addr:street" v="Private Rd 1"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266923"/>
+  </node>
+  <node id="-143" visible="true" lat="43.98755645" lon="-72.36962127">
+    <tag k="addr:city" v="Vershire"/>
+    <tag k="addr:housenumber" v="9615"/>
+    <tag k="addr:street" v="Vermont Route 113"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="266924"/>
   </node>
   <node id="-144" visible="true" lat="43.98741289" lon="-72.36383138">
     <tag k="addr:city" v="Vershire"/>

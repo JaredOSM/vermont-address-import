@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.67274293" lon="-72.61871053">
     <tag k="addr:housenumber" v="959"/>
     <tag k="addr:street" v="Green Gate Road"/>
@@ -978,6 +978,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36655"/>
   </node>
+  <node id="-301" visible="true" lat="43.60402298" lon="-72.73013305">
+    <tag k="addr:housenumber" v="1081"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="36656"/>
+  </node>
   <node id="-302" visible="true" lat="43.6043077" lon="-72.63418235">
     <tag k="addr:housenumber" v="1124"/>
     <tag k="addr:street" v="Goldcoast Road"/>
@@ -1158,6 +1164,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36701"/>
   </node>
+  <node id="-345" visible="true" lat="43.59851074" lon="-72.71044158">
+    <tag k="addr:housenumber" v="2205"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="36703"/>
+  </node>
   <node id="-347" visible="true" lat="43.59838104" lon="-72.74952697">
     <tag k="addr:housenumber" v="113"/>
     <tag k="addr:street" v="Vermont Route 100"/>
@@ -1169,6 +1181,12 @@
     <tag k="addr:street" v="Vermont Route 100"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36707"/>
+  </node>
+  <node id="-350" visible="true" lat="43.59838837" lon="-72.71182886">
+    <tag k="addr:housenumber" v="2202"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="36708"/>
   </node>
   <node id="-352" visible="true" lat="43.59804868" lon="-72.61675264">
     <tag k="addr:housenumber" v="889"/>
@@ -1559,6 +1577,12 @@
     <tag k="addr:street" v="Upper Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36809"/>
+  </node>
+  <node id="-447" visible="true" lat="43.58843612" lon="-72.65954589">
+    <tag k="addr:housenumber" v="5520"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="36810"/>
   </node>
   <node id="-448" visible="true" lat="43.58859419" lon="-72.62477702">
     <tag k="addr:housenumber" v="46"/>
@@ -2412,12 +2436,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="37036"/>
   </node>
-  <node id="-663" visible="true" lat="43.61836172" lon="-72.65752278">
-    <tag k="addr:housenumber" v="199"/>
-    <tag k="addr:street" v="Wemple Knoll Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37040"/>
-  </node>
   <node id="-664" visible="true" lat="43.61423887" lon="-72.73441621">
     <tag k="addr:housenumber" v="756"/>
     <tag k="addr:street" v="Laber Road"/>
@@ -2628,6 +2646,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306562"/>
   </node>
+  <node id="-708" visible="true" lat="43.60120225" lon="-72.67898413">
+    <tag k="addr:housenumber" v="4269"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306981"/>
+  </node>
   <node id="-710" visible="true" lat="43.59504544" lon="-72.6317906">
     <tag k="addr:housenumber" v="430"/>
     <tag k="addr:street" v="Goldcoast Road"/>
@@ -2747,6 +2771,12 @@
     <tag k="addr:street" v="Chateauguay Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756631"/>
+  </node>
+  <node id="-775" visible="true" lat="43.61408533" lon="-72.66627611">
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Mount Hope Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756873"/>
   </node>
   <node id="-776" visible="true" lat="43.58858718" lon="-72.6544953">
     <tag k="addr:housenumber" v="198"/>

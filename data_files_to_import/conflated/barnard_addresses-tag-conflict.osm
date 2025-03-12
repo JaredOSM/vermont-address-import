@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-104" visible="true" lat="43.72536103" lon="-72.59144811">
     <!-- conflict: "439 Royalton Turnpike, , VT" No match in OSM, but a different address exists <5m away: " Royalton Turnpike, Barnard, VT" -->
     <tag k="addr:housenumber" v="439"/>
@@ -125,20 +125,6 @@
     <tag k="addr:street" v="Cottage Loop"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="6470"/>
-  </node>
-  <node id="-822" visible="true" lat="43.78494234" lon="-72.64993727">
-    <!-- conflict: "578 Masterson Road, , VT" Fuzzy match to "578 Masterson Road, , " -->
-    <tag k="addr:housenumber" v="578"/>
-    <tag k="addr:street" v="Masterson Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="6680"/>
-  </node>
-  <node id="-878" visible="true" lat="43.73293884" lon="-72.61797562">
-    <!-- conflict: "118 Birchwood Lane, , VT" Fuzzy match to "118 Birchwood Lane, , " -->
-    <tag k="addr:housenumber" v="118"/>
-    <tag k="addr:street" v="Birchwood Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="611085"/>
   </node>
   <node id="-903" visible="true" lat="43.72836259" lon="-72.61864763">
     <!-- conflict: "6134 Vermont Route 12, , VT" No match in OSM, but a different address exists <5m away: "6134 Town Highway 41, , " -->

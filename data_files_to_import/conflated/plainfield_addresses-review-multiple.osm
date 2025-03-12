@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-198" visible="true" lat="44.27723312" lon="-72.42253112">
+    <!-- multiple: "30 Creamery Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Creamery Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="188966"/>
+  </node>
 </osm>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-360" visible="true" lat="43.60227204" lon="-73.06041936">
     <tag k="addr:city" v="West Rutland"/>
     <tag k="addr:housenumber" v="1371"/>
@@ -1526,6 +1526,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="279803"/>
   </node>
+  <node id="-689" visible="true" lat="43.59211853" lon="-73.04317273">
+    <tag k="addr:city" v="West Rutland"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Westway Mall Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="279806"/>
+  </node>
   <node id="-691" visible="true" lat="43.59189473" lon="-73.04526044">
     <tag k="addr:city" v="West Rutland"/>
     <tag k="addr:housenumber" v="107"/>
@@ -1679,6 +1686,13 @@
     <tag k="addr:street" v="Barnes Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280133"/>
+  </node>
+  <node id="-1000" visible="true" lat="43.62353631" lon="-73.08492862">
+    <tag k="addr:city" v="West Rutland"/>
+    <tag k="addr:housenumber" v="1730"/>
+    <tag k="addr:street" v="Hang Gliding Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280134"/>
   </node>
   <node id="-1008" visible="true" lat="43.59987497" lon="-73.04821227">
     <tag k="addr:city" v="West Rutland"/>

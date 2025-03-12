@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-148" visible="true" lat="43.78605373" lon="-72.25920164">
     <!-- conflict: "923 Route 132, , VT" No match in OSM, but a different address exists <5m away: "923 VT-132, Norwich, VT" -->
     <tag k="addr:housenumber" v="923"/>
@@ -90,13 +90,6 @@
     <tag k="addr:street" v="U.S. Route 5 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182619"/>
-  </node>
-  <node id="-640" visible="true" lat="43.74598005" lon="-72.29495557">
-    <!-- conflict: "60 Bradley Hill Road, , VT" Fuzzy match to "60 Bradley Hill Road, , " -->
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Bradley Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="182654"/>
   </node>
   <node id="-774" visible="true" lat="43.73356628" lon="-72.27299499">
     <!-- conflict: "445 U.S. Route 5 North, , VT" No match in OSM, but a different address exists <5m away: "445 US Route 5, Norwich, VT" -->
@@ -196,13 +189,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="183103"/>
   </node>
-  <node id="-1069" visible="true" lat="43.71894764" lon="-72.29891236">
-    <!-- conflict: "65 Four Wheel Drive, , VT" Fuzzy match to "65 Four Wheel Drive, , " -->
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="Four Wheel Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183110"/>
-  </node>
   <node id="-1074" visible="true" lat="43.71891564" lon="-72.30903329">
     <!-- conflict: "410 Main Street, , VT" No match in OSM, but a different address exists <5m away: "410 Hazen Street, Norwich, VT" -->
     <tag k="addr:housenumber" v="410"/>
@@ -216,20 +202,6 @@
     <tag k="addr:street" v="U.S. Route 5 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="183128"/>
-  </node>
-  <node id="-1105" visible="true" lat="43.71774715" lon="-72.31211501">
-    <!-- conflict: "70 Beaver Meadow Road, , VT" Fuzzy match to "70 Beaver Meadow Road, Norwich, " -->
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Beaver Meadow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183151"/>
-  </node>
-  <node id="-1197" visible="true" lat="43.71546465" lon="-72.31329679">
-    <!-- conflict: "28 Hopson Road, , VT" Fuzzy match to "28 Hopson Road, , " -->
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Hopson Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183254"/>
   </node>
   <node id="-1359" visible="true" lat="43.708814" lon="-72.3245512">
     <!-- conflict: "64 Hickory Ridge, , VT" Fuzzy match to "64 Hickory Ridge Road, Norwich, VT" -->
@@ -279,13 +251,6 @@
     <tag k="addr:street" v="Hickory Ridge"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="183474"/>
-  </node>
-  <node id="-1403" visible="true" lat="43.70469668" lon="-72.30088092">
-    <!-- conflict: "2 Ledyard Lane, , VT" Fuzzy match to "2 Ledyard Lane, Norwich, " -->
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Ledyard Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183479"/>
   </node>
   <node id="-1415" visible="true" lat="43.70379257" lon="-72.32618713">
     <!-- conflict: "159 Hickory Ridge, , VT" Fuzzy match to "159 Hickory Ridge Road, Norwich, VT" -->

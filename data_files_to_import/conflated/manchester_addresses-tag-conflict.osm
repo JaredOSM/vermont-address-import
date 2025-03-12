@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-234" visible="true" lat="43.2057785" lon="-73.02160217">
-    <!-- conflict: "229 Beech Street, , VT" Fuzzy match to "229 Beech Street, Manchester, " -->
-    <tag k="addr:housenumber" v="229"/>
-    <tag k="addr:street" v="Beech Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="149153"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-536" visible="true" lat="43.18898075" lon="-73.04389197">
     <!-- conflict: "40 Jeff Williams Way, , VT" No match in OSM, but a different address exists <5m away: "6039 Main Street, Manchester, VT" -->
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Jeff Williams Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149460"/>
-  </node>
-  <node id="-582" visible="true" lat="43.18757626" lon="-73.04457119">
-    <!-- conflict: "5957 Main Street, , VT" Fuzzy match to "5957 Main Street, Manchester, " -->
-    <tag k="addr:housenumber" v="5957"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="149507"/>
   </node>
   <node id="-967" visible="true" lat="43.17737647" lon="-73.05593291">
     <!-- conflict: "4933 Main Street, , VT" No match in OSM, but a different address exists <5m away: "4913 Main Street, Manchester Center, VT" -->
@@ -119,6 +105,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="150354"/>
   </node>
+  <node id="-1436" visible="true" lat="43.17245896" lon="-73.04216812">
+    <!-- conflict: "811 Depot Street, , VT" No match in OSM, but a different address exists <5m away: "611 Depot Street, Manchester, VT" -->
+    <tag k="addr:housenumber" v="811"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150469"/>
+  </node>
   <node id="-1477" visible="true" lat="43.17175035" lon="-73.05996386">
     <!-- conflict: "122 Equinox Terrace, , VT" No match in OSM, but a different address exists <5m away: "122 The Meadows, Manchester, VT" -->
     <tag k="addr:housenumber" v="122"/>
@@ -188,6 +181,13 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151646"/>
+  </node>
+  <node id="-2623" visible="true" lat="43.17389211" lon="-73.04973591">
+    <!-- conflict: "49 Center Hill, , VT" Fuzzy match to "49 Center Hollow, Manchester, VT" -->
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Center Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151777"/>
   </node>
   <node id="-2834" visible="true" lat="43.1757928" lon="-73.05536129">
     <!-- conflict: "103 Depot Street, , VT" No match in OSM, but a different address exists <5m away: "130 Depot Street, Manchester Center, VT" -->

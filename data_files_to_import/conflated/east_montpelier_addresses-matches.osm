@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="44.23526132" lon="-72.48700733">
     <tag k="addr:housenumber" v="575"/>
     <tag k="addr:street" v="East Montpelier Road"/>
@@ -60,23 +60,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91253"/>
   </node>
-  <node id="-590" visible="true" lat="44.27918243" lon="-72.55310821">
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Cummings Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="91258"/>
-  </node>
   <node id="-596" visible="true" lat="44.27773284" lon="-72.55371856">
     <tag k="addr:housenumber" v="353"/>
     <tag k="addr:street" v="County Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91264"/>
-  </node>
-  <node id="-597" visible="true" lat="44.27752527" lon="-72.5316957">
-    <tag k="addr:housenumber" v="1735"/>
-    <tag k="addr:street" v="Bliss Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="91265"/>
   </node>
   <node id="-601" visible="true" lat="44.27699077" lon="-72.53079356">
     <tag k="addr:housenumber" v="1711"/>
@@ -300,12 +288,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91495"/>
   </node>
-  <node id="-822" visible="true" lat="44.26133354" lon="-72.53556763">
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Green Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="91501"/>
-  </node>
   <node id="-823" visible="true" lat="44.26123817" lon="-72.53001121">
     <tag k="addr:housenumber" v="265"/>
     <tag k="addr:street" v="Green Road"/>
@@ -317,6 +299,46 @@
     <tag k="addr:street" v="Brazier Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91507"/>
+  </node>
+  <node id="-842" visible="true" lat="44.25983318" lon="-72.53683188">
+    <!-- match: "268 Bliss Road, , VT"  ignoring missing state when matching to "268 Bliss Road, East Montpelier, " -->
+    <tag k="addr:housenumber" v="268"/>
+    <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91522"/>
+  </node>
+  <node id="-845" visible="true" lat="44.25904222" lon="-72.53720234">
+    <!-- match: "254 Bliss Road, , VT"  ignoring missing state when matching to "254 Bliss Road, East Montpelier, " -->
+    <tag k="addr:housenumber" v="254"/>
+    <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91525"/>
+  </node>
+  <node id="-849" visible="true" lat="44.25814777" lon="-72.51429516">
+    <tag k="addr:housenumber" v="2530"/>
+    <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91529"/>
+  </node>
+  <node id="-850" visible="true" lat="44.25808047" lon="-72.5369415">
+    <!-- match: "204 Bliss Road, , VT"  ignoring missing state when matching to "204 Bliss Road, East Montpelier, " -->
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91530"/>
+  </node>
+  <node id="-854" visible="true" lat="44.25756322" lon="-72.51661957">
+    <tag k="addr:housenumber" v="2395"/>
+    <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91534"/>
+  </node>
+  <node id="-858" visible="true" lat="44.25714493" lon="-72.53762155">
+    <!-- match: "128 Bliss Road, , VT"  ignoring missing state when matching to "128 Bliss Road, East Montpelier, " -->
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91538"/>
   </node>
   <node id="-871" visible="true" lat="44.25595856" lon="-72.53485208">
     <tag k="addr:housenumber" v="1245"/>
@@ -330,6 +352,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91553"/>
   </node>
+  <node id="-881" visible="true" lat="44.25494949" lon="-72.52190441">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Brazier Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91561"/>
+  </node>
   <node id="-886" visible="true" lat="44.25437142" lon="-72.53438808">
     <tag k="addr:housenumber" v="1325"/>
     <tag k="addr:street" v="Towne Hill Road"/>
@@ -342,17 +370,17 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91574"/>
   </node>
-  <node id="-895" visible="true" lat="44.25294749" lon="-72.52875703">
-    <tag k="addr:housenumber" v="1595"/>
-    <tag k="addr:street" v="Towne Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="91575"/>
-  </node>
   <node id="-898" visible="true" lat="44.25274992" lon="-72.52311385">
     <tag k="addr:housenumber" v="1920"/>
     <tag k="addr:street" v="Towne Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91578"/>
+  </node>
+  <node id="-900" visible="true" lat="44.2527212" lon="-72.51475275">
+    <tag k="addr:housenumber" v="331"/>
+    <tag k="addr:street" v="Wheeler Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91580"/>
   </node>
   <node id="-904" visible="true" lat="44.25221302" lon="-72.52185435">
     <tag k="addr:housenumber" v="1555"/>
@@ -366,6 +394,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91589"/>
   </node>
+  <node id="-910" visible="true" lat="44.2518959" lon="-72.51441955">
+    <tag k="addr:housenumber" v="333"/>
+    <tag k="addr:street" v="Wheeler Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91590"/>
+  </node>
+  <node id="-911" visible="true" lat="44.25185283" lon="-72.51591057">
+    <tag k="addr:housenumber" v="303"/>
+    <tag k="addr:street" v="Wheeler Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91591"/>
+  </node>
   <node id="-912" visible="true" lat="44.2519062" lon="-72.52723299">
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Maplewood Road"/>
@@ -377,6 +417,12 @@
     <tag k="addr:street" v="Maplewood Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91597"/>
+  </node>
+  <node id="-918" visible="true" lat="44.25128906" lon="-72.51720374">
+    <tag k="addr:housenumber" v="235"/>
+    <tag k="addr:street" v="Wheeler Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91598"/>
   </node>
   <node id="-919" visible="true" lat="44.25114152" lon="-72.52727167">
     <tag k="addr:housenumber" v="90"/>
@@ -390,11 +436,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91602"/>
   </node>
+  <node id="-923" visible="true" lat="44.25094919" lon="-72.51935391">
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:street" v="Schoolhouse Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91603"/>
+  </node>
   <node id="-924" visible="true" lat="44.25044631" lon="-72.52674865">
     <tag k="addr:housenumber" v="135"/>
     <tag k="addr:street" v="Maplewood Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91604"/>
+  </node>
+  <node id="-925" visible="true" lat="44.25041962" lon="-72.52734475">
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="Maplewood Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91605"/>
+  </node>
+  <node id="-931" visible="true" lat="44.24983892" lon="-72.52047874">
+    <tag k="addr:housenumber" v="1410"/>
+    <tag k="addr:street" v="Gallison Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91611"/>
+  </node>
+  <node id="-938" visible="true" lat="44.24697112" lon="-72.52510833">
+    <tag k="addr:housenumber" v="1105"/>
+    <tag k="addr:street" v="Gallison Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91618"/>
+  </node>
+  <node id="-940" visible="true" lat="44.2468872" lon="-72.52466583">
+    <tag k="addr:housenumber" v="1085"/>
+    <tag k="addr:street" v="Gallison Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91620"/>
+  </node>
+  <node id="-947" visible="true" lat="44.24468137" lon="-72.52693353">
+    <tag k="addr:housenumber" v="930"/>
+    <tag k="addr:street" v="Gallison Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91627"/>
   </node>
   <node id="-960" visible="true" lat="44.24076993" lon="-72.49010437">
     <tag k="addr:housenumber" v="355"/>
@@ -426,6 +508,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91697"/>
   </node>
+  <node id="-1016" visible="true" lat="44.24762886" lon="-72.52123952">
+    <tag k="addr:housenumber" v="1236"/>
+    <tag k="addr:street" v="Gallison Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91698"/>
+  </node>
   <node id="-1043" visible="true" lat="44.27823038" lon="-72.52924213">
     <tag k="addr:housenumber" v="1754"/>
     <tag k="addr:street" v="Bliss Road"/>
@@ -444,11 +532,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91728"/>
   </node>
+  <node id="-1122" visible="true" lat="44.26924633" lon="-72.45547034">
+    <!-- match: "90 Cookson Drive, , VT"  ignoring missing state when matching to "90 Cookson Drive, East Montpelier, " -->
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Cookson Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91804"/>
+  </node>
   <node id="-1127" visible="true" lat="44.25535273" lon="-72.53779128">
     <tag k="addr:housenumber" v="1186"/>
     <tag k="addr:street" v="Towne Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91809"/>
+  </node>
+  <node id="-1129" visible="true" lat="44.25265716" lon="-72.51675562">
+    <tag k="addr:housenumber" v="317"/>
+    <tag k="addr:street" v="Wheeler Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91811"/>
   </node>
   <node id="-1133" visible="true" lat="44.2349271" lon="-72.48173161">
     <tag k="addr:housenumber" v="699"/>
@@ -486,11 +587,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91856"/>
   </node>
-  <node id="-1174" visible="true" lat="44.25592838" lon="-72.53039475">
-    <tag k="addr:housenumber" v="208"/>
-    <tag k="addr:street" v="Boulder Ridge Road"/>
+  <node id="-1175" visible="true" lat="44.23841879" lon="-72.52479239">
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:street" v="Power Plant Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="91857"/>
+    <tag k="ref:vcgi:esiteid" v="91858"/>
+  </node>
+  <node id="-1176" visible="true" lat="44.25400247" lon="-72.52155106">
+    <tag k="addr:housenumber" v="2021"/>
+    <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91859"/>
+  </node>
+  <node id="-1179" visible="true" lat="44.2702333" lon="-72.45511766">
+    <!-- match: "45 Cookson Drive, , VT"  ignoring missing state when matching to "45 Cookson Drive, East Montpelier, " -->
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Cookson Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91862"/>
   </node>
   <node id="-1181" visible="true" lat="44.25640565" lon="-72.53195022">
     <tag k="addr:housenumber" v="189"/>
@@ -509,6 +623,13 @@
     <tag k="addr:street" v="Towne Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="308867"/>
+  </node>
+  <node id="-1196" visible="true" lat="44.26872338" lon="-72.45467723">
+    <!-- match: "124 Cookson Drive, , VT"  ignoring missing state when matching to "124 Cookson Drive, East Montpelier, " -->
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Cookson Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="310613"/>
   </node>
   <node id="-1203" visible="true" lat="44.25550429" lon="-72.53415556">
     <tag k="addr:housenumber" v="1309"/>
@@ -534,6 +655,43 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="326477"/>
   </node>
+  <node id="-1239" visible="true" lat="44.24677832" lon="-72.52318084">
+    <tag k="addr:housenumber" v="1130"/>
+    <tag k="addr:street" v="Gallison Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338173"/>
+  </node>
+  <node id="-1251" visible="true" lat="44.25372635" lon="-72.53456047">
+    <!-- match: "1332 Towne Hill Road, , VT"  ignoring missing state when matching to "1332 Towne Hill Road, East Montpelier, " -->
+    <tag k="addr:housenumber" v="1332"/>
+    <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340248"/>
+  </node>
+  <node id="-1252" visible="true" lat="44.25839359" lon="-72.51303278">
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Old Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345167"/>
+  </node>
+  <node id="-1253" visible="true" lat="44.25719931" lon="-72.51293925">
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Old Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345176"/>
+  </node>
+  <node id="-1254" visible="true" lat="44.25808405" lon="-72.51214852">
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Old Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345177"/>
+  </node>
+  <node id="-1255" visible="true" lat="44.25630823" lon="-72.51359175">
+    <tag k="addr:housenumber" v="2418"/>
+    <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345178"/>
+  </node>
   <node id="-1264" visible="true" lat="44.25280999" lon="-72.52203796">
     <tag k="addr:housenumber" v="1980"/>
     <tag k="addr:street" v="Towne Hill Road"/>
@@ -545,6 +703,18 @@
     <tag k="addr:street" v="Kelton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="446787"/>
+  </node>
+  <node id="-1275" visible="true" lat="44.25744557" lon="-72.51427099">
+    <tag k="addr:housenumber" v="2422"/>
+    <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="448109"/>
+  </node>
+  <node id="-1283" visible="true" lat="44.25697098" lon="-72.51627943">
+    <tag k="addr:housenumber" v="2368"/>
+    <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450513"/>
   </node>
   <node id="-1288" visible="true" lat="44.25848272" lon="-72.52598253">
     <tag k="addr:housenumber" v="325"/>

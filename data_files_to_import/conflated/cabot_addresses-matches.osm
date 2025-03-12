@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-147" visible="true" lat="44.43669315" lon="-72.32474951">
+    <!-- match: "155 Herkimer Way, , VT"  ignoring missing state when matching to "155 Herkimer Way, , " -->
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:street" v="Herkimer Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="55575"/>
+  </node>
   <node id="-184" visible="true" lat="44.42770385" lon="-72.33337402">
     <tag k="addr:housenumber" v="993"/>
     <tag k="addr:street" v="Coits Pond Road"/>
@@ -18,11 +25,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55754"/>
   </node>
+  <node id="-413" visible="true" lat="44.40345382" lon="-72.30952453">
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Common Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="55843"/>
+  </node>
   <node id="-423" visible="true" lat="44.40268325" lon="-72.31114959">
     <tag k="addr:housenumber" v="3109"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55854"/>
+  </node>
+  <node id="-428" visible="true" lat="44.40237234" lon="-72.31090791">
+    <tag k="addr:housenumber" v="3102"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="55859"/>
+  </node>
+  <node id="-431" visible="true" lat="44.40231045" lon="-72.31159182">
+    <tag k="addr:housenumber" v="3075"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="55862"/>
   </node>
   <node id="-438" visible="true" lat="44.40214449" lon="-72.31105669">
     <tag k="addr:housenumber" v="3084"/>
@@ -41,6 +66,13 @@
     <tag k="addr:street" v="Cabot Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611755"/>
+  </node>
+  <node id="-956" visible="true" lat="44.43755026" lon="-72.32275403">
+    <!-- match: "250 Herkimer Way, , VT"  ignoring missing state when matching to "250 Herkimer Way, , " -->
+    <tag k="addr:housenumber" v="250"/>
+    <tag k="addr:street" v="Herkimer Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611999"/>
   </node>
   <node id="-983" visible="true" lat="44.38837123" lon="-72.25045213">
     <tag k="addr:housenumber" v="6570"/>

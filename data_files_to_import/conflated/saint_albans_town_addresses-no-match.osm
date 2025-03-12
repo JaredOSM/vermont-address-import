@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.81007221" lon="-72.98260337">
     <tag k="addr:housenumber" v="500"/>
     <tag k="addr:street" v="Connor Road"/>
@@ -59,12 +59,6 @@
     <tag k="addr:street" v="Orchard Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="238246"/>
-  </node>
-  <node id="-110" visible="true" lat="44.82350844" lon="-73.08155312">
-    <tag k="addr:housenumber" v="266"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="238248"/>
   </node>
   <node id="-111" visible="true" lat="44.79786299" lon="-73.09038497">
     <tag k="addr:housenumber" v="237"/>
@@ -455,12 +449,6 @@
     <tag k="addr:street" v="Maquam Shore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="241167"/>
-  </node>
-  <node id="-181" visible="true" lat="44.86470221" lon="-73.18053276">
-    <tag k="addr:housenumber" v="4066"/>
-    <tag k="addr:street" v="Maquam Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="241168"/>
   </node>
   <node id="-182" visible="true" lat="44.86471176" lon="-73.15118408">
     <tag k="addr:housenumber" v="662"/>
@@ -2106,12 +2094,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="241470"/>
   </node>
-  <node id="-457" visible="true" lat="44.83781103" lon="-73.08215508">
-    <tag k="addr:housenumber" v="190"/>
-    <tag k="addr:street" v="Swanton Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="241471"/>
-  </node>
   <node id="-458" visible="true" lat="44.83781051" lon="-73.07870483">
     <tag k="addr:housenumber" v="53"/>
     <tag k="addr:street" v="Parah Drive"/>
@@ -2291,12 +2273,6 @@
     <tag k="addr:street" v="Lower Newton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="241505"/>
-  </node>
-  <node id="-488" visible="true" lat="44.83483123" lon="-73.08002471">
-    <tag k="addr:housenumber" v="138"/>
-    <tag k="addr:street" v="Swanton Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="241507"/>
   </node>
   <node id="-489" visible="true" lat="44.83473972" lon="-73.09850009">
     <tag k="addr:housenumber" v="1427"/>
@@ -3552,12 +3528,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="241732"/>
   </node>
-  <node id="-699" visible="true" lat="44.82603073" lon="-73.08023834">
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Swanton Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="241733"/>
-  </node>
   <node id="-700" visible="true" lat="44.82596631" lon="-73.0760686">
     <tag k="addr:housenumber" v="222"/>
     <tag k="addr:street" v="High Street"/>
@@ -3599,12 +3569,6 @@
     <tag k="addr:street" v="Summit Place"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="241742"/>
-  </node>
-  <node id="-707" visible="true" lat="44.82580431" lon="-73.08098455">
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Swanton Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="241743"/>
   </node>
   <node id="-708" visible="true" lat="44.82574325" lon="-73.08987177">
     <tag k="addr:housenumber" v="664"/>
@@ -3683,12 +3647,6 @@
     <tag k="addr:street" v="Ashton Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="241757"/>
-  </node>
-  <node id="-721" visible="true" lat="44.82523662" lon="-73.08143151">
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Swanton Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="241758"/>
   </node>
   <node id="-722" visible="true" lat="44.82543182" lon="-73.05691528">
     <tag k="addr:housenumber" v="1575"/>
@@ -10764,12 +10722,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="243123"/>
   </node>
-  <node id="-2013" visible="true" lat="44.78733325" lon="-73.09940604">
-    <tag k="addr:housenumber" v="423"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="243125"/>
-  </node>
   <node id="-2014" visible="true" lat="44.78676607" lon="-73.18725318">
     <tag k="addr:housenumber" v="354"/>
     <tag k="addr:street" v="Cove Road"/>
@@ -13236,12 +13188,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="243614"/>
   </node>
-  <node id="-2462" visible="true" lat="44.83554967" lon="-73.08400238">
-    <tag k="addr:housenumber" v="170"/>
-    <tag k="addr:street" v="Swanton Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="243615"/>
-  </node>
   <node id="-2463" visible="true" lat="44.84196979" lon="-73.07994149">
     <tag k="addr:housenumber" v="398"/>
     <tag k="addr:street" v="Highgate Commons Road"/>
@@ -13277,12 +13223,6 @@
     <tag k="addr:street" v="Swanton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="243624"/>
-  </node>
-  <node id="-2469" visible="true" lat="44.83764609" lon="-73.08074359">
-    <tag k="addr:housenumber" v="183"/>
-    <tag k="addr:street" v="Swanton Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="243626"/>
   </node>
   <node id="-2470" visible="true" lat="44.81038286" lon="-73.07068464">
     <tag k="addr:housenumber" v="21"/>
@@ -14952,12 +14892,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306328"/>
   </node>
-  <node id="-2753" visible="true" lat="44.80931398" lon="-73.06551375">
-    <tag k="addr:housenumber" v="140"/>
-    <tag k="addr:street" v="Fisher Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306329"/>
-  </node>
   <node id="-2754" visible="true" lat="44.837723" lon="-73.09507375">
     <tag k="addr:housenumber" v="116"/>
     <tag k="addr:street" v="Birch Lane"/>
@@ -16488,12 +16422,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="336576"/>
   </node>
-  <node id="-3090" visible="true" lat="44.84061275" lon="-73.07915836">
-    <tag k="addr:housenumber" v="290"/>
-    <tag k="addr:street" v="Highgate Commons Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="336577"/>
-  </node>
   <node id="-3091" visible="true" lat="44.84118632" lon="-73.07899105">
     <tag k="addr:housenumber" v="334"/>
     <tag k="addr:street" v="Highgate Commons Road"/>
@@ -17399,12 +17327,6 @@
     <tag k="addr:street" v="Choiniere Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454329"/>
-  </node>
-  <node id="-3291" visible="true" lat="44.80626435" lon="-73.06725311">
-    <tag k="addr:housenumber" v="128"/>
-    <tag k="addr:street" v="Fisher Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454330"/>
   </node>
   <node id="-3292" visible="true" lat="44.78942064" lon="-73.09071021">
     <tag k="addr:housenumber" v="60"/>

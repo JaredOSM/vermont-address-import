@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-417" visible="true" lat="44.49838046" lon="-73.12768183">
     <!-- multiple: "159 Pearl Street, Essex Junction, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Essex Junction"/>
@@ -7,6 +7,22 @@
     <tag k="addr:street" v="Pearl Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="97077"/>
+  </node>
+  <node id="-445" visible="true" lat="44.49827941" lon="-73.10017337">
+    <!-- multiple: "144 Main Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="97120"/>
+  </node>
+  <node id="-467" visible="true" lat="44.49809014" lon="-73.10029767">
+    <!-- multiple: "144 Main Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="97149"/>
   </node>
   <node id="-566" visible="true" lat="44.49748478" lon="-73.10859083">
     <!-- multiple: "2 Educational Drive, Essex Junction, VT" Multiple exact matches in OSM. -->
@@ -16,6 +32,30 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="97296"/>
   </node>
+  <node id="-633" visible="true" lat="44.49653625" lon="-73.11625671">
+    <!-- multiple: "39 Prospect Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Prospect Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="97392"/>
+  </node>
+  <node id="-800" visible="true" lat="44.4953425" lon="-73.11190716">
+    <!-- multiple: "56 Lincoln Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="97621"/>
+  </node>
+  <node id="-840" visible="true" lat="44.49516432" lon="-73.11253919">
+    <!-- multiple: "56 Lincoln Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="97674"/>
+  </node>
   <node id="-862" visible="true" lat="44.49473998" lon="-73.11896918">
     <!-- multiple: "77 Pearl Street, Essex Junction, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Essex Junction"/>
@@ -23,6 +63,30 @@
     <tag k="addr:street" v="Pearl Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="97703"/>
+  </node>
+  <node id="-896" visible="true" lat="44.49477959" lon="-73.1135043">
+    <!-- multiple: "21 Prospect Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Prospect Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="97748"/>
+  </node>
+  <node id="-910" visible="true" lat="44.49541056" lon="-73.11235665">
+    <!-- multiple: "56 Lincoln Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="97766"/>
+  </node>
+  <node id="-936" visible="true" lat="44.49597346" lon="-73.11561736">
+    <!-- multiple: "39 Prospect Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Prospect Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="97802"/>
   </node>
   <node id="-982" visible="true" lat="44.49464568" lon="-73.11874615">
     <!-- multiple: "75 Pearl Street, Essex Junction, VT" Multiple exact matches in OSM. -->
@@ -176,6 +240,46 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="98291"/>
   </node>
+  <node id="-1360" visible="true" lat="44.49177984" lon="-73.11182567">
+    <!-- multiple: "10 Lincoln Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98362"/>
+  </node>
+  <node id="-1362" visible="true" lat="44.49166127" lon="-73.11136719">
+    <!-- multiple: "10 Lincoln Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98366"/>
+  </node>
+  <node id="-1832" visible="true" lat="44.48971205" lon="-73.10972679">
+    <!-- multiple: "120 Railroad Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98936"/>
+  </node>
+  <node id="-1940" visible="true" lat="44.48912885" lon="-73.10973611">
+    <!-- multiple: "144 Railroad Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99075"/>
+  </node>
+  <node id="-1977" visible="true" lat="44.48876869" lon="-73.11015422">
+    <!-- multiple: "156 Railroad Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99123"/>
+  </node>
   <node id="-2004" visible="true" lat="44.48841393" lon="-73.11201963">
     <!-- multiple: "34 Park Street, Essex Junction, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Essex Junction"/>
@@ -183,6 +287,14 @@
     <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="99161"/>
+  </node>
+  <node id="-2097" visible="true" lat="44.48786318" lon="-73.1123536">
+    <!-- multiple: "38 Park Street, Essex Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Park Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99310"/>
   </node>
   <node id="-2422" visible="true" lat="44.48588604" lon="-73.09750983">
     <!-- multiple: "130 Maple Street, Essex Junction, VT" Multiple exact matches in OSM. -->

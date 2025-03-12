@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-137" visible="true" lat="44.3599206" lon="-72.58088774">
     <tag k="addr:housenumber" v="259"/>
     <tag k="addr:street" v="Wood Road"/>
@@ -132,6 +132,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157056"/>
   </node>
+  <node id="-316" visible="true" lat="44.3367424" lon="-72.58118438">
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="Shady Rill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157058"/>
+  </node>
   <node id="-318" visible="true" lat="44.33651351" lon="-72.6187973">
     <tag k="addr:housenumber" v="114"/>
     <tag k="addr:street" v="Molly Supple Hill Road"/>
@@ -155,6 +161,12 @@
     <tag k="addr:street" v="Molly Supple Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157070"/>
+  </node>
+  <node id="-340" visible="true" lat="44.32981008" lon="-72.57494168">
+    <tag k="addr:housenumber" v="369"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157082"/>
   </node>
   <node id="-351" visible="true" lat="44.32859802" lon="-72.62457275">
     <tag k="addr:housenumber" v="21"/>
@@ -185,6 +197,12 @@
     <tag k="addr:street" v="East Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157117"/>
+  </node>
+  <node id="-392" visible="true" lat="44.32319111" lon="-72.57737959">
+    <tag k="addr:housenumber" v="509"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157134"/>
   </node>
   <node id="-393" visible="true" lat="44.32225418" lon="-72.62612152">
     <tag k="addr:housenumber" v="114"/>
@@ -288,11 +306,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157255"/>
   </node>
+  <node id="-515" visible="true" lat="44.30918256" lon="-72.57760838">
+    <!-- match: "90 Corry Road, , VT"  ignoring missing state when matching to "90 Corry Road, Middlesex, " -->
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Corry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157257"/>
+  </node>
   <node id="-528" visible="true" lat="44.30842971" lon="-72.61396026">
     <tag k="addr:housenumber" v="373"/>
     <tag k="addr:street" v="East Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157270"/>
+  </node>
+  <node id="-536" visible="true" lat="44.30715253" lon="-72.58068374">
+    <tag k="addr:housenumber" v="736"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157278"/>
   </node>
   <node id="-539" visible="true" lat="44.30689456" lon="-72.58188452">
     <tag k="addr:housenumber" v="30"/>
@@ -311,6 +342,12 @@
     <tag k="addr:street" v="Bolduc Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157283"/>
+  </node>
+  <node id="-542" visible="true" lat="44.30676829" lon="-72.57958701">
+    <tag k="addr:housenumber" v="751"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157284"/>
   </node>
   <node id="-544" visible="true" lat="44.30642571" lon="-72.61252767">
     <tag k="addr:housenumber" v="396"/>
@@ -335,6 +372,12 @@
     <tag k="addr:street" v="Bolduc Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157290"/>
+  </node>
+  <node id="-550" visible="true" lat="44.30603408" lon="-72.57950592">
+    <tag k="addr:housenumber" v="759"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157292"/>
   </node>
   <node id="-553" visible="true" lat="44.30584195" lon="-72.5854572">
     <tag k="addr:housenumber" v="71"/>
@@ -750,29 +793,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157439"/>
   </node>
-  <node id="-682" visible="true" lat="44.28844962" lon="-72.59515932">
-    <tag k="addr:housenumber" v="293"/>
-    <tag k="addr:street" v="Portal Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="157440"/>
-  </node>
   <node id="-683" visible="true" lat="44.28752899" lon="-72.60138702">
     <tag k="addr:housenumber" v="731"/>
     <tag k="addr:street" v="East Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157441"/>
-  </node>
-  <node id="-684" visible="true" lat="44.28720888" lon="-72.59580152">
-    <tag k="addr:housenumber" v="311"/>
-    <tag k="addr:street" v="Portal Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="157442"/>
-  </node>
-  <node id="-685" visible="true" lat="44.28710556" lon="-72.59745788">
-    <tag k="addr:housenumber" v="320"/>
-    <tag k="addr:street" v="Portal Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="157443"/>
   </node>
   <node id="-686" visible="true" lat="44.28693008" lon="-72.66490936">
     <tag k="addr:housenumber" v="731"/>
@@ -948,12 +973,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157535"/>
   </node>
-  <node id="-778" visible="true" lat="44.28668688" lon="-72.5966646">
-    <tag k="addr:housenumber" v="325"/>
-    <tag k="addr:street" v="Portal Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="157538"/>
-  </node>
   <node id="-786" visible="true" lat="44.33354195" lon="-72.61794587">
     <tag k="addr:housenumber" v="182"/>
     <tag k="addr:street" v="Franks Way"/>
@@ -1019,6 +1038,13 @@
     <tag k="addr:street" v="Portal Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157617"/>
+  </node>
+  <node id="-872" visible="true" lat="44.30935466" lon="-72.57693992">
+    <!-- match: "73 Corry Road, , VT"  ignoring missing state when matching to "73 Corry Road, Middlesex, " -->
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Corry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="164147"/>
   </node>
   <node id="-892" visible="true" lat="44.29954166" lon="-72.69172104">
     <tag k="addr:housenumber" v="31"/>

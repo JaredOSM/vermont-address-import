@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="43.30665969" lon="-73.0928955">
     <tag k="addr:housenumber" v="2914"/>
     <tag k="addr:street" v="Danby Mountain Road"/>
@@ -138,6 +138,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="84252"/>
   </node>
+  <node id="-171" visible="true" lat="43.28343963" lon="-73.00299072">
+    <!-- match: "65 Emerald Lake Lane, , VT"  ignoring missing state when matching to "65 Emerald Lake Lane, , " -->
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Emerald Lake Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="84257"/>
+  </node>
   <node id="-173" visible="true" lat="43.28243255" lon="-73.11235046">
     <tag k="addr:housenumber" v="1011"/>
     <tag k="addr:street" v="Danby Mountain Road"/>
@@ -240,6 +247,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="84334"/>
   </node>
+  <node id="-613" visible="true" lat="43.2517929" lon="-73.10821533">
+    <tag k="addr:housenumber" v="517"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="84726"/>
+  </node>
+  <node id="-615" visible="true" lat="43.25163746" lon="-73.10972141">
+    <tag k="addr:housenumber" v="597"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="84728"/>
+  </node>
+  <node id="-960" visible="true" lat="43.23274452" lon="-73.08221879">
+    <tag k="addr:housenumber" v="1567"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="85104"/>
+  </node>
   <node id="-992" visible="true" lat="43.2300682" lon="-73.08763885">
     <tag k="addr:housenumber" v="1161"/>
     <tag k="addr:street" v="Dorset West Road"/>
@@ -299,6 +324,18 @@
     <tag k="addr:street" v="Danby Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337672"/>
+  </node>
+  <node id="-1541" visible="true" lat="43.23672362" lon="-73.02849903">
+    <tag k="addr:housenumber" v="1899"/>
+    <tag k="addr:street" v="Dorset Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340620"/>
+  </node>
+  <node id="-1551" visible="true" lat="43.2493703" lon="-73.08576927">
+    <tag k="addr:housenumber" v="649"/>
+    <tag k="addr:street" v="Awesome View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345029"/>
   </node>
   <node id="-1558" visible="true" lat="43.27753126" lon="-73.11099032">
     <tag k="addr:housenumber" v="592"/>

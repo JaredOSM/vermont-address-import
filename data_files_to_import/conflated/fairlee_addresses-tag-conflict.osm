@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-189" visible="true" lat="43.90958406" lon="-72.15612269">
     <!-- conflict: "179 Clubhouse Road, Fairlee, VT" No match in OSM, but a different address exists <5m away: " , Fairlee, VT" -->
     <tag k="addr:city" v="Fairlee"/>
@@ -135,5 +135,13 @@
     <tag k="addr:street" v="Vermont Route 244"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="610588"/>
+  </node>
+  <node id="-867" visible="true" lat="43.90736739" lon="-72.15896194">
+    <!-- conflict: "49 Fairview Street, Fairlee, VT" No match in OSM, but a different address exists <5m away: " Fairview Street, Fairlee, VT" -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Fairview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758110"/>
   </node>
 </osm>

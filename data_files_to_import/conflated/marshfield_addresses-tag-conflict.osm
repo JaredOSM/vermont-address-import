@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-421" visible="true" lat="44.33032226" lon="-72.28224182">
     <!-- conflict: "3545 Vermont Route 232, , VT" No match in OSM, but a different address exists <5m away: "3545 Vt Route 232, Marshfield, VT" -->
     <tag k="addr:housenumber" v="3545"/>
@@ -48,5 +48,12 @@
     <tag k="addr:street" v="Vermont Route 232"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185951"/>
+  </node>
+  <node id="-833" visible="true" lat="44.33624953" lon="-72.28871866">
+    <!-- conflict: "223 Pleasant Avenue, , VT" No match in OSM, but a different address exists <5m away: "213 Pleasant Avenue, Marshfield, VT" -->
+    <tag k="addr:housenumber" v="223"/>
+    <tag k="addr:street" v="Pleasant Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="315301"/>
   </node>
 </osm>

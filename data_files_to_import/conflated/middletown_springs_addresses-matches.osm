@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-172" visible="true" lat="43.46245821" lon="-73.14944079">
     <tag k="addr:city" v="Middletown Springs"/>
     <tag k="addr:housenumber" v="40"/>
@@ -1273,5 +1273,12 @@
     <tag k="addr:street" v="Spring Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759529"/>
+  </node>
+  <node id="-707" visible="true" lat="43.47717005" lon="-73.08216012">
+    <tag k="addr:city" v="Middletown Springs"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="McNamara Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="900457"/>
   </node>
 </osm>

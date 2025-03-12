@@ -1,11 +1,225 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-108" visible="true" lat="44.60481251" lon="-73.19124361">
+    <!-- match: "527 North Harbor Road, Colchester, VT"  ignoring missing state when matching to "527 North Harbor Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="527"/>
+    <tag k="addr:street" v="North Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69442"/>
+  </node>
+  <node id="-110" visible="true" lat="44.60466794" lon="-73.1914559">
+    <!-- match: "513 North Harbor Road, Colchester, VT"  ignoring missing state when matching to "513 North Harbor Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="513"/>
+    <tag k="addr:street" v="North Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69445"/>
+  </node>
+  <node id="-111" visible="true" lat="44.60465114" lon="-73.19060313">
+    <!-- match: "539 North Harbor Road, Colchester, VT"  ignoring missing state when matching to "539 North Harbor Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="539"/>
+    <tag k="addr:street" v="North Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69446"/>
+  </node>
+  <node id="-114" visible="true" lat="44.60445412" lon="-73.19184806">
+    <!-- match: "491 North Harbor Road, Colchester, VT"  ignoring missing state when matching to "491 North Harbor Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="491"/>
+    <tag k="addr:street" v="North Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69449"/>
+  </node>
+  <node id="-116" visible="true" lat="44.60441291" lon="-73.19231182">
+    <!-- match: "457 North Harbor Road, Colchester, VT"  ignoring missing state when matching to "457 North Harbor Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="457"/>
+    <tag k="addr:street" v="North Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69451"/>
+  </node>
+  <node id="-120" visible="true" lat="44.60419436" lon="-73.18921879">
+    <!-- match: "505 Watkins Road, Colchester, VT"  ignoring missing state when matching to "505 Watkins Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="505"/>
+    <tag k="addr:street" v="Watkins Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69457"/>
+  </node>
+  <node id="-122" visible="true" lat="44.60399072" lon="-73.1913653">
+    <!-- match: "494 North Harbor Road, Colchester, VT"  ignoring missing state when matching to "494 North Harbor Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="494"/>
+    <tag k="addr:street" v="North Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69460"/>
+  </node>
+  <node id="-126" visible="true" lat="44.60392015" lon="-73.1901552">
+    <!-- match: "607 North Harbor Road, Colchester, VT"  ignoring missing state when matching to "607 North Harbor Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="607"/>
+    <tag k="addr:street" v="North Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69465"/>
+  </node>
+  <node id="-127" visible="true" lat="44.60383844" lon="-73.1916572">
+    <!-- match: "482 North Harbor Road, Colchester, VT"  ignoring missing state when matching to "482 North Harbor Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="482"/>
+    <tag k="addr:street" v="North Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69466"/>
+  </node>
+  <node id="-128" visible="true" lat="44.60378476" lon="-73.18963459">
+    <!-- match: "477 Watkins Road, Colchester, VT"  ignoring missing state when matching to "477 Watkins Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="477"/>
+    <tag k="addr:street" v="Watkins Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69467"/>
+  </node>
+  <node id="-132" visible="true" lat="44.60351749" lon="-73.19094133">
+    <!-- match: "584 North Harbor Road, Colchester, VT"  ignoring missing state when matching to "584 North Harbor Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="584"/>
+    <tag k="addr:street" v="North Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69472"/>
+  </node>
+  <node id="-134" visible="true" lat="44.603302" lon="-73.19062042">
+    <!-- match: "604 North Harbor Road, Colchester, VT"  ignoring missing state when matching to "604 North Harbor Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="604"/>
+    <tag k="addr:street" v="North Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69475"/>
+  </node>
+  <node id="-137" visible="true" lat="44.60314129" lon="-73.18728507">
+    <!-- match: "490 Watkins Road, Colchester, VT"  ignoring missing state when matching to "490 Watkins Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="490"/>
+    <tag k="addr:street" v="Watkins Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69479"/>
+  </node>
+  <node id="-138" visible="true" lat="44.60308456" lon="-73.19024658">
+    <!-- match: "622 North Harbor Road, Colchester, VT"  ignoring missing state when matching to "622 North Harbor Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="622"/>
+    <tag k="addr:street" v="North Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69480"/>
+  </node>
+  <node id="-143" visible="true" lat="44.60295517" lon="-73.18994247">
+    <!-- match: "638 North Harbor Road, Colchester, VT"  ignoring missing state when matching to "638 North Harbor Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="638"/>
+    <tag k="addr:street" v="North Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69486"/>
+  </node>
+  <node id="-196" visible="true" lat="44.59978976" lon="-73.17780183">
+    <!-- match: "414 Mayo Road, Colchester, VT"  ignoring missing state when matching to "414 Mayo Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="414"/>
+    <tag k="addr:street" v="Mayo Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69545"/>
+  </node>
+  <node id="-199" visible="true" lat="44.59953598" lon="-73.17706099">
+    <!-- match: "67 Chimney Hill Drive, Colchester, VT"  ignoring missing state when matching to "67 Chimney Hill Drive, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Chimney Hill Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69548"/>
+  </node>
+  <node id="-210" visible="true" lat="44.59891886" lon="-73.17607372">
+    <!-- match: "121 Chimney Hill Drive, Colchester, VT"  ignoring missing state when matching to "121 Chimney Hill Drive, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Chimney Hill Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69560"/>
+  </node>
+  <node id="-214" visible="true" lat="44.59872935" lon="-73.17556299">
+    <!-- match: "157 Chimney Hill Drive, Colchester, VT"  ignoring missing state when matching to "157 Chimney Hill Drive, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:street" v="Chimney Hill Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69564"/>
+  </node>
+  <node id="-218" visible="true" lat="44.59857854" lon="-73.17496752">
+    <!-- match: "183 Chimney Hill Drive, Colchester, VT"  ignoring missing state when matching to "183 Chimney Hill Drive, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:street" v="Chimney Hill Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69568"/>
+  </node>
+  <node id="-229" visible="true" lat="44.59821901" lon="-73.17456606">
+    <!-- match: "211 Chimney Hill Drive, Colchester, VT"  ignoring missing state when matching to "211 Chimney Hill Drive, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="211"/>
+    <tag k="addr:street" v="Chimney Hill Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69579"/>
+  </node>
+  <node id="-240" visible="true" lat="44.59778762" lon="-73.17431695">
+    <!-- match: "237 Chimney Hill Drive, Colchester, VT"  ignoring missing state when matching to "237 Chimney Hill Drive, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="237"/>
+    <tag k="addr:street" v="Chimney Hill Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69591"/>
+  </node>
+  <node id="-251" visible="true" lat="44.59735537" lon="-73.17415697">
+    <!-- match: "267 Chimney Hill Drive, Colchester, VT"  ignoring missing state when matching to "267 Chimney Hill Drive, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="267"/>
+    <tag k="addr:street" v="Chimney Hill Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69602"/>
+  </node>
+  <node id="-276" visible="true" lat="44.5959233" lon="-73.16672511">
+    <!-- match: "431 U.S. Route 7, Colchester, VT"  ignoring missing state when matching to "431 U.S. Route 7, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="431"/>
+    <tag k="addr:street" v="U.S. Route 7"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69628"/>
+  </node>
+  <node id="-283" visible="true" lat="44.59541866" lon="-73.18734005">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Raymond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69636"/>
+  </node>
   <node id="-296" visible="true" lat="44.5941271" lon="-73.18166528">
     <tag k="addr:city" v="Colchester"/>
     <tag k="addr:housenumber" v="359"/>
     <tag k="addr:street" v="Jasper Mine Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="69651"/>
+  </node>
+  <node id="-302" visible="true" lat="44.59391386" lon="-73.16844157">
+    <!-- match: "65 Brentwood Drive, Colchester, VT"  ignoring missing state when matching to "65 Brentwood Drive, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Brentwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69658"/>
+  </node>
+  <node id="-326" visible="true" lat="44.59260591" lon="-73.1787846">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Jasper Mine Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69682"/>
   </node>
   <node id="-328" visible="true" lat="44.59139026" lon="-73.16559219">
     <tag k="addr:city" v="Colchester"/>
@@ -14,12 +228,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="69684"/>
   </node>
+  <node id="-339" visible="true" lat="44.59204644" lon="-73.17376208">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Jasper Mine Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="69696"/>
+  </node>
   <node id="-1618" visible="true" lat="44.55110214" lon="-73.22983211">
     <tag k="addr:city" v="Colchester"/>
     <tag k="addr:housenumber" v="824"/>
     <tag k="addr:street" v="West Lakeshore Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="71101"/>
+  </node>
+  <node id="-1818" visible="true" lat="44.54975316" lon="-73.2283468">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="713"/>
+    <tag k="addr:street" v="West Lakeshore Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="71329"/>
   </node>
   <node id="-1945" visible="true" lat="44.54936005" lon="-73.16356685">
     <tag k="addr:city" v="Colchester"/>
@@ -42,19 +270,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="71758"/>
   </node>
+  <node id="-2219" visible="true" lat="44.54776382" lon="-73.15740966">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="419"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="71779"/>
+  </node>
   <node id="-2335" visible="true" lat="44.54724106" lon="-73.15763694">
     <tag k="addr:city" v="Colchester"/>
     <tag k="addr:housenumber" v="428"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="71906"/>
-  </node>
-  <node id="-2887" visible="true" lat="44.54399193" lon="-73.21385478">
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Blakely Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="72541"/>
   </node>
   <node id="-3012" visible="true" lat="44.54376842" lon="-73.14907922">
     <tag k="addr:city" v="Colchester"/>
@@ -76,6 +304,34 @@
     <tag k="addr:street" v="Porters Point Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="73601"/>
+  </node>
+  <node id="-3857" visible="true" lat="44.53638388" lon="-73.24697878">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Macrae Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73644"/>
+  </node>
+  <node id="-4371" visible="true" lat="44.52512976" lon="-73.16873132">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:street" v="Shea Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74238"/>
+  </node>
+  <node id="-4491" visible="true" lat="44.519859" lon="-73.15637185">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="Kylies Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74382"/>
+  </node>
+  <node id="-4543" visible="true" lat="44.51805956" lon="-73.18454578">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:street" v="Acorn Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74444"/>
   </node>
   <node id="-4838" visible="true" lat="44.51109374" lon="-73.1801611">
     <tag k="addr:city" v="Colchester"/>
@@ -125,6 +381,13 @@
     <tag k="addr:street" v="Lower Mountain View Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="74949"/>
+  </node>
+  <node id="-4956" visible="true" lat="44.50647354" lon="-73.17921447">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Lower Mountain View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74957"/>
   </node>
   <node id="-5022" visible="true" lat="44.50447504" lon="-73.18120844">
     <tag k="addr:city" v="Colchester"/>
@@ -266,12 +529,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="75445"/>
   </node>
-  <node id="-5369" visible="true" lat="44.4979162" lon="-73.15819306">
+  <node id="-5368" visible="true" lat="44.49804822" lon="-73.15773767">
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="807"/>
+    <tag k="addr:housenumber" v="831"/>
     <tag k="addr:street" v="College Parkway"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="75455"/>
+    <tag k="ref:vcgi:esiteid" v="75454"/>
   </node>
   <node id="-5412" visible="true" lat="44.49274463" lon="-73.16960994">
     <tag k="addr:city" v="Colchester"/>
@@ -287,12 +550,65 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="75542"/>
   </node>
+  <node id="-5454" visible="true" lat="44.59920301" lon="-73.17646146">
+    <!-- match: "95 Chimney Hill Drive, Colchester, VT"  ignoring missing state when matching to "95 Chimney Hill Drive, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Chimney Hill Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="75579"/>
+  </node>
+  <node id="-5560" visible="true" lat="44.50848066" lon="-73.17904028">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="416"/>
+    <tag k="addr:street" v="Roosevelt Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="75697"/>
+  </node>
+  <node id="-5594" visible="true" lat="44.60398728" lon="-73.18941076">
+    <!-- match: "491 Watkins Road, Colchester, VT"  ignoring missing state when matching to "491 Watkins Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="491"/>
+    <tag k="addr:street" v="Watkins Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="75731"/>
+  </node>
+  <node id="-5611" visible="true" lat="44.60348331" lon="-73.18976189">
+    <!-- match: "625 North Harbor Road, Colchester, VT"  ignoring missing state when matching to "625 North Harbor Road, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="625"/>
+    <tag k="addr:street" v="North Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="75749"/>
+  </node>
   <node id="-5629" visible="true" lat="44.50998584" lon="-73.18428091">
     <tag k="addr:city" v="Colchester"/>
     <tag k="addr:housenumber" v="356"/>
     <tag k="addr:street" v="Mountain View Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="75767"/>
+  </node>
+  <node id="-5635" visible="true" lat="44.59477604" lon="-73.16433108">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:street" v="U.S. Route 7"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="75773"/>
+  </node>
+  <node id="-5989" visible="true" lat="44.59676264" lon="-73.17402768">
+    <!-- match: "281 Chimney Hill Drive, Colchester, VT"  ignoring missing state when matching to "281 Chimney Hill Drive, Colchester, " -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:street" v="Chimney Hill Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76141"/>
+  </node>
+  <node id="-6053" visible="true" lat="44.50403941" lon="-73.18106482">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="South Park Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76211"/>
   </node>
   <node id="-6054" visible="true" lat="44.50257391" lon="-73.18025718">
     <tag k="addr:city" v="Colchester"/>
@@ -308,12 +624,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316540"/>
   </node>
+  <node id="-6140" visible="true" lat="44.52984686" lon="-73.17470032">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Severance Green"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="327668"/>
+  </node>
   <node id="-6186" visible="true" lat="44.49645105" lon="-73.15903">
     <tag k="addr:city" v="Colchester"/>
     <tag k="addr:housenumber" v="786"/>
     <tag k="addr:street" v="College Parkway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="333308"/>
+  </node>
+  <node id="-6245" visible="true" lat="44.5134851" lon="-73.1809667">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Rathe Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339248"/>
   </node>
   <node id="-6324" visible="true" lat="44.53818808" lon="-73.25168368">
     <tag k="addr:city" v="Colchester"/>
@@ -328,5 +658,26 @@
     <tag k="addr:street" v="Roosevelt Highway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612788"/>
+  </node>
+  <node id="-6902" visible="true" lat="44.52492864" lon="-73.16602815">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Dylan Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761672"/>
+  </node>
+  <node id="-6903" visible="true" lat="44.52513675" lon="-73.16708895">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Shea Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761674"/>
+  </node>
+  <node id="-6912" visible="true" lat="44.52564385" lon="-73.16832293">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Stuart Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761683"/>
   </node>
 </osm>

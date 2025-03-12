@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-109" visible="true" lat="43.75295277" lon="-72.51881851">
     <tag k="addr:housenumber" v="66"/>
     <tag k="addr:street" v="Leonard Road"/>
@@ -192,12 +192,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190347"/>
   </node>
-  <node id="-243" visible="true" lat="43.72281647" lon="-72.49823318">
-    <tag k="addr:housenumber" v="6810"/>
-    <tag k="addr:street" v="Pomfret Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190351"/>
-  </node>
   <node id="-257" visible="true" lat="43.7218666" lon="-72.4705429">
     <tag k="addr:housenumber" v="75"/>
     <tag k="addr:street" v="Maple View Road"/>
@@ -215,12 +209,6 @@
     <tag k="addr:street" v="Hidden Ridge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190378"/>
-  </node>
-  <node id="-271" visible="true" lat="43.72084251" lon="-72.4762684">
-    <tag k="addr:housenumber" v="8128"/>
-    <tag k="addr:street" v="Pomfret Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190380"/>
   </node>
   <node id="-277" visible="true" lat="43.72052955" lon="-72.5320312">
     <tag k="addr:housenumber" v="166"/>
@@ -258,29 +246,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190446"/>
   </node>
-  <node id="-358" visible="true" lat="43.70476187" lon="-72.44958759">
-    <tag k="addr:housenumber" v="897"/>
-    <tag k="addr:street" v="Clay Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190469"/>
-  </node>
-  <node id="-365" visible="true" lat="43.70364547" lon="-72.44771519">
-    <tag k="addr:housenumber" v="898"/>
-    <tag k="addr:street" v="Clay Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190476"/>
-  </node>
   <node id="-367" visible="true" lat="43.70319862" lon="-72.44680807">
     <tag k="addr:housenumber" v="895"/>
     <tag k="addr:street" v="Clay Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190478"/>
-  </node>
-  <node id="-371" visible="true" lat="43.70323884" lon="-72.45123216">
-    <tag k="addr:housenumber" v="899"/>
-    <tag k="addr:street" v="Clay Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190482"/>
   </node>
   <node id="-373" visible="true" lat="43.70262697" lon="-72.54115137">
     <tag k="addr:housenumber" v="1808"/>
@@ -294,29 +264,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190494"/>
   </node>
-  <node id="-383" visible="true" lat="43.69940178" lon="-72.5405679">
-    <tag k="addr:housenumber" v="1631"/>
-    <tag k="addr:street" v="Bartlett Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190495"/>
-  </node>
-  <node id="-386" visible="true" lat="43.69857666" lon="-72.54032741">
-    <tag k="addr:housenumber" v="1541"/>
-    <tag k="addr:street" v="Bartlett Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190498"/>
-  </node>
   <node id="-389" visible="true" lat="43.69760131" lon="-72.54547882">
     <tag k="addr:housenumber" v="2263"/>
     <tag k="addr:street" v="Bartlett Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190501"/>
-  </node>
-  <node id="-390" visible="true" lat="43.69737502" lon="-72.53722667">
-    <tag k="addr:housenumber" v="1466"/>
-    <tag k="addr:street" v="Bartlett Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190502"/>
   </node>
   <node id="-391" visible="true" lat="43.697231" lon="-72.54757809">
     <tag k="addr:housenumber" v="2346"/>
@@ -330,29 +282,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190505"/>
   </node>
-  <node id="-394" visible="true" lat="43.69652944" lon="-72.54844966">
-    <tag k="addr:housenumber" v="2438"/>
-    <tag k="addr:street" v="Bartlett Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190506"/>
-  </node>
-  <node id="-396" visible="true" lat="43.69612724" lon="-72.54201912">
-    <tag k="addr:housenumber" v="1449"/>
-    <tag k="addr:street" v="Bartlett Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190508"/>
-  </node>
   <node id="-403" visible="true" lat="43.69286239" lon="-72.51925983">
     <tag k="addr:housenumber" v="4314"/>
     <tag k="addr:street" v="Pomfret Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190516"/>
-  </node>
-  <node id="-404" visible="true" lat="43.69286615" lon="-72.53553674">
-    <tag k="addr:housenumber" v="1082"/>
-    <tag k="addr:street" v="Bartlett Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190517"/>
   </node>
   <node id="-409" visible="true" lat="43.69115829" lon="-72.54836273">
     <tag k="addr:housenumber" v="2773"/>
@@ -444,41 +378,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190637"/>
   </node>
-  <node id="-540" visible="true" lat="43.66238876" lon="-72.52137476">
-    <tag k="addr:housenumber" v="659"/>
-    <tag k="addr:street" v="Barber Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190655"/>
-  </node>
-  <node id="-548" visible="true" lat="43.6606825" lon="-72.52424963">
-    <tag k="addr:housenumber" v="391"/>
-    <tag k="addr:street" v="Barber Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190663"/>
-  </node>
-  <node id="-550" visible="true" lat="43.66062905" lon="-72.5254687">
-    <tag k="addr:housenumber" v="389"/>
-    <tag k="addr:street" v="Barber Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190665"/>
-  </node>
-  <node id="-556" visible="true" lat="43.65932636" lon="-72.52467284">
-    <tag k="addr:housenumber" v="392"/>
-    <tag k="addr:street" v="Barber Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190671"/>
-  </node>
   <node id="-563" visible="true" lat="43.65814903" lon="-72.53518579">
     <tag k="addr:housenumber" v="281"/>
     <tag k="addr:street" v="Log Cabin Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190678"/>
-  </node>
-  <node id="-576" visible="true" lat="43.65474685" lon="-72.52561991">
-    <tag k="addr:housenumber" v="117"/>
-    <tag k="addr:street" v="School View Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190693"/>
   </node>
   <node id="-604" visible="true" lat="43.69387384" lon="-72.53283888">
     <tag k="addr:housenumber" v="700"/>
@@ -527,12 +431,6 @@
     <tag k="addr:street" v="Graves Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306321"/>
-  </node>
-  <node id="-637" visible="true" lat="43.65558514" lon="-72.52340583">
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="School View Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="312281"/>
   </node>
   <node id="-643" visible="true" lat="43.66281913" lon="-72.55893016">
     <tag k="addr:housenumber" v="847"/>
@@ -624,23 +522,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617252"/>
   </node>
-  <node id="-693" visible="true" lat="43.72407375" lon="-72.47523779">
-    <tag k="addr:housenumber" v="8126"/>
-    <tag k="addr:street" v="Pomfret Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617253"/>
-  </node>
   <node id="-694" visible="true" lat="43.72556015" lon="-72.49809075">
     <tag k="addr:housenumber" v="189"/>
     <tag k="addr:street" v="Howe Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617254"/>
-  </node>
-  <node id="-697" visible="true" lat="43.66051092" lon="-72.52688073">
-    <tag k="addr:housenumber" v="387"/>
-    <tag k="addr:street" v="Barber Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="618127"/>
   </node>
   <node id="-698" visible="true" lat="43.6559052" lon="-72.52566443">
     <tag k="addr:housenumber" v="1172"/>

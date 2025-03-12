@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-502" visible="true" lat="43.94348522" lon="-72.654358">
     <!-- multiple: "84 Scenic Drive, Randolph, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Randolph"/>
@@ -24,6 +24,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197021"/>
   </node>
+  <node id="-1173" visible="true" lat="43.92328259" lon="-72.66486079">
+    <!-- multiple: "29 North Main Street, Randolph, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="197169"/>
+  </node>
   <node id="-1174" visible="true" lat="43.92328007" lon="-72.66560605">
     <!-- multiple: "12 North Main Street, Randolph, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Randolph"/>
@@ -31,6 +39,22 @@
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197170"/>
+  </node>
+  <node id="-1178" visible="true" lat="43.92318725" lon="-72.66647338">
+    <!-- multiple: "9 Salisbury Street, Randolph, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Salisbury Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="197174"/>
+  </node>
+  <node id="-1181" visible="true" lat="43.92312622" lon="-72.6669693">
+    <!-- multiple: "2 Summer Street, Randolph, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Summer Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="197177"/>
   </node>
   <node id="-1212" visible="true" lat="43.92268056" lon="-72.66571823">
     <!-- multiple: "4 Salisbury Street, Randolph, VT" Multiple exact matches in OSM. -->

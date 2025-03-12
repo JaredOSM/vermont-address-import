@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-203" visible="true" lat="44.14314206" lon="-72.31161579">
     <tag k="addr:housenumber" v="39"/>
     <tag k="addr:street" v="U.S. Route 302"/>
@@ -336,6 +336,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260502"/>
   </node>
+  <node id="-344" visible="true" lat="44.12077713" lon="-72.30649566">
+    <tag k="addr:housenumber" v="522"/>
+    <tag k="addr:street" v="Vermont Route 25"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260503"/>
+  </node>
   <node id="-345" visible="true" lat="44.12057447" lon="-72.2329559">
     <tag k="addr:housenumber" v="369"/>
     <tag k="addr:street" v="Topsham Corinth Road"/>
@@ -378,6 +384,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260511"/>
   </node>
+  <node id="-353" visible="true" lat="44.1199618" lon="-72.30753477">
+    <tag k="addr:housenumber" v="513"/>
+    <tag k="addr:street" v="Vermont Route 25"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260512"/>
+  </node>
   <node id="-354" visible="true" lat="44.11966657" lon="-72.23254391">
     <tag k="addr:housenumber" v="366"/>
     <tag k="addr:street" v="Topsham Corinth Road"/>
@@ -396,17 +408,35 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260515"/>
   </node>
+  <node id="-357" visible="true" lat="44.11942768" lon="-72.30770619">
+    <tag k="addr:housenumber" v="511"/>
+    <tag k="addr:street" v="Vermont Route 25"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260516"/>
+  </node>
   <node id="-358" visible="true" lat="44.11893537" lon="-72.2332249">
     <tag k="addr:housenumber" v="363"/>
     <tag k="addr:street" v="Topsham Corinth Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260517"/>
   </node>
+  <node id="-359" visible="true" lat="44.11877822" lon="-72.30776214">
+    <tag k="addr:housenumber" v="507"/>
+    <tag k="addr:street" v="Vermont Route 25"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260518"/>
+  </node>
   <node id="-360" visible="true" lat="44.11856801" lon="-72.3095638">
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="Halls Hill"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260519"/>
+  </node>
+  <node id="-361" visible="true" lat="44.11835098" lon="-72.30801391">
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:street" v="Vermont Route 25"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260520"/>
   </node>
   <node id="-364" visible="true" lat="44.11813377" lon="-72.307298">
     <tag k="addr:housenumber" v="13"/>

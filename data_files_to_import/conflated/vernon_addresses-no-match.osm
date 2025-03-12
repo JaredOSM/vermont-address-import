@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="42.73512139" lon="-72.53327477">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="100"/>
@@ -42,41 +42,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265533"/>
   </node>
-  <node id="-108" visible="true" lat="42.81721529" lon="-72.54740675">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="283"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265534"/>
-  </node>
-  <node id="-109" visible="true" lat="42.81741551" lon="-72.54704972">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="283"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265535"/>
-  </node>
-  <node id="-110" visible="true" lat="42.81710116" lon="-72.54691748">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="283"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265536"/>
-  </node>
-  <node id="-111" visible="true" lat="42.81726365" lon="-72.54816819">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="268"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265537"/>
-  </node>
-  <node id="-112" visible="true" lat="42.81751322" lon="-72.54828226">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="258"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265538"/>
-  </node>
   <node id="-113" visible="true" lat="42.82013417" lon="-72.55046632">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="70"/>
@@ -98,20 +63,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265542"/>
   </node>
-  <node id="-117" visible="true" lat="42.81879422" lon="-72.55056566">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="Ox Cart Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265543"/>
-  </node>
-  <node id="-118" visible="true" lat="42.81825021" lon="-72.54924828">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Ox Cart Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265544"/>
-  </node>
   <node id="-120" visible="true" lat="42.81831664" lon="-72.5524185">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="124"/>
@@ -126,27 +77,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265547"/>
   </node>
-  <node id="-123" visible="true" lat="42.81860616" lon="-72.54923646">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Ox Cart Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265549"/>
-  </node>
-  <node id="-124" visible="true" lat="42.81859483" lon="-72.54898798">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Ox Cart Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265550"/>
-  </node>
-  <node id="-125" visible="true" lat="42.81819331" lon="-72.54865033">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="230"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265551"/>
-  </node>
   <node id="-126" visible="true" lat="42.81945425" lon="-72.5539409">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="44"/>
@@ -160,20 +90,6 @@
     <tag k="addr:street" v="Broad Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265553"/>
-  </node>
-  <node id="-129" visible="true" lat="42.80963305" lon="-72.54376954">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="571"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265555"/>
-  </node>
-  <node id="-130" visible="true" lat="42.80943875" lon="-72.54360636">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="575"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265556"/>
   </node>
   <node id="-131" visible="true" lat="42.80315423" lon="-72.56166463">
     <tag k="addr:city" v="Vernon"/>
@@ -224,62 +140,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265568"/>
   </node>
-  <node id="-141" visible="true" lat="42.7984593" lon="-72.53637794">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1033"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265569"/>
-  </node>
-  <node id="-142" visible="true" lat="42.79956539" lon="-72.54692408">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="98"/>
-    <tag k="addr:street" v="Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265570"/>
-  </node>
-  <node id="-143" visible="true" lat="42.80076899" lon="-72.54847819">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:street" v="Sunset Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265571"/>
-  </node>
-  <node id="-144" visible="true" lat="42.80006559" lon="-72.54915687">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="Sunset Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265572"/>
-  </node>
-  <node id="-145" visible="true" lat="42.79841945" lon="-72.54967123">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Sunset Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265573"/>
-  </node>
-  <node id="-147" visible="true" lat="42.79875957" lon="-72.55221052">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Laurel Ledges"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265575"/>
-  </node>
-  <node id="-149" visible="true" lat="42.80067989" lon="-72.55220333">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="Laurel Ledges"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265577"/>
-  </node>
-  <node id="-150" visible="true" lat="42.8018524" lon="-72.55242582">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="152"/>
-    <tag k="addr:street" v="Laurel Ledges"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265578"/>
-  </node>
   <node id="-152" visible="true" lat="42.79993122" lon="-72.55348044">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="69"/>
@@ -293,13 +153,6 @@
     <tag k="addr:street" v="Laurel Ledges"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265581"/>
-  </node>
-  <node id="-154" visible="true" lat="42.79852413" lon="-72.55329111">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Laurel Ledges"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265582"/>
   </node>
   <node id="-156" visible="true" lat="42.8009917" lon="-72.55449517">
     <tag k="addr:city" v="Vernon"/>
@@ -329,13 +182,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265588"/>
   </node>
-  <node id="-161" visible="true" lat="42.79871781" lon="-72.55472734">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="457"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265589"/>
-  </node>
   <node id="-162" visible="true" lat="42.80245261" lon="-72.56156545">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="749"/>
@@ -350,131 +196,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265593"/>
   </node>
-  <node id="-168" visible="true" lat="42.79723418" lon="-72.55319492">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="383"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265598"/>
-  </node>
-  <node id="-169" visible="true" lat="42.79687361" lon="-72.55312022">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="365"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265599"/>
-  </node>
-  <node id="-170" visible="true" lat="42.79612467" lon="-72.55316173">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265600"/>
-  </node>
-  <node id="-172" visible="true" lat="42.79563306" lon="-72.55316907">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="333"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265602"/>
-  </node>
-  <node id="-173" visible="true" lat="42.79513005" lon="-72.55309878">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="303"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265603"/>
-  </node>
-  <node id="-175" visible="true" lat="42.79515604" lon="-72.55252959">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="296"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265605"/>
-  </node>
-  <node id="-176" visible="true" lat="42.79606205" lon="-72.55261056">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="338"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265606"/>
-  </node>
-  <node id="-177" visible="true" lat="42.7962565" lon="-72.55238563">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="340"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265607"/>
-  </node>
-  <node id="-178" visible="true" lat="42.79657081" lon="-72.55170724">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="360"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265608"/>
-  </node>
-  <node id="-179" visible="true" lat="42.79723109" lon="-72.5524431">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="368"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265609"/>
-  </node>
-  <node id="-180" visible="true" lat="42.79859545" lon="-72.55097149">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="66"/>
-    <tag k="addr:street" v="Cushing Lot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265610"/>
-  </node>
-  <node id="-181" visible="true" lat="42.79769235" lon="-72.54896363">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Cushing Lot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265611"/>
-  </node>
-  <node id="-182" visible="true" lat="42.79755221" lon="-72.55559246">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="445"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265612"/>
-  </node>
-  <node id="-183" visible="true" lat="42.79753274" lon="-72.54791559">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265613"/>
-  </node>
-  <node id="-184" visible="true" lat="42.79797908" lon="-72.5469617">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="195"/>
-    <tag k="addr:street" v="Cushing Lot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265614"/>
-  </node>
   <node id="-185" visible="true" lat="42.79638483" lon="-72.5454391">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="196"/>
     <tag k="addr:street" v="Cushing Lot Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265615"/>
-  </node>
-  <node id="-186" visible="true" lat="42.79807991" lon="-72.53699094">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1040"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265616"/>
-  </node>
-  <node id="-187" visible="true" lat="42.7972169" lon="-72.53648588">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1076"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265617"/>
   </node>
   <node id="-188" visible="true" lat="42.79544893" lon="-72.5355715">
     <tag k="addr:city" v="Vernon"/>
@@ -483,159 +210,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265618"/>
   </node>
-  <node id="-195" visible="true" lat="42.79281126" lon="-72.54752052">
+  <node id="-282" visible="true" lat="42.77850055" lon="-72.52141181">
     <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="155"/>
-    <tag k="addr:street" v="Skyline Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265625"/>
-  </node>
-  <node id="-196" visible="true" lat="42.79385845" lon="-72.55157949">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Skyline Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265626"/>
-  </node>
-  <node id="-197" visible="true" lat="42.79308367" lon="-72.55206138">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="216"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265627"/>
-  </node>
-  <node id="-198" visible="true" lat="42.79246519" lon="-72.55194668">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="208"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265628"/>
-  </node>
-  <node id="-199" visible="true" lat="42.79215091" lon="-72.55168252">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="196"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265629"/>
-  </node>
-  <node id="-200" visible="true" lat="42.79195087" lon="-72.55160473">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="184"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265630"/>
-  </node>
-  <node id="-201" visible="true" lat="42.79156563" lon="-72.55163501">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="172"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265631"/>
-  </node>
-  <node id="-202" visible="true" lat="42.79085447" lon="-72.55165591">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265632"/>
-  </node>
-  <node id="-203" visible="true" lat="42.79039375" lon="-72.55019173">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="Stoney Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265633"/>
-  </node>
-  <node id="-205" visible="true" lat="42.78883498" lon="-72.5618699">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1024"/>
-    <tag k="addr:street" v="Tyler Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265635"/>
-  </node>
-  <node id="-207" visible="true" lat="42.78893489" lon="-72.55848608">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="952"/>
-    <tag k="addr:street" v="Tyler Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265637"/>
-  </node>
-  <node id="-208" visible="true" lat="42.78772004" lon="-72.55659649">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="870"/>
-    <tag k="addr:street" v="Tyler Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265638"/>
-  </node>
-  <node id="-209" visible="true" lat="42.78701559" lon="-72.55946087">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="931"/>
-    <tag k="addr:street" v="Tyler Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265639"/>
-  </node>
-  <node id="-210" visible="true" lat="42.78659285" lon="-72.55384872">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="793"/>
-    <tag k="addr:street" v="Tyler Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265640"/>
-  </node>
-  <node id="-215" visible="true" lat="42.78827767" lon="-72.55090869">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265645"/>
-  </node>
-  <node id="-218" visible="true" lat="42.78673623" lon="-72.55165705">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="729"/>
-    <tag k="addr:street" v="Tyler Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265648"/>
-  </node>
-  <node id="-225" visible="true" lat="42.78884347" lon="-72.53305565">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1388"/>
+    <tag k="addr:housenumber" v="1879"/>
     <tag k="addr:street" v="Fort Bridgman Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265655"/>
-  </node>
-  <node id="-227" visible="true" lat="42.78928777" lon="-72.53189687">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1367"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265657"/>
-  </node>
-  <node id="-245" visible="true" lat="42.784178" lon="-72.53126191">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="104"/>
-    <tag k="addr:street" v="Tyler Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265675"/>
-  </node>
-  <node id="-270" visible="true" lat="42.78473616" lon="-72.55138954">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Lillis Pasture Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265700"/>
-  </node>
-  <node id="-271" visible="true" lat="42.78571577" lon="-72.55604817">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="863"/>
-    <tag k="addr:street" v="Tyler Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265701"/>
-  </node>
-  <node id="-292" visible="true" lat="42.77757608" lon="-72.51768773">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="422"/>
-    <tag k="addr:street" v="Governor Hunt Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265722"/>
+    <tag k="ref:vcgi:esiteid" v="265712"/>
   </node>
   <node id="-302" visible="true" lat="42.77846045" lon="-72.51606614">
     <tag k="addr:city" v="Vernon"/>
@@ -658,110 +238,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265762"/>
   </node>
-  <node id="-333" visible="true" lat="42.77491941" lon="-72.52064022">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="2001"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265776"/>
-  </node>
-  <node id="-335" visible="true" lat="42.77439634" lon="-72.52075514">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="2031"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265778"/>
-  </node>
-  <node id="-336" visible="true" lat="42.77347295" lon="-72.52041756">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="2069"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265779"/>
-  </node>
-  <node id="-337" visible="true" lat="42.77530501" lon="-72.52201379">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1986"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265780"/>
-  </node>
-  <node id="-339" visible="true" lat="42.77079146" lon="-72.52209586">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:street" v="Rinfret Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265782"/>
-  </node>
-  <node id="-342" visible="true" lat="42.77139236" lon="-72.52086018">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Rinfret Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265785"/>
-  </node>
-  <node id="-343" visible="true" lat="42.7719611" lon="-72.52108927">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Bemis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265786"/>
-  </node>
-  <node id="-344" visible="true" lat="42.77170945" lon="-72.52174871">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="Bemis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265787"/>
-  </node>
-  <node id="-345" visible="true" lat="42.77199532" lon="-72.52219766">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Bemis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265788"/>
-  </node>
-  <node id="-348" visible="true" lat="42.77295835" lon="-72.5224533">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Bemis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265791"/>
-  </node>
-  <node id="-349" visible="true" lat="42.77246797" lon="-72.52197348">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="Bemis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265792"/>
-  </node>
-  <node id="-350" visible="true" lat="42.77315855" lon="-72.52045626">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="2073"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265793"/>
-  </node>
-  <node id="-351" visible="true" lat="42.77147844" lon="-72.51976112">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="2145"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265794"/>
-  </node>
   <node id="-353" visible="true" lat="42.77187745" lon="-72.51603272">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="201"/>
     <tag k="addr:street" v="Governor Hunt Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265797"/>
-  </node>
-  <node id="-357" visible="true" lat="42.76931766" lon="-72.51884995">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="2209"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265801"/>
   </node>
   <node id="-372" visible="true" lat="42.76996266" lon="-72.52394387">
     <tag k="addr:city" v="Vernon"/>
@@ -791,34 +273,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265840"/>
   </node>
-  <node id="-418" visible="true" lat="42.76226131" lon="-72.51655637">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="West Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265862"/>
-  </node>
-  <node id="-433" visible="true" lat="42.76227338" lon="-72.50917753">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Greenway Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265877"/>
-  </node>
-  <node id="-435" visible="true" lat="42.76306805" lon="-72.50798291">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Greenway Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265879"/>
-  </node>
-  <node id="-436" visible="true" lat="42.76301381" lon="-72.50693945">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Greenway Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265880"/>
-  </node>
   <node id="-437" visible="true" lat="42.76352203" lon="-72.5063976">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="63"/>
@@ -840,68 +294,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265883"/>
   </node>
-  <node id="-440" visible="true" lat="42.76223179" lon="-72.50628716">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="2745"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265884"/>
-  </node>
-  <node id="-441" visible="true" lat="42.76224896" lon="-72.50597685">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="2745"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265885"/>
-  </node>
-  <node id="-442" visible="true" lat="42.76219075" lon="-72.50506969">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="2777"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265886"/>
-  </node>
   <node id="-443" visible="true" lat="42.76228226" lon="-72.503778">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="2813"/>
     <tag k="addr:street" v="Fort Bridgman Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265887"/>
-  </node>
-  <node id="-444" visible="true" lat="42.76296248" lon="-72.50466634">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="300"/>
-    <tag k="addr:street" v="Falveys Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265888"/>
-  </node>
-  <node id="-445" visible="true" lat="42.76347694" lon="-72.50515901">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="176"/>
-    <tag k="addr:street" v="Falveys Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265889"/>
-  </node>
-  <node id="-446" visible="true" lat="42.7635713" lon="-72.50413495">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="179"/>
-    <tag k="addr:street" v="Falveys Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265890"/>
-  </node>
-  <node id="-447" visible="true" lat="42.76392855" lon="-72.5046858">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265891"/>
-  </node>
-  <node id="-448" visible="true" lat="42.76427155" lon="-72.50421258">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="102"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265892"/>
   </node>
   <node id="-449" visible="true" lat="42.76728894" lon="-72.50019125">
     <tag k="addr:city" v="Vernon"/>
@@ -910,54 +308,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265893"/>
   </node>
-  <node id="-450" visible="true" lat="42.76782722" lon="-72.49885742">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="301"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265894"/>
-  </node>
-  <node id="-452" visible="true" lat="42.76701498" lon="-72.49673547">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="353"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265896"/>
-  </node>
-  <node id="-453" visible="true" lat="42.76728938" lon="-72.49721649">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="345"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265897"/>
-  </node>
-  <node id="-454" visible="true" lat="42.76586881" lon="-72.49589763">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="410"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265898"/>
-  </node>
   <node id="-459" visible="true" lat="42.76712316" lon="-72.49966367">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="260"/>
     <tag k="addr:street" v="Stebbins Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265903"/>
-  </node>
-  <node id="-461" visible="true" lat="42.76740612" lon="-72.49887876">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="296"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265905"/>
-  </node>
-  <node id="-462" visible="true" lat="42.76623131" lon="-72.49537972">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="403"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265906"/>
   </node>
   <node id="-463" visible="true" lat="42.761905" lon="-72.50323492">
     <tag k="addr:city" v="Vernon"/>
@@ -986,167 +342,6 @@
     <tag k="addr:street" v="Fletcher Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265911"/>
-  </node>
-  <node id="-467" visible="true" lat="42.76182164" lon="-72.49695555">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="2993"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265913"/>
-  </node>
-  <node id="-468" visible="true" lat="42.76386425" lon="-72.49545425">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="474"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265914"/>
-  </node>
-  <node id="-469" visible="true" lat="42.76446111" lon="-72.49494152">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="473"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265915"/>
-  </node>
-  <node id="-470" visible="true" lat="42.76416332" lon="-72.49365497">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="481"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265916"/>
-  </node>
-  <node id="-475" visible="true" lat="42.76021185" lon="-72.48386905">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="175"/>
-    <tag k="addr:street" v="Blodgett Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265921"/>
-  </node>
-  <node id="-476" visible="true" lat="42.75906433" lon="-72.48417836">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="123"/>
-    <tag k="addr:street" v="Blodgett Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265922"/>
-  </node>
-  <node id="-478" visible="true" lat="42.75867577" lon="-72.48536535">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Blodgett Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265924"/>
-  </node>
-  <node id="-479" visible="true" lat="42.75863818" lon="-72.4857332">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="93"/>
-    <tag k="addr:street" v="Blodgett Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265925"/>
-  </node>
-  <node id="-481" visible="true" lat="42.75857839" lon="-72.48384491">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="124"/>
-    <tag k="addr:street" v="Blodgett Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265927"/>
-  </node>
-  <node id="-484" visible="true" lat="42.75857896" lon="-72.48981895">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3215"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265930"/>
-  </node>
-  <node id="-487" visible="true" lat="42.76133002" lon="-72.49677714">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3007"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265933"/>
-  </node>
-  <node id="-488" visible="true" lat="42.76134716" lon="-72.49637374">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3015"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265934"/>
-  </node>
-  <node id="-489" visible="true" lat="42.76158723" lon="-72.49590049">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3041"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265935"/>
-  </node>
-  <node id="-490" visible="true" lat="42.76156435" lon="-72.49544278">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3043"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265936"/>
-  </node>
-  <node id="-492" visible="true" lat="42.76104172" lon="-72.4942048">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3077"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265938"/>
-  </node>
-  <node id="-493" visible="true" lat="42.76093318" lon="-72.4960072">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3034"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265939"/>
-  </node>
-  <node id="-495" visible="true" lat="42.76073307" lon="-72.49499612">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3062"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265942"/>
-  </node>
-  <node id="-497" visible="true" lat="42.76051583" lon="-72.49470135">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3062"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265944"/>
-  </node>
-  <node id="-499" visible="true" lat="42.76046436" lon="-72.49417383">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3080"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265946"/>
-  </node>
-  <node id="-501" visible="true" lat="42.76029856" lon="-72.4936127">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3098"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265948"/>
-  </node>
-  <node id="-502" visible="true" lat="42.75974668" lon="-72.49288112">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Mary Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265949"/>
-  </node>
-  <node id="-505" visible="true" lat="42.75917768" lon="-72.49174659">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3172"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265952"/>
-  </node>
-  <node id="-507" visible="true" lat="42.75897185" lon="-72.4912579">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3186"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265954"/>
   </node>
   <node id="-509" visible="true" lat="42.76148773" lon="-72.49839788">
     <tag k="addr:city" v="Vernon"/>
@@ -1253,20 +448,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265977"/>
   </node>
-  <node id="-531" visible="true" lat="42.75968636" lon="-72.50496128">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="T Bird Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265978"/>
-  </node>
-  <node id="-532" visible="true" lat="42.76097821" lon="-72.50520505">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="T Bird Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265979"/>
-  </node>
   <node id="-533" visible="true" lat="42.75832623" lon="-72.50888022">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="293"/>
@@ -1281,68 +462,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265989"/>
   </node>
-  <node id="-574" visible="true" lat="42.7602014" lon="-72.53420353">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="524"/>
-    <tag k="addr:street" v="West Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266022"/>
-  </node>
-  <node id="-575" visible="true" lat="42.76009841" lon="-72.53531273">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="562"/>
-    <tag k="addr:street" v="West Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266023"/>
-  </node>
-  <node id="-578" visible="true" lat="42.75909994" lon="-72.53579685">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="592"/>
-    <tag k="addr:street" v="West Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266026"/>
-  </node>
-  <node id="-580" visible="true" lat="42.7588256" lon="-72.53561827">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="601"/>
-    <tag k="addr:street" v="West Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266028"/>
-  </node>
-  <node id="-582" visible="true" lat="42.75894231" lon="-72.53531682">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="593"/>
-    <tag k="addr:street" v="West Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266030"/>
-  </node>
-  <node id="-583" visible="true" lat="42.75906585" lon="-72.5351064">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="575"/>
-    <tag k="addr:street" v="West Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266031"/>
-  </node>
   <node id="-592" visible="true" lat="42.75694215" lon="-72.54193062">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="834"/>
     <tag k="addr:street" v="West Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266040"/>
-  </node>
-  <node id="-593" visible="true" lat="42.75662437" lon="-72.53665092">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="697"/>
-    <tag k="addr:street" v="West Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266041"/>
-  </node>
-  <node id="-594" visible="true" lat="42.75804297" lon="-72.5364039">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="633"/>
-    <tag k="addr:street" v="West Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266042"/>
   </node>
   <node id="-595" visible="true" lat="42.75564379" lon="-72.52026148">
     <tag k="addr:city" v="Vernon"/>
@@ -1420,13 +545,6 @@
     <tag k="addr:street" v="Central Park Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266066"/>
-  </node>
-  <node id="-623" visible="true" lat="42.75747278" lon="-72.48802382">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="3285"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266071"/>
   </node>
   <node id="-626" visible="true" lat="42.75585302" lon="-72.48585419">
     <tag k="addr:city" v="Vernon"/>
@@ -1630,13 +748,6 @@
     <tag k="addr:street" v="Old Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266134"/>
-  </node>
-  <node id="-689" visible="true" lat="42.75442969" lon="-72.53785714">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Ad Brooks Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266138"/>
   </node>
   <node id="-692" visible="true" lat="42.7490223" lon="-72.5198612">
     <tag k="addr:city" v="Vernon"/>
@@ -2667,34 +1778,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266388"/>
   </node>
-  <node id="-940" visible="true" lat="42.73600873" lon="-72.5391067">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Honey Brim Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266389"/>
-  </node>
-  <node id="-942" visible="true" lat="42.73672911" lon="-72.52804854">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="684"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266391"/>
-  </node>
-  <node id="-943" visible="true" lat="42.735799" lon="-72.52496823">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="601"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266392"/>
-  </node>
-  <node id="-944" visible="true" lat="42.73615249" lon="-72.52485852">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="593"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266393"/>
-  </node>
   <node id="-945" visible="true" lat="42.73808501" lon="-72.52443308">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="538"/>
@@ -2828,90 +1911,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266417"/>
   </node>
-  <node id="-969" visible="true" lat="42.73609841" lon="-72.48609056">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Sartwell Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266418"/>
-  </node>
-  <node id="-970" visible="true" lat="42.73758088" lon="-72.48622723">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Sartwell Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266419"/>
-  </node>
-  <node id="-971" visible="true" lat="42.73758653" lon="-72.48570765">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:street" v="Sartwell Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266420"/>
-  </node>
-  <node id="-972" visible="true" lat="42.7372578" lon="-72.48536264">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Sartwell Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266421"/>
-  </node>
-  <node id="-973" visible="true" lat="42.73676525" lon="-72.48545969">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:street" v="Sartwell Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266422"/>
-  </node>
-  <node id="-974" visible="true" lat="42.73615548" lon="-72.48536936">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Sartwell Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266423"/>
-  </node>
-  <node id="-975" visible="true" lat="42.73613445" lon="-72.48479293">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1605"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266424"/>
-  </node>
-  <node id="-980" visible="true" lat="42.73644099" lon="-72.48308165">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1653"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266429"/>
-  </node>
-  <node id="-983" visible="true" lat="42.73666188" lon="-72.48215618">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1683"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266432"/>
-  </node>
-  <node id="-984" visible="true" lat="42.73784602" lon="-72.47447694">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1899"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266433"/>
-  </node>
-  <node id="-985" visible="true" lat="42.73784537" lon="-72.47332249">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1927"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266434"/>
-  </node>
-  <node id="-986" visible="true" lat="42.73694704" lon="-72.47833816">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1794"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266435"/>
-  </node>
   <node id="-987" visible="true" lat="42.73949985" lon="-72.47567468">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="69"/>
@@ -2947,166 +1946,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266441"/>
   </node>
-  <node id="-993" visible="true" lat="42.73715086" lon="-72.46964649">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4201"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266442"/>
-  </node>
-  <node id="-995" visible="true" lat="42.73612289" lon="-72.46975271">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4236"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266444"/>
-  </node>
-  <node id="-997" visible="true" lat="42.73569992" lon="-72.46995454">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4236"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266446"/>
-  </node>
-  <node id="-1001" visible="true" lat="42.73546487" lon="-72.46952634">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4248"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266450"/>
-  </node>
-  <node id="-1002" visible="true" lat="42.73322744" lon="-72.46947496">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4370"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266451"/>
-  </node>
-  <node id="-1003" visible="true" lat="42.73254716" lon="-72.46936674">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4372"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266452"/>
-  </node>
-  <node id="-1007" visible="true" lat="42.73195237" lon="-72.46835124">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4399"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266456"/>
-  </node>
-  <node id="-1010" visible="true" lat="42.73346379" lon="-72.46846307">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4339"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266459"/>
-  </node>
-  <node id="-1012" visible="true" lat="42.7349536" lon="-72.46873718">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4283"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266461"/>
-  </node>
-  <node id="-1015" visible="true" lat="42.73545266" lon="-72.48791562">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1519"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266464"/>
-  </node>
-  <node id="-1016" visible="true" lat="42.73455344" lon="-72.48958301">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1468"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266465"/>
-  </node>
-  <node id="-1017" visible="true" lat="42.73397035" lon="-72.48945128">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Houghton Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266466"/>
-  </node>
   <node id="-1018" visible="true" lat="42.73446762" lon="-72.48887736">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Houghton Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266467"/>
-  </node>
-  <node id="-1019" visible="true" lat="42.73470955" lon="-72.48817942">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Houghton Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266468"/>
-  </node>
-  <node id="-1021" visible="true" lat="42.73243622" lon="-72.48725193">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="99"/>
-    <tag k="addr:street" v="Houghton Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266470"/>
-  </node>
-  <node id="-1022" visible="true" lat="42.73273167" lon="-72.4882289">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Houghton Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266471"/>
-  </node>
-  <node id="-1024" visible="true" lat="42.73227264" lon="-72.49028902">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="Dunklee Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266473"/>
-  </node>
-  <node id="-1026" visible="true" lat="42.73420673" lon="-72.49060924">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Dunklee Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266475"/>
-  </node>
-  <node id="-1027" visible="true" lat="42.73349217" lon="-72.49050854">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Dunklee Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266476"/>
-  </node>
-  <node id="-1028" visible="true" lat="42.73314347" lon="-72.49056546">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Dunklee Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266477"/>
-  </node>
-  <node id="-1030" visible="true" lat="42.73193926" lon="-72.49125835">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="94"/>
-    <tag k="addr:street" v="Dunklee Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266479"/>
-  </node>
-  <node id="-1031" visible="true" lat="42.73289393" lon="-72.49158648">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="Dunklee Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266480"/>
-  </node>
-  <node id="-1032" visible="true" lat="42.73368281" lon="-72.4917001">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Dunklee Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266481"/>
   </node>
   <node id="-1035" visible="true" lat="42.73359144" lon="-72.49316311">
     <tag k="addr:city" v="Vernon"/>
@@ -3122,13 +1967,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266485"/>
   </node>
-  <node id="-1037" visible="true" lat="42.73396306" lon="-72.4940083">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1362"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266487"/>
-  </node>
   <node id="-1040" visible="true" lat="42.73502261" lon="-72.49662148">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="1277"/>
@@ -3142,41 +1980,6 @@
     <tag k="addr:street" v="Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266491"/>
-  </node>
-  <node id="-1044" visible="true" lat="42.73486054" lon="-72.49415296">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1361"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266494"/>
-  </node>
-  <node id="-1045" visible="true" lat="42.73567605" lon="-72.49354802">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Crystal Springs Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266495"/>
-  </node>
-  <node id="-1046" visible="true" lat="42.73458606" lon="-72.4925659">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1393"/>
-    <tag k="addr:street" v="Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266496"/>
-  </node>
-  <node id="-1048" visible="true" lat="42.7356149" lon="-72.49090629">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Country Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266498"/>
-  </node>
-  <node id="-1049" visible="true" lat="42.73515377" lon="-72.49080296">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Country Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266499"/>
   </node>
   <node id="-1050" visible="true" lat="42.73439047" lon="-72.50326063">
     <tag k="addr:city" v="Vernon"/>
@@ -3227,20 +2030,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266507"/>
   </node>
-  <node id="-1058" visible="true" lat="42.73213322" lon="-72.52229512">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Beech Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266508"/>
-  </node>
-  <node id="-1059" visible="true" lat="42.73578603" lon="-72.52268687">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Wheeler Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266509"/>
-  </node>
   <node id="-1060" visible="true" lat="42.73475399" lon="-72.52276984">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="91"/>
@@ -3248,26 +2037,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266510"/>
   </node>
-  <node id="-1061" visible="true" lat="42.73435022" lon="-72.52267338">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="105"/>
-    <tag k="addr:street" v="Wheeler Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266511"/>
-  </node>
   <node id="-1063" visible="true" lat="42.73366435" lon="-72.52285431">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="118"/>
     <tag k="addr:street" v="Wheeler Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266513"/>
-  </node>
-  <node id="-1064" visible="true" lat="42.73302916" lon="-72.5228363">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="179"/>
-    <tag k="addr:street" v="Hemlock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266514"/>
   </node>
   <node id="-1066" visible="true" lat="42.73433483" lon="-72.52410561">
     <tag k="addr:city" v="Vernon"/>
@@ -3283,271 +2058,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266517"/>
   </node>
-  <node id="-1069" visible="true" lat="42.73544187" lon="-72.52429473">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Wheeler Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266519"/>
-  </node>
-  <node id="-1071" visible="true" lat="42.73550062" lon="-72.52573453">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="619"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266521"/>
-  </node>
-  <node id="-1072" visible="true" lat="42.73500573" lon="-72.52756311">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="675"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266522"/>
-  </node>
-  <node id="-1073" visible="true" lat="42.73437657" lon="-72.5289974">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="729"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266523"/>
-  </node>
-  <node id="-1074" visible="true" lat="42.73245037" lon="-72.52803498">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Hemlock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266524"/>
-  </node>
-  <node id="-1075" visible="true" lat="42.73227092" lon="-72.52658131">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Hemlock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266525"/>
-  </node>
-  <node id="-1076" visible="true" lat="42.73281125" lon="-72.52605425">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Aspen Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266526"/>
-  </node>
-  <node id="-1077" visible="true" lat="42.73329131" lon="-72.52655848">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Aspen Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266527"/>
-  </node>
-  <node id="-1078" visible="true" lat="42.73344797" lon="-72.52770199">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Aspen Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266528"/>
-  </node>
   <node id="-1079" visible="true" lat="42.7341033" lon="-72.52541634">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="102"/>
     <tag k="addr:street" v="Wheeler Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266529"/>
-  </node>
-  <node id="-1080" visible="true" lat="42.73171045" lon="-72.52771317">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:street" v="Hemlock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266530"/>
-  </node>
-  <node id="-1081" visible="true" lat="42.73546026" lon="-72.52837398">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="694"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266531"/>
-  </node>
-  <node id="-1082" visible="true" lat="42.73578027" lon="-72.52769915">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="672"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266532"/>
-  </node>
-  <node id="-1084" visible="true" lat="42.73565709" lon="-72.52990173">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="714"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266534"/>
-  </node>
-  <node id="-1086" visible="true" lat="42.73489122" lon="-72.52940507">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="716"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266536"/>
-  </node>
-  <node id="-1087" visible="true" lat="42.73561927" lon="-72.53133988">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266537"/>
-  </node>
-  <node id="-1089" visible="true" lat="42.7353618" lon="-72.53216949">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266539"/>
-  </node>
-  <node id="-1090" visible="true" lat="42.7349333" lon="-72.53234019">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266540"/>
-  </node>
-  <node id="-1092" visible="true" lat="42.73373809" lon="-72.53302939">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266542"/>
-  </node>
-  <node id="-1095" visible="true" lat="42.73395051" lon="-72.53413412">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="174"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266545"/>
-  </node>
-  <node id="-1096" visible="true" lat="42.73399839" lon="-72.53493673">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="190"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266546"/>
-  </node>
-  <node id="-1097" visible="true" lat="42.73287167" lon="-72.5352586">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="195"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266547"/>
-  </node>
-  <node id="-1098" visible="true" lat="42.73423348" lon="-72.52968748">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266548"/>
-  </node>
-  <node id="-1099" visible="true" lat="42.73292994" lon="-72.5304274">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="766"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266549"/>
-  </node>
-  <node id="-1102" visible="true" lat="42.73329058" lon="-72.5295594">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="764"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266552"/>
-  </node>
-  <node id="-1104" visible="true" lat="42.73541429" lon="-72.53892797">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:street" v="Honey Brim Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266554"/>
-  </node>
-  <node id="-1106" visible="true" lat="42.7340291" lon="-72.53867825">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Honey Brim Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266556"/>
-  </node>
-  <node id="-1107" visible="true" lat="42.73346888" lon="-72.53870892">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="300"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266557"/>
-  </node>
-  <node id="-1108" visible="true" lat="42.73215558" lon="-72.53993398">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="359"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266558"/>
-  </node>
-  <node id="-1109" visible="true" lat="42.73230512" lon="-72.53722785">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="229"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266559"/>
-  </node>
-  <node id="-1110" visible="true" lat="42.73164089" lon="-72.54170062">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="407"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266560"/>
-  </node>
-  <node id="-1111" visible="true" lat="42.73160143" lon="-72.52931822">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="802"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266561"/>
-  </node>
-  <node id="-1112" visible="true" lat="42.72945666" lon="-72.52993688">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="946"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266562"/>
-  </node>
-  <node id="-1113" visible="true" lat="42.72985063" lon="-72.52799084">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="895"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266563"/>
-  </node>
-  <node id="-1115" visible="true" lat="42.73072682" lon="-72.52856102">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="857"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266565"/>
-  </node>
-  <node id="-1116" visible="true" lat="42.73023853" lon="-72.52743337">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="859"/>
-    <tag k="addr:street" v="Huckle Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266566"/>
-  </node>
-  <node id="-1117" visible="true" lat="42.73143062" lon="-72.52654993">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="68"/>
-    <tag k="addr:street" v="Hemlock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266567"/>
-  </node>
-  <node id="-1118" visible="true" lat="42.73149375" lon="-72.52544112">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Hemlock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266568"/>
   </node>
   <node id="-1120" visible="true" lat="42.73059047" lon="-72.49663206">
     <tag k="addr:city" v="Vernon"/>
@@ -3584,61 +2100,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266575"/>
   </node>
-  <node id="-1126" visible="true" lat="42.72946537" lon="-72.46689829">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4507"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266576"/>
-  </node>
-  <node id="-1128" visible="true" lat="42.72774435" lon="-72.46581664">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4554"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266578"/>
-  </node>
-  <node id="-1129" visible="true" lat="42.72746414" lon="-72.4654653">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4590"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266579"/>
-  </node>
-  <node id="-1131" visible="true" lat="42.72869718" lon="-72.46612885">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4535"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266581"/>
-  </node>
   <node id="-1134" visible="true" lat="42.72750576" lon="-72.46448832">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="4591"/>
     <tag k="addr:street" v="Fort Bridgman Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266585"/>
-  </node>
-  <node id="-1135" visible="true" lat="42.72736073" lon="-72.46381384">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Old Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266586"/>
-  </node>
-  <node id="-1136" visible="true" lat="42.72840301" lon="-72.46373053">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="Old Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266587"/>
-  </node>
-  <node id="-1137" visible="true" lat="42.72818191" lon="-72.46355749">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Old Depot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266588"/>
   </node>
   <node id="-1141" visible="true" lat="42.82386752" lon="-72.54822528">
     <tag k="addr:city" v="Vernon"/>
@@ -3675,40 +2142,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266599"/>
   </node>
-  <node id="-1160" visible="true" lat="42.81701943" lon="-72.54806266">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="278"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266611"/>
-  </node>
   <node id="-1175" visible="true" lat="42.78286086" lon="-72.5304296">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="101"/>
     <tag k="addr:street" v="Tyler Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266626"/>
-  </node>
-  <node id="-1178" visible="true" lat="42.79530252" lon="-72.55186641">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="322"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266629"/>
-  </node>
-  <node id="-1187" visible="true" lat="42.79911665" lon="-72.55431074">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="454"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266639"/>
-  </node>
-  <node id="-1195" visible="true" lat="42.78998844" lon="-72.55025393">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:street" v="Stoney Acres Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266647"/>
   </node>
   <node id="-1203" visible="true" lat="42.78062909" lon="-72.52266064">
     <tag k="addr:city" v="Vernon"/>
@@ -3723,55 +2162,6 @@
     <tag k="addr:street" v="Fort Bridgman Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266663"/>
-  </node>
-  <node id="-1212" visible="true" lat="42.77276101" lon="-72.521994">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Bemis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266665"/>
-  </node>
-  <node id="-1214" visible="true" lat="42.77232606" lon="-72.52255614">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="Bemis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266667"/>
-  </node>
-  <node id="-1219" visible="true" lat="42.7624583" lon="-72.50817752">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Greenway Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266672"/>
-  </node>
-  <node id="-1220" visible="true" lat="42.76294802" lon="-72.50585161">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266673"/>
-  </node>
-  <node id="-1224" visible="true" lat="42.76263641" lon="-72.49514918">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="524"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266677"/>
-  </node>
-  <node id="-1225" visible="true" lat="42.76215923" lon="-72.49479585">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="552"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266678"/>
-  </node>
-  <node id="-1226" visible="true" lat="42.76176952" lon="-72.49466742">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="562"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266679"/>
   </node>
   <node id="-1227" visible="true" lat="42.76127375" lon="-72.49480586">
     <tag k="addr:city" v="Vernon"/>
@@ -3808,26 +2198,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266689"/>
   </node>
-  <node id="-1247" visible="true" lat="42.7293927" lon="-72.46675504">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="4509"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266702"/>
-  </node>
   <node id="-1253" visible="true" lat="42.74210573" lon="-72.47503184">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="58"/>
     <tag k="addr:street" v="Valley View Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266709"/>
-  </node>
-  <node id="-1262" visible="true" lat="42.76055183" lon="-72.5316741">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="464"/>
-    <tag k="addr:street" v="West Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266719"/>
   </node>
   <node id="-1274" visible="true" lat="42.75207013" lon="-72.52028773">
     <tag k="addr:city" v="Vernon"/>
@@ -3843,26 +2219,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266752"/>
   </node>
-  <node id="-1299" visible="true" lat="42.73470766" lon="-72.52120726">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="99"/>
-    <tag k="addr:street" v="Wheeler Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266757"/>
-  </node>
   <node id="-1309" visible="true" lat="42.73774041" lon="-72.52477521">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="538 1/2"/>
     <tag k="addr:street" v="Huckle Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266767"/>
-  </node>
-  <node id="-1348" visible="true" lat="42.73354617" lon="-72.48900987">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Houghton Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266807"/>
   </node>
   <node id="-1359" visible="true" lat="42.73024141" lon="-72.49633289">
     <tag k="addr:city" v="Vernon"/>
@@ -3990,20 +2352,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266857"/>
   </node>
-  <node id="-1400" visible="true" lat="42.77286741" lon="-72.52942011">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="253"/>
-    <tag k="addr:street" v="Peck Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266860"/>
-  </node>
-  <node id="-1401" visible="true" lat="42.73083252" lon="-72.54090553">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="409"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266861"/>
-  </node>
   <node id="-1403" visible="true" lat="42.79959619" lon="-72.5564759">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="40"/>
@@ -4066,13 +2414,6 @@
     <tag k="addr:street" v="Fort Bridgman Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266873"/>
-  </node>
-  <node id="-1415" visible="true" lat="42.73204875" lon="-72.52449764">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="Hemlock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="266875"/>
   </node>
   <node id="-1416" visible="true" lat="42.73496265" lon="-72.52299519">
     <tag k="addr:city" v="Vernon"/>
@@ -4158,33 +2499,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="313198"/>
   </node>
-  <node id="-1430" visible="true" lat="42.77191616" lon="-72.52447624">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="140"/>
-    <tag k="addr:street" v="Bemis Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="313200"/>
-  </node>
   <node id="-1431" visible="true" lat="42.76218398" lon="-72.51393889">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="2527"/>
     <tag k="addr:street" v="Fort Bridgman Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="313201"/>
-  </node>
-  <node id="-1433" visible="true" lat="42.75765919" lon="-72.53726277">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="664"/>
-    <tag k="addr:street" v="West Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="313204"/>
-  </node>
-  <node id="-1434" visible="true" lat="42.76178681" lon="-72.50540754">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="2774"/>
-    <tag k="addr:street" v="Fort Bridgman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="313205"/>
   </node>
   <node id="-1435" visible="true" lat="42.76100508" lon="-72.50231871">
     <tag k="addr:city" v="Vernon"/>
@@ -4228,13 +2548,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="317498"/>
   </node>
-  <node id="-1441" visible="true" lat="42.75997119" lon="-72.49488118">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="Mary Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="317499"/>
-  </node>
   <node id="-1442" visible="true" lat="42.81784629" lon="-72.55749046">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="280"/>
@@ -4249,13 +2562,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="317501"/>
   </node>
-  <node id="-1444" visible="true" lat="42.79117177" lon="-72.5473317">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Skyline Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="317502"/>
-  </node>
   <node id="-1445" visible="true" lat="42.73096299" lon="-72.49128763">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="128"/>
@@ -4269,13 +2575,6 @@
     <tag k="addr:street" v="Breezy Acres Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="335944"/>
-  </node>
-  <node id="-1448" visible="true" lat="42.79763513" lon="-72.5515075">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Cushing Lot Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="335945"/>
   </node>
   <node id="-1449" visible="true" lat="42.80086309" lon="-72.5555559">
     <tag k="addr:city" v="Vernon"/>
@@ -4311,13 +2610,6 @@
     <tag k="addr:street" v="Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337735"/>
-  </node>
-  <node id="-1458" visible="true" lat="42.73513603" lon="-72.53566599">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="222"/>
-    <tag k="addr:street" v="Basin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="337736"/>
   </node>
   <node id="-1459" visible="true" lat="42.78344756" lon="-72.51935247">
     <tag k="addr:city" v="Vernon"/>
@@ -4368,33 +2660,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343937"/>
   </node>
-  <node id="-1467" visible="true" lat="42.75992702" lon="-72.55028506">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="1102"/>
-    <tag k="addr:street" v="West Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="343939"/>
-  </node>
-  <node id="-1468" visible="true" lat="42.73686682" lon="-72.53942158">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="110"/>
-    <tag k="addr:street" v="Honey Brim Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="343941"/>
-  </node>
   <node id="-1469" visible="true" lat="42.74143723" lon="-72.50985618">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="60"/>
     <tag k="addr:street" v="Lily Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343942"/>
-  </node>
-  <node id="-1471" visible="true" lat="42.73541835" lon="-72.48973238">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Country Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="343944"/>
   </node>
   <node id="-1472" visible="true" lat="42.74892119" lon="-72.48782315">
     <tag k="addr:city" v="Vernon"/>
@@ -4466,26 +2737,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612764"/>
   </node>
-  <node id="-1489" visible="true" lat="42.79264936" lon="-72.55395016">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="229"/>
-    <tag k="addr:street" v="Franklin Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617119"/>
-  </node>
   <node id="-1490" visible="true" lat="42.74924183" lon="-72.50489739">
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="142"/>
     <tag k="addr:street" v="Forrett Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620540"/>
-  </node>
-  <node id="-1491" visible="true" lat="42.7635235" lon="-72.49390568">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="493"/>
-    <tag k="addr:street" v="Stebbins Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620541"/>
   </node>
   <node id="-1492" visible="true" lat="42.75946016" lon="-72.49245425">
     <tag k="addr:city" v="Vernon"/>
@@ -4591,13 +2848,6 @@
     <tag k="addr:street" v="Sonny Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753002"/>
-  </node>
-  <node id="-1509" visible="true" lat="42.7688228" lon="-72.51766277">
-    <tag k="addr:city" v="Vernon"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Governor Hunt Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="753691"/>
   </node>
   <node id="-1510" visible="true" lat="42.77765177" lon="-72.52121345">
     <tag k="addr:city" v="Vernon"/>

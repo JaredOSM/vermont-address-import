@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.0674962" lon="-73.13868743">
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="1500"/>
@@ -994,26 +994,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3876"/>
   </node>
-  <node id="-293" visible="true" lat="43.10118684" lon="-73.13896919">
-    <tag k="addr:city" v="Arlington"/>
-    <tag k="addr:housenumber" v="6015"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3877"/>
-  </node>
   <node id="-294" visible="true" lat="43.10106512" lon="-73.13992931">
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="80"/>
     <tag k="addr:street" v="Fisher Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3878"/>
-  </node>
-  <node id="-295" visible="true" lat="43.10110734" lon="-73.13725724">
-    <tag k="addr:city" v="Arlington"/>
-    <tag k="addr:housenumber" v="6058"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3879"/>
   </node>
   <node id="-296" visible="true" lat="43.10051268" lon="-73.2486003">
     <tag k="addr:city" v="Arlington"/>
@@ -2471,13 +2457,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4182"/>
   </node>
-  <node id="-596" visible="true" lat="43.07441324" lon="-73.16738196">
-    <tag k="addr:city" v="Arlington"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="West Mountain Inn Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4184"/>
-  </node>
   <node id="-600" visible="true" lat="43.07445736" lon="-73.15315608">
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="3888"/>
@@ -2498,13 +2477,6 @@
     <tag k="addr:street" v="Vermont Route 7A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4193"/>
-  </node>
-  <node id="-609" visible="true" lat="43.07391746" lon="-73.16862822">
-    <tag k="addr:city" v="Arlington"/>
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:street" v="West Mountain Inn Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4198"/>
   </node>
   <node id="-612" visible="true" lat="43.07375003" lon="-73.15473802">
     <tag k="addr:city" v="Arlington"/>
@@ -6328,13 +6300,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4853"/>
   </node>
-  <node id="-1237" visible="true" lat="43.07377224" lon="-73.15401293">
-    <tag k="addr:city" v="Arlington"/>
-    <tag k="addr:housenumber" v="3828"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4859"/>
-  </node>
   <node id="-1239" visible="true" lat="43.05512903" lon="-73.2510809">
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="71"/>
@@ -7126,13 +7091,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306963"/>
   </node>
-  <node id="-1371" visible="true" lat="43.09562823" lon="-73.15509934">
-    <tag k="addr:city" v="Arlington"/>
-    <tag k="addr:housenumber" v="390"/>
-    <tag k="addr:street" v="Tory Lane North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306966"/>
-  </node>
   <node id="-1372" visible="true" lat="43.10947589" lon="-73.14182739">
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="33"/>
@@ -7615,13 +7573,6 @@
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750745"/>
-  </node>
-  <node id="-1764" visible="true" lat="43.04655212" lon="-73.14278184">
-    <tag k="addr:city" v="Arlington"/>
-    <tag k="addr:housenumber" v="441"/>
-    <tag k="addr:street" v="Butternut Gutter"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751525"/>
   </node>
   <node id="-1767" visible="true" lat="43.05542094" lon="-73.17771786">
     <tag k="addr:city" v="Arlington"/>

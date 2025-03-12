@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-224" visible="true" lat="43.56341553" lon="-73.2244339">
     <!-- conflict: "3252 Vermont Route 30 North, Poultney, VT" No match in OSM, but a different address exists <5m away: "3252 Vt Route 30 North, Poultney, VT" -->
     <tag k="addr:city" v="Poultney"/>
@@ -81,7 +81,7 @@
     <tag k="ref:vcgi:esiteid" v="190971"/>
   </node>
   <node id="-339" visible="true" lat="43.5427471" lon="-73.23747155">
-    <!-- conflict: "1339 York Street Extension, Poultney, VT" Fuzzy match to "1339 York St, Poultney, VT" -->
+    <!-- conflict: "1339 York Street Extension, Poultney, VT" Fuzzy match to "1339 York Street, Poultney, VT" -->
     <tag k="addr:city" v="Poultney"/>
     <tag k="addr:housenumber" v="1339"/>
     <tag k="addr:street" v="York Street Extension"/>
@@ -89,7 +89,7 @@
     <tag k="ref:vcgi:esiteid" v="190997"/>
   </node>
   <node id="-342" visible="true" lat="43.5425529" lon="-73.24031652">
-    <!-- conflict: "1279 York Street Extension, Poultney, VT" Fuzzy match to "1279 York St, Poultney, VT" -->
+    <!-- conflict: "1279 York Street Extension, Poultney, VT" Fuzzy match to "1279 York Street, Poultney, VT" -->
     <tag k="addr:city" v="Poultney"/>
     <tag k="addr:housenumber" v="1279"/>
     <tag k="addr:street" v="York Street Extension"/>
@@ -97,7 +97,7 @@
     <tag k="ref:vcgi:esiteid" v="191000"/>
   </node>
   <node id="-344" visible="true" lat="43.54188156" lon="-73.23730468">
-    <!-- conflict: "1276 York Street Extension, Poultney, VT" Fuzzy match to "1276 York St, Poultney, VT" -->
+    <!-- conflict: "1276 York Street Extension, Poultney, VT" Fuzzy match to "1276 York Street, Poultney, VT" -->
     <tag k="addr:city" v="Poultney"/>
     <tag k="addr:housenumber" v="1276"/>
     <tag k="addr:street" v="York Street Extension"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.89060713" lon="-72.63470908">
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="117"/>
@@ -2744,13 +2744,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="196419"/>
   </node>
-  <node id="-495" visible="true" lat="43.9438768" lon="-72.62515947">
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="1909"/>
-    <tag k="addr:street" v="Vermont Route 66"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="196420"/>
-  </node>
   <node id="-496" visible="true" lat="43.94395065" lon="-72.62594604">
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="1869"/>
@@ -2933,26 +2926,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="196453"/>
   </node>
-  <node id="-527" visible="true" lat="43.94166564" lon="-72.60684204">
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="2964"/>
-    <tag k="addr:street" v="Vermont Route 66"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="196455"/>
-  </node>
   <node id="-528" visible="true" lat="43.94166119" lon="-72.55496066">
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="103"/>
     <tag k="addr:street" v="Vermont Route 14 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="196457"/>
-  </node>
-  <node id="-529" visible="true" lat="43.94154183" lon="-72.60684291">
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="2952"/>
-    <tag k="addr:street" v="Vermont Route 66"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="196458"/>
   </node>
   <node id="-530" visible="true" lat="43.94155178" lon="-72.63360305">
     <tag k="addr:city" v="Randolph"/>
@@ -5341,13 +5320,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197569"/>
   </node>
-  <node id="-1521" visible="true" lat="43.91378411" lon="-72.65740933">
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="250"/>
-    <tag k="addr:street" v="Beanville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="197570"/>
-  </node>
   <node id="-1522" visible="true" lat="43.91357224" lon="-72.64856702">
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="1252"/>
@@ -5739,20 +5711,6 @@
     <tag k="addr:street" v="Davis Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197631"/>
-  </node>
-  <node id="-1579" visible="true" lat="43.90655134" lon="-72.65824852">
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="83"/>
-    <tag k="addr:street" v="Dylan Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="197633"/>
-  </node>
-  <node id="-1580" visible="true" lat="43.90655585" lon="-72.65940693">
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Dylan Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="197634"/>
   </node>
   <node id="-1581" visible="true" lat="43.90654339" lon="-72.62816801">
     <tag k="addr:city" v="Randolph"/>
@@ -6818,13 +6776,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197849"/>
   </node>
-  <node id="-1781" visible="true" lat="43.90556151" lon="-72.65849792">
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="154"/>
-    <tag k="addr:street" v="Dylan Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="197852"/>
-  </node>
   <node id="-1783" visible="true" lat="43.9834532" lon="-72.64798567">
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="3618"/>
@@ -7455,13 +7406,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197994"/>
   </node>
-  <node id="-1902" visible="true" lat="43.90670187" lon="-72.6586926">
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:street" v="Dylan Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="197995"/>
-  </node>
   <node id="-1903" visible="true" lat="43.96543324" lon="-72.60227449">
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="847"/>
@@ -8091,13 +8035,6 @@
     <tag k="addr:street" v="Rogers Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="315167"/>
-  </node>
-  <node id="-2010" visible="true" lat="43.95561611" lon="-72.60382301">
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="89"/>
-    <tag k="addr:street" v="Rand Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="315215"/>
   </node>
   <node id="-2011" visible="true" lat="43.93804364" lon="-72.67447254">
     <tag k="addr:city" v="Randolph"/>

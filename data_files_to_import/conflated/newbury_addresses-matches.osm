@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-102" visible="true" lat="44.0510698" lon="-72.15451806">
     <tag k="addr:housenumber" v="3040"/>
     <tag k="addr:street" v="Wrights Mountain Road"/>
@@ -371,6 +371,13 @@
     <tag k="addr:street" v="Main Street North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="173628"/>
+  </node>
+  <node id="-287" visible="true" lat="44.15293121" lon="-72.04497527">
+    <!-- match: "10 Railroad Street, , VT"  ignoring missing state when matching to "10 Railroad Street, Wells River, " -->
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="173631"/>
   </node>
   <node id="-288" visible="true" lat="44.15299174" lon="-72.04748743">
     <tag k="addr:housenumber" v="9"/>
@@ -2363,12 +2370,6 @@
     <tag k="addr:street" v="Main Street North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="174642"/>
-  </node>
-  <node id="-1247" visible="true" lat="44.15298576" lon="-72.04626426">
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Main Street North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="174643"/>
   </node>
   <node id="-1249" visible="true" lat="44.15190651" lon="-72.04709523">
     <tag k="addr:housenumber" v="12"/>

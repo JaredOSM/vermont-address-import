@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-401" visible="true" lat="43.14169691" lon="-72.76780751">
     <!-- conflict: "166 Leonards Road, , VT" No match in OSM, but a different address exists <5m away: "166 Under The Mountain Road, Windham, VT" -->
     <tag k="addr:housenumber" v="166"/>
@@ -13,13 +13,6 @@
     <tag k="addr:street" v="Popple Dungeon Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295296"/>
-  </node>
-  <node id="-524" visible="true" lat="43.21581656" lon="-72.71580652">
-    <!-- conflict: "300 Fairway Meadows, , VT" No match in OSM, but a different address exists <5m away: "119 White Road, Windham, VT" -->
-    <tag k="addr:housenumber" v="300"/>
-    <tag k="addr:street" v="Fairway Meadows"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="331119"/>
   </node>
   <node id="-535" visible="true" lat="43.21745311" lon="-72.71974815">
     <!-- conflict: "90 Fairway Meadows, , VT" No match in OSM, but a different address exists <5m away: "121 White Road, Windham, VT" -->

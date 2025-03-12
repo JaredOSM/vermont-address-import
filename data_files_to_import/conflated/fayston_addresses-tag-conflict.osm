@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-617" visible="true" lat="44.18687387" lon="-72.84276176">
     <!-- conflict: "228 Top Of The Valley Road, , VT" Fuzzy match to "228 Top of the Valley Road, Waitsfield, VT" -->
     <tag k="addr:housenumber" v="228"/>
     <tag k="addr:street" v="Top Of The Valley Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106446"/>
-  </node>
-  <node id="-1087" visible="true" lat="44.1952798" lon="-72.89244807">
-    <!-- conflict: "2891 Mill Brook Road, , VT" No match in OSM, but a different address exists <5m away: "32 Tennis Court Lane, Fayston, VT" -->
-    <tag k="addr:housenumber" v="2891"/>
-    <tag k="addr:street" v="Mill Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613576"/>
   </node>
 </osm>

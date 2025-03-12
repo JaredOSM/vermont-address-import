@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-113" visible="true" lat="43.12675513" lon="-72.44424316">
+    <!-- match: "1 Hospital Court, Bellows Falls, VT"  ignoring missing state when matching to "1 Hospital Court, Bellows Falls, " -->
+    <tag k="addr:city" v="Bellows Falls"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Hospital Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="204070"/>
+  </node>
+  <node id="-304" visible="true" lat="43.12941787" lon="-72.44466536">
+    <tag k="addr:city" v="Bellows Falls"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Westminster Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="204261"/>
+  </node>
   <node id="-514" visible="true" lat="43.13078839" lon="-72.44458988">
     <tag k="addr:city" v="Bellows Falls"/>
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:street" v="Westminster Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="204476"/>
+  </node>
+  <node id="-541" visible="true" lat="43.13183449" lon="-72.444418">
+    <tag k="addr:city" v="Bellows Falls"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Westminster Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="204504"/>
   </node>
   <node id="-642" visible="true" lat="43.13647152" lon="-72.44421359">
     <tag k="addr:city" v="Bellows Falls"/>
@@ -294,6 +316,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="204679"/>
   </node>
+  <node id="-726" visible="true" lat="43.13425097" lon="-72.45070921">
+    <!-- match: "82 Atkinson Street, Bellows Falls, VT"  ignoring missing state when matching to "82 Atkinson Street, Bellows Falls, " -->
+    <tag k="addr:city" v="Bellows Falls"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Atkinson Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="204692"/>
+  </node>
+  <node id="-834" visible="true" lat="43.13513712" lon="-72.45109874">
+    <!-- match: "92 Atkinson Street, Bellows Falls, VT"  ignoring missing state when matching to "92 Atkinson Street, Bellows Falls, " -->
+    <tag k="addr:city" v="Bellows Falls"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Atkinson Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="204802"/>
+  </node>
   <node id="-983" visible="true" lat="43.13548354" lon="-72.4492995">
     <tag k="addr:city" v="Bellows Falls"/>
     <tag k="addr:housenumber" v="33"/>
@@ -314,6 +352,13 @@
     <tag k="addr:street" v="Williams Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205053"/>
+  </node>
+  <node id="-1097" visible="true" lat="43.13355935" lon="-72.44337333">
+    <tag k="addr:city" v="Bellows Falls"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Square"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="205174"/>
   </node>
   <node id="-1101" visible="true" lat="43.13607915" lon="-72.45026959">
     <tag k="addr:city" v="Bellows Falls"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-753" visible="true" lat="44.54166165" lon="-72.0004847">
     <!-- multiple: "590 Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="590"/>
@@ -20,6 +20,13 @@
     <tag k="addr:street" v="Hill Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147660"/>
+  </node>
+  <node id="-1579" visible="true" lat="44.52065717" lon="-72.00052286">
+    <!-- multiple: "78 Broad Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Broad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="147968"/>
   </node>
   <node id="-1619" visible="true" lat="44.51976239" lon="-72.00149298">
     <!-- multiple: "12 Broad Street, , VT" Multiple exact matches in OSM. -->

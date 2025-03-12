@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-312" visible="true" lat="43.71922409" lon="-73.04027519">
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Kendall Hill Road"/>
@@ -852,6 +852,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="188148"/>
   </node>
+  <node id="-1213" visible="true" lat="43.66963197" lon="-72.98701106">
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Alpine Acres"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="188617"/>
+  </node>
+  <node id="-1214" visible="true" lat="43.66915989" lon="-72.98818325">
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Alpine Acres"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="188618"/>
+  </node>
+  <node id="-1216" visible="true" lat="43.66871263" lon="-72.98718228">
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Alpine Acres"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="188620"/>
+  </node>
   <node id="-1242" visible="true" lat="43.7067357" lon="-73.01716174">
     <tag k="addr:housenumber" v="3356"/>
     <tag k="addr:street" v="U.S. Route 7"/>
@@ -977,6 +995,12 @@
     <tag k="addr:street" v="Arch Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="188750"/>
+  </node>
+  <node id="-1367" visible="true" lat="43.66973319" lon="-72.98863149">
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Alpine Acres"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="188774"/>
   </node>
   <node id="-1410" visible="true" lat="43.7062473" lon="-73.02287351">
     <tag k="addr:housenumber" v="25"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.76133556" lon="-73.26535455">
     <tag k="addr:city" v="Benson"/>
     <tag k="addr:housenumber" v="26"/>
@@ -3877,13 +3877,6 @@
     <tag k="addr:street" v="Route 144"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756177"/>
-  </node>
-  <node id="-799" visible="true" lat="43.71955227" lon="-73.31166711">
-    <tag k="addr:city" v="Benson"/>
-    <tag k="addr:housenumber" v="3471"/>
-    <tag k="addr:street" v="Stage Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="757344"/>
   </node>
   <node id="-800" visible="true" lat="43.68610328" lon="-73.3355644">
     <tag k="addr:city" v="Benson"/>

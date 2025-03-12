@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-152" visible="true" lat="44.49198477" lon="-72.00663225">
-    <!-- conflict: "4357 Memorial Drive, , VT" Fuzzy match to "4357 Memorial Drive, Saint Johnsbury, " -->
-    <tag k="addr:housenumber" v="4357"/>
-    <tag k="addr:street" v="Memorial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244276"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-345" visible="true" lat="44.46602404" lon="-71.99293441">
     <!-- conflict: "1181 Lackey Hill Road, , VT" No match in OSM, but a different address exists <5m away: "1181 Lackie Hill Road, Saint Johnsbury, VT" -->
     <tag k="addr:housenumber" v="1181"/>
@@ -63,20 +56,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244691"/>
   </node>
-  <node id="-698" visible="true" lat="44.44576542" lon="-72.00957524">
-    <!-- conflict: "1315 Hospital Drive, , VT" Fuzzy match to "1315 Hospital Drive, Saint Johnsbury, " -->
-    <tag k="addr:housenumber" v="1315"/>
-    <tag k="addr:street" v="Hospital Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244871"/>
-  </node>
-  <node id="-785" visible="true" lat="44.43847057" lon="-72.01628942">
-    <!-- conflict: "371 Memorial Drive, , VT" No match in OSM, but a different address exists <5m away: " Memorial Drive, Saint Johnsbury, VT" -->
-    <tag k="addr:housenumber" v="371"/>
-    <tag k="addr:street" v="Memorial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244968"/>
-  </node>
   <node id="-876" visible="true" lat="44.43486171" lon="-72.00697023">
     <!-- conflict: "13 Rocky Ridge Road, , VT" Fuzzy match to "13 Rocky Ridge, Saint Johnsbury, VT" -->
     <tag k="addr:housenumber" v="13"/>
@@ -90,27 +69,6 @@
     <tag k="addr:street" v="Rocky Ridge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245077"/>
-  </node>
-  <node id="-948" visible="true" lat="44.43221863" lon="-72.01773952">
-    <!-- conflict: "21 Memorial Drive, , VT" Fuzzy match to "21 Memorial Drive, St. Johnsbury, " -->
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Memorial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="245153"/>
-  </node>
-  <node id="-1052" visible="true" lat="44.42909626" lon="-71.96554006">
-    <!-- conflict: "2870 Portland Street, , VT" Fuzzy match to "2870 Portland Street, , " -->
-    <tag k="addr:housenumber" v="2870"/>
-    <tag k="addr:street" v="Portland Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="245266"/>
-  </node>
-  <node id="-1061" visible="true" lat="44.43010499" lon="-72.01738185">
-    <!-- conflict: "8 Memorial Drive, , VT" Fuzzy match to "8 Memorial Drive, St. Johnsbury, " -->
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Memorial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="245277"/>
   </node>
   <node id="-1184" visible="true" lat="44.42783581" lon="-72.01769055">
     <!-- conflict: "222 Hastings Hill, , VT" Fuzzy match to "222 Hastings Street, St. Johnsbury, VT" -->
@@ -126,40 +84,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245424"/>
   </node>
-  <node id="-1404" visible="true" lat="44.42428342" lon="-72.01500732">
-    <!-- conflict: "815 Railroad Street, , VT" Fuzzy match to "815 Railroad Street, St. Johnsbury, " -->
-    <tag k="addr:housenumber" v="815"/>
-    <tag k="addr:street" v="Railroad Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="245660"/>
-  </node>
-  <node id="-1437" visible="true" lat="44.42385444" lon="-72.01436149">
-    <!-- conflict: "784 Railroad Street, , VT" Fuzzy match to "784 Railroad Street, St. Johnsbury, " -->
-    <tag k="addr:housenumber" v="784"/>
-    <tag k="addr:street" v="Railroad Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="245699"/>
-  </node>
-  <node id="-1523" visible="true" lat="44.42291908" lon="-72.01446907">
-    <!-- conflict: "716 Railroad Street, , VT" Fuzzy match to "716 Railroad Street, St. Johnsbury, " -->
-    <tag k="addr:housenumber" v="716"/>
-    <tag k="addr:street" v="Railroad Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="245793"/>
-  </node>
   <node id="-1582" visible="true" lat="44.42240128" lon="-72.02164781">
     <!-- conflict: "481 Summer Street, , VT" No match in OSM, but a different address exists <5m away: " Summer Street, Saint Johnsbury, VT" -->
     <tag k="addr:housenumber" v="481"/>
     <tag k="addr:street" v="Summer Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245858"/>
-  </node>
-  <node id="-1662" visible="true" lat="44.4217055" lon="-72.02071206">
-    <!-- conflict: "69 Winter Street, , VT" No match in OSM, but a different address exists <5m away: " Winter Street, Saint Johnsbury, VT" -->
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Winter Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="245944"/>
   </node>
   <node id="-1679" visible="true" lat="44.42158956" lon="-72.02042224">
     <!-- conflict: "49 Winter Street, , VT" No match in OSM, but a different address exists <5m away: " Winter Street, Saint Johnsbury, VT" -->
@@ -196,26 +126,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246046"/>
   </node>
-  <node id="-1758" visible="true" lat="44.42124962" lon="-72.00675789">
-    <!-- conflict: "459 Portland Street, , VT" Fuzzy match to "459 Portland Street, , " -->
-    <tag k="addr:housenumber" v="459"/>
-    <tag k="addr:street" v="Portland Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="246051"/>
-  </node>
   <node id="-1780" visible="true" lat="44.42096301" lon="-72.02033929">
     <!-- conflict: "19 Steeple Place, , VT" No match in OSM, but a different address exists <5m away: " Steeple Place, Saint Johnsbury, VT" -->
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:street" v="Steeple Place"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246076"/>
-  </node>
-  <node id="-1796" visible="true" lat="44.4208075" lon="-72.0039549">
-    <!-- conflict: "580 Portland Street, , VT" Fuzzy match to "580 Portland Street, St. Johnsbury, " -->
-    <tag k="addr:housenumber" v="580"/>
-    <tag k="addr:street" v="Portland Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="246092"/>
   </node>
   <node id="-1818" visible="true" lat="44.42079331" lon="-72.00890977">
     <!-- conflict: "347 Portland Street, , VT" No match in OSM, but a different address exists <5m away: " Portland Street, Saint Johnsbury, VT" -->
@@ -230,13 +146,6 @@
     <tag k="addr:street" v="Portland Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246143"/>
-  </node>
-  <node id="-1844" visible="true" lat="44.42064739" lon="-72.01004399">
-    <!-- conflict: "287 Portland Street, , VT" Fuzzy match to "287 Portland Street, St. Johnsbury, " -->
-    <tag k="addr:housenumber" v="287"/>
-    <tag k="addr:street" v="Portland Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="246147"/>
   </node>
   <node id="-1881" visible="true" lat="44.42037151" lon="-72.02202853">
     <!-- conflict: "340 Summer Street, , VT" No match in OSM, but a different address exists <5m away: " Summer Street, Saint Johnsbury, VT" -->
@@ -280,13 +189,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246234"/>
   </node>
-  <node id="-1958" visible="true" lat="44.41976176" lon="-72.01570233">
-    <!-- conflict: "497 Railroad Street, , VT" Fuzzy match to "497 Railroad Street, St. Johnsbury, " -->
-    <tag k="addr:housenumber" v="497"/>
-    <tag k="addr:street" v="Railroad Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="246276"/>
-  </node>
   <node id="-1988" visible="true" lat="44.41971152" lon="-72.01414707">
     <!-- conflict: "10 Saint Mary Street, , VT" No match in OSM, but a different address exists <5m away: " Saint Mary Street, Saint Johnsbury, VT" -->
     <tag k="addr:housenumber" v="10"/>
@@ -300,27 +202,6 @@
     <tag k="addr:street" v="Eastern Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246339"/>
-  </node>
-  <node id="-2031" visible="true" lat="44.41924031" lon="-72.01583948">
-    <!-- conflict: "457 Railroad Street, , VT" Fuzzy match to "457 Railroad Street, , " -->
-    <tag k="addr:housenumber" v="457"/>
-    <tag k="addr:street" v="Railroad Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="246363"/>
-  </node>
-  <node id="-2053" visible="true" lat="44.41885684" lon="-72.01798919">
-    <!-- conflict: "47 Cherry Street, , VT" Fuzzy match to "47 Cherry Street, Saint Johnsbury, " -->
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Cherry Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="246389"/>
-  </node>
-  <node id="-2139" visible="true" lat="44.418361" lon="-72.01724356">
-    <!-- conflict: "74 Eastern Avenue, , VT" Fuzzy match to "74 Eastern Avenue, St. Johnsbury, " -->
-    <tag k="addr:housenumber" v="74"/>
-    <tag k="addr:street" v="Eastern Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="246486"/>
   </node>
   <node id="-2240" visible="true" lat="44.41723492" lon="-72.01624116">
     <!-- conflict: "321 Railroad Street, , VT" No match in OSM, but a different address exists <5m away: "50 Railroad Street, St. Johnsbury, " -->
@@ -350,12 +231,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="247186"/>
   </node>
-  <node id="-2890" visible="true" lat="44.44088987" lon="-72.01348813">
-    <!-- conflict: "590 Memorial Drive, , VT" No match in OSM, but a different address exists <5m away: " Memorial Drive, Saint Johnsbury, VT" -->
-    <tag k="addr:housenumber" v="590"/>
-    <tag k="addr:street" v="Memorial Drive"/>
+  <node id="-2873" visible="true" lat="44.42118939" lon="-71.97180618">
+    <!-- conflict: "1132 Higgins Hill Road, , VT" No match in OSM, but a different address exists <5m away: " Higgins Hill Road, , " -->
+    <tag k="addr:housenumber" v="1132"/>
+    <tag k="addr:street" v="Higgins Hill Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="309239"/>
+    <tag k="ref:vcgi:esiteid" v="275372"/>
   </node>
   <node id="-3061" visible="true" lat="44.45723228" lon="-72.00008585">
     <!-- conflict: "415 Lackey Hill Road, , VT" No match in OSM, but a different address exists <5m away: "415 Lackie Hill Road, Saint Johnsbury, VT" -->
@@ -370,5 +251,12 @@
     <tag k="addr:street" v="U.S. Route 2 West"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758081"/>
+  </node>
+  <node id="-3156" visible="true" lat="44.41802956" lon="-72.01741252">
+    <!-- conflict: "75 Eastern Avenue, , VT" Fuzzy match to "75 Eastern Ave, , " -->
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Eastern Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763408"/>
   </node>
 </osm>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-133" visible="true" lat="42.89061078" lon="-72.55380421">
     <!-- conflict: "1354 Putney Road, Brattleboro, VT" No match in OSM, but a different address exists <5m away: "1354 , , " -->
     <tag k="addr:city" v="Brattleboro"/>
@@ -7,14 +7,6 @@
     <tag k="addr:street" v="Putney Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="29681"/>
-  </node>
-  <node id="-552" visible="true" lat="42.86766999" lon="-72.55814">
-    <!-- conflict: "28 Spring Tree Road, Brattleboro, VT" Fuzzy match to "28 Spring Tree Road, Brattleboro, " -->
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Spring Tree Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="30126"/>
   </node>
   <node id="-1436" visible="true" lat="42.85349999" lon="-72.55959999">
     <!-- conflict: "29 High Street, Brattleboro, VT" No match in OSM, but a different address exists <5m away: "21 High Street, Brattleboro, VT" -->
@@ -24,14 +16,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31038"/>
   </node>
-  <node id="-1858" visible="true" lat="42.85166187" lon="-72.55621775">
-    <!-- conflict: "36 Bridge Street, Brattleboro, VT" Fuzzy match to "36 Bridge Street, Brattleboro, " -->
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Bridge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="31471"/>
-  </node>
   <node id="-1945" visible="true" lat="42.85084443" lon="-72.5998615">
     <!-- conflict: "78 South Street, Brattleboro, VT" Fuzzy match to "78 South Street, , " -->
     <tag k="addr:city" v="Brattleboro"/>
@@ -39,6 +23,14 @@
     <tag k="addr:street" v="South Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31560"/>
+  </node>
+  <node id="-2258" visible="true" lat="42.84972375" lon="-72.57226242">
+    <!-- conflict: "23 West Street, Brattleboro, VT" Fuzzy match to "23 West Street, , " -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="West Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="31878"/>
   </node>
   <node id="-2577" visible="true" lat="42.8476" lon="-72.56744999">
     <!-- conflict: "120 Birge Street, Brattleboro, VT" Fuzzy match to "120 Birge Street, , " -->
@@ -64,21 +56,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32562"/>
   </node>
-  <node id="-3327" visible="true" lat="42.84361" lon="-72.564829">
-    <!-- conflict: "17 Belmont Avenue, Brattleboro, VT" Fuzzy match to "17 Belmont Avenue, Brattleboro, " -->
+  <node id="-4470" visible="true" lat="42.88372836" lon="-72.62933935">
+    <!-- conflict: "100 Bear Hill, Brattleboro, VT" Fuzzy match to "100 Bear Hollow, Brattleboro, VT" -->
     <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Belmont Avenue"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Bear Hill"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="32958"/>
-  </node>
-  <node id="-4785" visible="true" lat="42.86750999" lon="-72.62114999">
-    <!-- conflict: "487 Marlboro Road, Brattleboro, VT" Fuzzy match to "487 Marlboro Road, , " -->
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="487"/>
-    <tag k="addr:street" v="Marlboro Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="34446"/>
+    <tag k="ref:vcgi:esiteid" v="34116"/>
   </node>
   <node id="-5839" visible="true" lat="42.84639963" lon="-72.56942705">
     <!-- conflict: "18 Chestnut Street, Brattleboro, VT" No match in OSM, but a different address exists <5m away: " Chestnut Street, Brattleboro, VT" -->
@@ -87,5 +71,21 @@
     <tag k="addr:street" v="Chestnut Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="35795"/>
+  </node>
+  <node id="-6168" visible="true" lat="42.8520696" lon="-72.55935153">
+    <!-- conflict: "55 Elliot Street, Brattleboro, VT" Fuzzy match to "55 Elliot Street, , " -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Elliot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="36282"/>
+  </node>
+  <node id="-6245" visible="true" lat="42.85311827" lon="-72.55884179">
+    <!-- conflict: "6 High Street, Brattleboro, VT" No match in OSM, but a different address exists <5m away: " High Street, , " -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="36366"/>
   </node>
 </osm>

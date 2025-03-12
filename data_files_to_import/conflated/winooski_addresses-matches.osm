@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-192" visible="true" lat="44.50281831" lon="-73.18369587">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="450"/>
     <tag k="addr:street" v="Weaver Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298669"/>
+  </node>
+  <node id="-233" visible="true" lat="44.49923977" lon="-73.18415369">
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="348"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="298714"/>
+  </node>
+  <node id="-239" visible="true" lat="44.50073543" lon="-73.18244028">
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Normand Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="298721"/>
   </node>
   <node id="-291" visible="true" lat="44.49845655" lon="-73.17259273">
     <tag k="addr:city" v="Winooski"/>
@@ -14,12 +28,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298774"/>
   </node>
-  <node id="-535" visible="true" lat="44.49296138" lon="-73.17523264">
+  <node id="-529" visible="true" lat="44.49316897" lon="-73.17729019">
     <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="298"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Manseau Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299012"/>
+  </node>
+  <node id="-538" visible="true" lat="44.49279589" lon="-73.17684179">
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="268"/>
     <tag k="addr:street" v="East Allen Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299018"/>
+    <tag k="ref:vcgi:esiteid" v="299021"/>
   </node>
   <node id="-542" visible="true" lat="44.49171886" lon="-73.17410115">
     <tag k="addr:city" v="Winooski"/>
@@ -27,6 +48,13 @@
     <tag k="addr:street" v="East Allen Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299025"/>
+  </node>
+  <node id="-735" visible="true" lat="44.49234272" lon="-73.18021428">
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:street" v="East Allen Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299234"/>
   </node>
   <node id="-737" visible="true" lat="44.49218649" lon="-73.18085781">
     <tag k="addr:city" v="Winooski"/>
@@ -62,13 +90,6 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299303"/>
-  </node>
-  <node id="-810" visible="true" lat="44.49189318" lon="-73.18689535">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299319"/>
   </node>
   <node id="-811" visible="true" lat="44.49266969" lon="-73.18685124">
     <tag k="addr:city" v="Winooski"/>
@@ -238,19 +259,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300237"/>
   </node>
+  <node id="-1696" visible="true" lat="44.493263" lon="-73.1906122">
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Malletts Bay Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="300291"/>
+  </node>
   <node id="-1699" visible="true" lat="44.49164498" lon="-73.18951897">
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Malletts Bay Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300298"/>
-  </node>
-  <node id="-1708" visible="true" lat="44.49077961" lon="-73.18886648">
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="West Canal Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300310"/>
   </node>
   <node id="-1714" visible="true" lat="44.49333629" lon="-73.18825361">
     <tag k="addr:city" v="Winooski"/>
@@ -272,6 +293,13 @@
     <tag k="addr:street" v="East Allen Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300478"/>
+  </node>
+  <node id="-1796" visible="true" lat="44.49298501" lon="-73.17795671">
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Manseau Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="300486"/>
   </node>
   <node id="-1813" visible="true" lat="44.50086569" lon="-73.18278529">
     <tag k="addr:city" v="Winooski"/>

@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-458" visible="true" lat="44.90758523" lon="-72.80520401">
-    <!-- conflict: "349 Main Street, , VT" No match in OSM, but a different address exists <5m away: "355 Main Street, Enosburg Falls, " -->
-    <tag k="addr:housenumber" v="349"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="93526"/>
-  </node>
-  <node id="-561" visible="true" lat="44.9057884" lon="-72.8066084">
-    <!-- conflict: "221 Main Street, , VT" Fuzzy match to "221 Main Street, , " -->
-    <tag k="addr:housenumber" v="221"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="93647"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-598" visible="true" lat="44.90514655" lon="-72.80694965">
     <!-- conflict: "167 Main Street, , VT" No match in OSM, but a different address exists <5m away: " , Enosburg Falls, VT" -->
     <tag k="addr:housenumber" v="167"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="93691"/>
-  </node>
-  <node id="-1292" visible="true" lat="44.90763954" lon="-72.80516593">
-    <!-- conflict: "355 Main Street, , VT" Fuzzy match to "355 Main Street, Enosburg Falls, " -->
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326401"/>
   </node>
 </osm>

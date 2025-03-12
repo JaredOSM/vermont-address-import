@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-219" visible="true" lat="43.47616195" lon="-72.97682952">
-    <!-- conflict: "309 North Main Street, , VT" Fuzzy match to "309 North Main Street, , " -->
-    <tag k="addr:housenumber" v="309"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="269100"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-657" visible="true" lat="43.46067551" lon="-72.91874841">
     <!-- conflict: "3521 Vermont Route 140 East, , VT" No match in OSM, but a different address exists <5m away: "3521 Vt Route 140 East, Wallingford, VT" -->
     <tag k="addr:housenumber" v="3521"/>

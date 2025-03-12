@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-436" visible="true" lat="44.31062432" lon="-72.14085144">
     <tag k="addr:housenumber" v="158"/>
     <tag k="addr:street" v="Old West Road"/>
@@ -342,6 +342,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="7311"/>
   </node>
+  <node id="-692" visible="true" lat="44.29641506" lon="-72.04948983">
+    <!-- match: "90 Monument Circle, , VT"  ignoring missing state when matching to "90 Monument Circle, Barnet, " -->
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Monument Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="7314"/>
+  </node>
   <node id="-693" visible="true" lat="44.29643415" lon="-72.05082591">
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:street" v="Church Street"/>
@@ -503,5 +510,11 @@
     <tag k="addr:street" v="Farman Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="449925"/>
+  </node>
+  <node id="-1488" visible="true" lat="44.27066209" lon="-72.14546637">
+    <tag k="addr:housenumber" v="956"/>
+    <tag k="addr:street" v="Mosquitoville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755076"/>
   </node>
 </osm>

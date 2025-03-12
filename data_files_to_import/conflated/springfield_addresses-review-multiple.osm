@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-533" visible="true" lat="43.3309805" lon="-72.52557121">
+    <!-- multiple: "11 Church Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="234823"/>
+  </node>
   <node id="-737" visible="true" lat="43.32343484" lon="-72.50317043">
     <!-- multiple: "31 Meadow Drive, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="31"/>
@@ -91,13 +98,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="236033"/>
   </node>
-  <node id="-1660" visible="true" lat="43.29962754" lon="-72.48678956">
-    <!-- multiple: "36 Prospect Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Prospect Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="236061"/>
-  </node>
   <node id="-1675" visible="true" lat="43.2995149" lon="-72.48130715">
     <!-- multiple: "6 Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="6"/>
@@ -119,13 +119,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="236230"/>
   </node>
-  <node id="-1813" visible="true" lat="43.29820359" lon="-72.48223067">
-    <!-- multiple: "43 Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="236243"/>
-  </node>
   <node id="-1843" visible="true" lat="43.29798507" lon="-72.48023223">
     <!-- multiple: "48 Summer Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="48"/>
@@ -140,13 +133,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="236286"/>
   </node>
-  <node id="-1924" visible="true" lat="43.2972347" lon="-72.48148795">
-    <!-- multiple: "90 Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="236359"/>
-  </node>
   <node id="-2104" visible="true" lat="43.29559154" lon="-72.47823398">
     <!-- multiple: "57 Wall Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="57"/>
@@ -154,12 +140,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="236557"/>
   </node>
+  <node id="-2262" visible="true" lat="43.29392433" lon="-72.47741523">
+    <!-- multiple: "50 Clinton Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Clinton Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="236736"/>
+  </node>
   <node id="-3600" visible="true" lat="43.30863748" lon="-72.49475155">
     <!-- multiple: "37 Westview Terrace, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="37"/>
     <tag k="addr:street" v="Westview Terrace"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="238144"/>
+  </node>
+  <node id="-3780" visible="true" lat="43.30792383" lon="-72.4944316">
+    <!-- multiple: "20 Westview Terrace, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Westview Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="334237"/>
   </node>
   <node id="-3806" visible="true" lat="43.30199427" lon="-72.48882405">
     <!-- multiple: "5 Morgan Street, , VT" Multiple exact matches in OSM. -->

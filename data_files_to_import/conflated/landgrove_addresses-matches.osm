@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.29982842" lon="-72.84099744">
     <tag k="addr:city" v="Landgrove"/>
     <tag k="addr:housenumber" v="72"/>
@@ -105,6 +105,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139181"/>
   </node>
+  <node id="-115" visible="true" lat="43.29114708" lon="-72.85563633">
+    <tag k="addr:city" v="Landgrove"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Hesseltine Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="139182"/>
+  </node>
   <node id="-116" visible="true" lat="43.29093161" lon="-72.83262197">
     <tag k="addr:city" v="Landgrove"/>
     <tag k="addr:housenumber" v="363"/>
@@ -126,12 +133,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139186"/>
   </node>
+  <node id="-120" visible="true" lat="43.28987145" lon="-72.85285977">
+    <tag k="addr:city" v="Landgrove"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Hesseltine Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="139188"/>
+  </node>
   <node id="-121" visible="true" lat="43.28953144" lon="-72.83266929">
     <tag k="addr:city" v="Landgrove"/>
     <tag k="addr:housenumber" v="368"/>
     <tag k="addr:street" v="Landgrove Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139189"/>
+  </node>
+  <node id="-124" visible="true" lat="43.28776168" lon="-72.85334276">
+    <tag k="addr:city" v="Landgrove"/>
+    <tag k="addr:housenumber" v="251"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="139192"/>
   </node>
   <node id="-125" visible="true" lat="43.28774947" lon="-72.82588065">
     <tag k="addr:city" v="Landgrove"/>
@@ -153,6 +174,13 @@
     <tag k="addr:street" v="Cody Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139195"/>
+  </node>
+  <node id="-128" visible="true" lat="43.28547691" lon="-72.85232364">
+    <tag k="addr:city" v="Landgrove"/>
+    <tag k="addr:housenumber" v="244"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="139196"/>
   </node>
   <node id="-130" visible="true" lat="43.28083707" lon="-72.8433721">
     <tag k="addr:city" v="Landgrove"/>
@@ -636,6 +664,13 @@
     <tag k="addr:street" v="Landgrove Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139313"/>
+  </node>
+  <node id="-245" visible="true" lat="43.29464803" lon="-72.85528022">
+    <tag k="addr:city" v="Landgrove"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Russet Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="139315"/>
   </node>
   <node id="-246" visible="true" lat="43.29806919" lon="-72.8601139">
     <tag k="addr:city" v="Landgrove"/>

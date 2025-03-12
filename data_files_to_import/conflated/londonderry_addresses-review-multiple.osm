@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-408" visible="true" lat="43.22823231" lon="-72.8153147">
+    <!-- multiple: "5700 Vermont Route 100, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="5700"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="140950"/>
+  </node>
   <node id="-488" visible="true" lat="43.22634971" lon="-72.78390487">
     <!-- multiple: "615 Little Pond Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="615"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.14469618" lon="-72.46693932">
     <tag k="addr:city" v="Bellows Falls"/>
     <tag k="addr:housenumber" v="100"/>
@@ -1329,13 +1329,6 @@
     <tag k="addr:street" v="Hapgood Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="204260"/>
-  </node>
-  <node id="-304" visible="true" lat="43.12941787" lon="-72.44466536">
-    <tag k="addr:city" v="Bellows Falls"/>
-    <tag k="addr:housenumber" v="83"/>
-    <tag k="addr:street" v="Westminster Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="204261"/>
   </node>
   <node id="-305" visible="true" lat="43.12940614" lon="-72.44406445">
     <tag k="addr:city" v="Bellows Falls"/>
@@ -2919,13 +2912,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="204502"/>
   </node>
-  <node id="-541" visible="true" lat="43.13183449" lon="-72.444418">
-    <tag k="addr:city" v="Bellows Falls"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Westminster Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="204504"/>
-  </node>
   <node id="-542" visible="true" lat="43.13179882" lon="-72.44500207">
     <tag k="addr:city" v="Bellows Falls"/>
     <tag k="addr:housenumber" v="3"/>
@@ -4262,6 +4248,13 @@
     <tag k="addr:street" v="Atkinson Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="204753"/>
+  </node>
+  <node id="-787" visible="true" lat="43.13789305" lon="-72.45303225">
+    <tag k="addr:city" v="Bellows Falls"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Atkinson Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="204754"/>
   </node>
   <node id="-788" visible="true" lat="43.13802422" lon="-72.45229846">
     <tag k="addr:city" v="Bellows Falls"/>
@@ -6306,13 +6299,6 @@
     <tag k="addr:street" v="Square"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="205173"/>
-  </node>
-  <node id="-1097" visible="true" lat="43.13355935" lon="-72.44337333">
-    <tag k="addr:city" v="Bellows Falls"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Square"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="205174"/>
   </node>
   <node id="-1098" visible="true" lat="43.13355027" lon="-72.44342308">
     <tag k="addr:city" v="Bellows Falls"/>

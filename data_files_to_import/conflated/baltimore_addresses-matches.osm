@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.37322233" lon="-72.54261605">
     <tag k="addr:city" v="Baltimore"/>
     <tag k="addr:housenumber" v="271"/>
@@ -203,13 +203,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="5860"/>
   </node>
-  <node id="-130" visible="true" lat="43.36636169" lon="-72.56937214">
-    <tag k="addr:city" v="Baltimore"/>
-    <tag k="addr:housenumber" v="2239"/>
-    <tag k="addr:street" v="Baltimore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="5861"/>
-  </node>
   <node id="-131" visible="true" lat="43.3649689" lon="-72.5663073">
     <tag k="addr:city" v="Baltimore"/>
     <tag k="addr:housenumber" v="2240"/>
@@ -237,13 +230,6 @@
     <tag k="addr:street" v="Baltimore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="5865"/>
-  </node>
-  <node id="-135" visible="true" lat="43.36354149" lon="-72.56873458">
-    <tag k="addr:city" v="Baltimore"/>
-    <tag k="addr:housenumber" v="2094"/>
-    <tag k="addr:street" v="Baltimore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="5866"/>
   </node>
   <node id="-136" visible="true" lat="43.36355979" lon="-72.5715492">
     <tag k="addr:city" v="Baltimore"/>

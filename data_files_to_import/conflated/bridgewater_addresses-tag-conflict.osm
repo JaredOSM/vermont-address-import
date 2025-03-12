@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-107" visible="true" lat="43.66313036" lon="-72.60013152">
     <!-- conflict: "444 Wayside Road Extension, , VT" Fuzzy match to "444 Wayside Rd Extension, Bridgewater, VT" -->
     <tag k="addr:housenumber" v="444"/>
@@ -35,15 +35,8 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36592"/>
   </node>
-  <node id="-301" visible="true" lat="43.60402298" lon="-72.73013305">
-    <!-- conflict: "1081 U.S. Route 4, , VT" Fuzzy match to "1081 US Route 4, Bridgewater, VT" -->
-    <tag k="addr:housenumber" v="1081"/>
-    <tag k="addr:street" v="U.S. Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36656"/>
-  </node>
   <node id="-303" visible="true" lat="43.6035493" lon="-72.74062686">
-    <!-- conflict: "124 Stone Hill, , VT" No match in OSM, but a different address exists <5m away: "645 US Route 4, Bridgewater, VT" -->
+    <!-- conflict: "124 Stone Hill, , VT" Fuzzy match to "124 Stone Hill Road, Bridgewater, VT" -->
     <tag k="addr:housenumber" v="124"/>
     <tag k="addr:street" v="Stone Hill"/>
     <tag k="addr:state" v="VT"/>
@@ -112,26 +105,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36702"/>
   </node>
-  <node id="-345" visible="true" lat="43.59851074" lon="-72.71044158">
-    <!-- conflict: "2205 U.S. Route 4, , VT" Fuzzy match to "2205 US Route 4, Bridgewater, VT" -->
-    <tag k="addr:housenumber" v="2205"/>
-    <tag k="addr:street" v="U.S. Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36703"/>
-  </node>
   <node id="-348" visible="true" lat="43.59850692" lon="-72.6734848">
     <!-- conflict: "4501 U.S. Route 4, , VT" Fuzzy match to "4501 US Route 4, Bridgewater, VT" -->
     <tag k="addr:housenumber" v="4501"/>
     <tag k="addr:street" v="U.S. Route 4"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36706"/>
-  </node>
-  <node id="-350" visible="true" lat="43.59838837" lon="-72.71182886">
-    <!-- conflict: "2202 U.S. Route 4, , VT" Fuzzy match to "2202 US Route 4, Bridgewater, VT" -->
-    <tag k="addr:housenumber" v="2202"/>
-    <tag k="addr:street" v="U.S. Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36708"/>
   </node>
   <node id="-351" visible="true" lat="43.59809875" lon="-72.66978454">
     <!-- conflict: "4677 U.S. Route 4, , VT" Fuzzy match to "4677 US Route 4, Bridgewater, VT" -->
@@ -272,13 +251,6 @@
     <tag k="addr:street" v="U.S. Route 4"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36808"/>
-  </node>
-  <node id="-447" visible="true" lat="43.58843612" lon="-72.65954589">
-    <!-- conflict: "5520 U.S. Route 4, , VT" Fuzzy match to "5520 US Route 4, Bridgewater, VT" -->
-    <tag k="addr:housenumber" v="5520"/>
-    <tag k="addr:street" v="U.S. Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36810"/>
   </node>
   <node id="-450" visible="true" lat="43.58837127" lon="-72.63589477">
     <!-- conflict: "6733 U.S. Route 4, , VT" Fuzzy match to "6733 US Route 4, Bridgewater, VT" -->
@@ -664,12 +636,5 @@
     <tag k="addr:street" v="Holiday Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612121"/>
-  </node>
-  <node id="-775" visible="true" lat="43.61408533" lon="-72.66627611">
-    <!-- conflict: "53 Mount Hope Road, , VT" Fuzzy match to "53 Mount Hope Rd, Bridgewater, VT" -->
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Mount Hope Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="756873"/>
   </node>
 </osm>

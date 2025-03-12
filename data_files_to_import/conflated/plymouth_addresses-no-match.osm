@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-102" visible="true" lat="43.47761704" lon="-72.76273953">
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Old County Road"/>
@@ -1619,12 +1619,6 @@
     <tag k="addr:street" v="Kingdom Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="190000"/>
-  </node>
-  <node id="-653" visible="true" lat="43.46953905" lon="-72.69679862">
-    <tag k="addr:housenumber" v="503"/>
-    <tag k="addr:street" v="Kingdom Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190001"/>
   </node>
   <node id="-654" visible="true" lat="43.46959236" lon="-72.69955569">
     <tag k="addr:housenumber" v="181"/>

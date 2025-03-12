@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-135" visible="true" lat="45.00952966" lon="-71.50683269">
     <!-- conflict: "12 East Street, Canaan, VT" Fuzzy match to "12 East Street, Beecher Falls, VT" -->
     <tag k="addr:city" v="Canaan"/>
@@ -88,6 +88,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="58867"/>
   </node>
+  <node id="-295" visible="true" lat="45.00373167" lon="-71.55334812">
+    <!-- conflict: "6 Judd Road, Canaan, VT" Fuzzy match to "6 Judd Road, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Judd Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58877"/>
+  </node>
+  <node id="-300" visible="true" lat="45.00318053" lon="-71.55388498">
+    <!-- conflict: "54 Judd Road, Canaan, VT" Fuzzy match to "54 Judd Road, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Judd Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58882"/>
+  </node>
   <node id="-305" visible="true" lat="45.00256835" lon="-71.52239022">
     <!-- conflict: "251 Vermont Route 253, Canaan, VT" No match in OSM, but a different address exists <5m away: "251 Vt Route 253, Canaan, VT" -->
     <tag k="addr:city" v="Canaan"/>
@@ -95,6 +111,254 @@
     <tag k="addr:street" v="Vermont Route 253"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="58887"/>
+  </node>
+  <node id="-308" visible="true" lat="45.00234655" lon="-71.5535188">
+    <!-- conflict: "81 Judd Road, Canaan, VT" Fuzzy match to "81 Judd Road, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Judd Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58890"/>
+  </node>
+  <node id="-313" visible="true" lat="45.00162068" lon="-71.55337148">
+    <!-- conflict: "181 Judd Road, Canaan, VT" Fuzzy match to "181 Judd Road, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="181"/>
+    <tag k="addr:street" v="Judd Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58895"/>
+  </node>
+  <node id="-317" visible="true" lat="45.00142943" lon="-71.55396781">
+    <!-- conflict: "194 Judd Road, Canaan, VT" Fuzzy match to "194 Judd Road, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="194"/>
+    <tag k="addr:street" v="Judd Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58899"/>
+  </node>
+  <node id="-318" visible="true" lat="45.00125524" lon="-71.55600681">
+    <!-- conflict: "118 Judd Road, Canaan, VT" Fuzzy match to "118 Judd Road, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="Judd Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58900"/>
+  </node>
+  <node id="-321" visible="true" lat="45.00101575" lon="-71.55305236">
+    <!-- conflict: "215 Judd Road, Canaan, VT" Fuzzy match to "215 Judd Road, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Judd Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58903"/>
+  </node>
+  <node id="-343" visible="true" lat="45.00017424" lon="-71.55204008">
+    <!-- conflict: "287 Judd Road, Canaan, VT" Fuzzy match to "287 Judd Road, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="287"/>
+    <tag k="addr:street" v="Judd Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58925"/>
+  </node>
+  <node id="-452" visible="true" lat="44.99543832" lon="-71.53862841">
+    <!-- conflict: "6778 Vermont Route 102, Canaan, VT" Fuzzy match to "6778 Vermont Route 102, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="6778"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59047"/>
+  </node>
+  <node id="-453" visible="true" lat="44.99542328" lon="-71.53923282">
+    <!-- conflict: "5 Park Street, Canaan, VT" Fuzzy match to "5 Park Street, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Park Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59048"/>
+  </node>
+  <node id="-454" visible="true" lat="44.99566672" lon="-71.54223538">
+    <!-- conflict: "146 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "146 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="146"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59049"/>
+  </node>
+  <node id="-455" visible="true" lat="44.99549497" lon="-71.54194807">
+    <!-- conflict: "134 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "134 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59050"/>
+  </node>
+  <node id="-456" visible="true" lat="44.99543764" lon="-71.54165686">
+    <!-- conflict: "124 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "124 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59051"/>
+  </node>
+  <node id="-458" visible="true" lat="44.99526117" lon="-71.54092147">
+    <!-- conflict: "84 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "84 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59054"/>
+  </node>
+  <node id="-459" visible="true" lat="44.99515622" lon="-71.54242862">
+    <!-- conflict: "147 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "147 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59055"/>
+  </node>
+  <node id="-460" visible="true" lat="44.99519189" lon="-71.5387582">
+    <!-- conflict: "22 School Street, Canaan, VT" Fuzzy match to "22 School Street, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59056"/>
+  </node>
+  <node id="-461" visible="true" lat="44.99517432" lon="-71.54062211">
+    <!-- conflict: "70 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "70 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59057"/>
+  </node>
+  <node id="-462" visible="true" lat="44.99506568" lon="-71.53835883">
+    <!-- conflict: "40 School Street, Canaan, VT" Fuzzy match to "40 School Street, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59058"/>
+  </node>
+  <node id="-463" visible="true" lat="44.99508285" lon="-71.54215616">
+    <!-- conflict: "137 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "137 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="137"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59059"/>
+  </node>
+  <node id="-464" visible="true" lat="44.99505984" lon="-71.54033059">
+    <!-- conflict: "54 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "54 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59060"/>
+  </node>
+  <node id="-465" visible="true" lat="44.99503149" lon="-71.54185601">
+    <!-- conflict: "121 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "121 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59061"/>
+  </node>
+  <node id="-467" visible="true" lat="44.99503916" lon="-71.54005864">
+    <!-- conflict: "34 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "34 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59063"/>
+  </node>
+  <node id="-468" visible="true" lat="44.99496833" lon="-71.54148041">
+    <!-- conflict: "101 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "101 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59064"/>
+  </node>
+  <node id="-469" visible="true" lat="44.99485436" lon="-71.54118643">
+    <!-- conflict: "85 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "85 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59065"/>
+  </node>
+  <node id="-470" visible="true" lat="44.99488201" lon="-71.5396763">
+    <!-- conflict: "18 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "18 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59066"/>
+  </node>
+  <node id="-472" visible="true" lat="44.99479642" lon="-71.54085336">
+    <!-- conflict: "71 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "71 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59068"/>
+  </node>
+  <node id="-473" visible="true" lat="44.99469314" lon="-71.54052584">
+    <!-- conflict: "55 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "55 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59070"/>
+  </node>
+  <node id="-475" visible="true" lat="44.99459437" lon="-71.54019072">
+    <!-- conflict: "31 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "31 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59072"/>
+  </node>
+  <node id="-476" visible="true" lat="44.99426258" lon="-71.53992598">
+    <!-- conflict: "6681 Vermont Route 102, Canaan, VT" Fuzzy match to "6681 Vermont Route 102, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="6681"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59074"/>
+  </node>
+  <node id="-478" visible="true" lat="44.99412042" lon="-71.53947495">
+    <!-- conflict: "6672 Vermont Route 102, Canaan, VT" Fuzzy match to "6672 Vermont Route 102, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="6672"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59076"/>
+  </node>
+  <node id="-479" visible="true" lat="44.99388614" lon="-71.54020552">
+    <!-- conflict: "6651 Vermont Route 102, Canaan, VT" Fuzzy match to "6651 Vermont Route 102, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="6651"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59077"/>
+  </node>
+  <node id="-480" visible="true" lat="44.99369886" lon="-71.5397606">
+    <!-- conflict: "6646 Vermont Route 102, Canaan, VT" Fuzzy match to "6646 Vermont Route 102, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="6646"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59078"/>
+  </node>
+  <node id="-481" visible="true" lat="44.9935075" lon="-71.53987557">
+    <!-- conflict: "6624 Vermont Route 102, Canaan, VT" Fuzzy match to "6624 Vermont Route 102, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="6624"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59080"/>
   </node>
   <node id="-612" visible="true" lat="45.00263611" lon="-71.52288169">
     <!-- conflict: "233 Vermont Route 253, Canaan, VT" No match in OSM, but a different address exists <5m away: "233 Vt Route 253, Canaan, VT" -->
@@ -240,6 +504,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752063"/>
   </node>
+  <node id="-1115" visible="true" lat="44.99531941" lon="-71.54129935">
+    <!-- conflict: "102 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "102 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764509"/>
+  </node>
+  <node id="-1116" visible="true" lat="44.99452872" lon="-71.5399071">
+    <!-- conflict: "21 Canaan Mobile Home Park, Canaan, VT" Fuzzy match to "21 Canaan Mobile Home Park, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Canaan Mobile Home Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764510"/>
+  </node>
   <node id="-1128" visible="true" lat="45.0084332" lon="-71.50878705">
     <!-- conflict: "1061 Vermont Route 253, Canaan, VT" No match in OSM, but a different address exists <5m away: "1061 Vt Route 253, Canaan, VT" -->
     <tag k="addr:city" v="Canaan"/>
@@ -255,6 +535,14 @@
     <tag k="addr:street" v="Vermont Route 253"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764537"/>
+  </node>
+  <node id="-1139" visible="true" lat="44.9936184" lon="-71.54046168">
+    <!-- conflict: "6623 Vermont Route 102, Canaan, VT" Fuzzy match to "6623 Vermont Route 102, , " -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="6623"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764538"/>
   </node>
   <node id="-1140" visible="true" lat="45.00856762" lon="-71.50782448">
     <!-- conflict: "1103 Vermont Route 253, Canaan, VT" No match in OSM, but a different address exists <5m away: "1103 Vt Route 253, Canaan, VT" -->

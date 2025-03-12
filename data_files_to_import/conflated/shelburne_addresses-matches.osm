@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-162" visible="true" lat="44.42069576" lon="-73.21280192">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="2386"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220328"/>
+  </node>
+  <node id="-171" visible="true" lat="44.4200418" lon="-73.21168295">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="2427"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220338"/>
+  </node>
   <node id="-181" visible="true" lat="44.41941883" lon="-73.21143576">
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="2455"/>
     <tag k="addr:street" v="Shelburne Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="220352"/>
+  </node>
+  <node id="-188" visible="true" lat="44.41896057" lon="-73.21509551">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Pine Haven Shores Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220360"/>
+  </node>
+  <node id="-203" visible="true" lat="44.41796353" lon="-73.25643971">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="3393"/>
+    <tag k="addr:street" v="Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220378"/>
   </node>
   <node id="-204" visible="true" lat="44.41811926" lon="-73.213321">
     <tag k="addr:city" v="Shelburne"/>
@@ -28,12 +56,83 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="220392"/>
   </node>
+  <node id="-218" visible="true" lat="44.41764483" lon="-73.20915976">
+    <!-- match: "241 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "241 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="241"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220396"/>
+  </node>
+  <node id="-220" visible="true" lat="44.41757425" lon="-73.20959617">
+    <!-- match: "213 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "213 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="213"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220398"/>
+  </node>
+  <node id="-223" visible="true" lat="44.41751112" lon="-73.21011899">
+    <!-- match: "183 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "183 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220402"/>
+  </node>
+  <node id="-236" visible="true" lat="44.4171154" lon="-73.20923413">
+    <!-- match: "230 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "230 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220417"/>
+  </node>
+  <node id="-237" visible="true" lat="44.41703892" lon="-73.20965653">
+    <!-- match: "200 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "200 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220418"/>
+  </node>
+  <node id="-249" visible="true" lat="44.41677221" lon="-73.21017689">
+    <!-- match: "150 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "150 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220430"/>
+  </node>
   <node id="-257" visible="true" lat="44.41665383" lon="-73.21258186">
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="2659"/>
     <tag k="addr:street" v="Shelburne Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="220440"/>
+  </node>
+  <node id="-278" visible="true" lat="44.41643102" lon="-73.21047354">
+    <!-- match: "120 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "120 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220463"/>
+  </node>
+  <node id="-285" visible="true" lat="44.41640517" lon="-73.21109986">
+    <!-- match: "110 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "110 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220472"/>
+  </node>
+  <node id="-477" visible="true" lat="44.41327875" lon="-73.21471192">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="2916"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220686"/>
   </node>
   <node id="-621" visible="true" lat="44.41102218" lon="-73.21452331">
     <tag k="addr:city" v="Shelburne"/>
@@ -49,12 +148,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="220863"/>
   </node>
+  <node id="-701" visible="true" lat="44.40951919" lon="-73.21590423">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="3182"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220934"/>
+  </node>
+  <node id="-712" visible="true" lat="44.40925488" lon="-73.21604683">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="3198"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="220947"/>
+  </node>
   <node id="-730" visible="true" lat="44.4087677" lon="-73.21468353">
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="3229"/>
     <tag k="addr:street" v="Shelburne Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="220969"/>
+  </node>
+  <node id="-811" visible="true" lat="44.40468978" lon="-73.22235107">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:street" v="Mariners Cove"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="221071"/>
   </node>
   <node id="-828" visible="true" lat="44.40344619" lon="-73.2178421">
     <tag k="addr:city" v="Shelburne"/>
@@ -1974,6 +2094,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="221487"/>
   </node>
+  <node id="-1171" visible="true" lat="44.39430236" lon="-73.22000884">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="4253"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="221489"/>
+  </node>
   <node id="-1175" visible="true" lat="44.39411926" lon="-73.21243286">
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="95"/>
@@ -1987,6 +2114,13 @@
     <tag k="addr:street" v="Quail Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="221496"/>
+  </node>
+  <node id="-1177" visible="true" lat="44.39407606" lon="-73.22012539">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="4281"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="221497"/>
   </node>
   <node id="-1179" visible="true" lat="44.39382553" lon="-73.21187591">
     <tag k="addr:city" v="Shelburne"/>
@@ -2072,26 +2206,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="221538"/>
   </node>
-  <node id="-1212" visible="true" lat="44.39201885" lon="-73.22067107">
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="4405"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221541"/>
-  </node>
   <node id="-1220" visible="true" lat="44.3916733" lon="-73.21875812">
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="139"/>
     <tag k="addr:street" v="Hoes Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="221550"/>
-  </node>
-  <node id="-1224" visible="true" lat="44.3914833" lon="-73.22040557">
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Hoes Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221554"/>
   </node>
   <node id="-1236" visible="true" lat="44.39073944" lon="-73.25623321">
     <tag k="addr:city" v="Shelburne"/>
@@ -2548,6 +2668,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="221826"/>
   </node>
+  <node id="-1452" visible="true" lat="44.38239288" lon="-73.13822174">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="6637"/>
+    <tag k="addr:street" v="Vermont Route 116"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="221831"/>
+  </node>
   <node id="-1461" visible="true" lat="44.38177108" lon="-73.22886657">
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="53"/>
@@ -2568,13 +2695,6 @@
     <tag k="addr:street" v="Railroad Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="221851"/>
-  </node>
-  <node id="-1472" visible="true" lat="44.38155365" lon="-73.23723602">
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="School Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221852"/>
   </node>
   <node id="-1477" visible="true" lat="44.38159179" lon="-73.22812652">
     <tag k="addr:city" v="Shelburne"/>
@@ -2695,6 +2815,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="221891"/>
   </node>
+  <node id="-1508" visible="true" lat="44.38096298" lon="-73.23843389">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="171"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="221892"/>
+  </node>
   <node id="-1512" visible="true" lat="44.38094558" lon="-73.23111449">
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="177"/>
@@ -2744,12 +2871,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="221905"/>
   </node>
+  <node id="-1519" visible="true" lat="44.38081381" lon="-73.23687042">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="221906"/>
+  </node>
   <node id="-1520" visible="true" lat="44.38068389" lon="-73.23031616">
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:street" v="Cottage Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="221908"/>
+  </node>
+  <node id="-1522" visible="true" lat="44.38052671" lon="-73.23904881">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="221910"/>
+  </node>
+  <node id="-1524" visible="true" lat="44.38068893" lon="-73.23820132">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="221912"/>
   </node>
   <node id="-1526" visible="true" lat="44.3806991" lon="-73.22876535">
     <tag k="addr:city" v="Shelburne"/>
@@ -2786,12 +2934,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="221924"/>
   </node>
+  <node id="-1535" visible="true" lat="44.38032628" lon="-73.23876781">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="221927"/>
+  </node>
   <node id="-1537" visible="true" lat="44.38024811" lon="-73.23071377">
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="84"/>
     <tag k="addr:street" v="Village Vale Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="221929"/>
+  </node>
+  <node id="-1539" visible="true" lat="44.3801129" lon="-73.23814473">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="221931"/>
   </node>
   <node id="-1540" visible="true" lat="44.38017654" lon="-73.22886657">
     <tag k="addr:city" v="Shelburne"/>
@@ -3703,12 +3865,313 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="222145"/>
   </node>
+  <node id="-1744" visible="true" lat="44.37570571" lon="-73.22824859">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="435"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222156"/>
+  </node>
+  <node id="-1745" visible="true" lat="44.37564468" lon="-73.22795867">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="436"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222157"/>
+  </node>
+  <node id="-1746" visible="true" lat="44.3755455" lon="-73.22910308">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="5637"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222158"/>
+  </node>
+  <node id="-1750" visible="true" lat="44.37542343" lon="-73.22786712">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="434"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222163"/>
+  </node>
+  <node id="-1753" visible="true" lat="44.37527465" lon="-73.22862243">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="419"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222167"/>
+  </node>
+  <node id="-1754" visible="true" lat="44.37525558" lon="-73.22927093">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="5657"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222168"/>
+  </node>
+  <node id="-1757" visible="true" lat="44.3751831" lon="-73.2280426">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="424"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222171"/>
+  </node>
+  <node id="-1758" visible="true" lat="44.37496948" lon="-73.22871398">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="399"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222172"/>
+  </node>
+  <node id="-1760" visible="true" lat="44.3749237" lon="-73.22814178">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="404"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222174"/>
+  </node>
+  <node id="-1763" visible="true" lat="44.37482833" lon="-73.22937011">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="5689"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222177"/>
+  </node>
+  <node id="-1764" visible="true" lat="44.37470245" lon="-73.22821807">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="388"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222179"/>
+  </node>
+  <node id="-1765" visible="true" lat="44.37466049" lon="-73.2288208">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="379"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222180"/>
+  </node>
+  <node id="-1766" visible="true" lat="44.37449201" lon="-73.22946829">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="5703"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222181"/>
+  </node>
+  <node id="-1768" visible="true" lat="44.37440872" lon="-73.2282257">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="366"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222183"/>
+  </node>
+  <node id="-1769" visible="true" lat="44.37438583" lon="-73.22885894">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="361"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222184"/>
+  </node>
+  <node id="-1771" visible="true" lat="44.37428283" lon="-73.22949218">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="5727"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222187"/>
+  </node>
+  <node id="-1778" visible="true" lat="44.37410736" lon="-73.22825622">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="344"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222194"/>
+  </node>
+  <node id="-1780" visible="true" lat="44.37405395" lon="-73.22885894">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="339"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222196"/>
+  </node>
+  <node id="-1781" visible="true" lat="44.37400436" lon="-73.2296524">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="5747"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222197"/>
+  </node>
+  <node id="-1788" visible="true" lat="44.37381744" lon="-73.22969055">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="5763"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222205"/>
+  </node>
+  <node id="-1789" visible="true" lat="44.37371835" lon="-73.22891056">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222206"/>
+  </node>
+  <node id="-1790" visible="true" lat="44.37378311" lon="-73.22823333">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="322"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222207"/>
+  </node>
+  <node id="-1792" visible="true" lat="44.37349602" lon="-73.22814509">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:street" v="Hillside Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222211"/>
+  </node>
+  <node id="-1799" visible="true" lat="44.37330246" lon="-73.2289505">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222221"/>
+  </node>
+  <node id="-1802" visible="true" lat="44.37307882" lon="-73.22816">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222225"/>
+  </node>
+  <node id="-1945" visible="true" lat="44.37049375" lon="-73.25552076">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="826"/>
+    <tag k="addr:street" v="Bostwick Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222384"/>
+  </node>
   <node id="-2034" visible="true" lat="44.36960378" lon="-73.23439316">
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="122"/>
     <tag k="addr:street" v="Bostwick Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="222481"/>
+  </node>
+  <node id="-2049" visible="true" lat="44.3691101" lon="-73.22772979">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222497"/>
+  </node>
+  <node id="-2058" visible="true" lat="44.36893844" lon="-73.22811126">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222507"/>
+  </node>
+  <node id="-2063" visible="true" lat="44.3686943" lon="-73.2517395">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="485"/>
+    <tag k="addr:street" v="Bostwick Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222512"/>
+  </node>
+  <node id="-2074" visible="true" lat="44.3686676" lon="-73.22837829">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222525"/>
+  </node>
+  <node id="-2076" visible="true" lat="44.36863327" lon="-73.22767639">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222527"/>
+  </node>
+  <node id="-2089" visible="true" lat="44.36822499" lon="-73.22789011">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222541"/>
+  </node>
+  <node id="-2095" visible="true" lat="44.36816849" lon="-73.22868496">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222551"/>
+  </node>
+  <node id="-2104" visible="true" lat="44.367977" lon="-73.22810299">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222560"/>
+  </node>
+  <node id="-2109" visible="true" lat="44.36796022" lon="-73.22885068">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222565"/>
+  </node>
+  <node id="-2122" visible="true" lat="44.36774826" lon="-73.22895812">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222578"/>
+  </node>
+  <node id="-2123" visible="true" lat="44.36771816" lon="-73.22810815">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222579"/>
+  </node>
+  <node id="-2133" visible="true" lat="44.3674072" lon="-73.22802098">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="143"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222589"/>
+  </node>
+  <node id="-2137" visible="true" lat="44.36745834" lon="-73.22897338">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222593"/>
+  </node>
+  <node id="-2143" visible="true" lat="44.3672384" lon="-73.22833129">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222600"/>
+  </node>
+  <node id="-2148" visible="true" lat="44.36715555" lon="-73.22882622">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Steeplebush Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222605"/>
+  </node>
+  <node id="-2154" visible="true" lat="44.36692428" lon="-73.25234985">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="371"/>
+    <tag k="addr:street" v="Bostwick Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222611"/>
+  </node>
+  <node id="-2388" visible="true" lat="44.40859576" lon="-73.21649818">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="3240"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="222901"/>
   </node>
   <node id="-2389" visible="true" lat="44.41261741" lon="-73.2136798">
     <tag k="addr:city" v="Shelburne"/>
@@ -3745,19 +4208,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="222925"/>
   </node>
-  <node id="-2410" visible="true" lat="44.39124784" lon="-73.22485019">
+  <node id="-2412" visible="true" lat="44.38886395" lon="-73.22490199">
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="4750"/>
+    <tag k="addr:housenumber" v="4740"/>
     <tag k="addr:street" v="Shelburne Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="222926"/>
-  </node>
-  <node id="-2411" visible="true" lat="44.39011149" lon="-73.22485038">
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="4744"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="222928"/>
+    <tag k="ref:vcgi:esiteid" v="222930"/>
   </node>
   <node id="-2413" visible="true" lat="44.38678088" lon="-73.22258046">
     <tag k="addr:city" v="Shelburne"/>
@@ -3849,6 +4305,13 @@
     <tag k="addr:street" v="Thrush Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223044"/>
+  </node>
+  <node id="-2507" visible="true" lat="44.3614607" lon="-73.22993674">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="6655"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223047"/>
   </node>
   <node id="-2509" visible="true" lat="44.38749313" lon="-73.22317504">
     <tag k="addr:city" v="Shelburne"/>
@@ -3990,6 +4453,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223116"/>
   </node>
+  <node id="-2586" visible="true" lat="44.40943569" lon="-73.21776844">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Champlain Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223127"/>
+  </node>
   <node id="-2594" visible="true" lat="44.38558914" lon="-73.22358794">
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="140"/>
@@ -4010,6 +4480,13 @@
     <tag k="addr:street" v="Drew Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223144"/>
+  </node>
+  <node id="-2609" visible="true" lat="44.41907318" lon="-73.25517135">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="3391"/>
+    <tag k="addr:street" v="Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223150"/>
   </node>
   <node id="-2613" visible="true" lat="44.39982327" lon="-73.20378183">
     <tag k="addr:city" v="Shelburne"/>
@@ -4073,6 +4550,13 @@
     <tag k="addr:street" v="Drew Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223164"/>
+  </node>
+  <node id="-2672" visible="true" lat="44.36960787" lon="-73.25657974">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="870"/>
+    <tag k="addr:street" v="Bostwick Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223213"/>
   </node>
   <node id="-2704" visible="true" lat="44.3874598" lon="-73.21991514">
     <tag k="addr:city" v="Shelburne"/>
@@ -4165,6 +4649,310 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223262"/>
   </node>
+  <node id="-2743" visible="true" lat="44.38084601" lon="-73.23697305">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223287"/>
+  </node>
+  <node id="-2744" visible="true" lat="44.38090789" lon="-73.23717828">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223288"/>
+  </node>
+  <node id="-2745" visible="true" lat="44.38094761" lon="-73.23729158">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223289"/>
+  </node>
+  <node id="-2746" visible="true" lat="44.38064664" lon="-73.23809503">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223290"/>
+  </node>
+  <node id="-2747" visible="true" lat="44.38057467" lon="-73.23788615">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223291"/>
+  </node>
+  <node id="-2748" visible="true" lat="44.38053746" lon="-73.23777641">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="146"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223292"/>
+  </node>
+  <node id="-2749" visible="true" lat="44.3801298" lon="-73.23826831">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223293"/>
+  </node>
+  <node id="-2750" visible="true" lat="44.38017127" lon="-73.23850149">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223294"/>
+  </node>
+  <node id="-2751" visible="true" lat="44.38018557" lon="-73.23863561">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223295"/>
+  </node>
+  <node id="-2752" visible="true" lat="44.38035088" lon="-73.23887387">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223296"/>
+  </node>
+  <node id="-2753" visible="true" lat="44.38099514" lon="-73.23854357">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223297"/>
+  </node>
+  <node id="-2754" visible="true" lat="44.38105719" lon="-73.2387206">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223298"/>
+  </node>
+  <node id="-2755" visible="true" lat="44.3810993" lon="-73.23885508">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223299"/>
+  </node>
+  <node id="-2756" visible="true" lat="44.38056123" lon="-73.23918319">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223300"/>
+  </node>
+  <node id="-2757" visible="true" lat="44.3806083" lon="-73.23933184">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223301"/>
+  </node>
+  <node id="-2758" visible="true" lat="44.38065797" lon="-73.23946994">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Creekside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223302"/>
+  </node>
+  <node id="-2759" visible="true" lat="44.41638776" lon="-73.21101053">
+    <!-- match: "112 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "112 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223303"/>
+  </node>
+  <node id="-2760" visible="true" lat="44.41638844" lon="-73.21090192">
+    <!-- match: "114 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "114 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223304"/>
+  </node>
+  <node id="-2761" visible="true" lat="44.41637103" lon="-73.21081259">
+    <!-- match: "116 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "116 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223305"/>
+  </node>
+  <node id="-2762" visible="true" lat="44.41647733" lon="-73.21041005">
+    <!-- match: "122 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "122 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223306"/>
+  </node>
+  <node id="-2763" visible="true" lat="44.41654753" lon="-73.2103552">
+    <!-- match: "124 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "124 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223307"/>
+  </node>
+  <node id="-2764" visible="true" lat="44.41660186" lon="-73.21028623">
+    <!-- match: "126 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "126 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223308"/>
+  </node>
+  <node id="-2765" visible="true" lat="44.41684026" lon="-73.21014708">
+    <!-- match: "152 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "152 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="152"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223309"/>
+  </node>
+  <node id="-2766" visible="true" lat="44.41691027" lon="-73.21012286">
+    <!-- match: "154 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "154 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223310"/>
+  </node>
+  <node id="-2767" visible="true" lat="44.41697841" lon="-73.21007913">
+    <!-- match: "156 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "156 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223311"/>
+  </node>
+  <node id="-2768" visible="true" lat="44.41752372" lon="-73.21001889">
+    <!-- match: "185 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "185 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223312"/>
+  </node>
+  <node id="-2769" visible="true" lat="44.41751844" lon="-73.20990463">
+    <!-- match: "187 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "187 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223313"/>
+  </node>
+  <node id="-2770" visible="true" lat="44.41752908" lon="-73.20979893">
+    <!-- match: "189 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "189 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="189"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223314"/>
+  </node>
+  <node id="-2771" visible="true" lat="44.41704951" lon="-73.20955918">
+    <!-- match: "202 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "202 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="202"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223315"/>
+  </node>
+  <node id="-2772" visible="true" lat="44.41707802" lon="-73.20946762">
+    <!-- match: "204 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "204 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223316"/>
+  </node>
+  <node id="-2773" visible="true" lat="44.41710053" lon="-73.20937877">
+    <!-- match: "206 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "206 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="206"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223317"/>
+  </node>
+  <node id="-2774" visible="true" lat="44.41712809" lon="-73.2091201">
+    <!-- match: "232 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "232 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="232"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223318"/>
+  </node>
+  <node id="-2775" visible="true" lat="44.4171607" lon="-73.20901187">
+    <!-- match: "234 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "234 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="234"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223319"/>
+  </node>
+  <node id="-2776" visible="true" lat="44.41717538" lon="-73.20889786">
+    <!-- match: "236 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "236 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="236"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223320"/>
+  </node>
+  <node id="-2777" visible="true" lat="44.41758678" lon="-73.2095072">
+    <!-- match: "215 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "215 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223321"/>
+  </node>
+  <node id="-2778" visible="true" lat="44.4175953" lon="-73.20942096">
+    <!-- match: "217 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "217 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223322"/>
+  </node>
+  <node id="-2779" visible="true" lat="44.41760184" lon="-73.20933192">
+    <!-- match: "219 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "219 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223323"/>
+  </node>
+  <node id="-2780" visible="true" lat="44.41765543" lon="-73.20905963">
+    <!-- match: "243 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "243 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="243"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223324"/>
+  </node>
+  <node id="-2781" visible="true" lat="44.41765421" lon="-73.20893429">
+    <!-- match: "245 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "245 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223325"/>
+  </node>
+  <node id="-2782" visible="true" lat="44.41766483" lon="-73.20883137">
+    <!-- match: "247 Martindale Road, Shelburne, VT"  ignoring missing state when matching to "247 Martindale Road, Shelburne, " -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="247"/>
+    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223326"/>
+  </node>
   <node id="-2798" visible="true" lat="44.38183267" lon="-73.22949561">
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="108"/>
@@ -4214,20 +5002,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337454"/>
   </node>
-  <node id="-3113" visible="true" lat="44.40268116" lon="-73.21874553">
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="3708"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="340023"/>
-  </node>
-  <node id="-3231" visible="true" lat="44.37010395" lon="-73.24753505">
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="197"/>
-    <tag k="addr:street" v="Limerick Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450181"/>
-  </node>
   <node id="-3246" visible="true" lat="44.3990772" lon="-73.20253229">
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="113"/>
@@ -4241,5 +5015,82 @@
     <tag k="addr:street" v="Webster Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452951"/>
+  </node>
+  <node id="-3298" visible="true" lat="44.38970236" lon="-73.23029064">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="4760"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613597"/>
+  </node>
+  <node id="-3299" visible="true" lat="44.39017481" lon="-73.23030601">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="4762"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613598"/>
+  </node>
+  <node id="-3307" visible="true" lat="44.39293235" lon="-73.22294386">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Shagbark Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617941"/>
+  </node>
+  <node id="-3308" visible="true" lat="44.39401601" lon="-73.2235854">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="181"/>
+    <tag k="addr:street" v="Shagbark Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617942"/>
+  </node>
+  <node id="-3309" visible="true" lat="44.39460384" lon="-73.22316682">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="225"/>
+    <tag k="addr:street" v="Shagbark Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617943"/>
+  </node>
+  <node id="-3310" visible="true" lat="44.39502896" lon="-73.22313006">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="263"/>
+    <tag k="addr:street" v="Shagbark Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617944"/>
+  </node>
+  <node id="-3311" visible="true" lat="44.39559544" lon="-73.22308953">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="269"/>
+    <tag k="addr:street" v="Shagbark Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617945"/>
+  </node>
+  <node id="-3316" visible="true" lat="44.38604016" lon="-73.24235547">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="862"/>
+    <tag k="addr:street" v="Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620736"/>
+  </node>
+  <node id="-3402" visible="true" lat="44.39197887" lon="-73.22291115">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Shagbark Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754122"/>
+  </node>
+  <node id="-3403" visible="true" lat="44.39201791" lon="-73.22351436">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:street" v="Shagbark Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754123"/>
+  </node>
+  <node id="-3547" visible="true" lat="44.37369651" lon="-73.23689471">
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="387"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760213"/>
   </node>
 </osm>

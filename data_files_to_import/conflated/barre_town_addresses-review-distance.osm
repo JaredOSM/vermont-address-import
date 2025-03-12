@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-1302" visible="true" lat="44.18511962" lon="-72.47872161">
-    <!-- offset: "21 Ridgewood Terrace, , VT" Significant offset - 150.7m -->
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Ridgewood Terrace"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="12135"/>
-  </node>
-  <node id="-1851" visible="true" lat="44.16815012" lon="-72.48560304">
-    <!-- offset: "70 Websterville Road, , VT" Significant offset - 353.5m -->
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Websterville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="12735"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-2089" visible="true" lat="44.16132887" lon="-72.45189272">
     <!-- offset: "21 High Street, , VT" Significant offset - 8321.6m -->
     <tag k="addr:housenumber" v="21"/>
@@ -21,19 +7,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="12988"/>
   </node>
+  <node id="-2152" visible="true" lat="44.16053009" lon="-72.45256805">
+    <!-- offset: "19 Garden Street, , VT" Significant offset - 4452m -->
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Garden Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="13057"/>
+  </node>
+  <node id="-2166" visible="true" lat="44.16039276" lon="-72.45235443">
+    <!-- offset: "15 Garden Street, , VT" Significant offset - 4497.5m -->
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Garden Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="13073"/>
+  </node>
   <node id="-2212" visible="true" lat="44.15982413" lon="-72.45407766">
-    <!-- offset: "19 Church Street, , VT" Significant offset - 5527.8m -->
+    <!-- offset: "19 Church Street, , VT" Significant offset - 5518.5m -->
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:street" v="Church Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="13124"/>
   </node>
-  <node id="-2355" visible="true" lat="44.15784522" lon="-72.45137498">
-    <!-- offset: "6 Waterman Street, , VT" Significant offset - 4674.1m -->
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Waterman Street"/>
+  <node id="-2298" visible="true" lat="44.15875244" lon="-72.46857452">
+    <!-- offset: "72 Brook Street, , VT" Significant offset - 6064.3m -->
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Brook Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="13280"/>
+    <tag k="ref:vcgi:esiteid" v="13220"/>
   </node>
   <node id="-2388" visible="true" lat="44.15739342" lon="-72.46939236">
     <!-- offset: "50 Brook Street, , VT" Significant offset - 6989.6m -->
@@ -42,40 +42,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="13316"/>
   </node>
-  <node id="-2429" visible="true" lat="44.15685584" lon="-72.45165746">
-    <!-- offset: "19 Waterman Street, , VT" Significant offset - 4742.7m -->
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Waterman Street"/>
+  <node id="-2734" visible="true" lat="44.14885813" lon="-72.49067598">
+    <!-- offset: "28 Pearl Street, , VT" Significant offset - 5691m -->
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Pearl Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="13358"/>
+    <tag k="ref:vcgi:esiteid" v="13693"/>
   </node>
-  <node id="-2453" visible="true" lat="44.15630749" lon="-72.45214667">
-    <!-- offset: "27 Waterman Street, , VT" Significant offset - 4799.6m -->
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Waterman Street"/>
+  <node id="-2804" visible="true" lat="44.14228277" lon="-72.47164047">
+    <!-- offset: "4 Short Street, , VT" Significant offset - 7295.3m -->
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Short Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="13386"/>
+    <tag k="ref:vcgi:esiteid" v="13767"/>
   </node>
   <node id="-2940" visible="true" lat="44.23197405" lon="-72.47817547">
-    <!-- offset: "89 Mitchell Road, , VT" Significant offset - 114.5m -->
+    <!-- offset: "89 Mitchell Road, , VT" Significant offset - 112.5m -->
     <tag k="addr:housenumber" v="89"/>
     <tag k="addr:street" v="Mitchell Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="13911"/>
   </node>
   <node id="-3121" visible="true" lat="44.23299115" lon="-72.47805147">
-    <!-- offset: "91 Mitchell Road, , VT" Significant offset - 113.1m -->
+    <!-- offset: "91 Mitchell Road, , VT" Significant offset - 112.7m -->
     <tag k="addr:housenumber" v="91"/>
     <tag k="addr:street" v="Mitchell Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="14099"/>
   </node>
   <node id="-3444" visible="true" lat="44.23438102" lon="-72.48795829">
-    <!-- offset: "575 East Montpelier Road, , VT" Significant offset - 124.5m -->
+    <!-- offset: "575 East Montpelier Road, , VT" Significant offset - 123.7m -->
     <tag k="addr:housenumber" v="575"/>
     <tag k="addr:street" v="East Montpelier Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451325"/>
+  </node>
+  <node id="-3469" visible="true" lat="44.18404098" lon="-72.50835591">
+    <!-- offset: "3 Wallace Road, , VT" Significant offset - 104.2m -->
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Wallace Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="453109"/>
   </node>
   <node id="-3744" visible="true" lat="44.16966186" lon="-72.50730569">
     <!-- offset: "596 South Barre Road, , VT" Significant offset - 102.6m -->

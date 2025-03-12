@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.0068311" lon="-73.15527617">
     <tag k="addr:housenumber" v="5654"/>
     <tag k="addr:street" v="East Road"/>
@@ -312,6 +312,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217480"/>
   </node>
+  <node id="-205" visible="true" lat="43.00982468" lon="-73.19584317">
+    <tag k="addr:housenumber" v="5529"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217482"/>
+  </node>
   <node id="-207" visible="true" lat="43.00972366" lon="-73.19049072">
     <tag k="addr:housenumber" v="314"/>
     <tag k="addr:street" v="Old Depot Road"/>
@@ -330,11 +336,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217488"/>
   </node>
+  <node id="-212" visible="true" lat="43.0087244" lon="-73.19423437">
+    <tag k="addr:housenumber" v="5414"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217489"/>
+  </node>
   <node id="-213" visible="true" lat="43.00855054" lon="-73.19149852">
     <tag k="addr:housenumber" v="192"/>
     <tag k="addr:street" v="Old Depot Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217490"/>
+  </node>
+  <node id="-214" visible="true" lat="43.00857963" lon="-73.19702743">
+    <tag k="addr:housenumber" v="5451"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217491"/>
   </node>
   <node id="-216" visible="true" lat="43.00854348" lon="-73.17296866">
     <tag k="addr:housenumber" v="586"/>
@@ -408,6 +426,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217512"/>
   </node>
+  <node id="-236" visible="true" lat="43.0057138" lon="-73.19412813">
+    <tag k="addr:housenumber" v="5206"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217513"/>
+  </node>
+  <node id="-242" visible="true" lat="43.00491714" lon="-73.19838714">
+    <tag k="addr:housenumber" v="5151"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217519"/>
+  </node>
   <node id="-245" visible="true" lat="43.00485914" lon="-73.18129988">
     <tag k="addr:housenumber" v="636"/>
     <tag k="addr:street" v="Dexter Road"/>
@@ -420,11 +450,41 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217523"/>
   </node>
+  <node id="-257" visible="true" lat="43.0039349" lon="-73.19609483">
+    <tag k="addr:housenumber" v="5085"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217535"/>
+  </node>
+  <node id="-260" visible="true" lat="43.00365591" lon="-73.19534882">
+    <tag k="addr:housenumber" v="5096"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217538"/>
+  </node>
   <node id="-262" visible="true" lat="43.0038948" lon="-73.15721893">
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Glastenbury Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217540"/>
+  </node>
+  <node id="-263" visible="true" lat="43.00361356" lon="-73.19650031">
+    <tag k="addr:housenumber" v="5055"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217541"/>
+  </node>
+  <node id="-264" visible="true" lat="43.00349518" lon="-73.19580101">
+    <tag k="addr:housenumber" v="5072"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217542"/>
+  </node>
+  <node id="-267" visible="true" lat="43.00330865" lon="-73.19661981">
+    <tag k="addr:housenumber" v="5037"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217545"/>
   </node>
   <node id="-271" visible="true" lat="43.00296843" lon="-73.16813941">
     <tag k="addr:housenumber" v="2725"/>
@@ -438,6 +498,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217555"/>
   </node>
+  <node id="-280" visible="true" lat="43.00204796" lon="-73.19808641">
+    <tag k="addr:housenumber" v="4929"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217558"/>
+  </node>
+  <node id="-282" visible="true" lat="43.00187517" lon="-73.19792285">
+    <tag k="addr:housenumber" v="4919"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217560"/>
+  </node>
   <node id="-287" visible="true" lat="43.00165462" lon="-73.19039095">
     <tag k="addr:housenumber" v="1688"/>
     <tag k="addr:street" v="Hidden Valley Road"/>
@@ -449,6 +521,12 @@
     <tag k="addr:street" v="Hidden Valley Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217567"/>
+  </node>
+  <node id="-291" visible="true" lat="43.00101225" lon="-73.19868159">
+    <tag k="addr:housenumber" v="4847"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217569"/>
   </node>
   <node id="-294" visible="true" lat="43.00077364" lon="-73.19101791">
     <tag k="addr:housenumber" v="1707"/>
@@ -474,6 +552,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217578"/>
   </node>
+  <node id="-301" visible="true" lat="43.00014722" lon="-73.20042007">
+    <tag k="addr:housenumber" v="4739"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217579"/>
+  </node>
   <node id="-302" visible="true" lat="43.00023792" lon="-73.18859882">
     <tag k="addr:housenumber" v="1525"/>
     <tag k="addr:street" v="Hidden Valley Road"/>
@@ -497,6 +581,12 @@
     <tag k="addr:street" v="East Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217584"/>
+  </node>
+  <node id="-307" visible="true" lat="42.99977093" lon="-73.19908695">
+    <tag k="addr:housenumber" v="4766"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217585"/>
   </node>
   <node id="-309" visible="true" lat="42.99966346" lon="-73.18792341">
     <tag k="addr:housenumber" v="1475"/>
@@ -528,6 +618,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217591"/>
   </node>
+  <node id="-314" visible="true" lat="42.99954374" lon="-73.19935082">
+    <tag k="addr:housenumber" v="4738"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217592"/>
+  </node>
   <node id="-315" visible="true" lat="42.99947738" lon="-73.17063903">
     <tag k="addr:housenumber" v="2445"/>
     <tag k="addr:street" v="Cider Mill Road"/>
@@ -551,6 +647,12 @@
     <tag k="addr:street" v="Middle Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217597"/>
+  </node>
+  <node id="-320" visible="true" lat="42.99903737" lon="-73.19932448">
+    <tag k="addr:housenumber" v="4714"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217598"/>
   </node>
   <node id="-321" visible="true" lat="42.99911499" lon="-73.17111205">
     <tag k="addr:housenumber" v="2399"/>
@@ -576,11 +678,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217605"/>
   </node>
+  <node id="-329" visible="true" lat="42.99844346" lon="-73.20017378">
+    <tag k="addr:housenumber" v="4658"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217607"/>
+  </node>
   <node id="-330" visible="true" lat="42.99846822" lon="-73.18673315">
     <tag k="addr:housenumber" v="1386"/>
     <tag k="addr:street" v="Hidden Valley Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217608"/>
+  </node>
+  <node id="-331" visible="true" lat="42.99835205" lon="-73.20159149">
+    <tag k="addr:housenumber" v="4617"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217609"/>
   </node>
   <node id="-332" visible="true" lat="42.99838279" lon="-73.19140036">
     <tag k="addr:housenumber" v="83"/>
@@ -606,6 +720,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217615"/>
   </node>
+  <node id="-338" visible="true" lat="42.9976387" lon="-73.20192718">
+    <tag k="addr:housenumber" v="4611"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217616"/>
+  </node>
   <node id="-343" visible="true" lat="42.99739047" lon="-73.191664">
     <tag k="addr:housenumber" v="132"/>
     <tag k="addr:street" v="Middle Road"/>
@@ -617,6 +737,12 @@
     <tag k="addr:street" v="Middle Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217622"/>
+  </node>
+  <node id="-345" visible="true" lat="42.9973178" lon="-73.20066671">
+    <tag k="addr:housenumber" v="4558"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217623"/>
   </node>
   <node id="-346" visible="true" lat="42.99728416" lon="-73.18801522">
     <tag k="addr:housenumber" v="1283"/>
@@ -666,6 +792,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217631"/>
   </node>
+  <node id="-354" visible="true" lat="42.99641155" lon="-73.20102284">
+    <tag k="addr:housenumber" v="4492"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217632"/>
+  </node>
   <node id="-358" visible="true" lat="42.99633015" lon="-73.18733622">
     <tag k="addr:housenumber" v="1208"/>
     <tag k="addr:street" v="Hidden Valley Road"/>
@@ -677,6 +809,12 @@
     <tag k="addr:street" v="Hidden Valley Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217637"/>
+  </node>
+  <node id="-361" visible="true" lat="42.99579763" lon="-73.20278733">
+    <tag k="addr:housenumber" v="4433"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217639"/>
   </node>
   <node id="-363" visible="true" lat="42.99576962" lon="-73.19472686">
     <tag k="addr:housenumber" v="606"/>
@@ -714,6 +852,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217651"/>
   </node>
+  <node id="-374" visible="true" lat="42.99503734" lon="-73.20192934">
+    <tag k="addr:housenumber" v="4392"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217652"/>
+  </node>
+  <node id="-375" visible="true" lat="42.99492263" lon="-73.20287323">
+    <tag k="addr:housenumber" v="4379"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217653"/>
+  </node>
   <node id="-376" visible="true" lat="42.99497487" lon="-73.19317976">
     <tag k="addr:housenumber" v="617"/>
     <tag k="addr:street" v="Hidden Valley Road"/>
@@ -732,6 +882,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217660"/>
   </node>
+  <node id="-383" visible="true" lat="42.99425254" lon="-73.20368114">
+    <tag k="addr:housenumber" v="4325"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217661"/>
+  </node>
+  <node id="-386" visible="true" lat="42.99387716" lon="-73.20186405">
+    <tag k="addr:housenumber" v="4330"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217664"/>
+  </node>
   <node id="-387" visible="true" lat="42.994059" lon="-73.19511934">
     <tag k="addr:housenumber" v="680"/>
     <tag k="addr:street" v="Hidden Valley Road"/>
@@ -749,6 +911,24 @@
     <tag k="addr:street" v="Hidden Valley Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217667"/>
+  </node>
+  <node id="-390" visible="true" lat="42.99365844" lon="-73.20286925">
+    <tag k="addr:housenumber" v="4300"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217668"/>
+  </node>
+  <node id="-391" visible="true" lat="42.99365383" lon="-73.20372903">
+    <tag k="addr:housenumber" v="4283"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217669"/>
+  </node>
+  <node id="-395" visible="true" lat="42.9932133" lon="-73.20398523">
+    <tag k="addr:housenumber" v="4251"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217673"/>
   </node>
   <node id="-396" visible="true" lat="42.99331106" lon="-73.19494669">
     <tag k="addr:housenumber" v="60"/>
@@ -791,6 +971,12 @@
     <tag k="addr:street" v="Cedar Circle"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217682"/>
+  </node>
+  <node id="-405" visible="true" lat="42.99235076" lon="-73.20350928">
+    <tag k="addr:housenumber" v="4202"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217683"/>
   </node>
   <node id="-406" visible="true" lat="42.99268182" lon="-73.15269898">
     <tag k="addr:housenumber" v="4578"/>
@@ -876,11 +1062,59 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217702"/>
   </node>
+  <node id="-425" visible="true" lat="42.9884341" lon="-73.20604483">
+    <tag k="addr:housenumber" v="3906"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217703"/>
+  </node>
   <node id="-427" visible="true" lat="42.98837661" lon="-73.18104553">
     <tag k="addr:housenumber" v="1467"/>
     <tag k="addr:street" v="Cider Mill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217705"/>
+  </node>
+  <node id="-428" visible="true" lat="42.9881134" lon="-73.20677184">
+    <tag k="addr:housenumber" v="3871"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217706"/>
+  </node>
+  <node id="-429" visible="true" lat="42.98802118" lon="-73.20625597">
+    <tag k="addr:housenumber" v="3868"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217707"/>
+  </node>
+  <node id="-430" visible="true" lat="42.98802926" lon="-73.14306385">
+    <tag k="addr:housenumber" v="2363"/>
+    <tag k="addr:street" v="Glastenbury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217708"/>
+  </node>
+  <node id="-431" visible="true" lat="42.98744947" lon="-73.20693377">
+    <tag k="addr:housenumber" v="3829"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217709"/>
+  </node>
+  <node id="-434" visible="true" lat="42.98730361" lon="-73.20531055">
+    <tag k="addr:housenumber" v="3842"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217712"/>
+  </node>
+  <node id="-436" visible="true" lat="42.98743793" lon="-73.14508037">
+    <tag k="addr:housenumber" v="2494"/>
+    <tag k="addr:street" v="Glastenbury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217714"/>
+  </node>
+  <node id="-437" visible="true" lat="42.98694761" lon="-73.20689352">
+    <tag k="addr:housenumber" v="3795"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217715"/>
   </node>
   <node id="-438" visible="true" lat="42.98686392" lon="-73.18045788">
     <tag k="addr:housenumber" v="1386"/>
@@ -888,17 +1122,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217716"/>
   </node>
+  <node id="-440" visible="true" lat="42.98717638" lon="-73.14520353">
+    <tag k="addr:housenumber" v="2506"/>
+    <tag k="addr:street" v="Glastenbury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217718"/>
+  </node>
   <node id="-441" visible="true" lat="42.98672223" lon="-73.17749618">
     <tag k="addr:housenumber" v="166"/>
     <tag k="addr:street" v="Clement Greene Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217719"/>
   </node>
+  <node id="-442" visible="true" lat="42.98694375" lon="-73.14592944">
+    <tag k="addr:housenumber" v="2560"/>
+    <tag k="addr:street" v="Glastenbury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217720"/>
+  </node>
+  <node id="-444" visible="true" lat="42.98628621" lon="-73.20621096">
+    <tag k="addr:housenumber" v="3716"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217722"/>
+  </node>
+  <node id="-447" visible="true" lat="42.98592961" lon="-73.20549542">
+    <tag k="addr:housenumber" v="3704"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217725"/>
+  </node>
   <node id="-452" visible="true" lat="42.98548177" lon="-73.20244165">
     <tag k="addr:housenumber" v="189"/>
     <tag k="addr:street" v="Tunic Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217730"/>
+  </node>
+  <node id="-456" visible="true" lat="42.98525478" lon="-73.20445666">
+    <tag k="addr:housenumber" v="3644"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217734"/>
   </node>
   <node id="-457" visible="true" lat="42.98513758" lon="-73.17935063">
     <tag k="addr:housenumber" v="48"/>
@@ -912,6 +1176,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217750"/>
   </node>
+  <node id="-473" visible="true" lat="42.98327421" lon="-73.20649193">
+    <tag k="addr:housenumber" v="3542"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217751"/>
+  </node>
   <node id="-474" visible="true" lat="42.98357069" lon="-73.20387788">
     <tag k="addr:housenumber" v="143"/>
     <tag k="addr:street" v="Tunic Road"/>
@@ -923,6 +1193,12 @@
     <tag k="addr:street" v="Tunic Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217754"/>
+  </node>
+  <node id="-477" visible="true" lat="42.98304517" lon="-73.20719537">
+    <tag k="addr:housenumber" v="3523"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217755"/>
   </node>
   <node id="-480" visible="true" lat="42.98282681" lon="-73.20647486">
     <tag k="addr:housenumber" v="12"/>
@@ -942,17 +1218,101 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217760"/>
   </node>
+  <node id="-485" visible="true" lat="42.98250117" lon="-73.20655234">
+    <tag k="addr:housenumber" v="3486"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217763"/>
+  </node>
   <node id="-486" visible="true" lat="42.98242989" lon="-73.20748252">
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="West Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217764"/>
   </node>
+  <node id="-489" visible="true" lat="42.98223586" lon="-73.20722248">
+    <tag k="addr:housenumber" v="3465"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217767"/>
+  </node>
+  <node id="-491" visible="true" lat="42.98209674" lon="-73.20637871">
+    <tag k="addr:housenumber" v="3474"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217769"/>
+  </node>
+  <node id="-492" visible="true" lat="42.98205596" lon="-73.20670794">
+    <tag k="addr:housenumber" v="3458"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217770"/>
+  </node>
+  <node id="-495" visible="true" lat="42.98178532" lon="-73.20660013">
+    <tag k="addr:housenumber" v="3442"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217773"/>
+  </node>
+  <node id="-496" visible="true" lat="42.98173141" lon="-73.20722961">
+    <tag k="addr:housenumber" v="3433"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217774"/>
+  </node>
+  <node id="-499" visible="true" lat="42.98133304" lon="-73.20638449">
+    <tag k="addr:housenumber" v="3412"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217777"/>
+  </node>
+  <node id="-501" visible="true" lat="42.98109872" lon="-73.20642506">
+    <tag k="addr:housenumber" v="3396"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217779"/>
+  </node>
+  <node id="-502" visible="true" lat="42.98109879" lon="-73.20727871">
+    <tag k="addr:housenumber" v="3367"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217780"/>
+  </node>
+  <node id="-506" visible="true" lat="42.98083633" lon="-73.20676813">
+    <tag k="addr:housenumber" v="3376"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217784"/>
+  </node>
+  <node id="-509" visible="true" lat="42.98038733" lon="-73.20672922">
+    <tag k="addr:housenumber" v="3342"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217787"/>
+  </node>
+  <node id="-511" visible="true" lat="42.98035049" lon="-73.20735168">
+    <tag k="addr:housenumber" v="3339"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217789"/>
+  </node>
+  <node id="-516" visible="true" lat="42.97986983" lon="-73.20755498">
+    <tag k="addr:housenumber" v="3307"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217796"/>
+  </node>
   <node id="-518" visible="true" lat="42.97989273" lon="-73.17694854">
     <tag k="addr:housenumber" v="969"/>
     <tag k="addr:street" v="Trumbull Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217798"/>
+  </node>
+  <node id="-528" visible="true" lat="42.97926711" lon="-73.2074356">
+    <tag k="addr:housenumber" v="3263"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217809"/>
   </node>
   <node id="-529" visible="true" lat="42.97939338" lon="-73.17563825">
     <tag k="addr:housenumber" v="1103"/>
@@ -972,6 +1332,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217828"/>
   </node>
+  <node id="-547" visible="true" lat="42.9772531" lon="-73.2075326">
+    <tag k="addr:housenumber" v="3111"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217830"/>
+  </node>
   <node id="-550" visible="true" lat="42.97691918" lon="-73.20571372">
     <tag k="addr:housenumber" v="75"/>
     <tag k="addr:street" v="Lawrence Road"/>
@@ -984,6 +1350,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217836"/>
   </node>
+  <node id="-561" visible="true" lat="42.97638138" lon="-73.20778886">
+    <tag k="addr:housenumber" v="3063"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217844"/>
+  </node>
   <node id="-568" visible="true" lat="42.97590637" lon="-73.21176147">
     <tag k="addr:housenumber" v="210"/>
     <tag k="addr:street" v="Paulin Drive"/>
@@ -995,6 +1367,12 @@
     <tag k="addr:street" v="Paulin Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217855"/>
+  </node>
+  <node id="-577" visible="true" lat="42.97474289" lon="-73.20817565">
+    <tag k="addr:housenumber" v="2945"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217860"/>
   </node>
   <node id="-578" visible="true" lat="42.97470696" lon="-73.21044624">
     <tag k="addr:housenumber" v="125"/>
@@ -1014,17 +1392,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217873"/>
   </node>
+  <node id="-592" visible="true" lat="42.97341537" lon="-73.20776367">
+    <tag k="addr:housenumber" v="2859"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217876"/>
+  </node>
   <node id="-595" visible="true" lat="42.97358463" lon="-73.17146369">
     <tag k="addr:housenumber" v="251"/>
     <tag k="addr:street" v="Holy Smoke Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217879"/>
   </node>
+  <node id="-596" visible="true" lat="42.97334979" lon="-73.20832619">
+    <tag k="addr:housenumber" v="2851"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217880"/>
+  </node>
   <node id="-598" visible="true" lat="42.97338961" lon="-73.18779989">
     <tag k="addr:housenumber" v="253"/>
     <tag k="addr:street" v="Cider Mill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217882"/>
+  </node>
+  <node id="-599" visible="true" lat="42.97319369" lon="-73.20710721">
+    <tag k="addr:housenumber" v="2842"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217883"/>
+  </node>
+  <node id="-600" visible="true" lat="42.97310256" lon="-73.20779418">
+    <tag k="addr:housenumber" v="2837"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217884"/>
+  </node>
+  <node id="-601" visible="true" lat="42.97306263" lon="-73.20842939">
+    <tag k="addr:housenumber" v="2849"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217885"/>
   </node>
   <node id="-602" visible="true" lat="42.97306823" lon="-73.18637847">
     <tag k="addr:housenumber" v="318"/>
@@ -1092,11 +1500,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217906"/>
   </node>
+  <node id="-622" visible="true" lat="42.97004959" lon="-73.20725019">
+    <tag k="addr:housenumber" v="2630"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217908"/>
+  </node>
   <node id="-624" visible="true" lat="42.97041147" lon="-73.17100048">
     <tag k="addr:housenumber" v="498"/>
     <tag k="addr:street" v="Holy Smoke Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217910"/>
+  </node>
+  <node id="-625" visible="true" lat="42.97013636" lon="-73.20902835">
+    <tag k="addr:housenumber" v="2629"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217911"/>
   </node>
   <node id="-626" visible="true" lat="42.9699278" lon="-73.17120523">
     <tag k="addr:housenumber" v="522"/>
@@ -1278,11 +1698,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217978"/>
   </node>
+  <node id="-692" visible="true" lat="42.96415266" lon="-73.15738119">
+    <tag k="addr:housenumber" v="289"/>
+    <tag k="addr:street" v="Reservoir Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217980"/>
+  </node>
   <node id="-695" visible="true" lat="42.96330918" lon="-73.22237842">
     <tag k="addr:housenumber" v="941"/>
     <tag k="addr:street" v="Myers Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217983"/>
+  </node>
+  <node id="-696" visible="true" lat="42.96361364" lon="-73.15986723">
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="Reservoir Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217984"/>
+  </node>
+  <node id="-697" visible="true" lat="42.96339717" lon="-73.15853232">
+    <tag k="addr:housenumber" v="229"/>
+    <tag k="addr:street" v="Reservoir Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217985"/>
   </node>
   <node id="-698" visible="true" lat="42.96343527" lon="-73.16345605">
     <tag k="addr:housenumber" v="2407"/>
@@ -1290,11 +1728,35 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217986"/>
   </node>
+  <node id="-700" visible="true" lat="42.96344641" lon="-73.15919105">
+    <tag k="addr:housenumber" v="203"/>
+    <tag k="addr:street" v="Reservoir Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217988"/>
+  </node>
+  <node id="-705" visible="true" lat="42.96328474" lon="-73.15785601">
+    <tag k="addr:housenumber" v="271"/>
+    <tag k="addr:street" v="Reservoir Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217993"/>
+  </node>
   <node id="-706" visible="true" lat="42.9628066" lon="-73.2242411">
     <tag k="addr:housenumber" v="1036"/>
     <tag k="addr:street" v="Myers Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217994"/>
+  </node>
+  <node id="-708" visible="true" lat="42.96313095" lon="-73.15931701">
+    <tag k="addr:housenumber" v="198"/>
+    <tag k="addr:street" v="Reservoir Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217996"/>
+  </node>
+  <node id="-709" visible="true" lat="42.96312755" lon="-73.15629372">
+    <tag k="addr:housenumber" v="351"/>
+    <tag k="addr:street" v="Reservoir Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217997"/>
   </node>
   <node id="-710" visible="true" lat="42.96308898" lon="-73.16322326">
     <tag k="addr:housenumber" v="2390"/>
@@ -1319,6 +1781,18 @@
     <tag k="addr:street" v="East Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218008"/>
+  </node>
+  <node id="-721" visible="true" lat="42.96250529" lon="-73.15520377">
+    <tag k="addr:housenumber" v="421"/>
+    <tag k="addr:street" v="Reservoir Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218010"/>
+  </node>
+  <node id="-725" visible="true" lat="42.9622936" lon="-73.15446162">
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:street" v="Reservoir Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218014"/>
   </node>
   <node id="-726" visible="true" lat="42.96165516" lon="-73.2261795">
     <tag k="addr:housenumber" v="1163"/>
@@ -1470,6 +1944,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218062"/>
   </node>
+  <node id="-773" visible="true" lat="42.95854757" lon="-73.20613425">
+    <tag k="addr:housenumber" v="1838"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218063"/>
+  </node>
   <node id="-788" visible="true" lat="42.9568961" lon="-73.20315568">
     <tag k="addr:housenumber" v="381"/>
     <tag k="addr:street" v="Airport Road"/>
@@ -1590,6 +2070,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218128"/>
   </node>
+  <node id="-839" visible="true" lat="42.95257592" lon="-73.20900622">
+    <tag k="addr:housenumber" v="1424"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218129"/>
+  </node>
   <node id="-840" visible="true" lat="42.95268818" lon="-73.18702668">
     <tag k="addr:housenumber" v="211"/>
     <tag k="addr:street" v="Rod And Gun Club Road"/>
@@ -1644,6 +2130,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218172"/>
   </node>
+  <node id="-883" visible="true" lat="42.95079803" lon="-73.21124267">
+    <tag k="addr:housenumber" v="1261"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218173"/>
+  </node>
   <node id="-888" visible="true" lat="42.95039735" lon="-73.21075262">
     <tag k="addr:housenumber" v="1250"/>
     <tag k="addr:street" v="Vermont Route 7A"/>
@@ -1661,6 +2153,12 @@
     <tag k="addr:street" v="Twitchell Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218186"/>
+  </node>
+  <node id="-898" visible="true" lat="42.94973127" lon="-73.21213776">
+    <tag k="addr:housenumber" v="1197"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218190"/>
   </node>
   <node id="-899" visible="true" lat="42.94909049" lon="-73.22419151">
     <tag k="addr:housenumber" v="394"/>
@@ -1685,6 +2183,12 @@
     <tag k="addr:street" v="Twitchell Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218199"/>
+  </node>
+  <node id="-906" visible="true" lat="42.94863529" lon="-73.21113102">
+    <tag k="addr:housenumber" v="1122"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218201"/>
   </node>
   <node id="-910" visible="true" lat="42.94855588" lon="-73.22409451">
     <tag k="addr:housenumber" v="358"/>
@@ -1764,6 +2268,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218245"/>
   </node>
+  <node id="-946" visible="true" lat="42.94708465" lon="-73.21080516">
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218248"/>
+  </node>
   <node id="-948" visible="true" lat="42.94689281" lon="-73.21203546">
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Church Street"/>
@@ -1775,6 +2285,12 @@
     <tag k="addr:street" v="Twitchell Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218254"/>
+  </node>
+  <node id="-951" visible="true" lat="42.94681823" lon="-73.21062718">
+    <tag k="addr:housenumber" v="986"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218255"/>
   </node>
   <node id="-953" visible="true" lat="42.94675064" lon="-73.2102127">
     <tag k="addr:housenumber" v="41"/>
@@ -1788,6 +2304,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218258"/>
   </node>
+  <node id="-955" visible="true" lat="42.94671072" lon="-73.21117367">
+    <tag k="addr:housenumber" v="983"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218259"/>
+  </node>
   <node id="-956" visible="true" lat="42.94662321" lon="-73.2234766">
     <tag k="addr:housenumber" v="218"/>
     <tag k="addr:street" v="Twitchell Hill Road"/>
@@ -1799,6 +2321,12 @@
     <tag k="addr:street" v="Church Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218261"/>
+  </node>
+  <node id="-958" visible="true" lat="42.9466467" lon="-73.21063216">
+    <tag k="addr:housenumber" v="972"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218263"/>
   </node>
   <node id="-959" visible="true" lat="42.9465994" lon="-73.21440814">
     <tag k="addr:housenumber" v="180"/>
@@ -1848,6 +2376,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218273"/>
   </node>
+  <node id="-968" visible="true" lat="42.94648764" lon="-73.21112987">
+    <tag k="addr:housenumber" v="969"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218274"/>
+  </node>
   <node id="-969" visible="true" lat="42.94652172" lon="-73.2123098">
     <tag k="addr:housenumber" v="78"/>
     <tag k="addr:street" v="Church Street"/>
@@ -1883,6 +2417,12 @@
     <tag k="addr:street" v="Buck Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218282"/>
+  </node>
+  <node id="-976" visible="true" lat="42.94637446" lon="-73.21902737">
+    <tag k="addr:housenumber" v="468"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218283"/>
   </node>
   <node id="-977" visible="true" lat="42.9462971" lon="-73.2234178">
     <tag k="addr:housenumber" v="198"/>
@@ -1944,6 +2484,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218304"/>
   </node>
+  <node id="-992" visible="true" lat="42.94605255" lon="-73.22003173">
+    <tag k="addr:housenumber" v="518"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218305"/>
+  </node>
+  <node id="-993" visible="true" lat="42.94605636" lon="-73.21907806">
+    <tag k="addr:housenumber" v="473"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218306"/>
+  </node>
+  <node id="-995" visible="true" lat="42.94599691" lon="-73.21944746">
+    <tag k="addr:housenumber" v="495"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218308"/>
+  </node>
   <node id="-996" visible="true" lat="42.94601821" lon="-73.21581268">
     <tag k="addr:housenumber" v="251"/>
     <tag k="addr:street" v="Church Street"/>
@@ -1961,6 +2519,12 @@
     <tag k="addr:street" v="Twitchell Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218311"/>
+  </node>
+  <node id="-999" visible="true" lat="42.94596754" lon="-73.22025735">
+    <tag k="addr:housenumber" v="530"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218312"/>
   </node>
   <node id="-1000" visible="true" lat="42.94601256" lon="-73.20907997">
     <tag k="addr:housenumber" v="86"/>
@@ -1992,6 +2556,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218318"/>
   </node>
+  <node id="-1006" visible="true" lat="42.94585326" lon="-73.21978732">
+    <tag k="addr:housenumber" v="517"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218319"/>
+  </node>
   <node id="-1008" visible="true" lat="42.94591595" lon="-73.21229788">
     <tag k="addr:housenumber" v="462"/>
     <tag k="addr:street" v="Cleveland Avenue"/>
@@ -2015,6 +2585,12 @@
     <tag k="addr:street" v="Buck Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218330"/>
+  </node>
+  <node id="-1016" visible="true" lat="42.94570636" lon="-73.22059017">
+    <tag k="addr:housenumber" v="550"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218331"/>
   </node>
   <node id="-1017" visible="true" lat="42.94573101" lon="-73.21233524">
     <tag k="addr:housenumber" v="450"/>
@@ -2045,6 +2621,12 @@
     <tag k="addr:street" v="Sycamore Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218340"/>
+  </node>
+  <node id="-1026" visible="true" lat="42.94546947" lon="-73.22016507">
+    <tag k="addr:housenumber" v="549"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218341"/>
   </node>
   <node id="-1027" visible="true" lat="42.94543421" lon="-73.21419417">
     <tag k="addr:housenumber" v="256"/>
@@ -2100,6 +2682,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218356"/>
   </node>
+  <node id="-1043" visible="true" lat="42.9451228" lon="-73.22051172">
+    <tag k="addr:housenumber" v="581"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218360"/>
+  </node>
   <node id="-1044" visible="true" lat="42.94480615" lon="-73.20822423">
     <tag k="addr:housenumber" v="150"/>
     <tag k="addr:street" v="Buck Hill Road"/>
@@ -2117,6 +2705,12 @@
     <tag k="addr:street" v="Sycamore Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218365"/>
+  </node>
+  <node id="-1049" visible="true" lat="42.94498598" lon="-73.22082883">
+    <tag k="addr:housenumber" v="599"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218367"/>
   </node>
   <node id="-1051" visible="true" lat="42.94502499" lon="-73.21421652">
     <tag k="addr:housenumber" v="224"/>
@@ -2160,6 +2754,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218376"/>
   </node>
+  <node id="-1063" visible="true" lat="42.94478248" lon="-73.22108247">
+    <tag k="addr:housenumber" v="617"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218381"/>
+  </node>
   <node id="-1065" visible="true" lat="42.94477462" lon="-73.22389221">
     <tag k="addr:housenumber" v="105"/>
     <tag k="addr:street" v="Twitchell Hill Road"/>
@@ -2183,6 +2783,12 @@
     <tag k="addr:street" v="Cleveland Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218386"/>
+  </node>
+  <node id="-1070" visible="true" lat="42.94467341" lon="-73.22125834">
+    <tag k="addr:housenumber" v="631"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218388"/>
   </node>
   <node id="-1071" visible="true" lat="42.94455357" lon="-73.22335437">
     <tag k="addr:housenumber" v="83"/>
@@ -2231,6 +2837,12 @@
     <tag k="addr:street" v="Gratz Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218405"/>
+  </node>
+  <node id="-1087" visible="true" lat="42.94437789" lon="-73.22157287">
+    <tag k="addr:housenumber" v="655"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218406"/>
   </node>
   <node id="-1088" visible="true" lat="42.94437084" lon="-73.21141275">
     <tag k="addr:housenumber" v="56"/>
@@ -2736,6 +3348,30 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218565"/>
   </node>
+  <node id="-1489" visible="true" lat="42.93511265" lon="-73.17533985">
+    <tag k="addr:housenumber" v="241"/>
+    <tag k="addr:street" v="Spur Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218848"/>
+  </node>
+  <node id="-1500" visible="true" lat="42.9347496" lon="-73.17447662">
+    <tag k="addr:housenumber" v="246"/>
+    <tag k="addr:street" v="Spur Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218860"/>
+  </node>
+  <node id="-1545" visible="true" lat="42.93392921" lon="-73.17622568">
+    <tag k="addr:housenumber" v="153"/>
+    <tag k="addr:street" v="Spur Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218911"/>
+  </node>
+  <node id="-1551" visible="true" lat="42.93328857" lon="-73.17649078">
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:street" v="Spur Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218918"/>
+  </node>
   <node id="-1553" visible="true" lat="42.9329329" lon="-73.21028638">
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:street" v="Vermont Route 7A"/>
@@ -2748,11 +3384,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218922"/>
   </node>
+  <node id="-1556" visible="true" lat="42.9329637" lon="-73.17496138">
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Spur Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218923"/>
+  </node>
+  <node id="-1559" visible="true" lat="42.9326477" lon="-73.17655944">
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Spur Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218926"/>
+  </node>
   <node id="-1575" visible="true" lat="43.0166207" lon="-73.18114855">
     <tag k="addr:housenumber" v="1029"/>
     <tag k="addr:street" v="Old Depot Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218944"/>
+  </node>
+  <node id="-1576" visible="true" lat="42.94615618" lon="-73.21990192">
+    <tag k="addr:housenumber" v="506"/>
+    <tag k="addr:street" v="Vermont Route 67 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218945"/>
   </node>
   <node id="-1577" visible="true" lat="42.968176" lon="-73.18386601">
     <tag k="addr:housenumber" v="189"/>
@@ -2813,6 +3467,12 @@
     <tag k="addr:street" v="Church Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218969"/>
+  </node>
+  <node id="-1599" visible="true" lat="42.97214361" lon="-73.20787705">
+    <tag k="addr:housenumber" v="2761"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218971"/>
   </node>
   <node id="-1600" visible="true" lat="42.96582589" lon="-73.1703177">
     <tag k="addr:housenumber" v="907"/>
@@ -2892,6 +3552,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219001"/>
   </node>
+  <node id="-1628" visible="true" lat="42.94810013" lon="-73.1756435">
+    <tag k="addr:housenumber" v="1865"/>
+    <tag k="addr:street" v="Buck Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219002"/>
+  </node>
   <node id="-1632" visible="true" lat="42.96364987" lon="-73.16164257">
     <tag k="addr:housenumber" v="79"/>
     <tag k="addr:street" v="Reservoir Road"/>
@@ -2909,6 +3575,12 @@
     <tag k="addr:street" v="Birch Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219012"/>
+  </node>
+  <node id="-1640" visible="true" lat="42.93290914" lon="-73.17741112">
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Spur Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219014"/>
   </node>
   <node id="-1645" visible="true" lat="43.00729629" lon="-73.20097947">
     <tag k="addr:housenumber" v="426"/>
@@ -3036,6 +3708,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219062"/>
   </node>
+  <node id="-1687" visible="true" lat="42.93202545" lon="-73.17587269">
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Spur Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219065"/>
+  </node>
+  <node id="-1688" visible="true" lat="42.94803293" lon="-73.21072087">
+    <tag k="addr:housenumber" v="1076"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219066"/>
+  </node>
   <node id="-1697" visible="true" lat="42.94838854" lon="-73.22335763">
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="Babsy Lane"/>
@@ -3089,6 +3773,12 @@
     <tag k="addr:street" v="Deer Run Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219099"/>
+  </node>
+  <node id="-1722" visible="true" lat="42.98881332" lon="-73.20437372">
+    <tag k="addr:housenumber" v="3972"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219100"/>
   </node>
   <node id="-1726" visible="true" lat="42.99158701" lon="-73.19217913">
     <tag k="addr:housenumber" v="80"/>
@@ -3156,6 +3846,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316731"/>
   </node>
+  <node id="-1754" visible="true" lat="42.94172354" lon="-73.21005747">
+    <tag k="addr:housenumber" v="619"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="324348"/>
+  </node>
+  <node id="-1755" visible="true" lat="42.96640446" lon="-73.16114271">
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Waite Cemetery Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="324349"/>
+  </node>
   <node id="-1757" visible="true" lat="43.00748322" lon="-73.19812329">
     <tag k="addr:housenumber" v="270"/>
     <tag k="addr:street" v="Birch Hill Road"/>
@@ -3204,6 +3906,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337688"/>
   </node>
+  <node id="-1780" visible="true" lat="42.98600814" lon="-73.20737526">
+    <tag k="addr:housenumber" v="3713"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337942"/>
+  </node>
   <node id="-1799" visible="true" lat="43.00294077" lon="-73.15498181">
     <tag k="addr:housenumber" v="164"/>
     <tag k="addr:street" v="Glastenbury Road"/>
@@ -3216,6 +3924,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450431"/>
   </node>
+  <node id="-1805" visible="true" lat="42.99020532" lon="-73.20885527">
+    <tag k="addr:housenumber" v="3955"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454043"/>
+  </node>
   <node id="-1808" visible="true" lat="42.97292506" lon="-73.16596209">
     <tag k="addr:housenumber" v="170"/>
     <tag k="addr:street" v="Forest Heights"/>
@@ -3227,6 +3941,30 @@
     <tag k="addr:street" v="Forest Heights"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="610220"/>
+  </node>
+  <node id="-1812" visible="true" lat="42.98818484" lon="-73.14453224">
+    <tag k="addr:housenumber" v="2492"/>
+    <tag k="addr:street" v="Glastenbury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617111"/>
+  </node>
+  <node id="-1872" visible="true" lat="42.98601034" lon="-73.14667786">
+    <tag k="addr:housenumber" v="2487"/>
+    <tag k="addr:street" v="Glastenbury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754630"/>
+  </node>
+  <node id="-1888" visible="true" lat="42.95308156" lon="-73.2080141">
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Airport Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758495"/>
+  </node>
+  <node id="-1891" visible="true" lat="42.9366987" lon="-73.24153147">
+    <tag k="addr:housenumber" v="178"/>
+    <tag k="addr:street" v="Grandview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759083"/>
   </node>
   <node id="-1927" visible="true" lat="42.94715566" lon="-73.20988218">
     <tag k="addr:housenumber" v="43"/>

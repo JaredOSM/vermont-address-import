@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-292" visible="true" lat="43.98120498" lon="-72.13397979">
+    <!-- offset: "107 Rock Quarry Drive, , VT" Significant offset - 355.9m -->
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Rock Quarry Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="25889"/>
+  </node>
   <node id="-1392" visible="true" lat="43.99269945" lon="-72.22965929">
     <!-- offset: "1900 Camp Munn Road, , VT" Significant offset - 365.3m -->
     <tag k="addr:housenumber" v="1900"/>

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1667" visible="true" lat="43.16799587" lon="-73.06711355">
+    <!-- offset: "4070 Main Street, , VT" Significant offset - 711.1m -->
+    <tag k="addr:housenumber" v="4070"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150725"/>
+  </node>
   <node id="-2037" visible="true" lat="43.16203653" lon="-73.07253106">
     <!-- offset: "3567 Main Street, , VT" Significant offset - 106.7m -->
     <tag k="addr:housenumber" v="3567"/>
@@ -8,7 +15,7 @@
     <tag k="ref:vcgi:esiteid" v="151136"/>
   </node>
   <node id="-2044" visible="true" lat="43.16178173" lon="-73.07039599">
-    <!-- offset: "108 Union Street, , VT" Significant offset - 510.5m -->
+    <!-- offset: "108 Union Street, , VT" Significant offset - 508.9m -->
     <tag k="addr:housenumber" v="108"/>
     <tag k="addr:street" v="Union Street"/>
     <tag k="addr:state" v="VT"/>

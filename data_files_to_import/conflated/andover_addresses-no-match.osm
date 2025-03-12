@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.33560319" lon="-72.72339914">
     <tag k="addr:housenumber" v="4843"/>
     <tag k="addr:street" v="East Hill Road"/>
@@ -714,12 +714,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3389"/>
   </node>
-  <node id="-219" visible="true" lat="43.29297628" lon="-72.73066024">
-    <tag k="addr:housenumber" v="604"/>
-    <tag k="addr:street" v="North Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3390"/>
-  </node>
   <node id="-220" visible="true" lat="43.29285791" lon="-72.70721747">
     <tag k="addr:housenumber" v="770"/>
     <tag k="addr:street" v="East Hill Road"/>
@@ -738,12 +732,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3394"/>
   </node>
-  <node id="-224" visible="true" lat="43.29228738" lon="-72.7322437">
-    <tag k="addr:housenumber" v="561"/>
-    <tag k="addr:street" v="North Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3395"/>
-  </node>
   <node id="-225" visible="true" lat="43.29236391" lon="-72.68333395">
     <tag k="addr:housenumber" v="1036"/>
     <tag k="addr:street" v="Farrar Road"/>
@@ -755,18 +743,6 @@
     <tag k="addr:street" v="Andover Ridge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3399"/>
-  </node>
-  <node id="-229" visible="true" lat="43.29004398" lon="-72.73216214">
-    <tag k="addr:housenumber" v="417"/>
-    <tag k="addr:street" v="North Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3400"/>
-  </node>
-  <node id="-230" visible="true" lat="43.28969169" lon="-72.7385674">
-    <tag k="addr:housenumber" v="463"/>
-    <tag k="addr:street" v="Arrau Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3402"/>
   </node>
   <node id="-231" visible="true" lat="43.28826785" lon="-72.68541531">
     <tag k="addr:housenumber" v="896"/>
@@ -792,12 +768,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3406"/>
   </node>
-  <node id="-235" visible="true" lat="43.28677368" lon="-72.73190679">
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="Arrau Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3407"/>
-  </node>
   <node id="-236" visible="true" lat="43.28709402" lon="-72.75321454">
     <tag k="addr:housenumber" v="4238"/>
     <tag k="addr:street" v="Weston Andover Road"/>
@@ -816,35 +786,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3410"/>
   </node>
-  <node id="-239" visible="true" lat="43.28636838" lon="-72.74082206">
-    <tag k="addr:housenumber" v="168"/>
-    <tag k="addr:street" v="Willies Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3411"/>
-  </node>
-  <node id="-240" visible="true" lat="43.28613304" lon="-72.73092707">
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Arrau Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3412"/>
-  </node>
   <node id="-241" visible="true" lat="43.28609875" lon="-72.74343353">
     <tag k="addr:housenumber" v="144"/>
     <tag k="addr:street" v="Davis Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3413"/>
-  </node>
-  <node id="-242" visible="true" lat="43.28534501" lon="-72.73079121">
-    <tag k="addr:housenumber" v="93"/>
-    <tag k="addr:street" v="North Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3414"/>
-  </node>
-  <node id="-243" visible="true" lat="43.28557037" lon="-72.73991455">
-    <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:street" v="Willies Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3415"/>
   </node>
   <node id="-244" visible="true" lat="43.2853672" lon="-72.71775555">
     <tag k="addr:housenumber" v="161"/>
@@ -881,12 +827,6 @@
     <tag k="addr:street" v="Weston Andover Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3421"/>
-  </node>
-  <node id="-250" visible="true" lat="43.28481013" lon="-72.74093966">
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="Willies Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3422"/>
   </node>
   <node id="-251" visible="true" lat="43.28464732" lon="-72.7275836">
     <tag k="addr:housenumber" v="2881"/>
@@ -1848,12 +1788,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3609"/>
   </node>
-  <node id="-434" visible="true" lat="43.28819373" lon="-72.73197561">
-    <tag k="addr:housenumber" v="124"/>
-    <tag k="addr:street" v="Arrau Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3611"/>
-  </node>
   <node id="-435" visible="true" lat="43.23287491" lon="-72.72722453">
     <tag k="addr:housenumber" v="3640"/>
     <tag k="addr:street" v="Simonsville Road"/>
@@ -1980,12 +1914,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3634"/>
   </node>
-  <node id="-456" visible="true" lat="43.28460034" lon="-72.73733642">
-    <tag k="addr:housenumber" v="3422"/>
-    <tag k="addr:street" v="Weston Andover Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3635"/>
-  </node>
   <node id="-457" visible="true" lat="43.29884096" lon="-72.75521287">
     <tag k="addr:housenumber" v="1757"/>
     <tag k="addr:street" v="Andover Ridge Road"/>
@@ -2051,12 +1979,6 @@
     <tag k="addr:street" v="Dorman Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3646"/>
-  </node>
-  <node id="-468" visible="true" lat="43.28548745" lon="-72.7369484">
-    <tag k="addr:housenumber" v="3424"/>
-    <tag k="addr:street" v="Weston Andover Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3647"/>
   </node>
   <node id="-469" visible="true" lat="43.30656489" lon="-72.76019158">
     <tag k="addr:housenumber" v="1245"/>
@@ -2352,12 +2274,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="312183"/>
   </node>
-  <node id="-519" visible="true" lat="43.29593314" lon="-72.73199793">
-    <tag k="addr:housenumber" v="810"/>
-    <tag k="addr:street" v="North Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="316013"/>
-  </node>
   <node id="-520" visible="true" lat="43.27844553" lon="-72.70741987">
     <tag k="addr:housenumber" v="1345"/>
     <tag k="addr:street" v="Weston Andover Road"/>
@@ -2375,12 +2291,6 @@
     <tag k="addr:street" v="North Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316801"/>
-  </node>
-  <node id="-523" visible="true" lat="43.28690602" lon="-72.73207773">
-    <tag k="addr:housenumber" v="89"/>
-    <tag k="addr:street" v="Arrau Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="316802"/>
   </node>
   <node id="-524" visible="true" lat="43.25162309" lon="-72.72157268">
     <tag k="addr:housenumber" v="2312"/>
@@ -2423,12 +2333,6 @@
     <tag k="addr:street" v="Middletown Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328371"/>
-  </node>
-  <node id="-531" visible="true" lat="43.28738967" lon="-72.73402123">
-    <tag k="addr:housenumber" v="203"/>
-    <tag k="addr:street" v="Arrau Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="329197"/>
   </node>
   <node id="-532" visible="true" lat="43.24419901" lon="-72.7106747">
     <tag k="addr:housenumber" v="48"/>
@@ -2771,12 +2675,6 @@
     <tag k="addr:street" v="Andover Hills"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753681"/>
-  </node>
-  <node id="-707" visible="true" lat="43.2961065" lon="-72.73379825">
-    <tag k="addr:housenumber" v="803"/>
-    <tag k="addr:street" v="North Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="754094"/>
   </node>
   <node id="-708" visible="true" lat="43.33150846" lon="-72.73047123">
     <tag k="addr:housenumber" v="269"/>

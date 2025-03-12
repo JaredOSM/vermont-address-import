@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-131" visible="true" lat="44.91150417" lon="-72.6097305">
     <tag k="addr:housenumber" v="1283"/>
     <tag k="addr:street" v="North Hill Road"/>
@@ -444,6 +444,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="163685"/>
   </node>
+  <node id="-389" visible="true" lat="44.87939297" lon="-72.61251703">
+    <!-- match: "201 River Street, , VT"  ignoring missing state when matching to "201 River Street, , " -->
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163687"/>
+  </node>
   <node id="-391" visible="true" lat="44.87930297" lon="-72.61103057">
     <tag k="addr:housenumber" v="204"/>
     <tag k="addr:street" v="Main Street"/>
@@ -467,6 +474,13 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="163700"/>
+  </node>
+  <node id="-400" visible="true" lat="44.87873788" lon="-72.61069351">
+    <!-- match: "167 Main Street, , VT"  ignoring missing state when matching to "167 Main Street, , " -->
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163701"/>
   </node>
   <node id="-402" visible="true" lat="44.87875272" lon="-72.61177155">
     <tag k="addr:housenumber" v="149"/>
@@ -540,11 +554,53 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="163722"/>
   </node>
+  <node id="-420" visible="true" lat="44.8782759" lon="-72.60907761">
+    <!-- match: "86 Main Street, , VT"  ignoring missing state when matching to "86 Main Street, , " -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163723"/>
+  </node>
+  <node id="-424" visible="true" lat="44.87816892" lon="-72.60889532">
+    <!-- match: "72 Main Street, , VT"  ignoring missing state when matching to "72 Main Street, , " -->
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163727"/>
+  </node>
+  <node id="-427" visible="true" lat="44.87788467" lon="-72.60948662">
+    <!-- match: "91 Main Street, , VT"  ignoring missing state when matching to "91 Main Street, , " -->
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163730"/>
+  </node>
   <node id="-431" visible="true" lat="44.87792085" lon="-72.60850754">
     <tag k="addr:housenumber" v="46"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="163735"/>
+  </node>
+  <node id="-434" visible="true" lat="44.87784549" lon="-72.60839218">
+    <!-- match: "40 Main Street, , VT"  ignoring missing state when matching to "40 Main Street, , " -->
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163739"/>
+  </node>
+  <node id="-436" visible="true" lat="44.87774331" lon="-72.6080037">
+    <!-- match: "20 Main Street, , VT"  ignoring missing state when matching to "20 Main Street, , " -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163741"/>
+  </node>
+  <node id="-447" visible="true" lat="44.87734603" lon="-72.60825347">
+    <!-- match: "13 Main Street, , VT"  ignoring missing state when matching to "13 Main Street, Montgomery Center, " -->
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163754"/>
   </node>
   <node id="-450" visible="true" lat="44.87718077" lon="-72.60883882">
     <tag k="addr:housenumber" v="46"/>
@@ -887,6 +943,13 @@
     <tag k="addr:street" v="Bank Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451567"/>
+  </node>
+  <node id="-903" visible="true" lat="44.87819852" lon="-72.60844381">
+    <!-- match: "48 Main Street, , VT"  ignoring missing state when matching to "48 Main Street, , " -->
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612452"/>
   </node>
   <node id="-927" visible="true" lat="44.86591464" lon="-72.60993461">
     <tag k="addr:housenumber" v="833"/>

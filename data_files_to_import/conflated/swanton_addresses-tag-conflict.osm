@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-276" visible="true" lat="44.96918546" lon="-73.21261924">
     <!-- conflict: "24 Lakewood Drive, , VT" No match in OSM, but a different address exists <5m away: "26 Lakewood Drive, Swanton, VT" -->
     <tag k="addr:housenumber" v="24"/>
@@ -7,26 +7,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="254967"/>
   </node>
-  <node id="-1356" visible="true" lat="44.92158389" lon="-73.11225506">
-    <!-- conflict: "129 First Street, , VT" Fuzzy match to "129 First Street, Swanton, " -->
-    <tag k="addr:housenumber" v="129"/>
-    <tag k="addr:street" v="First Street"/>
+  <node id="-1915" visible="true" lat="44.91320492" lon="-73.11464252">
+    <!-- conflict: "116 Grand Avenue, , VT" No match in OSM, but a different address exists <5m away: "116 Grand Ave., , " -->
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:street" v="Grand Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="256060"/>
+    <tag k="ref:vcgi:esiteid" v="256629"/>
   </node>
-  <node id="-1757" visible="true" lat="44.9226452" lon="-73.11139939">
-    <!-- conflict: "139 First Street, , VT" Fuzzy match to "139 First Street, Swanton, " -->
-    <tag k="addr:housenumber" v="139"/>
-    <tag k="addr:street" v="First Street"/>
+  <node id="-2431" visible="true" lat="44.85781335" lon="-73.02213613">
+    <!-- conflict: "55 Pond Road, , VT" No match in OSM, but a different address exists <5m away: "53 Pond Road, Swanton, VT" -->
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Pond Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="256469"/>
-  </node>
-  <node id="-1758" visible="true" lat="44.92194953" lon="-73.11090508">
-    <!-- conflict: "153 First Street, , VT" Fuzzy match to "153 First Street, Swanton, " -->
-    <tag k="addr:housenumber" v="153"/>
-    <tag k="addr:street" v="First Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="256470"/>
+    <tag k="ref:vcgi:esiteid" v="257157"/>
   </node>
   <node id="-2598" visible="true" lat="44.90308902" lon="-73.09844365">
     <!-- conflict: "82 Saint Albans Road, , VT" No match in OSM, but a different address exists <5m away: "82 St Albans Road, Swanton, VT" -->
@@ -34,13 +27,6 @@
     <tag k="addr:street" v="Saint Albans Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="257330"/>
-  </node>
-  <node id="-2976" visible="true" lat="44.85442826" lon="-73.09138995">
-    <!-- conflict: "581 Saint Albans Road, , VT" Fuzzy match to "581 Saint Albans Road, Swanton, " -->
-    <tag k="addr:housenumber" v="581"/>
-    <tag k="addr:street" v="Saint Albans Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="257710"/>
   </node>
   <node id="-3317" visible="true" lat="44.91740356" lon="-73.11562067">
     <!-- conflict: "32A Platt Street, , VT" Fuzzy match to "32 A Platt Street, Swanton, VT" -->

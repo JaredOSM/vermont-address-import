@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-903" visible="true" lat="43.17829337" lon="-73.05555441">
     <!-- multiple: "4971 Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="4971"/>
@@ -27,6 +27,13 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149905"/>
+  </node>
+  <node id="-962" visible="true" lat="43.17730916" lon="-73.07095246">
+    <!-- multiple: "956 West Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="956"/>
+    <tag k="addr:street" v="West Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149924"/>
   </node>
   <node id="-990" visible="true" lat="43.17735342" lon="-73.05577897">
     <!-- multiple: "4935 Main Street, , VT" Multiple exact matches in OSM. -->
@@ -146,6 +153,13 @@
     <tag k="addr:street" v="Depot Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151649"/>
+  </node>
+  <node id="-2587" visible="true" lat="43.17880825" lon="-73.0682068">
+    <!-- multiple: "175 Village Glen, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:street" v="Village Glen"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151738"/>
   </node>
   <node id="-2900" visible="true" lat="43.1777368" lon="-73.04991326">
     <!-- multiple: "138 Cemetery Avenue, , VT" Multiple exact matches in OSM. -->

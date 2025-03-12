@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM">
+  <node id="-583" visible="true" lat="43.64401245" lon="-73.20114135">
+    <!-- offset: "111 Prospect Point Road, , VT" Significant offset - 331m -->
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Prospect Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="59752"/>
+  </node>
+  <node id="-1402" visible="true" lat="43.6092453" lon="-73.17797851">
+    <!-- offset: "62 Alumni Drive, , VT" Significant offset - 365.3m -->
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Alumni Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="60598"/>
+  </node>
 </osm>

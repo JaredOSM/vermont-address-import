@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-113" visible="true" lat="43.89381845" lon="-72.25869668">
     <!-- conflict: "8493 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "8493 Vt Route 113, Thetford, VT" -->
     <tag k="addr:housenumber" v="8493"/>
@@ -609,20 +609,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259020"/>
   </node>
-  <node id="-631" visible="true" lat="43.83449499" lon="-72.20315353">
-    <!-- conflict: "126 Makalas Way, , VT" No match in OSM, but a different address exists <5m away: "1687 Latham Road, Thetford, VT" -->
-    <tag k="addr:housenumber" v="126"/>
-    <tag k="addr:street" v="Makalas Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259021"/>
-  </node>
-  <node id="-635" visible="true" lat="43.8339829" lon="-72.20344377">
-    <!-- conflict: "125 Makalas Way, , VT" No match in OSM, but a different address exists <5m away: "1685 Latham Road, Thetford, VT" -->
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Makalas Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259025"/>
-  </node>
   <node id="-646" visible="true" lat="43.8336179" lon="-72.31456358">
     <!-- conflict: "85 Reb Mountain Drive, , VT" Fuzzy match to "85 REB Mountain Drive, Thetford, VT" -->
     <tag k="addr:housenumber" v="85"/>
@@ -644,27 +630,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259067"/>
   </node>
-  <node id="-679" visible="true" lat="43.83190629" lon="-72.246965">
-    <!-- conflict: "3934 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "3934 Vt Route 113, Thetford, VT" -->
-    <tag k="addr:housenumber" v="3934"/>
-    <tag k="addr:street" v="Vermont Route 113"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259070"/>
-  </node>
-  <node id="-684" visible="true" lat="43.83173885" lon="-72.24769099">
-    <!-- conflict: "3923 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "3923 Vt Route 113, Thetford, VT" -->
-    <tag k="addr:housenumber" v="3923"/>
-    <tag k="addr:street" v="Vermont Route 113"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259075"/>
-  </node>
-  <node id="-688" visible="true" lat="43.83136055" lon="-72.24759825">
-    <!-- conflict: "3901 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "3901 Vt Route 113, Thetford, VT" -->
-    <tag k="addr:housenumber" v="3901"/>
-    <tag k="addr:street" v="Vermont Route 113"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259079"/>
-  </node>
   <node id="-692" visible="true" lat="43.83120482" lon="-72.24665888">
     <!-- conflict: "3884 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "3884 Vt Route 113, Thetford, VT" -->
     <tag k="addr:housenumber" v="3884"/>
@@ -680,32 +645,11 @@
     <tag k="ref:vcgi:esiteid" v="259100"/>
   </node>
   <node id="-715" visible="true" lat="43.830301" lon="-72.2464116">
-    <!-- conflict: "3820 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "3820 Vt Route 113, Thetford, VT" -->
+    <!-- conflict: "3820 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "3820 Vermont Route 113r, Thetford, VT" -->
     <tag k="addr:housenumber" v="3820"/>
     <tag k="addr:street" v="Vermont Route 113"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259106"/>
-  </node>
-  <node id="-719" visible="true" lat="43.83007213" lon="-72.24692164">
-    <!-- conflict: "3815 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "3815 VT Route 113, Thetford, VT" -->
-    <tag k="addr:housenumber" v="3815"/>
-    <tag k="addr:street" v="Vermont Route 113"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259110"/>
-  </node>
-  <node id="-723" visible="true" lat="43.82993187" lon="-72.24633591">
-    <!-- conflict: "3802 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "3802 VT Route 113, Thetford, VT" -->
-    <tag k="addr:housenumber" v="3802"/>
-    <tag k="addr:street" v="Vermont Route 113"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259114"/>
-  </node>
-  <node id="-726" visible="true" lat="43.82976027" lon="-72.24621127">
-    <!-- conflict: "3782 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "3782 VT Route 113, Thetford, VT" -->
-    <tag k="addr:housenumber" v="3782"/>
-    <tag k="addr:street" v="Vermont Route 113"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259117"/>
   </node>
   <node id="-728" visible="true" lat="43.82952469" lon="-72.24674397">
     <!-- conflict: "3779 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "3779 Vt Route 113, Thetford, VT" -->
@@ -735,13 +679,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259150"/>
   </node>
-  <node id="-842" visible="true" lat="43.82049534" lon="-72.23186943">
-    <!-- conflict: "2734 Vermont Route 113, , VT" Fuzzy match to "2734 Vermont Route 113, , " -->
-    <tag k="addr:housenumber" v="2734"/>
-    <tag k="addr:street" v="Vermont Route 113"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259234"/>
-  </node>
   <node id="-845" visible="true" lat="43.82004749" lon="-72.22626992">
     <!-- conflict: "104 Nonsuch Way, , VT" No match in OSM, but a different address exists <5m away: "2448 Vt Route 113, Thetford, VT" -->
     <tag k="addr:housenumber" v="104"/>
@@ -762,20 +699,6 @@
     <tag k="addr:street" v="Vermont Route 113"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259282"/>
-  </node>
-  <node id="-946" visible="true" lat="43.81505538" lon="-72.206424">
-    <!-- conflict: "129 Family Farm Lane, , VT" No match in OSM, but a different address exists <5m away: "1228 Vermont Route 113, Thetford, VT" -->
-    <tag k="addr:housenumber" v="129"/>
-    <tag k="addr:street" v="Family Farm Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259344"/>
-  </node>
-  <node id="-961" visible="true" lat="43.81419441" lon="-72.2065034">
-    <!-- conflict: "77 Family Farm Lane, , VT" No match in OSM, but a different address exists <5m away: "1234 Vermont Route 113, Thetford, VT" -->
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="Family Farm Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259362"/>
   </node>
   <node id="-1010" visible="true" lat="43.81197126" lon="-72.18432591">
     <!-- conflict: "22 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "22 Vt Route 113, Thetford, VT" -->
@@ -826,13 +749,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259721"/>
   </node>
-  <node id="-1336" visible="true" lat="43.83390457" lon="-72.2024576">
-    <!-- conflict: "71 Makalas Way, , VT" No match in OSM, but a different address exists <5m away: "1683 Latham Road, Thetford, VT" -->
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Makalas Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259747"/>
-  </node>
   <node id="-1371" visible="true" lat="43.89696766" lon="-72.26171634">
     <!-- conflict: "8785 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "8785 Vt Route 113, Thetford, VT" -->
     <tag k="addr:housenumber" v="8785"/>
@@ -853,13 +769,6 @@
     <tag k="addr:street" v="Rogers Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259843"/>
-  </node>
-  <node id="-1478" visible="true" lat="43.81703404" lon="-72.20604952">
-    <!-- conflict: "307 Family Farm Lane, , VT" No match in OSM, but a different address exists <5m away: "1044 Vermont Route 113, Thetford, VT" -->
-    <tag k="addr:housenumber" v="307"/>
-    <tag k="addr:street" v="Family Farm Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259903"/>
   </node>
   <node id="-1510" visible="true" lat="43.88778075" lon="-72.25309899">
     <!-- conflict: "439 Vermont Route 244, , VT" No match in OSM, but a different address exists <5m away: "439 VT Route 244, Thetford, VT" -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.20784863" lon="-72.85472055">
     <tag k="addr:housenumber" v="569"/>
     <tag k="addr:street" v="Kew Vasseur Road"/>
@@ -1997,12 +1997,6 @@
     <tag k="addr:street" v="Stark Mount View Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106376"/>
-  </node>
-  <node id="-548" visible="true" lat="44.19354564" lon="-72.89158485">
-    <tag k="addr:housenumber" v="2761"/>
-    <tag k="addr:street" v="Mill Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="106377"/>
   </node>
   <node id="-549" visible="true" lat="44.1933531" lon="-72.85073329">
     <tag k="addr:housenumber" v="1052"/>

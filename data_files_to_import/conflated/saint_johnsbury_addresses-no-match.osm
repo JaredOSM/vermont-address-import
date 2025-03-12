@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.42897902" lon="-72.01814349">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Memorial Drive"/>
@@ -1806,12 +1806,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244579"/>
   </node>
-  <node id="-426" visible="true" lat="44.46054116" lon="-72.01363305">
-    <tag k="addr:housenumber" v="2000"/>
-    <tag k="addr:street" v="Memorial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244580"/>
-  </node>
   <node id="-427" visible="true" lat="44.46060208" lon="-72.01585329">
     <tag k="addr:housenumber" v="1957"/>
     <tag k="addr:street" v="Memorial Drive"/>
@@ -2790,12 +2784,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244842"/>
   </node>
-  <node id="-673" visible="true" lat="44.44700225" lon="-72.01617916">
-    <tag k="addr:housenumber" v="1009"/>
-    <tag k="addr:street" v="Memorial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244844"/>
-  </node>
   <node id="-674" visible="true" lat="44.44671248" lon="-72.0150206">
     <tag k="addr:housenumber" v="1006"/>
     <tag k="addr:street" v="Memorial Drive"/>
@@ -3215,12 +3203,6 @@
     <tag k="addr:street" v="Old Concord Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244949"/>
-  </node>
-  <node id="-767" visible="true" lat="44.43994704" lon="-72.01322176">
-    <tag k="addr:housenumber" v="500"/>
-    <tag k="addr:street" v="Memorial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="244950"/>
   </node>
   <node id="-768" visible="true" lat="44.43924745" lon="-71.97718839">
     <tag k="addr:housenumber" v="925"/>
@@ -3965,12 +3947,6 @@
     <tag k="addr:street" v="Mc Gill Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245110"/>
-  </node>
-  <node id="-915" visible="true" lat="44.4332653" lon="-72.01677441">
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Memorial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="245112"/>
   </node>
   <node id="-916" visible="true" lat="44.4330495" lon="-71.99716343">
     <tag k="addr:housenumber" v="728"/>
@@ -7386,12 +7362,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245996"/>
   </node>
-  <node id="-1708" visible="true" lat="44.42162308" lon="-72.02196816">
-    <tag k="addr:housenumber" v="421"/>
-    <tag k="addr:street" v="Summer Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="245997"/>
-  </node>
   <node id="-1709" visible="true" lat="44.42149741" lon="-72.01610033">
     <tag k="addr:housenumber" v="82"/>
     <tag k="addr:street" v="North Avenue"/>
@@ -8538,12 +8508,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246257"/>
   </node>
-  <node id="-1942" visible="true" lat="44.41978561" lon="-72.02396121">
-    <tag k="addr:housenumber" v="159"/>
-    <tag k="addr:street" v="Central Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="246259"/>
-  </node>
   <node id="-1943" visible="true" lat="44.41979387" lon="-72.00272818">
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Mountain Avenue"/>
@@ -8597,12 +8561,6 @@
     <tag k="addr:street" v="Caledonia Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246269"/>
-  </node>
-  <node id="-1953" visible="true" lat="44.41983317" lon="-72.02075522">
-    <tag k="addr:housenumber" v="1265"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="246271"/>
   </node>
   <node id="-1954" visible="true" lat="44.41988174" lon="-72.02443907">
     <tag k="addr:housenumber" v="37"/>
@@ -9185,12 +9143,6 @@
     <tag k="addr:street" v="Higgins Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246396"/>
-  </node>
-  <node id="-2062" visible="true" lat="44.41892717" lon="-72.02014295">
-    <tag k="addr:housenumber" v="218"/>
-    <tag k="addr:street" v="Eastern Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="246398"/>
   </node>
   <node id="-2063" visible="true" lat="44.41888192" lon="-72.01030282">
     <tag k="addr:housenumber" v="101"/>
@@ -12702,12 +12654,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="247207"/>
   </node>
-  <node id="-2778" visible="true" lat="44.46037324" lon="-72.01578799">
-    <tag k="addr:housenumber" v="1951"/>
-    <tag k="addr:street" v="Memorial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="247208"/>
-  </node>
   <node id="-2779" visible="true" lat="44.43506819" lon="-72.00292702">
     <tag k="addr:housenumber" v="374"/>
     <tag k="addr:street" v="Rocky Ridge Road"/>
@@ -13224,12 +13170,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275370"/>
   </node>
-  <node id="-2873" visible="true" lat="44.42118939" lon="-71.97180618">
-    <tag k="addr:housenumber" v="1132"/>
-    <tag k="addr:street" v="Higgins Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275372"/>
-  </node>
   <node id="-2874" visible="true" lat="44.42077886" lon="-71.97239246">
     <tag k="addr:housenumber" v="1088"/>
     <tag k="addr:street" v="Higgins Hill Road"/>
@@ -13343,12 +13283,6 @@
     <tag k="addr:street" v="Avenue A"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="313132"/>
-  </node>
-  <node id="-2895" visible="true" lat="44.45886938" lon="-72.01238901">
-    <tag k="addr:housenumber" v="1900"/>
-    <tag k="addr:street" v="Memorial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="313464"/>
   </node>
   <node id="-2896" visible="true" lat="44.43766245" lon="-72.01775516">
     <tag k="addr:housenumber" v="496"/>
@@ -14519,30 +14453,6 @@
     <tag k="addr:street" v="Pearl Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="763404"/>
-  </node>
-  <node id="-3153" visible="true" lat="44.41794522" lon="-72.01717733">
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="Eastern Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="763405"/>
-  </node>
-  <node id="-3154" visible="true" lat="44.41799522" lon="-72.01728788">
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Eastern Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="763406"/>
-  </node>
-  <node id="-3155" visible="true" lat="44.41800781" lon="-72.01733629">
-    <tag k="addr:housenumber" v="73"/>
-    <tag k="addr:street" v="Eastern Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="763407"/>
-  </node>
-  <node id="-3156" visible="true" lat="44.41802956" lon="-72.01741252">
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Eastern Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="763408"/>
   </node>
   <node id="-3157" visible="true" lat="44.41784908" lon="-72.01752696">
     <tag k="addr:housenumber" v="85"/>

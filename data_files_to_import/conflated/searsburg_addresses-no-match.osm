@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-108" visible="true" lat="42.90183682" lon="-72.94998476">
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="227"/>
-    <tag k="addr:street" v="Somerset Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217266"/>
-  </node>
-  <node id="-110" visible="true" lat="42.89552916" lon="-72.98782338">
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="1595"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217268"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-111" visible="true" lat="42.89608539" lon="-73.00232262">
     <tag k="addr:city" v="Searsburg"/>
     <tag k="addr:housenumber" v="65"/>
@@ -41,13 +27,6 @@
     <tag k="addr:street" v="Old Route 9"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217311"/>
-  </node>
-  <node id="-149" visible="true" lat="42.89161679" lon="-72.97402144">
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Vermont Route 8"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217313"/>
   </node>
   <node id="-156" visible="true" lat="42.89072702" lon="-73.00040276">
     <tag k="addr:city" v="Searsburg"/>
@@ -90,13 +69,6 @@
     <tag k="addr:street" v="Sleepy Hollow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217352"/>
-  </node>
-  <node id="-192" visible="true" lat="42.87285875" lon="-72.93710988">
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="779"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217360"/>
   </node>
   <node id="-196" visible="true" lat="42.89603197" lon="-72.96782762">
     <tag k="addr:city" v="Searsburg"/>
@@ -203,20 +175,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758249"/>
   </node>
-  <node id="-242" visible="true" lat="42.87327857" lon="-72.93311004">
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="749"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="759032"/>
-  </node>
-  <node id="-243" visible="true" lat="42.87211305" lon="-72.93029826">
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="699"/>
-    <tag k="addr:street" v="Vermont Route 9 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="759033"/>
-  </node>
   <node id="-245" visible="true" lat="42.88569941" lon="-72.97547711">
     <tag k="addr:city" v="Searsburg"/>
     <tag k="addr:housenumber" v="171"/>
@@ -244,13 +202,6 @@
     <tag k="addr:street" v="Vermont Route 9 West"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="767554"/>
-  </node>
-  <node id="-251" visible="true" lat="42.89464958" lon="-72.97570639">
-    <tag k="addr:city" v="Searsburg"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Vermont Route 8"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="900032"/>
   </node>
   <node id="-252" visible="true" lat="42.86017285" lon="-72.97462356">
     <tag k="addr:city" v="Searsburg"/>

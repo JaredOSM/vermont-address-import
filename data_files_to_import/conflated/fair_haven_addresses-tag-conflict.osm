@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-199" visible="true" lat="43.60370069" lon="-73.27542366">
     <!-- conflict: "731 Vermont Route 22A North, Fair Haven, VT" No match in OSM, but a different address exists <5m away: "87 Washington St, , " -->
     <tag k="addr:city" v="Fair Haven"/>
@@ -63,6 +63,14 @@
     <tag k="addr:street" v="Capital Hill"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="101869"/>
+  </node>
+  <node id="-411" visible="true" lat="43.59865574" lon="-73.26007201">
+    <!-- conflict: "11 Capital Hill, Fair Haven, VT" No match in OSM, but a different address exists <5m away: "9 Capitol Hill, Fair Haven, VT" -->
+    <tag k="addr:city" v="Fair Haven"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Capital Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="101896"/>
   </node>
   <node id="-416" visible="true" lat="43.59891891" lon="-73.25936889">
     <!-- conflict: "13 Capital Hill, Fair Haven, VT" No match in OSM, but a different address exists <5m away: "13 Capitol Hill, Fair Haven, VT" -->

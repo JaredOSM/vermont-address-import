@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-252" visible="true" lat="43.63430698" lon="-72.51854391">
     <!-- offset: "69 Old River Road, , VT" Significant offset - 387.2m -->
     <tag k="addr:housenumber" v="69"/>
@@ -13,6 +13,20 @@
     <tag k="addr:street" v="Gabert Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302812"/>
+  </node>
+  <node id="-613" visible="true" lat="43.62399372" lon="-72.52323169">
+    <!-- offset: "39 River Street, , VT" Significant offset - 8658.3m -->
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="303091"/>
+  </node>
+  <node id="-709" visible="true" lat="43.62224952" lon="-72.52688966">
+    <!-- offset: "61 River Street, , VT" Significant offset - 8960.1m -->
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="303199"/>
   </node>
   <node id="-1642" visible="true" lat="43.54541639" lon="-72.55263692">
     <!-- offset: "6751 South Road, , VT" Significant offset - 120.8m -->

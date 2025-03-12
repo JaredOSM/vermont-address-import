@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-103" visible="true" lat="44.64435576" lon="-73.0156405">
     <!-- conflict: "2228 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "2228 Vt Route 128, Westford, VT" -->
     <tag k="addr:housenumber" v="2228"/>
@@ -13,13 +13,6 @@
     <tag k="addr:street" v="Vermont Route 128"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281256"/>
-  </node>
-  <node id="-105" visible="true" lat="44.64617712" lon="-73.01491031">
-    <!-- conflict: "2254 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "2254 Vt Route 128, Westford, VT" -->
-    <tag k="addr:housenumber" v="2254"/>
-    <tag k="addr:street" v="Vermont Route 128"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="281257"/>
   </node>
   <node id="-106" visible="true" lat="44.64563554" lon="-73.01335261">
     <!-- conflict: "2255 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "2255 Vt Route 128, Westford, VT" -->
@@ -42,6 +35,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281269"/>
   </node>
+  <node id="-167" visible="true" lat="44.63634572" lon="-73.01713636">
+    <!-- conflict: "2107 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "2107 Vt Route 128, Westford, VT" -->
+    <tag k="addr:housenumber" v="2107"/>
+    <tag k="addr:street" v="Vermont Route 128"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281320"/>
+  </node>
   <node id="-168" visible="true" lat="44.63612031" lon="-73.01727841">
     <!-- conflict: "2105 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "2105 Vt Route 128, Westford, VT" -->
     <tag k="addr:housenumber" v="2105"/>
@@ -55,6 +55,69 @@
     <tag k="addr:street" v="Vermont Route 128"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281322"/>
+  </node>
+  <node id="-177" visible="true" lat="44.63581997" lon="-73.04857685">
+    <!-- conflict: "375 Westford Milton Road, , VT" Fuzzy match to "375 Westford-Milton Road, Westford, " -->
+    <tag k="addr:housenumber" v="375"/>
+    <tag k="addr:street" v="Westford Milton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281332"/>
+  </node>
+  <node id="-179" visible="true" lat="44.63348522" lon="-73.05043557">
+    <!-- conflict: "384 Westford Milton Road, , VT" Fuzzy match to "384 Westford-Milton Road, Westford, " -->
+    <tag k="addr:housenumber" v="384"/>
+    <tag k="addr:street" v="Westford Milton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281334"/>
+  </node>
+  <node id="-181" visible="true" lat="44.63421376" lon="-73.04866576">
+    <!-- conflict: "362 Westford Milton Road, , VT" Fuzzy match to "362 Westford-Milton Road, Westford, " -->
+    <tag k="addr:housenumber" v="362"/>
+    <tag k="addr:street" v="Westford Milton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281336"/>
+  </node>
+  <node id="-182" visible="true" lat="44.63358996" lon="-73.04859975">
+    <!-- conflict: "354 Westford Milton Road, , VT" Fuzzy match to "354 Westford-Milton Road, Westford, " -->
+    <tag k="addr:housenumber" v="354"/>
+    <tag k="addr:street" v="Westford Milton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281337"/>
+  </node>
+  <node id="-201" visible="true" lat="44.63140981" lon="-73.03866792">
+    <!-- conflict: "245 Westford Milton Road, , VT" Fuzzy match to "245 Westford-Milton Road, Westford, VT" -->
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Westford Milton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281357"/>
+  </node>
+  <node id="-203" visible="true" lat="44.63223294" lon="-73.03740308">
+    <!-- conflict: "215 Westford Milton Road, , VT" Fuzzy match to "215 Westford-Milton Road, Westford, VT" -->
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Westford Milton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281359"/>
+  </node>
+  <node id="-204" visible="true" lat="44.632563" lon="-73.0340449">
+    <!-- conflict: "199 Westford Milton Road, , VT" Fuzzy match to "199 Westford-Milton Road, Westford, VT" -->
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:street" v="Westford Milton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281360"/>
+  </node>
+  <node id="-208" visible="true" lat="44.63309075" lon="-73.03116067">
+    <!-- conflict: "143 Westford Milton Road, , VT" Fuzzy match to "143 Westford-Milton Road, Westford, VT" -->
+    <tag k="addr:housenumber" v="143"/>
+    <tag k="addr:street" v="Westford Milton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281364"/>
+  </node>
+  <node id="-209" visible="true" lat="44.63389431" lon="-73.03163218">
+    <!-- conflict: "147 Westford Milton Road, , VT" Fuzzy match to "147 Westford-Milton Road, Westford, VT" -->
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:street" v="Westford Milton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281365"/>
   </node>
   <node id="-212" visible="true" lat="44.63166642" lon="-73.01903947">
     <!-- conflict: "2040 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "2040 Vt Route 128, Westford, VT" -->
@@ -196,6 +259,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281665"/>
   </node>
+  <node id="-536" visible="true" lat="44.61694252" lon="-72.92772626">
+    <!-- conflict: "1100 Vermont Route 15, , VT" No match in OSM, but a different address exists <5m away: "1100 , , " -->
+    <tag k="addr:housenumber" v="1100"/>
+    <tag k="addr:street" v="Vermont Route 15"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281696"/>
+  </node>
   <node id="-595" visible="true" lat="44.61208579" lon="-73.01100357">
     <!-- conflict: "1713 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1713 Vt Route 128, Westford, VT" -->
     <tag k="addr:housenumber" v="1713"/>
@@ -336,19 +406,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281891"/>
   </node>
-  <node id="-730" visible="true" lat="44.60566985" lon="-73.00810759">
-    <!-- conflict: "1601 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1601 Vt Route 128, Westford, VT" -->
-    <tag k="addr:housenumber" v="1601"/>
-    <tag k="addr:street" v="Vermont Route 128"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="281893"/>
-  </node>
   <node id="-731" visible="true" lat="44.60626762" lon="-73.00989665">
     <!-- conflict: "1602 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1602 Vt Route 128, Westford, VT" -->
     <tag k="addr:housenumber" v="1602"/>
     <tag k="addr:street" v="Vermont Route 128"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281894"/>
+  </node>
+  <node id="-794" visible="true" lat="44.60164681" lon="-72.93315392">
+    <!-- conflict: "5 Wildberry Lane, , VT" Fuzzy match to "5 Wild Berry Lane, , " -->
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Wildberry Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281963"/>
   </node>
   <node id="-828" visible="true" lat="44.59747966" lon="-73.01094752">
     <!-- conflict: "1478 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1478 Vt Route 128, Westford, VT" -->
@@ -371,19 +441,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="282039"/>
   </node>
-  <node id="-871" visible="true" lat="44.59177588" lon="-73.01364061">
-    <!-- conflict: "1390 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1390 Vt Route 128, Westford, VT" -->
-    <tag k="addr:housenumber" v="1390"/>
-    <tag k="addr:street" v="Vermont Route 128"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="282041"/>
-  </node>
   <node id="-911" visible="true" lat="44.58743265" lon="-73.01494581">
     <!-- conflict: "1325 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1325 Vt Route 128, Westford, VT" -->
     <tag k="addr:housenumber" v="1325"/>
     <tag k="addr:street" v="Vermont Route 128"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="282084"/>
+  </node>
+  <node id="-912" visible="true" lat="44.5871597" lon="-73.01464752">
+    <!-- conflict: "1319 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1319 State Route 128, Westford, VT" -->
+    <tag k="addr:housenumber" v="1319"/>
+    <tag k="addr:street" v="Vermont Route 128"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="282085"/>
   </node>
   <node id="-917" visible="true" lat="44.58619141" lon="-73.01520874">
     <!-- conflict: "1305 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1305 Vt Route 128, Westford, VT" -->
@@ -392,12 +462,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="282090"/>
   </node>
-  <node id="-979" visible="true" lat="44.58370355" lon="-73.01691993">
-    <!-- conflict: "1266 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1266 Vt Route 128, Westford, VT" -->
-    <tag k="addr:housenumber" v="1266"/>
+  <node id="-918" visible="true" lat="44.58530042" lon="-73.01636634">
+    <!-- conflict: "1292 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1292 Vt Route 128, Westford, VT" -->
+    <tag k="addr:housenumber" v="1292"/>
     <tag k="addr:street" v="Vermont Route 128"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="282153"/>
+    <tag k="ref:vcgi:esiteid" v="282091"/>
   </node>
   <node id="-1076" visible="true" lat="44.57257129" lon="-73.02075469">
     <!-- conflict: "1095 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1095 Vt Route 128, Westford, VT" -->
@@ -448,6 +518,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="282340"/>
   </node>
+  <node id="-1162" visible="true" lat="44.64178189" lon="-73.0139992">
+    <!-- conflict: "2189 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "2189 Vt Route 128, Westford, VT" -->
+    <tag k="addr:housenumber" v="2189"/>
+    <tag k="addr:street" v="Vermont Route 128"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="282341"/>
+  </node>
   <node id="-1169" visible="true" lat="44.60846434" lon="-73.00972048">
     <!-- conflict: "1640 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1640 Vt Route 128, Westford, VT" -->
     <tag k="addr:housenumber" v="1640"/>
@@ -469,13 +546,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="282350"/>
   </node>
-  <node id="-1172" visible="true" lat="44.59886413" lon="-73.01074266">
-    <!-- conflict: "1494 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1494 Vt Route 128, Westford, VT" -->
-    <tag k="addr:housenumber" v="1494"/>
-    <tag k="addr:street" v="Vermont Route 128"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="282351"/>
-  </node>
   <node id="-1214" visible="true" lat="44.5976534" lon="-73.01024407">
     <!-- conflict: "1483 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1483 Vt Route 128, Westford, VT" -->
     <tag k="addr:housenumber" v="1483"/>
@@ -489,13 +559,6 @@
     <tag k="addr:street" v="Vermont Route 128"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="317901"/>
-  </node>
-  <node id="-1245" visible="true" lat="44.61146667" lon="-73.00853687">
-    <!-- conflict: "1685 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1685 Vt Route 128, Westford, VT" -->
-    <tag k="addr:housenumber" v="1685"/>
-    <tag k="addr:street" v="Vermont Route 128"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="317907"/>
   </node>
   <node id="-1300" visible="true" lat="44.58760006" lon="-73.01695443">
     <!-- conflict: "1334 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1334 Vt Route 128, Westford, VT" -->
@@ -524,6 +587,13 @@
     <tag k="addr:street" v="Vermont Route 128"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="449263"/>
+  </node>
+  <node id="-1355" visible="true" lat="44.60198838" lon="-73.01189516">
+    <!-- conflict: "1560 Vermont Route 128, , VT" No match in OSM, but a different address exists <5m away: "1560 Vt Route 128, Westford, VT" -->
+    <tag k="addr:housenumber" v="1560"/>
+    <tag k="addr:street" v="Vermont Route 128"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611517"/>
   </node>
   <node id="-1438" visible="true" lat="44.60857678" lon="-73.01425159">
     <!-- conflict: "43 Split Rock Place, , VT" No match in OSM, but a different address exists <5m away: "42 Brookside Road, Westford, VT" -->

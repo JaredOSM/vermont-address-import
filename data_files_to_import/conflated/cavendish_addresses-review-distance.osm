@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-688" visible="true" lat="43.38158532" lon="-72.64281987">
     <!-- offset: "224 Main Street, , VT" Significant offset - 5160.6m -->
     <tag k="addr:housenumber" v="224"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="62082"/>
+  </node>
+  <node id="-886" visible="true" lat="43.35123" lon="-72.64454">
+    <!-- offset: "320 Pennell Road, , VT" Significant offset - 162m -->
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:street" v="Pennell Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62298"/>
+  </node>
+  <node id="-1084" visible="true" lat="43.3497624" lon="-72.62204622">
+    <!-- offset: "5660 Vermont Route 103 North, , VT" Significant offset - 208.9m -->
+    <tag k="addr:housenumber" v="5660"/>
+    <tag k="addr:street" v="Vermont Route 103 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="700105"/>
   </node>
 </osm>

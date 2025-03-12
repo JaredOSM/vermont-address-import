@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-144" visible="true" lat="44.66433118" lon="-71.88897995">
+    <!-- conflict: "1789 Vermont Route 114, East Haven, VT" No match in OSM, but a different address exists <5m away: "1771 Vermont Route 114, , " -->
+    <tag k="addr:city" v="East Haven"/>
+    <tag k="addr:housenumber" v="1789"/>
+    <tag k="addr:street" v="Vermont Route 114"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="90594"/>
+  </node>
+  <node id="-146" visible="true" lat="44.66405292" lon="-71.88898624">
+    <!-- conflict: "1771 Vermont Route 114, East Haven, VT" Fuzzy match to "1771 Vermont Route 114, , " -->
+    <tag k="addr:city" v="East Haven"/>
+    <tag k="addr:housenumber" v="1771"/>
+    <tag k="addr:street" v="Vermont Route 114"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="90596"/>
+  </node>
 </osm>

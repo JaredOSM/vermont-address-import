@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.23967592" lon="-72.55774841">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="149"/>
@@ -20,13 +20,6 @@
     <tag k="addr:street" v="Ballfield Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="164219"/>
-  </node>
-  <node id="-321" visible="true" lat="44.27040715" lon="-72.57813942">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="362"/>
-    <tag k="addr:street" v="Parkway Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="164381"/>
   </node>
   <node id="-369" visible="true" lat="44.2692223" lon="-72.57457668">
     <tag k="addr:city" v="Montpelier"/>
@@ -49,19 +42,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="164694"/>
   </node>
-  <node id="-642" visible="true" lat="44.26506601" lon="-72.56833301">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Mechanic Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="164736"/>
-  </node>
   <node id="-723" visible="true" lat="44.26403892" lon="-72.57258243">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="166"/>
     <tag k="addr:street" v="Elm Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="164823"/>
+  </node>
+  <node id="-768" visible="true" lat="44.26351928" lon="-72.54689025">
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="328"/>
+    <tag k="addr:street" v="Westwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="164872"/>
   </node>
   <node id="-836" visible="true" lat="44.26277755" lon="-72.57230272">
     <tag k="addr:city" v="Montpelier"/>
@@ -84,20 +77,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165002"/>
   </node>
-  <node id="-885" visible="true" lat="44.26238674" lon="-72.56929144">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="171"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165003"/>
-  </node>
-  <node id="-901" visible="true" lat="44.26242143" lon="-72.572975">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165022"/>
-  </node>
   <node id="-911" visible="true" lat="44.26225724" lon="-72.57058727">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="3"/>
@@ -105,33 +84,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165032"/>
   </node>
-  <node id="-915" visible="true" lat="44.26229637" lon="-72.57372372">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165036"/>
-  </node>
-  <node id="-917" visible="true" lat="44.26222083" lon="-72.57315979">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="146"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165038"/>
-  </node>
   <node id="-918" visible="true" lat="44.26219172" lon="-72.57389659">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="144B"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165039"/>
-  </node>
-  <node id="-942" visible="true" lat="44.2620614" lon="-72.57337034">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165065"/>
   </node>
   <node id="-946" visible="true" lat="44.26195918" lon="-72.57262221">
     <tag k="addr:city" v="Montpelier"/>
@@ -167,13 +125,6 @@
     <tag k="addr:street" v="Brown Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165093"/>
-  </node>
-  <node id="-977" visible="true" lat="44.26188408" lon="-72.57370137">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="140"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165107"/>
   </node>
   <node id="-985" visible="true" lat="44.26175121" lon="-72.57190826">
     <tag k="addr:city" v="Montpelier"/>
@@ -273,13 +224,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165183"/>
   </node>
-  <node id="-1053" visible="true" lat="44.26131984" lon="-72.56391306">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="223"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165187"/>
-  </node>
   <node id="-1056" visible="true" lat="44.26132583" lon="-72.57015991">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="13"/>
@@ -350,13 +294,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165244"/>
   </node>
-  <node id="-1104" visible="true" lat="44.2607621" lon="-72.56973938">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Loomis Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165246"/>
-  </node>
   <node id="-1105" visible="true" lat="44.26087701" lon="-72.57495644">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="118"/>
@@ -384,13 +321,6 @@
     <tag k="addr:street" v="Loomis Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165259"/>
-  </node>
-  <node id="-1117" visible="true" lat="44.2607161" lon="-72.57001081">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Loomis Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165261"/>
   </node>
   <node id="-1122" visible="true" lat="44.26070498" lon="-72.57188069">
     <tag k="addr:city" v="Montpelier"/>
@@ -420,13 +350,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165279"/>
   </node>
-  <node id="-1134" visible="true" lat="44.26059306" lon="-72.570192">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Loomis Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165280"/>
-  </node>
   <node id="-1139" visible="true" lat="44.2606051" lon="-72.57200403">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="5"/>
@@ -440,41 +363,6 @@
     <tag k="addr:street" v="Loomis Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165290"/>
-  </node>
-  <node id="-1145" visible="true" lat="44.2605189" lon="-72.5737775">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="School Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165292"/>
-  </node>
-  <node id="-1146" visible="true" lat="44.26055531" lon="-72.5752386">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165293"/>
-  </node>
-  <node id="-1153" visible="true" lat="44.26041044" lon="-72.57061248">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Loomis Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165302"/>
-  </node>
-  <node id="-1155" visible="true" lat="44.26062995" lon="-72.5696513">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165304"/>
-  </node>
-  <node id="-1156" visible="true" lat="44.26045829" lon="-72.57555226">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Langdon Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165306"/>
   </node>
   <node id="-1159" visible="true" lat="44.26056346" lon="-72.57285823">
     <tag k="addr:city" v="Montpelier"/>
@@ -490,20 +378,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165312"/>
   </node>
-  <node id="-1164" visible="true" lat="44.26025714" lon="-72.57032206">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Loomis Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165314"/>
-  </node>
-  <node id="-1167" visible="true" lat="44.26041249" lon="-72.56955867">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165317"/>
-  </node>
   <node id="-1171" visible="true" lat="44.26049266" lon="-72.57268277">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="32"/>
@@ -511,40 +385,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165321"/>
   </node>
-  <node id="-1174" visible="true" lat="44.26030723" lon="-72.57088708">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Loomis Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165324"/>
-  </node>
-  <node id="-1178" visible="true" lat="44.26025129" lon="-72.57108168">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Loomis Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165328"/>
-  </node>
-  <node id="-1179" visible="true" lat="44.26044512" lon="-72.57626411">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165330"/>
-  </node>
   <node id="-1181" visible="true" lat="44.26049939" lon="-72.57160413">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Loomis Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165333"/>
-  </node>
-  <node id="-1182" visible="true" lat="44.26038307" lon="-72.57595842">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165334"/>
   </node>
   <node id="-1197" visible="true" lat="44.26024866" lon="-72.57675977">
     <tag k="addr:city" v="Montpelier"/>
@@ -574,33 +420,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165357"/>
   </node>
-  <node id="-1206" visible="true" lat="44.26012584" lon="-72.56927748">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165362"/>
-  </node>
-  <node id="-1207" visible="true" lat="44.26013856" lon="-72.57629165">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165363"/>
-  </node>
   <node id="-1208" visible="true" lat="44.26033792" lon="-72.57175507">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Loomis Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165364"/>
-  </node>
-  <node id="-1214" visible="true" lat="44.26011833" lon="-72.5761591">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165371"/>
   </node>
   <node id="-1218" visible="true" lat="44.26011596" lon="-72.57203724">
     <tag k="addr:city" v="Montpelier"/>
@@ -609,40 +434,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165375"/>
   </node>
-  <node id="-1219" visible="true" lat="44.26003653" lon="-72.56904878">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165376"/>
-  </node>
-  <node id="-1222" visible="true" lat="44.26007492" lon="-72.57601275">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165379"/>
-  </node>
-  <node id="-1229" visible="true" lat="44.26001852" lon="-72.57575642">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165387"/>
-  </node>
   <node id="-1231" visible="true" lat="44.25996638" lon="-72.57266807">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="School Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165389"/>
-  </node>
-  <node id="-1234" visible="true" lat="44.25988412" lon="-72.57032164">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Park Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165392"/>
   </node>
   <node id="-1241" visible="true" lat="44.25983784" lon="-72.57581461">
     <tag k="addr:city" v="Montpelier"/>
@@ -651,34 +448,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165401"/>
   </node>
-  <node id="-1254" visible="true" lat="44.2596895" lon="-72.57464867">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="East State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165414"/>
-  </node>
-  <node id="-1255" visible="true" lat="44.25996191" lon="-72.5750957">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="83"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165415"/>
-  </node>
-  <node id="-1264" visible="true" lat="44.25950201" lon="-72.56910714">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Hubbard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165425"/>
-  </node>
-  <node id="-1267" visible="true" lat="44.25958261" lon="-72.56826894">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165428"/>
-  </node>
   <node id="-1268" visible="true" lat="44.25964657" lon="-72.57348988">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="32"/>
@@ -686,26 +455,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165430"/>
   </node>
-  <node id="-1269" visible="true" lat="44.25977888" lon="-72.5753811">
+  <node id="-1281" visible="true" lat="44.25964847" lon="-72.56073582">
     <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="73"/>
-    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="College Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165431"/>
-  </node>
-  <node id="-1270" visible="true" lat="44.25976532" lon="-72.56999209">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Park Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165432"/>
-  </node>
-  <node id="-1273" visible="true" lat="44.25959183" lon="-72.5740649">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="East State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165435"/>
+    <tag k="ref:vcgi:esiteid" v="165443"/>
   </node>
   <node id="-1284" visible="true" lat="44.25954694" lon="-72.57328886">
     <tag k="addr:city" v="Montpelier"/>
@@ -714,96 +469,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165446"/>
   </node>
-  <node id="-1285" visible="true" lat="44.25952454" lon="-72.5739467">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="East State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165447"/>
-  </node>
-  <node id="-1287" visible="true" lat="44.25961008" lon="-72.56984561">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Park Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165449"/>
-  </node>
-  <node id="-1288" visible="true" lat="44.2594811" lon="-72.57380415">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="East State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165450"/>
-  </node>
-  <node id="-1292" visible="true" lat="44.25946049" lon="-72.5681321">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165455"/>
-  </node>
-  <node id="-1294" visible="true" lat="44.25949048" lon="-72.57612648">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165457"/>
-  </node>
   <node id="-1295" visible="true" lat="44.25944816" lon="-72.57538123">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="61"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165458"/>
-  </node>
-  <node id="-1298" visible="true" lat="44.2596855" lon="-72.56870814">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165461"/>
-  </node>
-  <node id="-1300" visible="true" lat="44.25941685" lon="-72.57362153">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="East State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165463"/>
-  </node>
-  <node id="-1307" visible="true" lat="44.25942638" lon="-72.57424817">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Miles Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165470"/>
-  </node>
-  <node id="-1309" visible="true" lat="44.25940287" lon="-72.57621353">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165472"/>
-  </node>
-  <node id="-1310" visible="true" lat="44.25935108" lon="-72.57408768">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Miles Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165473"/>
-  </node>
-  <node id="-1311" visible="true" lat="44.25932667" lon="-72.5678928">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165474"/>
-  </node>
-  <node id="-1314" visible="true" lat="44.25927982" lon="-72.56841971">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Graham Terrace"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165478"/>
   </node>
   <node id="-1320" visible="true" lat="44.25920498" lon="-72.56481709">
     <tag k="addr:city" v="Montpelier"/>
@@ -812,26 +483,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165484"/>
   </node>
-  <node id="-1326" visible="true" lat="44.25916138" lon="-72.56763086">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165493"/>
-  </node>
   <node id="-1335" visible="true" lat="44.2591687" lon="-72.56626558">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Fuller Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165502"/>
-  </node>
-  <node id="-1339" visible="true" lat="44.25916296" lon="-72.57643205">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165506"/>
   </node>
   <node id="-1341" visible="true" lat="44.25913143" lon="-72.57471945">
     <tag k="addr:city" v="Montpelier"/>
@@ -847,61 +504,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165510"/>
   </node>
-  <node id="-1344" visible="true" lat="44.25907087" lon="-72.56750677">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165511"/>
-  </node>
-  <node id="-1346" visible="true" lat="44.25906601" lon="-72.57302439">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="East State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165513"/>
-  </node>
-  <node id="-1348" visible="true" lat="44.25914675" lon="-72.56963905">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Hubbard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165515"/>
-  </node>
-  <node id="-1356" visible="true" lat="44.25899258" lon="-72.57655344">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165523"/>
-  </node>
   <node id="-1357" visible="true" lat="44.25896453" lon="-72.60710143">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="321"/>
     <tag k="addr:street" v="State Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165524"/>
-  </node>
-  <node id="-1364" visible="true" lat="44.25890153" lon="-72.5673016">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165531"/>
-  </node>
-  <node id="-1369" visible="true" lat="44.2588579" lon="-72.56704723">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165537"/>
-  </node>
-  <node id="-1377" visible="true" lat="44.25883987" lon="-72.5662643">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165545"/>
   </node>
   <node id="-1382" visible="true" lat="44.25872756" lon="-72.57496555">
     <tag k="addr:city" v="Montpelier"/>
@@ -910,47 +518,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165551"/>
   </node>
-  <node id="-1383" visible="true" lat="44.25869197" lon="-72.56685666">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165552"/>
-  </node>
   <node id="-1386" visible="true" lat="44.25871948" lon="-72.57637364">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165555"/>
-  </node>
-  <node id="-1392" visible="true" lat="44.25873681" lon="-72.57272897">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="East State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165561"/>
-  </node>
-  <node id="-1395" visible="true" lat="44.25864555" lon="-72.56774049">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Marvin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165565"/>
-  </node>
-  <node id="-1396" visible="true" lat="44.25857852" lon="-72.57221264">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="East State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165566"/>
-  </node>
-  <node id="-1404" visible="true" lat="44.25849957" lon="-72.57182539">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="East State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165575"/>
   </node>
   <node id="-1413" visible="true" lat="44.25849515" lon="-72.57622326">
     <tag k="addr:city" v="Montpelier"/>
@@ -959,187 +532,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165585"/>
   </node>
-  <node id="-1414" visible="true" lat="44.25840128" lon="-72.57479066">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Downing Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165586"/>
-  </node>
-  <node id="-1415" visible="true" lat="44.25840763" lon="-72.57161543">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="East State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165587"/>
-  </node>
-  <node id="-1420" visible="true" lat="44.25841632" lon="-72.56723153">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Marvin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165592"/>
-  </node>
-  <node id="-1430" visible="true" lat="44.25849824" lon="-72.57463349">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Downing Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165602"/>
-  </node>
-  <node id="-1432" visible="true" lat="44.25831604" lon="-72.56786346">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Marvin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165604"/>
-  </node>
-  <node id="-1433" visible="true" lat="44.25841631" lon="-72.57586827">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165605"/>
-  </node>
-  <node id="-1435" visible="true" lat="44.25831634" lon="-72.5740917">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Monsignor Crosby Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165607"/>
-  </node>
-  <node id="-1438" visible="true" lat="44.25830001" lon="-72.57492306">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Downing Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165610"/>
-  </node>
-  <node id="-1439" visible="true" lat="44.25831411" lon="-72.5668946">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Marvin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165611"/>
-  </node>
-  <node id="-1440" visible="true" lat="44.25831982" lon="-72.57178653">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Hubbard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165612"/>
-  </node>
-  <node id="-1443" visible="true" lat="44.25826688" lon="-72.57191982">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Hubbard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165615"/>
-  </node>
-  <node id="-1444" visible="true" lat="44.25815744" lon="-72.56737036">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Marvin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165616"/>
-  </node>
-  <node id="-1449" visible="true" lat="44.25820818" lon="-72.57506223">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Downing Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165621"/>
-  </node>
-  <node id="-1453" visible="true" lat="44.25829019" lon="-72.57551023">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165625"/>
-  </node>
-  <node id="-1454" visible="true" lat="44.25825564" lon="-72.57210345">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Hubbard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165626"/>
-  </node>
   <node id="-1457" visible="true" lat="44.25812481" lon="-72.57336155">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Wilder Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165629"/>
-  </node>
-  <node id="-1458" visible="true" lat="44.25810457" lon="-72.5721889">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Hubbard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165630"/>
-  </node>
-  <node id="-1460" visible="true" lat="44.25812948" lon="-72.57519117">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Downing Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165633"/>
-  </node>
-  <node id="-1461" visible="true" lat="44.25807847" lon="-72.57530399">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Downing Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165634"/>
-  </node>
-  <node id="-1465" visible="true" lat="44.25799359" lon="-72.57239968">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Hubbard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165638"/>
-  </node>
-  <node id="-1468" visible="true" lat="44.25806921" lon="-72.56718207">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Bingham Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165641"/>
-  </node>
-  <node id="-1474" visible="true" lat="44.25800449" lon="-72.57543803">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165647"/>
-  </node>
-  <node id="-1477" visible="true" lat="44.25798315" lon="-72.57468104">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Monsignor Crosby Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165650"/>
-  </node>
-  <node id="-1494" visible="true" lat="44.25787981" lon="-72.57511271">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165667"/>
-  </node>
-  <node id="-1550" visible="true" lat="44.25722662" lon="-72.57368845">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Hubbard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165727"/>
-  </node>
-  <node id="-1553" visible="true" lat="44.25714776" lon="-72.57431462">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165730"/>
   </node>
   <node id="-1558" visible="true" lat="44.25710711" lon="-72.57240274">
     <tag k="addr:city" v="Montpelier"/>
@@ -1155,103 +553,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165736"/>
   </node>
-  <node id="-1571" visible="true" lat="44.25697858" lon="-72.5741134">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="72"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165750"/>
-  </node>
-  <node id="-1574" visible="true" lat="44.25694614" lon="-72.57268573">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Nelson Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165753"/>
-  </node>
-  <node id="-1590" visible="true" lat="44.25671537" lon="-72.56997477">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="First Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165771"/>
-  </node>
-  <node id="-1623" visible="true" lat="44.25649261" lon="-72.56853485">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="First Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165808"/>
-  </node>
-  <node id="-1650" visible="true" lat="44.25614927" lon="-72.56819279">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="West Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165840"/>
-  </node>
-  <node id="-1651" visible="true" lat="44.25617509" lon="-72.57375405">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="89"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165841"/>
-  </node>
-  <node id="-1654" visible="true" lat="44.25607432" lon="-72.57415007">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165844"/>
-  </node>
-  <node id="-1662" visible="true" lat="44.25610154" lon="-72.573647">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="93"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165852"/>
-  </node>
-  <node id="-1676" visible="true" lat="44.25596615" lon="-72.57341957">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="99"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165866"/>
-  </node>
   <node id="-1682" visible="true" lat="44.25573425" lon="-72.5724424">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="130"/>
     <tag k="addr:street" v="Barre Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165873"/>
-  </node>
-  <node id="-1691" visible="true" lat="44.2558223" lon="-72.57325769">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="115"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165882"/>
-  </node>
-  <node id="-1694" visible="true" lat="44.25571497" lon="-72.57124517">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Kent Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165886"/>
-  </node>
-  <node id="-1697" visible="true" lat="44.25575303" lon="-72.57309229">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165889"/>
-  </node>
-  <node id="-1700" visible="true" lat="44.25572128" lon="-72.57343344">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="107"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165893"/>
   </node>
   <node id="-1711" visible="true" lat="44.25554062" lon="-72.55660739">
     <tag k="addr:city" v="Montpelier"/>
@@ -1260,40 +567,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165904"/>
   </node>
-  <node id="-1713" visible="true" lat="44.25545937" lon="-72.57311564">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165907"/>
-  </node>
-  <node id="-1714" visible="true" lat="44.25552505" lon="-72.57279325">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="137"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165908"/>
-  </node>
   <node id="-1719" visible="true" lat="44.25488914" lon="-72.5734282">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="535"/>
     <tag k="addr:street" v="Stone Cutters Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165915"/>
-  </node>
-  <node id="-1723" visible="true" lat="44.25538547" lon="-72.56909569">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Ridge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165920"/>
-  </node>
-  <node id="-1724" visible="true" lat="44.2553522" lon="-72.57257087">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="143"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165921"/>
   </node>
   <node id="-1734" visible="true" lat="44.25521584" lon="-72.55634347">
     <tag k="addr:city" v="Montpelier"/>
@@ -1302,159 +581,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="165931"/>
   </node>
-  <node id="-1739" visible="true" lat="44.25523248" lon="-72.5691351">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Charles Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165936"/>
-  </node>
-  <node id="-1740" visible="true" lat="44.25506226" lon="-72.56853542">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Ridge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165937"/>
-  </node>
-  <node id="-1750" visible="true" lat="44.25509463" lon="-72.56913418">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Charles Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165947"/>
-  </node>
-  <node id="-1752" visible="true" lat="44.25506119" lon="-72.57262935">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="145"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165949"/>
-  </node>
-  <node id="-1755" visible="true" lat="44.25498802" lon="-72.56922267">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Charles Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165952"/>
-  </node>
-  <node id="-1757" visible="true" lat="44.25498294" lon="-72.57248333">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="149"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165954"/>
-  </node>
-  <node id="-1760" visible="true" lat="44.25493831" lon="-72.57214165">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="153"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165958"/>
-  </node>
-  <node id="-1763" visible="true" lat="44.255006" lon="-72.57202948">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165963"/>
-  </node>
-  <node id="-1771" visible="true" lat="44.2548732" lon="-72.57194485">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="155"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165972"/>
-  </node>
-  <node id="-1777" visible="true" lat="44.25486755" lon="-72.57226562">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Putnam Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165978"/>
-  </node>
-  <node id="-1780" visible="true" lat="44.25480863" lon="-72.57184041">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="157"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165981"/>
-  </node>
-  <node id="-1792" visible="true" lat="44.25470545" lon="-72.57164003">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="161"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="165997"/>
-  </node>
-  <node id="-1795" visible="true" lat="44.25465855" lon="-72.57153984">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="163"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166000"/>
-  </node>
-  <node id="-1803" visible="true" lat="44.25440695" lon="-72.57182518">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Putnam Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166009"/>
-  </node>
-  <node id="-1808" visible="true" lat="44.25449419" lon="-72.57130503">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="169"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166014"/>
-  </node>
-  <node id="-1816" visible="true" lat="44.25432769" lon="-72.57116271">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="171"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166022"/>
-  </node>
-  <node id="-1821" visible="true" lat="44.25418866" lon="-72.57167858">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Maple Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166027"/>
-  </node>
   <node id="-1828" visible="true" lat="44.2542495" lon="-72.5726783">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="575"/>
     <tag k="addr:street" v="Stone Cutters Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166034"/>
-  </node>
-  <node id="-1831" visible="true" lat="44.25421458" lon="-72.57107236">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="175"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166037"/>
-  </node>
-  <node id="-1838" visible="true" lat="44.25407194" lon="-72.57094348">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="181"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166045"/>
-  </node>
-  <node id="-1878" visible="true" lat="44.25337583" lon="-72.5702513">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="203"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166090"/>
-  </node>
-  <node id="-1879" visible="true" lat="44.2532655" lon="-72.5701542">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="207"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166092"/>
   </node>
   <node id="-1897" visible="true" lat="44.25315576" lon="-72.56928705">
     <tag k="addr:city" v="Montpelier"/>
@@ -1463,47 +595,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166111"/>
   </node>
-  <node id="-1901" visible="true" lat="44.25265933" lon="-72.56961216">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="221"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166116"/>
-  </node>
-  <node id="-1950" visible="true" lat="44.25180866" lon="-72.56987783">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Granite Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166171"/>
-  </node>
   <node id="-1953" visible="true" lat="44.25187392" lon="-72.57198957">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="137"/>
     <tag k="addr:street" v="Berlin Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166174"/>
-  </node>
-  <node id="-1983" visible="true" lat="44.25084685" lon="-72.56010763">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="417"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166209"/>
-  </node>
-  <node id="-1985" visible="true" lat="44.25071313" lon="-72.56167808">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="405"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166212"/>
-  </node>
-  <node id="-1986" visible="true" lat="44.25073633" lon="-72.56123745">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="407"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166213"/>
   </node>
   <node id="-1987" visible="true" lat="44.25068331" lon="-72.56560065">
     <tag k="addr:city" v="Montpelier"/>
@@ -1512,33 +609,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166214"/>
   </node>
-  <node id="-1989" visible="true" lat="44.25062324" lon="-72.56220053">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="403"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166216"/>
-  </node>
   <node id="-1990" visible="true" lat="44.25061715" lon="-72.56252365">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="389"/>
     <tag k="addr:street" v="Barre Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166217"/>
-  </node>
-  <node id="-1992" visible="true" lat="44.25063213" lon="-72.56275789">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="385"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166220"/>
-  </node>
-  <node id="-1993" visible="true" lat="44.25056829" lon="-72.56355744">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="367"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166221"/>
   </node>
   <node id="-1999" visible="true" lat="44.25049049" lon="-72.56267411">
     <tag k="addr:city" v="Montpelier"/>
@@ -1547,19 +623,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166228"/>
   </node>
-  <node id="-2201" visible="true" lat="44.24654156" lon="-72.56812399">
+  <node id="-2376" visible="true" lat="44.24184906" lon="-72.56079566">
     <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="George Street"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Hebert Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166457"/>
-  </node>
-  <node id="-2369" visible="true" lat="44.24256526" lon="-72.54702305">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="378"/>
-    <tag k="addr:street" v="East Montpelier Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166652"/>
+    <tag k="ref:vcgi:esiteid" v="166660"/>
   </node>
   <node id="-2511" visible="true" lat="44.25971862" lon="-72.57279806">
     <tag k="addr:city" v="Montpelier"/>
@@ -1582,20 +651,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166814"/>
   </node>
-  <node id="-2522" visible="true" lat="44.25174642" lon="-72.56940581">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Granite Shed Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166823"/>
-  </node>
-  <node id="-2523" visible="true" lat="44.25154908" lon="-72.56924542">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Granite Shed Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166824"/>
-  </node>
   <node id="-2525" visible="true" lat="44.25118745" lon="-72.56786813">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="118"/>
@@ -1603,12 +658,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166826"/>
   </node>
-  <node id="-2527" visible="true" lat="44.25098004" lon="-72.56829012">
+  <node id="-2528" visible="true" lat="44.25028223" lon="-72.56929693">
     <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Granite Shed Lane"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="River Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166828"/>
+    <tag k="ref:vcgi:esiteid" v="166829"/>
   </node>
   <node id="-2533" visible="true" lat="44.25005802" lon="-72.5605734">
     <tag k="addr:city" v="Montpelier"/>
@@ -1623,20 +678,6 @@
     <tag k="addr:street" v="Old Country Club Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166841"/>
-  </node>
-  <node id="-2585" visible="true" lat="44.25130703" lon="-72.56916116">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Granite Shed Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166887"/>
-  </node>
-  <node id="-2586" visible="true" lat="44.25109245" lon="-72.56879095">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:street" v="Granite Shed Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="166888"/>
   </node>
   <node id="-2598" visible="true" lat="44.26251089" lon="-72.57056414">
     <tag k="addr:city" v="Montpelier"/>
@@ -1659,26 +700,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="166934"/>
   </node>
-  <node id="-2702" visible="true" lat="44.24326973" lon="-72.54702758">
+  <node id="-2734" visible="true" lat="44.24581668" lon="-72.58213841">
     <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="190"/>
-    <tag k="addr:street" v="East Montpelier Road"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Freedom Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167011"/>
-  </node>
-  <node id="-2762" visible="true" lat="44.26008619" lon="-72.57094142">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Park Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167072"/>
-  </node>
-  <node id="-2763" visible="true" lat="44.26020687" lon="-72.56844625">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167073"/>
+    <tag k="ref:vcgi:esiteid" v="167044"/>
   </node>
   <node id="-2767" visible="true" lat="44.25858649" lon="-72.57644798">
     <tag k="addr:city" v="Montpelier"/>
@@ -1701,47 +728,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="167085"/>
   </node>
-  <node id="-2786" visible="true" lat="44.27160203" lon="-72.57794951">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="401"/>
-    <tag k="addr:street" v="Parkway Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167096"/>
-  </node>
-  <node id="-2788" visible="true" lat="44.25877277" lon="-72.5684105">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Marvin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167098"/>
-  </node>
   <node id="-2806" visible="true" lat="44.24798954" lon="-72.5468228">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="149"/>
     <tag k="addr:street" v="Fairway Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307067"/>
-  </node>
-  <node id="-2808" visible="true" lat="44.25372994" lon="-72.57063112">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="191"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="307570"/>
-  </node>
-  <node id="-2809" visible="true" lat="44.2531523" lon="-72.57039318">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="209"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="307571"/>
-  </node>
-  <node id="-2810" visible="true" lat="44.25291742" lon="-72.56988472">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="215"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="307572"/>
   </node>
   <node id="-2818" visible="true" lat="44.24265975" lon="-72.5439084">
     <tag k="addr:city" v="Montpelier"/>
@@ -1750,54 +742,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="315441"/>
   </node>
-  <node id="-2852" visible="true" lat="44.25968462" lon="-72.57547528">
+  <node id="-2859" visible="true" lat="44.25469579" lon="-72.58755399">
     <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Mountainview Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338708"/>
-  </node>
-  <node id="-2855" visible="true" lat="44.26001079" lon="-72.57516465">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338711"/>
-  </node>
-  <node id="-2856" visible="true" lat="44.25983091" lon="-72.57533092">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338712"/>
-  </node>
-  <node id="-2860" visible="true" lat="44.25845544" lon="-72.55724554">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="190"/>
-    <tag k="addr:street" v="Leap Frog Hollow"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="339779"/>
-  </node>
-  <node id="-2861" visible="true" lat="44.26047114" lon="-72.55578236">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Leap Frog Hollow"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="339780"/>
-  </node>
-  <node id="-2865" visible="true" lat="44.25857303" lon="-72.56664052">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Liberty Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="340729"/>
-  </node>
-  <node id="-2886" visible="true" lat="44.2511313" lon="-72.56845654">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="101"/>
-    <tag k="addr:street" v="Granite Shed Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341884"/>
+    <tag k="ref:vcgi:esiteid" v="339302"/>
   </node>
   <node id="-2892" visible="true" lat="44.26036842" lon="-72.57218404">
     <tag k="addr:city" v="Montpelier"/>
@@ -1805,6 +755,13 @@
     <tag k="addr:street" v="Saint Paul Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345563"/>
+  </node>
+  <node id="-2895" visible="true" lat="44.25498951" lon="-72.5794658">
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Northfield Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365344"/>
   </node>
   <node id="-2896" visible="true" lat="44.26065354" lon="-72.5759426">
     <tag k="addr:city" v="Montpelier"/>
@@ -1820,13 +777,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="446361"/>
   </node>
-  <node id="-2899" visible="true" lat="44.26756692" lon="-72.56703835">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="North Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="447062"/>
-  </node>
   <node id="-2900" visible="true" lat="44.27689268" lon="-72.57191134">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="3"/>
@@ -1840,27 +790,6 @@
     <tag k="addr:street" v="Elm Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451389"/>
-  </node>
-  <node id="-2935" visible="true" lat="44.25083832" lon="-72.5629705">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="384"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453474"/>
-  </node>
-  <node id="-2936" visible="true" lat="44.24184664" lon="-72.55163611">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="344"/>
-    <tag k="addr:street" v="River Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453475"/>
-  </node>
-  <node id="-2937" visible="true" lat="44.24597547" lon="-72.54903093">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="East Montpelier Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453476"/>
   </node>
   <node id="-2939" visible="true" lat="44.27959518" lon="-72.57129782">
     <tag k="addr:city" v="Montpelier"/>
@@ -1904,33 +833,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454322"/>
   </node>
-  <node id="-2948" visible="true" lat="44.2653061" lon="-72.56607951">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="217"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454893"/>
-  </node>
   <node id="-2950" visible="true" lat="44.27977915" lon="-72.56340544">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="1220"/>
     <tag k="addr:street" v="North Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455246"/>
-  </node>
-  <node id="-2954" visible="true" lat="44.26009844" lon="-72.57609573">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="610163"/>
-  </node>
-  <node id="-2955" visible="true" lat="44.2542033" lon="-72.57142023">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="Maple Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="610551"/>
   </node>
   <node id="-2956" visible="true" lat="44.27988386" lon="-72.59410209">
     <tag k="addr:city" v="Montpelier"/>
@@ -1946,20 +854,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="613571"/>
   </node>
-  <node id="-2966" visible="true" lat="44.25417818" lon="-72.57103828">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="177"/>
-    <tag k="addr:street" v="Barre Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="614882"/>
-  </node>
-  <node id="-2978" visible="true" lat="44.26494594" lon="-72.56614381">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="215"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620461"/>
-  </node>
   <node id="-2979" visible="true" lat="44.30853117" lon="-72.57618393">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="311"/>
@@ -1974,13 +868,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620621"/>
   </node>
-  <node id="-2981" visible="true" lat="44.25987006" lon="-72.57491218">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="East State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750795"/>
-  </node>
   <node id="-2983" visible="true" lat="44.26731536" lon="-72.58446386">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="17"/>
@@ -1988,19 +875,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750888"/>
   </node>
-  <node id="-2987" visible="true" lat="44.25808666" lon="-72.57258602">
+  <node id="-2986" visible="true" lat="44.26511754" lon="-72.57081246">
     <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Hubbard Street"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Winter Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751216"/>
-  </node>
-  <node id="-2989" visible="true" lat="44.26803112" lon="-72.56631758">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="414"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="752242"/>
+    <tag k="ref:vcgi:esiteid" v="750961"/>
   </node>
   <node id="-2991" visible="true" lat="44.28961469" lon="-72.57880847">
     <tag k="addr:city" v="Montpelier"/>
@@ -2008,20 +888,6 @@
     <tag k="addr:street" v="Fork Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754004"/>
-  </node>
-  <node id="-2992" visible="true" lat="44.2600501" lon="-72.5793266">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Taylor Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="754277"/>
-  </node>
-  <node id="-2993" visible="true" lat="44.25805406" lon="-72.5633517">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="86"/>
-    <tag k="addr:street" v="College Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="754309"/>
   </node>
   <node id="-2995" visible="true" lat="44.26276203" lon="-72.58543739">
     <tag k="addr:city" v="Montpelier"/>
@@ -2037,26 +903,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755447"/>
   </node>
-  <node id="-3000" visible="true" lat="44.24329819" lon="-72.53198129">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="643"/>
-    <tag k="addr:street" v="Gallison Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="756352"/>
-  </node>
   <node id="-3002" visible="true" lat="44.24406208" lon="-72.54647108">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Country Club Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757336"/>
-  </node>
-  <node id="-3003" visible="true" lat="44.2540092" lon="-72.57124542">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Maple Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="757349"/>
   </node>
   <node id="-3004" visible="true" lat="44.25968648" lon="-72.6115011">
     <tag k="addr:city" v="Montpelier"/>
@@ -2078,13 +930,6 @@
     <tag k="addr:street" v="Greenock Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760566"/>
-  </node>
-  <node id="-3007" visible="true" lat="44.25643792" lon="-72.56670511">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="East State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="760615"/>
   </node>
   <node id="-3008" visible="true" lat="44.24816358" lon="-72.56951176">
     <tag k="addr:city" v="Montpelier"/>
@@ -2212,33 +1057,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="900459"/>
   </node>
-  <node id="-3027" visible="true" lat="44.25395192" lon="-72.59873901">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="77154"/>
-    <tag k="addr:street" v="Interstate 89 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1050600"/>
-  </node>
-  <node id="-3036" visible="true" lat="44.25787951" lon="-72.5747884">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Monsignor Crosby Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051088"/>
-  </node>
   <node id="-3037" visible="true" lat="44.25867423" lon="-72.57642521">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1051089"/>
-  </node>
-  <node id="-3039" visible="true" lat="44.25902849" lon="-72.57651645">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051092"/>
   </node>
   <node id="-3040" visible="true" lat="44.25920526" lon="-72.57638216">
     <tag k="addr:city" v="Montpelier"/>
@@ -2254,20 +1078,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1051096"/>
   </node>
-  <node id="-3043" visible="true" lat="44.26001629" lon="-72.57568077">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051097"/>
-  </node>
-  <node id="-3045" visible="true" lat="44.26003605" lon="-72.57605256">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051099"/>
-  </node>
   <node id="-3048" visible="true" lat="44.26018578" lon="-72.57647621">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="32"/>
@@ -2281,20 +1091,6 @@
     <tag k="addr:street" v="State Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1051103"/>
-  </node>
-  <node id="-3052" visible="true" lat="44.26043741" lon="-72.57622405">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051106"/>
-  </node>
-  <node id="-3053" visible="true" lat="44.26041747" lon="-72.57613058">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051107"/>
   </node>
   <node id="-3054" visible="true" lat="44.26106659" lon="-72.57199642">
     <tag k="addr:city" v="Montpelier"/>
@@ -2324,20 +1120,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1051128"/>
   </node>
-  <node id="-3059" visible="true" lat="44.26057755" lon="-72.57521212">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="102"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051131"/>
-  </node>
-  <node id="-3061" visible="true" lat="44.26063951" lon="-72.57514262">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051135"/>
-  </node>
   <node id="-3063" visible="true" lat="44.26075596" lon="-72.57329717">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="28"/>
@@ -2345,40 +1127,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1051137"/>
   </node>
-  <node id="-3064" visible="true" lat="44.26082107" lon="-72.57580088">
+  <node id="-3070" visible="true" lat="44.26669291" lon="-72.56898115">
     <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Langdon Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051138"/>
-  </node>
-  <node id="-3065" visible="true" lat="44.26077818" lon="-72.57573259">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Langdon Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051139"/>
-  </node>
-  <node id="-3066" visible="true" lat="44.2607344" lon="-72.5756523">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Langdon Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051140"/>
-  </node>
-  <node id="-3068" visible="true" lat="44.26033765" lon="-72.57574859">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051142"/>
-  </node>
-  <node id="-3069" visible="true" lat="44.26569565" lon="-72.56919538">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="267"/>
+    <tag k="addr:housenumber" v="302"/>
     <tag k="addr:street" v="Elm Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051143"/>
+    <tag k="ref:vcgi:esiteid" v="1051144"/>
   </node>
   <node id="-3071" visible="true" lat="44.26782297" lon="-72.5706394">
     <tag k="addr:city" v="Montpelier"/>
@@ -2393,12 +1147,5 @@
     <tag k="addr:street" v="Pearl Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1051146"/>
-  </node>
-  <node id="-3073" visible="true" lat="44.25535802" lon="-72.57591437">
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Prospect Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1051173"/>
   </node>
 </osm>

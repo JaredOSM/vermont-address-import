@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.79468133" lon="-73.09398071">
     <tag k="addr:city" v="Saint Albans"/>
     <tag k="addr:housenumber" v="2"/>
@@ -55,13 +55,6 @@
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="238247"/>
-  </node>
-  <node id="-108" visible="true" lat="44.82308789" lon="-73.08152166">
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="264"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="238249"/>
   </node>
   <node id="-109" visible="true" lat="44.79923425" lon="-73.09108837">
     <tag k="addr:city" v="Saint Albans"/>
@@ -1924,13 +1917,6 @@
     <tag k="addr:street" v="Lower Newton Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="238553"/>
-  </node>
-  <node id="-402" visible="true" lat="44.81996547" lon="-73.08609389">
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Lower Newton Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="238554"/>
   </node>
   <node id="-403" visible="true" lat="44.82004054" lon="-73.08478189">
     <tag k="addr:city" v="Saint Albans"/>
@@ -6146,13 +6132,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="239293"/>
   </node>
-  <node id="-1119" visible="true" lat="44.81077618" lon="-73.08186715">
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="239294"/>
-  </node>
   <node id="-1120" visible="true" lat="44.81135516" lon="-73.08174153">
     <tag k="addr:city" v="Saint Albans"/>
     <tag k="addr:housenumber" v="17"/>
@@ -6208,20 +6187,6 @@
     <tag k="addr:street" v="Bishop Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="239302"/>
-  </node>
-  <node id="-1128" visible="true" lat="44.81026685" lon="-73.08136032">
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Fairfield Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="239303"/>
-  </node>
-  <node id="-1129" visible="true" lat="44.81000538" lon="-73.08079681">
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Fairfield Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="239304"/>
   </node>
   <node id="-1130" visible="true" lat="44.8103167" lon="-73.08068852">
     <tag k="addr:city" v="Saint Albans"/>
@@ -6657,26 +6622,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="239376"/>
   </node>
-  <node id="-1199" visible="true" lat="44.80979036" lon="-73.08258472">
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Fairfield Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="239377"/>
-  </node>
   <node id="-1200" visible="true" lat="44.8090052" lon="-73.08247648">
     <tag k="addr:city" v="Saint Albans"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Academy Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="239378"/>
-  </node>
-  <node id="-1201" visible="true" lat="44.80945625" lon="-73.08156958">
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Fairfield Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="239379"/>
   </node>
   <node id="-1202" visible="true" lat="44.80878262" lon="-73.08158054">
     <tag k="addr:city" v="Saint Albans"/>
@@ -10703,13 +10654,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="240099"/>
   </node>
-  <node id="-1905" visible="true" lat="44.80599389" lon="-73.08482144">
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="109"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="240100"/>
-  </node>
   <node id="-1906" visible="true" lat="44.80583426" lon="-73.08494607">
     <tag k="addr:city" v="Saint Albans"/>
     <tag k="addr:housenumber" v="113"/>
@@ -13153,13 +13097,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="240523"/>
   </node>
-  <node id="-2313" visible="true" lat="44.79541447" lon="-73.09336183">
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="287"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="240524"/>
-  </node>
   <node id="-2314" visible="true" lat="44.79485744" lon="-73.09377174">
     <tag k="addr:city" v="Saint Albans"/>
     <tag k="addr:housenumber" v="295"/>
@@ -13173,13 +13110,6 @@
     <tag k="addr:street" v="Parsons Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="240526"/>
-  </node>
-  <node id="-2316" visible="true" lat="44.79508767" lon="-73.09321787">
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="287"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="240527"/>
   </node>
   <node id="-2318" visible="true" lat="44.80247471" lon="-73.08899766">
     <tag k="addr:city" v="Saint Albans"/>
@@ -14118,13 +14048,6 @@
     <tag k="addr:street" v="High Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="240751"/>
-  </node>
-  <node id="-2452" visible="true" lat="44.81368306" lon="-73.0825483">
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="109"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="240753"/>
   </node>
   <node id="-2453" visible="true" lat="44.81654682" lon="-73.08197874">
     <tag k="addr:city" v="Saint Albans"/>
@@ -15659,13 +15582,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="241087"/>
   </node>
-  <node id="-2681" visible="true" lat="44.81098972" lon="-73.08466977">
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Lake Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="241088"/>
-  </node>
   <node id="-2682" visible="true" lat="44.81102654" lon="-73.08511365">
     <tag k="addr:city" v="Saint Albans"/>
     <tag k="addr:housenumber" v="45"/>
@@ -15714,13 +15630,6 @@
     <tag k="addr:street" v="Federal Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="241095"/>
-  </node>
-  <node id="-2689" visible="true" lat="44.80721211" lon="-73.08767165">
-    <tag k="addr:city" v="Saint Albans"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:street" v="Lower Welden Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="241097"/>
   </node>
   <node id="-2690" visible="true" lat="44.81192186" lon="-73.08359628">
     <tag k="addr:city" v="Saint Albans"/>

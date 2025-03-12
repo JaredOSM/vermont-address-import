@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-100" visible="true" lat="43.23547099" lon="-72.53908486">
-    <tag k="addr:housenumber" v="251"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202992"/>
-  </node>
-  <node id="-101" visible="true" lat="43.23529386" lon="-72.53993226">
-    <tag k="addr:housenumber" v="252"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202993"/>
-  </node>
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-102" visible="true" lat="43.23496186" lon="-72.55301382">
     <tag k="addr:housenumber" v="2160"/>
     <tag k="addr:street" v="Rockingham Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202994"/>
-  </node>
-  <node id="-103" visible="true" lat="43.23509121" lon="-72.53907433">
-    <tag k="addr:housenumber" v="249"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202995"/>
   </node>
   <node id="-104" visible="true" lat="43.23483991" lon="-72.54121399">
     <tag k="addr:housenumber" v="664"/>
@@ -30,59 +12,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202996"/>
   </node>
-  <node id="-105" visible="true" lat="43.23461484" lon="-72.53923035">
-    <tag k="addr:housenumber" v="243"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202997"/>
-  </node>
-  <node id="-106" visible="true" lat="43.2344691" lon="-72.54083291">
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Green Mountain Turnpike"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202998"/>
-  </node>
-  <node id="-107" visible="true" lat="43.23401212" lon="-72.53968049">
-    <tag k="addr:housenumber" v="234"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202999"/>
-  </node>
-  <node id="-108" visible="true" lat="43.23394346" lon="-72.54207612">
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Green Mountain Turnpike"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203000"/>
-  </node>
   <node id="-109" visible="true" lat="43.23389768" lon="-72.55097199">
     <tag k="addr:housenumber" v="2144"/>
     <tag k="addr:street" v="Rockingham Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203001"/>
-  </node>
-  <node id="-110" visible="true" lat="43.23339795" lon="-72.53945923">
-    <tag k="addr:housenumber" v="226"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203002"/>
-  </node>
-  <node id="-111" visible="true" lat="43.23332353" lon="-72.54100439">
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Rocky Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203003"/>
-  </node>
-  <node id="-112" visible="true" lat="43.2333064" lon="-72.53853608">
-    <tag k="addr:housenumber" v="217"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203004"/>
-  </node>
-  <node id="-113" visible="true" lat="43.2332797" lon="-72.53774262">
-    <tag k="addr:housenumber" v="215"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203005"/>
   </node>
   <node id="-114" visible="true" lat="43.2332592" lon="-72.54911602">
     <tag k="addr:housenumber" v="2123"/>
@@ -96,12 +30,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203007"/>
   </node>
-  <node id="-116" visible="true" lat="43.2326579" lon="-72.53557587">
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Gowing Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203008"/>
-  </node>
   <node id="-117" visible="true" lat="43.23260068" lon="-72.54151154">
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Rocky Road"/>
@@ -113,12 +41,6 @@
     <tag k="addr:street" v="Randall Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203010"/>
-  </node>
-  <node id="-119" visible="true" lat="43.23221158" lon="-72.53807068">
-    <tag k="addr:housenumber" v="197"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203011"/>
   </node>
   <node id="-120" visible="true" lat="43.23213195" lon="-72.54818725">
     <tag k="addr:housenumber" v="2103"/>
@@ -132,23 +54,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203013"/>
   </node>
-  <node id="-122" visible="true" lat="43.23199414" lon="-72.54074097">
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Rocky Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203014"/>
-  </node>
   <node id="-123" visible="true" lat="43.23188733" lon="-72.54936982">
     <tag k="addr:housenumber" v="2110"/>
     <tag k="addr:street" v="Rockingham Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203015"/>
-  </node>
-  <node id="-124" visible="true" lat="43.23185682" lon="-72.5383606">
-    <tag k="addr:housenumber" v="200"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203016"/>
   </node>
   <node id="-125" visible="true" lat="43.23163223" lon="-72.54724121">
     <tag k="addr:housenumber" v="2099"/>
@@ -179,18 +89,6 @@
     <tag k="addr:street" v="Randall Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203021"/>
-  </node>
-  <node id="-130" visible="true" lat="43.23124265" lon="-72.54138947">
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Rocky Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203022"/>
-  </node>
-  <node id="-131" visible="true" lat="43.23113965" lon="-72.53743744">
-    <tag k="addr:housenumber" v="185"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203023"/>
   </node>
   <node id="-132" visible="true" lat="43.23108291" lon="-72.47922515">
     <tag k="addr:housenumber" v="573"/>
@@ -234,23 +132,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203030"/>
   </node>
-  <node id="-139" visible="true" lat="43.23011731" lon="-72.5371399">
-    <tag k="addr:housenumber" v="169"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203031"/>
-  </node>
   <node id="-140" visible="true" lat="43.22994184" lon="-72.5474701">
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:street" v="Upper Bartonsville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203032"/>
-  </node>
-  <node id="-141" visible="true" lat="43.22994565" lon="-72.53753663">
-    <tag k="addr:housenumber" v="170"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203033"/>
   </node>
   <node id="-142" visible="true" lat="43.22969007" lon="-72.54666901">
     <tag k="addr:housenumber" v="28"/>
@@ -263,18 +149,6 @@
     <tag k="addr:street" v="Upper Bartonsville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203035"/>
-  </node>
-  <node id="-144" visible="true" lat="43.22935437" lon="-72.53694153">
-    <tag k="addr:housenumber" v="159"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203036"/>
-  </node>
-  <node id="-145" visible="true" lat="43.22935056" lon="-72.53730011">
-    <tag k="addr:housenumber" v="160"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203037"/>
   </node>
   <node id="-146" visible="true" lat="43.2292366" lon="-72.47877502">
     <tag k="addr:housenumber" v="559"/>
@@ -294,23 +168,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203040"/>
   </node>
-  <node id="-149" visible="true" lat="43.22896528" lon="-72.53679657">
-    <tag k="addr:housenumber" v="153"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203041"/>
-  </node>
   <node id="-150" visible="true" lat="43.22895431" lon="-72.45545196">
     <tag k="addr:housenumber" v="88"/>
     <tag k="addr:street" v="Randall Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203042"/>
-  </node>
-  <node id="-151" visible="true" lat="43.22889661" lon="-72.53707123">
-    <tag k="addr:housenumber" v="154"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203043"/>
   </node>
   <node id="-152" visible="true" lat="43.22886609" lon="-72.54671479">
     <tag k="addr:housenumber" v="39"/>
@@ -342,23 +204,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203048"/>
   </node>
-  <node id="-157" visible="true" lat="43.22840833" lon="-72.5364914">
-    <tag k="addr:housenumber" v="143"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203049"/>
-  </node>
   <node id="-158" visible="true" lat="43.22832489" lon="-72.43655395">
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Riverfront Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203050"/>
-  </node>
-  <node id="-159" visible="true" lat="43.22833204" lon="-72.53687287">
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203051"/>
   </node>
   <node id="-160" visible="true" lat="43.22802734" lon="-72.47937774">
     <tag k="addr:housenumber" v="557"/>
@@ -371,12 +221,6 @@
     <tag k="addr:street" v="Lower Parker Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203053"/>
-  </node>
-  <node id="-162" visible="true" lat="43.22779035" lon="-72.53498841">
-    <tag k="addr:housenumber" v="135"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203054"/>
   </node>
   <node id="-163" visible="true" lat="43.22776403" lon="-72.54632367">
     <tag k="addr:housenumber" v="57"/>
@@ -402,12 +246,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203058"/>
   </node>
-  <node id="-167" visible="true" lat="43.22701215" lon="-72.53620911">
-    <tag k="addr:housenumber" v="124"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203059"/>
-  </node>
   <node id="-168" visible="true" lat="43.22700452" lon="-72.54485322">
     <tag k="addr:housenumber" v="74"/>
     <tag k="addr:street" v="Upper Bartonsville Road"/>
@@ -426,29 +264,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203063"/>
   </node>
-  <node id="-172" visible="true" lat="43.22660823" lon="-72.53527938">
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Eldredge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203064"/>
-  </node>
-  <node id="-173" visible="true" lat="43.22653531" lon="-72.53598023">
-    <tag k="addr:housenumber" v="118"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203065"/>
-  </node>
   <node id="-174" visible="true" lat="43.22652768" lon="-72.54523468">
     <tag k="addr:housenumber" v="77"/>
     <tag k="addr:street" v="Upper Bartonsville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203066"/>
-  </node>
-  <node id="-175" visible="true" lat="43.22639036" lon="-72.53589631">
-    <tag k="addr:housenumber" v="116"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203067"/>
   </node>
   <node id="-176" visible="true" lat="43.22624969" lon="-72.44776153">
     <tag k="addr:housenumber" v="854"/>
@@ -461,12 +281,6 @@
     <tag k="addr:street" v="Town Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203069"/>
-  </node>
-  <node id="-178" visible="true" lat="43.22588682" lon="-72.53581238">
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203070"/>
   </node>
   <node id="-179" visible="true" lat="43.22581482" lon="-72.54219818">
     <tag k="addr:housenumber" v="4"/>
@@ -491,18 +305,6 @@
     <tag k="addr:street" v="Brockways Mills Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203074"/>
-  </node>
-  <node id="-183" visible="true" lat="43.22525739" lon="-72.53572083">
-    <tag k="addr:housenumber" v="97B"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203075"/>
-  </node>
-  <node id="-184" visible="true" lat="43.22526062" lon="-72.53640693">
-    <tag k="addr:housenumber" v="96"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203076"/>
   </node>
   <node id="-185" visible="true" lat="43.22504043" lon="-72.48202514">
     <tag k="addr:housenumber" v="522"/>
@@ -551,12 +353,6 @@
     <tag k="addr:street" v="Upper Bartonsville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203084"/>
-  </node>
-  <node id="-193" visible="true" lat="43.22428846" lon="-72.53563691">
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203085"/>
   </node>
   <node id="-194" visible="true" lat="43.22424316" lon="-72.45032501">
     <tag k="addr:housenumber" v="784"/>
@@ -2520,6 +2316,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203473"/>
   </node>
+  <node id="-568" visible="true" lat="43.1654663" lon="-72.55033874">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Sand Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="203474"/>
+  </node>
   <node id="-569" visible="true" lat="43.16532516" lon="-72.45381927">
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="Industrial Drive"/>
@@ -3245,12 +3047,6 @@
     <tag k="addr:street" v="Hall Bridge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203600"/>
-  </node>
-  <node id="-690" visible="true" lat="43.14855977" lon="-72.45846408">
-    <tag k="addr:housenumber" v="287"/>
-    <tag k="addr:street" v="Rockingham Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="203601"/>
   </node>
   <node id="-691" visible="true" lat="43.14864349" lon="-72.50661468">
     <tag k="addr:housenumber" v="615"/>
@@ -4752,12 +4548,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337371"/>
   </node>
-  <node id="-956" visible="true" lat="43.17100613" lon="-72.45903684">
-    <tag k="addr:housenumber" v="706"/>
-    <tag k="addr:street" v="Rockingham Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="337415"/>
-  </node>
   <node id="-957" visible="true" lat="43.22919195" lon="-72.54767832">
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="Upper Bartonsville Road"/>
@@ -4775,12 +4565,6 @@
     <tag k="addr:street" v="Herricks Cove Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338916"/>
-  </node>
-  <node id="-960" visible="true" lat="43.22500833" lon="-72.53586176">
-    <tag k="addr:housenumber" v="97A"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="339261"/>
   </node>
   <node id="-961" visible="true" lat="43.14189935" lon="-72.48158604">
     <tag k="addr:housenumber" v="75"/>
@@ -4805,12 +4589,6 @@
     <tag k="addr:street" v="Rockingham Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339918"/>
-  </node>
-  <node id="-967" visible="true" lat="43.23164224" lon="-72.53245336">
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:street" v="Gowing Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="342340"/>
   </node>
   <node id="-968" visible="true" lat="43.14125922" lon="-72.50102503">
     <tag k="addr:housenumber" v="4"/>
@@ -4841,12 +4619,6 @@
     <tag k="addr:street" v="Atcherson Hollow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343561"/>
-  </node>
-  <node id="-973" visible="true" lat="43.23342687" lon="-72.54233507">
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Green Mountain Turnpike"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="345969"/>
   </node>
   <node id="-974" visible="true" lat="43.14741667" lon="-72.46955556">
     <tag k="addr:housenumber" v="116"/>
@@ -5040,11 +4812,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758214"/>
   </node>
-  <node id="-1017" visible="true" lat="43.23053848" lon="-72.53812797">
-    <tag k="addr:housenumber" v="190"/>
-    <tag k="addr:street" v="Lower Bartonsville Road"/>
+  <node id="-1015" visible="true" lat="43.22264711" lon="-72.54084272">
+    <tag k="addr:housenumber" v="1918"/>
+    <tag k="addr:street" v="Rockingham Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="759605"/>
+    <tag k="ref:vcgi:esiteid" v="758215"/>
   </node>
   <node id="-1019" visible="true" lat="43.23087182" lon="-72.55160853">
     <tag k="addr:housenumber" v="2100"/>
@@ -5057,12 +4829,6 @@
     <tag k="addr:street" v="Spring Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759662"/>
-  </node>
-  <node id="-1021" visible="true" lat="43.23482158" lon="-72.53285548">
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="Gowing Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="759824"/>
   </node>
   <node id="-1022" visible="true" lat="43.19996609" lon="-72.48625645">
     <tag k="addr:housenumber" v="202"/>

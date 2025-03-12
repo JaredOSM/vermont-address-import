@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.30714542" lon="-73.2621619">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="825"/>
@@ -1316,13 +1316,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63306"/>
   </node>
-  <node id="-289" visible="true" lat="44.34070003" lon="-73.19111975">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="211"/>
-    <tag k="addr:street" v="Carpenter Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63308"/>
-  </node>
   <node id="-290" visible="true" lat="44.33982086" lon="-73.18888854">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="243"/>
@@ -1330,26 +1323,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63309"/>
   </node>
-  <node id="-291" visible="true" lat="44.33979034" lon="-73.19173431">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="Carpenter Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63310"/>
-  </node>
   <node id="-292" visible="true" lat="44.33919906" lon="-73.28142547">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="271"/>
     <tag k="addr:street" v="Hills Point Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63311"/>
-  </node>
-  <node id="-293" visible="true" lat="44.3396759" lon="-73.19350433">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1353"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63312"/>
   </node>
   <node id="-294" visible="true" lat="44.33903884" lon="-73.2813034">
     <tag k="addr:city" v="Charlotte"/>
@@ -1372,26 +1351,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63315"/>
   </node>
-  <node id="-297" visible="true" lat="44.33929443" lon="-73.19400024">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1370"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63316"/>
-  </node>
   <node id="-298" visible="true" lat="44.33935813" lon="-73.25830805">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="845"/>
     <tag k="addr:street" v="Greenbush Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63317"/>
-  </node>
-  <node id="-299" visible="true" lat="44.33896438" lon="-73.18986031">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="200"/>
-    <tag k="addr:street" v="Carpenter Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63318"/>
   </node>
   <node id="-300" visible="true" lat="44.3384749" lon="-73.26890247">
     <tag k="addr:city" v="Charlotte"/>
@@ -1427,13 +1392,6 @@
     <tag k="addr:street" v="Ethan Allen Highway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63323"/>
-  </node>
-  <node id="-305" visible="true" lat="44.33877563" lon="-73.190979">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="Carpenter Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63324"/>
   </node>
   <node id="-306" visible="true" lat="44.33840881" lon="-73.25785168">
     <tag k="addr:city" v="Charlotte"/>
@@ -1568,13 +1526,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63344"/>
   </node>
-  <node id="-325" visible="true" lat="44.33672161" lon="-73.19384093">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1550"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63345"/>
-  </node>
   <node id="-326" visible="true" lat="44.33602142" lon="-73.28009033">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="45"/>
@@ -1644,13 +1595,6 @@
     <tag k="addr:street" v="Mount Philo Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63356"/>
-  </node>
-  <node id="-336" visible="true" lat="44.33536473" lon="-73.2414307">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="210"/>
-    <tag k="addr:street" v="Snow Drift Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63357"/>
   </node>
   <node id="-337" visible="true" lat="44.33514022" lon="-73.23592376">
     <tag k="addr:city" v="Charlotte"/>
@@ -1792,13 +1736,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63378"/>
   </node>
-  <node id="-357" visible="true" lat="44.33368553" lon="-73.19053798">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1801"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63379"/>
-  </node>
   <node id="-358" visible="true" lat="44.33286117" lon="-73.25669504">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="1275"/>
@@ -1855,13 +1792,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63387"/>
   </node>
-  <node id="-366" visible="true" lat="44.33301238" lon="-73.1917435">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1807"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63388"/>
-  </node>
   <node id="-367" visible="true" lat="44.33214133" lon="-73.26570051">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="420"/>
@@ -1882,13 +1812,6 @@
     <tag k="addr:street" v="Lake Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63391"/>
-  </node>
-  <node id="-370" visible="true" lat="44.33228625" lon="-73.19282086">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1854"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63392"/>
   </node>
   <node id="-371" visible="true" lat="44.33200073" lon="-73.23728179">
     <tag k="addr:city" v="Charlotte"/>
@@ -1974,13 +1897,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63406"/>
   </node>
-  <node id="-383" visible="true" lat="44.33156663" lon="-73.19131221">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1927"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63407"/>
-  </node>
   <node id="-384" visible="true" lat="44.33143289" lon="-73.1692793">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="2087"/>
@@ -2001,13 +1917,6 @@
     <tag k="addr:street" v="Mount Philo Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63411"/>
-  </node>
-  <node id="-387" visible="true" lat="44.33103056" lon="-73.19128606">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1971"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63412"/>
   </node>
   <node id="-388" visible="true" lat="44.3301544" lon="-73.2862338">
     <tag k="addr:city" v="Charlotte"/>
@@ -2086,13 +1995,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63423"/>
   </node>
-  <node id="-399" visible="true" lat="44.3296051" lon="-73.19102478">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2059"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63424"/>
-  </node>
   <node id="-400" visible="true" lat="44.32889815" lon="-73.2851327">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="187"/>
@@ -2114,13 +2016,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63427"/>
   </node>
-  <node id="-403" visible="true" lat="44.32899475" lon="-73.25515747">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1543"/>
-    <tag k="addr:street" v="Greenbush Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63428"/>
-  </node>
   <node id="-404" visible="true" lat="44.32855987" lon="-73.28524017">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="227"/>
@@ -2128,26 +2023,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63429"/>
   </node>
-  <node id="-405" visible="true" lat="44.32909393" lon="-73.19170379">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2088"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63430"/>
-  </node>
   <node id="-406" visible="true" lat="44.32863616" lon="-73.25019836">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="567"/>
     <tag k="addr:street" v="Patton Woods"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63431"/>
-  </node>
-  <node id="-407" visible="true" lat="44.32874679" lon="-73.19078063">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2119"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63432"/>
   </node>
   <node id="-408" visible="true" lat="44.32818647" lon="-73.2823782">
     <tag k="addr:city" v="Charlotte"/>
@@ -2198,13 +2079,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63440"/>
   </node>
-  <node id="-415" visible="true" lat="44.32772445" lon="-73.1914978">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2182"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63441"/>
-  </node>
   <node id="-416" visible="true" lat="44.3273735" lon="-73.2462387">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="168"/>
@@ -2219,26 +2093,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63443"/>
   </node>
-  <node id="-418" visible="true" lat="44.32755279" lon="-73.19134521">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2196"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63444"/>
-  </node>
   <node id="-419" visible="true" lat="44.32713699" lon="-73.25622558">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="1664"/>
     <tag k="addr:street" v="Greenbush Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63445"/>
-  </node>
-  <node id="-420" visible="true" lat="44.32744516" lon="-73.19055987">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2225"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63446"/>
   </node>
   <node id="-421" visible="true" lat="44.3271544" lon="-73.23034642">
     <tag k="addr:city" v="Charlotte"/>
@@ -2295,13 +2155,6 @@
     <tag k="addr:street" v="Lake Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63454"/>
-  </node>
-  <node id="-429" visible="true" lat="44.32656097" lon="-73.25518798">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1711"/>
-    <tag k="addr:street" v="Greenbush Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63455"/>
   </node>
   <node id="-430" visible="true" lat="44.3265953" lon="-73.23271179">
     <tag k="addr:city" v="Charlotte"/>
@@ -2400,13 +2253,6 @@
     <tag k="addr:street" v="Greenbush Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63469"/>
-  </node>
-  <node id="-444" visible="true" lat="44.32638763" lon="-73.18992683">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2333"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63470"/>
   </node>
   <node id="-445" visible="true" lat="44.32583451" lon="-73.23415712">
     <tag k="addr:city" v="Charlotte"/>
@@ -2534,13 +2380,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63488"/>
   </node>
-  <node id="-463" visible="true" lat="44.32550632" lon="-73.19110608">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2356"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63489"/>
-  </node>
   <node id="-464" visible="true" lat="44.32517623" lon="-73.25447082">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="1811"/>
@@ -2646,13 +2485,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63504"/>
   </node>
-  <node id="-479" visible="true" lat="44.32525368" lon="-73.19110952">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2374"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63505"/>
-  </node>
   <node id="-480" visible="true" lat="44.32491095" lon="-73.23673466">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="1355"/>
@@ -2680,13 +2512,6 @@
     <tag k="addr:street" v="Church Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63509"/>
-  </node>
-  <node id="-484" visible="true" lat="44.3244735" lon="-73.1910471">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2442"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63510"/>
   </node>
   <node id="-485" visible="true" lat="44.32427215" lon="-73.24681091">
     <tag k="addr:city" v="Charlotte"/>
@@ -2722,13 +2547,6 @@
     <tag k="addr:street" v="Valley View Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63515"/>
-  </node>
-  <node id="-490" visible="true" lat="44.32453912" lon="-73.1899161">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2439"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63516"/>
   </node>
   <node id="-491" visible="true" lat="44.32387592" lon="-73.23059595">
     <tag k="addr:city" v="Charlotte"/>
@@ -2779,13 +2597,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63523"/>
   </node>
-  <node id="-498" visible="true" lat="44.32379893" lon="-73.19080652">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2444"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63524"/>
-  </node>
   <node id="-499" visible="true" lat="44.32380814" lon="-73.18401815">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="189"/>
@@ -2799,13 +2610,6 @@
     <tag k="addr:street" v="Hinesburg Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63526"/>
-  </node>
-  <node id="-501" visible="true" lat="44.32370376" lon="-73.18974304">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2471"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63527"/>
   </node>
   <node id="-502" visible="true" lat="44.32346448" lon="-73.23673431">
     <tag k="addr:city" v="Charlotte"/>
@@ -2827,13 +2631,6 @@
     <tag k="addr:street" v="Greenbush Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63530"/>
-  </node>
-  <node id="-505" visible="true" lat="44.32350158" lon="-73.19179535">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="286"/>
-    <tag k="addr:street" v="Sheehan Green"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63531"/>
   </node>
   <node id="-506" visible="true" lat="44.32350308" lon="-73.17388016">
     <tag k="addr:city" v="Charlotte"/>
@@ -2911,13 +2708,6 @@
     <tag k="addr:street" v="Mount Philo Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63542"/>
-  </node>
-  <node id="-517" visible="true" lat="44.32277206" lon="-73.19160751">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="242"/>
-    <tag k="addr:street" v="Sheehan Green"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63543"/>
   </node>
   <node id="-518" visible="true" lat="44.32266892" lon="-73.23172512">
     <tag k="addr:city" v="Charlotte"/>
@@ -3016,13 +2806,6 @@
     <tag k="addr:street" v="Hinesburg Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63557"/>
-  </node>
-  <node id="-532" visible="true" lat="44.32212448" lon="-73.1914215">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="190"/>
-    <tag k="addr:street" v="Sheehan Green"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63558"/>
   </node>
   <node id="-533" visible="true" lat="44.3217945" lon="-73.27461921">
     <tag k="addr:city" v="Charlotte"/>
@@ -3345,13 +3128,6 @@
     <tag k="addr:street" v="Hinesburg Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63605"/>
-  </node>
-  <node id="-579" visible="true" lat="44.32012971" lon="-73.18825678">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2695"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63606"/>
   </node>
   <node id="-580" visible="true" lat="44.3202001" lon="-73.18335263">
     <tag k="addr:city" v="Charlotte"/>
@@ -5557,13 +5333,6 @@
     <tag k="addr:street" v="Spear Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63938"/>
-  </node>
-  <node id="-901" visible="true" lat="44.30598306" lon="-73.24529506">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="3488"/>
-    <tag k="addr:street" v="Ethan Allen Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="63939"/>
   </node>
   <node id="-902" visible="true" lat="44.30578994" lon="-73.290596">
     <tag k="addr:city" v="Charlotte"/>
@@ -11459,13 +11228,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64834"/>
   </node>
-  <node id="-1748" visible="true" lat="44.33908742" lon="-73.18482093">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="388"/>
-    <tag k="addr:street" v="Carpenter Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="64835"/>
-  </node>
   <node id="-1749" visible="true" lat="44.34206267" lon="-73.18650434">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="164"/>
@@ -11535,13 +11297,6 @@
     <tag k="addr:street" v="Lake Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64847"/>
-  </node>
-  <node id="-1759" visible="true" lat="44.3255697" lon="-73.19218593">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="380"/>
-    <tag k="addr:street" v="Sheehan Green"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="64848"/>
   </node>
   <node id="-1760" visible="true" lat="44.34189181" lon="-73.25874068">
     <tag k="addr:city" v="Charlotte"/>
@@ -12145,20 +11900,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64954"/>
   </node>
-  <node id="-1847" visible="true" lat="44.33790323" lon="-73.18815528">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="266"/>
-    <tag k="addr:street" v="Carpenter Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="64955"/>
-  </node>
-  <node id="-1848" visible="true" lat="44.3383465" lon="-73.18585897">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="270"/>
-    <tag k="addr:street" v="Carpenter Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="64956"/>
-  </node>
   <node id="-1849" visible="true" lat="44.32487588" lon="-73.174672">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="68"/>
@@ -12172,13 +11913,6 @@
     <tag k="addr:street" v="Greenbush Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64958"/>
-  </node>
-  <node id="-1851" visible="true" lat="44.32536701" lon="-73.19591863">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="500"/>
-    <tag k="addr:street" v="Sheehan Green"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="64959"/>
   </node>
   <node id="-1852" visible="true" lat="44.35820359" lon="-73.1743047">
     <tag k="addr:city" v="Charlotte"/>
@@ -12376,20 +12110,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64989"/>
   </node>
-  <node id="-1881" visible="true" lat="44.32190874" lon="-73.19517338">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="309"/>
-    <tag k="addr:street" v="Murphy Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="64990"/>
-  </node>
-  <node id="-1882" visible="true" lat="44.32249408" lon="-73.19532503">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="337"/>
-    <tag k="addr:street" v="Murphy Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="64991"/>
-  </node>
   <node id="-1883" visible="true" lat="44.32332397" lon="-73.28734463">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="347"/>
@@ -12410,13 +12130,6 @@
     <tag k="addr:street" v="Ethan Allen Highway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64994"/>
-  </node>
-  <node id="-1886" visible="true" lat="44.33807156" lon="-73.18629677">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="268"/>
-    <tag k="addr:street" v="Carpenter Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="64995"/>
   </node>
   <node id="-1887" visible="true" lat="44.35119012" lon="-73.18360274">
     <tag k="addr:city" v="Charlotte"/>
@@ -12516,27 +12229,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65010"/>
   </node>
-  <node id="-1902" visible="true" lat="44.3255009" lon="-73.19313297">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="390"/>
-    <tag k="addr:street" v="Sheehan Green"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65011"/>
-  </node>
-  <node id="-1903" visible="true" lat="44.32089889" lon="-73.19496892">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="211"/>
-    <tag k="addr:street" v="Murphy Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65013"/>
-  </node>
-  <node id="-1904" visible="true" lat="44.32142535" lon="-73.19510127">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="233"/>
-    <tag k="addr:street" v="Murphy Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65014"/>
-  </node>
   <node id="-1905" visible="true" lat="44.34747759" lon="-73.26318552">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="543"/>
@@ -12564,13 +12256,6 @@
     <tag k="addr:street" v="Prindle Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="65019"/>
-  </node>
-  <node id="-1909" visible="true" lat="44.32535166" lon="-73.19466046">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="460"/>
-    <tag k="addr:street" v="Sheehan Green"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65020"/>
   </node>
   <node id="-1910" visible="true" lat="44.34713431" lon="-73.26283096">
     <tag k="addr:city" v="Charlotte"/>
@@ -13104,20 +12789,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306996"/>
   </node>
-  <node id="-1987" visible="true" lat="44.32029659" lon="-73.1944215">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="161"/>
-    <tag k="addr:street" v="Murphy Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306997"/>
-  </node>
-  <node id="-1988" visible="true" lat="44.32039149" lon="-73.19352922">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Murphy Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306998"/>
-  </node>
   <node id="-1989" visible="true" lat="44.2731429" lon="-73.21504339">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="161"/>
@@ -13629,13 +13300,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="332280"/>
   </node>
-  <node id="-2062" visible="true" lat="44.33424942" lon="-73.19327069">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1698"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="332281"/>
-  </node>
   <node id="-2063" visible="true" lat="44.30810778" lon="-73.25350364">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="2989"/>
@@ -14119,13 +13783,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="445158"/>
   </node>
-  <node id="-2133" visible="true" lat="44.33050989" lon="-73.19101244">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2027"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="446377"/>
-  </node>
   <node id="-2134" visible="true" lat="44.28980536" lon="-73.23748329">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="250"/>
@@ -14399,13 +14056,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="453080"/>
   </node>
-  <node id="-2174" visible="true" lat="44.33366306" lon="-73.19320589">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1700"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453101"/>
-  </node>
   <node id="-2175" visible="true" lat="44.3489316" lon="-73.2453106">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="298"/>
@@ -14454,13 +14104,6 @@
     <tag k="addr:street" v="Greenbush Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454441"/>
-  </node>
-  <node id="-2182" visible="true" lat="44.32703786" lon="-73.18984724">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2227"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454652"/>
   </node>
   <node id="-2183" visible="true" lat="44.33462362" lon="-73.27750621">
     <tag k="addr:city" v="Charlotte"/>
@@ -14959,13 +14602,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760324"/>
   </node>
-  <node id="-2270" visible="true" lat="44.32809087" lon="-73.19062804">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="2163"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="760709"/>
-  </node>
   <node id="-2271" visible="true" lat="44.32193422" lon="-73.1829909">
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="60"/>
@@ -15203,13 +14839,6 @@
     <tag k="addr:street" v="Dorset Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768353"/>
-  </node>
-  <node id="-2307" visible="true" lat="44.33124561" lon="-73.19122426">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1969"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768905"/>
   </node>
   <node id="-2308" visible="true" lat="44.35839381" lon="-73.19653815">
     <tag k="addr:city" v="Charlotte"/>

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-246" visible="true" lat="44.39078698" lon="-72.58854461">
+    <!-- conflict: "207 West Hill Road, Worcester, VT" Fuzzy match to "207 West Hill Rd, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="207"/>
+    <tag k="addr:street" v="West Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304400"/>
+  </node>
   <node id="-325" visible="true" lat="44.38170019" lon="-72.55140327">
     <!-- conflict: "143 Elmore Road, Worcester, VT" No match in OSM, but a different address exists <5m away: "141 Elmore Road, Worcester, VT" -->
     <tag k="addr:city" v="Worcester"/>

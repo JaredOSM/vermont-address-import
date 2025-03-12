@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-379" visible="true" lat="43.99384995" lon="-72.12773138">
+    <!-- conflict: "13 Barton Street, , VT" No match in OSM, but a different address exists <5m away: " , Bradford, VT" -->
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Barton Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="25980"/>
+  </node>
+  <node id="-382" visible="true" lat="43.99382286" lon="-72.12738784">
+    <!-- conflict: "27 Barton Street, , VT" No match in OSM, but a different address exists <5m away: " , Bradford, VT" -->
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Barton Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="25983"/>
+  </node>
+  <node id="-383" visible="true" lat="43.99379775" lon="-72.12729635">
+    <!-- conflict: "35 Barton Street, , VT" No match in OSM, but a different address exists <5m away: " , Bradford, VT" -->
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Barton Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="25984"/>
+  </node>
   <node id="-386" visible="true" lat="43.99407635" lon="-72.12835818">
     <!-- conflict: "137 Main Street, , VT" Fuzzy match to "137 South Main Street, Bradford, VT" -->
     <tag k="addr:housenumber" v="137"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="25987"/>
-  </node>
-  <node id="-399" visible="true" lat="43.99464416" lon="-72.12770843">
-    <!-- conflict: "176 Main Street, , VT" No match in OSM, but a different address exists <5m away: " , Bradford, VT" -->
-    <tag k="addr:housenumber" v="176"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26000"/>
-  </node>
-  <node id="-400" visible="true" lat="43.99476623" lon="-72.12771606">
-    <!-- conflict: "184 Main Street, , VT" No match in OSM, but a different address exists <5m away: " , Bradford, VT" -->
-    <tag k="addr:housenumber" v="184"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26001"/>
   </node>
   <node id="-425" visible="true" lat="43.99472808" lon="-72.12771606">
     <!-- conflict: "180 Main Street, , VT" No match in OSM, but a different address exists <5m away: " , Bradford, VT" -->
@@ -64,7 +71,7 @@
     <tag k="ref:vcgi:esiteid" v="26516"/>
   </node>
   <node id="-854" visible="true" lat="43.99395514" lon="-72.12838643">
-    <!-- conflict: "131 Main Street, , VT" No match in OSM, but a different address exists <5m away: " Main Street, Bradford, VT" -->
+    <!-- conflict: "131 Main Street, , VT" No match in OSM, but a different address exists <5m away: " , Bradford, VT" -->
     <tag k="addr:housenumber" v="131"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
@@ -98,12 +105,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="26763"/>
   </node>
+  <node id="-1133" visible="true" lat="43.99552673" lon="-72.12829206">
+    <!-- conflict: "9 North Main Street, , VT" No match in OSM, but a different address exists <5m away: " , Bradford, VT" -->
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="26800"/>
+  </node>
   <node id="-1134" visible="true" lat="43.99311845" lon="-72.12760261">
     <!-- conflict: "64 Main Street, , VT" Fuzzy match to "64 South Main Street, Bradford, VT" -->
     <tag k="addr:housenumber" v="64"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="26801"/>
+  </node>
+  <node id="-1160" visible="true" lat="43.99385967" lon="-72.12768549">
+    <!-- conflict: "21 Barton Street, , VT" No match in OSM, but a different address exists <5m away: " , Bradford, VT" -->
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Barton Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="26827"/>
   </node>
   <node id="-1207" visible="true" lat="43.99067184" lon="-72.12991036">
     <!-- conflict: "191 South Main Street, , VT" No match in OSM, but a different address exists <5m away: " , Bradford, VT" -->
@@ -118,12 +139,5 @@
     <tag k="addr:street" v="Plateau Acres"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="26957"/>
-  </node>
-  <node id="-1336" visible="true" lat="43.99386687" lon="-72.12839436">
-    <!-- conflict: "121 Main Street, , VT" No match in OSM, but a different address exists <5m away: " , Bradford, VT" -->
-    <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="27013"/>
   </node>
 </osm>

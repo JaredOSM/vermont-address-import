@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="43.406753" lon="-73.22492759">
     <!-- conflict: "57 Vermont Route 30, West Pawlet, VT" No match in OSM, but a different address exists <5m away: "57 Vt Route 30, West Pawlet, VT" -->
     <tag k="addr:city" v="West Pawlet"/>
@@ -72,14 +72,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185133"/>
   </node>
-  <node id="-112" visible="true" lat="43.40556335" lon="-73.24653625">
-    <!-- conflict: "1076 Vermont Route 149, West Pawlet, VT" No match in OSM, but a different address exists <5m away: "1076 Vt Route 149, West Pawlet, VT" -->
-    <tag k="addr:city" v="West Pawlet"/>
-    <tag k="addr:housenumber" v="1076"/>
-    <tag k="addr:street" v="Vermont Route 149"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="185134"/>
-  </node>
   <node id="-113" visible="true" lat="43.40542274" lon="-73.22659719">
     <!-- conflict: "120 Vermont Route 30, West Pawlet, VT" No match in OSM, but a different address exists <5m away: "120 Vt Route 30, West Pawlet, VT" -->
     <tag k="addr:city" v="West Pawlet"/>
@@ -87,6 +79,14 @@
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="185136"/>
+  </node>
+  <node id="-114" visible="true" lat="43.40536377" lon="-73.2454997">
+    <!-- conflict: "1018 Vermont Route 149, West Pawlet, VT" No match in OSM, but a different address exists <5m away: "1018 Vt Route 149, West Pawlet, VT" -->
+    <tag k="addr:city" v="West Pawlet"/>
+    <tag k="addr:housenumber" v="1018"/>
+    <tag k="addr:street" v="Vermont Route 149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="185137"/>
   </node>
   <node id="-115" visible="true" lat="43.40528825" lon="-73.2476376">
     <!-- conflict: "1121 Vermont Route 149, West Pawlet, VT" No match in OSM, but a different address exists <5m away: "1121 Vt Route 149, West Pawlet, VT" -->

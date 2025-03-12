@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="44.79248809" lon="-73.13978576">
     <tag k="addr:housenumber" v="485"/>
     <tag k="addr:street" v="Ferrand Road"/>
@@ -696,12 +696,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="109996"/>
   </node>
-  <node id="-216" visible="true" lat="44.77712504" lon="-73.13483011">
-    <tag k="addr:housenumber" v="1371"/>
-    <tag k="addr:street" v="Mill River Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="109997"/>
-  </node>
   <node id="-217" visible="true" lat="44.77711708" lon="-73.1059716">
     <tag k="addr:housenumber" v="7376"/>
     <tag k="addr:street" v="Ethan Allen Highway"/>
@@ -1103,12 +1097,6 @@
     <tag k="addr:street" v="Cline Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="110064"/>
-  </node>
-  <node id="-284" visible="true" lat="44.76783951" lon="-73.16162143">
-    <tag k="addr:housenumber" v="4815"/>
-    <tag k="addr:street" v="Georgia Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="110065"/>
   </node>
   <node id="-285" visible="true" lat="44.76834823" lon="-73.10875572">
     <tag k="addr:housenumber" v="6735"/>
@@ -4188,12 +4176,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="110583"/>
   </node>
-  <node id="-799" visible="true" lat="44.71824073" lon="-73.11349152">
-    <tag k="addr:housenumber" v="3157"/>
-    <tag k="addr:street" v="Ethan Allen Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="110584"/>
-  </node>
   <node id="-800" visible="true" lat="44.71776238" lon="-73.11972862">
     <tag k="addr:housenumber" v="2432"/>
     <tag k="addr:street" v="Ballard Road"/>
@@ -5196,12 +5178,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="110755"/>
   </node>
-  <node id="-968" visible="true" lat="44.70478966" lon="-73.17730438">
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Rhodeside Acres"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="110756"/>
-  </node>
   <node id="-969" visible="true" lat="44.70467556" lon="-73.17656242">
     <tag k="addr:housenumber" v="58"/>
     <tag k="addr:street" v="Rhodeside Acres"/>
@@ -5226,23 +5202,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="110760"/>
   </node>
-  <node id="-973" visible="true" lat="44.70450826" lon="-73.17731024">
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Rhodeside Acres"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="110761"/>
-  </node>
   <node id="-974" visible="true" lat="44.70464325" lon="-73.14925384">
     <tag k="addr:housenumber" v="394"/>
     <tag k="addr:street" v="Sodom Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="110762"/>
-  </node>
-  <node id="-975" visible="true" lat="44.70436655" lon="-73.17677329">
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="Rhodeside Acres"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="110763"/>
   </node>
   <node id="-976" visible="true" lat="44.70451899" lon="-73.12402314">
     <tag k="addr:housenumber" v="1491"/>
@@ -6282,12 +6246,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="110942"/>
   </node>
-  <node id="-1152" visible="true" lat="44.69609875" lon="-73.10706098">
-    <tag k="addr:housenumber" v="1193"/>
-    <tag k="addr:street" v="Ethan Allen Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="110943"/>
-  </node>
   <node id="-1153" visible="true" lat="44.69614609" lon="-73.12182306">
     <tag k="addr:housenumber" v="111"/>
     <tag k="addr:street" v="Fontaine Drive"/>
@@ -6408,12 +6366,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="110965"/>
   </node>
-  <node id="-1173" visible="true" lat="44.69565963" lon="-73.10922241">
-    <tag k="addr:housenumber" v="1149"/>
-    <tag k="addr:street" v="Ethan Allen Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="110966"/>
-  </node>
   <node id="-1174" visible="true" lat="44.69554138" lon="-73.12799072">
     <tag k="addr:housenumber" v="197"/>
     <tag k="addr:street" v="Sandy Birch Road"/>
@@ -6425,12 +6377,6 @@
     <tag k="addr:street" v="Nottingham Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="110968"/>
-  </node>
-  <node id="-1176" visible="true" lat="44.69560345" lon="-73.10727453">
-    <tag k="addr:housenumber" v="1161"/>
-    <tag k="addr:street" v="Ethan Allen Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="110969"/>
   </node>
   <node id="-1177" visible="true" lat="44.69540806" lon="-73.12057741">
     <tag k="addr:housenumber" v="170"/>
@@ -6486,12 +6432,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="110978"/>
   </node>
-  <node id="-1186" visible="true" lat="44.69544667" lon="-73.10723932">
-    <tag k="addr:housenumber" v="1151"/>
-    <tag k="addr:street" v="Ethan Allen Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="110979"/>
-  </node>
   <node id="-1187" visible="true" lat="44.69530256" lon="-73.09656352">
     <tag k="addr:housenumber" v="309"/>
     <tag k="addr:street" v="Industrial Park Road"/>
@@ -6534,12 +6474,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="110987"/>
   </node>
-  <node id="-1194" visible="true" lat="44.69535721" lon="-73.1082902">
-    <tag k="addr:housenumber" v="1127"/>
-    <tag k="addr:street" v="Ethan Allen Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="110988"/>
-  </node>
   <node id="-1195" visible="true" lat="44.69502978" lon="-73.1253551">
     <tag k="addr:housenumber" v="53"/>
     <tag k="addr:street" v="Sandy Birch Road"/>
@@ -6581,12 +6515,6 @@
     <tag k="addr:street" v="Skunk Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="110996"/>
-  </node>
-  <node id="-1202" visible="true" lat="44.69519179" lon="-73.10696044">
-    <tag k="addr:housenumber" v="4504"/>
-    <tag k="addr:street" v="Highbridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="110997"/>
   </node>
   <node id="-1203" visible="true" lat="44.69471581" lon="-73.1459132">
     <tag k="addr:housenumber" v="361"/>
@@ -6803,12 +6731,6 @@
     <tag k="addr:street" v="Maxfield Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111037"/>
-  </node>
-  <node id="-1239" visible="true" lat="44.69394341" lon="-73.10744861">
-    <tag k="addr:housenumber" v="1050"/>
-    <tag k="addr:street" v="Ethan Allen Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111038"/>
   </node>
   <node id="-1240" visible="true" lat="44.69384887" lon="-73.13013554">
     <tag k="addr:housenumber" v="106"/>
@@ -7530,12 +7452,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111162"/>
   </node>
-  <node id="-1361" visible="true" lat="44.69132614" lon="-73.10909271">
-    <tag k="addr:housenumber" v="863"/>
-    <tag k="addr:street" v="Ethan Allen Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111163"/>
-  </node>
   <node id="-1362" visible="true" lat="44.69121897" lon="-73.10840911">
     <tag k="addr:housenumber" v="864"/>
     <tag k="addr:street" v="Ethan Allen Highway"/>
@@ -7565,12 +7481,6 @@
     <tag k="addr:street" v="Ballard Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111169"/>
-  </node>
-  <node id="-1367" visible="true" lat="44.69127273" lon="-73.10930633">
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Ballard Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111171"/>
   </node>
   <node id="-1368" visible="true" lat="44.69099823" lon="-73.13860946">
     <tag k="addr:housenumber" v="795"/>
@@ -8574,12 +8484,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111346"/>
   </node>
-  <node id="-1535" visible="true" lat="44.68520994" lon="-73.12633077">
-    <tag k="addr:housenumber" v="650"/>
-    <tag k="addr:street" v="Old Stage Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111347"/>
-  </node>
   <node id="-1536" visible="true" lat="44.68526184" lon="-73.11377721">
     <tag k="addr:housenumber" v="156"/>
     <tag k="addr:street" v="Heritage Drive"/>
@@ -8777,12 +8681,6 @@
     <tag k="addr:street" v="Highbridge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111380"/>
-  </node>
-  <node id="-1569" visible="true" lat="44.68387867" lon="-73.11179255">
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Heritage Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111381"/>
   </node>
   <node id="-1570" visible="true" lat="44.68399508" lon="-73.11746396">
     <tag k="addr:housenumber" v="215"/>
@@ -9264,12 +9162,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111461"/>
   </node>
-  <node id="-1650" visible="true" lat="44.6736412" lon="-73.08531189">
-    <tag k="addr:housenumber" v="494"/>
-    <tag k="addr:street" v="Arrow Head Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111462"/>
-  </node>
   <node id="-1651" visible="true" lat="44.67384788" lon="-73.06298929">
     <tag k="addr:housenumber" v="1091"/>
     <tag k="addr:street" v="Georgia Mountain Road"/>
@@ -9287,24 +9179,6 @@
     <tag k="addr:street" v="Georgia Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111465"/>
-  </node>
-  <node id="-1654" visible="true" lat="44.67247037" lon="-73.08879104">
-    <tag k="addr:housenumber" v="166"/>
-    <tag k="addr:street" v="Falco Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111466"/>
-  </node>
-  <node id="-1655" visible="true" lat="44.67218913" lon="-73.08750776">
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Falco Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111467"/>
-  </node>
-  <node id="-1656" visible="true" lat="44.67201614" lon="-73.09034729">
-    <tag k="addr:housenumber" v="370"/>
-    <tag k="addr:street" v="Falco Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111468"/>
   </node>
   <node id="-1657" visible="true" lat="44.67212857" lon="-73.06372859">
     <tag k="addr:housenumber" v="1198"/>
@@ -10014,12 +9888,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111590"/>
   </node>
-  <node id="-1776" visible="true" lat="44.69211971" lon="-73.10952301">
-    <tag k="addr:housenumber" v="927"/>
-    <tag k="addr:street" v="Ethan Allen Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111591"/>
-  </node>
   <node id="-1777" visible="true" lat="44.69243084" lon="-73.10225381">
     <tag k="addr:housenumber" v="4182"/>
     <tag k="addr:street" v="Highbridge Road"/>
@@ -10259,12 +10127,6 @@
     <tag k="addr:street" v="Sand Hill Extension"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111634"/>
-  </node>
-  <node id="-1817" visible="true" lat="44.69967548" lon="-73.10129952">
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Morse Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111635"/>
   </node>
   <node id="-1818" visible="true" lat="44.69346054" lon="-73.07815348">
     <tag k="addr:housenumber" v="33"/>
@@ -11076,12 +10938,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="332393"/>
   </node>
-  <node id="-1953" visible="true" lat="44.69744972" lon="-73.10333303">
-    <tag k="addr:housenumber" v="158"/>
-    <tag k="addr:street" v="Morse Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="332516"/>
-  </node>
   <node id="-1954" visible="true" lat="44.69811778" lon="-73.09816302">
     <tag k="addr:housenumber" v="110"/>
     <tag k="addr:street" v="Industrial Park Road"/>
@@ -11207,12 +11063,6 @@
     <tag k="addr:street" v="Bullock Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337729"/>
-  </node>
-  <node id="-1975" visible="true" lat="44.69193159" lon="-73.11250886">
-    <tag k="addr:housenumber" v="164"/>
-    <tag k="addr:street" v="Ballard Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="337956"/>
   </node>
   <node id="-1976" visible="true" lat="44.77640918" lon="-73.14900935">
     <tag k="addr:housenumber" v="5593"/>
@@ -11807,12 +11657,6 @@
     <tag k="addr:street" v="Cline Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451006"/>
-  </node>
-  <node id="-2075" visible="true" lat="44.69200543" lon="-73.10808605">
-    <tag k="addr:housenumber" v="862"/>
-    <tag k="addr:street" v="Ethan Allen Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="451425"/>
   </node>
   <node id="-2076" visible="true" lat="44.71805614" lon="-73.1717723">
     <tag k="addr:housenumber" v="123"/>
@@ -12965,12 +12809,6 @@
     <tag k="addr:street" v="Polly Hubbard Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="767545"/>
-  </node>
-  <node id="-2290" visible="true" lat="44.69385164" lon="-73.10690589">
-    <tag k="addr:housenumber" v="4451"/>
-    <tag k="addr:street" v="Highbridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768718"/>
   </node>
   <node id="-2291" visible="true" lat="44.72547021" lon="-73.16710431">
     <tag k="addr:housenumber" v="187"/>

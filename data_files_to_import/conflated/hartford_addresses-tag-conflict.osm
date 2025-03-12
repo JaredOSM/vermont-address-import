@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-168" visible="true" lat="43.71259836" lon="-72.41708151">
     <!-- conflict: "5133 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "5133 VT 14, West Hartford, VT" -->
     <tag k="addr:housenumber" v="5133"/>
@@ -7,33 +7,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="120137"/>
   </node>
-  <node id="-961" visible="true" lat="43.67555828" lon="-72.31648788">
-    <!-- conflict: "474 Colonial Drive, , VT" Fuzzy match to "474 Colonial Drive, , " -->
-    <tag k="addr:housenumber" v="474"/>
-    <tag k="addr:street" v="Colonial Drive"/>
+  <node id="-1041" visible="true" lat="43.67418922" lon="-72.305403">
+    <!-- conflict: "127 Passumpsic Avenue, , VT" No match in OSM, but a different address exists <5m away: "121 Passumpsic Avenue, , " -->
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Passumpsic Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="120985"/>
+    <tag k="ref:vcgi:esiteid" v="121069"/>
   </node>
-  <node id="-963" visible="true" lat="43.67555972" lon="-72.31715952">
-    <!-- conflict: "471 Colonial Drive, , VT" Fuzzy match to "471 Colonial Drive, , " -->
-    <tag k="addr:housenumber" v="471"/>
-    <tag k="addr:street" v="Colonial Drive"/>
+  <node id="-1086" visible="true" lat="43.67368418" lon="-72.30587752">
+    <!-- conflict: "88 Passumpsic Avenue, , VT" No match in OSM, but a different address exists <5m away: "121 Passumpsic Avenue, , " -->
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Passumpsic Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="120987"/>
+    <tag k="ref:vcgi:esiteid" v="121119"/>
   </node>
-  <node id="-984" visible="true" lat="43.67516215" lon="-72.31705777">
-    <!-- conflict: "487 Colonial Drive, , VT" Fuzzy match to "487 Colonial Drive, , " -->
-    <tag k="addr:housenumber" v="487"/>
-    <tag k="addr:street" v="Colonial Drive"/>
+  <node id="-1118" visible="true" lat="43.67304306" lon="-72.30682441">
+    <!-- conflict: "9 Norwich Avenue, , VT" No match in OSM, but a different address exists <5m away: "36 Passumpsic Avenue, , " -->
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Norwich Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121010"/>
-  </node>
-  <node id="-1361" visible="true" lat="43.67026519" lon="-72.43706512">
-    <!-- conflict: "1123 Quechee West Hartford Road, , VT" Fuzzy match to "1123 Quechee West Hartford Road, Quechee, " -->
-    <tag k="addr:housenumber" v="1123"/>
-    <tag k="addr:street" v="Quechee West Hartford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121413"/>
+    <tag k="ref:vcgi:esiteid" v="121154"/>
   </node>
   <node id="-1718" visible="true" lat="43.66374906" lon="-72.37310371">
     <!-- conflict: "1146 Center Of Town Road, , VT" Fuzzy match to "1146 Center of Town Road, Hartford, VT" -->
@@ -41,34 +34,6 @@
     <tag k="addr:street" v="Center Of Town Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="121790"/>
-  </node>
-  <node id="-1734" visible="true" lat="43.66353849" lon="-72.31628482">
-    <!-- conflict: "371 Gifford Road, , VT" Fuzzy match to "371 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="371"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121806"/>
-  </node>
-  <node id="-1746" visible="true" lat="43.66332489" lon="-72.31666901">
-    <!-- conflict: "364 Gifford Road, , VT" Fuzzy match to "364 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="364"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121818"/>
-  </node>
-  <node id="-1759" visible="true" lat="43.66310887" lon="-72.31685166">
-    <!-- conflict: "348 Gifford Road, , VT" Fuzzy match to "348 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="348"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121832"/>
-  </node>
-  <node id="-1771" visible="true" lat="43.66292505" lon="-72.31642722">
-    <!-- conflict: "345 Gifford Road, , VT" Fuzzy match to "345 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="345"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121844"/>
   </node>
   <node id="-1777" visible="true" lat="43.66312249" lon="-72.37089668">
     <!-- conflict: "1157 Center Of Town Road, , VT" Fuzzy match to "1157 Center of Town Road, Hartford, VT" -->
@@ -84,229 +49,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="121861"/>
   </node>
-  <node id="-1788" visible="true" lat="43.66274648" lon="-72.31711998">
-    <!-- conflict: "318 Gifford Road, , VT" Fuzzy match to "318 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="318"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121862"/>
-  </node>
-  <node id="-1792" visible="true" lat="43.66252645" lon="-72.31662526">
-    <!-- conflict: "317 Gifford Road, , VT" Fuzzy match to "317 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="317"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121866"/>
-  </node>
-  <node id="-1800" visible="true" lat="43.66252901" lon="-72.31481585">
-    <!-- conflict: "328 Wilder Street, , VT" Fuzzy match to "328 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="328"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121874"/>
-  </node>
-  <node id="-1808" visible="true" lat="43.66243541" lon="-72.31433668">
-    <!-- conflict: "329 Wilder Street, , VT" Fuzzy match to "329 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="329"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121882"/>
-  </node>
-  <node id="-1811" visible="true" lat="43.66236731" lon="-72.31609209">
-    <!-- conflict: "305 Gifford Road, , VT" Fuzzy match to "305 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="305"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121885"/>
-  </node>
-  <node id="-1815" visible="true" lat="43.66217147" lon="-72.31595989">
-    <!-- conflict: "307 Gifford Road, , VT" Fuzzy match to "307 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="307"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121889"/>
-  </node>
-  <node id="-1823" visible="true" lat="43.66215087" lon="-72.31687586">
-    <!-- conflict: "293 Gifford Road, , VT" Fuzzy match to "293 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="293"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121897"/>
-  </node>
-  <node id="-1828" visible="true" lat="43.66228475" lon="-72.31492507">
-    <!-- conflict: "308 Wilder Street, , VT" Fuzzy match to "308 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="308"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121902"/>
-  </node>
-  <node id="-1837" visible="true" lat="43.66213159" lon="-72.31439454">
-    <!-- conflict: "307 Wilder Street, , VT" Fuzzy match to "307 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="307"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121911"/>
-  </node>
-  <node id="-1838" visible="true" lat="43.66215004" lon="-72.31756539">
-    <!-- conflict: "274 Gifford Road, , VT" Fuzzy match to "274 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="274"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121912"/>
-  </node>
-  <node id="-1840" visible="true" lat="43.66216905" lon="-72.31496525">
-    <!-- conflict: "302 Wilder Street, , VT" Fuzzy match to "302 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="302"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121914"/>
-  </node>
-  <node id="-1856" visible="true" lat="43.66198444" lon="-72.31532544">
-    <!-- conflict: "79 Hewitt Street, , VT" Fuzzy match to "79 Hewitt Street, , " -->
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Hewitt Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121934"/>
-  </node>
-  <node id="-1864" visible="true" lat="43.66186998" lon="-72.31489381">
-    <!-- conflict: "284 Wilder Street, , VT" Fuzzy match to "284 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="284"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121944"/>
-  </node>
-  <node id="-1886" visible="true" lat="43.66174884" lon="-72.31439918">
-    <!-- conflict: "31 Hewitt Street, , VT" Fuzzy match to "31 Hewitt Street, , " -->
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Hewitt Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121968"/>
-  </node>
   <node id="-1897" visible="true" lat="43.66166687" lon="-72.37419128">
     <!-- conflict: "969 Center Of Town Road, , VT" Fuzzy match to "969 Center of Town Road, Hartford, VT" -->
     <tag k="addr:housenumber" v="969"/>
     <tag k="addr:street" v="Center Of Town Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="121982"/>
-  </node>
-  <node id="-1900" visible="true" lat="43.66178884" lon="-72.31794189">
-    <!-- conflict: "238 Gifford Road, , VT" Fuzzy match to "238 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="238"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121986"/>
-  </node>
-  <node id="-1901" visible="true" lat="43.66160417" lon="-72.31564543">
-    <!-- conflict: "267 Hanover Street, , VT" Fuzzy match to "267 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="267"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121987"/>
-  </node>
-  <node id="-1923" visible="true" lat="43.66149957" lon="-72.31516798">
-    <!-- conflict: "254 Wilder Street, , VT" Fuzzy match to "254 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="254"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122012"/>
-  </node>
-  <node id="-1928" visible="true" lat="43.6613671" lon="-72.31676304">
-    <!-- conflict: "244 Hanover Street, , VT" Fuzzy match to "244 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="244"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122018"/>
-  </node>
-  <node id="-1941" visible="true" lat="43.66127042" lon="-72.31464803">
-    <!-- conflict: "247 Wilder Street, , VT" Fuzzy match to "247 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="247"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122033"/>
-  </node>
-  <node id="-1946" visible="true" lat="43.66118292" lon="-72.31584707">
-    <!-- conflict: "239 Hanover Street, , VT" Fuzzy match to "239 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="239"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122038"/>
-  </node>
-  <node id="-1948" visible="true" lat="43.66114453" lon="-72.31719166">
-    <!-- conflict: "203 Gifford Road, , VT" Fuzzy match to "203 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="203"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122042"/>
-  </node>
-  <node id="-1955" visible="true" lat="43.66109807" lon="-72.31530785">
-    <!-- conflict: "228 Wilder Street, , VT" Fuzzy match to "228 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="228"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122051"/>
-  </node>
-  <node id="-1959" visible="true" lat="43.66104885" lon="-72.31479375">
-    <!-- conflict: "231 Wilder Street, , VT" Fuzzy match to "231 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="231"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122055"/>
-  </node>
-  <node id="-1970" visible="true" lat="43.66098998" lon="-72.31769504">
-    <!-- conflict: "192 Gifford Road, , VT" Fuzzy match to "192 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="192"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122068"/>
-  </node>
-  <node id="-1978" visible="true" lat="43.66088314" lon="-72.31486943">
-    <!-- conflict: "219 Wilder Street, , VT" Fuzzy match to "219 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="219"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122076"/>
-  </node>
-  <node id="-1979" visible="true" lat="43.66084131" lon="-72.31716693">
-    <!-- conflict: "187 Gifford Road, , VT" Fuzzy match to "187 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="187"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122077"/>
-  </node>
-  <node id="-1983" visible="true" lat="43.66091919" lon="-72.31644597">
-    <!-- conflict: "210 Hanover Street, , VT" Fuzzy match to "210 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="210"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122081"/>
-  </node>
-  <node id="-1992" visible="true" lat="43.66076732" lon="-72.31543631">
-    <!-- conflict: "204 Wilder Street, , VT" Fuzzy match to "204 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="204"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122091"/>
-  </node>
-  <node id="-1997" visible="true" lat="43.66075071" lon="-72.31603287">
-    <!-- conflict: "205 Hanover Street, , VT" Fuzzy match to "205 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122098"/>
-  </node>
-  <node id="-1998" visible="true" lat="43.66063595" lon="-72.31497523">
-    <!-- conflict: "205 Wilder Street, , VT" Fuzzy match to "205 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122100"/>
-  </node>
-  <node id="-2009" visible="true" lat="43.66055056" lon="-72.31725154">
-    <!-- conflict: "169 Gifford Road, , VT" Fuzzy match to "169 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="169"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122111"/>
   </node>
   <node id="-2010" visible="true" lat="43.66093701" lon="-72.37411555">
     <!-- conflict: "979 Center Of Town Road, , VT" Fuzzy match to "979 Center of Town Road, Hartford, VT" -->
@@ -315,187 +63,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="122112"/>
   </node>
-  <node id="-2011" visible="true" lat="43.66066371" lon="-72.31782689">
-    <!-- conflict: "162 Gifford Road, , VT" Fuzzy match to "162 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="162"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122113"/>
-  </node>
-  <node id="-2014" visible="true" lat="43.66048774" lon="-72.31611549">
-    <!-- conflict: "191 Hanover Street, , VT" Fuzzy match to "191 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="191"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122116"/>
-  </node>
-  <node id="-2031" visible="true" lat="43.66041075" lon="-72.31560875">
-    <!-- conflict: "176 Wilder Street, , VT" Fuzzy match to "176 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="176"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122134"/>
-  </node>
-  <node id="-2032" visible="true" lat="43.66033297" lon="-72.31731791">
-    <!-- conflict: "151 Gifford Road, , VT" Fuzzy match to "151 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122135"/>
-  </node>
   <node id="-2034" visible="true" lat="43.66048727" lon="-72.31454817">
     <!-- conflict: "842 Hartford Avenue, , VT" No match in OSM, but a different address exists <5m away: "842 Taft Avenue, , " -->
     <tag k="addr:housenumber" v="842"/>
     <tag k="addr:street" v="Hartford Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="122137"/>
-  </node>
-  <node id="-2042" visible="true" lat="43.66024861" lon="-72.31511853">
-    <!-- conflict: "173 Wilder Street, , VT" Fuzzy match to "173 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="173"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122145"/>
-  </node>
-  <node id="-2048" visible="true" lat="43.66013903" lon="-72.31628533">
-    <!-- conflict: "165 Hanover Street, , VT" Fuzzy match to "165 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="165"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122151"/>
-  </node>
-  <node id="-2050" visible="true" lat="43.66018007" lon="-72.31684644">
-    <!-- conflict: "158 Hanover Street, , VT" Fuzzy match to "158 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="158"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122153"/>
-  </node>
-  <node id="-2055" visible="true" lat="43.66010278" lon="-72.31576019">
-    <!-- conflict: "156 Wilder Street, , VT" Fuzzy match to "156 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="156"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122158"/>
-  </node>
-  <node id="-2061" visible="true" lat="43.65990348" lon="-72.32014897">
-    <!-- conflict: "98 Gifford Road, , VT" Fuzzy match to "98 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="98"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122164"/>
-  </node>
-  <node id="-2064" visible="true" lat="43.65990773" lon="-72.31639494">
-    <!-- conflict: "145 Hanover Street, , VT" Fuzzy match to "145 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="145"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122167"/>
-  </node>
-  <node id="-2066" visible="true" lat="43.65992777" lon="-72.31803428">
-    <!-- conflict: "114 Gifford Road, , VT" Fuzzy match to "114 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122169"/>
-  </node>
-  <node id="-2068" visible="true" lat="43.6598124" lon="-72.31753348">
-    <!-- conflict: "115 Gifford Road, , VT" Fuzzy match to "115 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="115"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122171"/>
-  </node>
-  <node id="-2070" visible="true" lat="43.6597949" lon="-72.31696491">
-    <!-- conflict: "134 Hanover Street, , VT" Fuzzy match to "134 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="134"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122173"/>
-  </node>
-  <node id="-2074" visible="true" lat="43.65972409" lon="-72.31649643">
-    <!-- conflict: "135 Hanover Street, , VT" Fuzzy match to "135 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="135"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122177"/>
-  </node>
-  <node id="-2079" visible="true" lat="43.65978183" lon="-72.31582657">
-    <!-- conflict: "128 Wilder Street, , VT" Fuzzy match to "128 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="128"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122183"/>
-  </node>
-  <node id="-2089" visible="true" lat="43.65953437" lon="-72.316589">
-    <!-- conflict: "123 Hanover Street, , VT" Fuzzy match to "123 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="123"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122194"/>
-  </node>
-  <node id="-2090" visible="true" lat="43.65960776" lon="-72.31821446">
-    <!-- conflict: "90 Gifford Road, , VT" Fuzzy match to "90 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122195"/>
-  </node>
-  <node id="-2093" visible="true" lat="43.65956026" lon="-72.31593309">
-    <!-- conflict: "116 Wilder Street, , VT" Fuzzy match to "116 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="116"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122199"/>
-  </node>
-  <node id="-2095" visible="true" lat="43.65948917" lon="-72.31706675">
-    <!-- conflict: "108 Hanover Street, , VT" Fuzzy match to "108 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122201"/>
-  </node>
-  <node id="-2097" visible="true" lat="43.65944747" lon="-72.31546524">
-    <!-- conflict: "117 Wilder Street, , VT" Fuzzy match to "117 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="117"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122203"/>
-  </node>
-  <node id="-2109" visible="true" lat="43.65934353" lon="-72.31778743">
-    <!-- conflict: "79 Gifford Road, , VT" Fuzzy match to "79 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122215"/>
-  </node>
-  <node id="-2111" visible="true" lat="43.65931897" lon="-72.31715468">
-    <!-- conflict: "98 Hanover Street, , VT" Fuzzy match to "98 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="98"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122217"/>
-  </node>
-  <node id="-2113" visible="true" lat="43.65935418" lon="-72.31842019">
-    <!-- conflict: "70 Gifford Road, , VT" Fuzzy match to "70 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122220"/>
-  </node>
-  <node id="-2119" visible="true" lat="43.65915147" lon="-72.31676817">
-    <!-- conflict: "93 Hanover Street, , VT" Fuzzy match to "93 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="93"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122226"/>
-  </node>
-  <node id="-2120" visible="true" lat="43.65927577" lon="-72.31911027">
-    <!-- conflict: "54 Gifford Road, , VT" Fuzzy match to "54 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122227"/>
   </node>
   <node id="-2125" visible="true" lat="43.65908676" lon="-72.31566307">
     <!-- conflict: "40 Pierce Street, , VT" No match in OSM, but a different address exists <5m away: "40 Wilder Street, , " -->
@@ -504,271 +77,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="122233"/>
   </node>
-  <node id="-2132" visible="true" lat="43.65919804" lon="-72.31847725">
-    <!-- conflict: "52 Gifford Road, , VT" Fuzzy match to "52 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122241"/>
-  </node>
-  <node id="-2140" visible="true" lat="43.6589845" lon="-72.31622547">
-    <!-- conflict: "76 Wilder Street, , VT" Fuzzy match to "76 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122249"/>
-  </node>
-  <node id="-2141" visible="true" lat="43.65899639" lon="-72.31682264">
-    <!-- conflict: "79 Hanover Street, , VT" Fuzzy match to "79 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122250"/>
-  </node>
-  <node id="-2154" visible="true" lat="43.65885341" lon="-72.31630511">
-    <!-- conflict: "66 Wilder Street, , VT" Fuzzy match to "66 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="66"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122263"/>
-  </node>
-  <node id="-2156" visible="true" lat="43.65887251" lon="-72.31810282">
-    <!-- conflict: "149 Saunders Avenue, , VT" Fuzzy match to "149 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="149"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122265"/>
-  </node>
-  <node id="-2159" visible="true" lat="43.65885019" lon="-72.31865808">
-    <!-- conflict: "34 Gifford Road, , VT" Fuzzy match to "34 Gifford Road, , " -->
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:street" v="Gifford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122268"/>
-  </node>
-  <node id="-2166" visible="true" lat="43.65882179" lon="-72.31786918">
-    <!-- conflict: "141 Saunders Avenue, , VT" Fuzzy match to "141 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="141"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122275"/>
-  </node>
-  <node id="-2173" visible="true" lat="43.65868851" lon="-72.31746467">
-    <!-- conflict: "113 Saunders Avenue, , VT" Fuzzy match to "113 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="113"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122283"/>
-  </node>
-  <node id="-2175" visible="true" lat="43.65854988" lon="-72.31826673">
-    <!-- conflict: "148 Saunders Avenue, , VT" Fuzzy match to "148 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122285"/>
-  </node>
-  <node id="-2176" visible="true" lat="43.65859203" lon="-72.31595268">
-    <!-- conflict: "51 Wilder Street, , VT" Fuzzy match to "51 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122286"/>
-  </node>
-  <node id="-2180" visible="true" lat="43.65855607" lon="-72.31640423">
-    <!-- conflict: "44 Wilder Street, , VT" Fuzzy match to "44 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122290"/>
-  </node>
-  <node id="-2182" visible="true" lat="43.658495" lon="-72.31803734">
-    <!-- conflict: "136 Saunders Avenue, , VT" Fuzzy match to "136 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="136"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122292"/>
-  </node>
-  <node id="-2183" visible="true" lat="43.65858208" lon="-72.3170952">
-    <!-- conflict: "95 Saunders Avenue, , VT" Fuzzy match to "95 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122293"/>
-  </node>
-  <node id="-2191" visible="true" lat="43.65840338" lon="-72.3176241">
-    <!-- conflict: "116 Saunders Avenue, , VT" Fuzzy match to "116 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="116"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122301"/>
-  </node>
-  <node id="-2196" visible="true" lat="43.65843092" lon="-72.31671179">
-    <!-- conflict: "73 Saunders Avenue, , VT" Fuzzy match to "73 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="73"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122306"/>
-  </node>
-  <node id="-2201" visible="true" lat="43.65827421" lon="-72.31722053">
-    <!-- conflict: "94 Saunders Avenue, , VT" Fuzzy match to "94 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="94"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122312"/>
-  </node>
-  <node id="-2203" visible="true" lat="43.65821143" lon="-72.31706044">
-    <!-- conflict: "82 Saunders Avenue, , VT" Fuzzy match to "82 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122314"/>
-  </node>
-  <node id="-2207" visible="true" lat="43.65831254" lon="-72.31610322">
-    <!-- conflict: "43 Saunders Avenue, , VT" Fuzzy match to "43 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122318"/>
-  </node>
-  <node id="-2208" visible="true" lat="43.65813773" lon="-72.31685374">
-    <!-- conflict: "72 Saunders Avenue, , VT" Fuzzy match to "72 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="72"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122320"/>
-  </node>
-  <node id="-2210" visible="true" lat="43.6582376" lon="-72.31589429">
-    <!-- conflict: "27 Saunders Avenue, , VT" Fuzzy match to "27 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122322"/>
-  </node>
-  <node id="-2211" visible="true" lat="43.65808348" lon="-72.31662273">
-    <!-- conflict: "62 Saunders Avenue, , VT" Fuzzy match to "62 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122323"/>
-  </node>
-  <node id="-2220" visible="true" lat="43.65799426" lon="-72.31631416">
-    <!-- conflict: "44 Saunders Avenue, , VT" Fuzzy match to "44 Saunders Avenue, , " -->
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Saunders Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122333"/>
-  </node>
-  <node id="-2239" visible="true" lat="43.65770179" lon="-72.31464754">
-    <!-- conflict: "657 Hartford Avenue, , VT" Fuzzy match to "657 Hartford Avenue, , " -->
-    <tag k="addr:housenumber" v="657"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122354"/>
-  </node>
   <node id="-2241" visible="true" lat="43.65777411" lon="-72.34237157">
     <!-- conflict: "272 Va Cutoff Road, , VT" Fuzzy match to "272 V.A. Cutoff Road, White River Junction, VT" -->
     <tag k="addr:housenumber" v="272"/>
     <tag k="addr:street" v="Va Cutoff Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="122356"/>
-  </node>
-  <node id="-2263" visible="true" lat="43.65725692" lon="-72.31475249">
-    <!-- conflict: "637 Hartford Avenue, , VT" Fuzzy match to "637 Hartford Avenue, , " -->
-    <tag k="addr:housenumber" v="637"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122381"/>
-  </node>
-  <node id="-2264" visible="true" lat="43.65728396" lon="-72.3235785">
-    <!-- conflict: "437 Highland Avenue, , VT" No match in OSM, but a different address exists <5m away: "431 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="437"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122382"/>
-  </node>
-  <node id="-2271" visible="true" lat="43.65706349" lon="-72.3241975">
-    <!-- conflict: "436 Highland Avenue, , VT" Fuzzy match to "436 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="436"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122390"/>
-  </node>
-  <node id="-2276" visible="true" lat="43.65694046" lon="-72.32328796">
-    <!-- conflict: "414 Highland Avenue, , VT" Fuzzy match to "414 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="414"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122396"/>
-  </node>
-  <node id="-2278" visible="true" lat="43.65700702" lon="-72.31669932">
-    <!-- conflict: "19 Hebard Street, , VT" Fuzzy match to "19 Hebard Street, , " -->
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Hebard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122398"/>
-  </node>
-  <node id="-2280" visible="true" lat="43.65688323" lon="-72.31720733">
-    <!-- conflict: "64 Hebard Street, , VT" Fuzzy match to "64 Hebard Street, , " -->
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Hebard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122400"/>
-  </node>
-  <node id="-2287" visible="true" lat="43.65675687" lon="-72.32296646">
-    <!-- conflict: "396 Highland Avenue, , VT" Fuzzy match to "396 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="396"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122407"/>
-  </node>
-  <node id="-2295" visible="true" lat="43.65682675" lon="-72.31511057">
-    <!-- conflict: "589 Hartford Avenue, , VT" Fuzzy match to "589 Hartford Avenue, , " -->
-    <tag k="addr:housenumber" v="589"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122416"/>
-  </node>
-  <node id="-2300" visible="true" lat="43.65663288" lon="-72.32277046">
-    <!-- conflict: "376 Highland Avenue, , VT" Fuzzy match to "376 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="376"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122421"/>
-  </node>
-  <node id="-2312" visible="true" lat="43.65637325" lon="-72.32227702">
-    <!-- conflict: "346 Highland Avenue, , VT" Fuzzy match to "346 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="346"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122433"/>
-  </node>
-  <node id="-2318" visible="true" lat="43.65634155" lon="-72.32168579">
-    <!-- conflict: "324 Highland Avenue, , VT" Fuzzy match to "324 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="324"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122440"/>
-  </node>
-  <node id="-2327" visible="true" lat="43.65634538" lon="-72.32350608">
-    <!-- conflict: "188 Cascadnac Avenue, , VT" Fuzzy match to "188 Cascadnac Avenue, , " -->
-    <tag k="addr:housenumber" v="188"/>
-    <tag k="addr:street" v="Cascadnac Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122449"/>
-  </node>
-  <node id="-2329" visible="true" lat="43.65625023" lon="-72.31779301">
-    <!-- conflict: "71 Highland Avenue, , VT" Fuzzy match to "71 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122451"/>
-  </node>
-  <node id="-2332" visible="true" lat="43.65620183" lon="-72.32306921">
-    <!-- conflict: "198 Cascadnac Avenue, , VT" Fuzzy match to "198 Cascadnac Avenue, , " -->
-    <tag k="addr:housenumber" v="198"/>
-    <tag k="addr:street" v="Cascadnac Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122454"/>
   </node>
   <node id="-2348" visible="true" lat="43.65575607" lon="-72.32010366">
     <!-- conflict: "165 Victory Circle, , VT" No match in OSM, but a different address exists <5m away: "234 Highland Avenue, , " -->
@@ -777,13 +91,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="122472"/>
   </node>
-  <node id="-2355" visible="true" lat="43.65574622" lon="-72.31860734">
-    <!-- conflict: "185 Highland Avenue, , VT" No match in OSM, but a different address exists <5m away: "187 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="185"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122479"/>
-  </node>
   <node id="-2360" visible="true" lat="43.65575336" lon="-72.32153624">
     <!-- conflict: "290 Cascadnac Avenue, , VT" No match in OSM, but a different address exists <5m away: " Cascadnac Avenue, , " -->
     <tag k="addr:housenumber" v="290"/>
@@ -791,68 +98,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="122484"/>
   </node>
-  <node id="-2365" visible="true" lat="43.65563964" lon="-72.31974029">
-    <!-- conflict: "214 Highland Avenue, , VT" Fuzzy match to "214 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="214"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122489"/>
-  </node>
-  <node id="-2368" visible="true" lat="43.65557479" lon="-72.31600189">
-    <!-- conflict: "38 Worcester Avenue, , VT" Fuzzy match to "38 Worcester Avenue, , " -->
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="Worcester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122492"/>
-  </node>
-  <node id="-2371" visible="true" lat="43.65552789" lon="-72.32198152">
-    <!-- conflict: "288 Cascadnac Avenue, , VT" Fuzzy match to "288 Cascadnac Avenue, , " -->
-    <tag k="addr:housenumber" v="288"/>
-    <tag k="addr:street" v="Cascadnac Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122495"/>
-  </node>
-  <node id="-2374" visible="true" lat="43.65563199" lon="-72.32059452">
-    <!-- conflict: "148 Victory Circle, , VT" Fuzzy match to "148 Victory Circle, , " -->
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:street" v="Victory Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122498"/>
-  </node>
   <node id="-2377" visible="true" lat="43.65553957" lon="-72.31808568">
     <!-- conflict: "109 Highland Avenue, , VT" No match in OSM, but a different address exists <5m away: "109B Highland Avenue, , " -->
     <tag k="addr:housenumber" v="109"/>
     <tag k="addr:street" v="Highland Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="122501"/>
-  </node>
-  <node id="-2378" visible="true" lat="43.65541735" lon="-72.32340683">
-    <!-- conflict: "187 Cascadnac Avenue, , VT" Fuzzy match to "187 Cascadnac Avenue, , " -->
-    <tag k="addr:housenumber" v="187"/>
-    <tag k="addr:street" v="Cascadnac Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122502"/>
-  </node>
-  <node id="-2380" visible="true" lat="43.65546615" lon="-72.31981019">
-    <!-- conflict: "17 Victory Circle, , VT" Fuzzy match to "17 Victory Circle, , " -->
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Victory Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122504"/>
-  </node>
-  <node id="-2394" visible="true" lat="43.65525924" lon="-72.32245223">
-    <!-- conflict: "263 Cascadnac Avenue, , VT" Fuzzy match to "263 Cascadnac Avenue, , " -->
-    <tag k="addr:housenumber" v="263"/>
-    <tag k="addr:street" v="Cascadnac Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122520"/>
-  </node>
-  <node id="-2395" visible="true" lat="43.65538187" lon="-72.31607158">
-    <!-- conflict: "58 Worcester Avenue, , VT" Fuzzy match to "58 Worcester Avenue, , " -->
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:street" v="Worcester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122521"/>
   </node>
   <node id="-2397" visible="true" lat="43.65527064" lon="-72.32112558">
     <!-- conflict: "308 Cascadnac Avenue, , VT" No match in OSM, but a different address exists <5m away: " Cascadnac Avenue, , " -->
@@ -867,139 +118,6 @@
     <tag k="addr:street" v="Courtemanche Hill"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="122527"/>
-  </node>
-  <node id="-2402" visible="true" lat="43.65520176" lon="-72.31940342">
-    <!-- conflict: "178 Highland Avenue, , VT" Fuzzy match to "178 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="178"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122529"/>
-  </node>
-  <node id="-2410" visible="true" lat="43.65506735" lon="-72.31904252">
-    <!-- conflict: "176 Highland Avenue, , VT" Fuzzy match to "176 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="176"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122537"/>
-  </node>
-  <node id="-2414" visible="true" lat="43.65513674" lon="-72.31996896">
-    <!-- conflict: "45 Victory Circle, , VT" Fuzzy match to "45 Victory Circle, , " -->
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Victory Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122541"/>
-  </node>
-  <node id="-2418" visible="true" lat="43.65513064" lon="-72.31612924">
-    <!-- conflict: "72 Worcester Avenue, , VT" Fuzzy match to "72 Worcester Avenue, , " -->
-    <tag k="addr:housenumber" v="72"/>
-    <tag k="addr:street" v="Worcester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122545"/>
-  </node>
-  <node id="-2421" visible="true" lat="43.65512132" lon="-72.31675993">
-    <!-- conflict: "81 Worcester Avenue, , VT" Fuzzy match to "81 Worcester Avenue, , " -->
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:street" v="Worcester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122548"/>
-  </node>
-  <node id="-2425" visible="true" lat="43.65491357" lon="-72.32005777">
-    <!-- conflict: "57 Victory Circle, , VT" Fuzzy match to "57 Victory Circle, , " -->
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Victory Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122553"/>
-  </node>
-  <node id="-2427" visible="true" lat="43.65483475" lon="-72.32169133">
-    <!-- conflict: "301 Cascadnac Avenue, , VT" Fuzzy match to "301 Cascadnac Avenue, , " -->
-    <tag k="addr:housenumber" v="301"/>
-    <tag k="addr:street" v="Cascadnac Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122555"/>
-  </node>
-  <node id="-2429" visible="true" lat="43.65502024" lon="-72.3203956">
-    <!-- conflict: "97 Victory Circle, , VT" Fuzzy match to "97 Victory Circle, , " -->
-    <tag k="addr:housenumber" v="97"/>
-    <tag k="addr:street" v="Victory Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122557"/>
-  </node>
-  <node id="-2440" visible="true" lat="43.65489075" lon="-72.31681753">
-    <!-- conflict: "97 Worcester Avenue, , VT" Fuzzy match to "97 Worcester Avenue, , " -->
-    <tag k="addr:housenumber" v="97"/>
-    <tag k="addr:street" v="Worcester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122569"/>
-  </node>
-  <node id="-2441" visible="true" lat="43.65479278" lon="-72.31626129">
-    <!-- conflict: "92 Worcester Avenue, , VT" Fuzzy match to "92 Worcester Avenue, , " -->
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="Worcester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122570"/>
-  </node>
-  <node id="-2444" visible="true" lat="43.65473601" lon="-72.32078525">
-    <!-- conflict: "102 Victory Circle, , VT" Fuzzy match to "102 Victory Circle, , " -->
-    <tag k="addr:housenumber" v="102"/>
-    <tag k="addr:street" v="Victory Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122573"/>
-  </node>
-  <node id="-2449" visible="true" lat="43.65460981" lon="-72.32053396">
-    <!-- conflict: "92 Victory Circle, , VT" Fuzzy match to "92 Victory Circle, , " -->
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="Victory Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122578"/>
-  </node>
-  <node id="-2450" visible="true" lat="43.6546178" lon="-72.32024868">
-    <!-- conflict: "86 Victory Circle, , VT" Fuzzy match to "86 Victory Circle, , " -->
-    <tag k="addr:housenumber" v="86"/>
-    <tag k="addr:street" v="Victory Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122580"/>
-  </node>
-  <node id="-2458" visible="true" lat="43.65464987" lon="-72.31689413">
-    <!-- conflict: "111 Worcester Avenue, , VT" Fuzzy match to "111 Worcester Avenue, , " -->
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Worcester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122588"/>
-  </node>
-  <node id="-2474" visible="true" lat="43.65447997" lon="-72.31636047">
-    <!-- conflict: "114 Worcester Avenue, , VT" Fuzzy match to "114 Worcester Avenue, , " -->
-    <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:street" v="Worcester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122605"/>
-  </node>
-  <node id="-2479" visible="true" lat="43.65438077" lon="-72.31699548">
-    <!-- conflict: "125 Worcester Avenue, , VT" Fuzzy match to "125 Worcester Avenue, , " -->
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Worcester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122610"/>
-  </node>
-  <node id="-2500" visible="true" lat="43.65426829" lon="-72.31644246">
-    <!-- conflict: "136 Worcester Avenue, , VT" Fuzzy match to "136 Worcester Avenue, , " -->
-    <tag k="addr:housenumber" v="136"/>
-    <tag k="addr:street" v="Worcester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122631"/>
-  </node>
-  <node id="-2501" visible="true" lat="43.65417408" lon="-72.31719688">
-    <!-- conflict: "143 Worcester Avenue, , VT" Fuzzy match to "143 Worcester Avenue, , " -->
-    <tag k="addr:housenumber" v="143"/>
-    <tag k="addr:street" v="Worcester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122632"/>
-  </node>
-  <node id="-2521" visible="true" lat="43.65407469" lon="-72.31681818">
-    <!-- conflict: "144 Worcester Avenue, , VT" Fuzzy match to "144 Worcester Avenue, , " -->
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:street" v="Worcester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122652"/>
   </node>
   <node id="-2615" visible="true" lat="43.65312056" lon="-72.3455391">
     <!-- conflict: "812 Va Cutoff Road, , VT" Fuzzy match to "812 V.A. Cutoff Road, White River Junction, VT" -->
@@ -1028,13 +146,6 @@
     <tag k="addr:street" v="Va Cutoff Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123174"/>
-  </node>
-  <node id="-2985" visible="true" lat="43.64845002" lon="-72.32023054">
-    <!-- conflict: "119 Gates Street, , VT" Fuzzy match to "119 Gates Street, Hartford, " -->
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Gates Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123189"/>
   </node>
   <node id="-3048" visible="true" lat="43.64803807" lon="-72.34541191">
     <!-- conflict: "1153 Va Cutoff Road, , VT" Fuzzy match to "1153 V.A. Cutoff Road, White River Junction, VT" -->
@@ -1120,26 +231,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="124422"/>
   </node>
-  <node id="-4114" visible="true" lat="43.65589426" lon="-72.32049415">
-    <!-- conflict: "260 Highland Avenue, , VT" Fuzzy match to "260 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="260"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124443"/>
-  </node>
   <node id="-4144" visible="true" lat="43.64911192" lon="-72.31944297">
     <!-- conflict: "49 North Main Street, , VT" Fuzzy match to "49 South Main Street, White River Junction, VT" -->
     <tag k="addr:housenumber" v="49"/>
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="124475"/>
-  </node>
-  <node id="-4180" visible="true" lat="43.65542024" lon="-72.32274031">
-    <!-- conflict: "245 Cascadnac Avenue, , VT" Fuzzy match to "245 Cascadnac Avenue, , " -->
-    <tag k="addr:housenumber" v="245"/>
-    <tag k="addr:street" v="Cascadnac Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124513"/>
   </node>
   <node id="-4281" visible="true" lat="43.64639502" lon="-72.34583315">
     <!-- conflict: "1257 Va Cutoff Road, , VT" Fuzzy match to "1257 V.A. Cutoff Road, Hartford, VT" -->
@@ -1148,19 +245,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="124618"/>
   </node>
+  <node id="-4446" visible="true" lat="43.67447646" lon="-72.31687647">
+    <!-- conflict: "121 Morning Glory Lane, , VT" No match in OSM, but a different address exists <5m away: "121 Autumn Drive, White River Junction, VT" -->
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Morning Glory Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124788"/>
+  </node>
   <node id="-4516" visible="true" lat="43.67029534" lon="-72.3754713">
     <!-- conflict: "1350 Vermont Route 14, , VT" No match in OSM, but a different address exists <5m away: "1350 VT-14, Hartford, VT" -->
     <tag k="addr:housenumber" v="1350"/>
     <tag k="addr:street" v="Vermont Route 14"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="124868"/>
-  </node>
-  <node id="-4599" visible="true" lat="43.66169864" lon="-72.31626483">
-    <!-- conflict: "258 Hanover Street, , VT" Fuzzy match to "258 Hanover Street, , " -->
-    <tag k="addr:housenumber" v="258"/>
-    <tag k="addr:street" v="Hanover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="307292"/>
   </node>
   <node id="-4606" visible="true" lat="43.6895724" lon="-72.31789935">
     <!-- conflict: "2499 Christian Street, , VT" No match in OSM, but a different address exists <5m away: "2495 Christian Street, White River Junction, VT" -->
@@ -1175,27 +272,6 @@
     <tag k="addr:street" v="Natures Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="331696"/>
-  </node>
-  <node id="-4783" visible="true" lat="43.65846052" lon="-72.32127349">
-    <!-- conflict: "431 Highland Avenue, , VT" Fuzzy match to "431 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="431"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333135"/>
-  </node>
-  <node id="-4784" visible="true" lat="43.6557257" lon="-72.3185317">
-    <!-- conflict: "183 Highland Avenue, , VT" No match in OSM, but a different address exists <5m away: "187 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="183"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333136"/>
-  </node>
-  <node id="-4785" visible="true" lat="43.65577301" lon="-72.31868289">
-    <!-- conflict: "187 Highland Avenue, , VT" Fuzzy match to "187 Highland Avenue, , " -->
-    <tag k="addr:housenumber" v="187"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333137"/>
   </node>
   <node id="-4798" visible="true" lat="43.6529975" lon="-72.32126971">
     <!-- conflict: "351 Maple Street, , VT" No match in OSM, but a different address exists <5m away: "531 Maple Street, White River Junction, VT" -->
@@ -1224,20 +300,6 @@
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338219"/>
-  </node>
-  <node id="-4861" visible="true" lat="43.65531655" lon="-72.32022255">
-    <!-- conflict: "145 Victory Circle, , VT" Fuzzy match to "145 Victory Circle, , " -->
-    <tag k="addr:housenumber" v="145"/>
-    <tag k="addr:street" v="Victory Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338894"/>
-  </node>
-  <node id="-4863" visible="true" lat="43.66049566" lon="-72.31556515">
-    <!-- conflict: "192 Wilder Street, , VT" Fuzzy match to "192 Wilder Street, , " -->
-    <tag k="addr:housenumber" v="192"/>
-    <tag k="addr:street" v="Wilder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="339020"/>
   </node>
   <node id="-4909" visible="true" lat="43.63764767" lon="-72.39884201">
     <!-- conflict: "10 Quechee Gorge Village Drive, , VT" No match in OSM, but a different address exists <5m away: "5573 Woodstock Road, Quechee, VT" -->

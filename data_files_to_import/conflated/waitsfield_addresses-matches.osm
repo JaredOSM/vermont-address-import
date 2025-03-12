@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-185" visible="true" lat="44.2142433" lon="-72.79354044">
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="54"/>
@@ -231,6 +231,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267730"/>
   </node>
+  <node id="-445" visible="true" lat="44.19131004" lon="-72.82367965">
+    <!-- match: "4312 Main Street, Waitsfield, VT"  ignoring missing state when matching to "4312 Main Street, Waitsfield, " -->
+    <tag k="addr:city" v="Waitsfield"/>
+    <tag k="addr:housenumber" v="4312"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="267767"/>
+  </node>
   <node id="-452" visible="true" lat="44.19069204" lon="-72.82492031">
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="45"/>
@@ -258,6 +266,21 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267786"/>
+  </node>
+  <node id="-468" visible="true" lat="44.19005275" lon="-72.82381286">
+    <!-- match: "27 Bridge Street, Waitsfield, VT"  ignoring missing state when matching to "27 Bridge Street, Waitsfield, " -->
+    <tag k="addr:city" v="Waitsfield"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="267792"/>
+  </node>
+  <node id="-476" visible="true" lat="44.18986201" lon="-72.8235382">
+    <tag k="addr:city" v="Waitsfield"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="267800"/>
   </node>
   <node id="-495" visible="true" lat="44.18923582" lon="-72.8285079">
     <tag k="addr:city" v="Waitsfield"/>
@@ -336,6 +359,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267855"/>
   </node>
+  <node id="-571" visible="true" lat="44.18545327" lon="-72.83824313">
+    <!-- match: "27 Mad River Canoe Road, Waitsfield, VT"  ignoring missing state when matching to "27 Mad River Canoe Road, Waitsfield, " -->
+    <tag k="addr:city" v="Waitsfield"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Mad River Canoe Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="267897"/>
+  </node>
   <node id="-573" visible="true" lat="44.18512672" lon="-72.83581317">
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="5070"/>
@@ -356,6 +387,14 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="267908"/>
+  </node>
+  <node id="-584" visible="true" lat="44.18422659" lon="-72.83829473">
+    <!-- match: "89 Mad River Green, Waitsfield, VT"  ignoring missing state when matching to "89 Mad River Green, Waitsfield, " -->
+    <tag k="addr:city" v="Waitsfield"/>
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:street" v="Mad River Green"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="267912"/>
   </node>
   <node id="-600" visible="true" lat="44.18323271" lon="-72.83713637">
     <tag k="addr:city" v="Waitsfield"/>
@@ -1049,6 +1088,14 @@
     <tag k="addr:street" v="East Warren Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="268367"/>
+  </node>
+  <node id="-1042" visible="true" lat="44.18408529" lon="-72.83935751">
+    <!-- match: "114 Mad River Green, Waitsfield, VT"  ignoring missing state when matching to "114 Mad River Green, Waitsfield, " -->
+    <tag k="addr:city" v="Waitsfield"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Mad River Green"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="268375"/>
   </node>
   <node id="-1061" visible="true" lat="44.14900371" lon="-72.81575672">
     <tag k="addr:city" v="Waitsfield"/>

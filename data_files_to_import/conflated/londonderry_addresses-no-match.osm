@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
   <node id="-100" visible="true" lat="43.20224951" lon="-72.772644">
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Mountain Side Condos Lane"/>
@@ -1649,12 +1649,6 @@
     <tag k="addr:street" v="Derry Woods Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="140923"/>
-  </node>
-  <node id="-383" visible="true" lat="43.22901712" lon="-72.81326001">
-    <tag k="addr:housenumber" v="2000"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="140924"/>
   </node>
   <node id="-385" visible="true" lat="43.22905349" lon="-72.80555725">
     <tag k="addr:housenumber" v="5954"/>

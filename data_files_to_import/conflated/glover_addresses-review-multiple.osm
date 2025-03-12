@@ -1,3 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-318" visible="true" lat="44.70593763" lon="-72.18946641">
+    <!-- multiple: "100 School Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111936"/>
+  </node>
+  <node id="-337" visible="true" lat="44.70514414" lon="-72.18857942">
+    <!-- multiple: "3074 Glover Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3074"/>
+    <tag k="addr:street" v="Glover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111956"/>
+  </node>
+  <node id="-340" visible="true" lat="44.70497064" lon="-72.1888805">
+    <!-- multiple: "3086 Glover Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3086"/>
+    <tag k="addr:street" v="Glover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111959"/>
+  </node>
 </osm>
