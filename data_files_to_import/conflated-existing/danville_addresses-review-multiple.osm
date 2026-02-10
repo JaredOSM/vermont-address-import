@@ -35,6 +35,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="81009"/>
   </node>
+  <node id="-890" visible="true" lat="44.40905655" lon="-72.19489441">
+    <!-- multiple: "12 Vermont Route 15, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Vermont Route 15"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="81112"/>
+  </node>
   <node id="-1234" visible="true" lat="44.42205621" lon="-72.11505943">
     <!-- multiple: "24 Old Stagecoach Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="24"/>

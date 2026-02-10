@@ -266,6 +266,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246604"/>
   </node>
+  <node id="-2250" visible="true" lat="44.41715483" lon="-72.01533218">
+    <!-- multiple: "51 Depot Square, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Depot Square"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="246616"/>
+  </node>
   <node id="-2285" visible="true" lat="44.41650764" lon="-72.02485079">
     <!-- multiple: "257 Western Avenue, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="257"/>

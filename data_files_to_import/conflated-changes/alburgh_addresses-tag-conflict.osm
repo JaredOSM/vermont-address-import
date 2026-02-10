@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-468" visible="true" lat="44.90814523" lon="-73.30557181">
+    <!-- conflict: "230 Vermont Route 129, Alburgh, VT" No match in OSM, but a different address exists <5m away: "345 Lakewood Drive, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:street" v="Vermont Route 129"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2074"/>
+  </node>
+  <node id="-1212" visible="true" lat="44.90701097" lon="-73.30511535">
+    <!-- conflict: "230 Vermont Route 129, Alburgh, VT" No match in OSM, but a different address exists <5m away: "250 Lakewood Drive, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:street" v="Vermont Route 129"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2863"/>
+  </node>
+</osm>

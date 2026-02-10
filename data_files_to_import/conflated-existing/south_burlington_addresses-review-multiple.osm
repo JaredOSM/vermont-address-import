@@ -200,6 +200,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228716"/>
   </node>
+  <node id="-1632" visible="true" lat="44.45942687" lon="-73.14237213">
+    <!-- multiple: "3060 Williston Road, South Burlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="3060"/>
+    <tag k="addr:street" v="Williston Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="228726"/>
+  </node>
   <node id="-1676" visible="true" lat="44.45905685" lon="-73.14417266">
     <!-- multiple: "2500 Williston Road, South Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Burlington"/>
@@ -768,14 +776,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="230900"/>
   </node>
-  <node id="-3575" visible="true" lat="44.43121464" lon="-73.20674956">
-    <!-- multiple: "75 Green Mountain Drive, South Burlington, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Green Mountain Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="231083"/>
-  </node>
   <node id="-3662" visible="true" lat="44.428718" lon="-73.21177483">
     <!-- multiple: "1525 Shelburne Road, South Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Burlington"/>
@@ -1056,6 +1056,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="232107"/>
   </node>
+  <node id="-6576" visible="true" lat="44.45369926" lon="-73.16627143">
+    <!-- multiple: "39 Timber Lane, South Burlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Timber Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="315924"/>
+  </node>
   <node id="-6697" visible="true" lat="44.44736378" lon="-73.17476285">
     <!-- multiple: "600 Swift Street, South Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Burlington"/>
@@ -1191,6 +1199,14 @@
     <tag k="addr:street" v="Ethan Allen Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755965"/>
+  </node>
+  <node id="-7829" visible="true" lat="44.46123936" lon="-73.14094053">
+    <!-- multiple: "154 Davinci Drive, South Burlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:street" v="Davinci Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767574"/>
   </node>
   <node id="-7892" visible="true" lat="44.45478548" lon="-73.16867644">
     <!-- multiple: "100 Kennedy Drive, South Burlington, VT" Multiple exact matches in OSM. -->
