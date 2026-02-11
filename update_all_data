@@ -1,0 +1,143 @@
+#!/bin/bash
+
+scriptPath=$( dirname -- "$0" )
+
+usage() {
+  echo "Update all data from a recent E911 file and OSM."
+  echo "To conflate in parallel, use the -p <num> number of processes."
+  echo "Parallel execution requires GNU parallel."
+  echo ""
+  echo "Usage: "
+  echo "  $0 [-h] [-v] [-p <num>] <e911 geojson file>"
+  echo ""
+  echo "Arguments: "
+  echo "  -h        Show this help"
+  echo "  -v        Verbose output"
+  echo "  -p <num>  Number of parallel conflation processes."
+  echo ""
+  echo "Example: "
+  echo "  time $0 -v -p 8 ~/Downloads/FS_VCGI_OPENDATA_Emergency_ESITE_point_SP_v1_-3337785522220600112.geojson"
+  echo ""
+  exit 1
+}
+
+verbose=""
+processes=""
+while getopts hvp: arg;
+do
+  case "$arg" in
+    h)
+      usage
+      ;;
+    v)
+      verbose="-v"
+      ;;
+    p)
+      processes="-p ${OPTARG}"
+      ;;
+    ?)
+      echo "Invalid argument: -${OPTARG}."
+      usage
+      ;;
+  esac
+done
+shift $(($OPTIND - 1))
+
+if [[ "$1" == "--help" ]]; then
+  usage
+fi
+
+e911file=$(realpath $1)
+if [[ ! -f "$e911file" ]]; then
+  echo "E911 geojson file not found at $e911file"
+  echo ""
+  usage
+fi
+
+firstChar=$(head -c 1 $e911file)
+lastChar=$(tail -c 1 $e911file)
+if [[ "$firstChar" != "{" || "$lastChar" != "}" ]]; then
+  echo "E911 file at $e911file does not look like GeoJSON format"
+  echo ""
+  usage
+fi
+
+# Get to our script directory
+cd $scriptPath
+
+# Update OSM data.
+# This lis likely to fail if OverPass is overloaded, so do this first.
+if [[ "$verbose" ]]; then
+  echo "Downloading OSM Data from Overpass"
+fi
+php -d memory_limit=1G download_osm_addresses.php
+if [ $? -ne 0 ]; then
+  echo "Downloading from OverPass failed. Please try again."
+  exit 1
+fi
+
+# Update our local database from the downloaded OSM data.
+if [[ "$verbose" ]]; then
+  echo ""
+  echo "Update our local database from the downloaded OSM data"
+fi
+./reload_osm_addresses.php osm_data/osm_addresses.osm
+if [ $? -ne 0 ]; then
+  echo "Updating the local SQLite DB with OSM data failed."
+  exit 1
+fi
+
+# Extract E911 address points into town-by-town files.
+if [[ "$verbose" ]]; then
+  echo ""
+  echo "Extracting E911 address points into town-by-town files"
+fi
+./extract_town_points.php $verbose $e911file
+if [ $? -ne 0 ]; then
+  echo "Extracting E911 address points into town-by-town files failed."
+  exit 1
+fi
+
+# Generate OSM versions of the town points
+if [[ "$verbose" ]]; then
+  echo ""
+  echo "Generating OSM versions of the town points"
+fi
+./generate_all.php $verbose
+if [ $? -ne 0 ]; then
+  echo "Generating OSM files failed"
+  exit 1
+fi
+
+# Combine the OSM versions of town points into a single state-wide file.
+if [[ "$verbose" ]]; then
+  echo ""
+  echo "Combining the OSM versions of town points into a single state-wide file"
+fi
+./combine-all-points
+if [ $? -ne 0 ]; then
+  echo "Combining all-points failed"
+  exit 1
+fi
+
+# Conflate existing OSM data with town points to put into buckets
+if [[ "$verbose" ]]; then
+  echo ""
+  echo "Conflating existing OSM data with town points to put into buckets"
+fi
+./conflate_all.php $verbose $processes
+if [ $? -ne 0 ]; then
+  echo "Conflating with existing OSM data failed"
+  exit 1
+fi
+
+# Combine the changes into state-wide files
+if [[ "$verbose" ]]; then
+  echo ""
+  echo "Combining the changes into state-wide files"
+fi
+./combine-conflated-changes
+if [ $? -ne 0 ]; then
+  echo "Combining conflated changes failed"
+  exit 1
+fi

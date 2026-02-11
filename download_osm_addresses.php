@@ -25,4 +25,12 @@ END;
 $overpassUrl = "http://overpass-api.de/api/interpreter?data=".rawurlencode($stateQuery);
 
 chdir(__DIR__);
-file_put_contents("osm_data/osm_addresses.osm", file_get_contents($overpassUrl));
+$bytes = file_put_contents("osm_data/osm_addresses.osm", file_get_contents($overpassUrl));
+if ($bytes < 1) {
+  fwrite(STDERR, "Failed to download from OverPass");
+  exit(1);
+}
+if ($bytes < 61564437) {
+  fwrite(STDERR, "Downloaded OSM data is less than half the size expected");
+  exit(2);
+}

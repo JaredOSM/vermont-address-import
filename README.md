@@ -6,7 +6,18 @@ Project proposal here: https://wiki.openstreetmap.org/wiki/VCGI_E911_address_poi
 
 ## Usage
 
-### Download fresh E911 data
+### Basic usage
+
+1. Download the latest [VT Data - E911 Site Locations (address points)](https://geodata.vermont.gov/datasets/VCGI::vt-data-e911-site-locations-address-points-1/about) file as GeoJSON.
+
+2. Update all data files
+   ```
+   time ./update_all_data -v -p 8 ~/Downloads/FS_VCGI_OPENDATA_Emergency_ESITE_point_SP_v1_-3337785522220600112.geojson
+   ```
+
+### Manual step-by-step usage
+
+#### Download fresh E911 data
 1. Download the latest [VT Data - E911 Site Locations (address points)](https://geodata.vermont.gov/datasets/VCGI::vt-data-e911-site-locations-address-points-1/about) file as GeoJSON.
 
 2. Extract the full-state GeoJSON file into per-town files
@@ -14,7 +25,7 @@ Project proposal here: https://wiki.openstreetmap.org/wiki/VCGI_E911_address_poi
    ./extract_town_points.php -v VT_Data_-_E911_Site_Locations_\(address_points\).geojson
    ```
 
-### Regenerate all draft data files:
+#### Regenerate all draft data files:
 ```
 ./generate_all.php -v
 ```
@@ -38,7 +49,7 @@ Combine all town-by-town files into a single state-wide file with:
 ./combine-all-points
 ```
 
-### Generate a single data file:
+#### Generate a single data file:
 ```
 ./generate_osm_file_from_e911_geojson.php <file>
 ```
@@ -55,7 +66,7 @@ Help:
 ```
 
 
-### Conflation
+#### Conflation
 
 Requires `php-sqlite` (maybe version-specific on your platform, e.g. `php81-sqlite`) and `spatialite`.
 Your `php.ini` probably needs the location of `mod_spatialite.so` added. Something like:
@@ -137,7 +148,7 @@ across multiple physical machines if desired.
 If you need to kill and restart the process, the `conflate_all.php` script supports
 a `--skip-existing` option to skip any towns where the output files already exist.
 
-### Combining outputs
+#### Combining outputs
 
 Now that the full address set for the state has been imported, incremental updates
 can be easier to do from a single file for all towns rather than many small town-

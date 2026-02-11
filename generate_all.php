@@ -11,8 +11,6 @@ input file in town_e911_address_points/
   -h --help           Show this help
   -v --verbose        Print status output.
 
-  <file.geojson>      The input geojson file.
-
 ";
 
 #options
