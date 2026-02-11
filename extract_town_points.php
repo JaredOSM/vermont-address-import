@@ -67,7 +67,8 @@ if (is_object($data) && $data->type == "FeatureCollection") {
         $towns[$town] = [];
       }
       if (isset($towns[$town][$feature->properties->ESITEID])) {
-        die ("Duplicate ESITEID ".$feature->properties->ESITEID);
+        fwrite(STDERR, "\nDuplicate ESITEID ".$feature->properties->ESITEID." in $town\n");
+        continue;
       }
       $towns[$town][$feature->properties->ESITEID] = json_encode($feature);
 
