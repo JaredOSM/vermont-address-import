@@ -5,29 +5,34 @@ $help = "
 
 Conflate all town files in data_files_to_import/all-points/ and write to data_files_to_import/conflated/
 
-". $argv[0] . " [-hv] [--help] [--verbose]
+". $argv[0] . " [-hv] [--help] [--verbose] [-p <num>] [--processes=<num>] [--name-range=<...>] [--skip-existing]
 
-  -h --help           Show this help
-  -v --verbose        Print status output.
+  -h --help             Show this help
+  -v --verbose          Print status output.
 
-  --name-range        A range of name prefixes to conflate. Examples:
+  -p --processes        Number of concurrent processes to use.
+                        Requires GNU parallel.
 
-                      --name-range=-berkshire
-                         Conflate addison and everything up to and including
-                         berkshire.
+  --name-range=<...>    A range of name prefixes to conflate.
 
-                      --name-range=berlin-bolton
-                         Conflate berlin, bethel, bloomfield, and bolton.
+                        Examples:
 
-                      --name-range=norwich-
-                        Conflate norwich and everything after.
+                        --name-range=-berkshire
+                           Conflate addison and everything up to and including
+                           berkshire.
 
-  --skip-existing     Skip conflating towns where the output files exist.
+                        --name-range=berlin-bolton
+                           Conflate berlin, bethel, bloomfield, and bolton.
+
+                        --name-range=norwich-
+                          Conflate norwich and everything after.
+
+  --skip-existing         Skip conflating towns where the output files exist.
 
 ";
 
 #options
-$options = getopt("hv", ["help", "verbose", "name-range::", "skip-existing"], $reset_index);
+$options = getopt("hvp:", ["help", "verbose", "processes::", "name-range::", "skip-existing"], $reset_index);
 if ($options === FALSE || isset($options["h"]) || isset($options["help"])) {
   print $help;
   exit(1);
@@ -35,6 +40,24 @@ if ($options === FALSE || isset($options["h"]) || isset($options["help"])) {
 $verbose = false;
 if (isset($options['v']) || isset($options['verbose'])) {
   $verbose = true;
+}
+
+$processes = 0;
+if (isset($options['p']) || isset($options['processes'])) {
+  if (!empty($options['p'])) {
+    $processes = intval($options['p']);
+  }
+  if (!empty($options['processes'])) {
+    $processes = intval($options['processes']);
+  }
+  if ($processes) {
+    exec('command -v parallel &> /dev/null', $output, $rc);
+    if ($rc > 0) {
+      print "GNU parallel is not installed.\n\n";
+      print $help;
+      exit(1);
+    }
+  }
 }
 
 if (isset($options['name-range'])) {
@@ -50,21 +73,36 @@ if (isset($options['name-range'])) {
 $skip_existing = isset($options['skip-existing']);
 
 $input_files = scandir(__DIR__ . '/data_files_to_import/all-points');
+sort($input_files);
+
+$baseCommand = __DIR__ . '/conflate_town.php ';
+if ($verbose) {
+  $baseCommand .= '-v ';
+}
+
+// Build a list of inputs.
+$inputPaths = [];
 foreach ($input_files as $input_file) {
   if (preg_match('/(.+)_addresses\.osm$/i', $input_file, $file_matches)
     && name_in_range($input_file, $options['name-range'])
     && should_overwrite_output($file_matches[1], $skip_existing)
   ) {
-    $input_path = __DIR__ . '/data_files_to_import/all-points/' . $input_file;
-    if ($verbose) {
-      fwrite(STDERR, "\n---------------------------\nConflating $input_file\n");
-    }
-    $command = __DIR__ . '/conflate_town.php ';
-    if ($verbose) {
-      $command .= '-v ';
-    }
-    $command .= $input_path;
+    $inputPaths[] = __DIR__ . '/data_files_to_import/all-points/' . $input_file;
+  }
+}
 
+// Execute our commands.
+if ($processes) {
+  $command = "parallel --tag --jobs $processes $baseCommand {} ::: " . implode(" ", $inputPaths);
+  $descriptorspec = [STDIN, STDOUT, STDOUT];
+  $process = proc_open($command, $descriptorspec, $pipes);
+  proc_close($process);
+} else {
+  foreach ($inputPaths as $inputPath) {
+    if ($verbose) {
+      fwrite(STDERR, "\n---------------------------\nConflating ". basename($inputPath) . "\n");
+    }
+    $command = $baseCommand.$inputPath;
     $descriptorspec = [STDIN, STDOUT, STDOUT];
     $process = proc_open($command, $descriptorspec, $pipes);
     proc_close($process);
