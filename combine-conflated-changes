@@ -1,0 +1,34 @@
+#!/bin/bash
+
+combine_files() {
+  dir=$1
+  file=$2
+  output_file=$dir/_all_$file
+
+  # Remove and don't combine if no inputs exist.
+  find $dir/ -name "*-${file}" | grep -q osm
+  if [ $? -ne 0 ]; then
+    echo "removing empty $output_file";
+    rm -f $output_file
+    return 0
+  fi
+
+  id_prefix=1000
+  echo '<?xml version="1.0" encoding="UTF-8"?>' > $output_file
+  echo '<osm version="0.6" generator="JOSM" upload="false">' >> $output_file
+  files=( $( find $dir/ -name "*-${file}" | sort ) )
+  for town_file in "${files[@]}"; do
+    # Strip the first two and last lines, then prefix the id numbers to avoid duplicates
+    cat $town_file | sed '1,2d' | sed '$d' | sed "s/node id=\\\"-/node id=\\\"-${id_prefix}/" >> $output_file
+    id_prefix=$(($id_prefix + 1))
+  done
+  echo '</osm>' >> $output_file
+}
+
+dir="data_files_to_import/conflated-changes"
+combine_files $dir tag-conflict.osm
+combine_files $dir no-match.osm
+combine_files $dir review-distance.osm
+combine_files $dir review-multiple.osm
+combine_files $dir duplicates-in-different-towns.osm
+# combine_files data_files_to_import/conflated-existing matches.osm

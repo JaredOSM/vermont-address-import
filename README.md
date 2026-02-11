@@ -33,6 +33,11 @@ input file in town_e911_address_points/
 
 ```
 
+Combine all town-by-town files into a single state-wide file with:
+```
+./combine-all-points
+```
+
 ### Generate a single data file:
 ```
 ./generate_osm_file_from_e911_geojson.php <file>
@@ -131,3 +136,14 @@ across multiple physical machines if desired.
 
 If you need to kill and restart the process, the `conflate_all.php` script supports
 a `--skip-existing` option to skip any towns where the output files already exist.
+
+### Combining outputs
+
+Now that the full address set for the state has been imported, incremental updates
+can be easier to do from a single file for all towns rather than many small town-
+by-town files.
+
+Merge all conflated files with
+```
+./combine-conflated-changes
+```

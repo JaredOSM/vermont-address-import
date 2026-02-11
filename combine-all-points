@@ -1,0 +1,14 @@
+#!/bin/bash
+
+dir=data_files_to_import/all-points
+output_file=data_files_to_import/all-points.osm
+id_prefix=1000
+echo '<?xml version="1.0" encoding="UTF-8"?>' > $output_file
+echo '<osm version="0.6" generator="JOSM" upload="false">' >> $output_file
+files=( $( find $dir/ -name "*_addresses.osm" | sort ) )
+for town_file in "${files[@]}"; do
+  # Strip the first two and last lines, then prefix the id numbers to avoid duplicates
+  cat $town_file | sed '1,2d' | sed '$d' | sed "s/node id=\\\"-/node id=\\\"-${id_prefix}/" >> $output_file
+  id_prefix=$(($id_prefix + 1))
+done
+echo '</osm>' >> $output_file
