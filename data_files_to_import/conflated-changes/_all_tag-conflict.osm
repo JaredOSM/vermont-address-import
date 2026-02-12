@@ -8,6 +8,46 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2074"/>
   </node>
+  <node id="-1000476" visible="true" lat="44.89226254" lon="-73.30191772">
+    <!-- conflict: "136 Hidden Drive, Alburgh, VT" No match in OSM, but a different address exists <5m away: "14 Hidden Drive, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Hidden Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2082"/>
+  </node>
+  <node id="-1000478" visible="true" lat="44.8916574" lon="-73.30424728">
+    <!-- conflict: "22 Hidden Drive, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2 Hidden Drive, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Hidden Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2084"/>
+  </node>
+  <node id="-1000479" visible="true" lat="44.89204164" lon="-73.30439826">
+    <!-- conflict: "33 Hidden Drive, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3 Hidden Drive, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Hidden Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2085"/>
+  </node>
+  <node id="-1000489" visible="true" lat="44.90096528" lon="-73.30355157">
+    <!-- conflict: "6 Loon Drive, Alburgh, VT" No match in OSM, but a different address exists <5m away: "218 Vermont Route 129, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Loon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2095"/>
+  </node>
+  <node id="-1000492" visible="true" lat="44.90133707" lon="-73.30357879">
+    <!-- conflict: "28 Loon Drive, Alburgh, VT" No match in OSM, but a different address exists <5m away: "224 Vermont Route 129, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Loon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2098"/>
+  </node>
   <node id="-10001212" visible="true" lat="44.90701097" lon="-73.30511535">
     <!-- conflict: "230 Vermont Route 129, Alburgh, VT" No match in OSM, but a different address exists <5m away: "250 Lakewood Drive, Alburgh, VT" -->
     <tag k="addr:city" v="Alburgh"/>
@@ -16,53 +56,672 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2863"/>
   </node>
-  <node id="-10011560" visible="true" lat="44.17518781" lon="-72.49793682">
-    <!-- conflict: "4 Green Mountain View Street, , VT" Fuzzy match to "4 Green Mountain View Drive, Barre Town, VT" -->
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Green Mountain View Street"/>
+  <node id="-10001675" visible="true" lat="44.89254209" lon="-73.30055639">
+    <!-- conflict: "207 Hidden Drive, Alburgh, VT" No match in OSM, but a different address exists <5m away: "17 Hidden Drive, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="207"/>
+    <tag k="addr:street" v="Hidden Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="12415"/>
+    <tag k="ref:vcgi:esiteid" v="313368"/>
   </node>
-  <node id="-10011573" visible="true" lat="44.17488479" lon="-72.49717712">
-    <!-- conflict: "14 Green Mountain View Street, , VT" Fuzzy match to "14 Green Mountain View Drive, Barre Town, VT" -->
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Green Mountain View Street"/>
+  <node id="-10001676" visible="true" lat="44.89118978" lon="-73.29945142">
+    <!-- conflict: "308 Hidden Drive, Alburgh, VT" No match in OSM, but a different address exists <5m away: "32 Hidden Drive, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:street" v="Hidden Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="12428"/>
+    <tag k="ref:vcgi:esiteid" v="313369"/>
   </node>
-  <node id="-10011576" visible="true" lat="44.17474365" lon="-72.49679565">
-    <!-- conflict: "18 Green Mountain View Street, , VT" Fuzzy match to "18 Green Mountain View Drive, Barre Town, VT" -->
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Green Mountain View Street"/>
+  <node id="-10001677" visible="true" lat="44.89223542" lon="-73.29919802">
+    <!-- conflict: "311 Hidden Drive, Alburgh, VT" No match in OSM, but a different address exists <5m away: "27 Hidden Drive, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="311"/>
+    <tag k="addr:street" v="Hidden Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="12431"/>
+    <tag k="ref:vcgi:esiteid" v="313370"/>
   </node>
-  <node id="-10011584" visible="true" lat="44.17440781" lon="-72.49794837">
-    <!-- conflict: "9 Green Mountain View Street, , VT" Fuzzy match to "9 Green Mountain View Drive, Barre Town, VT" -->
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Green Mountain View Street"/>
+  <node id="-10001678" visible="true" lat="44.89140208" lon="-73.29551149">
+    <!-- conflict: "531 Hidden Drive, Alburgh, VT" No match in OSM, but a different address exists <5m away: "53 Hidden Drive, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="531"/>
+    <tag k="addr:street" v="Hidden Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="12440"/>
+    <tag k="ref:vcgi:esiteid" v="313371"/>
   </node>
-  <node id="-10011590" visible="true" lat="44.17426156" lon="-72.49744438">
-    <!-- conflict: "15 Green Mountain View Street, , VT" Fuzzy match to "15 Green Mountain View Drive, Barre Town, VT" -->
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Green Mountain View Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="12446"/>
-  </node>
-  <node id="-10011608" visible="true" lat="44.17390441" lon="-72.49660491">
-    <!-- conflict: "27 Green Mountain View Street, , VT" Fuzzy match to "27 Green Mountain View Drive, Barre Town, VT" -->
+  <node id="-10001701" visible="true" lat="44.90170033" lon="-73.30367519">
+    <!-- conflict: "27 Loon Drive, Alburgh, VT" No match in OSM, but a different address exists <5m away: "226 Vermont Route 129, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Green Mountain View Street"/>
+    <tag k="addr:street" v="Loon Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="12464"/>
+    <tag k="ref:vcgi:esiteid" v="328102"/>
   </node>
-  <node id="-10021190" visible="true" lat="44.95263683" lon="-72.13189125">
+  <node id="-10011014" visible="true" lat="44.19556558" lon="-72.63388769">
+    <!-- conflict: "1658 Vermont Route 12, , VT" No match in OSM, but a different address exists <5m away: "1656 Vermont Route 12, , VT" -->
+    <tag k="addr:housenumber" v="1658"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="23676"/>
+  </node>
+  <node id="-1002897" visible="true" lat="44.77262192" lon="-71.91583224">
+    <!-- conflict: "450 Davis Road, , VT" No match in OSM, but a different address exists <5m away: "605 Davis Road, , VT" -->
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:street" v="Davis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38700"/>
+  </node>
+  <node id="-1002898" visible="true" lat="44.77086026" lon="-71.91665234">
+    <!-- conflict: "399 Davis Road, , VT" No match in OSM, but a different address exists <5m away: "687 Davis Road, , VT" -->
+    <tag k="addr:housenumber" v="399"/>
+    <tag k="addr:street" v="Davis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38701"/>
+  </node>
+  <node id="-1003112" visible="true" lat="44.52852375" lon="-73.26857801">
+    <!-- conflict: "3080 North Avenue, Burlington, VT" No match in OSM, but a different address exists <5m away: "3074 North Avenue, Burlington, VT" -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="3080"/>
+    <tag k="addr:street" v="North Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="42765"/>
+  </node>
+  <node id="-100312907" visible="true" lat="44.4946847" lon="-73.23598192">
+    <!-- conflict: "255 Institute Road, Burlington, VT" No match in OSM, but a different address exists <5m away: "251 Institute Road, Burlington, VT" -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:street" v="Institute Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772182"/>
+  </node>
+  <node id="-10041190" visible="true" lat="44.95263683" lon="-72.13189125">
     <!-- conflict: "124 Main St Derby Center, , VT" No match in OSM, but a different address exists <5m away: "124 Main Street, Derby, VT" -->
     <tag k="addr:housenumber" v="124"/>
     <tag k="addr:street" v="Main St Derby Center"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="82892"/>
+  </node>
+  <node id="-10051018" visible="true" lat="42.95097183" lon="-72.59929066">
+    <!-- conflict: "31 Clay Pit Road, , VT" No match in OSM, but a different address exists <5m away: "33 Clay Pit Road, , VT" -->
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Clay Pit Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313397"/>
+  </node>
+  <node id="-10061218" visible="true" lat="44.80884127" lon="-72.97354171">
+    <!-- conflict: "1172 Hill Road, , VT" No match in OSM, but a different address exists <5m away: "1222 Hill Road, , VT" -->
+    <tag k="addr:housenumber" v="1172"/>
+    <tag k="addr:street" v="Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764739"/>
+  </node>
+  <node id="-10071851" visible="true" lat="44.18293967" lon="-73.24718326">
+    <!-- conflict: "114 Park Lane, , VT" No match in OSM, but a different address exists <5m away: "144 Park Lane, , VT" -->
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Park Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760604"/>
+  </node>
+  <node id="-1008344" visible="true" lat="44.69771488" lon="-72.88553771">
+    <!-- conflict: "355 Rushford Road, , VT" No match in OSM, but a different address exists <5m away: "222 Rushford Road, , VT" -->
+    <tag k="addr:housenumber" v="355"/>
+    <tag k="addr:street" v="Rushford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="108687"/>
+  </node>
+  <node id="-10091842" visible="true" lat="44.68663859" lon="-73.10888264">
+    <!-- conflict: "70 Guilder Lane, , VT" No match in OSM, but a different address exists <5m away: "67 Guilder Lane, , VT" -->
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111665"/>
+  </node>
+  <node id="-10092144" visible="true" lat="44.68719098" lon="-73.10864678">
+    <!-- conflict: "55 Guilder Lane, , VT" No match in OSM, but a different address exists <5m away: "64 Guilder Lane, , VT" -->
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656542"/>
+  </node>
+  <node id="-10092152" visible="true" lat="44.68652169" lon="-73.10823294">
+    <!-- conflict: "94 Guilder Lane, , VT" No match in OSM, but a different address exists <5m away: "91 Guilder Lane, , VT" -->
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656550"/>
+  </node>
+  <node id="-10101966" visible="true" lat="44.93003768" lon="-72.99546791">
+    <!-- conflict: "14 Dragon Drive, , VT" No match in OSM, but a different address exists <5m away: "14 Machia Road, , VT" -->
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Dragon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656479"/>
+  </node>
+  <node id="-10111088" visible="true" lat="43.07166291" lon="-72.75659897">
+    <!-- conflict: "689 Howard Road, , VT" No match in OSM, but a different address exists <5m away: "2194 Howard Road, , VT" -->
+    <tag k="addr:housenumber" v="689"/>
+    <tag k="addr:street" v="Howard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="135503"/>
+  </node>
+  <node id="-10111115" visible="true" lat="43.07255654" lon="-72.76427729">
+    <!-- conflict: "1124 Howard Road, , VT" No match in OSM, but a different address exists <5m away: "1757 Howard Road, , VT" -->
+    <tag k="addr:housenumber" v="1124"/>
+    <tag k="addr:street" v="Howard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="315512"/>
+  </node>
+  <node id="-10111179" visible="true" lat="43.07296471" lon="-72.7581592">
+    <!-- conflict: "784 Howard Road, , VT" No match in OSM, but a different address exists <5m away: "2099 Howard Road, , VT" -->
+    <tag k="addr:housenumber" v="784"/>
+    <tag k="addr:street" v="Howard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338643"/>
+  </node>
+  <node id="-10111295" visible="true" lat="43.07481588" lon="-72.76792025">
+    <!-- conflict: "1300 Howard Road, , VT" No match in OSM, but a different address exists <5m away: "1605 Howard Road, , VT" -->
+    <tag k="addr:housenumber" v="1300"/>
+    <tag k="addr:street" v="Howard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="616503"/>
+  </node>
+  <node id="-10111709" visible="true" lat="43.07274718" lon="-72.76938633">
+    <!-- conflict: "1319 Howard Road, , VT" No match in OSM, but a different address exists <5m away: "1590 Howard Road, , VT" -->
+    <tag k="addr:housenumber" v="1319"/>
+    <tag k="addr:street" v="Howard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767960"/>
+  </node>
+  <node id="-1012158" visible="true" lat="44.67430256" lon="-72.60338726">
+    <!-- conflict: "319 Mudgett Hill Road, Johnson, VT" No match in OSM, but a different address exists <5m away: "464 Mudgett Hill, Johnson, VT" -->
+    <tag k="addr:city" v="Johnson"/>
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:street" v="Mudgett Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="137743"/>
+  </node>
+  <node id="-1012994" visible="true" lat="44.67762468" lon="-72.60765216">
+    <!-- conflict: "623 Mudgett Hill Road, Johnson, VT" No match in OSM, but a different address exists <5m away: "144 Mudgett Hill, Johnson, VT" -->
+    <tag k="addr:city" v="Johnson"/>
+    <tag k="addr:housenumber" v="623"/>
+    <tag k="addr:street" v="Mudgett Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="138619"/>
+  </node>
+  <node id="-10121160" visible="true" lat="44.61686818" lon="-72.64207945">
+    <!-- conflict: "613 Melody Lane, Johnson, VT" No match in OSM, but a different address exists <5m away: "499 Melody Lane, Johnson, VT" -->
+    <tag k="addr:city" v="Johnson"/>
+    <tag k="addr:housenumber" v="613"/>
+    <tag k="addr:street" v="Melody Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="138786"/>
+  </node>
+  <node id="-10121307" visible="true" lat="44.67853691" lon="-72.60541093">
+    <!-- conflict: "620 Mudgett Hill Road, Johnson, VT" No match in OSM, but a different address exists <5m away: "147 Mudgett Hill, Johnson, VT" -->
+    <tag k="addr:city" v="Johnson"/>
+    <tag k="addr:housenumber" v="620"/>
+    <tag k="addr:street" v="Mudgett Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306817"/>
+  </node>
+  <node id="-10121323" visible="true" lat="44.6183377" lon="-72.64150648">
+    <!-- conflict: "713 Melody Lane, Johnson, VT" No match in OSM, but a different address exists <5m away: "801 Melody Lane, Johnson, VT" -->
+    <tag k="addr:city" v="Johnson"/>
+    <tag k="addr:housenumber" v="713"/>
+    <tag k="addr:street" v="Melody Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313776"/>
+  </node>
+  <node id="-10121605" visible="true" lat="44.62285988" lon="-72.63762401">
+    <!-- conflict: "976 Melody Lane, Johnson, VT" No match in OSM, but a different address exists <5m away: "1048 Melody Lane, Johnson, VT" -->
+    <tag k="addr:city" v="Johnson"/>
+    <tag k="addr:housenumber" v="976"/>
+    <tag k="addr:street" v="Melody Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762709"/>
+  </node>
+  <node id="-10131368" visible="true" lat="43.5972238" lon="-72.75225088">
+    <!-- conflict: "226 Vermont Route 100, Killington, VT" No match in OSM, but a different address exists <5m away: "226 Vermont Route 100 North, Killington, VT" -->
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225475"/>
+  </node>
+  <node id="-1014710" visible="true" lat="44.01841492" lon="-73.17099573">
+    <!-- conflict: "11 Lucius Shaw Lane, Middlebury, VT" No match in OSM, but a different address exists <5m away: "35 Seymour Street, Middlebury, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Lucius Shaw Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154533"/>
+  </node>
+  <node id="-1014770" visible="true" lat="44.01755367" lon="-73.17296302">
+    <!-- conflict: "127 Lucius Shaw Lane, Middlebury, VT" No match in OSM, but a different address exists <5m away: "128 Lucius Shaw Lane, Middlebury, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Lucius Shaw Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154601"/>
+  </node>
+  <node id="-10142591" visible="true" lat="44.01817066" lon="-73.17274703">
+    <!-- conflict: "90 Lucius Shaw Lane, Middlebury, VT" No match in OSM, but a different address exists <5m away: "87 Lucius Shaw Lane, Middlebury, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Lucius Shaw Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="156654"/>
+  </node>
+  <node id="-10142592" visible="true" lat="44.01721298" lon="-73.17471021">
+    <!-- conflict: "209 Lucius Shaw Lane, Middlebury, VT" No match in OSM, but a different address exists <5m away: "206 Lucius Shaw Lane, Middlebury, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="209"/>
+    <tag k="addr:street" v="Lucius Shaw Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="156656"/>
+  </node>
+  <node id="-10142593" visible="true" lat="44.01761634" lon="-73.17448689">
+    <!-- conflict: "208 Lucius Shaw Lane, Middlebury, VT" No match in OSM, but a different address exists <5m away: "205 Lucius Shaw Lane, Middlebury, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="208"/>
+    <tag k="addr:street" v="Lucius Shaw Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="156658"/>
+  </node>
+  <node id="-10142911" visible="true" lat="44.01732156" lon="-73.17426055">
+    <!-- conflict: "199 Lucius Shaw Lane, Middlebury, VT" No match in OSM, but a different address exists <5m away: "200 Lucius Shaw Lane, Middlebury, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:street" v="Lucius Shaw Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339301"/>
+  </node>
+  <node id="-10143131" visible="true" lat="44.01745986" lon="-73.17391631">
+    <!-- conflict: "175 Lucius Shaw Lane, Middlebury, VT" No match in OSM, but a different address exists <5m away: "180 Lucius Shaw Lane, Middlebury, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:street" v="Lucius Shaw Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755743"/>
+  </node>
+  <node id="-1015903" visible="true" lat="44.91186856" lon="-71.98171442">
+    <!-- conflict: "6466 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "6623 Vermont Route 111, Morgan, VT" -->
+    <tag k="addr:housenumber" v="6466"/>
+    <tag k="addr:street" v="Vermont Route 111"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339961"/>
+  </node>
+  <node id="-1016585" visible="true" lat="43.47605082" lon="-72.75553559">
+    <!-- conflict: "489 Dam Road, , VT" No match in OSM, but a different address exists <5m away: "255 Dam Road, Plymouth, VT" -->
+    <tag k="addr:housenumber" v="489"/>
+    <tag k="addr:street" v="Dam Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="189930"/>
+  </node>
+  <node id="-10172258" visible="true" lat="43.91586198" lon="-72.65809514">
+    <!-- conflict: "17 Sand Oak Drive, , VT" No match in OSM, but a different address exists <5m away: "17 Sherman Lane, Randolph, VT" -->
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Sand Oak Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769982"/>
+  </node>
+  <node id="-1018809" visible="true" lat="43.62909539" lon="-72.94141604">
+    <!-- conflict: "204 Crossman Drive Extension, , VT" No match in OSM, but a different address exists <5m away: "212 Heather Lane, , VT" -->
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:street" v="Crossman Drive Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="214435"/>
+  </node>
+  <node id="-1018811" visible="true" lat="43.628863" lon="-72.93956732">
+    <!-- conflict: "62 Crossman Drive Extension, , VT" No match in OSM, but a different address exists <5m away: "62 Heather Lane, , VT" -->
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Crossman Drive Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="214437"/>
+  </node>
+  <node id="-1018814" visible="true" lat="43.62866332" lon="-72.938516">
+    <!-- conflict: "83 Crossman Drive Extension, , VT" No match in OSM, but a different address exists <5m away: "83 Heather Lane, , VT" -->
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Crossman Drive Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="214440"/>
+  </node>
+  <node id="-1018822" visible="true" lat="43.62824239" lon="-72.94044229">
+    <!-- conflict: "141 Crossman Drive Extension, , VT" No match in OSM, but a different address exists <5m away: "161 Heather Lane, , VT" -->
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="Crossman Drive Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="214448"/>
+  </node>
+  <node id="-1018824" visible="true" lat="43.62808915" lon="-72.93982061">
+    <!-- conflict: "125 Crossman Drive Extension, , VT" No match in OSM, but a different address exists <5m away: "131 Heather Lane, , VT" -->
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Crossman Drive Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="214450"/>
+  </node>
+  <node id="-1018825" visible="true" lat="43.62820916" lon="-72.93898801">
+    <!-- conflict: "99 Crossman Drive Extension, , VT" No match in OSM, but a different address exists <5m away: "97 Heather Lane, , VT" -->
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:street" v="Crossman Drive Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="214451"/>
+  </node>
+  <node id="-10182037" visible="true" lat="43.62883462" lon="-72.93901637">
+    <!-- conflict: "71 Crossman Drive Extension, , VT" No match in OSM, but a different address exists <5m away: "71 Heather Lane, , VT" -->
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Crossman Drive Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772316"/>
+  </node>
+  <node id="-10192415" visible="true" lat="44.44577378" lon="-73.17059412">
+    <!-- conflict: "2 Blue Star Lane, South Burlington, VT" Fuzzy match to "2 Bluestar Lane, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Blue Star Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229725"/>
+  </node>
+  <node id="-10192422" visible="true" lat="44.4457255" lon="-73.17104568">
+    <!-- conflict: "6 Blue Star Lane, South Burlington, VT" Fuzzy match to "6 Bluestar Lane, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Blue Star Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229737"/>
+  </node>
+  <node id="-10192424" visible="true" lat="44.44572671" lon="-73.17124476">
+    <!-- conflict: "8 Blue Star Lane, South Burlington, VT" Fuzzy match to "8 Bluestar Lane, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Blue Star Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229739"/>
+  </node>
+  <node id="-10192426" visible="true" lat="44.44577913" lon="-73.17080181">
+    <!-- conflict: "4 Blue Star Lane, South Burlington, VT" Fuzzy match to "4 Bluestar Lane, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Blue Star Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229741"/>
+  </node>
+  <node id="-10192432" visible="true" lat="44.44574025" lon="-73.17150587">
+    <!-- conflict: "10 Blue Star Lane, South Burlington, VT" Fuzzy match to "10 Bluestar Lane, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Blue Star Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229747"/>
+  </node>
+  <node id="-10192448" visible="true" lat="44.44532359" lon="-73.17049056">
+    <!-- conflict: "1 Blue Star Lane, South Burlington, VT" Fuzzy match to "1 Bluestar Lane, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Blue Star Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229767"/>
+  </node>
+  <node id="-10192452" visible="true" lat="44.44530225" lon="-73.17073335">
+    <!-- conflict: "3 Blue Star Lane, South Burlington, VT" Fuzzy match to "3 Bluestar Lane, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Blue Star Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229771"/>
+  </node>
+  <node id="-10192453" visible="true" lat="44.44529801" lon="-73.17096594">
+    <!-- conflict: "5 Blue Star Lane, South Burlington, VT" Fuzzy match to "5 Bluestar Lane, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Blue Star Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229772"/>
+  </node>
+  <node id="-10192455" visible="true" lat="44.44526297" lon="-73.17120712">
+    <!-- conflict: "7 Blue Star Lane, South Burlington, VT" Fuzzy match to "7 Bluestar Lane, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Blue Star Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229774"/>
+  </node>
+  <node id="-10192457" visible="true" lat="44.44527157" lon="-73.17140935">
+    <!-- conflict: "9 Blue Star Lane, South Burlington, VT" Fuzzy match to "9 Bluestar Lane, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Blue Star Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229776"/>
+  </node>
+  <node id="-10194154" visible="true" lat="44.46729808" lon="-73.17689054">
+    <!-- conflict: "61 Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "61 Dattillio Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="231785"/>
+  </node>
+  <node id="-10197804" visible="true" lat="44.45656603" lon="-73.15454596">
+    <!-- conflict: "349 Mabel Way, South Burlington, VT" No match in OSM, but a different address exists <5m away: "349 Eastview Lane, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="349"/>
+    <tag k="addr:street" v="Mabel Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766948"/>
+  </node>
+  <node id="-10197842" visible="true" lat="44.46556748" lon="-73.17677043">
+    <!-- conflict: "22 Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "22 Dattillio Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770781"/>
+  </node>
+  <node id="-10197843" visible="true" lat="44.46560224" lon="-73.17672498">
+    <!-- conflict: "26 Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "26 Dattillio Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770782"/>
+  </node>
+  <node id="-10197844" visible="true" lat="44.46563635" lon="-73.17668038">
+    <!-- conflict: "28 Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "28 Dattillio Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770783"/>
+  </node>
+  <node id="-10197845" visible="true" lat="44.46567295" lon="-73.17663252">
+    <!-- conflict: "32 Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "34 Dattillio Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770784"/>
+  </node>
+  <node id="-10197846" visible="true" lat="44.46569588" lon="-73.17660253">
+    <!-- conflict: "34 Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "34 Dattillio Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770785"/>
+  </node>
+  <node id="-10197847" visible="true" lat="44.46573221" lon="-73.17655503">
+    <!-- conflict: "38 Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "38 Dattillio Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770786"/>
+  </node>
+  <node id="-10197852" visible="true" lat="44.46512763" lon="-73.17734679">
+    <!-- conflict: "19 South Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "19 Nameless (Yet to be Determined), South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="South Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770792"/>
+  </node>
+  <node id="-10197853" visible="true" lat="44.46508695" lon="-73.17739872">
+    <!-- conflict: "23 South Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "25 Nameless (Yet to be Determined), South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="South Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770793"/>
+  </node>
+  <node id="-10197854" visible="true" lat="44.46506436" lon="-73.17742756">
+    <!-- conflict: "25 South Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "27 Nameless (Yet to be Determined), South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="South Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770794"/>
+  </node>
+  <node id="-10197855" visible="true" lat="44.46504098" lon="-73.17745741">
+    <!-- conflict: "27 South Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "27 Nameless (Yet to be Determined), South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="South Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770795"/>
+  </node>
+  <node id="-10197856" visible="true" lat="44.46499602" lon="-73.1775148">
+    <!-- conflict: "31 South Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "31 Nameless (Yet to be Determined), South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="South Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770796"/>
+  </node>
+  <node id="-10197863" visible="true" lat="44.46518196" lon="-73.17727743">
+    <!-- conflict: "13 South Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "13 Nameless (Yet to be Determined), South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="South Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770803"/>
+  </node>
+  <node id="-10197867" visible="true" lat="44.46551485" lon="-73.17683926">
+    <!-- conflict: "16 Dattilio Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "16 Dattillio Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770807"/>
+  </node>
+  <node id="-10197903" visible="true" lat="44.43839932" lon="-73.17513813">
+    <!-- conflict: "11 Trails Bend Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "11 Trails End Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Trails Bend Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772844"/>
+  </node>
+  <node id="-10197904" visible="true" lat="44.43828534" lon="-73.17514362">
+    <!-- conflict: "21 Trails Bend Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "21 Trails End Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Trails Bend Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772845"/>
+  </node>
+  <node id="-10197905" visible="true" lat="44.4381124" lon="-73.17528076">
+    <!-- conflict: "25 Trails Bend Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "25 Trails End Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Trails Bend Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772846"/>
+  </node>
+  <node id="-10197906" visible="true" lat="44.43802986" lon="-73.17541791">
+    <!-- conflict: "35 Trails Bend Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "35 Trails End Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Trails Bend Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772847"/>
+  </node>
+  <node id="-10197907" visible="true" lat="44.4379827" lon="-73.17564832">
+    <!-- conflict: "41 Trails Bend Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "41 Trails End Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Trails Bend Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772848"/>
+  </node>
+  <node id="-10197908" visible="true" lat="44.43794733" lon="-73.17584032">
+    <!-- conflict: "51 Trails Bend Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "51 Trails End Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Trails Bend Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772849"/>
+  </node>
+  <node id="-10197909" visible="true" lat="44.43834823" lon="-73.17563186">
+    <!-- conflict: "16 Trails Bend Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "16 Trails End Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Trails Bend Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772850"/>
+  </node>
+  <node id="-10197910" visible="true" lat="44.43824211" lon="-73.17569221">
+    <!-- conflict: "40 Trails Bend Drive, South Burlington, VT" No match in OSM, but a different address exists <5m away: "40 Trails End Drive, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Trails Bend Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772851"/>
+  </node>
+  <node id="-1020509" visible="true" lat="44.64944429" lon="-73.30351559">
+    <!-- conflict: "56 Mabel Way, South Hero, VT" No match in OSM, but a different address exists <5m away: "56 Mable Way, South Hero, VT" -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Mabel Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="233669"/>
+  </node>
+  <node id="-10201708" visible="true" lat="44.64938249" lon="-73.30456051">
+    <!-- conflict: "93 Mabel Way, South Hero, VT" No match in OSM, but a different address exists <5m away: "93 Mable Way, South Hero, VT" -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Mabel Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756491"/>
+  </node>
+  <node id="-10201709" visible="true" lat="44.64949982" lon="-73.30455212">
+    <!-- conflict: "95 Mabel Way, South Hero, VT" No match in OSM, but a different address exists <5m away: "95 Mable Way, South Hero, VT" -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Mabel Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756492"/>
+  </node>
+  <node id="-10213908" visible="true" lat="44.43724824" lon="-72.71178287">
+    <!-- conflict: "78 Salvas Lane, Stowe, VT" No match in OSM, but a different address exists <5m away: "88 Salvas Lane, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Salvas Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771553"/>
+  </node>
+  <node id="-10221767" visible="true" lat="43.3740414" lon="-72.46890507">
+    <!-- conflict: "165 Perkins Hill Road, , VT" No match in OSM, but a different address exists <5m away: "125 Perkins Hill Road, , VT" -->
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:street" v="Perkins Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772948"/>
+  </node>
+  <node id="-1023733" visible="true" lat="44.49306528" lon="-73.17954538">
+    <!-- conflict: "31 Khouri Lane, Winooski, VT" No match in OSM, but a different address exists <5m away: "165 East Spring Street, Winooski, VT" -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Khouri Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299232"/>
   </node>
 </osm>

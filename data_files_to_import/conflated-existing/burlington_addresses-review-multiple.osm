@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-112" visible="true" lat="44.52851475" lon="-73.26857654">
-    <!-- multiple: "3074 North Avenue, Burlington, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="3074"/>
-    <tag k="addr:street" v="North Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="42765"/>
-  </node>
   <node id="-693" visible="true" lat="44.52000278" lon="-73.25665082">
     <!-- multiple: "155 Plattsburg Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
@@ -856,15 +848,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="48661"/>
   </node>
-  <node id="-6031" visible="true" lat="44.48294851" lon="-73.19807098">
-    <!-- multiple: "100 Mansfield Avenue, Burlington, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="Mansfield Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="48722"/>
-  </node>
-  <node id="-6161" visible="true" lat="44.48311616" lon="-73.19011549">
+  <node id="-6160" visible="true" lat="44.48311616" lon="-73.19011549">
     <!-- multiple: "273 Colchester Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="273"/>
@@ -872,7 +856,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="48853"/>
   </node>
-  <node id="-6185" visible="true" lat="44.48138603" lon="-73.18055453">
+  <node id="-6184" visible="true" lat="44.48138603" lon="-73.18055453">
     <!-- multiple: "284 Grove Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="284"/>
@@ -880,7 +864,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="48882"/>
   </node>
-  <node id="-6280" visible="true" lat="44.47637237" lon="-73.19428022">
+  <node id="-6279" visible="true" lat="44.47637237" lon="-73.19428022">
     <!-- multiple: "95 Carrigan Drive, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="95"/>
@@ -888,7 +872,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="48987"/>
   </node>
-  <node id="-6292" visible="true" lat="44.47782539" lon="-73.19881974">
+  <node id="-6291" visible="true" lat="44.47782539" lon="-73.19881974">
     <!-- multiple: "94 University Place, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="94"/>
@@ -896,7 +880,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="48999"/>
   </node>
-  <node id="-6314" visible="true" lat="44.47654921" lon="-73.20324014">
+  <node id="-6313" visible="true" lat="44.47654921" lon="-73.20324014">
     <!-- multiple: "396 Main Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="396"/>
@@ -904,7 +888,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49021"/>
   </node>
-  <node id="-6326" visible="true" lat="44.47727178" lon="-73.20440907">
+  <node id="-6325" visible="true" lat="44.47727178" lon="-73.20440907">
     <!-- multiple: "383 College Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="383"/>
@@ -912,7 +896,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49033"/>
   </node>
-  <node id="-6381" visible="true" lat="44.48025239" lon="-73.20459038">
+  <node id="-6380" visible="true" lat="44.48025239" lon="-73.20459038">
     <!-- multiple: "349 Pearl Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="349"/>
@@ -920,7 +904,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49088"/>
   </node>
-  <node id="-6385" visible="true" lat="44.48024704" lon="-73.2013115">
+  <node id="-6384" visible="true" lat="44.48024704" lon="-73.2013115">
     <!-- multiple: "1 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1"/>
@@ -928,7 +912,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49092"/>
   </node>
-  <node id="-6459" visible="true" lat="44.47698147" lon="-73.21199774">
+  <node id="-6458" visible="true" lat="44.47698147" lon="-73.21199774">
     <!-- multiple: "191 College Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="191"/>
@@ -936,7 +920,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49168"/>
   </node>
-  <node id="-6464" visible="true" lat="44.47671645" lon="-73.21129573">
+  <node id="-6463" visible="true" lat="44.47671645" lon="-73.21129573">
     <!-- multiple: "125 South Winooski Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="125"/>
@@ -944,7 +928,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49173"/>
   </node>
-  <node id="-6465" visible="true" lat="44.47676944" lon="-73.21233375">
+  <node id="-6464" visible="true" lat="44.47676944" lon="-73.21233375">
     <!-- multiple: "132 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="132"/>
@@ -952,7 +936,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49174"/>
   </node>
-  <node id="-6470" visible="true" lat="44.47658876" lon="-73.21428074">
+  <node id="-6469" visible="true" lat="44.47658876" lon="-73.21428074">
     <!-- multiple: "115 Saint Paul Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="115"/>
@@ -960,7 +944,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49179"/>
   </node>
-  <node id="-6473" visible="true" lat="44.4779566" lon="-73.21454617">
+  <node id="-6472" visible="true" lat="44.4779566" lon="-73.21454617">
     <!-- multiple: "133 Bank Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="133"/>
@@ -968,7 +952,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49182"/>
   </node>
-  <node id="-6485" visible="true" lat="44.47766581" lon="-73.21279629">
+  <node id="-6484" visible="true" lat="44.47766581" lon="-73.21279629">
     <!-- multiple: "97 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="97"/>
@@ -976,7 +960,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49194"/>
   </node>
-  <node id="-6490" visible="true" lat="44.47734269" lon="-73.21125894">
+  <node id="-6489" visible="true" lat="44.47734269" lon="-73.21125894">
     <!-- multiple: "210 College Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="210"/>
@@ -984,7 +968,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49199"/>
   </node>
-  <node id="-6496" visible="true" lat="44.47806531" lon="-73.21236795">
+  <node id="-6495" visible="true" lat="44.47806531" lon="-73.21236795">
     <!-- multiple: "82 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="82"/>
@@ -992,7 +976,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49205"/>
   </node>
-  <node id="-6499" visible="true" lat="44.47807346" lon="-73.2117815">
+  <node id="-6498" visible="true" lat="44.47807346" lon="-73.2117815">
     <!-- multiple: "191 Bank Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="191"/>
@@ -1000,7 +984,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49208"/>
   </node>
-  <node id="-6500" visible="true" lat="44.47782134" lon="-73.21137916">
+  <node id="-6499" visible="true" lat="44.47782134" lon="-73.21137916">
     <!-- multiple: "93 South Winooski Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="93"/>
@@ -1008,7 +992,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49209"/>
   </node>
-  <node id="-6509" visible="true" lat="44.47819617" lon="-73.20961177">
+  <node id="-6508" visible="true" lat="44.47819617" lon="-73.20961177">
     <!-- multiple: "71 South Union Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="71"/>
@@ -1016,7 +1000,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49218"/>
   </node>
-  <node id="-6519" visible="true" lat="44.4786783" lon="-73.21060204">
+  <node id="-6518" visible="true" lat="44.4786783" lon="-73.21060204">
     <!-- multiple: "21 Buell Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="21"/>
@@ -1024,7 +1008,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49228"/>
   </node>
-  <node id="-6533" visible="true" lat="44.47962866" lon="-73.21195543">
+  <node id="-6532" visible="true" lat="44.47962866" lon="-73.21195543">
     <!-- multiple: "152 Cherry Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="152"/>
@@ -1032,7 +1016,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49242"/>
   </node>
-  <node id="-6538" visible="true" lat="44.47973713" lon="-73.2125075">
+  <node id="-6537" visible="true" lat="44.47973713" lon="-73.2125075">
     <!-- multiple: "30 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="30"/>
@@ -1040,7 +1024,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49247"/>
   </node>
-  <node id="-6541" visible="true" lat="44.47959156" lon="-73.21309519">
+  <node id="-6540" visible="true" lat="44.47959156" lon="-73.21309519">
     <!-- multiple: "29 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="29"/>
@@ -1048,7 +1032,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49250"/>
   </node>
-  <node id="-6543" visible="true" lat="44.47987199" lon="-73.21299577">
+  <node id="-6542" visible="true" lat="44.47987199" lon="-73.21299577">
     <!-- multiple: "21 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="21"/>
@@ -1056,7 +1040,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49252"/>
   </node>
-  <node id="-6631" visible="true" lat="44.47832419" lon="-73.215744">
+  <node id="-6630" visible="true" lat="44.47832419" lon="-73.215744">
     <!-- multiple: "100 Bank Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="100"/>
@@ -1064,7 +1048,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49340"/>
   </node>
-  <node id="-6640" visible="true" lat="44.47937979" lon="-73.21645636">
+  <node id="-6639" visible="true" lat="44.47937979" lon="-73.21645636">
     <!-- multiple: "50 Cherry Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="50"/>
@@ -1072,7 +1056,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49351"/>
   </node>
-  <node id="-6663" visible="true" lat="44.47607081" lon="-73.21644897">
+  <node id="-6662" visible="true" lat="44.47607081" lon="-73.21644897">
     <!-- multiple: "74 Main Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="74"/>
@@ -1080,7 +1064,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49377"/>
   </node>
-  <node id="-6664" visible="true" lat="44.47604383" lon="-73.21619523">
+  <node id="-6663" visible="true" lat="44.47604383" lon="-73.21619523">
     <!-- multiple: "78 Main Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="78"/>
@@ -1088,7 +1072,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49378"/>
   </node>
-  <node id="-6677" visible="true" lat="44.4761274" lon="-73.21532095">
+  <node id="-6676" visible="true" lat="44.4761274" lon="-73.21532095">
     <!-- multiple: "100 Main Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="100"/>
@@ -1096,7 +1080,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49391"/>
   </node>
-  <node id="-6678" visible="true" lat="44.47682563" lon="-73.21508316">
+  <node id="-6677" visible="true" lat="44.47682563" lon="-73.21508316">
     <!-- multiple: "119 College Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="119"/>
@@ -1104,7 +1088,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49392"/>
   </node>
-  <node id="-6688" visible="true" lat="44.47536063" lon="-73.21919652">
+  <node id="-6687" visible="true" lat="44.47536063" lon="-73.21919652">
     <!-- multiple: "3 Main Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="3"/>
@@ -1112,7 +1096,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49402"/>
   </node>
-  <node id="-6690" visible="true" lat="44.47554663" lon="-73.21775417">
+  <node id="-6689" visible="true" lat="44.47554663" lon="-73.21775417">
     <!-- multiple: "53 Main Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="53"/>
@@ -1120,7 +1104,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49404"/>
   </node>
-  <node id="-6707" visible="true" lat="44.47324943" lon="-73.21789035">
+  <node id="-6706" visible="true" lat="44.47324943" lon="-73.21789035">
     <!-- multiple: "47 Maple Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="47"/>
@@ -1128,7 +1112,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49421"/>
   </node>
-  <node id="-6710" visible="true" lat="44.47435674" lon="-73.22157297">
+  <node id="-6709" visible="true" lat="44.47435674" lon="-73.22157297">
     <!-- multiple: "1 King Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1"/>
@@ -1136,7 +1120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49424"/>
   </node>
-  <node id="-6712" visible="true" lat="44.47488146" lon="-73.22049625">
+  <node id="-6711" visible="true" lat="44.47488146" lon="-73.22049625">
     <!-- multiple: "1 King Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1"/>
@@ -1144,7 +1128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49426"/>
   </node>
-  <node id="-6726" visible="true" lat="44.47562142" lon="-73.2158156">
+  <node id="-6725" visible="true" lat="44.47562142" lon="-73.2158156">
     <!-- multiple: "85 Main Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="85"/>
@@ -1152,7 +1136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49444"/>
   </node>
-  <node id="-6750" visible="true" lat="44.47492389" lon="-73.21312734">
+  <node id="-6749" visible="true" lat="44.47492389" lon="-73.21312734">
     <!-- multiple: "128 King Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="128"/>
@@ -1160,7 +1144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49468"/>
   </node>
-  <node id="-6769" visible="true" lat="44.47497355" lon="-73.2105859">
+  <node id="-6768" visible="true" lat="44.47497355" lon="-73.2105859">
     <!-- multiple: "184 South Winooski Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="184"/>
@@ -1168,7 +1152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49488"/>
   </node>
-  <node id="-6817" visible="true" lat="44.47422926" lon="-73.21454752">
+  <node id="-6816" visible="true" lat="44.47422926" lon="-73.21454752">
     <!-- multiple: "187 Saint Paul Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="187"/>
@@ -1176,7 +1160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49538"/>
   </node>
-  <node id="-6828" visible="true" lat="44.47368269" lon="-73.21676558">
+  <node id="-6827" visible="true" lat="44.47368269" lon="-73.21676558">
     <!-- multiple: "74 Maple Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="74"/>
@@ -1184,7 +1168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49549"/>
   </node>
-  <node id="-6874" visible="true" lat="44.47220889" lon="-73.21435527">
+  <node id="-6873" visible="true" lat="44.47220889" lon="-73.21435527">
     <!-- multiple: "266 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="266"/>
@@ -1192,7 +1176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49595"/>
   </node>
-  <node id="-6955" visible="true" lat="44.47550406" lon="-73.20966694">
+  <node id="-6954" visible="true" lat="44.47550406" lon="-73.20966694">
     <!-- multiple: "227 Main Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="227"/>
@@ -1200,7 +1184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49676"/>
   </node>
-  <node id="-6963" visible="true" lat="44.4743723" lon="-73.20917191">
+  <node id="-6962" visible="true" lat="44.4743723" lon="-73.20917191">
     <!-- multiple: "207 South Union Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="207"/>
@@ -1208,7 +1192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49684"/>
   </node>
-  <node id="-6966" visible="true" lat="44.47556377" lon="-73.20573387">
+  <node id="-6965" visible="true" lat="44.47556377" lon="-73.20573387">
     <!-- multiple: "163 South Willard Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="163"/>
@@ -1216,7 +1200,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49687"/>
   </node>
-  <node id="-7051" visible="true" lat="44.47363519" lon="-73.20429133">
+  <node id="-7050" visible="true" lat="44.47363519" lon="-73.20429133">
     <!-- multiple: "375 Maple Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="375"/>
@@ -1224,7 +1208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49773"/>
   </node>
-  <node id="-7082" visible="true" lat="44.47307089" lon="-73.20797134">
+  <node id="-7081" visible="true" lat="44.47307089" lon="-73.20797134">
     <!-- multiple: "250 South Union Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="250"/>
@@ -1232,7 +1216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49804"/>
   </node>
-  <node id="-7083" visible="true" lat="44.47303213" lon="-73.20832819">
+  <node id="-7082" visible="true" lat="44.47303213" lon="-73.20832819">
     <!-- multiple: "250 South Union Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="250"/>
@@ -1240,7 +1224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49805"/>
   </node>
-  <node id="-7090" visible="true" lat="44.47213203" lon="-73.2083387">
+  <node id="-7089" visible="true" lat="44.47213203" lon="-73.2083387">
     <!-- multiple: "284 South Union Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="284"/>
@@ -1248,7 +1232,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49812"/>
   </node>
-  <node id="-7101" visible="true" lat="44.47331209" lon="-73.20907548">
+  <node id="-7100" visible="true" lat="44.47331209" lon="-73.20907548">
     <!-- multiple: "239 South Union Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="239"/>
@@ -1256,7 +1240,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49823"/>
   </node>
-  <node id="-7195" visible="true" lat="44.47181691" lon="-73.20015773">
+  <node id="-7194" visible="true" lat="44.47181691" lon="-73.20015773">
     <!-- multiple: "308 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="308"/>
@@ -1264,7 +1248,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49919"/>
   </node>
-  <node id="-7228" visible="true" lat="44.47174288" lon="-73.19382452">
+  <node id="-7227" visible="true" lat="44.47174288" lon="-73.19382452">
     <!-- multiple: "67 Spear Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="67"/>
@@ -1272,7 +1256,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49966"/>
   </node>
-  <node id="-7229" visible="true" lat="44.47275933" lon="-73.19365345">
+  <node id="-7228" visible="true" lat="44.47275933" lon="-73.19365345">
     <!-- multiple: "31 Spear Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="31"/>
@@ -1280,7 +1264,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49967"/>
   </node>
-  <node id="-7230" visible="true" lat="44.47365834" lon="-73.19475152">
+  <node id="-7229" visible="true" lat="44.47365834" lon="-73.19475152">
     <!-- multiple: "633 Main Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="633"/>
@@ -1288,7 +1272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49968"/>
   </node>
-  <node id="-7251" visible="true" lat="44.47018839" lon="-73.19468985">
+  <node id="-7250" visible="true" lat="44.47018839" lon="-73.19468985">
     <!-- multiple: "131 Catamount Way, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="131"/>
@@ -1296,7 +1280,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49993"/>
   </node>
-  <node id="-7260" visible="true" lat="44.46806925" lon="-73.19959692">
+  <node id="-7259" visible="true" lat="44.46806925" lon="-73.19959692">
     <!-- multiple: "436 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="436"/>
@@ -1304,7 +1288,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50004"/>
   </node>
-  <node id="-7261" visible="true" lat="44.46810825" lon="-73.19800929">
+  <node id="-7260" visible="true" lat="44.46810825" lon="-73.19800929">
     <!-- multiple: "438 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="438"/>
@@ -1312,7 +1296,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50005"/>
   </node>
-  <node id="-7263" visible="true" lat="44.47151481" lon="-73.19961807">
+  <node id="-7262" visible="true" lat="44.47151481" lon="-73.19961807">
     <!-- multiple: "322 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="322"/>
@@ -1320,7 +1304,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50007"/>
   </node>
-  <node id="-7410" visible="true" lat="44.46806156" lon="-73.20758952">
+  <node id="-7409" visible="true" lat="44.46806156" lon="-73.20758952">
     <!-- multiple: "444 South Union Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="444"/>
@@ -1328,7 +1312,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50155"/>
   </node>
-  <node id="-7561" visible="true" lat="44.47035551" lon="-73.20904356">
+  <node id="-7560" visible="true" lat="44.47035551" lon="-73.20904356">
     <!-- multiple: "79 Spruce Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="79"/>
@@ -1336,7 +1320,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50306"/>
   </node>
-  <node id="-7562" visible="true" lat="44.47034124" lon="-73.20929725">
+  <node id="-7561" visible="true" lat="44.47034124" lon="-73.20929725">
     <!-- multiple: "79 Spruce Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="79"/>
@@ -1344,7 +1328,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50307"/>
   </node>
-  <node id="-7595" visible="true" lat="44.46741428" lon="-73.2100792">
+  <node id="-7594" visible="true" lat="44.46741428" lon="-73.2100792">
     <!-- multiple: "457 Saint Paul Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="457"/>
@@ -1352,7 +1336,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50340"/>
   </node>
-  <node id="-7608" visible="true" lat="44.46810321" lon="-73.2117187">
+  <node id="-7607" visible="true" lat="44.46810321" lon="-73.2117187">
     <!-- multiple: "397 Saint Paul Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="397"/>
@@ -1360,7 +1344,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50353"/>
   </node>
-  <node id="-7609" visible="true" lat="44.46807626" lon="-73.21209221">
+  <node id="-7608" visible="true" lat="44.46807626" lon="-73.21209221">
     <!-- multiple: "397 Saint Paul Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="397"/>
@@ -1368,7 +1352,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50354"/>
   </node>
-  <node id="-7610" visible="true" lat="44.46808794" lon="-73.2124256">
+  <node id="-7609" visible="true" lat="44.46808794" lon="-73.2124256">
     <!-- multiple: "397 Saint Paul Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="397"/>
@@ -1376,7 +1360,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50355"/>
   </node>
-  <node id="-7642" visible="true" lat="44.46836787" lon="-73.21221712">
+  <node id="-7641" visible="true" lat="44.46836787" lon="-73.21221712">
     <!-- multiple: "397 Saint Paul Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="397"/>
@@ -1384,7 +1368,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50387"/>
   </node>
-  <node id="-7658" visible="true" lat="44.46737212" lon="-73.21447184">
+  <node id="-7657" visible="true" lat="44.46737212" lon="-73.21447184">
     <!-- multiple: "4 Howard Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="4"/>
@@ -1392,7 +1376,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50404"/>
   </node>
-  <node id="-7659" visible="true" lat="44.46736759" lon="-73.21468177">
+  <node id="-7658" visible="true" lat="44.46736759" lon="-73.21468177">
     <!-- multiple: "2 Howard Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="2"/>
@@ -1400,7 +1384,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50405"/>
   </node>
-  <node id="-7679" visible="true" lat="44.46870232" lon="-73.21467724">
+  <node id="-7678" visible="true" lat="44.46870232" lon="-73.21467724">
     <!-- multiple: "388 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="388"/>
@@ -1408,7 +1392,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50425"/>
   </node>
-  <node id="-7683" visible="true" lat="44.46885879" lon="-73.21538247">
+  <node id="-7682" visible="true" lat="44.46885879" lon="-73.21538247">
     <!-- multiple: "377 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="377"/>
@@ -1416,7 +1400,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50429"/>
   </node>
-  <node id="-7684" visible="true" lat="44.46945877" lon="-73.21541108">
+  <node id="-7683" visible="true" lat="44.46945877" lon="-73.21541108">
     <!-- multiple: "345 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="345"/>
@@ -1424,7 +1408,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50430"/>
   </node>
-  <node id="-7709" visible="true" lat="44.46915163" lon="-73.21301977">
+  <node id="-7708" visible="true" lat="44.46915163" lon="-73.21301977">
     <!-- multiple: "52 Marble Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="52"/>
@@ -1432,7 +1416,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50456"/>
   </node>
-  <node id="-7717" visible="true" lat="44.47073581" lon="-73.21442502">
+  <node id="-7716" visible="true" lat="44.47073581" lon="-73.21442502">
     <!-- multiple: "310 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="310"/>
@@ -1440,7 +1424,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50464"/>
   </node>
-  <node id="-7725" visible="true" lat="44.47182217" lon="-73.21504556">
+  <node id="-7724" visible="true" lat="44.47182217" lon="-73.21504556">
     <!-- multiple: "266 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="266"/>
@@ -1448,7 +1432,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50472"/>
   </node>
-  <node id="-7727" visible="true" lat="44.4698695" lon="-73.21552582">
+  <node id="-7726" visible="true" lat="44.4698695" lon="-73.21552582">
     <!-- multiple: "339 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="339"/>
@@ -1456,7 +1440,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50474"/>
   </node>
-  <node id="-7735" visible="true" lat="44.46338413" lon="-73.21433542">
+  <node id="-7734" visible="true" lat="44.46338413" lon="-73.21433542">
     <!-- multiple: "500 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="500"/>
@@ -1464,7 +1448,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50482"/>
   </node>
-  <node id="-7794" visible="true" lat="44.46716414" lon="-73.20993362">
+  <node id="-7793" visible="true" lat="44.46716414" lon="-73.20993362">
     <!-- multiple: "463 Saint Paul Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="463"/>
@@ -1472,7 +1456,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50541"/>
   </node>
-  <node id="-8117" visible="true" lat="44.46675011" lon="-73.20028883">
+  <node id="-8116" visible="true" lat="44.46675011" lon="-73.20028883">
     <!-- multiple: "500 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="500"/>
@@ -1480,7 +1464,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50867"/>
   </node>
-  <node id="-8119" visible="true" lat="44.46650311" lon="-73.20074373">
+  <node id="-8118" visible="true" lat="44.46650311" lon="-73.20074373">
     <!-- multiple: "500 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="500"/>
@@ -1488,7 +1472,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50869"/>
   </node>
-  <node id="-8120" visible="true" lat="44.46629233" lon="-73.20079577">
+  <node id="-8119" visible="true" lat="44.46629233" lon="-73.20079577">
     <!-- multiple: "500 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="500"/>
@@ -1496,7 +1480,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50870"/>
   </node>
-  <node id="-8121" visible="true" lat="44.46606524" lon="-73.20088296">
+  <node id="-8120" visible="true" lat="44.46606524" lon="-73.20088296">
     <!-- multiple: "500 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="500"/>
@@ -1504,7 +1488,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50871"/>
   </node>
-  <node id="-8122" visible="true" lat="44.46609622" lon="-73.20010974">
+  <node id="-8121" visible="true" lat="44.46609622" lon="-73.20010974">
     <!-- multiple: "500 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="500"/>
@@ -1512,7 +1496,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50872"/>
   </node>
-  <node id="-8123" visible="true" lat="44.46626895" lon="-73.20015306">
+  <node id="-8122" visible="true" lat="44.46626895" lon="-73.20015306">
     <!-- multiple: "500 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="500"/>
@@ -1520,7 +1504,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50873"/>
   </node>
-  <node id="-8124" visible="true" lat="44.46646641" lon="-73.20015778">
+  <node id="-8123" visible="true" lat="44.46646641" lon="-73.20015778">
     <!-- multiple: "500 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="500"/>
@@ -1528,7 +1512,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50874"/>
   </node>
-  <node id="-8125" visible="true" lat="44.46558199" lon="-73.20225649">
+  <node id="-8124" visible="true" lat="44.46558199" lon="-73.20225649">
     <!-- multiple: "545 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="545"/>
@@ -1536,7 +1520,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50876"/>
   </node>
-  <node id="-8126" visible="true" lat="44.46508076" lon="-73.20245832">
+  <node id="-8125" visible="true" lat="44.46508076" lon="-73.20245832">
     <!-- multiple: "545 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="545"/>
@@ -1544,7 +1528,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50879"/>
   </node>
-  <node id="-8149" visible="true" lat="44.46629891" lon="-73.19977343">
+  <node id="-8148" visible="true" lat="44.46629891" lon="-73.19977343">
     <!-- multiple: "500 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="500"/>
@@ -1552,7 +1536,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50903"/>
   </node>
-  <node id="-8150" visible="true" lat="44.46613004" lon="-73.19977787">
+  <node id="-8149" visible="true" lat="44.46613004" lon="-73.19977787">
     <!-- multiple: "500 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="500"/>
@@ -1560,7 +1544,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50904"/>
   </node>
-  <node id="-8152" visible="true" lat="44.46719834" lon="-73.1987666">
+  <node id="-8151" visible="true" lat="44.46719834" lon="-73.1987666">
     <!-- multiple: "486 South Prospect Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="486"/>
@@ -1568,7 +1552,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50906"/>
   </node>
-  <node id="-8226" visible="true" lat="44.46222433" lon="-73.20769179">
+  <node id="-8225" visible="true" lat="44.46222433" lon="-73.20769179">
     <!-- multiple: "108 Shelburne Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="108"/>
@@ -1576,7 +1560,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50980"/>
   </node>
-  <node id="-8445" visible="true" lat="44.46034033" lon="-73.21399509">
+  <node id="-8444" visible="true" lat="44.46034033" lon="-73.21399509">
     <!-- multiple: "688 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="688"/>
@@ -1584,7 +1568,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51199"/>
   </node>
-  <node id="-8446" visible="true" lat="44.46003707" lon="-73.21405523">
+  <node id="-8445" visible="true" lat="44.46003707" lon="-73.21405523">
     <!-- multiple: "696 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="696"/>
@@ -1592,7 +1576,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51200"/>
   </node>
-  <node id="-8447" visible="true" lat="44.45962148" lon="-73.2138028">
+  <node id="-8446" visible="true" lat="44.45962148" lon="-73.2138028">
     <!-- multiple: "716 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="716"/>
@@ -1600,7 +1584,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51201"/>
   </node>
-  <node id="-8450" visible="true" lat="44.45896454" lon="-73.2151323">
+  <node id="-8449" visible="true" lat="44.45896454" lon="-73.2151323">
     <!-- multiple: "747 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="747"/>
@@ -1608,7 +1592,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51204"/>
   </node>
-  <node id="-8451" visible="true" lat="44.45954496" lon="-73.21484416">
+  <node id="-8450" visible="true" lat="44.45954496" lon="-73.21484416">
     <!-- multiple: "703 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="703"/>
@@ -1616,7 +1600,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51205"/>
   </node>
-  <node id="-8452" visible="true" lat="44.45987363" lon="-73.21511697">
+  <node id="-8451" visible="true" lat="44.45987363" lon="-73.21511697">
     <!-- multiple: "699 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="699"/>
@@ -1624,7 +1608,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51206"/>
   </node>
-  <node id="-8456" visible="true" lat="44.46077232" lon="-73.2150523">
+  <node id="-8455" visible="true" lat="44.46077232" lon="-73.2150523">
     <!-- multiple: "661 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="661"/>
@@ -1632,7 +1616,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51210"/>
   </node>
-  <node id="-8461" visible="true" lat="44.46153789" lon="-73.21985865">
+  <node id="-8460" visible="true" lat="44.46153789" lon="-73.21985865">
     <!-- multiple: "50 Lakeside Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="50"/>
@@ -1640,7 +1624,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51215"/>
   </node>
-  <node id="-8544" visible="true" lat="44.45751058" lon="-73.21943296">
+  <node id="-8543" visible="true" lat="44.45751058" lon="-73.21943296">
     <!-- multiple: "180 Flynn Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="180"/>
@@ -1648,7 +1632,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51298"/>
   </node>
-  <node id="-8545" visible="true" lat="44.45678615" lon="-73.21940133">
+  <node id="-8544" visible="true" lat="44.45678615" lon="-73.21940133">
     <!-- multiple: "180 Flynn Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="180"/>
@@ -1656,7 +1640,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51299"/>
   </node>
-  <node id="-8546" visible="true" lat="44.45688648" lon="-73.22071109">
+  <node id="-8545" visible="true" lat="44.45688648" lon="-73.22071109">
     <!-- multiple: "160 Flynn Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="160"/>
@@ -1664,7 +1648,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51300"/>
   </node>
-  <node id="-8547" visible="true" lat="44.45618373" lon="-73.22068649">
+  <node id="-8546" visible="true" lat="44.45618373" lon="-73.22068649">
     <!-- multiple: "160 Flynn Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="160"/>
@@ -1672,7 +1656,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51301"/>
   </node>
-  <node id="-8550" visible="true" lat="44.4564791" lon="-73.21809802">
+  <node id="-8549" visible="true" lat="44.4564791" lon="-73.21809802">
     <!-- multiple: "208 Flynn Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="208"/>
@@ -1680,7 +1664,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51304"/>
   </node>
-  <node id="-8583" visible="true" lat="44.45748228" lon="-73.21502146">
+  <node id="-8582" visible="true" lat="44.45748228" lon="-73.21502146">
     <!-- multiple: "789 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="789"/>
@@ -1688,7 +1672,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51347"/>
   </node>
-  <node id="-8585" visible="true" lat="44.45589373" lon="-73.21576172">
+  <node id="-8584" visible="true" lat="44.45589373" lon="-73.21576172">
     <!-- multiple: "288 Flynn Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="288"/>
@@ -1696,7 +1680,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51350"/>
   </node>
-  <node id="-8593" visible="true" lat="44.45516113" lon="-73.21516449">
+  <node id="-8592" visible="true" lat="44.45516113" lon="-73.21516449">
     <!-- multiple: "305 Flynn Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="305"/>
@@ -1704,7 +1688,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51358"/>
   </node>
-  <node id="-8596" visible="true" lat="44.45514838" lon="-73.21449598">
+  <node id="-8595" visible="true" lat="44.45514838" lon="-73.21449598">
     <!-- multiple: "305 Flynn Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="305"/>
@@ -1712,7 +1696,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51361"/>
   </node>
-  <node id="-8617" visible="true" lat="44.45706493" lon="-73.21322111">
+  <node id="-8616" visible="true" lat="44.45706493" lon="-73.21322111">
     <!-- multiple: "800 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="800"/>
@@ -1720,7 +1704,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51382"/>
   </node>
-  <node id="-8678" visible="true" lat="44.45498498" lon="-73.20961885">
+  <node id="-8677" visible="true" lat="44.45498498" lon="-73.20961885">
     <!-- multiple: "431 Flynn Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="431"/>
@@ -1728,7 +1712,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51445"/>
   </node>
-  <node id="-9003" visible="true" lat="44.45221234" lon="-73.20968304">
+  <node id="-9002" visible="true" lat="44.45221234" lon="-73.20968304">
     <!-- multiple: "74 Scarff Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="74"/>
@@ -1736,7 +1720,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51771"/>
   </node>
-  <node id="-9004" visible="true" lat="44.45204808" lon="-73.20979325">
+  <node id="-9003" visible="true" lat="44.45204808" lon="-73.20979325">
     <!-- multiple: "74 Scarff Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="74"/>
@@ -1744,7 +1728,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="51772"/>
   </node>
-  <node id="-9290" visible="true" lat="44.44867336" lon="-73.22803637">
+  <node id="-9289" visible="true" lat="44.44867336" lon="-73.22803637">
     <!-- multiple: "267 South Cove Road, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="267"/>
@@ -1752,7 +1736,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52065"/>
   </node>
-  <node id="-9480" visible="true" lat="44.45511943" lon="-73.21483642">
+  <node id="-9479" visible="true" lat="44.45511943" lon="-73.21483642">
     <!-- multiple: "305 Flynn Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="305"/>
@@ -1760,7 +1744,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52318"/>
   </node>
-  <node id="-9511" visible="true" lat="44.45731054" lon="-73.21982334">
+  <node id="-9510" visible="true" lat="44.45731054" lon="-73.21982334">
     <!-- multiple: "180 Flynn Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="180"/>
@@ -1768,7 +1752,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52368"/>
   </node>
-  <node id="-9515" visible="true" lat="44.45878918" lon="-73.2161027">
+  <node id="-9514" visible="true" lat="44.45878918" lon="-73.2161027">
     <!-- multiple: "40 Sears Lane, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="40"/>
@@ -1776,7 +1760,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52376"/>
   </node>
-  <node id="-9538" visible="true" lat="44.46186342" lon="-73.21782257">
+  <node id="-9537" visible="true" lat="44.46186342" lon="-73.21782257">
     <!-- multiple: "128 Lakeside Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="128"/>
@@ -1784,7 +1768,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52409"/>
   </node>
-  <node id="-9686" visible="true" lat="44.46231804" lon="-73.20747148">
+  <node id="-9685" visible="true" lat="44.46231804" lon="-73.20747148">
     <!-- multiple: "108 Shelburne Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="108"/>
@@ -1792,7 +1776,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52671"/>
   </node>
-  <node id="-9732" visible="true" lat="44.47215333" lon="-73.20801496">
+  <node id="-9731" visible="true" lat="44.47215333" lon="-73.20801496">
     <!-- multiple: "284 South Union Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="284"/>
@@ -1800,7 +1784,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52741"/>
   </node>
-  <node id="-9741" visible="true" lat="44.46545635" lon="-73.20783724">
+  <node id="-9740" visible="true" lat="44.46545635" lon="-73.20783724">
     <!-- multiple: "523 South Union Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="523"/>
@@ -1808,7 +1792,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52753"/>
   </node>
-  <node id="-9771" visible="true" lat="44.48176215" lon="-73.18119333">
+  <node id="-9770" visible="true" lat="44.48176215" lon="-73.18119333">
     <!-- multiple: "284 Grove Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="284"/>
@@ -1816,7 +1800,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52815"/>
   </node>
-  <node id="-9772" visible="true" lat="44.48186249" lon="-73.18098328">
+  <node id="-9771" visible="true" lat="44.48186249" lon="-73.18098328">
     <!-- multiple: "284 Grove Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="284"/>
@@ -1824,7 +1808,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52816"/>
   </node>
-  <node id="-9773" visible="true" lat="44.48190651" lon="-73.18075689">
+  <node id="-9772" visible="true" lat="44.48190651" lon="-73.18075689">
     <!-- multiple: "284 Grove Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="284"/>
@@ -1832,7 +1816,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52817"/>
   </node>
-  <node id="-9774" visible="true" lat="44.48155816" lon="-73.18089387">
+  <node id="-9773" visible="true" lat="44.48155816" lon="-73.18089387">
     <!-- multiple: "284 Grove Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="284"/>
@@ -1840,7 +1824,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52818"/>
   </node>
-  <node id="-9775" visible="true" lat="44.48163241" lon="-73.18062051">
+  <node id="-9774" visible="true" lat="44.48163241" lon="-73.18062051">
     <!-- multiple: "284 Grove Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="284"/>
@@ -1848,7 +1832,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52819"/>
   </node>
-  <node id="-9776" visible="true" lat="44.48196133" lon="-73.18045996">
+  <node id="-9775" visible="true" lat="44.48196133" lon="-73.18045996">
     <!-- multiple: "284 Grove Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="284"/>
@@ -1856,7 +1840,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52820"/>
   </node>
-  <node id="-9777" visible="true" lat="44.48180623" lon="-73.17996693">
+  <node id="-9776" visible="true" lat="44.48180623" lon="-73.17996693">
     <!-- multiple: "284 Grove Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="284"/>
@@ -1864,7 +1848,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52822"/>
   </node>
-  <node id="-9780" visible="true" lat="44.4816794" lon="-73.1804728">
+  <node id="-9779" visible="true" lat="44.4816794" lon="-73.1804728">
     <!-- multiple: "284 Grove Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="284"/>
@@ -1872,7 +1856,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52825"/>
   </node>
-  <node id="-9788" visible="true" lat="44.48721376" lon="-73.1845112">
+  <node id="-9787" visible="true" lat="44.48721376" lon="-73.1845112">
     <!-- multiple: "67 Chase Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="67"/>
@@ -1880,7 +1864,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52836"/>
   </node>
-  <node id="-9866" visible="true" lat="44.48801875" lon="-73.203316">
+  <node id="-9865" visible="true" lat="44.48801875" lon="-73.203316">
     <!-- multiple: "253 Archibald Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="253"/>
@@ -1888,7 +1872,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52995"/>
   </node>
-  <node id="-10074" visible="true" lat="44.48898339" lon="-73.2108434">
+  <node id="-10073" visible="true" lat="44.48898339" lon="-73.2108434">
     <!-- multiple: "52 Willow Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="52"/>
@@ -1896,7 +1880,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53268"/>
   </node>
-  <node id="-10150" visible="true" lat="44.47201903" lon="-73.21989915">
+  <node id="-10149" visible="true" lat="44.47201903" lon="-73.21989915">
     <!-- multiple: "53 Lavalley Lane, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="53"/>
@@ -1904,7 +1888,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53358"/>
   </node>
-  <node id="-10260" visible="true" lat="44.47752531" lon="-73.2154287">
+  <node id="-10259" visible="true" lat="44.47752531" lon="-73.2154287">
     <!-- multiple: "84 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="84"/>
@@ -1912,7 +1896,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53500"/>
   </node>
-  <node id="-10277" visible="true" lat="44.48024036" lon="-73.21303539">
+  <node id="-10276" visible="true" lat="44.48024036" lon="-73.21303539">
     <!-- multiple: "1 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1"/>
@@ -1920,7 +1904,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53524"/>
   </node>
-  <node id="-10278" visible="true" lat="44.48029476" lon="-73.21251765">
+  <node id="-10277" visible="true" lat="44.48029476" lon="-73.21251765">
     <!-- multiple: "2 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="2"/>
@@ -1928,7 +1912,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53525"/>
   </node>
-  <node id="-10279" visible="true" lat="44.4800625" lon="-73.21298405">
+  <node id="-10278" visible="true" lat="44.4800625" lon="-73.21298405">
     <!-- multiple: "11 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="11"/>
@@ -1936,7 +1920,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53526"/>
   </node>
-  <node id="-10284" visible="true" lat="44.47979073" lon="-73.21300586">
+  <node id="-10283" visible="true" lat="44.47979073" lon="-73.21300586">
     <!-- multiple: "23 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="23"/>
@@ -1944,7 +1928,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53532"/>
   </node>
-  <node id="-10285" visible="true" lat="44.47981832" lon="-73.21250493">
+  <node id="-10284" visible="true" lat="44.47981832" lon="-73.21250493">
     <!-- multiple: "28 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="28"/>
@@ -1952,7 +1936,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53533"/>
   </node>
-  <node id="-10286" visible="true" lat="44.47964935" lon="-73.21250486">
+  <node id="-10285" visible="true" lat="44.47964935" lon="-73.21250486">
     <!-- multiple: "32 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="32"/>
@@ -1960,7 +1944,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53534"/>
   </node>
-  <node id="-10287" visible="true" lat="44.47950395" lon="-73.21251924">
+  <node id="-10286" visible="true" lat="44.47950395" lon="-73.21251924">
     <!-- multiple: "34 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="34"/>
@@ -1968,7 +1952,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53535"/>
   </node>
-  <node id="-10299" visible="true" lat="44.48770777" lon="-73.2162274">
+  <node id="-10298" visible="true" lat="44.48770777" lon="-73.2162274">
     <!-- multiple: "106 Rose Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="106"/>
@@ -1976,7 +1960,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53547"/>
   </node>
-  <node id="-10400" visible="true" lat="44.47764019" lon="-73.21233598">
+  <node id="-10399" visible="true" lat="44.47764019" lon="-73.21233598">
     <!-- multiple: "102 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="102"/>
@@ -1984,7 +1968,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53667"/>
   </node>
-  <node id="-10410" visible="true" lat="44.47594189" lon="-73.21789054">
+  <node id="-10409" visible="true" lat="44.47594189" lon="-73.21789054">
     <!-- multiple: "40 Main Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="40"/>
@@ -1992,7 +1976,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53677"/>
   </node>
-  <node id="-10413" visible="true" lat="44.47484039" lon="-73.22104332">
+  <node id="-10412" visible="true" lat="44.47484039" lon="-73.22104332">
     <!-- multiple: "1 King Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1"/>
@@ -2000,7 +1984,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53682"/>
   </node>
-  <node id="-10426" visible="true" lat="44.47807719" lon="-73.21198018">
+  <node id="-10425" visible="true" lat="44.47807719" lon="-73.21198018">
     <!-- multiple: "189 Bank Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="189"/>
@@ -2008,7 +1992,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53699"/>
   </node>
-  <node id="-10448" visible="true" lat="44.47574017" lon="-73.21279928">
+  <node id="-10447" visible="true" lat="44.47574017" lon="-73.21279928">
     <!-- multiple: "163 Main Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="163"/>
@@ -2016,7 +2000,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53730"/>
   </node>
-  <node id="-10458" visible="true" lat="44.48025494" lon="-73.2135112">
+  <node id="-10457" visible="true" lat="44.48025494" lon="-73.2135112">
     <!-- multiple: "135 Pearl Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="135"/>
@@ -2024,7 +2008,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53744"/>
   </node>
-  <node id="-10460" visible="true" lat="44.47946706" lon="-73.2121219">
+  <node id="-10459" visible="true" lat="44.47946706" lon="-73.2121219">
     <!-- multiple: "150 Cherry Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="150"/>
@@ -2032,7 +2016,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53748"/>
   </node>
-  <node id="-10464" visible="true" lat="44.47662548" lon="-73.21282681">
+  <node id="-10463" visible="true" lat="44.47662548" lon="-73.21282681">
     <!-- multiple: "135 Church Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="135"/>
@@ -2040,7 +2024,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53757"/>
   </node>
-  <node id="-10476" visible="true" lat="44.46711605" lon="-73.20988476">
+  <node id="-10475" visible="true" lat="44.46711605" lon="-73.20988476">
     <!-- multiple: "465 Saint Paul Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="465"/>
@@ -2048,7 +2032,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53776"/>
   </node>
-  <node id="-10487" visible="true" lat="44.4854249" lon="-73.22338116">
+  <node id="-10486" visible="true" lat="44.4854249" lon="-73.22338116">
     <!-- multiple: "133 North Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="133"/>
@@ -2056,7 +2040,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53799"/>
   </node>
-  <node id="-10535" visible="true" lat="44.50696238" lon="-73.24635579">
+  <node id="-10534" visible="true" lat="44.50696238" lon="-73.24635579">
     <!-- multiple: "1127 North Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1127"/>
@@ -2064,7 +2048,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53917"/>
   </node>
-  <node id="-10573" visible="true" lat="44.51242264" lon="-73.26040264">
+  <node id="-10572" visible="true" lat="44.51242264" lon="-73.26040264">
     <!-- multiple: "152 Cottage Grove, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="152"/>
@@ -2072,7 +2056,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="54046"/>
   </node>
-  <node id="-11394" visible="true" lat="44.46833008" lon="-73.21241913">
+  <node id="-11393" visible="true" lat="44.46833008" lon="-73.21241913">
     <!-- multiple: "397 Saint Paul Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="397"/>
@@ -2080,7 +2064,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55058"/>
   </node>
-  <node id="-11438" visible="true" lat="44.48065353" lon="-73.21182448">
+  <node id="-11437" visible="true" lat="44.48065353" lon="-73.21182448">
     <!-- multiple: "180 Pearl Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="180"/>
@@ -2088,7 +2072,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55136"/>
   </node>
-  <node id="-11471" visible="true" lat="44.4756188" lon="-73.21366495">
+  <node id="-11470" visible="true" lat="44.4756188" lon="-73.21366495">
     <!-- multiple: "131 Main Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="131"/>
@@ -2096,7 +2080,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55171"/>
   </node>
-  <node id="-11530" visible="true" lat="44.48233559" lon="-73.21734665">
+  <node id="-11529" visible="true" lat="44.48233559" lon="-73.21734665">
     <!-- multiple: "62 North Champlain Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="62"/>
@@ -2104,7 +2088,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55237"/>
   </node>
-  <node id="-11545" visible="true" lat="44.48410278" lon="-73.21577967">
+  <node id="-11544" visible="true" lat="44.48410278" lon="-73.21577967">
     <!-- multiple: "52 Murray Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="52"/>
@@ -2112,7 +2096,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55254"/>
   </node>
-  <node id="-11553" visible="true" lat="44.4708241" lon="-73.2149262">
+  <node id="-11552" visible="true" lat="44.4708241" lon="-73.2149262">
     <!-- multiple: "310 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="310"/>
@@ -2120,7 +2104,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55265"/>
   </node>
-  <node id="-11554" visible="true" lat="44.47061909" lon="-73.21425128">
+  <node id="-11553" visible="true" lat="44.47061909" lon="-73.21425128">
     <!-- multiple: "316 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="316"/>
@@ -2128,7 +2112,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55266"/>
   </node>
-  <node id="-11565" visible="true" lat="44.48816262" lon="-73.20786743">
+  <node id="-11564" visible="true" lat="44.48816262" lon="-73.20786743">
     <!-- multiple: "299 North Winooski Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="299"/>
@@ -2136,7 +2120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55277"/>
   </node>
-  <node id="-11568" visible="true" lat="44.48588232" lon="-73.21064159">
+  <node id="-11567" visible="true" lat="44.48588232" lon="-73.21064159">
     <!-- multiple: "197 North Winooski Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="197"/>
@@ -2144,7 +2128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55281"/>
   </node>
-  <node id="-11582" visible="true" lat="44.4691518" lon="-73.21299317">
+  <node id="-11581" visible="true" lat="44.4691518" lon="-73.21299317">
     <!-- multiple: "52 Marble Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="52"/>
@@ -2152,7 +2136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55299"/>
   </node>
-  <node id="-11793" visible="true" lat="44.46805803" lon="-73.21145343">
+  <node id="-11792" visible="true" lat="44.46805803" lon="-73.21145343">
     <!-- multiple: "397 Saint Paul Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="397"/>
@@ -2160,7 +2144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55513"/>
   </node>
-  <node id="-11794" visible="true" lat="44.46880397" lon="-73.21178188">
+  <node id="-11793" visible="true" lat="44.46880397" lon="-73.21178188">
     <!-- multiple: "397 Saint Paul Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="397"/>
@@ -2168,7 +2152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55514"/>
   </node>
-  <node id="-11796" visible="true" lat="44.47939933" lon="-73.21713967">
+  <node id="-11795" visible="true" lat="44.47939933" lon="-73.21713967">
     <!-- multiple: "32 Cherry Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="32"/>
@@ -2176,7 +2160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55516"/>
   </node>
-  <node id="-11799" visible="true" lat="44.48780402" lon="-73.20855956">
+  <node id="-11798" visible="true" lat="44.48780402" lon="-73.20855956">
     <!-- multiple: "299 North Winooski Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="299"/>
@@ -2184,7 +2168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55519"/>
   </node>
-  <node id="-11853" visible="true" lat="44.47748842" lon="-73.21965173">
+  <node id="-11852" visible="true" lat="44.47748842" lon="-73.21965173">
     <!-- multiple: "60 Lake Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="60"/>
@@ -2192,7 +2176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316088"/>
   </node>
-  <node id="-11879" visible="true" lat="44.4577729" lon="-73.22349839">
+  <node id="-11878" visible="true" lat="44.4577729" lon="-73.22349839">
     <!-- multiple: "1 Proctor Place, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1"/>
@@ -2200,7 +2184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="327283"/>
   </node>
-  <node id="-11904" visible="true" lat="44.48838721" lon="-73.18462334">
+  <node id="-11903" visible="true" lat="44.48838721" lon="-73.18462334">
     <!-- multiple: "1 Mill Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1"/>
@@ -2208,7 +2192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="330131"/>
   </node>
-  <node id="-11939" visible="true" lat="44.47896219" lon="-73.21824437">
+  <node id="-11938" visible="true" lat="44.47896219" lon="-73.21824437">
     <!-- multiple: "25 Cherry Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="25"/>
@@ -2216,7 +2200,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="333084"/>
   </node>
-  <node id="-11962" visible="true" lat="44.44710272" lon="-73.2142613">
+  <node id="-11961" visible="true" lat="44.44710272" lon="-73.2142613">
     <!-- multiple: "1138 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1138"/>
@@ -2224,7 +2208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="333107"/>
   </node>
-  <node id="-11983" visible="true" lat="44.46881696" lon="-73.21468006">
+  <node id="-11982" visible="true" lat="44.46881696" lon="-73.21468006">
     <!-- multiple: "382 Pine Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="382"/>
@@ -2232,7 +2216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="333131"/>
   </node>
-  <node id="-12141" visible="true" lat="44.5050057" lon="-73.24192736">
+  <node id="-12140" visible="true" lat="44.5050057" lon="-73.24192736">
     <!-- multiple: "1044 North Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1044"/>
@@ -2240,7 +2224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365475"/>
   </node>
-  <node id="-12142" visible="true" lat="44.50530275" lon="-73.24164601">
+  <node id="-12141" visible="true" lat="44.50530275" lon="-73.24164601">
     <!-- multiple: "1044 North Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1044"/>
@@ -2248,7 +2232,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365476"/>
   </node>
-  <node id="-12162" visible="true" lat="44.47896644" lon="-73.21786816">
+  <node id="-12161" visible="true" lat="44.47896644" lon="-73.21786816">
     <!-- multiple: "41 Cherry Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="41"/>
@@ -2256,7 +2240,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452343"/>
   </node>
-  <node id="-12189" visible="true" lat="44.48427301" lon="-73.22195344">
+  <node id="-12188" visible="true" lat="44.48427301" lon="-73.22195344">
     <!-- multiple: "84 North Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="84"/>
@@ -2264,7 +2248,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454961"/>
   </node>
-  <node id="-12314" visible="true" lat="44.52029751" lon="-73.2567875">
+  <node id="-12313" visible="true" lat="44.52029751" lon="-73.2567875">
     <!-- multiple: "155 Plattsburg Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="155"/>
@@ -2272,7 +2256,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="615773"/>
   </node>
-  <node id="-12315" visible="true" lat="44.51987821" lon="-73.25624691">
+  <node id="-12314" visible="true" lat="44.51987821" lon="-73.25624691">
     <!-- multiple: "155 Plattsburg Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="155"/>
@@ -2280,7 +2264,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="615774"/>
   </node>
-  <node id="-12316" visible="true" lat="44.51985937" lon="-73.25650227">
+  <node id="-12315" visible="true" lat="44.51985937" lon="-73.25650227">
     <!-- multiple: "155 Plattsburg Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="155"/>
@@ -2288,7 +2272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="615775"/>
   </node>
-  <node id="-12371" visible="true" lat="44.45498406" lon="-73.20959666">
+  <node id="-12370" visible="true" lat="44.45498406" lon="-73.20959666">
     <!-- multiple: "431 Flynn Avenue, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="431"/>
@@ -2296,7 +2280,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="615868"/>
   </node>
-  <node id="-12410" visible="true" lat="44.48585274" lon="-73.20857832">
+  <node id="-12409" visible="true" lat="44.48585274" lon="-73.20857832">
     <!-- multiple: "31 Hyde Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="31"/>
@@ -2304,7 +2288,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="616099"/>
   </node>
-  <node id="-12411" visible="true" lat="44.48591481" lon="-73.20888987">
+  <node id="-12410" visible="true" lat="44.48591481" lon="-73.20888987">
     <!-- multiple: "31 Hyde Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="31"/>
@@ -2312,7 +2296,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="616100"/>
   </node>
-  <node id="-12412" visible="true" lat="44.48663788" lon="-73.20785074">
+  <node id="-12411" visible="true" lat="44.48663788" lon="-73.20785074">
     <!-- multiple: "63 Hyde Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="63"/>
@@ -2320,7 +2304,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="616101"/>
   </node>
-  <node id="-12448" visible="true" lat="44.48157079" lon="-73.21651258">
+  <node id="-12447" visible="true" lat="44.48157079" lon="-73.21651258">
     <!-- multiple: "64 Monroe Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="64"/>

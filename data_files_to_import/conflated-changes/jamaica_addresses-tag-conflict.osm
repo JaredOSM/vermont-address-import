@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1088" visible="true" lat="43.07166291" lon="-72.75659897">
+    <!-- conflict: "689 Howard Road, , VT" No match in OSM, but a different address exists <5m away: "2194 Howard Road, , VT" -->
+    <tag k="addr:housenumber" v="689"/>
+    <tag k="addr:street" v="Howard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="135503"/>
+  </node>
+  <node id="-1115" visible="true" lat="43.07255654" lon="-72.76427729">
+    <!-- conflict: "1124 Howard Road, , VT" No match in OSM, but a different address exists <5m away: "1757 Howard Road, , VT" -->
+    <tag k="addr:housenumber" v="1124"/>
+    <tag k="addr:street" v="Howard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="315512"/>
+  </node>
+  <node id="-1179" visible="true" lat="43.07296471" lon="-72.7581592">
+    <!-- conflict: "784 Howard Road, , VT" No match in OSM, but a different address exists <5m away: "2099 Howard Road, , VT" -->
+    <tag k="addr:housenumber" v="784"/>
+    <tag k="addr:street" v="Howard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338643"/>
+  </node>
+  <node id="-1295" visible="true" lat="43.07481588" lon="-72.76792025">
+    <!-- conflict: "1300 Howard Road, , VT" No match in OSM, but a different address exists <5m away: "1605 Howard Road, , VT" -->
+    <tag k="addr:housenumber" v="1300"/>
+    <tag k="addr:street" v="Howard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="616503"/>
+  </node>
+  <node id="-1709" visible="true" lat="43.07274718" lon="-72.76938633">
+    <!-- conflict: "1319 Howard Road, , VT" No match in OSM, but a different address exists <5m away: "1590 Howard Road, , VT" -->
+    <tag k="addr:housenumber" v="1319"/>
+    <tag k="addr:street" v="Howard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767960"/>
+  </node>
+</osm>

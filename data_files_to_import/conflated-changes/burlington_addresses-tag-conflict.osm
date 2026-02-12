@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-112" visible="true" lat="44.52852375" lon="-73.26857801">
+    <!-- conflict: "3080 North Avenue, Burlington, VT" No match in OSM, but a different address exists <5m away: "3074 North Avenue, Burlington, VT" -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="3080"/>
+    <tag k="addr:street" v="North Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="42765"/>
+  </node>
+  <node id="-12907" visible="true" lat="44.4946847" lon="-73.23598192">
+    <!-- conflict: "255 Institute Road, Burlington, VT" No match in OSM, but a different address exists <5m away: "251 Institute Road, Burlington, VT" -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:street" v="Institute Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772182"/>
+  </node>
+</osm>

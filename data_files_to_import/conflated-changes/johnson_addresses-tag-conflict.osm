@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-158" visible="true" lat="44.67430256" lon="-72.60338726">
+    <!-- conflict: "319 Mudgett Hill Road, Johnson, VT" No match in OSM, but a different address exists <5m away: "464 Mudgett Hill, Johnson, VT" -->
+    <tag k="addr:city" v="Johnson"/>
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:street" v="Mudgett Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="137743"/>
+  </node>
+  <node id="-994" visible="true" lat="44.67762468" lon="-72.60765216">
+    <!-- conflict: "623 Mudgett Hill Road, Johnson, VT" No match in OSM, but a different address exists <5m away: "144 Mudgett Hill, Johnson, VT" -->
+    <tag k="addr:city" v="Johnson"/>
+    <tag k="addr:housenumber" v="623"/>
+    <tag k="addr:street" v="Mudgett Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="138619"/>
+  </node>
+  <node id="-1160" visible="true" lat="44.61686818" lon="-72.64207945">
+    <!-- conflict: "613 Melody Lane, Johnson, VT" No match in OSM, but a different address exists <5m away: "499 Melody Lane, Johnson, VT" -->
+    <tag k="addr:city" v="Johnson"/>
+    <tag k="addr:housenumber" v="613"/>
+    <tag k="addr:street" v="Melody Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="138786"/>
+  </node>
+  <node id="-1307" visible="true" lat="44.67853691" lon="-72.60541093">
+    <!-- conflict: "620 Mudgett Hill Road, Johnson, VT" No match in OSM, but a different address exists <5m away: "147 Mudgett Hill, Johnson, VT" -->
+    <tag k="addr:city" v="Johnson"/>
+    <tag k="addr:housenumber" v="620"/>
+    <tag k="addr:street" v="Mudgett Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306817"/>
+  </node>
+  <node id="-1323" visible="true" lat="44.6183377" lon="-72.64150648">
+    <!-- conflict: "713 Melody Lane, Johnson, VT" No match in OSM, but a different address exists <5m away: "801 Melody Lane, Johnson, VT" -->
+    <tag k="addr:city" v="Johnson"/>
+    <tag k="addr:housenumber" v="713"/>
+    <tag k="addr:street" v="Melody Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313776"/>
+  </node>
+  <node id="-1605" visible="true" lat="44.62285988" lon="-72.63762401">
+    <!-- conflict: "976 Melody Lane, Johnson, VT" No match in OSM, but a different address exists <5m away: "1048 Melody Lane, Johnson, VT" -->
+    <tag k="addr:city" v="Johnson"/>
+    <tag k="addr:housenumber" v="976"/>
+    <tag k="addr:street" v="Melody Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762709"/>
+  </node>
+</osm>

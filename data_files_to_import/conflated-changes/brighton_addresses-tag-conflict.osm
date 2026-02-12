@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-897" visible="true" lat="44.77262192" lon="-71.91583224">
+    <!-- conflict: "450 Davis Road, , VT" No match in OSM, but a different address exists <5m away: "605 Davis Road, , VT" -->
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:street" v="Davis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38700"/>
+  </node>
+  <node id="-898" visible="true" lat="44.77086026" lon="-71.91665234">
+    <!-- conflict: "399 Davis Road, , VT" No match in OSM, but a different address exists <5m away: "687 Davis Road, , VT" -->
+    <tag k="addr:housenumber" v="399"/>
+    <tag k="addr:street" v="Davis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38701"/>
+  </node>
+</osm>

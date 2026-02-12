@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-580" visible="true" lat="43.47670463" lon="-72.75592281">
+    <!-- offset: "335 Dam Road, , VT" Significant offset - 248.4m -->
+    <tag k="addr:housenumber" v="335"/>
+    <tag k="addr:street" v="Dam Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="189924"/>
+  </node>
   <node id="-984" visible="true" lat="43.56128595" lon="-72.69430637">
     <!-- offset: "1019 Vermont Route 100A, , VT" Significant offset - 115.2m -->
     <tag k="addr:housenumber" v="1019"/>
