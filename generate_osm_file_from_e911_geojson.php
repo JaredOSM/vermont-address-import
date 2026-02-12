@@ -615,6 +615,11 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "RLW";
     }
 
+    // Hinesburg has a Road named "CVU" that gets UC-first.
+    if ($street_name_title_cased == "Cvu") {
+        $street_name_title_cased = "CVU";
+    }
+
     // Brighton has a Road named "Head of the Pond Road" that gets UC-first.
     if(preg_match('/^(.*) Of The (.*)$/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = $matches[1] . " of the " . $matches[2];
