@@ -8268,6 +8268,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111293"/>
   </node>
+  <node id="-1481" visible="true" lat="44.68718182" lon="-73.1085493">
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111294"/>
+  </node>
   <node id="-1482" visible="true" lat="44.68697229" lon="-73.09811361">
     <tag k="addr:housenumber" v="110"/>
     <tag k="addr:street" v="Village Drive Extension"/>
@@ -10422,6 +10428,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111664"/>
   </node>
+  <node id="-1842" visible="true" lat="44.68663859" lon="-73.10888264">
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111665"/>
+  </node>
+  <node id="-1843" visible="true" lat="44.6870319" lon="-73.10766865">
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111666"/>
+  </node>
   <node id="-1844" visible="true" lat="44.73838772" lon="-73.19081877">
     <tag k="addr:housenumber" v="208"/>
     <tag k="addr:street" v="Champ View Road"/>
@@ -11016,6 +11034,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="329198"/>
   </node>
+  <node id="-1945" visible="true" lat="44.68711328" lon="-73.10821832">
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="329318"/>
+  </node>
   <node id="-1946" visible="true" lat="44.72345491" lon="-73.10502994">
     <tag k="addr:housenumber" v="133"/>
     <tag k="addr:street" v="Mansfield View Drive"/>
@@ -11118,11 +11142,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="335591"/>
   </node>
+  <node id="-1963" visible="true" lat="44.68669615" lon="-73.10955276">
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="335592"/>
+  </node>
   <node id="-1965" visible="true" lat="44.72660624" lon="-73.10597407">
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:street" v="Webster Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="335913"/>
+  </node>
+  <node id="-1966" visible="true" lat="44.68655269" lon="-73.1084303">
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336385"/>
+  </node>
+  <node id="-1967" visible="true" lat="44.68637295" lon="-73.10759161">
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337022"/>
   </node>
   <node id="-1968" visible="true" lat="44.71898646" lon="-73.1719214">
     <tag k="addr:housenumber" v="289"/>
@@ -12107,6 +12149,84 @@
     <tag k="addr:street" v="Bronson Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656473"/>
+  </node>
+  <node id="-2143" visible="true" lat="44.68755993" lon="-73.10854556">
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656541"/>
+  </node>
+  <node id="-2144" visible="true" lat="44.68719098" lon="-73.10864678">
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656542"/>
+  </node>
+  <node id="-2146" visible="true" lat="44.68722772" lon="-73.10818328">
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656544"/>
+  </node>
+  <node id="-2147" visible="true" lat="44.68731461" lon="-73.10815567">
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656545"/>
+  </node>
+  <node id="-2148" visible="true" lat="44.68708061" lon="-73.1076518">
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656546"/>
+  </node>
+  <node id="-2149" visible="true" lat="44.68712992" lon="-73.10764331">
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656547"/>
+  </node>
+  <node id="-2150" visible="true" lat="44.68717927" lon="-73.10762731">
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656548"/>
+  </node>
+  <node id="-2151" visible="true" lat="44.68654028" lon="-73.10836224">
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656549"/>
+  </node>
+  <node id="-2152" visible="true" lat="44.68652169" lon="-73.10823294">
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656550"/>
+  </node>
+  <node id="-2153" visible="true" lat="44.68650397" lon="-73.10814118">
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656551"/>
+  </node>
+  <node id="-2154" visible="true" lat="44.68635743" lon="-73.10750313">
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656552"/>
+  </node>
+  <node id="-2155" visible="true" lat="44.68633768" lon="-73.10739183">
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656553"/>
+  </node>
+  <node id="-2156" visible="true" lat="44.68632106" lon="-73.10729407">
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656554"/>
   </node>
   <node id="-2158" visible="true" lat="44.74175119" lon="-73.18913221">
     <tag k="addr:housenumber" v="329"/>

@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-10001190" visible="true" lat="44.95263683" lon="-72.13189125">
-    <!-- conflict: "124 Main St Derby Center, , VT" No match in OSM, but a different address exists <5m away: "124 Main Street, Derby, VT" -->
-    <tag k="addr:housenumber" v="124"/>
-    <tag k="addr:street" v="Main St Derby Center"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="82892"/>
-  </node>
-  <node id="-1001102" visible="true" lat="42.9099279" lon="-73.11977962">
+  <node id="-102" visible="true" lat="42.9099279" lon="-73.11977962">
     <!-- conflict: "109 Bickford Hollow Road, Woodford, VT" No match in OSM, but a different address exists <5m away: "107 Bickford Hollow Road, Woodford, VT" -->
     <tag k="addr:city" v="Woodford"/>
     <tag k="addr:housenumber" v="109"/>
