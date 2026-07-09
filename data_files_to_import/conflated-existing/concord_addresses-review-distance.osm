@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-605" visible="true" lat="44.42544807" lon="-71.75452693">
-    <!-- offset: "66 Cedar Street, , VT" Significant offset - 2955.1m -->
+  <node id="-605" visible="true" lat="44.425457098359" lon="-71.754527880447">
+    <!-- offset: "66 Cedar Street, Lunenburg, VT" Significant offset - 2955.6m -->
+    <tag k="addr:city" v="Lunenburg"/>
     <tag k="addr:housenumber" v="66"/>
     <tag k="addr:street" v="Cedar Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="76754"/>
   </node>
-  <node id="-612" visible="true" lat="44.42530024" lon="-71.75404512">
-    <!-- offset: "48 Cedar Street, , VT" Significant offset - 2956.6m -->
+  <node id="-612" visible="true" lat="44.425309273317" lon="-71.754046073247">
+    <!-- offset: "48 Cedar Street, Lunenburg, VT" Significant offset - 2957.1m -->
+    <tag k="addr:city" v="Lunenburg"/>
     <tag k="addr:housenumber" v="48"/>
     <tag k="addr:street" v="Cedar Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="76761"/>
   </node>
-  <node id="-854" visible="true" lat="44.45622916" lon="-71.86992095">
-    <!-- offset: "23 Wendel Road, , VT" Significant offset - 202.7m -->
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Wendel Road"/>
+  <node id="-976" visible="true" lat="44.428333153965" lon="-71.751986565983">
+    <!-- offset: "2717 Oregon Road, Lunenburg, VT" Significant offset - 911m -->
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="2717"/>
+    <tag k="addr:street" v="Oregon Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="77005"/>
+    <tag k="ref:vcgi:esiteid" v="365554"/>
   </node>
 </osm>

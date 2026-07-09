@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-690" visible="true" lat="44.663123998763" lon="-72.221208633153">
+    <!-- duplicates-in-different-towns: "1397 Shadow Lake Road, Glover, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 617078: "1397 Shadow Lake Road, , VT" -->
+    <tag k="addr:city" v="Glover"/>
+    <tag k="addr:housenumber" v="1397"/>
+    <tag k="addr:street" v="Shadow Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="112313"/>
+  </node>
+  <node id="-903" visible="true" lat="44.701818574271" lon="-72.287550399395">
+    <!-- duplicates-in-different-towns: "410 Andersonville Road, West Glover, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 325746: "410 Andersonville Road, , VT" -->
+    <tag k="addr:city" v="West Glover"/>
+    <tag k="addr:housenumber" v="410"/>
+    <tag k="addr:street" v="Andersonville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="448953"/>
+  </node>
+  <node id="-904" visible="true" lat="44.701454381601" lon="-72.287568754092">
+    <!-- duplicates-in-different-towns: "408 Andersonville Road, West Glover, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 448952: "408 Andersonville Road, , VT" -->
+    <tag k="addr:city" v="West Glover"/>
+    <tag k="addr:housenumber" v="408"/>
+    <tag k="addr:street" v="Andersonville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="448954"/>
+  </node>
+  <node id="-933" visible="true" lat="44.662783357831" lon="-72.221391416665">
+    <!-- duplicates-in-different-towns: "1399 Shadow Lake Road, Glover, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 112313: "1399 Shadow Lake Road, , VT" -->
+    <tag k="addr:city" v="Glover"/>
+    <tag k="addr:housenumber" v="1399"/>
+    <tag k="addr:street" v="Shadow Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617078"/>
+  </node>
+</osm>

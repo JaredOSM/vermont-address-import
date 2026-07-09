@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-686" visible="true" lat="44.98180921" lon="-73.29800874">
+  <node id="-483" visible="true" lat="44.893650546874" lon="-73.304481369453">
+    <!-- multiple: "1580 Vermont Route 129, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="1580"/>
+    <tag k="addr:street" v="Vermont Route 129"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2089"/>
+  </node>
+  <node id="-686" visible="true" lat="44.98181829075" lon="-73.298010246036">
     <!-- multiple: "353 North Main Street, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="353"/>
@@ -8,7 +16,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2298"/>
   </node>
-  <node id="-693" visible="true" lat="44.97899072" lon="-73.29806282">
+  <node id="-693" visible="true" lat="44.97899979225" lon="-73.298064326335">
     <!-- multiple: "45 Champlain Street, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="45"/>
@@ -16,7 +24,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2305"/>
   </node>
-  <node id="-1221" visible="true" lat="44.8580808" lon="-73.28951345">
+  <node id="-1221" visible="true" lat="44.858089852508" lon="-73.289514944014">
     <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="218"/>
@@ -24,7 +32,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2880"/>
   </node>
-  <node id="-1222" visible="true" lat="44.85817617" lon="-73.28949056">
+  <node id="-1222" visible="true" lat="44.858185221464" lon="-73.289492056545">
     <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="218"/>
@@ -32,7 +40,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2881"/>
   </node>
-  <node id="-1223" visible="true" lat="44.85827535" lon="-73.28946005">
+  <node id="-1223" visible="true" lat="44.85828440199" lon="-73.289461538726">
     <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="218"/>
@@ -40,7 +48,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2882"/>
   </node>
-  <node id="-1224" visible="true" lat="44.85839361" lon="-73.28943716">
+  <node id="-1224" visible="true" lat="44.858402658651" lon="-73.289438651349">
     <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="218"/>
@@ -48,7 +56,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2883"/>
   </node>
-  <node id="-1225" visible="true" lat="44.85850805" lon="-73.28939901">
+  <node id="-1225" visible="true" lat="44.858517099986" lon="-73.289400503843">
     <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="218"/>
@@ -56,7 +64,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2884"/>
   </node>
-  <node id="-1226" visible="true" lat="44.85863523" lon="-73.2893504">
+  <node id="-1226" visible="true" lat="44.858644280458" lon="-73.289351889759">
     <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="218"/>
@@ -64,7 +72,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2885"/>
   </node>
-  <node id="-1227" visible="true" lat="44.85881035" lon="-73.28931515">
+  <node id="-1227" visible="true" lat="44.858819408056" lon="-73.289316644788">
     <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="218"/>
@@ -72,7 +80,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2886"/>
   </node>
-  <node id="-1228" visible="true" lat="44.8589248" lon="-73.28925412">
+  <node id="-1228" visible="true" lat="44.858933849152" lon="-73.289255608841">
     <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="218"/>
@@ -80,7 +88,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2887"/>
   </node>
-  <node id="-1345" visible="true" lat="44.92016601" lon="-73.274971">
+  <node id="-1345" visible="true" lat="44.920175079477" lon="-73.27497250132">
     <!-- multiple: "19 Goose Point, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="19"/>
@@ -88,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3009"/>
   </node>
-  <node id="-1354" visible="true" lat="44.90295818" lon="-73.27299881">
+  <node id="-1354" visible="true" lat="44.902967250992" lon="-73.273000307376">
     <!-- multiple: "20 Bruleys Trailer Park, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="20"/>
@@ -96,7 +104,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3018"/>
   </node>
-  <node id="-1356" visible="true" lat="44.90318449" lon="-73.27307695">
+  <node id="-1356" visible="true" lat="44.903193553911" lon="-73.273078439526">
     <!-- multiple: "18 Bruleys Trailer Park, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="18"/>
@@ -104,7 +112,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3020"/>
   </node>
-  <node id="-1730" visible="true" lat="44.96409961" lon="-73.24367081">
+  <node id="-1730" visible="true" lat="44.964108684894" lon="-73.243672304249">
     <!-- multiple: "6 H Street, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="6"/>
@@ -112,7 +120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="333510"/>
   </node>
-  <node id="-1835" visible="true" lat="44.96428034" lon="-73.24365118">
+  <node id="-1835" visible="true" lat="44.964289420325" lon="-73.243652671713">
     <!-- multiple: "6 H Street, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="6"/>
@@ -120,7 +128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339669"/>
   </node>
-  <node id="-2097" visible="true" lat="44.90228393" lon="-73.27302686">
+  <node id="-2097" visible="true" lat="44.902292991721" lon="-73.273028349009">
     <!-- multiple: "20 Bruleys Trailer Park, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="20"/>
@@ -128,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="618590"/>
   </node>
-  <node id="-2123" visible="true" lat="44.9033021" lon="-73.27308136">
+  <node id="-2123" visible="true" lat="44.90331115724" lon="-73.273082850763">
     <!-- multiple: "18 Bruleys Trailer Park, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="18"/>

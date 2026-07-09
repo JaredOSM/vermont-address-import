@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-318" visible="true" lat="44.753430934407" lon="-72.677423447132">
+    <!-- duplicates-in-different-towns: "576 Bog Road, Belvidere Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 656467: "576 Bog Road, Belvidere, VT" -->
+    <tag k="addr:city" v="Belvidere Center"/>
+    <tag k="addr:housenumber" v="576"/>
+    <tag k="addr:street" v="Bog Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365694"/>
+  </node>
+  <node id="-366" visible="true" lat="44.778237857545" lon="-72.620961448199">
+    <!-- duplicates-in-different-towns: "55 Burroughs Way, Belvidere Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 446083: "55 Burroughs Way, Belvidere, VT" -->
+    <tag k="addr:city" v="Belvidere Center"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Burroughs Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773574"/>
+  </node>
+</osm>

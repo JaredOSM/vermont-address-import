@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1884" visible="true" lat="42.80732491554" lon="-72.662681854536">
+    <!-- duplicates-in-different-towns: "4565 Hinesburg Road, Brattleboro, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772955: "4565 Hinesburg Road, Guilford, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="4565"/>
+    <tag k="addr:street" v="Hinesburg Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772954"/>
+  </node>
+</osm>

@@ -1,59 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-151" visible="true" lat="43.66466573" lon="-73.0105934">
-    <!-- offset: "267 Crestway Drive, , VT" Significant offset - 719.3m -->
-    <tag k="addr:housenumber" v="267"/>
-    <tag k="addr:street" v="Crestway Drive"/>
+  <node id="-1302" visible="true" lat="43.603365999873" lon="-73.005317891554">
+    <!-- offset: "46 Ripley Road, Rutland, VT" Significant offset - 102.5m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Ripley Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213770"/>
+    <tag k="ref:vcgi:esiteid" v="214952"/>
   </node>
-  <node id="-500" visible="true" lat="43.63909197" lon="-72.98792384">
-    <!-- offset: "871 McKinley Avenue, , VT" Significant offset - 251.3m -->
-    <tag k="addr:housenumber" v="871"/>
-    <tag k="addr:street" v="McKinley Avenue"/>
+  <node id="-1952" visible="true" lat="43.590232066719" lon="-72.940482290069">
+    <!-- offset: "240 Stratton Road, Rutland, VT" Significant offset - 1647.6m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:street" v="Stratton Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="214121"/>
-  </node>
-  <node id="-1241" visible="true" lat="43.60554854" lon="-72.93785147">
-    <!-- offset: "272 Notch Road, , VT" Significant offset - 329.9m -->
-    <tag k="addr:housenumber" v="272"/>
-    <tag k="addr:street" v="Notch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="214879"/>
-  </node>
-  <node id="-1572" visible="true" lat="43.58244335" lon="-72.96653974">
-    <!-- offset: "50 Diamond Run Mall Place, , VT" Significant offset - 327.6m -->
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Diamond Run Mall Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215254"/>
-  </node>
-  <node id="-1871" visible="true" lat="43.66693604" lon="-72.9806482">
-    <!-- offset: "151 Oak Ridge Place, , VT" Significant offset - 162m -->
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Oak Ridge Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341241"/>
-  </node>
-  <node id="-1889" visible="true" lat="43.66409123" lon="-73.01176753">
-    <!-- offset: "269 Crestway Drive, , VT" Significant offset - 694.7m -->
-    <tag k="addr:housenumber" v="269"/>
-    <tag k="addr:street" v="Crestway Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450330"/>
-  </node>
-  <node id="-1891" visible="true" lat="43.58080932" lon="-72.96425534">
-    <!-- offset: "2 Diamond Run Mall Place, , VT" Significant offset - 171.4m -->
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Diamond Run Mall Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453880"/>
-  </node>
-  <node id="-1951" visible="true" lat="43.66294831" lon="-72.97529742">
-    <!-- offset: "450 Blueberry Lane, , VT" Significant offset - 1727.7m -->
-    <tag k="addr:housenumber" v="450"/>
-    <tag k="addr:street" v="Blueberry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="758618"/>
+    <tag k="ref:vcgi:esiteid" v="758851"/>
   </node>
 </osm>

@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1369" visible="true" lat="44.60376708" lon="-72.56634925">
+  <node id="-1497" visible="true" lat="44.585005939641" lon="-72.544890978433">
     <tag k="addr:city" v="Hyde Park"/>
-    <tag k="addr:housenumber" v="354"/>
-    <tag k="addr:street" v="Tenney Hill Road"/>
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Beam Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326677"/>
+    <tag k="ref:vcgi:esiteid" v="500045"/>
+  </node>
+  <node id="-1499" visible="true" lat="44.583505154706" lon="-72.544998912444">
+    <tag k="addr:city" v="Hyde Park"/>
+    <tag k="addr:housenumber" v="191"/>
+    <tag k="addr:street" v="Beam Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="500052"/>
+  </node>
+  <node id="-1658" visible="true" lat="44.586204641913" lon="-72.532366791434">
+    <tag k="addr:city" v="Hyde Park"/>
+    <tag k="addr:housenumber" v="405"/>
+    <tag k="addr:street" v="Applecheek Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773788"/>
   </node>
 </osm>

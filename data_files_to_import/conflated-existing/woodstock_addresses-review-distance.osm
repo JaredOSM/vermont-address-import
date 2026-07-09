@@ -1,31 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-252" visible="true" lat="43.63430698" lon="-72.51854391">
-    <!-- offset: "69 Old River Road, , VT" Significant offset - 290.1m -->
+  <node id="-252" visible="true" lat="43.634315850576" lon="-72.518545067559">
+    <!-- offset: "69 Old River Road, Woodstock, VT" Significant offset - 290.9m -->
+    <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="69"/>
     <tag k="addr:street" v="Old River Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302674"/>
-  </node>
-  <node id="-2652" visible="true" lat="43.63248394" lon="-72.59268449">
-    <!-- offset: "797 Gabert Road, , VT" Significant offset - 173.9m -->
-    <tag k="addr:housenumber" v="797"/>
-    <tag k="addr:street" v="Gabert Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341442"/>
-  </node>
-  <node id="-2656" visible="true" lat="43.63957443" lon="-72.4949109">
-    <!-- offset: "1321 Old River Road, , VT" Significant offset - 354.8m -->
-    <tag k="addr:housenumber" v="1321"/>
-    <tag k="addr:street" v="Old River Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341499"/>
-  </node>
-  <node id="-2664" visible="true" lat="43.59641556" lon="-72.49262614">
-    <!-- offset: "1564 Dunham Hill Road, , VT" Significant offset - 217.5m -->
-    <tag k="addr:housenumber" v="1564"/>
-    <tag k="addr:street" v="Dunham Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="342593"/>
   </node>
 </osm>

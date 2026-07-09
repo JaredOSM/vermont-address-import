@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-103" visible="true" lat="44.42740588" lon="-72.0967943">
-    <!-- offset: "696 Parker Road, , VT" Significant offset - 246.4m -->
-    <tag k="addr:housenumber" v="696"/>
-    <tag k="addr:street" v="Parker Road"/>
+  <node id="-792" visible="true" lat="44.410836651325" lon="-72.143502360074">
+    <!-- offset: "148 Peacham Road, Danville, VT" Significant offset - 117m -->
+    <tag k="addr:city" v="Danville"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Peacham Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18334"/>
+    <tag k="ref:vcgi:esiteid" v="81009"/>
   </node>
-  <node id="-1625" visible="true" lat="44.37106967" lon="-72.12526181">
-    <!-- offset: "3737 Thaddeus Stevens Road, , VT" Significant offset - 125.3m -->
-    <tag k="addr:housenumber" v="3737"/>
-    <tag k="addr:street" v="Thaddeus Stevens Road"/>
+  <node id="-890" visible="true" lat="44.409065562309" lon="-72.194895507008">
+    <!-- offset: "12 Vermont Route 15, West Danville, VT" Significant offset - 6894.3m -->
+    <tag k="addr:city" v="West Danville"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Vermont Route 15"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="365516"/>
+    <tag k="ref:vcgi:esiteid" v="81112"/>
   </node>
-  <node id="-1638" visible="true" lat="44.39191941" lon="-72.20219854">
-    <!-- offset: "1128 Woodward Road, , VT" Significant offset - 161.9m -->
-    <tag k="addr:housenumber" v="1128"/>
-    <tag k="addr:street" v="Woodward Road"/>
+  <node id="-1234" visible="true" lat="44.422065226168" lon="-72.115060498895">
+    <!-- offset: "24 Old Stagecoach Road, Danville, VT" Significant offset - 287.1m -->
+    <tag k="addr:city" v="Danville"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Old Stagecoach Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="365635"/>
+    <tag k="ref:vcgi:esiteid" v="81462"/>
   </node>
 </osm>

@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1123" visible="true" lat="44.9860794" lon="-72.57986308">
-    <!-- offset: "298 Stevens Mills Slide Road, Richford, VT" Significant offset - 2603.5m -->
+  <node id="-341" visible="true" lat="44.999053679951" lon="-72.675568050712">
+    <!-- offset: "45 River Street, Richford, VT" Significant offset - 315.1m -->
+    <tag k="addr:city" v="Richford"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="199323"/>
+  </node>
+  <node id="-342" visible="true" lat="44.999050611528" lon="-72.674956977712">
+    <!-- offset: "57 River Street, Richford, VT" Significant offset - 264.5m -->
+    <tag k="addr:city" v="Richford"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="199324"/>
+  </node>
+  <node id="-1123" visible="true" lat="44.98608850342" lon="-72.579864343173">
+    <!-- offset: "298 Stevens Mills Slide Road, Richford, VT" Significant offset - 2604.5m -->
     <tag k="addr:city" v="Richford"/>
     <tag k="addr:housenumber" v="298"/>
     <tag k="addr:street" v="Stevens Mills Slide Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343906"/>
   </node>
-  <node id="-1251" visible="true" lat="44.95657351" lon="-72.65113979">
-    <!-- offset: "285 Wightman Hill Road, Richford, VT" Significant offset - 149m -->
+  <node id="-1167" visible="true" lat="44.967752282694" lon="-72.660295451553">
+    <!-- offset: "273 Guilmette Road, Richford, VT" Significant offset - 244.3m -->
+    <tag k="addr:city" v="Richford"/>
+    <tag k="addr:housenumber" v="273"/>
+    <tag k="addr:street" v="Guilmette Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656525"/>
+  </node>
+  <node id="-1251" visible="true" lat="44.956582605332" lon="-72.651141072">
+    <!-- offset: "285 Wightman Hill Road, Richford, VT" Significant offset - 149.2m -->
     <tag k="addr:city" v="Richford"/>
     <tag k="addr:housenumber" v="285"/>
     <tag k="addr:street" v="Wightman Hill Road"/>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1037" visible="true" lat="44.978196839796" lon="-72.983566732052">
+    <!-- duplicates-in-different-towns: "1042 Bouchard Road, Highgate Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 752333: "1042 Bouchard Road, , VT" -->
+    <tag k="addr:city" v="Highgate Center"/>
+    <tag k="addr:housenumber" v="1042"/>
+    <tag k="addr:street" v="Bouchard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752332"/>
+  </node>
+</osm>

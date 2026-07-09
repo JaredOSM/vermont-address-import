@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1083" visible="true" lat="44.47695055" lon="-72.69267593">
+  <node id="-101" visible="true" lat="44.514159963999" lon="-72.683897668254">
+    <!-- conflict: "61 Bedell Farm Road, Morrisville, VT" Fuzzy match to "61 Bedell Farm Road, Stowe, VT" -->
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Bedell Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="170689"/>
+  </node>
+  <node id="-1082" visible="true" lat="44.476959556027" lon="-72.692677196001">
     <!-- conflict: "269 Weeks Hill Road, Stowe, VT" No match in OSM, but a different address exists <5m away: "133 Percy Park, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="269"/>
@@ -8,7 +16,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250415"/>
   </node>
-  <node id="-1092" visible="true" lat="44.47724152" lon="-72.6926896">
+  <node id="-1091" visible="true" lat="44.477250526514" lon="-72.692690865067">
     <!-- conflict: "271 Weeks Hill Road, Stowe, VT" No match in OSM, but a different address exists <5m away: "134 Percy Park, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="271"/>
@@ -16,20 +24,92 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250424"/>
   </node>
-  <node id="-1675" visible="true" lat="44.46078291" lon="-72.666466">
-    <!-- conflict: "909 Taber Hill Road, Stowe, VT" No match in OSM, but a different address exists <5m away: "109 Trillium Way, Stowe, VT" -->
+  <node id="-1160" visible="true" lat="44.474834413232" lon="-72.695768883995">
+    <!-- conflict: "117 Outbound Way, Stowe, VT" No match in OSM, but a different address exists <5m away: "882 Mountain Road, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="909"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Outbound Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250498"/>
+  </node>
+  <node id="-1167" visible="true" lat="44.474692458162" lon="-72.669223375868">
+    <!-- conflict: "41 Brookside Drive, Stowe, VT" No match in OSM, but a different address exists <5m away: "1100 Pucker Street, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Brookside Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250506"/>
+  </node>
+  <node id="-1673" visible="true" lat="44.460791912667" lon="-72.666467254062">
+    <!-- conflict: "109 Taber Hill Road, Stowe, VT" No match in OSM, but a different address exists <5m away: "109 Trillium Way, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="109"/>
     <tag k="addr:street" v="Taber Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="251082"/>
   </node>
-  <node id="-1693" visible="true" lat="44.45989371" lon="-72.66606384">
-    <!-- conflict: "917 Taber Hill Road, Stowe, VT" No match in OSM, but a different address exists <5m away: "46 Trillium Way, Stowe, VT" -->
+  <node id="-1691" visible="true" lat="44.45990271998" lon="-72.666065095382">
+    <!-- conflict: "46 Taber Hill Road, Stowe, VT" No match in OSM, but a different address exists <5m away: "46 Trillium Way, Stowe, VT" -->
     <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="917"/>
+    <tag k="addr:housenumber" v="46"/>
     <tag k="addr:street" v="Taber Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="251101"/>
+  </node>
+  <node id="-2063" visible="true" lat="44.44510968247" lon="-72.678943993744">
+    <!-- conflict: "206 Dutton Mill Way, Stowe, VT" No match in OSM, but a different address exists <5m away: "617 Covered Bridge Road, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="206"/>
+    <tag k="addr:street" v="Dutton Mill Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251493"/>
+  </node>
+  <node id="-2082" visible="true" lat="44.444136661294" lon="-72.678918394708">
+    <!-- conflict: "136 Dutton Mill Way, Stowe, VT" No match in OSM, but a different address exists <5m away: "615 Covered Bridge Road, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Dutton Mill Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251513"/>
+  </node>
+  <node id="-2095" visible="true" lat="44.443546647092" lon="-72.679275207859">
+    <!-- conflict: "78 Dutton Mill Way, Stowe, VT" No match in OSM, but a different address exists <5m away: "611 Covered Bridge Road, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Dutton Mill Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251527"/>
+  </node>
+  <node id="-2118" visible="true" lat="44.442713134635" lon="-72.680452127838">
+    <!-- conflict: "16 Dutton Mill Way, Stowe, VT" No match in OSM, but a different address exists <5m away: "619 Covered Bridge Road, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Dutton Mill Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251552"/>
+  </node>
+  <node id="-3013" visible="true" lat="44.478461510716" lon="-72.721106045092">
+    <!-- conflict: "108 Mountain Road, Stowe, VT" No match in OSM, but a different address exists <5m away: "2366 Mountain Road, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340356"/>
+  </node>
+  <node id="-3349" visible="true" lat="44.474560265603" lon="-72.69537790337">
+    <!-- conflict: "70 Outbound Way, Stowe, VT" No match in OSM, but a different address exists <5m away: "880 Mountain Road, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Outbound Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450434"/>
+  </node>
+  <node id="-3864" visible="true" lat="44.530446797697" lon="-72.816751740513">
+    <!-- conflict: "4410 Toll Road, Underhill, VT" Fuzzy match to "4410 Toll Road, Stowe, VT" -->
+    <tag k="addr:city" v="Underhill"/>
+    <tag k="addr:housenumber" v="4410"/>
+    <tag k="addr:street" v="Toll Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767475"/>
   </node>
 </osm>

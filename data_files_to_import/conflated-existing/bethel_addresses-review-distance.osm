@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-332" visible="true" lat="43.83857247" lon="-72.64131266">
-    <!-- offset: "16 Highland Avenue, , VT" Significant offset - 9111.7m -->
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Highland Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="24241"/>
-  </node>
-  <node id="-1138" visible="true" lat="43.8241296" lon="-72.76307274">
-    <!-- offset: "887 New Boston Road, , VT" Significant offset - 348.7m -->
-    <tag k="addr:housenumber" v="887"/>
-    <tag k="addr:street" v="New Boston Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="448939"/>
-  </node>
-  <node id="-1152" visible="true" lat="43.89928872" lon="-72.66700031">
-    <!-- offset: "572 Spooner Road, , VT" Significant offset - 159.9m -->
+  <node id="-1152" visible="true" lat="43.89929762496" lon="-72.667001525998">
+    <!-- offset: "572 Spooner Road, Randolph, VT" Significant offset - 159m -->
+    <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="572"/>
     <tag k="addr:street" v="Spooner Road"/>
     <tag k="addr:state" v="VT"/>
