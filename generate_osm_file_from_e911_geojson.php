@@ -295,14 +295,6 @@ if($print_errors_at_end) {
     } else {
         fwrite(STDERR, "no errors\n");
     }
-    // show esiteids that were found on the exclude list
-    if(count($excluded_output) > 0) {
-        fwrite(STDERR, "\n----------EXCLUDED ESITEIDS----------\n");
-
-        foreach($excluded_output as $excluded_esiteid) {
-            fwrite(STDERR, "Excluded esiteid: " . $excluded_esiteid . "\n");
-        }
-    }
 }
 
 ///////////////////////////////////////////
