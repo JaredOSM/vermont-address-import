@@ -59,7 +59,7 @@ if (is_object($data) && $data->type == "FeatureCollection") {
     if (is_object($feature) && $feature->type == "Feature") {
       $i++;
 
-      $town = $feature->properties->Inc_Muni;
+      $town = ucwords(strtolower($feature->properties->Inc_Muni));
       if (empty($town)) {
         die ("Missing Inc_Muni in ".json_encode($feature));
       }
@@ -85,6 +85,7 @@ if (is_object($data) && $data->type == "FeatureCollection") {
 $townFiles = [];
 $i = 0;
 foreach ($towns as $town => $features) {
+  fwrite(STDERR, count($features) . " features in $town\n");
   ksort($features);
   $i++;
   $townFile = openTownFile($town);
