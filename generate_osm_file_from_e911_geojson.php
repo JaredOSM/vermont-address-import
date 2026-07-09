@@ -21,7 +21,7 @@ $help = "
 ";
 
 #options
-$options = getopt("h", ["help", "output-type::"], $reset_index);
+$options = getopt("hv", ["help", "verbose", "output-type::"], $reset_index);
 if ($options === FALSE || isset($options["h"]) || isset($options["help"])) {
   fwrite(STDERR, $help);
   exit(1);
