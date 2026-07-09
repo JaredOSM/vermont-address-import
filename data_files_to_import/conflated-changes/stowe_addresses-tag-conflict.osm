@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1083" visible="true" lat="44.47695055" lon="-72.69267593">
+    <!-- conflict: "269 Weeks Hill Road, Stowe, VT" No match in OSM, but a different address exists <5m away: "133 Percy Park, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="269"/>
+    <tag k="addr:street" v="Weeks Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250415"/>
+  </node>
+  <node id="-1092" visible="true" lat="44.47724152" lon="-72.6926896">
+    <!-- conflict: "271 Weeks Hill Road, Stowe, VT" No match in OSM, but a different address exists <5m away: "134 Percy Park, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="271"/>
+    <tag k="addr:street" v="Weeks Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250424"/>
+  </node>
+  <node id="-1675" visible="true" lat="44.46078291" lon="-72.666466">
+    <!-- conflict: "909 Taber Hill Road, Stowe, VT" No match in OSM, but a different address exists <5m away: "109 Trillium Way, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="909"/>
+    <tag k="addr:street" v="Taber Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251082"/>
+  </node>
+  <node id="-1693" visible="true" lat="44.45989371" lon="-72.66606384">
+    <!-- conflict: "917 Taber Hill Road, Stowe, VT" No match in OSM, but a different address exists <5m away: "46 Trillium Way, Stowe, VT" -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="917"/>
+    <tag k="addr:street" v="Taber Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251101"/>
+  </node>
+</osm>

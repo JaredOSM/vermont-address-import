@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-112" visible="true" lat="44.28132933" lon="-72.43780188">
+    <!-- conflict: "8 Loop Road, , VT" No match in OSM, but a different address exists <5m away: " Loop Road, Plainfield, VT" -->
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Loop Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="188863"/>
+  </node>
+</osm>

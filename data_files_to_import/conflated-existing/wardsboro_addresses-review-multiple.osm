@@ -21,4 +21,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="270742"/>
   </node>
+  <node id="-745" visible="true" lat="43.00990295" lon="-72.76708984">
+    <!-- multiple: "944 Newfane Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="944"/>
+    <tag k="addr:street" v="Newfane Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="270952"/>
+  </node>
+  <node id="-747" visible="true" lat="43.00992744" lon="-72.76836275">
+    <!-- multiple: "907 Newfane Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="907"/>
+    <tag k="addr:street" v="Newfane Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="270954"/>
+  </node>
 </osm>

@@ -70,6 +70,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="17246"/>
   </node>
+  <node id="-1410" visible="true" lat="42.88729909" lon="-73.20020916">
+    <!-- multiple: "344 North Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="344"/>
+    <tag k="addr:street" v="North Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="17459"/>
+  </node>
   <node id="-1701" visible="true" lat="42.88406232" lon="-73.19649363">
     <!-- multiple: "251 North Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="251"/>
@@ -104,6 +111,13 @@
     <tag k="addr:street" v="Caroline Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="18283"/>
+  </node>
+  <node id="-2184" visible="true" lat="42.88182345" lon="-73.19849152">
+    <!-- multiple: "135 Depot Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="18321"/>
   </node>
   <node id="-2202" visible="true" lat="42.88191103" lon="-73.17626424">
     <!-- multiple: "9 Caroline Drive, , VT" Multiple exact matches in OSM. -->

@@ -49,13 +49,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="167381"/>
   </node>
-  <node id="-501" visible="true" lat="44.25058909" lon="-72.76163873">
-    <!-- multiple: "1147 Vermont Route 100B, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1147"/>
-    <tag k="addr:street" v="Vermont Route 100B"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167531"/>
-  </node>
   <node id="-543" visible="true" lat="44.24754136" lon="-72.76261474">
     <!-- multiple: "940 Vermont Route 100B, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="940"/>
@@ -69,12 +62,5 @@
     <tag k="addr:street" v="Herring Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="167653"/>
-  </node>
-  <node id="-888" visible="true" lat="44.24809343" lon="-72.76147896">
-    <!-- multiple: "79 School Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="School Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450662"/>
   </node>
 </osm>

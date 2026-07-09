@@ -1,9 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-10002145" visible="true" lat="44.6871516" lon="-73.108199">
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="Guilder Lane"/>
+  <node id="-10001652" visible="true" lat="44.8886081" lon="-73.2995646">
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Vermont Route 129"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="656543"/>
+    <tag k="ref:vcgi:esiteid" v="307192"/>
+  </node>
+  <node id="-1001766" visible="true" lat="43.78931852" lon="-72.65090449">
+    <tag k="addr:housenumber" v="313"/>
+    <tag k="addr:street" v="Old Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6623"/>
+  </node>
+  <node id="-10026291" visible="true" lat="42.85095124" lon="-72.55669602">
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="36436"/>
+  </node>
+  <node id="-10033581" visible="true" lat="44.49656054" lon="-73.23467262">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Institute Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="46246"/>
+  </node>
+  <node id="-10033985" visible="true" lat="44.48792774" lon="-73.19924962">
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="436"/>
+    <tag k="addr:street" v="Riverside Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="46657"/>
+  </node>
+  <node id="-10042655" visible="true" lat="44.54495121" lon="-73.24614171">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="203"/>
+    <tag k="addr:street" v="Belwood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="72277"/>
+  </node>
+  <node id="-10045405" visible="true" lat="44.49361193" lon="-73.1640523">
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="425"/>
+    <tag k="addr:street" v="College Parkway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="75514"/>
+  </node>
+  <node id="-1005487" visible="true" lat="44.20018437" lon="-72.89304657">
+    <tag k="addr:housenumber" v="4614"/>
+    <tag k="addr:street" v="Battleground"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="106313"/>
+  </node>
+  <node id="-1005495" visible="true" lat="44.20010545" lon="-72.8941418">
+    <tag k="addr:housenumber" v="4606"/>
+    <tag k="addr:street" v="Battleground"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="106321"/>
+  </node>
+  <node id="-1005998" visible="true" lat="44.20049561" lon="-72.89296389">
+    <tag k="addr:housenumber" v="4636"/>
+    <tag k="addr:street" v="Battleground"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="106836"/>
+  </node>
+  <node id="-1006997" visible="true" lat="44.50204254" lon="-72.34813378">
+    <tag k="addr:housenumber" v="709"/>
+    <tag k="addr:street" v="Vermont Route 15 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119586"/>
+  </node>
+  <node id="-10071764" visible="true" lat="43.5922735" lon="-72.36225003">
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Clay Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656044"/>
+  </node>
+  <node id="-10081369" visible="true" lat="44.60376708" lon="-72.56634925">
+    <tag k="addr:city" v="Hyde Park"/>
+    <tag k="addr:housenumber" v="354"/>
+    <tag k="addr:street" v="Tenney Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326677"/>
+  </node>
+  <node id="-10092868" visible="true" lat="43.99232764" lon="-73.10769701">
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="1271"/>
+    <tag k="addr:street" v="Case Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="331620"/>
+  </node>
+  <node id="-1010276" visible="true" lat="44.33528137" lon="-72.18474578">
+    <tag k="addr:housenumber" v="276"/>
+    <tag k="addr:street" v="Hapenny Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="186130"/>
+  </node>
+  <node id="-1011899" visible="true" lat="43.13047581" lon="-72.542272">
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:street" v="Hitchcock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="204054"/>
+  </node>
+  <node id="-1012660" visible="true" lat="43.73483106" lon="-72.80786227">
+    <tag k="addr:city" v="Stockbridge"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="South Hill Road Pittsfield"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341542"/>
+  </node>
+  <node id="-1012725" visible="true" lat="43.73571024" lon="-72.80719386">
+    <tag k="addr:city" v="Stockbridge"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="South Hill Road Pittsfield"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764373"/>
+  </node>
+  <node id="-10131106" visible="true" lat="44.47761674" lon="-72.69235336">
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="273"/>
+    <tag k="addr:street" v="Weeks Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250438"/>
+  </node>
+  <node id="-10133870" visible="true" lat="44.47751047" lon="-72.69422754">
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="269"/>
+    <tag k="addr:street" v="Weeks Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768451"/>
+  </node>
+  <node id="-10141309" visible="true" lat="44.52303936" lon="-72.94287163">
+    <tag k="addr:city" v="Underhill"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Park Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341239"/>
   </node>
 </osm>

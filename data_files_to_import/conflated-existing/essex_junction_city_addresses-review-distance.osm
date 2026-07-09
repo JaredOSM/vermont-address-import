@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-564" visible="true" lat="44.49748478" lon="-73.10859083">
+    <!-- offset: "2 Educational Drive, Essex Junction, VT" Significant offset - 137.2m -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Educational Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="97296"/>
+  </node>
   <node id="-599" visible="true" lat="44.49671809" lon="-73.12806884">
     <!-- offset: "111 West Street, Essex Junction, VT" Significant offset - 114.7m -->
     <tag k="addr:city" v="Essex Junction"/>
@@ -8,24 +16,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="97344"/>
   </node>
-  <node id="-1052" visible="true" lat="44.49369811" lon="-73.09511566">
-    <!-- offset: "36 Brickyard Road, Essex Junction, VT" Significant offset - 115.6m -->
+  <node id="-1145" visible="true" lat="44.4930534" lon="-73.09600929">
+    <!-- offset: "36 Brickyard Road, Essex Junction, VT" Significant offset - 111.7m -->
     <tag k="addr:city" v="Essex Junction"/>
     <tag k="addr:housenumber" v="36"/>
     <tag k="addr:street" v="Brickyard Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="97958"/>
+    <tag k="ref:vcgi:esiteid" v="98080"/>
   </node>
-  <node id="-1087" visible="true" lat="44.49347686" lon="-73.0947113">
-    <!-- offset: "36 Brickyard Road, Essex Junction, VT" Significant offset - 102.3m -->
+  <node id="-1206" visible="true" lat="44.49265876" lon="-73.09530096">
+    <!-- offset: "36 Brickyard Road, Essex Junction, VT" Significant offset - 100.3m -->
     <tag k="addr:city" v="Essex Junction"/>
     <tag k="addr:housenumber" v="36"/>
     <tag k="addr:street" v="Brickyard Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="98007"/>
+    <tag k="ref:vcgi:esiteid" v="98166"/>
   </node>
   <node id="-2346" visible="true" lat="44.48645019" lon="-73.10546112">
-    <!-- offset: "43 Jackson Street, Essex Junction, VT" Significant offset - 124.6m -->
+    <!-- offset: "43 Jackson Street, Essex Junction, VT" Significant offset - 122m -->
     <tag k="addr:city" v="Essex Junction"/>
     <tag k="addr:housenumber" v="43"/>
     <tag k="addr:street" v="Jackson Street"/>
@@ -33,7 +41,7 @@
     <tag k="ref:vcgi:esiteid" v="99727"/>
   </node>
   <node id="-2359" visible="true" lat="44.48635287" lon="-73.10894625">
-    <!-- offset: "11 Jackson Street, Essex Junction, VT" Significant offset - 102m -->
+    <!-- offset: "11 Jackson Street, Essex Junction, VT" Significant offset - 104.4m -->
     <tag k="addr:city" v="Essex Junction"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Jackson Street"/>

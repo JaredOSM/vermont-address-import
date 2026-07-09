@@ -392,6 +392,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="95627"/>
   </node>
+  <node id="-1214" visible="true" lat="44.50991198" lon="-73.13591536">
+    <!-- multiple: "4 Morse Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Morse Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95636"/>
+  </node>
+  <node id="-1234" visible="true" lat="44.50974229" lon="-73.14055748">
+    <!-- multiple: "22 Morse Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Morse Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95666"/>
+  </node>
   <node id="-1243" visible="true" lat="44.51000134" lon="-73.0646549">
     <!-- multiple: "97 Center Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="97"/>

@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-255" visible="true" lat="43.60732639" lon="-72.40276495">
+    <!-- offset: "30 Ocean View Drive, , VT" Significant offset - 160.3m -->
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Ocean View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125080"/>
+  </node>
+  <node id="-1366" visible="true" lat="43.54720325" lon="-72.49095319">
+    <!-- offset: "100 Dodge Lane, , VT" Significant offset - 382.3m -->
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Dodge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126212"/>
+  </node>
   <node id="-1590" visible="true" lat="43.62156456" lon="-72.42698364">
     <!-- offset: "775 Sugar House Road, , VT" Significant offset - 286.8m -->
     <tag k="addr:housenumber" v="775"/>
     <tag k="addr:street" v="Sugar House Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126443"/>
+  </node>
+  <node id="-1621" visible="true" lat="43.60776019" lon="-72.40081733">
+    <!-- offset: "32 Ocean View Drive, , VT" Significant offset - 183.9m -->
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Ocean View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126483"/>
+  </node>
+  <node id="-1622" visible="true" lat="43.6090349" lon="-72.4022318">
+    <!-- offset: "31 Ocean View Drive, , VT" Significant offset - 215.6m -->
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Ocean View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126484"/>
   </node>
   <node id="-1661" visible="true" lat="43.54300394" lon="-72.51906281">
     <!-- offset: "1161 Morgan Hill Road, , VT" Significant offset - 885m -->

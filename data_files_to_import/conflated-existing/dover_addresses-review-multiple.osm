@@ -35,6 +35,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="85858"/>
   </node>
+  <node id="-316" visible="true" lat="42.94409728" lon="-72.86434399">
+    <!-- multiple: "2 Country Club Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Country Club Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="85861"/>
+  </node>
   <node id="-539" visible="true" lat="42.95251218" lon="-72.87650986">
     <!-- multiple: "6 Chipmunk Lane, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="6"/>

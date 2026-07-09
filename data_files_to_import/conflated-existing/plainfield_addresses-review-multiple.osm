@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-128" visible="true" lat="44.27907299" lon="-72.43844542">
+    <!-- multiple: "123 Pitkin Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Pitkin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="188881"/>
+  </node>
   <node id="-149" visible="true" lat="44.27860769" lon="-72.42463591">
     <!-- multiple: "61 School Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="61"/>

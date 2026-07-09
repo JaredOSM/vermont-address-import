@@ -1501,7 +1501,6 @@
     <tag k="ref:vcgi:esiteid" v="295631"/>
   </node>
   <node id="-352" visible="true" lat="43.48745618" lon="-72.40300916">
-    <!-- match: "289 County Road, , VT"  ignoring missing state when matching to "289 County Road, Windsor, " -->
     <tag k="addr:housenumber" v="289"/>
     <tag k="addr:street" v="County Road"/>
     <tag k="addr:state" v="VT"/>

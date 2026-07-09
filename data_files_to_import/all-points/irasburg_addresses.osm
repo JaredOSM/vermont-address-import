@@ -2760,8 +2760,8 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="133915" />
   </node>
-  <node id="-560" visible="true" lat="44.83810217" lon="-72.29017982">
-    <tag k="addr:housenumber" v="1730" />
+  <node id="-560" visible="true" lat="44.83811125" lon="-72.29018098">
+    <tag k="addr:housenumber" v="1780" />
     <tag k="addr:street" v="Vermont Route 14" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="133916" />
@@ -4062,13 +4062,31 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="772292" />
   </node>
-  <node id="-797" visible="true" lat="44.77586199" lon="-72.25449365">
+  <node id="-797" visible="true" lat="44.75780788" lon="-72.25563357">
+    <tag k="addr:housenumber" v="2576" />
+    <tag k="addr:street" v="West Glover Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="773039" />
+  </node>
+  <node id="-798" visible="true" lat="44.83792947" lon="-72.29059216">
+    <tag k="addr:housenumber" v="1782" />
+    <tag k="addr:street" v="Vermont Route 14" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="773057" />
+  </node>
+  <node id="-799" visible="true" lat="44.83745463" lon="-72.29041248">
+    <tag k="addr:housenumber" v="1784" />
+    <tag k="addr:street" v="Vermont Route 14" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="773058" />
+  </node>
+  <node id="-800" visible="true" lat="44.77586199" lon="-72.25449365">
     <tag k="addr:housenumber" v="11" />
     <tag k="addr:street" v="Chadburn Drive" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="900235" />
   </node>
-  <node id="-798" visible="true" lat="44.80261511" lon="-72.27908466">
+  <node id="-801" visible="true" lat="44.80261511" lon="-72.27908466">
     <tag k="addr:housenumber" v="97" />
     <tag k="addr:street" v="Park Avenue" />
     <tag k="addr:state" v="VT" />

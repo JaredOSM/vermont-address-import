@@ -168,6 +168,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="228371"/>
   </node>
+  <node id="-1331" visible="true" lat="44.46224143" lon="-73.17375126">
+    <!-- multiple: "21 Iby Street, South Burlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Iby Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="228386"/>
+  </node>
+  <node id="-1338" visible="true" lat="44.46216511" lon="-73.17414514">
+    <!-- multiple: "23 Iby Street, South Burlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Iby Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="228394"/>
+  </node>
   <node id="-1370" visible="true" lat="44.46186554" lon="-73.15258094">
     <!-- multiple: "1877 Williston Road, South Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Burlington"/>
@@ -616,22 +632,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229759"/>
   </node>
-  <node id="-2472" visible="true" lat="44.44499617" lon="-73.15787098">
-    <!-- multiple: "896 Hinesburg Road, South Burlington, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="896"/>
-    <tag k="addr:street" v="Hinesburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229795"/>
-  </node>
-  <node id="-2486" visible="true" lat="44.44495301" lon="-73.15819838">
-    <!-- multiple: "896 Hinesburg Road, South Burlington, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="896"/>
-    <tag k="addr:street" v="Hinesburg Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229810"/>
-  </node>
   <node id="-2501" visible="true" lat="44.44457856" lon="-73.20918105">
     <!-- multiple: "794 Shelburne Road, South Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Burlington"/>
@@ -864,6 +864,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="231461"/>
   </node>
+  <node id="-3887" visible="true" lat="44.42201724" lon="-73.2139669">
+    <!-- multiple: "123 Nesti Drive, South Burlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Nesti Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="231466"/>
+  </node>
   <node id="-3888" visible="true" lat="44.42217415" lon="-73.21269361">
     <!-- multiple: "1835 Shelburne Road, South Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Burlington"/>
@@ -927,6 +935,14 @@
     <tag k="addr:street" v="Shelburne Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="231565"/>
+  </node>
+  <node id="-3968" visible="true" lat="44.44322954" lon="-73.21262551">
+    <!-- multiple: "935 Shelburne Road, South Burlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="935"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="231576"/>
   </node>
   <node id="-4008" visible="true" lat="44.48175811" lon="-73.17060089">
     <!-- multiple: "1015 Airport Parkway, South Burlington, VT" Multiple exact matches in OSM. -->
@@ -1047,6 +1063,14 @@
     <tag k="addr:street" v="Williston Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="231751"/>
+  </node>
+  <node id="-4154" visible="true" lat="44.46729808" lon="-73.17689054">
+    <!-- multiple: "61 Dattilio Drive, South Burlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Dattilio Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="231785"/>
   </node>
   <node id="-4455" visible="true" lat="44.41465467" lon="-73.17882719">
     <!-- multiple: "8 Catkin Drive, South Burlington, VT" Multiple exact matches in OSM. -->

@@ -133,6 +133,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="150211"/>
   </node>
+  <node id="-1245" visible="true" lat="43.17406474" lon="-73.05139626">
+    <!-- multiple: "342 Depot Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="342"/>
+    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="150250"/>
+  </node>
   <node id="-1265" visible="true" lat="43.17376907" lon="-73.06041267">
     <!-- multiple: "4604 Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="4604"/>

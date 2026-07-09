@@ -14,13 +14,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168604"/>
   </node>
-  <node id="-102" visible="true" lat="44.59766114" lon="-72.64910356">
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="2930"/>
-    <tag k="addr:street" v="Cote Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168605"/>
-  </node>
   <node id="-103" visible="true" lat="44.59472087" lon="-72.63805755">
     <tag k="addr:city" v="Morrisville"/>
     <tag k="addr:housenumber" v="440"/>
@@ -15484,10 +15477,10 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328845"/>
   </node>
-  <node id="-2323" visible="true" lat="44.48996186" lon="-72.62052834">
+  <node id="-2323" visible="true" lat="44.48997087" lon="-72.62052959">
     <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="8058"/>
-    <tag k="addr:street" v="Elmore Mountain Road"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Small Time Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328847"/>
   </node>
@@ -15827,10 +15820,10 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337821"/>
   </node>
-  <node id="-2373" visible="true" lat="44.49082798" lon="-72.61943622">
+  <node id="-2373" visible="true" lat="44.49083699" lon="-72.61943747">
     <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="8070"/>
-    <tag k="addr:street" v="Elmore Mountain Road"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Small Time Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338162"/>
   </node>
@@ -15840,6 +15833,13 @@
     <tag k="addr:street" v="Sun Valley Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339193"/>
+  </node>
+  <node id="-2375" visible="true" lat="44.4892914" lon="-72.6195738">
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Small Time Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339358"/>
   </node>
   <node id="-2376" visible="true" lat="44.55276845" lon="-72.60059028">
     <tag k="addr:city" v="Morrisville"/>
@@ -20089,6 +20089,13 @@
     <tag k="addr:street" v="White Birch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="772081"/>
+  </node>
+  <node id="-3028" visible="true" lat="44.4903529" lon="-72.62023474">
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Small Time Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772302"/>
   </node>
   <node id="-3032" visible="true" lat="44.48555097" lon="-72.60130619">
     <tag k="addr:city" v="Morrisville"/>

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-545" visible="true" lat="42.97741317" lon="-73.17646026">
+    <!-- multiple: "957 Trumbull Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="957"/>
+    <tag k="addr:street" v="Trumbull Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="217828"/>
+  </node>
   <node id="-720" visible="true" lat="42.96225993" lon="-73.22024369">
     <!-- multiple: "983 Myers Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="983"/>

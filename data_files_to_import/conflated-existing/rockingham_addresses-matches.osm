@@ -4614,12 +4614,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="204052"/>
   </node>
-  <node id="-899" visible="true" lat="43.12901655" lon="-72.54338164">
-    <tag k="addr:housenumber" v="500"/>
-    <tag k="addr:street" v="Hitchcock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="204054"/>
-  </node>
   <node id="-900" visible="true" lat="43.18463173" lon="-72.51402919">
     <tag k="addr:housenumber" v="696"/>
     <tag k="addr:street" v="Pleasant Valley Road"/>
@@ -5400,79 +5394,85 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="772839"/>
   </node>
-  <node id="-1052" visible="true" lat="43.13854275" lon="-72.53132882">
+  <node id="-1052" visible="true" lat="43.12898344" lon="-72.54340129">
+    <tag k="addr:housenumber" v="510"/>
+    <tag k="addr:street" v="Hitchcock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773052"/>
+  </node>
+  <node id="-1053" visible="true" lat="43.13854275" lon="-72.53132882">
     <tag k="addr:housenumber" v="796"/>
     <tag k="addr:street" v="Saxtons River Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="800072"/>
   </node>
-  <node id="-1053" visible="true" lat="43.1792648" lon="-72.47888086">
+  <node id="-1054" visible="true" lat="43.1792648" lon="-72.47888086">
     <tag k="addr:housenumber" v="972"/>
     <tag k="addr:street" v="Rockingham Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="900325"/>
   </node>
-  <node id="-1054" visible="true" lat="43.13582014" lon="-72.47737501">
+  <node id="-1055" visible="true" lat="43.13582014" lon="-72.47737501">
     <tag k="addr:housenumber" v="359"/>
     <tag k="addr:street" v="Interstate 91 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050225"/>
   </node>
-  <node id="-1055" visible="true" lat="43.14478008" lon="-72.51000428">
+  <node id="-1056" visible="true" lat="43.14478008" lon="-72.51000428">
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:street" v="Shepard Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050226"/>
   </node>
-  <node id="-1056" visible="true" lat="43.14603895" lon="-72.51002205">
+  <node id="-1057" visible="true" lat="43.14603895" lon="-72.51002205">
     <tag k="addr:housenumber" v="159"/>
     <tag k="addr:street" v="Shepard Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050228"/>
   </node>
-  <node id="-1057" visible="true" lat="43.14996443" lon="-72.47500245">
+  <node id="-1058" visible="true" lat="43.14996443" lon="-72.47500245">
     <tag k="addr:housenumber" v="309"/>
     <tag k="addr:street" v="Interstate 91 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050229"/>
   </node>
-  <node id="-1058" visible="true" lat="43.16152546" lon="-72.46480436">
+  <node id="-1059" visible="true" lat="43.16152546" lon="-72.46480436">
     <tag k="addr:housenumber" v="258"/>
     <tag k="addr:street" v="Interstate 91 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050230"/>
   </node>
-  <node id="-1059" visible="true" lat="43.17587978" lon="-72.46300558">
+  <node id="-1060" visible="true" lat="43.17587978" lon="-72.46300558">
     <tag k="addr:housenumber" v="207"/>
     <tag k="addr:street" v="Interstate 91 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050231"/>
   </node>
-  <node id="-1060" visible="true" lat="43.17289199" lon="-72.45737024">
+  <node id="-1061" visible="true" lat="43.17289199" lon="-72.45737024">
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Imtec Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050232"/>
   </node>
-  <node id="-1061" visible="true" lat="43.19007699" lon="-72.46040475">
+  <node id="-1062" visible="true" lat="43.19007699" lon="-72.46040475">
     <tag k="addr:housenumber" v="158"/>
     <tag k="addr:street" v="Interstate 91 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050233"/>
   </node>
-  <node id="-1062" visible="true" lat="43.20368883" lon="-72.45680156">
+  <node id="-1063" visible="true" lat="43.20368883" lon="-72.45680156">
     <tag k="addr:housenumber" v="108"/>
     <tag k="addr:street" v="Interstate 91 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050530"/>
   </node>
-  <node id="-1063" visible="true" lat="43.22260112" lon="-72.45388731">
+  <node id="-1064" visible="true" lat="43.22260112" lon="-72.45388731">
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="Interstate 91 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050531"/>
   </node>
-  <node id="-1064" visible="true" lat="43.2311412" lon="-72.44935596">
+  <node id="-1065" visible="true" lat="43.2311412" lon="-72.44935596">
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="Interstate 91 South"/>
     <tag k="addr:state" v="VT"/>

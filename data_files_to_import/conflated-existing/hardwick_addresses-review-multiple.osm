@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-523" visible="true" lat="44.51348359" lon="-72.37218835">
+    <!-- multiple: "82 Vermont Route 15 West, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Vermont Route 15 West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119062"/>
+  </node>
   <node id="-602" visible="true" lat="44.50910615" lon="-72.37287574">
     <!-- multiple: "439 Wolcott Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="439"/>
@@ -13,6 +20,20 @@
     <tag k="addr:street" v="Hazen Union Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119166"/>
+  </node>
+  <node id="-722" visible="true" lat="44.50661266" lon="-72.36744014">
+    <!-- multiple: "127 West Church Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="West Church Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119281"/>
+  </node>
+  <node id="-745" visible="true" lat="44.50607503" lon="-72.36497232">
+    <!-- multiple: "123 North Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119305"/>
   </node>
   <node id="-866" visible="true" lat="44.50429125" lon="-72.36629497">
     <!-- multiple: "9 South Main Street, , VT" Multiple exact matches in OSM. -->

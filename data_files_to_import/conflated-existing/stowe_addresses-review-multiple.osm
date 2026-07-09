@@ -16,14 +16,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249877"/>
   </node>
-  <node id="-1083" visible="true" lat="44.47695055" lon="-72.69267593">
-    <!-- multiple: "269 Weeks Hill Road, Stowe, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="269"/>
-    <tag k="addr:street" v="Weeks Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="250415"/>
-  </node>
   <node id="-1091" visible="true" lat="44.47707655" lon="-72.71540534">
     <!-- multiple: "140 Cottage Club Road, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
@@ -119,6 +111,14 @@
     <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250878"/>
+  </node>
+  <node id="-1511" visible="true" lat="44.46521151" lon="-72.68708356">
+    <!-- multiple: "18 Main Street, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250893"/>
   </node>
   <node id="-1521" visible="true" lat="44.46517563" lon="-72.6874772">
     <!-- multiple: "1 South Main Street, Stowe, VT" Multiple exact matches in OSM. -->

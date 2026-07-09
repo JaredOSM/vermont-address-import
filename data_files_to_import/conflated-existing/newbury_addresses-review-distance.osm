@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-190" visible="true" lat="44.15884399" lon="-72.17536926">
+    <!-- offset: "504 Grapes Road, , VT" Significant offset - 113.4m -->
+    <tag k="addr:housenumber" v="504"/>
+    <tag k="addr:street" v="Grapes Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="173521"/>
+  </node>
   <node id="-230" visible="true" lat="44.15273352" lon="-72.1366329">
     <!-- offset: "8276 Scotch Hollow Road, , VT" Significant offset - 319m -->
     <tag k="addr:housenumber" v="8276"/>
@@ -43,7 +50,7 @@
     <tag k="ref:vcgi:esiteid" v="174591"/>
   </node>
   <node id="-1201" visible="true" lat="44.08204102" lon="-72.12061198">
-    <!-- offset: "361 Sanderlin Drive, , VT" Significant offset - 207.8m -->
+    <!-- offset: "361 Sanderlin Drive, , VT" Significant offset - 167.4m -->
     <tag k="addr:housenumber" v="361"/>
     <tag k="addr:street" v="Sanderlin Drive"/>
     <tag k="addr:state" v="VT"/>
