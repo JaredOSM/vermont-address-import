@@ -183,9 +183,9 @@ foreach($data['features'] as $feature) {
     }
 
     if(!empty($feature['properties']['Post_Code'])) {
-        $zip_code = $feature['properties']['Post_Code'];
+        $post_code = $feature['properties']['Post_Code'];
     } else {
-        $zip_code = NULL;
+        $post_code = NULL;
         $feature_errors[] = "Post_Code value is empty (esiteid: " . $esiteid . ")";
     }
 
@@ -231,8 +231,9 @@ foreach($data['features'] as $feature) {
         if (!empty($place)) {
             $output .= "    <tag k=\"addr:place\" v=\"" . $place . "\" />\n";
         }
-        // ZIP codes in E911 may not be correct.
-        // $output .= "    <tag k=\"addr:postcode\" v=\"" . $zip_code . "\" />\n";
+        if (!empty($post_code)) {
+          $output .= "    <tag k=\"addr:postcode\" v=\"" . $post_code . "\" />\n";
+        }
         $output .= "    <tag k=\"addr:state\" v=\"VT\" />\n";
         $output .= "    <tag k=\"ref:vcgi:esiteid\" v=\"" . $esiteid . "\" />\n";
         // use this tag in the changeset tags instead of node tag
@@ -248,7 +249,7 @@ foreach($data['features'] as $feature) {
         $output .= $house_number . "\t";
         $output .= $unit . "\t";
         $output .= $street . "\t";
-        // $output .= $zip_code . "\t";
+        $output .= $post_code . "\t";
         $output .= $esiteid . "\n";
 
     } elseif(count($feature_errors) == 0 && $output_type == "geojson") {
@@ -263,6 +264,9 @@ foreach($data['features'] as $feature) {
           $properties["city"] = $postal_community;
         }
         $properties["state"] = "VT";
+        if (!empty($post_code)) {
+          $properties["postcode"] = $post_code;
+        }
         $properties["esiteid"] = strval($esiteid);
         $geometry = array("type" => "Point", "coordinates" => $coordinates);
         $feature = array("type" => "Feature", "properties" => $properties, "geometry" => $geometry);
