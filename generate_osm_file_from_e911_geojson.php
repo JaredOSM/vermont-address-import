@@ -163,7 +163,7 @@ foreach($data['features'] as $feature) {
 
     } else {
         $house_number = NULL;
-        $feature_errors[] = "Add_Number is invalid: " . print_r($feature['properties'], true) . " (esiteid: " . $esiteid . ")";
+        $feature_errors[] = "Add_Number is invalid: " . json_encode($feature['properties']) . " (esiteid: " . $esiteid . ")";
     }
 
     if(!empty($feature['properties']['St_Name'])) {
