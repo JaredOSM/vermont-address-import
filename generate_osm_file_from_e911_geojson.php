@@ -352,7 +352,11 @@ function build_street_name($feature_properties) {
     if (!empty($feature_properties['St_PreTyp'])) {
         $value = trim($feature_properties['St_PreTyp']);
         if (!empty($value)) {
-            $streetNameParts[] = $value;
+            if ($value == "United States Route") {
+              $streetNameParts[] = "U.S. Route";
+            } else {
+              $streetNameParts[] = $value;
+            }
         }
     }
 
@@ -424,6 +428,10 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
 
     // OSM shows "U.S. Route #" where was e911 has US Route 5
     if(preg_match('/us route (.+)/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "U.S. Route " . $matches[1];
+    }
+    // OSM shows "U.S. Route #" where new e911 has United States Route 5
+    if(preg_match('/united states route (.+)/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "U.S. Route " . $matches[1];
     }
 
